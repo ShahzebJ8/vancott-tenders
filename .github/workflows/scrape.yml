@@ -1,0 +1,46 @@
+name: Scrape tenders
+
+on:
+  schedule:
+    # Every 30 minutes. GitHub cron is UTC; this runs regardless of timezone.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:        # lets you trigger a run by hand from the website
+
+# Needed so the workflow can commit the refreshed tenders.json back to the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false   # never cut a run short mid-write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scrapers
+        run: python scraper/run.py --max-pages 60
+
+      - name: Commit new tenders
+        run: |
+          git config user.name  "vancott-tender-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No change this run."
+          else
+            git commit -m "tenders: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            # Another run may have committed while we worked; rebase, don't clobber.
+            git pull --rebase --autostash origin ${{ github.ref_name }}
+            git push
+          fi

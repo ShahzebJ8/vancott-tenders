@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark splash ground so launch does not flash white before Compose draws. -->
+    <style name="Theme.VancottTenders" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/void_ground</item>
+        <item name="android:statusBarColor">@color/void_ground</item>
+        <item name="android:navigationBarColor">@color/void_ground</item>
+    </style>
+</resources>
