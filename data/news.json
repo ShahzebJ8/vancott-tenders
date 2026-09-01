@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-01T12:43:58+00:00",
- "count": 50,
- "relevant_count": 14,
+ "generated": "2026-09-01T17:11:59+00:00",
+ "count": 54,
+ "relevant_count": 16,
  "domestic_count": 14,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (8)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (7)"
  },
  "stories": [
@@ -14,7 +14,7 @@
    "title": "Pakistan rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40437399/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-01T12:11:05+00:00",
+   "published": "2026-09-01T13:55:07+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Tuesday. The local unit closed the day at 277.46, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.47 against the dollar. Meanwhile, the yen steadied near the 160-per-dollar level on Tuesday. The U.S. dollar w…",
    "image": "https://i.brecorder.com/large/2026/09/011509404dd9834.webp",
    "topics": [
@@ -194,12 +194,78 @@
    "domestic": true
   },
   {
-   "title": "Pakistan's August inflation rises 11.15%, statistics bureau says",
-   "url": "https://www.brecorder.com/news/40437417/pakistans-august-inflation-rises-1115-statistics-bureau-says",
+   "title": "Naya Nazimabad Apartment REIT book-building fully subscribed 'within first hour'",
+   "url": "https://www.brecorder.com/news/40437432/naya-nazimabad-apartment-reit-book-building-fully-subscribed-within-first-hour",
    "source": "Business Recorder",
-   "published": "2026-09-01T12:40:14+00:00",
-   "summary": "Pakistan’s consumer price index (CPI) rose 11.15% year-on-year in August, up sharply from 9.2% in July, data from the country’s statistics bureau showed on Tuesday. The latest reading issued by the Pakistan Bureau of Statistics (PBS) compares with 3.1% inflation recorded in August 2025, marking a significant increase o…",
+   "published": "2026-09-01T15:50:51+00:00",
+   "summary": "The book-building portion of the Naya Nazimabad Apartment REIT (NNAR) received good response from institutional and high-net-worth investors, with the offering becoming fully subscribed within the first hour of bidding, reflecting strong investor appetite for Pakistan’s growing REIT market, a statement said on Tuesday.…",
+   "image": "https://i.brecorder.com/large/2026/09/012050264ccc2bd.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "KSE-100 Index closes over 500 points lower after volatile trading",
+   "url": "https://www.brecorder.com/news/40437362/kse-100-index-closes-over-500-points-lower-after-volatile-trading",
+   "source": "Business Recorder",
+   "published": "2026-09-01T13:46:24+00:00",
+   "summary": "The Pakistan Stock Exchange’s (PSX) benchmark KSE-100 Index closed with over 500 points loss after volatile trading on Tuesday. The KSE-100 Index starting the session positive, hitting an intra-day high of 177,800.28. However, selling was witnessed in the latter hours, which pushed the index to an intra-day low of 176,…",
+   "image": "https://i.brecorder.com/large/2026/09/01100554a1af6eb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf equities mixed amid escalating US-Iran conflict; Qatar gains",
+   "url": "https://www.brecorder.com/news/40437425/gulf-equities-mixed-amid-escalating-us-iran-conflict-qatar-gains",
+   "source": "Business Recorder",
+   "published": "2026-09-01T13:45:31+00:00",
+   "summary": "BENGALURU: Gulf stock markets ended mixed on Tuesday as renewed military action between the U.S. and Iran weighed on investor sentiment, while Qatar’s index bucked the trend, supported by higher oil prices. U.S. President Donald Trump threatened further strikes against Iran on Monday following the first direct exchange…",
+   "image": "https://i.brecorder.com/large/2026/09/01184447e0758cb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's current account widens marginally in April-June, RBI data shows",
+   "url": "https://www.brecorder.com/news/40437423/indias-current-account-widens-marginally-in-april-june-rbi-data-shows",
+   "source": "Business Recorder",
+   "published": "2026-09-01T13:38:08+00:00",
+   "summary": "MUMBAI: India’s current account deficit widened marginally in the April-to-June quarter from a year ago on the back of higher commodity prices and a wider trade gap, the Reserve Bank of India said on Tuesday. The gap stood at $4.2 billion, or 0.5% of GDP, in the first quarter of the fiscal year 2026-27, compared with a…",
+   "image": "https://i.brecorder.com/large/2026/09/01183752300d567.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan inflation clocks in at 11.1% in August 2026",
+   "url": "https://www.brecorder.com/news/40437417/pakistan-inflation-clocks-in-at-111-in-august-2026",
+   "source": "Business Recorder",
+   "published": "2026-09-01T13:09:37+00:00",
+   "summary": "Pakistan’s headline inflation clocked in at 11.1% on a year-on-year (YoY) basis in August 2026, up from 9.2% recorded in July, as shown by Pakistan Bureau of Statistics (PBS) data on Tuesday. The consumer price index (CPI) was recorded at 3.1% in August 2025. On month-on-month basis, it remained unchanged at 1.2% in Au…",
    "image": "https://i.brecorder.com/large/2026/09/01173136c00bc19.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Tribhovandas Bhimji Zaveri soars to record high on growth optimism after GRT Jewellers deal",
+   "url": "https://www.brecorder.com/news/40437420/tribhovandas-bhimji-zaveri-soars-to-record-high-on-growth-optimism-after-grt-jewellers-deal",
+   "source": "Business Recorder",
+   "published": "2026-09-01T12:44:17+00:00",
+   "summary": "Tribhovandas Bhimji Zaveri’s shares surged to a record high on Tuesday after GRT Jewellers agreed to acquire a controlling stake in the jewellery retailer, with investors expecting the deal to boost TBZ’s growth prospects. Shares of the company jumped nearly 20%to a record 366.80 rupees, hitting their exchange-allowed …",
+   "image": "https://i.brecorder.com/large/2026/09/01174349245a1fc.webp",
    "topics": [
     "Economy"
    ],
@@ -324,12 +390,12 @@
    "domestic": false
   },
   {
-   "title": "Fauji Foundation acquires majority stake in Askari General Insurance",
-   "url": "https://www.brecorder.com/news/40437396/fauji-foundation-acquires-majority-stake-in-askari-general-insurance",
+   "title": "UK 10-year gilt yields hit highest since 2008 as Iran war reignites inflation fears",
+   "url": "https://www.brecorder.com/news/40437390/uk-10-year-gilt-yields-hit-highest-since-2008-as-iran-war-reignites-inflation-fears",
    "source": "Business Recorder",
-   "published": "2026-09-01T08:17:24+00:00",
-   "summary": "Fauji Foundation (FF) has acquired a 51% shareholding and control in Askari General Insurance Company Limited (AGICL) from Army Welfare Trust (AWT), following the execution of the transaction on August 28, 2026. Askari General Insurance disclosed the development in a filing to the Pakistan Stock Exchange (PSX) on Tuesd…",
-   "image": "https://i.brecorder.com/large/2026/09/011316521e00d28.webp",
+   "published": "2026-09-01T07:52:55+00:00",
+   "summary": "LONDON: British 10-year government bond yields rose to their highest since 2008 on Tuesday, tracking a rising in borrowing costs globally as another increase in oil prices reignited concerns about inflation. The gilts market was also playing catch up with moves elsewhere, following Monday’s UK public holiday. Ten-year …",
+   "image": "https://i.brecorder.com/large/2026/09/01125244b66f708.webp",
    "topics": [
     "Economy"
    ],
@@ -337,12 +403,12 @@
    "domestic": false
   },
   {
-   "title": "UK 10-year gilt yields hit highest since 2008 as Iran war reignites inflation fears",
-   "url": "https://www.brecorder.com/news/40437390/uk-10-year-gilt-yields-hit-highest-since-2008-as-iran-war-reignites-inflation-fears",
-   "source": "Business Recorder",
-   "published": "2026-09-01T07:52:55+00:00",
-   "summary": "LONDON: British 10-year government bond yields rose to their highest since 2008 on Tuesday, tracking a rising in borrowing costs globally as another increase in oil prices reignited concerns about inflation. The gilts market was also playing catch up with moves elsewhere, following Monday’s UK public holiday. Ten-year …",
-   "image": "https://i.brecorder.com/large/2026/09/01125244b66f708.webp",
+   "title": "PSX tumbles 509 points as selling pressure grips market",
+   "url": "https://tribune.com.pk/story/2626906/psx-tumbles-509-points-as-selling-pressure-grips-market",
+   "source": "The Express Tribune",
+   "published": "2026-09-01T07:24:41+00:00",
+   "summary": "KSE-100 Index surrenders early gains as banks and cement stocks lead losses; oil gains on renewed US-Iran hostilities",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -448,19 +514,6 @@
    "published": "2026-09-01T05:52:46+00:00",
    "summary": "Australian shares fell on Tuesday, dragged down by losses in discretionary and technology stocks, as sentiment weakened amid renewed military clashes between the US and Iran and rising inflation worries. The S&P/ASX 200 index fell 0.4% to 9,040.30, as at 0055 GMT. The benchmark closed down 0.2% on Monday. Oil prices cl…",
    "image": "https://i.brecorder.com/large/2026/09/011052327ab83a0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Buying returns as KSE-100 gains over 400 points",
-   "url": "https://www.brecorder.com/news/40437362/psx-buying-returns-as-kse-100-gains-over-400-points",
-   "source": "Business Recorder",
-   "published": "2026-09-01T05:06:24+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 400 points during the opening minutes of trading on Tuesday. At 9:45am, the benchmark index was hovering at 177,444.32, a gain of 468.65 points or 0.26%. Buying was observed in key sectors, including automob…",
-   "image": "https://i.brecorder.com/large/2026/09/01100554a1af6eb.webp",
    "topics": [
     "Economy"
    ],
