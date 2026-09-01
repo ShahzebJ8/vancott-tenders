@@ -31,11 +31,33 @@ from core.models import clean                # noqa: E402
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "data" / "news.json"
 
+# Each publisher's own syndication feed. The publisher name travels with every
+# story and is shown on the story, and tapping a story opens it on their site.
+# Two more (Pakistan Today, The Nation) were tested and dropped: their servers
+# fail the TLS handshake, so they are simply unavailable rather than skipped.
+# Business and economy desks only. The general news feeds were dropped: they
+# carry crime, politics and sport, none of which affects a bid.
 FEEDS = [
-    ("Dawn Business", "https://www.dawn.com/feeds/business"),
+    ("Dawn", "https://www.dawn.com/feeds/business"),
     ("Business Recorder", "https://www.brecorder.com/feeds/latest-news"),
-    ("Dawn Pakistan", "https://www.dawn.com/feeds/pakistan"),
-    ("Dawn World", "https://www.dawn.com/feeds/world"),
+    ("Business Recorder", "https://www.brecorder.com/feeds/markets"),
+    ("The Express Tribune", "https://tribune.com.pk/feed/business"),
+    ("ARY News", "https://arynews.tv/category/business/feed/"),
+]
+
+# Even a business desk runs the occasional crime or celebrity story. Anything
+# matching these is dropped outright, whatever else it looks like.
+EXCLUDE = [
+    r"murder|killed|kill(?:ing|s)?|shot dead|dead body|corpse",
+    r"robbery|robbed|dacoit|mugg(?:ed|ing)|theft|stolen|burglar",
+    r"rape|assault|kidnap|abduct|harass",
+    r"blast|bomb|terror|militant|attack(?:ed|er)?|firing",
+    r"accident|crash|collision|injured|casualt",
+    r"cricket|football|hockey|match|series|tournament|wicket|innings",
+    r"film|movie|actor|actress|singer|drama|celebrit|wedding|engagement",
+    r"weather|monsoon|rainfall|earthquake|flood(?:s|ing)?",
+    r"horoscope|obituary|funeral",
+    r"arrest(?:ed)?|court\s+(?:remand|bail)|FIR|police",
 ]
 
 # Topics that actually move an outdoor-advertising and LED business.
@@ -70,6 +92,19 @@ TOPICS = {
 }
 
 
+# Words that make a story about Pakistan's own economy. Foreign market news is
+# kept rather than dropped - the oil price and the Fed do reach Pakistan - but
+# it is marked, so domestic decisions can lead.
+_DOMESTIC = re.compile(
+    r"pakistan|pakistani|PKR|rupee|FBR|SBP|state bank|"
+    r"KSE[- ]?100|PSX|karachi|lahore|islamabad|punjab|sindh|balochistan|"
+    r"khyber|CPEC|NEPRA|OGRA|PPRA|SNGPL|SSGC|"
+    r"WAPDA|PSDP|IMF.{0,40}pakistan|federal (?:budget|cabinet)|"
+    r"ECC|CCI|gwadar|LNG.{0,30}pakistan",
+    re.I,
+)
+
+
 @dataclass
 class Story:
     title: str
@@ -80,6 +115,7 @@ class Story:
     image: str | None = None
     topics: list[str] = field(default_factory=list)
     relevant: bool = False
+    domestic: bool = False
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -136,6 +172,16 @@ def fetch_feed(f: Fetcher, source: str, url: str) -> list[Story]:
             continue
         summary = _strip_html(item.description.text if item.description else None)
         topics = _topics_for(f"{title} {summary or ''}")
+        # Only economic and business material is kept. A story that matches no
+        # money topic, or that matches an excluded subject, is not carried at
+        # all - the point of this section is decisions that move money, not a
+        # general news reader.
+        blob = f"{title} {summary or ''}"
+        if any(re.search(p, blob, re.I) for p in EXCLUDE):
+            continue
+        if not topics:
+            continue
+
         stories.append(
             Story(
                 title=title,
@@ -147,6 +193,7 @@ def fetch_feed(f: Fetcher, source: str, url: str) -> list[Story]:
                 topics=topics,
                 # "Relevant" means it touches money the government is about to
                 # spend, or the industry itself - not just any business news.
+                domestic=bool(_DOMESTIC.search(blob)),
                 relevant=any(
                     t in topics
                     for t in ("Budget & spending", "Construction & projects",
@@ -173,9 +220,11 @@ def main() -> int:
             print(f"[error] {source:22} {type(e).__name__}: {e}")
 
     # De-duplicate: the same story often appears in more than one feed.
+    # Pakistani stories lead, then most recent first.
     seen: set[str] = set()
     unique: list[Story] = []
-    for s in sorted(all_stories, key=lambda x: x.published or "", reverse=True):
+    for s in sorted(all_stories,
+                    key=lambda x: (x.domestic, x.published or ""), reverse=True):
         key = re.sub(r"\W+", "", s.title.lower())[:70]
         if key in seen:
             continue
@@ -186,6 +235,7 @@ def main() -> int:
         "generated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "count": len(unique),
         "relevant_count": sum(1 for s in unique if s.relevant),
+        "domestic_count": sum(1 for s in unique if s.domestic),
         "sources": status,
         "stories": [s.to_dict() for s in unique],
     }

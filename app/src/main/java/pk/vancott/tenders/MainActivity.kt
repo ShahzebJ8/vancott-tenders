@@ -87,6 +87,7 @@ class MainActivity : ComponentActivity() {
                             }
 
                             Section.ALERTS -> AlertsScreen(vm) { section = Section.TENDERS }
+                            Section.MARKET -> IntelScreen(vm) { drawerOpen = true }
                             Section.NEWS -> NewsScreen(vm) { drawerOpen = true }
                             Section.ECONOMY -> EconomyScreen(vm) { drawerOpen = true }
                             Section.ABOUT -> AboutScreen(s) { drawerOpen = true }
@@ -107,6 +108,7 @@ class MainActivity : ComponentActivity() {
                                 Section.TENDERS to results.size,
                                 Section.SHORTLIST to s.notes.count { it.value.starred },
                                 Section.ALERTS to s.searches.size,
+                                Section.MARKET to (s.awards?.count ?: 0),
                                 Section.NEWS to (s.news?.stories?.size ?: 0),
                             ),
                             onPick = {

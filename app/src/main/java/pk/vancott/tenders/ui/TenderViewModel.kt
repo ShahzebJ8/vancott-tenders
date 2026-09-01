@@ -21,6 +21,7 @@ import pk.vancott.tenders.data.SavedSearch
 import pk.vancott.tenders.data.Tender
 import pk.vancott.tenders.data.TenderFeed
 import pk.vancott.tenders.data.TenderNote
+import pk.vancott.tenders.data.AwardFeed
 import pk.vancott.tenders.data.NewsFeed
 import pk.vancott.tenders.data.TenderRepository
 import pk.vancott.tenders.data.UserDataStore
@@ -60,6 +61,7 @@ data class UiState(
     // Which kind of notice is being shown. Comes from the portals, not from us.
     val stage: Stage = Stage.ACTIVE,
     val news: NewsFeed? = null,
+    val awards: AwardFeed? = null,
     val includeClosed: Boolean = true,
     val lastUpdated: Long = 0L,
     // User's own data, kept here so the list can show stars without a lookup.
@@ -99,10 +101,11 @@ class TenderViewModel(app: Application) : AndroidViewModel(app) {
                 repo.cachedFeed()?.also { warmCaches(it) }
             }
             val news = withContext(Dispatchers.IO) { repo.cachedNews() }
+            val awards = withContext(Dispatchers.IO) { repo.cachedAwards() }
             val data = withContext(Dispatchers.IO) { store.load() }
             _state.update {
                 it.copy(
-                    starting = false, feed = cached, news = news,
+                    starting = false, feed = cached, news = news, awards = awards,
                     lastUpdated = repo.lastUpdated,
                     notes = data.notes, searches = data.searches, people = data.people,
                 )
@@ -141,6 +144,8 @@ class TenderViewModel(app: Application) : AndroidViewModel(app) {
                     // affect the tender list.
                     runCatching { repo.refreshNews() }
                         .onSuccess { n -> _state.update { it.copy(news = n) } }
+                    runCatching { repo.refreshAwards() }
+                        .onSuccess { a -> _state.update { it.copy(awards = a) } }
                 }
                 .onFailure { e ->
                     // "Nothing changed" is a success: the feed had no new tenders.

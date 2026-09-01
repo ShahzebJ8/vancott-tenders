@@ -7,6 +7,7 @@ enum class Section(val label: String) {
     TENDERS("Tenders"),
     SHORTLIST("Shortlist"),
     ALERTS("Keyword alerts"),
+    MARKET("Market"),
     NEWS("News"),
     ECONOMY("Economy"),
     ABOUT("About"),

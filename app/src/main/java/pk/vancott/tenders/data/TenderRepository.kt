@@ -21,6 +21,9 @@ import java.util.zip.GZIPInputStream
 private val NEWS_URL =
     BuildConfig.FEED_URL.substringBeforeLast("/") + "/news.json"
 
+private val AWARDS_URL =
+    BuildConfig.FEED_URL.substringBeforeLast("/") + "/awards.json"
+
 
 class TenderRepository(private val context: Context) {
 
@@ -29,6 +32,7 @@ class TenderRepository(private val context: Context) {
     private val etagFile: File get() = File(context.filesDir, "tenders.etag")
     private val seenFile: File get() = File(context.filesDir, "seen_uids.txt")
     private val newsFile: File get() = File(context.filesDir, "news.json")
+    private val awardsFile: File get() = File(context.filesDir, "awards.json")
 
     class NotModified : Exception("Already up to date")
 
@@ -133,6 +137,40 @@ class TenderRepository(private val context: Context) {
             val body = raw.bufferedReader().use { it.readText() }
             val feed = json.decodeFromString<NewsFeed>(body)
             newsFile.writeText(body)
+            feed
+        } finally {
+            conn.disconnect()
+        }
+    }
+
+    // --- market data -------------------------------------------------------
+    // Contract awards and bid evaluations. Another separate file, for the same
+    // reason as news: it must never be able to stop tenders from loading.
+
+    fun cachedAwards(): AwardFeed? =
+        runCatching {
+            if (awardsFile.exists()) json.decodeFromString<AwardFeed>(awardsFile.readText())
+            else context.assets.open("awards.json").bufferedReader().use {
+                json.decodeFromString<AwardFeed>(it.readText())
+            }
+        }.getOrNull()
+
+    suspend fun refreshAwards(): AwardFeed = withContext(Dispatchers.IO) {
+        val conn = (URL(AWARDS_URL).openConnection() as HttpURLConnection).apply {
+            connectTimeout = 15_000
+            readTimeout = 45_000
+            setRequestProperty("Accept", "application/json")
+            setRequestProperty("Accept-Encoding", "gzip")
+            setRequestProperty("User-Agent", "TenderDesk/1.0 (Android)")
+        }
+        try {
+            if (conn.responseCode !in 200..299) error("Server returned " + conn.responseCode)
+            val raw = conn.inputStream.let {
+                if (conn.contentEncoding.equals("gzip", true)) GZIPInputStream(it) else it
+            }
+            val body = raw.bufferedReader().use { it.readText() }
+            val feed = json.decodeFromString<AwardFeed>(body)
+            awardsFile.writeText(body)
             feed
         } finally {
             conn.disconnect()

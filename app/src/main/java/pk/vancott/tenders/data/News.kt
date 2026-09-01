@@ -19,6 +19,8 @@ data class Story(
     val image: String? = null,
     val topics: List<String> = emptyList(),
     val relevant: Boolean = false,
+    /** About Pakistan's own economy, rather than a foreign market. */
+    val domestic: Boolean = false,
 )
 
 @Serializable
