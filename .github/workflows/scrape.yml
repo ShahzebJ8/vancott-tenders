@@ -32,6 +32,11 @@ jobs:
         run: python scraper/run.py --max-pages 60
 
       # News is separate and must never be able to fail the tender scrape.
+      # Contract awards: who won past work and for how much.
+      - name: Fetch contract awards
+        continue-on-error: true
+        run: python scraper/awards.py --max-pages 40
+
       - name: Fetch news
         continue-on-error: true
         run: python scraper/news.py
