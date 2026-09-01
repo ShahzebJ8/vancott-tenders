@@ -47,6 +47,7 @@ class Tender:
     last_seen: str = ""
     raw_row: Optional[str] = None    # verbatim source text, for audit
     detail: dict = field(default_factory=dict)   # detail-page fields (office, contact, procedure)
+    scan: dict = field(default_factory=dict)     # terms read out of the tender PDFs
 
     @property
     def uid(self) -> str:

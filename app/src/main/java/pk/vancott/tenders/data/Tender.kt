@@ -36,13 +36,41 @@ data class Tender(
     @SerialName("first_seen") val firstSeen: String = "",
     val detail: Map<String, String> = emptyMap(),
 ) {
-    /** Days until closing. Null when the source never stated a closing date. */
-    val daysLeft: Long?
-        get() = closing?.take(10)?.let {
+    /**
+     * Days until closing. Null when the source never stated a closing date.
+     *
+     * Computed ONCE per tender, not on every read. It used to be a plain getter,
+     * which meant parsing a date string again for every row on every scroll
+     * frame and every keystroke - 3,000 date parses per sort, several times a
+     * second. That was the scrolling and typing lag.
+     */
+    val daysLeft: Long? by lazy {
+        closing?.take(10)?.let {
             runCatching { ChronoUnit.DAYS.between(LocalDate.now(), LocalDate.parse(it)) }.getOrNull()
         }
+    }
 
-    val isClosed: Boolean get() = (daysLeft ?: 1L) < 0L
+    val isClosed: Boolean by lazy { (daysLeft ?: 1L) < 0L }
+
+    /** Sort key for "closing soonest"; undated tenders sort last. */
+    val closingSortKey: Long by lazy { daysLeft ?: Long.MAX_VALUE }
+
+    /**
+     * A pre-qualification notice: you are applying to be allowed to bid later,
+     * not bidding now.
+     *
+     * Decided only from words the source printed - its own tender type, its
+     * tags, or the title. Never inferred from anything else, because telling
+     * someone a live tender is "only a pre-qualification" would make them skip
+     * a real opportunity.
+     */
+    val isPrequalification: Boolean by lazy {
+        val text = listOfNotNull(
+            detail["tender_type"], category, title,
+        ).joinToString(" ").lowercase() + " " + tags.joinToString(" ").lowercase()
+        Regex("pre-?qualification|\\bpq\\b|\\beoi\\b|expression of interest")
+            .containsMatchIn(text)
+    }
 
     /** Everything a free-text search should look through. */
     val haystack: String by lazy {

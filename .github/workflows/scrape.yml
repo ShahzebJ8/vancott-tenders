@@ -31,6 +31,17 @@ jobs:
       - name: Run scrapers
         run: python scraper/run.py --max-pages 60
 
+      # News is separate and must never be able to fail the tender scrape.
+      - name: Fetch news
+        continue-on-error: true
+        run: python scraper/news.py
+
+      # Reads tender PDFs and stores the terms. Budgeted per run so a scrape
+      # never turns into an hour of downloading; the rest is picked up next time.
+      - name: Read tender documents
+        continue-on-error: true
+        run: python scraper/scan_docs.py --limit 60
+
       - name: Commit new tenders
         run: |
           git config user.name  "vancott-tender-bot"

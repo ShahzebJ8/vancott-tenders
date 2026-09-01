@@ -76,8 +76,10 @@ def _parse_row(tr, now: str) -> Tender | None:
         full = href if href.startswith("http") else BASE + href
         if "tender-details" in href:
             detail_url = full
-        else:
+        elif "/pdf?file=" in href:
             doc_urls.append(full)
+        # Anything else on this row (the "invoice" link) is a web page, not a
+        # document. Listing it as a document made the downloader fetch HTML.
 
     sector = badges[0] if badges else None
     city, province = locate(location, organisation, title)

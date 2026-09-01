@@ -8,27 +8,36 @@ import pk.vancott.tenders.BuildConfig
 import java.io.File
 import java.net.HttpURLConnection
 import java.net.URL
+import java.util.zip.GZIPInputStream
 
 /**
  * Fetches the tender feed and keeps a copy on disk.
  *
  * Offline-first on purpose: staff open this on site, on bad mobile data. The
- * cached feed loads instantly and a refresh happens behind it. A failed refresh
- * never blanks the screen - you keep yesterday's tenders and are told the
- * refresh failed, which is far more useful than an empty list.
+ * saved copy loads instantly and a refresh happens behind it. A failed refresh
+ * never blanks the screen - you keep the tenders you had, and are told the
+ * refresh failed.
  */
+private val NEWS_URL =
+    BuildConfig.FEED_URL.substringBeforeLast("/") + "/news.json"
+
+
 class TenderRepository(private val context: Context) {
 
     private val json = Json { ignoreUnknownKeys = true; coerceInputValues = true }
     private val cacheFile: File get() = File(context.filesDir, "tenders.json")
+    private val etagFile: File get() = File(context.filesDir, "tenders.etag")
     private val seenFile: File get() = File(context.filesDir, "seen_uids.txt")
+    private val newsFile: File get() = File(context.filesDir, "news.json")
+
+    class NotModified : Exception("Already up to date")
 
     /**
      * The feed to show right now: the downloaded copy if there is one,
      * otherwise the snapshot shipped inside the APK.
      *
-     * The bundled copy is what makes the app useful the moment it is installed
-     * - before any GitHub feed exists, and on a phone with no signal.
+     * The bundled copy is what makes the app useful the moment it is installed,
+     * and on a phone with no signal.
      */
     fun cachedFeed(): TenderFeed? = downloadedFeed() ?: bundledFeed()
 
@@ -47,24 +56,83 @@ class TenderRepository(private val context: Context) {
 
     val lastUpdated: Long get() = if (cacheFile.exists()) cacheFile.lastModified() else 0L
 
-    /** Downloads a fresh feed and caches it. Throws on failure so the caller
-     *  can report *why* rather than silently showing stale data. */
+    /**
+     * Downloads a fresh feed, but only if it actually changed.
+     *
+     * The server is told which version we already hold (ETag). If nothing has
+     * changed since, it replies "304" with an empty body - a few hundred bytes
+     * instead of three megabytes. Since the scraper only finds new tenders a few
+     * times a day, most background checks now cost almost no data and almost no
+     * battery.
+     *
+     * Throws NotModified when there is nothing new, so callers can tell
+     * "unchanged" apart from "failed".
+     */
     suspend fun refresh(): TenderFeed = withContext(Dispatchers.IO) {
         val conn = (URL(BuildConfig.FEED_URL).openConnection() as HttpURLConnection).apply {
             connectTimeout = 20_000
             readTimeout = 60_000
             setRequestProperty("Accept", "application/json")
-            setRequestProperty("User-Agent", "VancottTenders/1.0 (Android)")
+            setRequestProperty("Accept-Encoding", "gzip")
+            setRequestProperty("User-Agent", "TenderDesk/1.0 (Android)")
+            savedEtag()?.let { setRequestProperty("If-None-Match", it) }
         }
         try {
-            if (conn.responseCode !in 200..299) {
-                error("Server returned ${conn.responseCode}")
+            if (conn.responseCode == HttpURLConnection.HTTP_NOT_MODIFIED) {
+                throw NotModified()
             }
-            val body = conn.inputStream.bufferedReader().use { it.readText() }
+            if (conn.responseCode !in 200..299) {
+                error("Server returned " + conn.responseCode)
+            }
+
+            val raw = conn.inputStream.let {
+                if (conn.contentEncoding.equals("gzip", true)) GZIPInputStream(it) else it
+            }
+            val body = raw.bufferedReader().use { it.readText() }
+
             val feed = json.decodeFromString<TenderFeed>(body)
-            // Write only after a successful parse, so a truncated download can
-            // never replace a good cache with a broken one.
+            // Written only after a successful parse, so a truncated download can
+            // never replace a good copy with a broken one.
             cacheFile.writeText(body)
+            conn.getHeaderField("ETag")?.let { runCatching { etagFile.writeText(it) } }
+            feed
+        } finally {
+            conn.disconnect()
+        }
+    }
+
+    private fun savedEtag(): String? =
+        runCatching { if (etagFile.exists()) etagFile.readText().trim() else null }.getOrNull()
+
+    // --- news ------------------------------------------------------------
+    // A separate, much smaller file. Kept apart from the tender feed so that
+    // news being unavailable can never stop tenders loading, and so refreshing
+    // news costs a few kilobytes rather than three megabytes.
+
+    fun cachedNews(): NewsFeed? =
+        runCatching {
+            if (newsFile.exists()) json.decodeFromString<NewsFeed>(newsFile.readText())
+            else context.assets.open("news.json").bufferedReader().use {
+                json.decodeFromString<NewsFeed>(it.readText())
+            }
+        }.getOrNull()
+
+    suspend fun refreshNews(): NewsFeed = withContext(Dispatchers.IO) {
+        val conn = (URL(NEWS_URL).openConnection() as HttpURLConnection).apply {
+            connectTimeout = 15_000
+            readTimeout = 30_000
+            setRequestProperty("Accept", "application/json")
+            setRequestProperty("Accept-Encoding", "gzip")
+            setRequestProperty("User-Agent", "TenderDesk/1.0 (Android)")
+        }
+        try {
+            if (conn.responseCode !in 200..299) error("Server returned " + conn.responseCode)
+            val raw = conn.inputStream.let {
+                if (conn.contentEncoding.equals("gzip", true)) GZIPInputStream(it) else it
+            }
+            val body = raw.bufferedReader().use { it.readText() }
+            val feed = json.decodeFromString<NewsFeed>(body)
+            newsFile.writeText(body)
             feed
         } finally {
             conn.disconnect()
@@ -72,8 +140,8 @@ class TenderRepository(private val context: Context) {
     }
 
     // --- "new since you last looked" -------------------------------------
-    // Tracked on the device rather than in the feed, because each employee
-    // opens the app at different times and "new" means new *to them*.
+    // Tracked on the device, because each employee opens the app at different
+    // times and "new" means new to them.
 
     private fun seenUids(): MutableSet<String> =
         runCatching { seenFile.readLines().filter { it.isNotBlank() }.toMutableSet() }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Security: the app may only talk over HTTPS, to one host.
+
+  cleartextTrafficPermitted="false" means a plain-HTTP request fails rather
+  than silently succeeding, so tender data cannot be swapped in transit on a
+  hostile network. No user-added certificates are trusted, which blocks the
+  usual "install a certificate and read the traffic" interception.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

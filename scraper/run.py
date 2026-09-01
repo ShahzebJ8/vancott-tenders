@@ -18,9 +18,9 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="repla
 
 from core import store                    # noqa: E402
 from core.fetch import Blocked, Fetcher   # noqa: E402
-from sources import epms_ppra, ppra_punjab   # noqa: E402
+from sources import epads, epms_ppra, ppra_punjab   # noqa: E402
 
-SOURCES = [epms_ppra, ppra_punjab]
+SOURCES = [epms_ppra, ppra_punjab, epads]
 
 
 def main() -> int:

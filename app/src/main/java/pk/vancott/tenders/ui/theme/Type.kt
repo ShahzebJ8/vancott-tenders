@@ -11,9 +11,11 @@ import pk.vancott.tenders.R
 /**
  * Celias, the VANCOTT brand face. One family for the whole app.
  *
- * Three weights are available (Thin, Light, Regular) and hierarchy is built
- * from size and colour rather than from extra typefaces, so the app stays
- * quiet and consistent.
+ * Sizes are set for readability first. Nothing is below 14sp, because the
+ * smallest text was too small to read comfortably on a small phone - and the
+ * people using this are reading deadlines and money, where squinting is a real
+ * cost. All sizes are in sp, so Android's own "larger text" setting scales them
+ * further for anyone who needs it.
  */
 val Celias = FontFamily(
     Font(R.font.celias_thin, FontWeight.Thin),
@@ -25,29 +27,29 @@ val AppTypography = Typography(
     // Screen title
     titleLarge = TextStyle(
         fontFamily = Celias, fontWeight = FontWeight.Normal,
-        fontSize = 22.sp, lineHeight = 28.sp, letterSpacing = (-0.2).sp,
+        fontSize = 25.sp, lineHeight = 31.sp, letterSpacing = (-0.2).sp,
     ),
     // Tender title in a row
     titleMedium = TextStyle(
         fontFamily = Celias, fontWeight = FontWeight.Normal,
-        fontSize = 16.sp, lineHeight = 22.sp,
+        fontSize = 18.sp, lineHeight = 25.sp,
     ),
     bodyLarge = TextStyle(
         fontFamily = Celias, fontWeight = FontWeight.Light,
-        fontSize = 15.sp, lineHeight = 22.sp,
+        fontSize = 17.sp, lineHeight = 25.sp,
     ),
     // Organisation, description, secondary lines
     bodyMedium = TextStyle(
         fontFamily = Celias, fontWeight = FontWeight.Light,
-        fontSize = 14.sp, lineHeight = 20.sp,
+        fontSize = 16.sp, lineHeight = 23.sp,
     ),
-    // Small labels: section headings, chips, field names.
+    // Small labels: section headings, chips, field names. This is the floor.
     labelSmall = TextStyle(
         fontFamily = Celias, fontWeight = FontWeight.Light,
-        fontSize = 12.sp, lineHeight = 16.sp, letterSpacing = 0.4.sp,
+        fontSize = 14.sp, lineHeight = 19.sp, letterSpacing = 0.3.sp,
     ),
     labelMedium = TextStyle(
         fontFamily = Celias, fontWeight = FontWeight.Normal,
-        fontSize = 13.sp, lineHeight = 17.sp, letterSpacing = 0.2.sp,
+        fontSize = 15.sp, lineHeight = 20.sp, letterSpacing = 0.2.sp,
     ),
 )
