@@ -1,10 +1,10 @@
 {
- "generated": "2026-09-01T17:11:59+00:00",
- "count": 54,
+ "generated": "2026-09-01T20:05:53+00:00",
+ "count": 53,
  "relevant_count": 16,
- "domestic_count": 14,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (12)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (7)"
@@ -155,19 +155,6 @@
    "domestic": true
   },
   {
-   "title": "Rate cuts shrink SBP profits in 2025-26",
-   "url": "https://www.dawn.com/news/2025669/rate-cuts-shrink-sbp-profits-in-2025-26",
-   "source": "Dawn",
-   "published": "2026-08-28T02:50:34+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has remitted Rs1,932 billion to the federal government as profit for 2025-26, helping reduce its dependence on large domestic borrowings. With the easing of monetary policy , the central bank’s profitability is also declining. From a peak of 22pc a few years ago, the benchmark …",
-   "image": "https://i.dawn.com/large/2026/08/28074851c33dc51.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Sindh announces two-year tax relief for electric vehicles, bikes",
    "url": "https://arynews.tv/sindh-announces-two-year-tax-relief-for-electric-vehicles-bikes",
    "source": "ARY News",
@@ -192,6 +179,19 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Compliance is not the cost of exporting IT services. It is the entry ticket",
+   "url": "https://www.brecorder.com/news/40437435/compliance-is-not-the-cost-of-exporting-it-services-it-is-the-entry-ticket",
+   "source": "Business Recorder",
+   "published": "2026-09-01T17:27:23+00:00",
+   "summary": "Software houses, business process outsourcing units, and data-processing firms are among the most trust-dependent businesses a country can export. The client is not buying a product it can inspect on arrival — it is handing over the personal data of its own customers. Precision and accuracy are visible in a surgical in…",
+   "image": "https://i.brecorder.com/large/2026/09/012221286c8fa36.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Naya Nazimabad Apartment REIT book-building fully subscribed 'within first hour'",
@@ -318,19 +318,6 @@
    "published": "2026-09-01T11:29:23+00:00",
    "summary": "MUMBAI: Indian authorities have raided an illegal operation in Mumbai that faked expiry dates and nutritional information on original food products manufactured by PepsiCo, Nestle, Coca-Cola and Unilever so they could be exported to other countries. Reuters got exclusive access to the warehouse last week as food office…",
    "image": "https://i.brecorder.com/large/2026/09/0116284871b7260.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan kicks off process for dual-tranche dollar Eurobond",
-   "url": "https://www.brecorder.com/news/40437402/pakistan-kicks-off-process-for-dual-tranche-dollar-eurobond",
-   "source": "Business Recorder",
-   "published": "2026-09-01T11:25:46+00:00",
-   "summary": "Pakistan has launched the process for a US$ benchmark dual-tranche Eurobond, Advisor to the Finance Minister Khurram Schehzad announced on Tuesday. The process offered five-year and 10-year tenors, the minister shared in a post on X. “The transaction follows successive sovereign credit-rating upgrades, stronger macroec…",
-   "image": "https://i.brecorder.com/large/2026/09/011600484b2069a.webp",
    "topics": [
     "Economy"
    ],
