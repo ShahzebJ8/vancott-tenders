@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T01:03:02+00:00",
+ "generated": "2026-09-01T01:46:33+00:00",
  "count": 57,
  "relevant_count": 20,
  "domestic_count": 22,
@@ -10,6 +10,32 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Shipping costs to US surge by 200pc",
+   "url": "https://www.brecorder.com/news/40437337/shipping-costs-to-us-surge-by-200pc",
+   "source": "Business Recorder",
+   "published": "2026-09-01T01:19:51+00:00",
+   "summary": "KARACHI: Shipping costs for Pakistani exporters to the United States have surged by more than 200 percent on some routes, as fallout from the Iran war disrupts shipping lanes and drives up war-risk insurance and fuel costs. A container shipment from Karachi to New York that once cost around USD 2,000 is now being quote…",
+   "image": "https://i.brecorder.com/large/2026/09/010334417daefeb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "August economic outlook: Inflation expected to remain elevated at 10-11pc",
+   "url": "https://www.brecorder.com/news/40437339/august-economic-outlook-inflation-expected-to-remain-elevated-at-10-11pc",
+   "source": "Business Recorder",
+   "published": "2026-09-01T01:17:30+00:00",
+   "summary": "ISLAMABAD: Inflation is expected to remain elevated at 10-11 percent in August 2026 amid global commodity and energy price pressures, while declining foreign direct investment, a deepening contraction in private-sector credit, and looming climate risks from heavy rains and floods pose fresh threats to economic growth, …",
+   "image": "https://i.brecorder.com/large/2026/09/010326522ea497c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "‘Give-and-take’ arrangement: Chinese firm accuses authorities of forcing it to accept their conditions",
    "url": "https://www.brecorder.com/news/40437321/give-and-take-arrangement-chinese-firm-accuses-authorities-of-forcing-it-to-accept-their-conditions",
@@ -32,32 +58,6 @@
    "image": "https://i.brecorder.com/large/2026/09/0104071482d905d.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Shipping costs to US surge by 200pc",
-   "url": "https://www.brecorder.com/news/40437337/shipping-costs-to-us-surge-by-200pc",
-   "source": "Business Recorder",
-   "published": "2026-08-31T23:49:54+00:00",
-   "summary": "KARACHI: Shipping costs for Pakistani exporters to the United States have surged by more than 200 percent on some routes, as fallout from the Iran war disrupts shipping lanes and drives up war-risk insurance and fuel costs. A container shipment from Karachi to New York that once cost around USD 2,000 is now being quote…",
-   "image": "https://i.brecorder.com/large/2026/09/010334417daefeb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "August economic outlook: Inflation expected to remain elevated at 10-11pc",
-   "url": "https://www.brecorder.com/news/40437339/august-economic-outlook-inflation-expected-to-remain-elevated-at-10-11pc",
-   "source": "Business Recorder",
-   "published": "2026-08-31T23:49:54+00:00",
-   "summary": "ISLAMABAD: Inflation is expected to remain elevated at 10-11 percent in August 2026 amid global commodity and energy price pressures, while declining foreign direct investment, a deepening contraction in private-sector credit, and looming climate risks from heavy rains and floods pose fresh threats to economic growth, …",
-   "image": "https://i.brecorder.com/large/2026/09/010326522ea497c.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
