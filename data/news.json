@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-01T07:12:59+00:00",
- "count": 46,
- "relevant_count": 16,
- "domestic_count": 13,
+ "generated": "2026-09-01T12:43:58+00:00",
+ "count": 50,
+ "relevant_count": 14,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (13)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Pakistan rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40437399/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-01T12:11:05+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Tuesday. The local unit closed the day at 277.46, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.47 against the dollar. Meanwhile, the yen steadied near the 160-per-dollar level on Tuesday. The U.S. dollar w…",
+   "image": "https://i.brecorder.com/large/2026/09/011509404dd9834.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Aurangzeb eyes sustainable export-driven growth",
    "url": "https://www.dawn.com/news/2026515/aurangzeb-eyes-sustainable-export-driven-growth",
@@ -142,20 +155,6 @@
    "domestic": true
   },
   {
-   "title": "Nepra rejects tariff review sans industry input",
-   "url": "https://www.dawn.com/news/2025668/nepra-rejects-tariff-review-sans-industry-input",
-   "source": "Dawn",
-   "published": "2026-08-28T02:56:54+00:00",
-   "summary": "ISLAMABAD: Amid a government request for about Rs36.52 billion in additional recovery from power consumers in September for using expensive LNG imports and a similar burden expected the following month, the National Electric Power Regulatory Authority (Nepra) on Thursday announced that it would reject the special tarif…",
-   "image": "https://i.dawn.com/large/2026/08/280755362cce89d.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Rate cuts shrink SBP profits in 2025-26",
    "url": "https://www.dawn.com/news/2025669/rate-cuts-shrink-sbp-profits-in-2025-26",
    "source": "Dawn",
@@ -166,6 +165,19 @@
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh announces two-year tax relief for electric vehicles, bikes",
+   "url": "https://arynews.tv/sindh-announces-two-year-tax-relief-for-electric-vehicles-bikes",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Sindh announces two-year tax relief for electric vehicles, bikes",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Electric-vehicles-Sindh-tax-relief.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -182,12 +194,155 @@
    "domestic": true
   },
   {
-   "title": "In meeting with Araghchi, DPM Dar underscores importance of dialogue for regional peace",
-   "url": "https://www.brecorder.com/news/40437389/in-meeting-with-araghchi-dpm-dar-underscores-importance-of-dialogue-for-regional-peace",
+   "title": "Pakistan's August inflation rises 11.15%, statistics bureau says",
+   "url": "https://www.brecorder.com/news/40437417/pakistans-august-inflation-rises-1115-statistics-bureau-says",
    "source": "Business Recorder",
-   "published": "2026-09-01T07:04:41+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Muhammad Ishaq Dar met Foreign Minister of Iran Seyyed Abbas Araghchi ahead of the SCO Council of Heads of State meeting in Bishkek on Tuesday. The two foreign ministers exchanged views on bilateral relations and regional developments and reaffirmed the importance of continued…",
-   "image": "https://i.brecorder.com/large/2026/09/01120258f9aff1b.webp",
+   "published": "2026-09-01T12:40:14+00:00",
+   "summary": "Pakistan’s consumer price index (CPI) rose 11.15% year-on-year in August, up sharply from 9.2% in July, data from the country’s statistics bureau showed on Tuesday. The latest reading issued by the Pakistan Bureau of Statistics (PBS) compares with 3.1% inflation recorded in August 2025, marking a significant increase o…",
+   "image": "https://i.brecorder.com/large/2026/09/01173136c00bc19.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's coal-fired power generation growth slows in August, renewables up",
+   "url": "https://www.brecorder.com/news/40437418/indias-coal-fired-power-generation-growth-slows-in-august-renewables-up",
+   "source": "Business Recorder",
+   "published": "2026-09-01T12:37:18+00:00",
+   "summary": "NEW DELHI: India’s annual coal-fired electricity output growth rate slowed in August as renewable power generation rose amid rising demand, data posted on Grid-India’s website showed. The South Asian nation’s electricity generation rose 11.6% year-on-year to 180 billion kilowatt-hours (kWh) in August, as an extended he…",
+   "image": "https://i.brecorder.com/large/2026/09/01173646c9653c2.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Capri Global taps dollar market with debut debt issue after banks hit pause",
+   "url": "https://www.brecorder.com/news/40437415/capri-global-taps-dollar-market-with-debut-debt-issue-after-banks-hit-pause",
+   "source": "Business Recorder",
+   "published": "2026-09-01T12:01:25+00:00",
+   "summary": "MUMBAI: India’s Capri Global Capital has initiated the procedure to borrow in dollars in what would be its first ever foreign currency debt issuance, two months after it appointed lead managers, two merchant bankers said on Tuesday. The non-banking financial company will aim to raise around $300 million to $500 million…",
+   "image": "https://i.brecorder.com/large/2026/09/0116592839c2671.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "London stocks slide as rising gilt yields weigh; Reckitt gains",
+   "url": "https://www.brecorder.com/news/40437413/london-stocks-slide-as-rising-gilt-yields-weigh-reckitt-gains",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:53:05+00:00",
+   "summary": "London’s FTSE indexes fell on Tuesday as Middle East tensions pushed global bond yields higher on inflation concerns, while Reckitt Benckiser gained after a favourable U.S. court ruling in a baby formula case. The export-focused FTSE 100 index dropped 1% to a two-week low of 10,725.6 points by 1019 GMT, while the domes…",
+   "image": "https://i.brecorder.com/large/2026/09/0116523830ae72e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India busts firm faking expiry dates, nutrition labels on PepsiCo, Nestle food exports",
+   "url": "https://www.brecorder.com/news/40437408/india-busts-firm-faking-expiry-dates-nutrition-labels-on-pepsico-nestle-food-exports",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:29:23+00:00",
+   "summary": "MUMBAI: Indian authorities have raided an illegal operation in Mumbai that faked expiry dates and nutritional information on original food products manufactured by PepsiCo, Nestle, Coca-Cola and Unilever so they could be exported to other countries. Reuters got exclusive access to the warehouse last week as food office…",
+   "image": "https://i.brecorder.com/large/2026/09/0116284871b7260.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan kicks off process for dual-tranche dollar Eurobond",
+   "url": "https://www.brecorder.com/news/40437402/pakistan-kicks-off-process-for-dual-tranche-dollar-eurobond",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:25:46+00:00",
+   "summary": "Pakistan has launched the process for a US$ benchmark dual-tranche Eurobond, Advisor to the Finance Minister Khurram Schehzad announced on Tuesday. The process offered five-year and 10-year tenors, the minister shared in a post on X. “The transaction follows successive sovereign credit-rating upgrades, stronger macroec…",
+   "image": "https://i.brecorder.com/large/2026/09/011600484b2069a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Zinc and copper driven up by supply fears before retreating on strong dollar",
+   "url": "https://www.brecorder.com/news/40437407/zinc-and-copper-driven-up-by-supply-fears-before-retreating-on-strong-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:20:28+00:00",
+   "summary": "LONDON: Zinc prices hit a more than four-year high on supply worries while copper touched a seven-month peak on Tuesday before retreating under pressure from a stronger dollar and a global bond selloff. Benchmark three-month zinc on the London Metal Exchange was up 1.3% at $3,933 a metric ton by 1020 GMT after touching…",
+   "image": "https://i.brecorder.com/large/2026/09/01162014fe8d3a0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm climbs over 1% on stronger rival oils, crude",
+   "url": "https://www.brecorder.com/news/40437406/palm-climbs-over-1-on-stronger-rival-oils-crude",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:17:38+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures rose more than 1% on Tuesday, as gains in firmer as rival edible oils and crude oil prices offset weak cargo surveyor data on August exports. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange rose 77 ringgit, or 1.57%, to 4,971 ring…",
+   "image": "https://i.brecorder.com/large/2026/09/01161721b7b6cdd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "RBI intervention, dollar flows push Indian rupee to two-month peak",
+   "url": "https://www.brecorder.com/news/40437404/rbi-intervention-dollar-flows-push-indian-rupee-to-two-month-peak",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:05:58+00:00",
+   "summary": "MUMBAI: The Indian rupee surged to a two-month high against the U.S. dollar on Tuesday, powered by aggressive central bank intervention and supported by flow-related dollar offers from foreign banks. The Indian rupee settled above the 95 to the dollar mark for the first time in two months, defying a selloff in Asian cu…",
+   "image": "https://i.brecorder.com/large/2026/09/011605382a7e4ee.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Foreign buying in Indian stocks hits 23-month high in August, depository data shows",
+   "url": "https://www.brecorder.com/news/40437403/foreign-buying-in-indian-stocks-hits-23-month-high-in-august-depository-data-shows",
+   "source": "Business Recorder",
+   "published": "2026-09-01T11:03:30+00:00",
+   "summary": "Foreign portfolio investors poured $3.1 billion into Indian equities in August, the highest monthly inflow in nearly two years, aided by domestic companies’ strong earnings outlook and the central bank’s measures to stabilize the rupee. FPIs were net buyers for a second consecutive month, with their purchases in August…",
+   "image": "https://i.brecorder.com/large/2026/09/011602269b2fc98.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Fauji Foundation acquires majority stake in Askari General Insurance",
+   "url": "https://www.brecorder.com/news/40437396/fauji-foundation-acquires-majority-stake-in-askari-general-insurance",
+   "source": "Business Recorder",
+   "published": "2026-09-01T08:17:24+00:00",
+   "summary": "Fauji Foundation (FF) has acquired a 51% shareholding and control in Askari General Insurance Company Limited (AGICL) from Army Welfare Trust (AWT), following the execution of the transaction on August 28, 2026. Askari General Insurance disclosed the development in a filing to the Pakistan Stock Exchange (PSX) on Tuesd…",
+   "image": "https://i.brecorder.com/large/2026/09/011316521e00d28.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UK 10-year gilt yields hit highest since 2008 as Iran war reignites inflation fears",
+   "url": "https://www.brecorder.com/news/40437390/uk-10-year-gilt-yields-hit-highest-since-2008-as-iran-war-reignites-inflation-fears",
+   "source": "Business Recorder",
+   "published": "2026-09-01T07:52:55+00:00",
+   "summary": "LONDON: British 10-year government bond yields rose to their highest since 2008 on Tuesday, tracking a rising in borrowing costs globally as another increase in oil prices reignited concerns about inflation. The gilts market was also playing catch up with moves elsewhere, following Monday’s UK public holiday. Ten-year …",
+   "image": "https://i.brecorder.com/large/2026/09/01125244b66f708.webp",
    "topics": [
     "Economy"
    ],
@@ -274,19 +429,6 @@
    "domestic": false
   },
   {
-   "title": "Nepal rescuers reach remote areas, electricity restored nearly a week after devastating floods",
-   "url": "https://www.brecorder.com/news/40437370/nepal-rescuers-reach-remote-areas-electricity-restored-nearly-a-week-after-devastating-floods",
-   "source": "Business Recorder",
-   "published": "2026-09-01T05:58:46+00:00",
-   "summary": "KATHMANDU: Nepali rescuers built temporary bridges to reach remote areas and dug through the ruins of hydropower projects in the Himalayas to rescue close to 300 trapped workers, nearly a week after devastating floods left a trail of destruction across the country’s towns and valleys. About 600 people remain stuck in s…",
-   "image": "https://i.brecorder.com/large/2026/09/0110565154a6987.gif",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indonesia January-July palm oil export volume down 1% y/y, data shows",
    "url": "https://www.brecorder.com/news/40437369/indonesia-january-july-palm-oil-export-volume-down-1-yy-data-shows",
    "source": "Business Recorder",
@@ -313,19 +455,6 @@
    "domestic": false
   },
   {
-   "title": "Engro exits EPCL after three decades, sells stake to Lotte Chemical Pakistan for $71mn",
-   "url": "https://www.brecorder.com/news/40437363/engro-exits-epcl-after-three-decades-sells-stake-to-lotte-chemical-pakistan-for-71mn",
-   "source": "Business Recorder",
-   "published": "2026-09-01T05:21:12+00:00",
-   "summary": "Engro Holdings Limited’s wholly-owned subsidiary, Engro Corporation Limited, has entered into a Share Purchase Agreement (SPA) with Lotte Chemical Pakistan Limited for the sale and transfer of its entire shareholding in Engro Polymer & Chemicals Limited (EPCL). The sale represents approximately 56.19% of EPCL’s issued …",
-   "image": "https://i.brecorder.com/large/2026/09/01102002e52dd2f.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX: Buying returns as KSE-100 gains over 400 points",
    "url": "https://www.brecorder.com/news/40437362/psx-buying-returns-as-kse-100-gains-over-400-points",
    "source": "Business Recorder",
@@ -339,25 +468,12 @@
    "domestic": false
   },
   {
-   "title": "Bond selloff pressures stocks as oil crosses $91 a barrel",
-   "url": "https://www.brecorder.com/news/40437356/bond-selloff-pressures-stocks-as-oil-crosses-91-a-barrel",
-   "source": "Business Recorder",
-   "published": "2026-09-01T02:57:15+00:00",
-   "summary": "SINGAPORE: Selling drove global bond yields to major new highs on Tuesday as renewed fighting in the Middle ​East lifted oil prices above $90 a barrel and put pressure on stock markets around the world. ‌The 10-year US Treasury yield, a benchmark for prices across asset classes, rose 2.2 basis points to a near 20-month…",
-   "image": "https://i.brecorder.com/large/2026/09/010755152d171fd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yen hangs near 160 amid BOJ rate-hike bets, dollar wobbles",
-   "url": "https://www.brecorder.com/news/40437355/yen-hangs-near-160-amid-boj-rate-hike-bets-dollar-wobbles",
-   "source": "Business Recorder",
-   "published": "2026-09-01T02:53:00+00:00",
-   "summary": "SINGAPORE: The yen steadied near the 160-per-dollar level on Tuesday after US Treasury Secretary Scott ​Bessent ramped up pressure on the Bank of Japan to hike rates later this month, while currency markets ‌kept a wary watch on renewed attacks in the Middle East. US President Donald Trump threatened further strikes ag…",
-   "image": "https://i.brecorder.com/large/2026/09/01075211a67dab5.webp",
+   "title": "Japan, US agree to continue coordination on yen, Katayama says",
+   "url": "https://tribune.com.pk/story/2626858/japan-us-agree-to-continue-coordination-on-yen-katayama-says",
+   "source": "The Express Tribune",
+   "published": "2026-09-01T01:10:46+00:00",
+   "summary": "Bessent calls recent moves 'pretty well contained' as currency slides near 160 per dollar",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -375,84 +491,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Telecom operators challenge procurement rule",
-   "url": "https://tribune.com.pk/story/2626795/telecom-operators-challenge-procurement-rule",
-   "source": "The Express Tribune",
-   "published": "2026-08-31T17:15:34+00:00",
-   "summary": "Seek repeal of rule allowing direct contracts with govt entities, demand competitive bidding",
-   "image": null,
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Wall St slips as higher oil prices, hawkish Fed bets weigh",
-   "url": "https://www.brecorder.com/news/40437251/wall-st-slips-as-higher-oil-prices-hawkish-fed-bets-weigh",
-   "source": "Business Recorder",
-   "published": "2026-08-31T14:41:51+00:00",
-   "summary": "The main U.S. stock indexes dropped on Monday after military strikes between the United States and Iran drove up oil prices, fanning inflation worries after Fed Chair Kevin Warsh’s hawkish remarks in his first Jackson Hole address the previous week. The losses could set the tone for September, typically a weak month fo…",
-   "image": "https://i.brecorder.com/large/2026/08/3119413147552e2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's RBI FX forward book hits record $136.7 billion on surging overseas deposits",
-   "url": "https://www.brecorder.com/news/40437250/indias-rbi-fx-forward-book-hits-record-1367-billion-on-surging-overseas-deposits",
-   "source": "Business Recorder",
-   "published": "2026-08-31T14:26:05+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India’s foreign exchange forward position climbed to an all-time high of $136.7 billion in July, fuelled by a surge in overseas deposits following the central bank’s measures to attract dollar inflows and support the rupee. The July figure marked an increase of about $33 billion from June an…",
-   "image": "https://i.brecorder.com/large/2026/08/311924346a88a8c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's state-backed infra fund secures $2bn commitment from global, local investors",
-   "url": "https://www.brecorder.com/news/40437248/indias-state-backed-infra-fund-secures-2bn-commitment-from-global-local-investors",
-   "source": "Business Recorder",
-   "published": "2026-08-31T14:12:00+00:00",
-   "summary": "NEW DELHI: India’s state-backed infrastructure fund has secured commitments worth $2 billion from global and domestic investors, representing more than half of its new fund’s $3.2 billion target, it said in a statement. National Investment and Infrastructure Fund, India’s sovereign-backed alternative asset firm, manage…",
-   "image": "https://i.brecorder.com/large/2026/08/311911524d2e94f.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "RBI back to rupee's rescue to counter oil, Fed headwinds; steps into swaps too",
-   "url": "https://www.brecorder.com/news/40437243/rbi-back-to-rupees-rescue-to-counter-oil-fed-headwinds-steps-into-swaps-too",
-   "source": "Business Recorder",
-   "published": "2026-08-31T13:46:14+00:00",
-   "summary": "MUMBAI: India’s central bank stepped in again to support the rupee on Monday, after a surge in oil prices and rising expectations of a U.S. interest-rate hike combined to pressure the currency. The rupee was quoting at 95.44 to the dollar at 11:49 a.m. IST, down less than 0.1% from Friday. The currency opened weaker at…",
-   "image": "https://i.brecorder.com/large/2026/08/311846023d5b208.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gulf bourses slip as Iran-US escalation dents risk appetite",
-   "url": "https://www.brecorder.com/news/40437242/gulf-bourses-slip-as-iran-us-escalation-dents-risk-appetite",
-   "source": "Business Recorder",
-   "published": "2026-08-31T13:42:34+00:00",
-   "summary": "BENGALURU: The Dubai stock market led Gulf stocks lower on Monday as renewed military action between the U.S. and Iran near the Strait of Hormuz weighed on risk appetite. American forces struck two Iranian launchers on Larak Island in the Strait of Hormuz on Sunday, prompting Tehran to retaliate with attacks on U.S. fo…",
-   "image": "https://i.brecorder.com/large/2026/08/31184105ae9b7a3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -560,6 +598,32 @@
    "domestic": false
   },
   {
+   "title": "India’s Tukaram Mundhe busts firm faking expiry dates, nutrition labels on food exports",
+   "url": "https://arynews.tv/india-firm-faking-expiry-dates-nutrition-labels-food-exports",
+   "source": "ARY News",
+   "published": null,
+   "summary": "India’s Tukaram Mundhe busts firm faking expiry dates, nutrition labels on food exports",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/India-raid-lahori-zeera.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "BYD sales extend growth streak on strong exports",
+   "url": "https://arynews.tv/byd-sales-extend-growth-streak-on-strong-exports",
+   "source": "ARY News",
+   "published": null,
+   "summary": "BYD sales extend growth streak on strong exports",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/BYD.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Iranian Rial plunges past 2 million per US Dollar: reports",
    "url": "https://arynews.tv/iranian-rial-plunges-past-2-million-per-us-dollar-reports",
    "source": "ARY News",
@@ -594,19 +658,6 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PAkistan-KSA.jpg",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "LNG prices decrease in Pakistan",
-   "url": "https://arynews.tv/lng-prices-decrease-in-pakistan",
-   "source": "ARY News",
-   "published": null,
-   "summary": "LNG prices decrease in Pakistan",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2024/05/Untitled-1-232.jpg",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
