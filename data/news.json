@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-02T18:02:48+00:00",
- "count": 41,
+ "generated": "2026-09-02T20:49:46+00:00",
+ "count": 40,
  "relevant_count": 10,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (20)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (4)",
   "ARY News": "ok (5)"
  },
@@ -398,19 +398,6 @@
    "published": "2026-09-02T05:53:29+00:00",
    "summary": "Australian shares remained more than 1% down on Wednesday after second-quarter economic growth slowed, though not enough to deter expectations of another interest rate hike, while New Zealand’s central bank raised rates as expected. The S&P/ASX 200 benchmark index was down 1.1% at 8,967 points, as of 0243 GMT, recoveri…",
    "image": "https://i.brecorder.com/large/2026/09/02105232d95dc11.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Wednesday",
-   "url": "https://www.brecorder.com/news/40437547/thai-bahtus-dollar-weaker-on-wednesday",
-   "source": "Business Recorder",
-   "published": "2026-09-02T05:48:59+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Wednesday. At 0158 GMT, the baht was 0.24% lower at 33.37 versus the dollar, after trading in a range of 33.290 to 33.410. It ended the previous session at 33.2875 per dollar, as per LSEG data.‑Reuters",
-   "image": "https://i.brecorder.com/large/2026/09/02104530cc96872.webp",
    "topics": [
     "Economy"
    ],
