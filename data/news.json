@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-02T14:06:03+00:00",
- "count": 42,
+ "generated": "2026-09-02T18:02:48+00:00",
+ "count": 41,
  "relevant_count": 10,
  "domestic_count": 11,
  "sources": {
@@ -14,7 +14,7 @@
    "title": "Pakistani rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40437585/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-02T11:52:36+00:00",
+   "published": "2026-09-02T14:33:40+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Wednesday. The local unit closed the day at 277.45 a gain of Re0.01 against the greenback. On Tuesday, the Pakistani rupee settled at 277.46 against the dollar. Moreover, the dollar held firm as renewed hostilities in the Middle East pushed oil pr…",
    "image": "https://i.brecorder.com/large/2026/09/021557563954e9b.webp",
    "topics": [
@@ -156,6 +156,19 @@
    "domestic": true
   },
   {
+   "title": "Indian bonds join global debt selloff, bruised by oil and US Treasury yields",
+   "url": "https://www.brecorder.com/news/40437600/indian-bonds-join-global-debt-selloff-bruised-by-oil-and-us-treasury-yields",
+   "source": "Business Recorder",
+   "published": "2026-09-02T14:18:26+00:00",
+   "summary": "MUMBAI: Indian government bonds extended losses into a fifth straight session on Wednesday, as U.S. Treasury yields climbed to near three-year highs and surging oil prices rekindled inflation fears. The benchmark 10-year U.S. Treasury yield, a global yardstick for borrowing costs, hovered at 4.81%, its highest level si…",
+   "image": "https://i.brecorder.com/large/2026/09/021917511f8eb85.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Indian central bank steps up rupee support, soaring NRI deposits bolster firepower",
    "url": "https://www.brecorder.com/news/40437597/indian-central-bank-steps-up-rupee-support-soaring-nri-deposits-bolster-firepower",
    "source": "Business Recorder",
@@ -247,19 +260,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 falls nearly 1% amid geopolitical tensions",
-   "url": "https://www.brecorder.com/news/40437545/psx-kse-100-falls-nearly-1-amid-geopolitical-tensions",
-   "source": "Business Recorder",
-   "published": "2026-09-02T11:14:06+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) as concerns over supply disruption intensified after the US and Iran exchanged ​strikes overnight, with the benchmark KSE-100 Index shedding nearly 1% on Wednesday. The benchmark index opened on a weak note and initially fell sharply, touching levels ar…",
-   "image": "https://i.brecorder.com/large/2026/09/021010518c268c8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PLL reissues LNG tender as Pakistan faces electricity crunch: Bloomberg",
    "url": "https://www.brecorder.com/news/40437584/pll-reissues-lng-tender-as-pakistan-faces-electricity-crunch-bloomberg",
    "source": "Business Recorder",
@@ -271,19 +271,6 @@
     "Procurement"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SECP probes alleged insider trading in Unity Foods shares",
-   "url": "https://www.brecorder.com/news/40437571/secp-probes-alleged-insider-trading-in-unity-foods-shares",
-   "source": "Business Recorder",
-   "published": "2026-09-02T07:22:24+00:00",
-   "summary": "The Securities and Exchange Commission of Pakistan (SECP) has stepped up an investigation into alleged insider trading and unusual transactions in shares of Unity Foods Limited, a company listed on the Pakistan Stock Exchange (PSX), summoning four individuals, including the company’s chief executive, for questioning on…",
-   "image": "https://i.brecorder.com/large/2026/09/0212210687beddb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {

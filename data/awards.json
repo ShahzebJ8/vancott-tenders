@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T14:05:58+00:00",
+ "generated": "2026-09-02T18:02:42+00:00",
  "count": 557,
  "with_value": 539,
  "with_winner": 207,
@@ -10923,6 +10923,24 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003168",
+   "tender_no": "TS0000011462E",
+   "reference": "P66221",
+   "title": "Procurement of Janitorial Services for NADRA RHO Quetta and Its Office Miscellaneous Ministry of Interior and Narcotics Control",
+   "organisation": "Ministry of Interior and Narcotics Control NADRA Regional Head Office Quetta Quetta - Pakistan",
+   "bid_count": 3,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Quetta",
+   "province": "Balochistan",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003168",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003167",
    "tender_no": "TS0000002743E",
    "reference": "SND-2578/25",
@@ -11137,6 +11155,24 @@
    "city": "Faisalabad",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003156",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003155",
+   "tender_no": "TS0000009740E",
+   "reference": "NADRA-HQ-RFB-82/2026",
+   "title": "Procurement of Small Form Factor Tower Desktop Computers Equipments National Database and Registration Authority (NADRA)",
+   "organisation": "National Database and Registration Authority (NADRA) NADRA Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003155",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -49599,46 +49635,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001044",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001043",
-   "tender_no": "TS0000006177E",
-   "reference": "03/STORE/LHQ/NORTH-1/2025-26",
-   "title": "Cost of Other Store Tender N-5 North-I Khairabad Miscellaneous",
-   "organisation": "Ministry of Communications SSP Office N-5 North-I Khairabad National Highways and Motorway Polic (NH&MP) Khairabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Vibrant Solutions Associates"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-02",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001043",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001042",
-   "tender_no": "TS0000005810E",
-   "reference": "PIAC-PR-26010524-26 Air Conditioning Units",
-   "title": "PIA Web Tender. PIAC-PR-26010524-26 Air Conditioning Units Miscellaneous",
-   "organisation": "Pakistan International Airlines (PIA) PIA Karachi - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "MEGATRONICS PAKISTAN Pakistan International Airlines (PIA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-02",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001042",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
