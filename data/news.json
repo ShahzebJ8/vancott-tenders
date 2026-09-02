@@ -1,28 +1,15 @@
 {
- "generated": "2026-09-02T05:27:01+00:00",
- "count": 52,
- "relevant_count": 18,
- "domestic_count": 18,
+ "generated": "2026-09-02T09:52:25+00:00",
+ "count": 40,
+ "relevant_count": 9,
+ "domestic_count": 10,
  "sources": {
-  "Dawn": "ok (12)",
-  "Business Recorder": "ok (19)",
-  "The Express Tribune": "ok (9)",
+  "Dawn": "ok (11)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (5)",
   "ARY News": "ok (6)"
  },
  "stories": [
-  {
-   "title": "Establishment of Pakistan–Saudi Arabia food export task force urged",
-   "url": "https://www.brecorder.com/news/40437529/establishment-of-pakistan-saudi-arabia-food-export-task-force-urged",
-   "source": "Business Recorder",
-   "published": "2026-09-02T02:47:45+00:00",
-   "summary": "KARACHI: Mian Zahid Hussain, President Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman National Business Group Pakistan and Chairman Policy Advisory Board FPCCI, has proposed establishing a joint Pakistan–Saudi Arabia Agri-Food Export Task Force, setting product-specific targe…",
-   "image": "https://i.brecorder.com/large/2026/09/02074702ae64a79.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
   {
    "title": "Inflation rebounds to 11pc in August",
    "url": "https://www.dawn.com/news/2026747/inflation-rebounds-to-11pc-in-august",
@@ -48,72 +35,6 @@
     "Energy & power"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KE investing Rs15bn to improve power infrastructure: Chishti",
-   "url": "https://www.brecorder.com/news/40437454/ke-investing-rs15bn-to-improve-power-infrastructure-chishti",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "KARACHI: K-Electric Board Chairman Shaheryar Chishti has said the company is investing Rs 15 billion to improve the power infrastructure and ensure reliable and uninterrupted electricity supply to Karachi’s industrial sector. The investment will include laying new cables and wires, upgrading grids, bifurcating feeders …",
-   "image": "https://i.brecorder.com/large/2026/09/02010748e6c7848.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Sindh LG law: proposed amendments discussed",
-   "url": "https://www.brecorder.com/news/40437455/sindh-lg-law-proposed-amendments-discussed",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah presided over a provincial cabinet meeting on Tuesday, which approved local government reform; a comprehensive survey and digital mapping of around 1.61 million acres of Katcha land across the province; endorsed support package for small wheat growers; extended tax and …",
-   "image": "https://i.brecorder.com/large/2026/09/020108297a26e7c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "RTO Hyderabad recovers huge quantity of untaxed goods",
-   "url": "https://www.brecorder.com/news/40437466/rto-hyderabad-recovers-huge-quantity-of-untaxed-goods",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "KARACHI: The Regional Tax Office (RTO) Hyderabad intercepted eight commercial vehicles and recovered substantial quantity of untaxed goods during last eight days. According to the details, the crackdown focused heavily on non-compliance with digital invoicing mandates under Section 40c and Third Schedule regulations. D…",
-   "image": "https://i.brecorder.com/large/2026/09/020120282d98b81.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Concrete steps required to curb FMD in livestock sector, NA body told",
-   "url": "https://www.brecorder.com/news/40437467/concrete-steps-required-to-curb-fmd-in-livestock-sector-na-body-told",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "ISLAMABAD: Foot and mouth disease (FMD) in the livestock sector is a major challenge in Pakistani meat exports; therefore, concrete measures are mandatory to curb the disease. “To control FMD in the livestock sector, we need to take measures as per international standards”, said Secretary, Ministry of National Food Sec…",
-   "image": "https://i.brecorder.com/large/2026/09/020455498565249.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40437399/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-01T13:55:07+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Tuesday. The local unit closed the day at 277.46, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.47 against the dollar. Meanwhile, the yen steadied near the 160-per-dollar level on Tuesday. The U.S. dollar w…",
-   "image": "https://i.brecorder.com/large/2026/09/011509404dd9834.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -196,32 +117,6 @@
    "domestic": true
   },
   {
-   "title": "Uganda invites Pakistani investors with 10-year tax holiday",
-   "url": "https://tribune.com.pk/story/2626444/uganda-invites-pakistani-investors-with-10-year-tax-holiday",
-   "source": "The Express Tribune",
-   "published": "2026-08-29T15:25:22+00:00",
-   "summary": "Envoy proposes business delegation, farm visits to create direct trade links",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt seeks fresh financing plan for ML-1 section",
-   "url": "https://www.dawn.com/news/2025879/govt-seeks-fresh-financing-plan-for-ml-1-section",
-   "source": "Dawn",
-   "published": "2026-08-28T23:54:56+00:00",
-   "summary": "ISLAMABAD: The proposed construction of the 460km Rohri-Multan section of the long-delayed Karachi-Peshawar Main Line-1 railway project, estimated to cost more than Rs450 billion, came under review on Friday as the government explored financing options other than the long-awaited Chinese funding. A high-level committee…",
-   "image": "https://i.dawn.com/large/2026/08/29071636d040403.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Sindh announces two-year tax relief for electric vehicles, bikes",
    "url": "https://arynews.tv/sindh-announces-two-year-tax-relief-for-electric-vehicles-bikes",
    "source": "ARY News",
@@ -248,12 +143,182 @@
    "domestic": true
   },
   {
-   "title": "PSX: Stocks shed near 1,300 points in early trade",
-   "url": "https://www.brecorder.com/news/40437545/psx-stocks-shed-near-1300-points-in-early-trade",
+   "title": "PSX: Stocks shed over 1,000 points",
+   "url": "https://www.brecorder.com/news/40437545/psx-stocks-shed-over-1000-points",
    "source": "Business Recorder",
-   "published": "2026-09-02T05:11:54+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) as concerns over supply disruption intensified after the US and Iran exchanged ​strikes overnight, with the benchmark KSE-100 Index shedding nearly 1,300 points during the opening minutes of trading on Wednesday. At 10am, the benchmark index was hoverin…",
+   "published": "2026-09-02T08:06:00+00:00",
+   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) as concerns over supply disruption intensified after the US and Iran exchanged ​strikes overnight, with the benchmark KSE-100 Index shedding over 1,000 points during the trading session on Wednesday. At 12:45pm, the benchmark index was hovering at 175,3…",
    "image": "https://i.brecorder.com/large/2026/09/021010518c268c8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SECP probes alleged insider trading in Unity Foods shares",
+   "url": "https://www.brecorder.com/news/40437571/secp-probes-alleged-insider-trading-in-unity-foods-shares",
+   "source": "Business Recorder",
+   "published": "2026-09-02T07:22:24+00:00",
+   "summary": "The Securities and Exchange Commission of Pakistan (SECP) has stepped up an investigation into alleged insider trading and unusual transactions in shares of Unity Foods Limited, a company listed on the Pakistan Stock Exchange (PSX), summoning four individuals, including the company’s chief executive, for questioning on…",
+   "image": "https://i.brecorder.com/large/2026/09/0212210687beddb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Chicago wheat falls after scaling 3-1/2-year high on Black Sea supply concerns",
+   "url": "https://www.brecorder.com/news/40437568/chicago-wheat-falls-after-scaling-3-12-year-high-on-black-sea-supply-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-02T07:08:36+00:00",
+   "summary": "BEIJING: Chicago wheat futures fell on Wednesday after hitting a 3-1/2-year high in the previous session as traders weighed disruptions to Black Sea grain exports caused by ongoing conflicts, while corn and soybeans also dropped. The most-traded wheat contract on the Chicago Board of Trade (CBOT) was down 1.8% at $7.68…",
+   "image": "https://i.brecorder.com/large/2026/09/0212083067b222a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "JGBs extend selloff as hawkish BOJ board member calls for faster-paced rate hikes",
+   "url": "https://www.brecorder.com/news/40437567/jgbs-extend-selloff-as-hawkish-boj-board-member-calls-for-faster-paced-rate-hikes",
+   "source": "Business Recorder",
+   "published": "2026-09-02T07:07:21+00:00",
+   "summary": "TOKYO: Japanese government bonds extended a selloff on Wednesday as the central bank’s hawkish board member called for faster-paced interest rate hikes. The 5-year bond yield jumped 4 basis points to a record high of 2.295%, and the 2-year JGB yield also rose 4 bps to 1.84%, its highest since April 1995. The Bank of Ja…",
+   "image": "https://i.brecorder.com/large/2026/09/02120714ed13a1a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bangladesh offers rooftop solar incentives to ease power shortages",
+   "url": "https://www.brecorder.com/news/40437566/bangladesh-offers-rooftop-solar-incentives-to-ease-power-shortages",
+   "source": "Business Recorder",
+   "published": "2026-09-02T07:02:38+00:00",
+   "summary": "DHAKA: Bangladesh has launched an incentive programme for rooftop solar systems with battery storage, aiming to ease power shortages and reduce the country’s dependence on imported fuels. The South Asian nation of 175 million people is grappling with its worst power shortages in years, exacerbated by a lack of natural …",
+   "image": "https://i.brecorder.com/large/2026/09/02114154ec01605.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper, zinc fall as strong dollar weighs on industrial metals",
+   "url": "https://www.brecorder.com/news/40437565/copper-zinc-fall-as-strong-dollar-weighs-on-industrial-metals",
+   "source": "Business Recorder",
+   "published": "2026-09-02T06:39:39+00:00",
+   "summary": "SINGAPORE: Copper and zinc fell on Wednesday , as a strong dollar and fears of interest rates staying higher for longer weighed on the wider industrial metals complex. Benchmark three-month copper on the London Metal Exchange was down 0.99% at $14,133.5 a metric ton by 0300 GMT. The most-traded copper contract on the S…",
+   "image": "https://i.brecorder.com/large/2026/09/02113922813a2a3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Saudi Arabia raises $3.25 billion in two-tranche sukuk sale, IFR reports",
+   "url": "https://www.brecorder.com/news/40437564/saudi-arabia-raises-325-billion-in-two-tranche-sukuk-sale-ifr-reports",
+   "source": "Business Recorder",
+   "published": "2026-09-02T06:38:21+00:00",
+   "summary": "Saudi Arabia has raised $3.25 billion in a two-tranche sale of US dollar-denominated Islamic bonds, or sukuk, IFR reported on Tuesday, marking the kingdom’s second debt market transaction this year and its first since tensions with Iran escalated. The issuance comprised $1.25 billion of five-year sukuk and $2 billion o…",
+   "image": "https://i.brecorder.com/large/2026/09/021137106b9dfce.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "ECB must be prepared to lift interest rates further, top policymaker tells FT",
+   "url": "https://www.brecorder.com/news/40437558/ecb-must-be-prepared-to-lift-interest-rates-further-top-policymaker-tells-ft",
+   "source": "Business Recorder",
+   "published": "2026-09-02T06:17:24+00:00",
+   "summary": "The European Central Bank must not shy away from more interest rate rises if inflation “starts moving in the wrong direction”, Governing Council member Gabriel Makhlouf told the Financial Times in an interview published on Wednesday. Makhlouf said the central bank’s decision next week will not be a surprise, adding tha…",
+   "image": "https://i.brecorder.com/large/2026/09/02111642ebc5122.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm retreats on profit-taking, weak demand",
+   "url": "https://www.brecorder.com/news/40437555/palm-retreats-on-profit-taking-weak-demand",
+   "source": "Business Recorder",
+   "published": "2026-09-02T06:13:16+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures slipped on Wednesday after a two-session rally, as traders locked in profits and sluggish export demand weighed on the market. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange slid 21 ringgit, or 0.42%, to 4,952 ringgit ($1,225.44)…",
+   "image": "https://i.brecorder.com/large/2026/09/021112465b142e4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "NZ dollar skids as RBNZ flags gradual hikes, Aussie supported",
+   "url": "https://www.brecorder.com/news/40437554/nz-dollar-skids-as-rbnz-flags-gradual-hikes-aussie-supported",
+   "source": "Business Recorder",
+   "published": "2026-09-02T06:09:47+00:00",
+   "summary": "SYDNEY: The New Zealand dollar slid on Wednesday after the country’s central bank raised interest rates as expected but projected a more gradual and limited pace of further tightening than markets had wagered on. In contrast, the Australian dollar held steady after data showed the economy held up better than expected i…",
+   "image": "https://i.brecorder.com/large/2026/09/0211093844e776c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan eases as rising oil prices, higher US yields weigh",
+   "url": "https://www.brecorder.com/news/40437550/chinas-yuan-eases-as-rising-oil-prices-higher-us-yields-weigh",
+   "source": "Business Recorder",
+   "published": "2026-09-02T05:55:02+00:00",
+   "summary": "HONG KONG: China’s yuan eased against the dollar on Wednesday as higher US bond yields and firmer oil prices lifted the greenback, putting pressure on Asian currencies. The dollar strengthened against major currencies this week and held firm on Wednesday, as renewed hostilities between the US and Iran pushed oil prices…",
+   "image": "https://i.brecorder.com/large/2026/09/02105426a2e5771.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares remain over 1% lower after GDP data, NZ hikes rates",
+   "url": "https://www.brecorder.com/news/40437549/australian-shares-remain-over-1-lower-after-gdp-data-nz-hikes-rates",
+   "source": "Business Recorder",
+   "published": "2026-09-02T05:53:29+00:00",
+   "summary": "Australian shares remained more than 1% down on Wednesday after second-quarter economic growth slowed, though not enough to deter expectations of another interest rate hike, while New Zealand’s central bank raised rates as expected. The S&P/ASX 200 benchmark index was down 1.1% at 8,967 points, as of 0243 GMT, recoveri…",
+   "image": "https://i.brecorder.com/large/2026/09/02105232d95dc11.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Wednesday",
+   "url": "https://www.brecorder.com/news/40437547/thai-bahtus-dollar-weaker-on-wednesday",
+   "source": "Business Recorder",
+   "published": "2026-09-02T05:48:59+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Wednesday. At 0158 GMT, the baht was 0.24% lower at 33.37 versus the dollar, after trading in a range of 33.290 to 33.410. It ended the previous session at 33.2875 per dollar, as per LSEG data.‑Reuters",
+   "image": "https://i.brecorder.com/large/2026/09/02104530cc96872.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "KSE-100 sheds 1,250 points amid fresh US-Iran escalation",
+   "url": "https://tribune.com.pk/story/2627062/kse-100-sheds-1250-points-amid-fresh-us-iran-escalation",
+   "source": "The Express Tribune",
+   "published": "2026-09-02T03:39:06+00:00",
+   "summary": "Selling concentrated across automobiles, cement, commercial banks, exploration companies, power generation",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -339,115 +404,11 @@
    "domestic": false
   },
   {
-   "title": "Optimistic outlook",
-   "url": "https://www.brecorder.com/news/40437460/optimistic-outlook",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:56:56+00:00",
-   "summary": "EDITORIAL: The August Economic Update and Outlook uploaded by the Finance Division on the last day of the month began on extremely optimistic note: “Pakistan entered fiscal year 2027 on a stronger macro-economic footing, supported by strengthened fiscal buffers, enhanced economic stability and improving growth prospect…",
-   "image": "https://i.brecorder.com/large/2026/09/02011413575e582.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gulf equities mixed amid escalating US-Iran conflict; Qatar gains",
-   "url": "https://www.brecorder.com/news/40437425/gulf-equities-mixed-amid-escalating-us-iran-conflict-qatar-gains",
-   "source": "Business Recorder",
-   "published": "2026-09-01T13:45:31+00:00",
-   "summary": "BENGALURU: Gulf stock markets ended mixed on Tuesday as renewed military action between the U.S. and Iran weighed on investor sentiment, while Qatar’s index bucked the trend, supported by higher oil prices. U.S. President Donald Trump threatened further strikes against Iran on Monday following the first direct exchange…",
-   "image": "https://i.brecorder.com/large/2026/09/01184447e0758cb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "London stocks slide as rising gilt yields weigh; Reckitt gains",
-   "url": "https://www.brecorder.com/news/40437413/london-stocks-slide-as-rising-gilt-yields-weigh-reckitt-gains",
-   "source": "Business Recorder",
-   "published": "2026-09-01T11:53:05+00:00",
-   "summary": "London’s FTSE indexes fell on Tuesday as Middle East tensions pushed global bond yields higher on inflation concerns, while Reckitt Benckiser gained after a favourable U.S. court ruling in a baby formula case. The export-focused FTSE 100 index dropped 1% to a two-week low of 10,725.6 points by 1019 GMT, while the domes…",
-   "image": "https://i.brecorder.com/large/2026/09/0116523830ae72e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Zinc and copper driven up by supply fears before retreating on strong dollar",
-   "url": "https://www.brecorder.com/news/40437407/zinc-and-copper-driven-up-by-supply-fears-before-retreating-on-strong-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-01T11:20:28+00:00",
-   "summary": "LONDON: Zinc prices hit a more than four-year high on supply worries while copper touched a seven-month peak on Tuesday before retreating under pressure from a stronger dollar and a global bond selloff. Benchmark three-month zinc on the London Metal Exchange was up 1.3% at $3,933 a metric ton by 1020 GMT after touching…",
-   "image": "https://i.brecorder.com/large/2026/09/01162014fe8d3a0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm climbs over 1% on stronger rival oils, crude",
-   "url": "https://www.brecorder.com/news/40437406/palm-climbs-over-1-on-stronger-rival-oils-crude",
-   "source": "Business Recorder",
-   "published": "2026-09-01T11:17:38+00:00",
-   "summary": "KUALA LUMPUR: Malaysian palm oil futures rose more than 1% on Tuesday, as gains in firmer as rival edible oils and crude oil prices offset weak cargo surveyor data on August exports. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange rose 77 ringgit, or 1.57%, to 4,971 ring…",
-   "image": "https://i.brecorder.com/large/2026/09/01161721b7b6cdd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI intervention, dollar flows push Indian rupee to two-month peak",
-   "url": "https://www.brecorder.com/news/40437404/rbi-intervention-dollar-flows-push-indian-rupee-to-two-month-peak",
-   "source": "Business Recorder",
-   "published": "2026-09-01T11:05:58+00:00",
-   "summary": "MUMBAI: The Indian rupee surged to a two-month high against the U.S. dollar on Tuesday, powered by aggressive central bank intervention and supported by flow-related dollar offers from foreign banks. The Indian rupee settled above the 95 to the dollar mark for the first time in two months, defying a selloff in Asian cu…",
-   "image": "https://i.brecorder.com/large/2026/09/011605382a7e4ee.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Foreign buying in Indian stocks hits 23-month high in August, depository data shows",
-   "url": "https://www.brecorder.com/news/40437403/foreign-buying-in-indian-stocks-hits-23-month-high-in-august-depository-data-shows",
-   "source": "Business Recorder",
-   "published": "2026-09-01T11:03:30+00:00",
-   "summary": "Foreign portfolio investors poured $3.1 billion into Indian equities in August, the highest monthly inflow in nearly two years, aided by domestic companies’ strong earnings outlook and the central bank’s measures to stabilize the rupee. FPIs were net buyers for a second consecutive month, with their purchases in August…",
-   "image": "https://i.brecorder.com/large/2026/09/011602269b2fc98.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UK 10-year gilt yields hit highest since 2008 as Iran war reignites inflation fears",
-   "url": "https://www.brecorder.com/news/40437390/uk-10-year-gilt-yields-hit-highest-since-2008-as-iran-war-reignites-inflation-fears",
-   "source": "Business Recorder",
-   "published": "2026-09-01T07:52:55+00:00",
-   "summary": "LONDON: British 10-year government bond yields rose to their highest since 2008 on Tuesday, tracking a rising in borrowing costs globally as another increase in oil prices reignited concerns about inflation. The gilts market was also playing catch up with moves elsewhere, following Monday’s UK public holiday. Ten-year …",
-   "image": "https://i.brecorder.com/large/2026/09/01125244b66f708.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX tumbles 509 points as selling pressure grips market",
-   "url": "https://tribune.com.pk/story/2626906/psx-tumbles-509-points-as-selling-pressure-grips-market",
+   "title": "Fuel, wheat push inflation to 11.2%",
+   "url": "https://tribune.com.pk/story/2626979/fuel-wheat-push-inflation-to-112",
    "source": "The Express Tribune",
-   "published": "2026-09-01T07:24:41+00:00",
-   "summary": "KSE-100 Index surrenders early gains as banks and cement stocks lead losses; oil gains on renewed US-Iran hostilities",
+   "published": "2026-09-01T16:51:48+00:00",
+   "summary": "CPI back in double-digit as cost-recovery policy elevates pressure on households",
    "image": null,
    "topics": [
     "Economy"
@@ -456,77 +417,11 @@
    "domestic": false
   },
   {
-   "title": "Indonesia August inflation edges up",
-   "url": "https://www.brecorder.com/news/40437385/indonesia-august-inflation-edges-up",
-   "source": "Business Recorder",
-   "published": "2026-09-01T06:35:16+00:00",
-   "summary": "JAKARTA: Indonesia’s annual inflation rate picked up to 3.19% in August from 2.88% the previous month, official data showed on Tuesday, to be roughly in line with the 3.13% expected by economists polled by Reuters . Indonesia exports rise 6.05% annually in July, beating expectations Statistics Indonesia will release co…",
-   "image": "https://i.brecorder.com/large/2026/09/01113510544ee33.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Iran war could keep inflation high, ECB policymaker Rehn warns, FT reports",
-   "url": "https://www.brecorder.com/news/40437382/iran-war-could-keep-inflation-high-ecb-policymaker-rehn-warns-ft-reports",
-   "source": "Business Recorder",
-   "published": "2026-09-01T06:29:52+00:00",
-   "summary": "The European Central Bank must prepare for an extended “conflict of attrition” in the Middle East that could keep inflation elevated in the Eurozone, ECB policymaker Olli Rehn told the Financial Times in an interview published on Tuesday. “We must show no complacency in the face of these inflationary pressures,” Rehn t…",
-   "image": "https://i.brecorder.com/large/2026/09/01112907a129d7a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia exports rise 6.05% annually in July, beating expectations",
-   "url": "https://www.brecorder.com/news/40437379/indonesia-exports-rise-605-annually-in-july-beating-expectations",
-   "source": "Business Recorder",
-   "published": "2026-09-01T06:20:14+00:00",
-   "summary": "JAKARTA: Indonesia exported goods worth $26.22 billion in July, up 6.05% from the same month a year earlier, official data showed on Tuesday, with a trade surplus posted for the first time in three months. The exports growth compared with a 3.36% annual growth expected in a Reuters poll. July imports rose 27.02%, above…",
-   "image": "https://i.brecorder.com/large/2026/09/0111193493cd402.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia January-July coal export volume down 6.17% y/y, stats bureau data shows",
-   "url": "https://www.brecorder.com/news/40437374/indonesia-january-july-coal-export-volume-down-617-yy-stats-bureau-data-shows",
-   "source": "Business Recorder",
-   "published": "2026-09-01T06:11:29+00:00",
-   "summary": "JAKARTA: Indonesia exported 201.47 million metric tons of coal in the January to July period, down 6.17% from the same period last year, statistics bureau data showed on Tuesday. The shipments were worth $14.47 billion, 4.75% higher than the corresponding period in 2025. China’s June coal imports jump 29% after mine ac…",
-   "image": "https://i.brecorder.com/large/2026/09/011111215a179aa.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan's benchmark 10-year bond yield reaches 3% level for first time in 30 years",
-   "url": "https://www.brecorder.com/news/40437373/japans-benchmark-10-year-bond-yield-reaches-3-level-for-first-time-in-30-years",
-   "source": "Business Recorder",
-   "published": "2026-09-01T06:10:03+00:00",
-   "summary": "TOKYO: Japan’s benchmark bond yield hit the 3% level for the first time since September 1996 on Tuesday, highlighting how inflation, fiscal concerns and shifting monetary policy are reshaping a market long defined by low interest rates. With the Middle East crisis stoking inflation fears globally and pressure on the Ba…",
-   "image": "https://i.brecorder.com/large/2026/09/01110936ed13a1a.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Japan, US agree to continue coordination on yen, Katayama says",
-   "url": "https://tribune.com.pk/story/2626858/japan-us-agree-to-continue-coordination-on-yen-katayama-says",
+   "title": "PSX dips 509 points amid cautious trading",
+   "url": "https://tribune.com.pk/story/2626988/psx-dips-509-points-amid-cautious-trading",
    "source": "The Express Tribune",
-   "published": "2026-09-01T01:10:46+00:00",
-   "summary": "Bessent calls recent moves 'pretty well contained' as currency slides near 160 per dollar",
+   "published": "2026-09-01T16:51:48+00:00",
+   "summary": "KSE-100 index gives up early gains over US-Iran hostilities, oil supply fears",
    "image": null,
    "topics": [
     "Economy"
@@ -535,16 +430,16 @@
    "domestic": false
   },
   {
-   "title": "FBR achieves Rs1.71tr tax target",
-   "url": "https://tribune.com.pk/story/2626792/fbr-achieves-rs171tr-tax-target",
+   "title": "Gold falls; liquidity model eyes $5,025",
+   "url": "https://tribune.com.pk/story/2626980/gold-falls-liquidity-model-eyes-5025",
    "source": "The Express Tribune",
-   "published": "2026-08-31T17:15:34+00:00",
-   "summary": "Collection rises 3.3% in Jul-Aug; 17.4% growth required to meet annual goal",
+   "published": "2026-09-01T16:51:48+00:00",
+   "summary": "Global M2 money supply grows 8.5% YoY; rupee inches up",
    "image": null,
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -561,19 +456,6 @@
    "domestic": false
   },
   {
-   "title": "'Seafood exports could reach $2b'",
-   "url": "https://tribune.com.pk/story/2626441/seafood-exports-could-reach-2b",
-   "source": "The Express Tribune",
-   "published": "2026-08-29T15:25:22+00:00",
-   "summary": "Stakeholders call for investment in processing facilities to meet potential",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Govt rebuts claims of cancelling power-generation component of Diamer-Bhasha Dam",
    "url": "https://www.dawn.com/news/2025942/govt-rebuts-claims-of-cancelling-power-generation-component-of-diamer-bhasha-dam",
    "source": "Dawn",
@@ -587,19 +469,6 @@
    "domestic": false
   },
   {
-   "title": "PSX edges up, stalls below 178,000",
-   "url": "https://tribune.com.pk/story/2626332/psx-edges-up-stalls-below-178000",
-   "source": "The Express Tribune",
-   "published": "2026-08-28T15:49:24+00:00",
-   "summary": "KSE-100 index gains 374 points as market breadth stays negative",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "MPs warn against long-term energy contracts",
    "url": "https://tribune.com.pk/story/2626132/mps-warn-against-long-term-energy-contracts",
    "source": "The Express Tribune",
@@ -610,32 +479,6 @@
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Telcos seek grid upgrades for 5G rollout",
-   "url": "https://tribune.com.pk/story/2626128/telcos-seek-grid-upgrades-for-5g-rollout",
-   "source": "The Express Tribune",
-   "published": "2026-08-27T16:21:52+00:00",
-   "summary": "Company chief says 'smart buildings' with 5G bubble could prevent PIMS-like fire damage",
-   "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Keti Bunder: Zardari urges integrated plan",
-   "url": "https://tribune.com.pk/story/2625676/keti-bunder-zardari-urges-integrated-plan",
-   "source": "The Express Tribune",
-   "published": "2026-08-24T17:41:23+00:00",
-   "summary": "President calls for connectivity, infrastructure and livelihoods for local people",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
