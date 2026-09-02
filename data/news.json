@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-01T22:47:27+00:00",
- "count": 52,
- "relevant_count": 16,
- "domestic_count": 13,
+ "generated": "2026-09-02T00:51:22+00:00",
+ "count": 56,
+ "relevant_count": 22,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,112 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "KE investing Rs15bn to improve power infrastructure: Chishti",
+   "url": "https://www.brecorder.com/news/40437454/ke-investing-rs15bn-to-improve-power-infrastructure-chishti",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "KARACHI: K-Electric Board Chairman Shaheryar Chishti has said the company is investing Rs 15 billion to improve the power infrastructure and ensure reliable and uninterrupted electricity supply to Karachi’s industrial sector. The investment will include laying new cables and wires, upgrading grids, bifurcating feeders …",
+   "image": "https://i.brecorder.com/large/2026/09/02010748e6c7848.webp",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sindh LG law: proposed amendments discussed",
+   "url": "https://www.brecorder.com/news/40437455/sindh-lg-law-proposed-amendments-discussed",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah presided over a provincial cabinet meeting on Tuesday, which approved local government reform; a comprehensive survey and digital mapping of around 1.61 million acres of Katcha land across the province; endorsed support package for small wheat growers; extended tax and …",
+   "image": "https://i.brecorder.com/large/2026/09/020108297a26e7c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "NNAR’s book-building fully subscribed",
+   "url": "https://www.brecorder.com/news/40437465/nnars-book-building-fully-subscribed",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "KARACHI: The book-building portion of the Naya Nazimabad Apartment REIT (NNAR) was fully subscribed within the first hour of bidding, reflecting strong demand from institutional and high-net-worth investors. The two-day book-building process began on September 1 and will continue through September 2. NNAR is offering 4…",
+   "image": "https://i.brecorder.com/large/2026/09/02050205ac9b3c5.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "RTO Hyderabad recovers huge quantity of untaxed goods",
+   "url": "https://www.brecorder.com/news/40437466/rto-hyderabad-recovers-huge-quantity-of-untaxed-goods",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "KARACHI: The Regional Tax Office (RTO) Hyderabad intercepted eight commercial vehicles and recovered substantial quantity of untaxed goods during last eight days. According to the details, the crackdown focused heavily on non-compliance with digital invoicing mandates under Section 40c and Third Schedule regulations. D…",
+   "image": "https://i.brecorder.com/large/2026/09/020120282d98b81.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Concrete steps required to curb FMD in livestock sector, NA body told",
+   "url": "https://www.brecorder.com/news/40437467/concrete-steps-required-to-curb-fmd-in-livestock-sector-na-body-told",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "ISLAMABAD: Foot and mouth disease (FMD) in the livestock sector is a major challenge in Pakistani meat exports; therefore, concrete measures are mandatory to curb the disease. “To control FMD in the livestock sector, we need to take measures as per international standards”, said Secretary, Ministry of National Food Sec…",
+   "image": "https://i.brecorder.com/large/2026/09/020455498565249.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Curbs on social media for under-16s approved: Punjab Assembly seeks action against illegal housing schemes",
+   "url": "https://www.brecorder.com/news/40437470/curbs-on-social-media-for-under-16s-approved-punjab-assembly-seeks-action-against-illegal-housing-schemes",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "LAHORE: The Punjab Assembly on Tuesday unanimously passed several resolutions, including a call for restrictions on social media accounts of children under 16 and protection of Pakistan’s rights under the Indus Waters Treaty, while directing the provincial Housing Department to provide a prompt response on illegal hous…",
+   "image": "https://i.brecorder.com/large/2026/09/020124103ec27ed.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PKRC opposes commercialisation of GM maize",
+   "url": "https://www.brecorder.com/news/40437474/pkrc-opposes-commercialisation-of-gm-maize",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "LAHORE: The Pakistan Kissan Rabita Committee (PKRC) has strongly opposed the government’s decision in principle to commercialise genetically modified (GM) maize and demanded a complete ban on the cultivation, commercialisation, import and release of genetically modified crops in Pakistan. In a statement issued on Tuesd…",
+   "image": "https://i.brecorder.com/large/2026/09/0201263305ebb7b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Ahsan reviews progress on implementation of CPEC Action Plan for 2025–29",
+   "url": "https://www.brecorder.com/news/40437479/ahsan-reviews-progress-on-implementation-of-cpec-action-plan-for-2025-29",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Planning, Development & Special Initiatives Ahsan Iqbal has said that CPEC Phase-I brought around USD 25 billion in Chinese investment, added nearly 8,000 megawatts to electricity generation capacity, and helped Pakistan overcome the energy crisis and strengthen energy security. He said …",
+   "image": "https://i.brecorder.com/large/2026/09/02013044b3ef90d.webp",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Pakistan rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40437399/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -181,29 +287,42 @@
    "domestic": true
   },
   {
-   "title": "Compliance is not the cost of exporting IT services. It is the entry ticket",
-   "url": "https://www.brecorder.com/news/40437435/compliance-is-not-the-cost-of-exporting-it-services-it-is-the-entry-ticket",
+   "title": "Optimistic outlook",
+   "url": "https://www.brecorder.com/news/40437460/optimistic-outlook",
    "source": "Business Recorder",
-   "published": "2026-09-01T17:27:23+00:00",
-   "summary": "Software houses, business process outsourcing units, and data-processing firms are among the most trust-dependent businesses a country can export. The client is not buying a product it can inspect on arrival — it is handing over the personal data of its own customers. Precision and accuracy are visible in a surgical in…",
-   "image": "https://i.brecorder.com/large/2026/09/012221286c8fa36.webp",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "EDITORIAL: The August Economic Update and Outlook uploaded by the Finance Division on the last day of the month began on extremely optimistic note: “Pakistan entered fiscal year 2027 on a stronger macro-economic footing, supported by strengthened fiscal buffers, enhanced economic stability and improving growth prospect…",
+   "image": "https://i.brecorder.com/large/2026/09/02011413575e582.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Begin, Huawei Cloud and Allianz announce strategic partnership",
+   "url": "https://www.brecorder.com/news/40437468/begin-huawei-cloud-and-allianz-announce-strategic-partnership",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "DUBAI: Begin, the global OTT platform focused on delivering premium entertainment and sports content, has announced a strategic technology partnership with Huawei and Allianz Hosting FZ LLC to strengthen its cloud infrastructure, content delivery capabilities and artificial intelligence ecosystem. The collaboration wil…",
+   "image": "https://i.brecorder.com/large/2026/09/0201221979a976c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PITAD officers visit PHMA House",
+   "url": "https://www.brecorder.com/news/40437476/pitad-officers-visit-phma-house",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:09:17+00:00",
+   "summary": "FAISALABAD: Newly inducted civil servants of the Specialised Training Programme (STP), 32nd Batch of the Pakistan Institute of Trade and Development (PITAD), Ministry of Commerce, visited the Pakistan Hosiery Manufacturers & Exporters Association (PHMA) House here to gain practical insight into the business environment…",
+   "image": "https://i.brecorder.com/large/2026/09/0201283213011cb.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Naya Nazimabad Apartment REIT book-building fully subscribed 'within first hour'",
-   "url": "https://www.brecorder.com/news/40437432/naya-nazimabad-apartment-reit-book-building-fully-subscribed-within-first-hour",
-   "source": "Business Recorder",
-   "published": "2026-09-01T15:50:51+00:00",
-   "summary": "The book-building portion of the Naya Nazimabad Apartment REIT (NNAR) received good response from institutional and high-net-worth investors, with the offering becoming fully subscribed within the first hour of bidding, reflecting strong investor appetite for Pakistan’s growing REIT market, a statement said on Tuesday.…",
-   "image": "https://i.brecorder.com/large/2026/09/012050264ccc2bd.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -226,72 +345,6 @@
    "published": "2026-09-01T13:45:31+00:00",
    "summary": "BENGALURU: Gulf stock markets ended mixed on Tuesday as renewed military action between the U.S. and Iran weighed on investor sentiment, while Qatar’s index bucked the trend, supported by higher oil prices. U.S. President Donald Trump threatened further strikes against Iran on Monday following the first direct exchange…",
    "image": "https://i.brecorder.com/large/2026/09/01184447e0758cb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's current account widens marginally in April-June, RBI data shows",
-   "url": "https://www.brecorder.com/news/40437423/indias-current-account-widens-marginally-in-april-june-rbi-data-shows",
-   "source": "Business Recorder",
-   "published": "2026-09-01T13:38:08+00:00",
-   "summary": "MUMBAI: India’s current account deficit widened marginally in the April-to-June quarter from a year ago on the back of higher commodity prices and a wider trade gap, the Reserve Bank of India said on Tuesday. The gap stood at $4.2 billion, or 0.5% of GDP, in the first quarter of the fiscal year 2026-27, compared with a…",
-   "image": "https://i.brecorder.com/large/2026/09/01183752300d567.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan inflation clocks in at 11.1% in August 2026",
-   "url": "https://www.brecorder.com/news/40437417/pakistan-inflation-clocks-in-at-111-in-august-2026",
-   "source": "Business Recorder",
-   "published": "2026-09-01T13:09:37+00:00",
-   "summary": "Pakistan’s headline inflation clocked in at 11.1% on a year-on-year (YoY) basis in August 2026, up from 9.2% recorded in July, as shown by Pakistan Bureau of Statistics (PBS) data on Tuesday. The consumer price index (CPI) was recorded at 3.1% in August 2025. On month-on-month basis, it remained unchanged at 1.2% in Au…",
-   "image": "https://i.brecorder.com/large/2026/09/01173136c00bc19.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Tribhovandas Bhimji Zaveri soars to record high on growth optimism after GRT Jewellers deal",
-   "url": "https://www.brecorder.com/news/40437420/tribhovandas-bhimji-zaveri-soars-to-record-high-on-growth-optimism-after-grt-jewellers-deal",
-   "source": "Business Recorder",
-   "published": "2026-09-01T12:44:17+00:00",
-   "summary": "Tribhovandas Bhimji Zaveri’s shares surged to a record high on Tuesday after GRT Jewellers agreed to acquire a controlling stake in the jewellery retailer, with investors expecting the deal to boost TBZ’s growth prospects. Shares of the company jumped nearly 20%to a record 366.80 rupees, hitting their exchange-allowed …",
-   "image": "https://i.brecorder.com/large/2026/09/01174349245a1fc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's coal-fired power generation growth slows in August, renewables up",
-   "url": "https://www.brecorder.com/news/40437418/indias-coal-fired-power-generation-growth-slows-in-august-renewables-up",
-   "source": "Business Recorder",
-   "published": "2026-09-01T12:37:18+00:00",
-   "summary": "NEW DELHI: India’s annual coal-fired electricity output growth rate slowed in August as renewable power generation rose amid rising demand, data posted on Grid-India’s website showed. The South Asian nation’s electricity generation rose 11.6% year-on-year to 180 billion kilowatt-hours (kWh) in August, as an extended he…",
-   "image": "https://i.brecorder.com/large/2026/09/01173646c9653c2.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Capri Global taps dollar market with debut debt issue after banks hit pause",
-   "url": "https://www.brecorder.com/news/40437415/capri-global-taps-dollar-market-with-debut-debt-issue-after-banks-hit-pause",
-   "source": "Business Recorder",
-   "published": "2026-09-01T12:01:25+00:00",
-   "summary": "MUMBAI: India’s Capri Global Capital has initiated the procedure to borrow in dollars in what would be its first ever foreign currency debt issuance, two months after it appointed lead managers, two merchant bankers said on Tuesday. The non-banking financial company will aim to raise around $300 million to $500 million…",
-   "image": "https://i.brecorder.com/large/2026/09/0116592839c2671.webp",
    "topics": [
     "Economy"
    ],
