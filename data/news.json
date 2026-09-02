@@ -1,15 +1,55 @@
 {
- "generated": "2026-09-02T00:51:22+00:00",
- "count": 56,
- "relevant_count": 22,
- "domestic_count": 21,
+ "generated": "2026-09-02T05:27:01+00:00",
+ "count": 52,
+ "relevant_count": 18,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (12)",
-  "Business Recorder": "ok (17)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Establishment of Pakistan–Saudi Arabia food export task force urged",
+   "url": "https://www.brecorder.com/news/40437529/establishment-of-pakistan-saudi-arabia-food-export-task-force-urged",
+   "source": "Business Recorder",
+   "published": "2026-09-02T02:47:45+00:00",
+   "summary": "KARACHI: Mian Zahid Hussain, President Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman National Business Group Pakistan and Chairman Policy Advisory Board FPCCI, has proposed establishing a joint Pakistan–Saudi Arabia Agri-Food Export Task Force, setting product-specific targe…",
+   "image": "https://i.brecorder.com/large/2026/09/02074702ae64a79.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Inflation rebounds to 11pc in August",
+   "url": "https://www.dawn.com/news/2026747/inflation-rebounds-to-11pc-in-august",
+   "source": "Dawn",
+   "published": "2026-09-02T02:35:06+00:00",
+   "summary": "ISLAMABAD: Consumer inflation rose to 11.1 per cent in August from 9.2pc a month earlier, driven mainly by higher food and energy prices, according to data released by the Pakistan Bureau of Statistics (PBS) on Tuesday. The reversal in inflation, measured by the Consumer Price Index (CPI), after two consecutive months …",
+   "image": "https://i.dawn.com/large/2026/09/02024453b708add.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Karachi industry cries out over power tariffs",
+   "url": "https://www.dawn.com/news/2026749/karachi-industry-cries-out-over-power-tariffs",
+   "source": "Dawn",
+   "published": "2026-09-02T01:59:08+00:00",
+   "summary": "KARACHI: Amid disappointment among trade and industry over costly tariffs, K-Electric Board Chairman Shaheryar Chishti has said the company is investing Rs15 billion to upgrade its power infrastructure and ensure a reliable, uninterrupted electricity supply for the industrial sector. Addressing members of the Korangi A…",
+   "image": "https://i.dawn.com/large/2026/09/0207395052e9cd0.webp",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "KE investing Rs15bn to improve power infrastructure: Chishti",
    "url": "https://www.brecorder.com/news/40437454/ke-investing-rs15bn-to-improve-power-infrastructure-chishti",
@@ -38,19 +78,6 @@
    "domestic": true
   },
   {
-   "title": "NNAR’s book-building fully subscribed",
-   "url": "https://www.brecorder.com/news/40437465/nnars-book-building-fully-subscribed",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "KARACHI: The book-building portion of the Naya Nazimabad Apartment REIT (NNAR) was fully subscribed within the first hour of bidding, reflecting strong demand from institutional and high-net-worth investors. The two-day book-building process began on September 1 and will continue through September 2. NNAR is offering 4…",
-   "image": "https://i.brecorder.com/large/2026/09/02050205ac9b3c5.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "RTO Hyderabad recovers huge quantity of untaxed goods",
    "url": "https://www.brecorder.com/news/40437466/rto-hyderabad-recovers-huge-quantity-of-untaxed-goods",
    "source": "Business Recorder",
@@ -74,46 +101,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Curbs on social media for under-16s approved: Punjab Assembly seeks action against illegal housing schemes",
-   "url": "https://www.brecorder.com/news/40437470/curbs-on-social-media-for-under-16s-approved-punjab-assembly-seeks-action-against-illegal-housing-schemes",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "LAHORE: The Punjab Assembly on Tuesday unanimously passed several resolutions, including a call for restrictions on social media accounts of children under 16 and protection of Pakistan’s rights under the Indus Waters Treaty, while directing the provincial Housing Department to provide a prompt response on illegal hous…",
-   "image": "https://i.brecorder.com/large/2026/09/020124103ec27ed.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PKRC opposes commercialisation of GM maize",
-   "url": "https://www.brecorder.com/news/40437474/pkrc-opposes-commercialisation-of-gm-maize",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "LAHORE: The Pakistan Kissan Rabita Committee (PKRC) has strongly opposed the government’s decision in principle to commercialise genetically modified (GM) maize and demanded a complete ban on the cultivation, commercialisation, import and release of genetically modified crops in Pakistan. In a statement issued on Tuesd…",
-   "image": "https://i.brecorder.com/large/2026/09/0201263305ebb7b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Ahsan reviews progress on implementation of CPEC Action Plan for 2025–29",
-   "url": "https://www.brecorder.com/news/40437479/ahsan-reviews-progress-on-implementation-of-cpec-action-plan-for-2025-29",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Planning, Development & Special Initiatives Ahsan Iqbal has said that CPEC Phase-I brought around USD 25 billion in Chinese investment, added nearly 8,000 megawatts to electricity generation capacity, and helped Pakistan overcome the energy crisis and strengthen energy security. He said …",
-   "image": "https://i.brecorder.com/large/2026/09/02013044b3ef90d.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -222,19 +209,6 @@
    "domestic": true
   },
   {
-   "title": "Domestic bonds attract $171m in 50 days",
-   "url": "https://www.dawn.com/news/2025878/domestic-bonds-attract-171m-in-50-days",
-   "source": "Dawn",
-   "published": "2026-08-28T23:54:57+00:00",
-   "summary": "KARACHI: Foreign investors poured about $171 million into Pakistan’s government securities during the first 50 days of the current fiscal year, with Treasury bills attracting the bulk of the inflows at $126.9m and long-term Pakistan Investment Bonds (PIBs) drawing $44m. However, the momentum remained concentrated in sh…",
-   "image": "https://i.dawn.com/large/2026/08/290741328edb3b6.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Govt seeks fresh financing plan for ML-1 section",
    "url": "https://www.dawn.com/news/2025879/govt-seeks-fresh-financing-plan-for-ml-1-section",
    "source": "Dawn",
@@ -245,19 +219,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Short-term inflation rises over 9pc",
-   "url": "https://www.dawn.com/news/2025880/short-term-inflation-rises-over-9pc",
-   "source": "Dawn",
-   "published": "2026-08-28T23:54:56+00:00",
-   "summary": "ISLAMABAD: Short-term inflation, measured by the Sensitive Price Index (SPI), surged by 9.04 per cent year-on-year for the week ending August 27, mainly due to higher energy prices, according to official data released on Friday. The government is steadily increasing petrol and diesel prices on a daily basis. As a resul…",
-   "image": "https://i.dawn.com/large/2026/08/2907284232f1b25.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -287,12 +248,25 @@
    "domestic": true
   },
   {
-   "title": "Optimistic outlook",
-   "url": "https://www.brecorder.com/news/40437460/optimistic-outlook",
+   "title": "PSX: Stocks shed near 1,300 points in early trade",
+   "url": "https://www.brecorder.com/news/40437545/psx-stocks-shed-near-1300-points-in-early-trade",
    "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "EDITORIAL: The August Economic Update and Outlook uploaded by the Finance Division on the last day of the month began on extremely optimistic note: “Pakistan entered fiscal year 2027 on a stronger macro-economic footing, supported by strengthened fiscal buffers, enhanced economic stability and improving growth prospect…",
-   "image": "https://i.brecorder.com/large/2026/09/02011413575e582.webp",
+   "published": "2026-09-02T05:11:54+00:00",
+   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) as concerns over supply disruption intensified after the US and Iran exchanged ​strikes overnight, with the benchmark KSE-100 Index shedding nearly 1,300 points during the opening minutes of trading on Wednesday. At 10am, the benchmark index was hoverin…",
+   "image": "https://i.brecorder.com/large/2026/09/021010518c268c8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Senate panel directs govt to renegotiate IMF terms for special economic zones",
+   "url": "https://www.dawn.com/news/2026825/senate-panel-directs-govt-to-renegotiate-imf-terms-for-special-economic-zones",
+   "source": "Dawn",
+   "published": "2026-09-02T03:28:39+00:00",
+   "summary": "https://www.dawn.com/news/2026750/govt-told-to-renegotiate-imf-terms",
+   "image": "https://i.dawn.com/large/2026/09/02082243d83486c.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -300,42 +274,81 @@
    "domestic": false
   },
   {
-   "title": "Begin, Huawei Cloud and Allianz announce strategic partnership",
-   "url": "https://www.brecorder.com/news/40437468/begin-huawei-cloud-and-allianz-announce-strategic-partnership",
+   "title": "Bond selloff deepens as inflation, oil prices jolt markets",
+   "url": "https://www.brecorder.com/news/40437542/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets",
    "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "DUBAI: Begin, the global OTT platform focused on delivering premium entertainment and sports content, has announced a strategic technology partnership with Huawei and Allianz Hosting FZ LLC to strengthen its cloud infrastructure, content delivery capabilities and artificial intelligence ecosystem. The collaboration wil…",
-   "image": "https://i.brecorder.com/large/2026/09/0201221979a976c.webp",
+   "published": "2026-09-02T03:27:30+00:00",
+   "summary": "SINGAPORE: Global bonds sold off sharply on Wednesday , extending a rout that is raising borrowing costs to multi-decade highs as the Middle ​East conflict pushes up energy prices, playing into investor fears about inflation and ballooning government debt. Sovereign yields are a reference ‌point for asset prices across…",
+   "image": "https://i.brecorder.com/large/2026/09/02082526779eea6.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "RBI's bid to lift Indian rupee put to test by oil, US yields",
+   "url": "https://www.brecorder.com/news/40437541/rbis-bid-to-lift-indian-rupee-put-to-test-by-oil-us-yields",
+   "source": "Business Recorder",
+   "published": "2026-09-02T03:18:40+00:00",
+   "summary": "MUMBAI: The Indian rupee is on course to open lower on Wednesday , pressured by a surge in oil prices and rising U.S. ​Treasury yields, threatening to blunt the momentum the currency has ‌built with the central bank’s intervention. The Indian rupee is expected to open in the 95.02-95.06 range, according to traders, aft…",
+   "image": "https://i.brecorder.com/large/2026/09/0208163095e1d71.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares to fall as widening Iran conflict sends oil higher",
+   "url": "https://www.brecorder.com/news/40437539/indian-shares-to-fall-as-widening-iran-conflict-sends-oil-higher",
+   "source": "Business Recorder",
+   "published": "2026-09-02T03:06:41+00:00",
+   "summary": "Indian shares will open lower on Wednesday , in line with global markets, as oil prices surged to a near-six-week high after the ​US and Iran exchanged strikes overnight, intensifying the Middle East ‌conflict and renewing concerns over inflation. GIFT Nifty futures were at 24,033.5 points as of 7:38 a.m. IST, indicati…",
+   "image": "https://i.brecorder.com/large/2026/09/020805238ca5115.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar holds firm as Middle East hostilities lift oil",
+   "url": "https://www.brecorder.com/news/40437537/dollar-holds-firm-as-middle-east-hostilities-lift-oil",
+   "source": "Business Recorder",
+   "published": "2026-09-02T02:57:53+00:00",
+   "summary": "TOKYO: The dollar held firm on Wednesday as renewed hostilities in the Middle East pushed oil prices higher and revived inflation concerns. The currency’s safe-haven ​appeal has been reinforced by rising Treasury yields and growing expectations of a Federal Reserve rate hike, even as recent economic data ‌came in below…",
+   "image": "https://i.brecorder.com/large/2026/09/02075331dc534c4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold hits over 3-week low as MidEast tensions fan rate-hike fears",
+   "url": "https://www.brecorder.com/news/40437535/gold-hits-over-3-week-low-as-mideast-tensions-fan-rate-hike-fears",
+   "source": "Business Recorder",
+   "published": "2026-09-02T02:45:33+00:00",
+   "summary": "Gold fell on Wednesday to its ‌lowest in more than three weeks , as the escalating Middle East conflict lifted oil prices and stoked inflation and rate-hike fears, while investors focused on upcoming US jobs data. Spot gold was down 0.6% ​at $4,304.01 per ounce by 0017 GMT, its lowest since August 7. Prices were ​heade…",
+   "image": "https://i.brecorder.com/large/2026/09/02074418b4e8ca3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Optimistic outlook",
+   "url": "https://www.brecorder.com/news/40437460/optimistic-outlook",
+   "source": "Business Recorder",
+   "published": "2026-09-02T00:56:56+00:00",
+   "summary": "EDITORIAL: The August Economic Update and Outlook uploaded by the Finance Division on the last day of the month began on extremely optimistic note: “Pakistan entered fiscal year 2027 on a stronger macro-economic footing, supported by strengthened fiscal buffers, enhanced economic stability and improving growth prospect…",
+   "image": "https://i.brecorder.com/large/2026/09/02011413575e582.webp",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PITAD officers visit PHMA House",
-   "url": "https://www.brecorder.com/news/40437476/pitad-officers-visit-phma-house",
-   "source": "Business Recorder",
-   "published": "2026-09-02T00:09:17+00:00",
-   "summary": "FAISALABAD: Newly inducted civil servants of the Specialised Training Programme (STP), 32nd Batch of the Pakistan Institute of Trade and Development (PITAD), Ministry of Commerce, visited the Pakistan Hosiery Manufacturers & Exporters Association (PHMA) House here to gain practical insight into the business environment…",
-   "image": "https://i.brecorder.com/large/2026/09/0201283213011cb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "KSE-100 Index closes over 500 points lower after volatile trading",
-   "url": "https://www.brecorder.com/news/40437362/kse-100-index-closes-over-500-points-lower-after-volatile-trading",
-   "source": "Business Recorder",
-   "published": "2026-09-01T13:46:24+00:00",
-   "summary": "The Pakistan Stock Exchange’s (PSX) benchmark KSE-100 Index closed with over 500 points loss after volatile trading on Tuesday. The KSE-100 Index starting the session positive, hitting an intra-day high of 177,800.28. However, selling was witnessed in the latter hours, which pushed the index to an intra-day low of 176,…",
-   "image": "https://i.brecorder.com/large/2026/09/01100554a1af6eb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -509,45 +522,6 @@
    "domestic": false
   },
   {
-   "title": "Yuan holds near 3-1/2-year peak as central bank slows gains",
-   "url": "https://www.brecorder.com/news/40437372/yuan-holds-near-3-12-year-peak-as-central-bank-slows-gains",
-   "source": "Business Recorder",
-   "published": "2026-09-01T06:08:25+00:00",
-   "summary": "HONG KONG: China’s yuan held near a 3-1/2-year peak against the dollar on Tuesday , as the central bank continued to slow the pace of appreciation after two months of gains. The central bank has been gradually setting its daily guidance at levels increasingly weaker than market expectations, a signal that the authoriti…",
-   "image": "https://i.brecorder.com/large/2026/09/01110803a2e5771.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia January-July palm oil export volume down 1% y/y, data shows",
-   "url": "https://www.brecorder.com/news/40437369/indonesia-january-july-palm-oil-export-volume-down-1-yy-data-shows",
-   "source": "Business Recorder",
-   "published": "2026-09-01T05:54:31+00:00",
-   "summary": "JAKARTA: Indonesia exported 13.51 million metric tons of crude and refined palm oil in the January-to-July period, down 0.97% from the same period a year earlier, statistics bureau data showed on Tuesday. The shipments were valued at $14.79 billion, up 5.49% from the first seven months of 2025. The bureau’s data exclud…",
-   "image": "https://i.brecorder.com/large/2026/09/01105346bfb8fec.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares fall on losses in tech, discretionary stocks; US-Iran clashes resume",
-   "url": "https://www.brecorder.com/news/40437368/australian-shares-fall-on-losses-in-tech-discretionary-stocks-us-iran-clashes-resume",
-   "source": "Business Recorder",
-   "published": "2026-09-01T05:52:46+00:00",
-   "summary": "Australian shares fell on Tuesday, dragged down by losses in discretionary and technology stocks, as sentiment weakened amid renewed military clashes between the US and Iran and rising inflation worries. The S&P/ASX 200 index fell 0.4% to 9,040.30, as at 0055 GMT. The benchmark closed down 0.2% on Monday. Oil prices cl…",
-   "image": "https://i.brecorder.com/large/2026/09/011052327ab83a0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Japan, US agree to continue coordination on yen, Katayama says",
    "url": "https://tribune.com.pk/story/2626858/japan-us-agree-to-continue-coordination-on-yen-katayama-says",
    "source": "The Express Tribune",
@@ -608,19 +582,6 @@
    "image": "https://i.dawn.com/large/2026/08/29131636efc1f21.webp",
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz directs FBR to ensure third-party audit of ongoing tax reforms",
-   "url": "https://www.dawn.com/news/2025916/pm-shehbaz-directs-fbr-to-ensure-third-party-audit-of-ongoing-tax-reforms",
-   "source": "Dawn",
-   "published": "2026-08-29T02:38:40+00:00",
-   "summary": "https://www.dawn.com/news/2025877",
-   "image": "https://i.dawn.com/large/2026/08/2907355712418ff.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
@@ -723,19 +684,6 @@
    "published": null,
    "summary": "PKR holds steady against US Dollar as August ends; Saudi Riyal, UAE Dirham Flat",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/currency-rates-dollar.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan, Saudi Arabia agree to raise agri, food exports to $3 billion",
-   "url": "https://arynews.tv/pakistan-saudi-arabia-agree-to-raise-agri-food-exports-to-3-billion",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan, Saudi Arabia agree to raise agri, food exports to $3 billion",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PAkistan-KSA.jpg",
    "topics": [
     "Economy"
    ],
