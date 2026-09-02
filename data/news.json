@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-02T09:52:25+00:00",
- "count": 40,
- "relevant_count": 9,
- "domestic_count": 10,
+ "generated": "2026-09-02T14:06:03+00:00",
+ "count": 42,
+ "relevant_count": 10,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (5)",
-  "ARY News": "ok (6)"
+  "Business Recorder": "ok (20)",
+  "The Express Tribune": "ok (4)",
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Pakistani rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40437585/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:52:36+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Wednesday. The local unit closed the day at 277.45 a gain of Re0.01 against the greenback. On Tuesday, the Pakistani rupee settled at 277.46 against the dollar. Moreover, the dollar held firm as renewed hostilities in the Middle East pushed oil pr…",
+   "image": "https://i.brecorder.com/large/2026/09/021557563954e9b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Inflation rebounds to 11pc in August",
    "url": "https://www.dawn.com/news/2026747/inflation-rebounds-to-11pc-in-august",
@@ -143,16 +156,121 @@
    "domestic": true
   },
   {
-   "title": "PSX: Stocks shed over 1,000 points",
-   "url": "https://www.brecorder.com/news/40437545/psx-stocks-shed-over-1000-points",
+   "title": "Indian central bank steps up rupee support, soaring NRI deposits bolster firepower",
+   "url": "https://www.brecorder.com/news/40437597/indian-central-bank-steps-up-rupee-support-soaring-nri-deposits-bolster-firepower",
    "source": "Business Recorder",
-   "published": "2026-09-02T08:06:00+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) as concerns over supply disruption intensified after the US and Iran exchanged ​strikes overnight, with the benchmark KSE-100 Index shedding over 1,000 points during the trading session on Wednesday. At 12:45pm, the benchmark index was hovering at 175,3…",
+   "published": "2026-09-02T12:11:15+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India has stepped up its support for the rupee in recent sessions, shielding the currency from a surge in oil prices and rising U.S. Treasury yields, with a flood of deposits from non-resident Indians bolstering the central bank’s firepower. The rupee has rallied past the 95-per-dollar mark …",
+   "image": "https://i.brecorder.com/large/2026/09/02171100bb6f971.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's soyoil imports hit record high in August and palm six-month peak, dealers say",
+   "url": "https://www.brecorder.com/news/40437595/indias-soyoil-imports-hit-record-high-in-august-and-palm-six-month-peak-dealers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-02T12:01:27+00:00",
+   "summary": "MUMBAI: Indian refiners imported a record amount of soyoil in August and the highest volume of palm oil in six months as they built stocks ahead of the festival season, five dealers said. Higher palm oil and soyoil buying by the world’s biggest importer of vegetable oils could help top producers Indonesia, Malaysia and…",
+   "image": "https://i.brecorder.com/large/2026/09/0217005989c7b00.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Capri Global completes debut dollar debt sale",
+   "url": "https://www.brecorder.com/news/40437593/capri-global-completes-debut-dollar-debt-sale",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:52:25+00:00",
+   "summary": "MUMBAI: India’s Capri Global Capital has accepted bids worth $300 million for its debut dollar bond offering at 20 basis points below the initial price guidance, the company said in a notice to stock exchanges on Wednesday. The non-banking financial company will sell 3-year-and-3-month bonds at 7.55% coupon. Bonds will…",
+   "image": "https://i.brecorder.com/large/2026/09/02165151ad587bd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm falls on profit-taking, weak demand",
+   "url": "https://www.brecorder.com/news/40437589/palm-falls-on-profit-taking-weak-demand",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:36:27+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures fell on Wednesday after a two-session rally, pressured by profit-taking and weak export demand. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange slid 13 ringgit, or 0.26%, to 4,960 ringgit ($1,226.81) a metric ton at the close. The…",
+   "image": "https://i.brecorder.com/large/2026/09/0216352689e8c81.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "RBI backstop keeps Indian rupee stable, blunting importer dollar demand impact",
+   "url": "https://www.brecorder.com/news/40437588/rbi-backstop-keeps-indian-rupee-stable-blunting-importer-dollar-demand-impact",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:28:42+00:00",
+   "summary": "MUMBAI: The Indian rupee ended little changed on Wednesday after moving in a narrow range, as continued support from the Reserve Bank of India offset rising dollar demand from importers and the impact of a spike in oil prices and Treasury yields. The Indian rupee opened at 94.89 against the U.S. dollar and briefly move…",
+   "image": "https://i.brecorder.com/large/2026/09/0216280967d54d5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares join global slide as Mideast woes mount",
+   "url": "https://www.brecorder.com/news/40437587/indian-shares-join-global-slide-as-mideast-woes-mount",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:24:19+00:00",
+   "summary": "Indian shares fell alongside global markets on Wednesday as renewed U.S.-Iran strikes heightened the risk of disruptions to oil flows, reviving inflation concerns amid a global bond rout that pushed borrowing costs to multi-decade highs. The Asian country is the third-largest crude importer and consumer, making it vuln…",
+   "image": "https://i.brecorder.com/large/2026/09/021623593d640c6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India Inc debt fundraising halves in August; rebound unlikely this month, bankers say",
+   "url": "https://www.brecorder.com/news/40437586/india-inc-debt-fundraising-halves-in-august-rebound-unlikely-this-month-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:21:46+00:00",
+   "summary": "MUMBAI: Indian corporate bond issuance is unlikely to rebound in September after debt fundraising nearly halved month-on-month in August, with a spike in yields reducing incentive for firms to lock in borrowing, keeping primary-market activity subdued. Indian companies raised around 617.6 billion rupees ($6.50 billion)…",
+   "image": "https://i.brecorder.com/large/2026/09/021621027ea2479.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 falls nearly 1% amid geopolitical tensions",
+   "url": "https://www.brecorder.com/news/40437545/psx-kse-100-falls-nearly-1-amid-geopolitical-tensions",
+   "source": "Business Recorder",
+   "published": "2026-09-02T11:14:06+00:00",
+   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) as concerns over supply disruption intensified after the US and Iran exchanged ​strikes overnight, with the benchmark KSE-100 Index shedding nearly 1% on Wednesday. The benchmark index opened on a weak note and initially fell sharply, touching levels ar…",
    "image": "https://i.brecorder.com/large/2026/09/021010518c268c8.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PLL reissues LNG tender as Pakistan faces electricity crunch: Bloomberg",
+   "url": "https://www.brecorder.com/news/40437584/pll-reissues-lng-tender-as-pakistan-faces-electricity-crunch-bloomberg",
+   "source": "Business Recorder",
+   "published": "2026-09-02T10:20:32+00:00",
+   "summary": "After rejecting the offer to buy expensive liquefied natural gas (LNG), the state-owned Pakistan LNG Ltd (PLL) has reissued the LNG tender on Wednesday and is now seeking a cargo before September 12. Offers are due on Friday, Bloomberg reported. As per the report, PLL earlier scrapped an emergency tender for a shipment…",
+   "image": "https://i.brecorder.com/large/2026/09/02151904fef0f4b.webp",
+   "topics": [
+    "Energy & power",
+    "Procurement"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -313,19 +431,6 @@
    "domestic": false
   },
   {
-   "title": "KSE-100 sheds 1,250 points amid fresh US-Iran escalation",
-   "url": "https://tribune.com.pk/story/2627062/kse-100-sheds-1250-points-amid-fresh-us-iran-escalation",
-   "source": "The Express Tribune",
-   "published": "2026-09-02T03:39:06+00:00",
-   "summary": "Selling concentrated across automobiles, cement, commercial banks, exploration companies, power generation",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel directs govt to renegotiate IMF terms for special economic zones",
    "url": "https://www.dawn.com/news/2026825/senate-panel-directs-govt-to-renegotiate-imf-terms-for-special-economic-zones",
    "source": "Dawn",
@@ -336,71 +441,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Bond selloff deepens as inflation, oil prices jolt markets",
-   "url": "https://www.brecorder.com/news/40437542/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets",
-   "source": "Business Recorder",
-   "published": "2026-09-02T03:27:30+00:00",
-   "summary": "SINGAPORE: Global bonds sold off sharply on Wednesday , extending a rout that is raising borrowing costs to multi-decade highs as the Middle ​East conflict pushes up energy prices, playing into investor fears about inflation and ballooning government debt. Sovereign yields are a reference ‌point for asset prices across…",
-   "image": "https://i.brecorder.com/large/2026/09/02082526779eea6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI's bid to lift Indian rupee put to test by oil, US yields",
-   "url": "https://www.brecorder.com/news/40437541/rbis-bid-to-lift-indian-rupee-put-to-test-by-oil-us-yields",
-   "source": "Business Recorder",
-   "published": "2026-09-02T03:18:40+00:00",
-   "summary": "MUMBAI: The Indian rupee is on course to open lower on Wednesday , pressured by a surge in oil prices and rising U.S. ​Treasury yields, threatening to blunt the momentum the currency has ‌built with the central bank’s intervention. The Indian rupee is expected to open in the 95.02-95.06 range, according to traders, aft…",
-   "image": "https://i.brecorder.com/large/2026/09/0208163095e1d71.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares to fall as widening Iran conflict sends oil higher",
-   "url": "https://www.brecorder.com/news/40437539/indian-shares-to-fall-as-widening-iran-conflict-sends-oil-higher",
-   "source": "Business Recorder",
-   "published": "2026-09-02T03:06:41+00:00",
-   "summary": "Indian shares will open lower on Wednesday , in line with global markets, as oil prices surged to a near-six-week high after the ​US and Iran exchanged strikes overnight, intensifying the Middle East ‌conflict and renewing concerns over inflation. GIFT Nifty futures were at 24,033.5 points as of 7:38 a.m. IST, indicati…",
-   "image": "https://i.brecorder.com/large/2026/09/020805238ca5115.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar holds firm as Middle East hostilities lift oil",
-   "url": "https://www.brecorder.com/news/40437537/dollar-holds-firm-as-middle-east-hostilities-lift-oil",
-   "source": "Business Recorder",
-   "published": "2026-09-02T02:57:53+00:00",
-   "summary": "TOKYO: The dollar held firm on Wednesday as renewed hostilities in the Middle East pushed oil prices higher and revived inflation concerns. The currency’s safe-haven ​appeal has been reinforced by rising Treasury yields and growing expectations of a Federal Reserve rate hike, even as recent economic data ‌came in below…",
-   "image": "https://i.brecorder.com/large/2026/09/02075331dc534c4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold hits over 3-week low as MidEast tensions fan rate-hike fears",
-   "url": "https://www.brecorder.com/news/40437535/gold-hits-over-3-week-low-as-mideast-tensions-fan-rate-hike-fears",
-   "source": "Business Recorder",
-   "published": "2026-09-02T02:45:33+00:00",
-   "summary": "Gold fell on Wednesday to its ‌lowest in more than three weeks , as the escalating Middle East conflict lifted oil prices and stoked inflation and rate-hike fears, while investors focused on upcoming US jobs data. Spot gold was down 0.6% ​at $4,304.01 per ounce by 0017 GMT, its lowest since August 7. Prices were ​heade…",
-   "image": "https://i.brecorder.com/large/2026/09/02074418b4e8ca3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -482,6 +522,19 @@
    "domestic": false
   },
   {
+   "title": "PSX market closes lower as KSE-100 index drops 1,690 points",
+   "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-drops-1690-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX market closes lower as KSE-100 index drops 1,690 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-low.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "India’s Tukaram Mundhe busts firm faking expiry dates, nutrition labels on food exports",
    "url": "https://arynews.tv/india-firm-faking-expiry-dates-nutrition-labels-food-exports",
    "source": "ARY News",
@@ -501,32 +554,6 @@
    "published": null,
    "summary": "BYD sales extend growth streak on strong exports",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/BYD.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Iranian Rial plunges past 2 million per US Dollar: reports",
-   "url": "https://arynews.tv/iranian-rial-plunges-past-2-million-per-us-dollar-reports",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Iranian Rial plunges past 2 million per US Dollar: reports",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Iranian-rial-rate.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PKR holds steady against US Dollar as August ends; Saudi Riyal, UAE Dirham Flat",
-   "url": "https://arynews.tv/pkr-us-dollar-rate-august-end-saudi-riyal-uae-dirham-flat",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PKR holds steady against US Dollar as August ends; Saudi Riyal, UAE Dirham Flat",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/currency-rates-dollar.jpg",
    "topics": [
     "Economy"
    ],

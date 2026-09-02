@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-02T09:52:19+00:00",
- "count": 556,
+ "generated": "2026-09-02T14:05:58+00:00",
+ "count": 557,
  "with_value": 539,
- "with_winner": 206,
+ "with_winner": 207,
  "smd_count": 0,
  "price_history": [
   {
@@ -30,6 +30,25 @@
    "province": "Khyber Pakhtunkhwa",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-7261888706",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0JpZGRpbmdfRG9jdW1lbnRzX0NvcnJpZ2VuZHVtLnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-9648712872",
+   "reference": null,
+   "title": "Pakistan Security Printing Corporaion (PSPC) T-4105/26/ABZ 53X ITEMS OF CARPENTRY",
+   "organisation": "Pakistan Security Printing Corporation (PSPC) Islamabad",
+   "office": "Pakistan Security Printing Corporation (PSPC) Islamabad",
+   "winner": "FYN ASSOCIATES",
+   "value_text": "Rs. 6 < Rs. 50 Million",
+   "value_pkr": null,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-09-02",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9648712872",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL1QtNDEwNV9BV0FSRF9PRl9DT05UUkFDVF9NRVJHRURfY29tcHJlc3NlZF8xLnBkZg==",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -10587,6 +10606,106 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003187",
+   "tender_no": "TS0000010434E",
+   "reference": "Revamping of NICL Website (NICL/Procurement/2026/24)",
+   "title": "Revamping of NICL Website (NICL/Procurement/2026/24) Services National Insurance Company Limited (NICL)",
+   "organisation": "National Insurance Company Limited (NICL) National Insurance Company Limited (NICL) Karachi - Pakistan",
+   "bid_count": 5,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003187",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003186",
+   "tender_no": "TS0000009628E",
+   "reference": "P-40/2026",
+   "title": "Supply, Installation, Integration and Commissioning of Video Wall and Dashboard Visualization Solution for Central Command Unit (CCU) Info and Comm Tech",
+   "organisation": "Ministry of Finance Pakistan Revenue Automation (Pvt) Limited (PRAL) Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "World Wide Vision"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003186",
+   "is_smd": true,
+   "smd_score": 9,
+   "matched_terms": [
+    "video wall"
+   ]
+  },
+  {
+   "evaluation_no": "EVL00000003184",
+   "tender_no": "TS0000009031E",
+   "reference": "PIDCL/Sindh/PSDP/Karchi-1 (12 Schemes)",
+   "title": "Providing and Laying CC Tuff Paver (12 Schemes) - Korangi-I, Karachi Civil Works",
+   "organisation": "Ministry of Housing & Works Pakistan Infrastructure Development Company Limited Karachi - Pakistan",
+   "bid_count": 12,
+   "lowest": [
+    "12 Lowest Bidders against 12 Bid Evaluation Reports"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003184",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003183",
+   "tender_no": "TS0000003416E",
+   "reference": "214/26",
+   "title": "APPOINTMENT OF INTERNATIONAL CONSULTANT/CONSORTIUM FIRM FOR EVALUATION AND ASSESSMENT OF TRANSMISSION & DISTRIBUTION (T&D) TECHNICAL LOSSES OF MEPCO Electrical Items",
+   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "BARQAB-MRC TURKIYE-PPI-ICA"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003183",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003182",
+   "tender_no": "TS0000007268E",
+   "reference": "LCMG/PROC/LHR/45",
+   "title": "5. CONVERSION OF ORDINARY SAFE ROOM INTO RCC STRONG ROOM AT NBP DRUSHKHELA BRANCH (1652) RO SWAT Civil Works",
+   "organisation": "National Bank of Pakistan (NBP) NBP Karachi - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Alpha Enterprises"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-02",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003182",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003181",
    "tender_no": "TS0000007265E",
@@ -49520,103 +49639,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001042",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001041",
-   "tender_no": "TS0000004041E",
-   "reference": "GSD (PROC-I)/ 398383 /SLA/VRS/2026",
-   "title": "Renewal of Maintenance and Technical Support of Voice Recording System (VRS) and Allied Components Info and Comm Tech State Bank of Pakistan (SBP)",
-   "organisation": "State Bank of Pakistan (SBP) State Bank of Pakistan - Karachi Karachi - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-01",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001041",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001040",
-   "tender_no": "TS0000002467E",
-   "reference": "A (01)/PSEB/2026-06",
-   "title": "SELECTION OF PRE-QUALIFIED TRAINING PROVIDERS FOR IT INDUSTRY DEVELOPMENT INITIATIVES Services",
-   "organisation": "Ministry of IT and Telecom Pakistan Software Export Board (PSEB) Islamabad - Pakistan",
-   "bid_count": 10,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-06-01",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001040",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001039",
-   "tender_no": "TS0000005945E",
-   "reference": "No.6004/72/E-6",
-   "title": "Repair/Maint works at Chhor Cantt Repair/Maintenance",
-   "organisation": "Ministry of Defence Assistant Garrison Engineer (Army) Chhor - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "Haji Faiz Muhammad & Sons",
-    "Jabir Gantha & Co."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-01",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001039",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001038",
-   "tender_no": "TS0000003077E",
-   "reference": "F-26031781390",
-   "title": "PROCUREMENT OF FLOOR STANDING AIR-CONDITIONERS UNITS 8TON CAPACITY WITH RELATED SERVICES FOR PRESIDENT LOBBY, 2ND FLOOR & NBP AUDITORIUM, 1st FLOOR, NBP HEAD OFFICE BUILDING, KARACHI Appliances",
-   "organisation": "National Bank of Pakistan (NBP) NBP Karachi - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "M.M Corporation"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-01",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001038",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001037",
-   "tender_no": "TS0000003407E",
-   "reference": "FCS/BWP/TE/006/26",
-   "title": "CLAY FOR EARTH FILLING Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Anas Farzand Traders Multan"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-01",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001037",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
