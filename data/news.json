@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-03T05:37:32+00:00",
- "count": 42,
- "relevant_count": 9,
- "domestic_count": 16,
+ "generated": "2026-09-03T10:39:05+00:00",
+ "count": 43,
+ "relevant_count": 11,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (4)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (5)"
  },
  "stories": [
@@ -30,71 +30,6 @@
    "published": "2026-09-03T02:20:59+00:00",
    "summary": "KARACHI: Escalation in US military attacks and Iranian retaliation pushed oil prices higher, fuelling global economic uncertainty, especially in Pakistan, which relies on energy imports via the Strait of Hormuz, triggering panic-selling that dragged the benchmark index below the 175,000 barrier as hopes dimmed for any …",
    "image": "https://i.dawn.com/large/2026/09/0307341182f0a1c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "JI vows to step up campaign after today’s strike",
-   "url": "https://www.brecorder.com/news/40437718/ji-vows-to-step-up-campaign-after-todays-strike",
-   "source": "Business Recorder",
-   "published": "2026-09-03T02:12:55+00:00",
-   "summary": "KARACHI: Jamaat-e-Islami (JI) chief Hafiz Naeemur Rehman on Wednesday vowed to step up the party’s campaign against the petroleum levy, independent power producers (IPPs) and rising inflation after its nationwide shutter-down strike on Thursday. Speaking at a press conference at Idara Noor-e-Haq alongside Karachi JI ch…",
-   "image": "https://i.brecorder.com/large/2026/09/03071247df188e1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Mayor Karachi inspects road projects, criticises political rivals",
-   "url": "https://www.brecorder.com/news/40437719/mayor-karachi-inspects-road-projects-criticises-political-rivals",
-   "source": "Business Recorder",
-   "published": "2026-09-03T02:08:57+00:00",
-   "summary": "KARACHI: Mayor Karachi Barrister Murtaza Wahab on Wednesday inspected ongoing road development projects in different parts of the city and directed officials to complete the work as soon as possible. ‎The Mayor visited the under-construction Sehba Akhtar Road and Shahrah-e-Quaidin in Gulshan Town, where officials from …",
-   "image": "https://i.brecorder.com/large/2026/09/0307084851c8834.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "World Bank plans package to support transition to investment-led growth",
-   "url": "https://www.brecorder.com/news/40437714/world-bank-plans-package-to-support-transition-to-investment-led-growth",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:39+00:00",
-   "summary": "ISLAMABAD: The World Bank is preparing a USD 300 million financing package to support Pakistan’s transition from economic stabilisation to investment-led growth, backed by a five-year reform programme aimed at removing barriers to private investment, boosting exports and creating jobs through wide-ranging regulatory, f…",
-   "image": "https://i.brecorder.com/large/2026/09/03052422731ec5d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Eighteen introduces EDEN",
-   "url": "https://www.brecorder.com/news/40437628/eighteen-introduces-eden",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
-   "summary": "ISLAMABAD: Eighteen, the landmark master-planned community redefining contemporary living in Pakistan, Wednesday announced the introduction of Eden by Eighteen. EDEN’s introduction comes at a significant moment for Eighteen, with direct entry and exit from the M-1/M-2 Link Road now open. This infrastructure milestone f…",
-   "image": "https://i.brecorder.com/large/2026/09/0300594252fd398.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistani rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40437585/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-02T14:33:40+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Wednesday. The local unit closed the day at 277.45 a gain of Re0.01 against the greenback. On Tuesday, the Pakistani rupee settled at 277.46 against the dollar. Moreover, the dollar held firm as renewed hostilities in the Middle East pushed oil pr…",
-   "image": "https://i.brecorder.com/large/2026/09/021557563954e9b.webp",
    "topics": [
     "Economy"
    ],
@@ -221,12 +156,168 @@
    "domestic": true
   },
   {
-   "title": "Vietnam raises $97 million in government bond auction (Adds details)",
-   "url": "https://www.brecorder.com/news/40437730/vietnam-raises-97-million-in-government-bond-auction-adds-details",
+   "title": "Oilboy plans 70 EV fast-charging stations across Pakistan with Rs1bn rights issue",
+   "url": "https://www.brecorder.com/news/40437761/oilboy-plans-70-ev-fast-charging-stations-across-pakistan-with-rs1bn-rights-issue",
    "source": "Business Recorder",
-   "published": "2026-09-03T05:34:16+00:00",
+   "published": "2026-09-03T09:09:39+00:00",
+   "summary": "Oilboy Energy Limited (OBOY), a Pakistan-based energy company, plans to raise Rs1 billion through a rights issue to finance the rollout of a nationwide network of 70 electric-vehicle (EV) fast-charging stations. According to documents made available to the Pakistan Stock Exchange (PSX), the company, formerly known as D…",
+   "image": "https://i.brecorder.com/large/2026/09/03135636d4f9544.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Imran Sarwar appointed President, CEO of NBP",
+   "url": "https://www.brecorder.com/news/40437745/imran-sarwar-appointed-president-ceo-of-nbp",
+   "source": "Business Recorder",
+   "published": "2026-09-03T07:11:34+00:00",
+   "summary": "The government has appointed Imran Sarwar as President and Chief Executive Officer of the National Bank of Pakistan (NBP) for a three-year term with immediate effect. NBP disclosed the development in a filing to the Pakistan Stock Exchange (PSX) on Thursday. “We have to inform you that the Government of Pakistan, Finan…",
+   "image": "https://i.brecorder.com/large/2026/09/031140345c91c7d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand muted ahead of business activity PMI",
+   "url": "https://www.brecorder.com/news/40437751/south-african-rand-muted-ahead-of-business-activity-pmi",
+   "source": "Business Recorder",
+   "published": "2026-09-03T07:03:20+00:00",
+   "summary": "JOHANNESBURG: The South African rand was little changed in early trade on Thursday ​as a weaker dollar offered support, ‌while locally focused investors awaited the latest private-sector purchasing managers’ index (PMI) data. At 0618 GMT the rand traded ​at 16.04 against the dollar , a ​whisker away from its previous c…",
+   "image": "https://i.brecorder.com/large/2026/09/03120303f8c5aa7.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Chicago corn falls on profit-taking from three-year highs",
+   "url": "https://www.brecorder.com/news/40437750/chicago-corn-falls-on-profit-taking-from-three-year-highs",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:53:03+00:00",
+   "summary": "BEIJING: Chicago Board of Trade corn futures fell on Thursday as traders took profit after prices set a three-year high, but uncertainty over the conflict in the Black Sea grain-exporting region underpinned the market, traders said. Wheat and soybeans gained. The most-traded corn contract on the Chicago Board of Trade …",
+   "image": "https://i.brecorder.com/large/2026/09/03115247027ff5c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares edge higher on gold gains, energy firms cap upside",
+   "url": "https://www.brecorder.com/news/40437748/australian-shares-edge-higher-on-gold-gains-energy-firms-cap-upside",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:47:23+00:00",
+   "summary": "Australian shares inched up on Thursday, recovering from three sessions of losses, as steep losses in energy stocks capped gains in gold stocks, a day after GDP data reinforced Reserve Bank of Australia rate hike bets at this month’s meeting. The S&P/ASX 200 index was up 0.07% at 8,984.50, as of 0054 GMT. The benchmark…",
+   "image": "https://i.brecorder.com/large/2026/09/031147027bdfa17.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Vietnam raises $97 million in government bond auction",
+   "url": "https://www.brecorder.com/news/40437730/vietnam-raises-97-million-in-government-bond-auction",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:44:04+00:00",
    "summary": "HANOI: Vietnam’s State Treasury raised 2.54 trillion dong ($97 million) in its weekly government bond auction on Thursday, down from $479 million raised last week. The uptake was also lower, with only 15% of the bonds on offer sold, compared with 74% last week, according to a Hanoi Stock Exchange filing. The treasury s…",
    "image": "https://i.brecorder.com/large/2026/09/03103355d6ae941.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar slightly stronger on Thursday",
+   "url": "https://www.brecorder.com/news/40437746/thai-bahtus-dollar-slightly-stronger-on-thursday",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:41:33+00:00",
+   "summary": "BANGKOK: The Thai baht strengthened slightly against the US dollar on Thursday. At 0156 GMT, the baht was 0.06% higher at 33.14 versus the dollar, after trading in a range of 33.125 to 33.213. It ended the previous session at 33.1675 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/03114123e0dfbf3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China yuan hits 3-1/2-year high as yen strength weighs on dollar",
+   "url": "https://www.brecorder.com/news/40437741/china-yuan-hits-3-12-year-high-as-yen-strength-weighs-on-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:19:58+00:00",
+   "summary": "SHANGHAI: China’s yuan inched higher to a fresh 3-1/2-year high against the dollar on Thursday, aided by a significantly stronger central bank fixing and persistent dollar weakness driven in part by renewed gains in the Japanese yen. The yen held its gains after a sudden, brief surge in the previous session, keeping pr…",
+   "image": "https://i.brecorder.com/large/2026/09/031119401493517.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Audi, SAIC Motor set up innovation hub for China-exclusive brand",
+   "url": "https://www.brecorder.com/news/40437738/audi-saic-motor-set-up-innovation-hub-for-china-exclusive-brand",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:10:54+00:00",
+   "summary": "SHANGHAI/BEIJING: Volkswagen’s premium subsidiary Audi on Thursday established an innovation hub with its Chinese partner SAIC Motor for the China-exclusive AUDI brand, the company said in a statement. The new Shanghai-based joint venture,dedicated to the four-letter, all-caps AUDI brand,will focus on vehicle and drivi…",
+   "image": "https://i.brecorder.com/large/2026/09/03111019a613036.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Japan bond yields retreat; 30-year auction uneventful",
+   "url": "https://www.brecorder.com/news/40437737/japan-bond-yields-retreat-30-year-auction-uneventful",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:07:18+00:00",
+   "summary": "TOKYO: Japanese government bond (JGB) yields retreated on Thursday after rising for successive sessions, as investors reassessed inflation risks and the prospect of a US interest rate hike, while the 30-year bond auction was largely uneventful as expected. Here are a few details: The benchmark 10-year JGB yield fell 4 …",
+   "image": "https://i.brecorder.com/large/2026/09/03110657f96ba60.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee scales 2-month peak as $136bn inflows bolster currency against global risks",
+   "url": "https://www.brecorder.com/news/40437736/indian-rupee-scales-2-month-peak-as-136bn-inflows-bolster-currency-against-global-risks",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:05:05+00:00",
+   "summary": "MUMBAI: The Indian rupee climbed to a two-month high on Thursday after massive overseas fundraising through one-off measures far exceeded market expectations, improving the currency’s outlook at a time when a renewed US-Iran conflict has pushed crude prices higher and contributed to a global bond selloff. The rupee ope…",
+   "image": "https://i.brecorder.com/large/2026/09/031104522f5a65c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar hovers near 13-year high on kiwi as rate outlooks diverge",
+   "url": "https://www.brecorder.com/news/40437735/australian-dollar-hovers-near-13-year-high-on-kiwi-as-rate-outlooks-diverge",
+   "source": "Business Recorder",
+   "published": "2026-09-03T06:02:07+00:00",
+   "summary": "SYDNEY: The Australian dollar held near a 13-year high against the kiwi on Thursday as markets bet on diverging rate outlooks between the two central banks, though both currencies lost ground to a surging yen amid suspected Japanese government intervention. The Aussie slipped 0.1% to NZ$1.2227, having jumped 1% overnig…",
+   "image": "https://i.brecorder.com/large/2026/09/0311014444e776c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India bonds gain as RBI FX inflows lift liquidity, spur short-term debt buying",
+   "url": "https://www.brecorder.com/news/40437733/india-bonds-gain-as-rbi-fx-inflows-lift-liquidity-spur-short-term-debt-buying",
+   "source": "Business Recorder",
+   "published": "2026-09-03T05:55:28+00:00",
+   "summary": "MUMBAI: Indian government bonds rose in early trade on Thursday, led by the shorter-duration papers, after larger-than-expected dollar inflows under the central bank’s special schemes boosted rupee liquidity and improved sentiment for Indian assets. The yield on the benchmark 6.94% 2036 bond was at 6.9502% as of 10:30 …",
+   "image": "https://i.brecorder.com/large/2026/09/031055104bfc4b9.webp",
    "topics": [
     "Economy"
    ],
@@ -240,6 +331,19 @@
    "published": "2026-09-03T05:18:02+00:00",
    "summary": "After losing nearly 1% in the previous session, stocks at the Pakistan Stock Exchange (PSX) rebounded, with the benchmark KSE-100 Index gaining over 950 points during the opening minutes of trading on Thursday. At 9:55am, the benchmark index was hovering at 175,734.10, a gain of 957.51 points or 0.55%. Buying was obser…",
    "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX rebounds as KSE-100 gains 877 points after steep fall",
+   "url": "https://tribune.com.pk/story/2627220/psx-rebounds-as-kse-100-gains-877-points-after-steep-fall",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T03:46:38+00:00",
+   "summary": "Volume on the KSE-100 was about 116 million shares, with traded value near Rs7.55billion",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -273,16 +377,68 @@
    "domestic": false
   },
   {
-   "title": "Inflation soaring",
-   "url": "https://www.brecorder.com/news/40437620/inflation-soaring",
-   "source": "Business Recorder",
-   "published": "2026-09-03T01:29:16+00:00",
-   "summary": "EDITORIAL: The Pakistan Bureau of Statistics (PBS) calculated the Consumer Price Index (CPI) for August at 11.1 percent – 1.9 percent higher than the 9.2 percent estimated in July. It is relevant to note that the August rate is precisely the same as the June rate while it is 0.6 percent lower than the May CPI and 0.2 p…",
-   "image": "https://i.brecorder.com/large/2026/09/030630169b60ce6.webp",
+   "title": "Stocks dive 1,690 points; ME battle fuels sell-off",
+   "url": "https://tribune.com.pk/story/2627155/stocks-dive-1690-points-me-battle-fuels-sell-off",
+   "source": "The Express Tribune",
+   "published": "2026-09-02T17:10:52+00:00",
+   "summary": "KSE-100 index slips below 175,000 amid broad-based selling in key sectors",
+   "image": null,
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PRA collects Rs54.8b in first two months",
+   "url": "https://tribune.com.pk/story/2627151/pra-collects-rs548b-in-first-two-months",
+   "source": "The Express Tribune",
+   "published": "2026-09-02T17:10:52+00:00",
+   "summary": "Latest numbers build on a record-breaking fiscal year for the authority",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "'Significant scope' in Pakistan-Uzbekistan energy cooperation",
+   "url": "https://tribune.com.pk/story/2627154/significant-scope-in-pakistan-uzbekistan-energy-cooperation",
+   "source": "The Express Tribune",
+   "published": "2026-09-02T17:10:52+00:00",
+   "summary": "Leghari sees potential in electricity connectivity, renewable energy, hydropower",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Lenders back private-sector growth",
+   "url": "https://tribune.com.pk/story/2627152/lenders-back-private-sector-growth",
+   "source": "The Express Tribune",
+   "published": "2026-09-02T17:10:52+00:00",
+   "summary": "FinMin highlights fiscal, external improvements as institutions pledge further support",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "China donates livestock vaccines for CPEC 2.0",
+   "url": "https://tribune.com.pk/story/2627156/china-donates-livestock-vaccines-for-cpec-20",
+   "source": "The Express Tribune",
+   "published": "2026-09-02T17:10:52+00:00",
+   "summary": "Minister urges scientists to develop focused projects for modernisation",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -338,124 +494,6 @@
    "domestic": false
   },
   {
-   "title": "Palm falls on profit-taking, weak demand",
-   "url": "https://www.brecorder.com/news/40437589/palm-falls-on-profit-taking-weak-demand",
-   "source": "Business Recorder",
-   "published": "2026-09-02T11:36:27+00:00",
-   "summary": "KUALA LUMPUR: Malaysian palm oil futures fell on Wednesday after a two-session rally, pressured by profit-taking and weak export demand. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange slid 13 ringgit, or 0.26%, to 4,960 ringgit ($1,226.81) a metric ton at the close. The…",
-   "image": "https://i.brecorder.com/large/2026/09/0216352689e8c81.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI backstop keeps Indian rupee stable, blunting importer dollar demand impact",
-   "url": "https://www.brecorder.com/news/40437588/rbi-backstop-keeps-indian-rupee-stable-blunting-importer-dollar-demand-impact",
-   "source": "Business Recorder",
-   "published": "2026-09-02T11:28:42+00:00",
-   "summary": "MUMBAI: The Indian rupee ended little changed on Wednesday after moving in a narrow range, as continued support from the Reserve Bank of India offset rising dollar demand from importers and the impact of a spike in oil prices and Treasury yields. The Indian rupee opened at 94.89 against the U.S. dollar and briefly move…",
-   "image": "https://i.brecorder.com/large/2026/09/0216280967d54d5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares join global slide as Mideast woes mount",
-   "url": "https://www.brecorder.com/news/40437587/indian-shares-join-global-slide-as-mideast-woes-mount",
-   "source": "Business Recorder",
-   "published": "2026-09-02T11:24:19+00:00",
-   "summary": "Indian shares fell alongside global markets on Wednesday as renewed U.S.-Iran strikes heightened the risk of disruptions to oil flows, reviving inflation concerns amid a global bond rout that pushed borrowing costs to multi-decade highs. The Asian country is the third-largest crude importer and consumer, making it vuln…",
-   "image": "https://i.brecorder.com/large/2026/09/021623593d640c6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India Inc debt fundraising halves in August; rebound unlikely this month, bankers say",
-   "url": "https://www.brecorder.com/news/40437586/india-inc-debt-fundraising-halves-in-august-rebound-unlikely-this-month-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-02T11:21:46+00:00",
-   "summary": "MUMBAI: Indian corporate bond issuance is unlikely to rebound in September after debt fundraising nearly halved month-on-month in August, with a spike in yields reducing incentive for firms to lock in borrowing, keeping primary-market activity subdued. Indian companies raised around 617.6 billion rupees ($6.50 billion)…",
-   "image": "https://i.brecorder.com/large/2026/09/021621027ea2479.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Chicago wheat falls after scaling 3-1/2-year high on Black Sea supply concerns",
-   "url": "https://www.brecorder.com/news/40437568/chicago-wheat-falls-after-scaling-3-12-year-high-on-black-sea-supply-concerns",
-   "source": "Business Recorder",
-   "published": "2026-09-02T07:08:36+00:00",
-   "summary": "BEIJING: Chicago wheat futures fell on Wednesday after hitting a 3-1/2-year high in the previous session as traders weighed disruptions to Black Sea grain exports caused by ongoing conflicts, while corn and soybeans also dropped. The most-traded wheat contract on the Chicago Board of Trade (CBOT) was down 1.8% at $7.68…",
-   "image": "https://i.brecorder.com/large/2026/09/0212083067b222a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "JGBs extend selloff as hawkish BOJ board member calls for faster-paced rate hikes",
-   "url": "https://www.brecorder.com/news/40437567/jgbs-extend-selloff-as-hawkish-boj-board-member-calls-for-faster-paced-rate-hikes",
-   "source": "Business Recorder",
-   "published": "2026-09-02T07:07:21+00:00",
-   "summary": "TOKYO: Japanese government bonds extended a selloff on Wednesday as the central bank’s hawkish board member called for faster-paced interest rate hikes. The 5-year bond yield jumped 4 basis points to a record high of 2.295%, and the 2-year JGB yield also rose 4 bps to 1.84%, its highest since April 1995. The Bank of Ja…",
-   "image": "https://i.brecorder.com/large/2026/09/02120714ed13a1a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bangladesh offers rooftop solar incentives to ease power shortages",
-   "url": "https://www.brecorder.com/news/40437566/bangladesh-offers-rooftop-solar-incentives-to-ease-power-shortages",
-   "source": "Business Recorder",
-   "published": "2026-09-02T07:02:38+00:00",
-   "summary": "DHAKA: Bangladesh has launched an incentive programme for rooftop solar systems with battery storage, aiming to ease power shortages and reduce the country’s dependence on imported fuels. The South Asian nation of 175 million people is grappling with its worst power shortages in years, exacerbated by a lack of natural …",
-   "image": "https://i.brecorder.com/large/2026/09/02114154ec01605.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper, zinc fall as strong dollar weighs on industrial metals",
-   "url": "https://www.brecorder.com/news/40437565/copper-zinc-fall-as-strong-dollar-weighs-on-industrial-metals",
-   "source": "Business Recorder",
-   "published": "2026-09-02T06:39:39+00:00",
-   "summary": "SINGAPORE: Copper and zinc fell on Wednesday , as a strong dollar and fears of interest rates staying higher for longer weighed on the wider industrial metals complex. Benchmark three-month copper on the London Metal Exchange was down 0.99% at $14,133.5 a metric ton by 0300 GMT. The most-traded copper contract on the S…",
-   "image": "https://i.brecorder.com/large/2026/09/02113922813a2a3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia raises $3.25 billion in two-tranche sukuk sale, IFR reports",
-   "url": "https://www.brecorder.com/news/40437564/saudi-arabia-raises-325-billion-in-two-tranche-sukuk-sale-ifr-reports",
-   "source": "Business Recorder",
-   "published": "2026-09-02T06:38:21+00:00",
-   "summary": "Saudi Arabia has raised $3.25 billion in a two-tranche sale of US dollar-denominated Islamic bonds, or sukuk, IFR reported on Tuesday, marking the kingdom’s second debt market transaction this year and its first since tensions with Iran escalated. The issuance comprised $1.25 billion of five-year sukuk and $2 billion o…",
-   "image": "https://i.brecorder.com/large/2026/09/021137106b9dfce.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel directs govt to renegotiate IMF terms for special economic zones",
    "url": "https://www.dawn.com/news/2026825/senate-panel-directs-govt-to-renegotiate-imf-terms-for-special-economic-zones",
    "source": "Dawn",
@@ -466,19 +504,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fuel, wheat push inflation to 11.2%",
-   "url": "https://tribune.com.pk/story/2626979/fuel-wheat-push-inflation-to-112",
-   "source": "The Express Tribune",
-   "published": "2026-09-01T16:51:48+00:00",
-   "summary": "CPI back in double-digit as cost-recovery policy elevates pressure on households",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -503,19 +528,6 @@
    "image": null,
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "MPs warn against long-term energy contracts",
-   "url": "https://tribune.com.pk/story/2626132/mps-warn-against-long-term-energy-contracts",
-   "source": "The Express Tribune",
-   "published": "2026-08-27T16:21:52+00:00",
-   "summary": "Call for flexible LNG contracts as 50GW solar deployed, say govt must make sun, pipeline and grid work together",
-   "image": null,
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
