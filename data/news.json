@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-02T23:01:39+00:00",
- "count": 40,
- "relevant_count": 10,
- "domestic_count": 11,
+ "generated": "2026-09-03T01:02:50+00:00",
+ "count": 47,
+ "relevant_count": 13,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (19)",
@@ -10,6 +10,98 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "World Bank plans package to support transition to investment-led growth",
+   "url": "https://www.brecorder.com/news/40437714/world-bank-plans-package-to-support-transition-to-investment-led-growth",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:39+00:00",
+   "summary": "ISLAMABAD: The World Bank is preparing a USD 300 million financing package to support Pakistan’s transition from economic stabilisation to investment-led growth, backed by a five-year reform programme aimed at removing barriers to private investment, boosting exports and creating jobs through wide-ranging regulatory, f…",
+   "image": "https://i.brecorder.com/large/2026/09/03052422731ec5d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Eighteen introduces EDEN",
+   "url": "https://www.brecorder.com/news/40437628/eighteen-introduces-eden",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "ISLAMABAD: Eighteen, the landmark master-planned community redefining contemporary living in Pakistan, Wednesday announced the introduction of Eden by Eighteen. EDEN’s introduction comes at a significant moment for Eighteen, with direct entry and exit from the M-1/M-2 Link Road now open. This infrastructure milestone f…",
+   "image": "https://i.brecorder.com/large/2026/09/0300594252fd398.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "EXIM Bank president highlights approach to export sector",
+   "url": "https://www.brecorder.com/news/40437633/exim-bank-president-highlights-approach-to-export-sector",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "LAHORE: President Lahore Chamber of Commerce and Industry (LCCI) Faheem Ur Rehman Saigol has offered full support and cooperation to EXIM Bank of Pakistan and the Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) to strengthen export promotion efforts and facilitate the business community. H…",
+   "image": "https://i.brecorder.com/large/2026/09/03011131f8ac91b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aug cement despatches fall marginally YoY",
+   "url": "https://www.brecorder.com/news/40437638/aug-cement-despatches-fall-marginally-yoy",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "LAHORE: Cement despatches declined by 0.70 percent in August 2026 as total Cement despatches during the month stood at 4.039 million tons against 4.068 million tons despatched during the same month of last fiscal year. According to the data released by All Pakistan Cement Manufacturers Association, local cement despatc…",
+   "image": "https://i.brecorder.com/large/2026/09/0301173707bdee3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PRA collects Rs54.8bn",
+   "url": "https://www.brecorder.com/news/40437639/pra-collects-rs548bn",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "LAHORE: The Punjab Revenue Authority (PRA) has collected a record Rs54.8 billion in the first two months of the current fiscal year, its highest-ever collection for this period in the last 13 years, marking an increase of Rs11.5 billion over the Rs43.3 billion collected during the same period last year. Officials attri…",
+   "image": "https://i.brecorder.com/large/2026/09/030119186cc0c12.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PBF says concerned at prolonged power outages",
+   "url": "https://www.brecorder.com/news/40437644/pbf-says-concerned-at-prolonged-power-outages",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "KARACHI: The Pakistan Business Forum (PBF) says the prolonged power outages were adversely affecting businesses and industrial activity, with exporters facing delays in fulfilling international orders due to unreliable electricity supplies . The forum raised serious questions over the management of the country’s power …",
+   "image": "https://i.brecorder.com/large/2026/09/03012756a623c1e.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Mayor opens rehabilitated Jahangir Road",
+   "url": "https://www.brecorder.com/news/40437648/mayor-opens-rehabilitated-jahangir-road",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "KARACHI: Mayor Karachi Barrister Murtaza Wahab on Wednesday inaugurated a rehabilitation and improvement project on Jahangir Road between Guru Mandir and Teen Hatti. According to Karachi Metropolitan Corporation (KMC) statement on Wednesday, the Mayor said the Rs 360 million (USD 1.3 million) project, covered 1.4 kilom…",
+   "image": "https://i.brecorder.com/large/2026/09/0301312651c8834.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Pakistani rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40437585/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -156,6 +248,19 @@
    "domestic": true
   },
   {
+   "title": "Inflation soaring",
+   "url": "https://www.brecorder.com/news/40437620/inflation-soaring",
+   "source": "Business Recorder",
+   "published": "2026-09-03T00:39:38+00:00",
+   "summary": "EDITORIAL: The Pakistan Bureau of Statistics (PBS) calculated the Consumer Price Index (CPI) for August at 11.1 percent – 1.9 percent higher than the 9.2 percent estimated in July. It is relevant to note that the August rate is precisely the same as the June rate while it is 0.6 percent lower than the May CPI and 0.2 p…",
+   "image": "https://i.brecorder.com/large/2026/09/030049460cdc77b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Indian bonds join global debt selloff, bruised by oil and US Treasury yields",
    "url": "https://www.brecorder.com/news/40437600/indian-bonds-join-global-debt-selloff-bruised-by-oil-and-us-treasury-yields",
    "source": "Business Recorder",
@@ -257,20 +362,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PLL reissues LNG tender as Pakistan faces electricity crunch: Bloomberg",
-   "url": "https://www.brecorder.com/news/40437584/pll-reissues-lng-tender-as-pakistan-faces-electricity-crunch-bloomberg",
-   "source": "Business Recorder",
-   "published": "2026-09-02T10:20:32+00:00",
-   "summary": "After rejecting the offer to buy expensive liquefied natural gas (LNG), the state-owned Pakistan LNG Ltd (PLL) has reissued the LNG tender on Wednesday and is now seeking a cargo before September 12. Offers are due on Friday, Bloomberg reported. As per the report, PLL earlier scrapped an emergency tender for a shipment…",
-   "image": "https://i.brecorder.com/large/2026/09/02151904fef0f4b.webp",
-   "topics": [
-    "Energy & power",
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
