@@ -1,15 +1,67 @@
 {
- "generated": "2026-09-03T01:02:50+00:00",
- "count": 47,
- "relevant_count": 13,
- "domestic_count": 18,
+ "generated": "2026-09-03T05:37:32+00:00",
+ "count": 42,
+ "relevant_count": 9,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (11)",
-  "Business Recorder": "ok (19)",
+  "Dawn": "ok (10)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (4)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Punjab’s budgetary borrowing jumps 145pc",
+   "url": "https://www.dawn.com/news/2027090/punjabs-budgetary-borrowing-jumps-145pc",
+   "source": "Dawn",
+   "published": "2026-09-03T02:26:24+00:00",
+   "summary": "KARACHI: Punjab more than doubled its borrowing from banks for budgetary support during the first seven weeks of the current fiscal year, reflecting growing liquidity pressures on the country’s largest province. The latest State Bank data shows that Punjab borrowed Rs753.4 billion between July 1 and Aug 21 compared to …",
+   "image": "https://i.dawn.com/large/2026/09/03082715bbf6fcc.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Stocks fall below 175,000 on geopolitical tensions",
+   "url": "https://www.dawn.com/news/2027087/stocks-fall-below-175000-on-geopolitical-tensions",
+   "source": "Dawn",
+   "published": "2026-09-03T02:20:59+00:00",
+   "summary": "KARACHI: Escalation in US military attacks and Iranian retaliation pushed oil prices higher, fuelling global economic uncertainty, especially in Pakistan, which relies on energy imports via the Strait of Hormuz, triggering panic-selling that dragged the benchmark index below the 175,000 barrier as hopes dimmed for any …",
+   "image": "https://i.dawn.com/large/2026/09/0307341182f0a1c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "JI vows to step up campaign after today’s strike",
+   "url": "https://www.brecorder.com/news/40437718/ji-vows-to-step-up-campaign-after-todays-strike",
+   "source": "Business Recorder",
+   "published": "2026-09-03T02:12:55+00:00",
+   "summary": "KARACHI: Jamaat-e-Islami (JI) chief Hafiz Naeemur Rehman on Wednesday vowed to step up the party’s campaign against the petroleum levy, independent power producers (IPPs) and rising inflation after its nationwide shutter-down strike on Thursday. Speaking at a press conference at Idara Noor-e-Haq alongside Karachi JI ch…",
+   "image": "https://i.brecorder.com/large/2026/09/03071247df188e1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Mayor Karachi inspects road projects, criticises political rivals",
+   "url": "https://www.brecorder.com/news/40437719/mayor-karachi-inspects-road-projects-criticises-political-rivals",
+   "source": "Business Recorder",
+   "published": "2026-09-03T02:08:57+00:00",
+   "summary": "KARACHI: Mayor Karachi Barrister Murtaza Wahab on Wednesday inspected ongoing road development projects in different parts of the city and directed officials to complete the work as soon as possible. ‎The Mayor visited the under-construction Sehba Akhtar Road and Shahrah-e-Quaidin in Gulshan Town, where officials from …",
+   "image": "https://i.brecorder.com/large/2026/09/0307084851c8834.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "World Bank plans package to support transition to investment-led growth",
    "url": "https://www.brecorder.com/news/40437714/world-bank-plans-package-to-support-transition-to-investment-led-growth",
@@ -30,72 +82,6 @@
    "published": "2026-09-03T00:39:38+00:00",
    "summary": "ISLAMABAD: Eighteen, the landmark master-planned community redefining contemporary living in Pakistan, Wednesday announced the introduction of Eden by Eighteen. EDEN’s introduction comes at a significant moment for Eighteen, with direct entry and exit from the M-1/M-2 Link Road now open. This infrastructure milestone f…",
    "image": "https://i.brecorder.com/large/2026/09/0300594252fd398.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "EXIM Bank president highlights approach to export sector",
-   "url": "https://www.brecorder.com/news/40437633/exim-bank-president-highlights-approach-to-export-sector",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
-   "summary": "LAHORE: President Lahore Chamber of Commerce and Industry (LCCI) Faheem Ur Rehman Saigol has offered full support and cooperation to EXIM Bank of Pakistan and the Islamic Corporation for the Insurance of Investment and Export Credit (ICIEC) to strengthen export promotion efforts and facilitate the business community. H…",
-   "image": "https://i.brecorder.com/large/2026/09/03011131f8ac91b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Aug cement despatches fall marginally YoY",
-   "url": "https://www.brecorder.com/news/40437638/aug-cement-despatches-fall-marginally-yoy",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
-   "summary": "LAHORE: Cement despatches declined by 0.70 percent in August 2026 as total Cement despatches during the month stood at 4.039 million tons against 4.068 million tons despatched during the same month of last fiscal year. According to the data released by All Pakistan Cement Manufacturers Association, local cement despatc…",
-   "image": "https://i.brecorder.com/large/2026/09/0301173707bdee3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PRA collects Rs54.8bn",
-   "url": "https://www.brecorder.com/news/40437639/pra-collects-rs548bn",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
-   "summary": "LAHORE: The Punjab Revenue Authority (PRA) has collected a record Rs54.8 billion in the first two months of the current fiscal year, its highest-ever collection for this period in the last 13 years, marking an increase of Rs11.5 billion over the Rs43.3 billion collected during the same period last year. Officials attri…",
-   "image": "https://i.brecorder.com/large/2026/09/030119186cc0c12.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PBF says concerned at prolonged power outages",
-   "url": "https://www.brecorder.com/news/40437644/pbf-says-concerned-at-prolonged-power-outages",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
-   "summary": "KARACHI: The Pakistan Business Forum (PBF) says the prolonged power outages were adversely affecting businesses and industrial activity, with exporters facing delays in fulfilling international orders due to unreliable electricity supplies . The forum raised serious questions over the management of the country’s power …",
-   "image": "https://i.brecorder.com/large/2026/09/03012756a623c1e.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Mayor opens rehabilitated Jahangir Road",
-   "url": "https://www.brecorder.com/news/40437648/mayor-opens-rehabilitated-jahangir-road",
-   "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
-   "summary": "KARACHI: Mayor Karachi Barrister Murtaza Wahab on Wednesday inaugurated a rehabilitation and improvement project on Jahangir Road between Guru Mandir and Teen Hatti. According to Karachi Metropolitan Corporation (KMC) statement on Wednesday, the Mayor said the Rs 360 million (USD 1.3 million) project, covered 1.4 kilom…",
-   "image": "https://i.brecorder.com/large/2026/09/0301312651c8834.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -209,19 +195,6 @@
    "domestic": true
   },
   {
-   "title": "National Bank of Pakistan posts Rs32.4bn profit",
-   "url": "https://www.dawn.com/news/2026072/national-bank-of-pakistan-posts-rs324bn-profit",
-   "source": "Dawn",
-   "published": "2026-08-30T04:15:38+00:00",
-   "summary": "KARACHI: National Bank of Pakistan delivered a resilient performance in the first half of 2026, posting a profit before tax of Rs67.3 billion and a profit after tax of Rs32.4bn, translating into earnings per share of Rs15.23 for the half year ended June 30. Interest income was supported by robust double-digit volumetri…",
-   "image": "https://i.dawn.com/large/2026/08/30091530d032716.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Sindh announces two-year tax relief for electric vehicles, bikes",
    "url": "https://arynews.tv/sindh-announces-two-year-tax-relief-for-electric-vehicles-bikes",
    "source": "ARY News",
@@ -248,12 +221,64 @@
    "domestic": true
   },
   {
+   "title": "Vietnam raises $97 million in government bond auction (Adds details)",
+   "url": "https://www.brecorder.com/news/40437730/vietnam-raises-97-million-in-government-bond-auction-adds-details",
+   "source": "Business Recorder",
+   "published": "2026-09-03T05:34:16+00:00",
+   "summary": "HANOI: Vietnam’s State Treasury raised 2.54 trillion dong ($97 million) in its weekly government bond auction on Thursday, down from $479 million raised last week. The uptake was also lower, with only 15% of the bonds on offer sold, compared with 74% last week, according to a Hanoi Stock Exchange filing. The treasury s…",
+   "image": "https://i.brecorder.com/large/2026/09/03103355d6ae941.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks rebound, up over 900 points in early trade",
+   "url": "https://www.brecorder.com/news/40437729/psx-stocks-rebound-up-over-900-points-in-early-trade",
+   "source": "Business Recorder",
+   "published": "2026-09-03T05:18:02+00:00",
+   "summary": "After losing nearly 1% in the previous session, stocks at the Pakistan Stock Exchange (PSX) rebounded, with the benchmark KSE-100 Index gaining over 950 points during the opening minutes of trading on Thursday. At 9:55am, the benchmark index was hovering at 175,734.10, a gain of 957.51 points or 0.55%. Buying was obser…",
+   "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises as dollar and yields ease, with US nonfarm payrolls report in spotlight",
+   "url": "https://www.brecorder.com/news/40437724/gold-rises-as-dollar-and-yields-ease-with-us-nonfarm-payrolls-report-in-spotlight",
+   "source": "Business Recorder",
+   "published": "2026-09-03T02:52:24+00:00",
+   "summary": "Gold prices firmed on Thursday ​as the US dollar and Treasury yields eased, while investors strapped in ‌for U.S. nonfarm payrolls data that could help shape expectations for the Federal Reserve’s next policy move. Spot gold rose 0.5% to $4,409.97 per ounce by 0219 GMT after hitting a near one-month low in the ​previou…",
+   "image": "https://i.brecorder.com/large/2026/09/03074534cad3bdc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen in the spotlight after sudden jump",
+   "url": "https://www.brecorder.com/news/40437723/yen-in-the-spotlight-after-sudden-jump",
+   "source": "Business Recorder",
+   "published": "2026-09-03T02:44:47+00:00",
+   "summary": "SINGAPORE: The yen held its gains on Thursday ​after a sudden, brief surge in the previous session that traders suspect may have ‌been driven by government authorities, keeping pressure on the dollar ahead of a crucial US jobs report. The yen was last steady at 158.88 per dollar, having jumped 0.9% overnight, in a move…",
+   "image": "https://i.brecorder.com/large/2026/09/03074140c2338ad.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Inflation soaring",
    "url": "https://www.brecorder.com/news/40437620/inflation-soaring",
    "source": "Business Recorder",
-   "published": "2026-09-03T00:39:38+00:00",
+   "published": "2026-09-03T01:29:16+00:00",
    "summary": "EDITORIAL: The Pakistan Bureau of Statistics (PBS) calculated the Consumer Price Index (CPI) for August at 11.1 percent – 1.9 percent higher than the 9.2 percent estimated in July. It is relevant to note that the August rate is precisely the same as the June rate while it is 0.6 percent lower than the May CPI and 0.2 p…",
-   "image": "https://i.brecorder.com/large/2026/09/030049460cdc77b.webp",
+   "image": "https://i.brecorder.com/large/2026/09/030630169b60ce6.webp",
    "topics": [
     "Economy"
    ],
@@ -431,71 +456,6 @@
    "domestic": false
   },
   {
-   "title": "ECB must be prepared to lift interest rates further, top policymaker tells FT",
-   "url": "https://www.brecorder.com/news/40437558/ecb-must-be-prepared-to-lift-interest-rates-further-top-policymaker-tells-ft",
-   "source": "Business Recorder",
-   "published": "2026-09-02T06:17:24+00:00",
-   "summary": "The European Central Bank must not shy away from more interest rate rises if inflation “starts moving in the wrong direction”, Governing Council member Gabriel Makhlouf told the Financial Times in an interview published on Wednesday. Makhlouf said the central bank’s decision next week will not be a surprise, adding tha…",
-   "image": "https://i.brecorder.com/large/2026/09/02111642ebc5122.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm retreats on profit-taking, weak demand",
-   "url": "https://www.brecorder.com/news/40437555/palm-retreats-on-profit-taking-weak-demand",
-   "source": "Business Recorder",
-   "published": "2026-09-02T06:13:16+00:00",
-   "summary": "KUALA LUMPUR: Malaysian palm oil futures slipped on Wednesday after a two-session rally, as traders locked in profits and sluggish export demand weighed on the market. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives Exchange slid 21 ringgit, or 0.42%, to 4,952 ringgit ($1,225.44)…",
-   "image": "https://i.brecorder.com/large/2026/09/021112465b142e4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "NZ dollar skids as RBNZ flags gradual hikes, Aussie supported",
-   "url": "https://www.brecorder.com/news/40437554/nz-dollar-skids-as-rbnz-flags-gradual-hikes-aussie-supported",
-   "source": "Business Recorder",
-   "published": "2026-09-02T06:09:47+00:00",
-   "summary": "SYDNEY: The New Zealand dollar slid on Wednesday after the country’s central bank raised interest rates as expected but projected a more gradual and limited pace of further tightening than markets had wagered on. In contrast, the Australian dollar held steady after data showed the economy held up better than expected i…",
-   "image": "https://i.brecorder.com/large/2026/09/0211093844e776c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan eases as rising oil prices, higher US yields weigh",
-   "url": "https://www.brecorder.com/news/40437550/chinas-yuan-eases-as-rising-oil-prices-higher-us-yields-weigh",
-   "source": "Business Recorder",
-   "published": "2026-09-02T05:55:02+00:00",
-   "summary": "HONG KONG: China’s yuan eased against the dollar on Wednesday as higher US bond yields and firmer oil prices lifted the greenback, putting pressure on Asian currencies. The dollar strengthened against major currencies this week and held firm on Wednesday, as renewed hostilities between the US and Iran pushed oil prices…",
-   "image": "https://i.brecorder.com/large/2026/09/02105426a2e5771.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares remain over 1% lower after GDP data, NZ hikes rates",
-   "url": "https://www.brecorder.com/news/40437549/australian-shares-remain-over-1-lower-after-gdp-data-nz-hikes-rates",
-   "source": "Business Recorder",
-   "published": "2026-09-02T05:53:29+00:00",
-   "summary": "Australian shares remained more than 1% down on Wednesday after second-quarter economic growth slowed, though not enough to deter expectations of another interest rate hike, while New Zealand’s central bank raised rates as expected. The S&P/ASX 200 benchmark index was down 1.1% at 8,967 points, as of 0243 GMT, recoveri…",
-   "image": "https://i.brecorder.com/large/2026/09/02105232d95dc11.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel directs govt to renegotiate IMF terms for special economic zones",
    "url": "https://www.dawn.com/news/2026825/senate-panel-directs-govt-to-renegotiate-imf-terms-for-special-economic-zones",
    "source": "Dawn",
@@ -545,32 +505,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Telecom association seeks end to government-to-government contracting under amended procurement rules",
-   "url": "https://www.dawn.com/news/2026125/telecom-association-seeks-end-to-government-to-government-contracting-under-amended-procurement-rules",
-   "source": "Dawn",
-   "published": "2026-08-30T04:02:41+00:00",
-   "summary": "https://www.dawn.com/news/2026074",
-   "image": "https://i.dawn.com/large/2026/08/30090208c71caf6.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Govt rebuts claims of cancelling power-generation component of Diamer-Bhasha Dam",
-   "url": "https://www.dawn.com/news/2025942/govt-rebuts-claims-of-cancelling-power-generation-component-of-diamer-bhasha-dam",
-   "source": "Dawn",
-   "published": "2026-08-29T08:59:45+00:00",
-   "summary": "The Power Division on Saturday refuted a report that claimed that the government had cancelled the power-generation component of Diamer-Bhasha Dam. The Diamer-Bhasha Dam project is located on the Indus River near Gilgit-Baltistan. It is set to have a gross water storage capacity of 8.1 MAF and an installed power genera…",
-   "image": "https://i.dawn.com/large/2026/08/29131636efc1f21.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
