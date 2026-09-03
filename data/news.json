@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-03T14:55:15+00:00",
+ "generated": "2026-09-03T18:22:45+00:00",
  "count": 49,
  "relevant_count": 11,
  "domestic_count": 9,
  "sources": {
-  "Dawn": "ok (9)",
+  "Dawn": "ok (8)",
   "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "SBP’s forex reserves rise $19mn to $17.12bn",
+   "url": "https://www.brecorder.com/news/40437789/sbps-forex-reserves-rise-19mn-to-1712bn",
+   "source": "Business Recorder",
+   "published": "2026-09-03T16:19:57+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $19 million to $17.12 billion during the week ended August 28, 2026. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves stood at $22.53 billion as of August 28, 2026. Of these, commercial ban…",
+   "image": "https://i.brecorder.com/large/2026/09/032025406f4254e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40437763/pakistan-rupee-records-gain-against-us-dollar",
@@ -116,17 +129,17 @@
    "domestic": true
   },
   {
-   "title": "Islamabad, Riyadh agree to boost Pakistani agri and food exports to $3bn",
-   "url": "https://www.dawn.com/news/2026165/islamabad-riyadh-agree-to-boost-pakistani-agri-and-food-exports-to-3bn",
-   "source": "Dawn",
-   "published": "2026-08-30T18:42:54+00:00",
-   "summary": "Islamabad and Riyadh have agreed to boost Pakistani agricultural and food exports to Saudi Arabia up to $3 billion, the countries said in a joint statement on Sunday. The statement, shared by the Prime Minister’s Office (PMO), said the agreement was reached after “successful” talks between Saudi Arabia’s agriculture mi…",
-   "image": "https://i.dawn.com/large/2026/08/3017314927d7a59.webp",
+   "title": "PSX: KSE-100 Index closes marginally up after volatile trading",
+   "url": "https://www.brecorder.com/news/40437729/psx-kse-100-index-closes-marginally-up-after-volatile-trading",
+   "source": "Business Recorder",
+   "published": "2026-09-03T15:05:12+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile session on Thursday, with the benchmark KSE-100 Index swaying in both directions throughout the day before closing marginally higher. The index opened with strong buying interest, climbing sharply in early trade and hitting an intra-day high of 175,796.24, after wh…",
+   "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "PSX partners with UK’s MOBILIST to boost sustainable finance",
@@ -187,19 +200,6 @@
    "published": "2026-09-03T13:51:55+00:00",
    "summary": "BENGALURU: India’s Bharat Forge said on Thursday its defence unit signed an agreement with France’s Thales to establish advanced industrial capability to build 70-mm rocket systems in the country. India is the world’s fifth-largest military spender and the second-largest arms importer after Ukraine, according to data f…",
    "image": "https://i.brecorder.com/large/2026/09/03185016d550bd2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 Index closes marginally up after volatile trading",
-   "url": "https://www.brecorder.com/news/40437729/psx-kse-100-index-closes-marginally-up-after-volatile-trading",
-   "source": "Business Recorder",
-   "published": "2026-09-03T13:51:35+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile session on Thursday, with the benchmark KSE-100 Index swaying in both directions throughout the day before closing marginally higher. The index opened with strong buying interest, climbing sharply in early trade and hitting an intra-day high of 175,796.24, after wh…",
-   "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
    "topics": [
     "Economy"
    ],
@@ -597,6 +597,19 @@
    "domestic": false
   },
   {
+   "title": "Pakistan says exports only way out of an existential crisis, seeks ADB expertise",
+   "url": "https://arynews.tv/pakistan-says-exports-only-way-out-of-an-existential-crisis-seeks-adb-expertise",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan says exports only way out of an existential crisis, seeks ADB expertise",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Ahsan-Iqbal-ADB.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
    "url": "https://arynews.tv/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise",
    "source": "ARY News",
@@ -629,19 +642,6 @@
    "published": null,
    "summary": "PSX market closes lower as KSE-100 index drops 1,690 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-low.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India’s Tukaram Mundhe busts firm faking expiry dates, nutrition labels on food exports",
-   "url": "https://arynews.tv/india-firm-faking-expiry-dates-nutrition-labels-food-exports",
-   "source": "ARY News",
-   "published": null,
-   "summary": "India’s Tukaram Mundhe busts firm faking expiry dates, nutrition labels on food exports",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/India-raid-lahori-zeera.jpg",
    "topics": [
     "Economy"
    ],

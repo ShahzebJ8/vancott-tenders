@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T14:55:10+00:00",
+ "generated": "2026-09-03T18:22:38+00:00",
  "count": 565,
  "with_value": 547,
  "with_winner": 213,
@@ -10928,6 +10928,26 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003202",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003201",
+   "tender_no": "TS0000010913E",
+   "reference": "09/GSC (2026-27)",
+   "title": "Construction of pole foundation Civil Works",
+   "organisation": "Ministry of Energy (Power Division) Multan Electric Power Company (MEPCO) Multan - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "M. A & Sons Multan"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-03",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003201",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -49775,26 +49795,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001065",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001064",
-   "tender_no": "TS0000005071E",
-   "reference": "087",
-   "title": "Hiring of Vehicles for Eid-ul-Adha 2026 Miscellaneous",
-   "organisation": "Ministry of Defence Cantonment Board Faisal Karachi - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "SMK Construction Co."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-02",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001064",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
