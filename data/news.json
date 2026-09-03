@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T18:22:45+00:00",
+ "generated": "2026-09-03T21:16:45+00:00",
  "count": 49,
  "relevant_count": 11,
  "domestic_count": 9,
@@ -127,6 +127,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "LEAP 2026: Pakistan’s IT exporters eye expansion in GCC region",
+   "url": "https://www.brecorder.com/news/40437804/leap-2026-pakistans-it-exporters-eye-expansion-in-gcc-region",
+   "source": "Business Recorder",
+   "published": "2026-09-03T19:14:18+00:00",
+   "summary": "Pakistan IT and IT-enabled companies received good response from foreign investors and tech companies, eyeing growth in exports in the Gulf region, particularly in Saudi Arabia. IT exporters believe that participation in the LEAP 2026 will translate into higher exports, as regional and international companies from diff…",
+   "image": "https://i.brecorder.com/large/2026/09/04001332ffb4e2f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PSX: KSE-100 Index closes marginally up after volatile trading",
@@ -317,19 +330,6 @@
    "published": "2026-09-03T10:53:25+00:00",
    "summary": "MUMBAI: The Indian rupee notched a 10-week closing high on Thursday, buoyed by stronger-than-expected dollar inflows under the central bank’s special scheme, even as importer demand pared some of the currency’s earlier gains. The Indian rupee closed 0.5% higher at 94.4850 per U.S. dollar, its highest level since June 2…",
    "image": "https://i.brecorder.com/large/2026/09/031553120466b70.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oilboy plans 70 EV fast-charging stations across Pakistan with Rs1bn rights issue",
-   "url": "https://www.brecorder.com/news/40437761/oilboy-plans-70-ev-fast-charging-stations-across-pakistan-with-rs1bn-rights-issue",
-   "source": "Business Recorder",
-   "published": "2026-09-03T09:09:39+00:00",
-   "summary": "Oilboy Energy Limited (OBOY), a Pakistan-based energy company, plans to raise Rs1 billion through a rights issue to finance the rollout of a nationwide network of 70 electric-vehicle (EV) fast-charging stations. According to documents made available to the Pakistan Stock Exchange (PSX), the company, formerly known as D…",
-   "image": "https://i.brecorder.com/large/2026/09/03135636d4f9544.gif",
    "topics": [
     "Economy"
    ],
