@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-03T10:39:05+00:00",
- "count": 43,
+ "generated": "2026-09-03T14:55:15+00:00",
+ "count": 49,
  "relevant_count": 11,
- "domestic_count": 11,
+ "domestic_count": 9,
  "sources": {
-  "Dawn": "ok (10)",
+  "Dawn": "ok (9)",
   "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Pakistan rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40437763/pakistan-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-03T14:13:47+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01% against the US dollar on Thursday. The local unit closed the day at 277.42, a gain of Re0.03 against the greenback. On Wednesday , the Pakistani rupee settled at 277.45 against the dollar. Pakistan has raised $3 billion through a dual-tranche Eurobond …",
+   "image": "https://i.brecorder.com/large/2026/09/0315121046fc5b3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Punjab’s budgetary borrowing jumps 145pc",
    "url": "https://www.dawn.com/news/2027090/punjabs-budgetary-borrowing-jumps-145pc",
@@ -116,44 +129,199 @@
    "domestic": true
   },
   {
-   "title": "Electric vehicle shift lags amid infrastructure gaps",
-   "url": "https://www.dawn.com/news/2026075/electric-vehicle-shift-lags-amid-infrastructure-gaps",
-   "source": "Dawn",
-   "published": "2026-08-30T04:27:17+00:00",
-   "summary": "• PM’s 30pc target stalls as OMCs expand outlets without chargers • Petrol demand stays robust on two-wheeler boom KARACHI: The government is considering several options to reduce the fuel import bill, the latest being the upgrade of refineries at an estimated cost of $6 billion. Earlier efforts to reduce petrol import…",
-   "image": "https://i.dawn.com/large/2026/08/30085518d7a025f.webp",
+   "title": "PSX partners with UK’s MOBILIST to boost sustainable finance",
+   "url": "https://www.brecorder.com/news/40437788/psx-partners-with-uks-mobilist-to-boost-sustainable-finance",
+   "source": "Business Recorder",
+   "published": "2026-09-03T14:48:21+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) has partnered with the United Kingdom’s MOBILIST programme to mobilise private investment for sustainable development and climate transition projects in Pakistan. Under the partnership, MOBILIST will work with PSX’s network of issuers and market intermediaries to identify products elig…",
+   "image": "https://i.brecorder.com/large/2026/09/03194614a3baed3.webp",
    "topics": [
-    "Construction & projects",
     "Economy"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
   },
   {
-   "title": "Sindh announces two-year tax relief for electric vehicles, bikes",
-   "url": "https://arynews.tv/sindh-announces-two-year-tax-relief-for-electric-vehicles-bikes",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Sindh announces two-year tax relief for electric vehicles, bikes",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Electric-vehicles-Sindh-tax-relief.jpg",
+   "title": "In flood-ravaged Nepal valley nothing is left standing",
+   "url": "https://www.brecorder.com/news/40437787/in-flood-ravaged-nepal-valley-nothing-is-left-standing",
+   "source": "Business Recorder",
+   "published": "2026-09-03T14:42:04+00:00",
+   "summary": "RASUWA: From the air, the section of Nepal’s Trishuli River valley, where rescuers are trying to reach hundreds of workers trapped in hydroelectric power plants, emerges as an utterly desolate grey expanse. Eight days since the catastrophic flood, the ground has either turned hard like concrete or has become a slippery…",
+   "image": "https://i.brecorder.com/large/2026/09/03194052145d7f9.webp",
    "topics": [
-    "Budget & spending"
+    "Energy & power"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
   },
   {
-   "title": "CAA commences audit of PIA ground handling services at Karachi airport",
-   "url": "https://arynews.tv/caa-commences-audit-of-pia-ground-handling-services-at-karachi-airport",
-   "source": "ARY News",
-   "published": null,
-   "summary": "CAA commences audit of PIA ground handling services at Karachi airport",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Karachi-airport.jpg",
+   "title": "India top court dismisses market regulator's plea against NSE, reports",
+   "url": "https://www.brecorder.com/news/40437786/india-top-court-dismisses-market-regulators-plea-against-nse-reports",
+   "source": "Business Recorder",
+   "published": "2026-09-03T14:29:59+00:00",
+   "summary": "India’s top court dismissed market regulator’s appeals against the National Stock Exchange of India , removing a major regulatory hurdle for NSE’s planned IPO, CNBC TV-18 reported on Thursday, citing news wire agency Informist. The appeals are related to the exchange’s co-location data centre and dark fibre cases, whic…",
+   "image": "https://i.brecorder.com/large/2026/09/03192925a70dd82.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dubai leads Gulf gains as UAE, Saudi growth data lift sentiment",
+   "url": "https://www.brecorder.com/news/40437782/dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sentiment",
+   "source": "Business Recorder",
+   "published": "2026-09-03T14:00:31+00:00",
+   "summary": "BENGALURU: Gulf stock markets rose on Thursday, led by Dubai, as strong economic data in the United Arab Emirates and Saudi Arabia outweighed investor concerns over renewed U.S.-Iran clashes. The latest attacks marked the most substantial exchange of fire between the U.S. and Iran since July, with the war now in its se…",
+   "image": "https://i.brecorder.com/large/2026/09/031858333636db6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Bharat Forge unit, France's Thales sign rocket systems alliance",
+   "url": "https://www.brecorder.com/news/40437781/indias-bharat-forge-unit-frances-thales-sign-rocket-systems-alliance",
+   "source": "Business Recorder",
+   "published": "2026-09-03T13:51:55+00:00",
+   "summary": "BENGALURU: India’s Bharat Forge said on Thursday its defence unit signed an agreement with France’s Thales to establish advanced industrial capability to build 70-mm rocket systems in the country. India is the world’s fifth-largest military spender and the second-largest arms importer after Ukraine, according to data f…",
+   "image": "https://i.brecorder.com/large/2026/09/03185016d550bd2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 Index closes marginally up after volatile trading",
+   "url": "https://www.brecorder.com/news/40437729/psx-kse-100-index-closes-marginally-up-after-volatile-trading",
+   "source": "Business Recorder",
+   "published": "2026-09-03T13:51:35+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile session on Thursday, with the benchmark KSE-100 Index swaying in both directions throughout the day before closing marginally higher. The index opened with strong buying interest, climbing sharply in early trade and hitting an intra-day high of 175,796.24, after wh…",
+   "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt, JI agree to form committees to explore relief measures",
+   "url": "https://www.brecorder.com/news/40437779/govt-ji-agree-to-form-committees-to-explore-relief-measures",
+   "source": "Business Recorder",
+   "published": "2026-09-03T13:15:57+00:00",
+   "summary": "The government and Jamaat-e-Islami (JI) on Thursday agreed to form committees to deliberate on measures aimed at providing relief to the public amid rising inflation and petroleum prices. Federal Minister for Planning Ahsan Iqbal, speaking at a joint press conference with JI Emir Hafiz Naeemur Rehman and Prime Minister…",
+   "image": "https://i.ytimg.com/vi/SjtVJDMsgJU/maxresdefault.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Canada assesses risks to imports after India raid finds fake labels on food products",
+   "url": "https://www.brecorder.com/news/40437778/canada-assesses-risks-to-imports-after-india-raid-finds-fake-labels-on-food-products",
+   "source": "Business Recorder",
+   "published": "2026-09-03T11:48:42+00:00",
+   "summary": "OTTAWA/NEW DELHI: The Canadian Food Inspection Agency is looking into whether an illegal operation in India that labelled chips and other food products with fake nutrition information and expiry dates represents a risk to the country’s imports. Indian authorities raided a Mumbai warehouse last week, seizing products wo…",
+   "image": "https://i.brecorder.com/large/2026/09/0316475955c3c0a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Israel's Katz threatens broad retaliation if Iran attacks Israel",
+   "url": "https://www.brecorder.com/news/40437776/israels-katz-threatens-broad-retaliation-if-iran-attacks-israel",
+   "source": "Business Recorder",
+   "published": "2026-09-03T11:42:41+00:00",
+   "summary": "JERUSALEM: Defence Minister Israel Katz said on Thursday that Israel would strike Iran’s energy and civilian infrastructure if Iran were to attack Israel, the country’s latest threat to Tehran amid a sudden recent escalation of U.S.-Iran fighting. Fears of renewed escalation gripped the Middle East this week after the …",
+   "image": "https://i.brecorder.com/large/2026/09/0316404120ea162.webp",
    "topics": [
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "RBI rejects all bids in bond buyback",
+   "url": "https://www.brecorder.com/news/40437772/rbi-rejects-all-bids-in-bond-buyback",
+   "source": "Business Recorder",
+   "published": "2026-09-03T11:21:40+00:00",
+   "summary": "The Reserve Bank of India (RBI) did not accept any bids in an auction to buyback government bonds, results released on Thursday showed. The buyback included bonds maturing this financial year. Investors offered bonds worth only 10% of the 300 billion rupees ($3.18 billion) New Delhi sought to buy through the buyback. T…",
+   "image": "https://i.brecorder.com/large/2026/09/031621039e7a859.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm falls for second session on stock fears, weak exports",
+   "url": "https://www.brecorder.com/news/40437770/palm-falls-for-second-session-on-stock-fears-weak-exports",
+   "source": "Business Recorder",
+   "published": "2026-09-03T11:18:26+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures reversed earlier gains to end lower for a second straight session on Thursday, as anticipated higher August inventories, sluggish export demand and soft Chicago soyoil weighed on the market. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives …",
+   "image": "https://i.brecorder.com/large/2026/09/03161814798484e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "How India's RBI could tackle a liquidity deluge triggered by dollar deposits",
+   "url": "https://www.brecorder.com/news/40437769/how-indias-rbi-could-tackle-a-liquidity-deluge-triggered-by-dollar-deposits",
+   "source": "Business Recorder",
+   "published": "2026-09-03T11:01:26+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India’s special dollar deposit scheme drew a larger-than-expected $127.23 billion, leaving the central bank having to deal with a problem of plenty. The dollar deposits, swapped by banks directly with the RBI, have pushed the liquidity surplus in India’s banking system to a record high of 9.…",
+   "image": "https://i.brecorder.com/large/2026/09/03160051915217c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian benchmark shares subdued after recent drop as oil worries outweigh banking gains",
+   "url": "https://www.brecorder.com/news/40437768/indian-benchmark-shares-subdued-after-recent-drop-as-oil-worries-outweigh-banking-gains",
+   "source": "Business Recorder",
+   "published": "2026-09-03T10:56:21+00:00",
+   "summary": "Indian benchmark equities were subdued on Thursday, with the Nifty closing largely flat as risk aversion sparked by elevated oil prices outweighed gains in banking stocks following the central bank’s stronger-than-expected dollar mobilisation. The BSE Sensex plunged as much as 2.5% during the closing auction, with the …",
+   "image": "https://i.brecorder.com/large/2026/09/03155601610a8d6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s trade deficit widens 18% in 2MFY27",
+   "url": "https://www.brecorder.com/news/40437767/pakistans-trade-deficit-widens-18-in-2mfy27",
+   "source": "Business Recorder",
+   "published": "2026-09-03T10:53:57+00:00",
+   "summary": "Pakistan’s trade deficit widened by 18.1% year-on-year to $7.12 billion during the first two months (July-August) of fiscal year 2026-27, according to data released by the Pakistan Bureau of Statistics (PBS) on Thursday. According to the data, the trade gap stood at $6.03 billion in the corresponding period of the prev…",
+   "image": "https://i.brecorder.com/large/2026/09/0315513059dc2a3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows",
+   "url": "https://www.brecorder.com/news/40437766/indian-rupee-hits-10-week-closing-high-as-rbi-schemes-draw-hefty-dollar-inflows",
+   "source": "Business Recorder",
+   "published": "2026-09-03T10:53:25+00:00",
+   "summary": "MUMBAI: The Indian rupee notched a 10-week closing high on Thursday, buoyed by stronger-than-expected dollar inflows under the central bank’s special scheme, even as importer demand pared some of the currency’s earlier gains. The Indian rupee closed 0.5% higher at 94.4850 per U.S. dollar, its highest level since June 2…",
+   "image": "https://i.brecorder.com/large/2026/09/031553120466b70.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Oilboy plans 70 EV fast-charging stations across Pakistan with Rs1bn rights issue",
@@ -162,19 +330,6 @@
    "published": "2026-09-03T09:09:39+00:00",
    "summary": "Oilboy Energy Limited (OBOY), a Pakistan-based energy company, plans to raise Rs1 billion through a rights issue to finance the rollout of a nationwide network of 70 electric-vehicle (EV) fast-charging stations. According to documents made available to the Pakistan Stock Exchange (PSX), the company, formerly known as D…",
    "image": "https://i.brecorder.com/large/2026/09/03135636d4f9544.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Imran Sarwar appointed President, CEO of NBP",
-   "url": "https://www.brecorder.com/news/40437745/imran-sarwar-appointed-president-ceo-of-nbp",
-   "source": "Business Recorder",
-   "published": "2026-09-03T07:11:34+00:00",
-   "summary": "The government has appointed Imran Sarwar as President and Chief Executive Officer of the National Bank of Pakistan (NBP) for a three-year term with immediate effect. NBP disclosed the development in a filing to the Pakistan Stock Exchange (PSX) on Thursday. “We have to inform you that the Government of Pakistan, Finan…",
-   "image": "https://i.brecorder.com/large/2026/09/031140345c91c7d.webp",
    "topics": [
     "Economy"
    ],
@@ -325,51 +480,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: Stocks rebound, up over 900 points in early trade",
-   "url": "https://www.brecorder.com/news/40437729/psx-stocks-rebound-up-over-900-points-in-early-trade",
-   "source": "Business Recorder",
-   "published": "2026-09-03T05:18:02+00:00",
-   "summary": "After losing nearly 1% in the previous session, stocks at the Pakistan Stock Exchange (PSX) rebounded, with the benchmark KSE-100 Index gaining over 950 points during the opening minutes of trading on Thursday. At 9:55am, the benchmark index was hovering at 175,734.10, a gain of 957.51 points or 0.55%. Buying was obser…",
-   "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX rebounds as KSE-100 gains 877 points after steep fall",
+   "title": "PSX edges up 153 points amid geopolitical uncertainty",
    "url": "https://tribune.com.pk/story/2627220/psx-rebounds-as-kse-100-gains-877-points-after-steep-fall",
    "source": "The Express Tribune",
    "published": "2026-09-03T03:46:38+00:00",
-   "summary": "Volume on the KSE-100 was about 116 million shares, with traded value near Rs7.55billion",
+   "summary": "KSE-100 Index closes at 174,930 as mixed sentiment causes investor caution",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold rises as dollar and yields ease, with US nonfarm payrolls report in spotlight",
-   "url": "https://www.brecorder.com/news/40437724/gold-rises-as-dollar-and-yields-ease-with-us-nonfarm-payrolls-report-in-spotlight",
-   "source": "Business Recorder",
-   "published": "2026-09-03T02:52:24+00:00",
-   "summary": "Gold prices firmed on Thursday ​as the US dollar and Treasury yields eased, while investors strapped in ‌for U.S. nonfarm payrolls data that could help shape expectations for the Federal Reserve’s next policy move. Spot gold rose 0.5% to $4,409.97 per ounce by 0219 GMT after hitting a near one-month low in the ​previou…",
-   "image": "https://i.brecorder.com/large/2026/09/03074534cad3bdc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yen in the spotlight after sudden jump",
-   "url": "https://www.brecorder.com/news/40437723/yen-in-the-spotlight-after-sudden-jump",
-   "source": "Business Recorder",
-   "published": "2026-09-03T02:44:47+00:00",
-   "summary": "SINGAPORE: The yen held its gains on Thursday ​after a sudden, brief surge in the previous session that traders suspect may have ‌been driven by government authorities, keeping pressure on the dollar ahead of a crucial US jobs report. The yen was last steady at 158.88 per dollar, having jumped 0.9% overnight, in a move…",
-   "image": "https://i.brecorder.com/large/2026/09/03074140c2338ad.webp",
    "topics": [
     "Economy"
    ],
@@ -442,58 +558,6 @@
    "domestic": false
   },
   {
-   "title": "Indian bonds join global debt selloff, bruised by oil and US Treasury yields",
-   "url": "https://www.brecorder.com/news/40437600/indian-bonds-join-global-debt-selloff-bruised-by-oil-and-us-treasury-yields",
-   "source": "Business Recorder",
-   "published": "2026-09-02T14:18:26+00:00",
-   "summary": "MUMBAI: Indian government bonds extended losses into a fifth straight session on Wednesday, as U.S. Treasury yields climbed to near three-year highs and surging oil prices rekindled inflation fears. The benchmark 10-year U.S. Treasury yield, a global yardstick for borrowing costs, hovered at 4.81%, its highest level si…",
-   "image": "https://i.brecorder.com/large/2026/09/021917511f8eb85.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian central bank steps up rupee support, soaring NRI deposits bolster firepower",
-   "url": "https://www.brecorder.com/news/40437597/indian-central-bank-steps-up-rupee-support-soaring-nri-deposits-bolster-firepower",
-   "source": "Business Recorder",
-   "published": "2026-09-02T12:11:15+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India has stepped up its support for the rupee in recent sessions, shielding the currency from a surge in oil prices and rising U.S. Treasury yields, with a flood of deposits from non-resident Indians bolstering the central bank’s firepower. The rupee has rallied past the 95-per-dollar mark …",
-   "image": "https://i.brecorder.com/large/2026/09/02171100bb6f971.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's soyoil imports hit record high in August and palm six-month peak, dealers say",
-   "url": "https://www.brecorder.com/news/40437595/indias-soyoil-imports-hit-record-high-in-august-and-palm-six-month-peak-dealers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-02T12:01:27+00:00",
-   "summary": "MUMBAI: Indian refiners imported a record amount of soyoil in August and the highest volume of palm oil in six months as they built stocks ahead of the festival season, five dealers said. Higher palm oil and soyoil buying by the world’s biggest importer of vegetable oils could help top producers Indonesia, Malaysia and…",
-   "image": "https://i.brecorder.com/large/2026/09/0217005989c7b00.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Capri Global completes debut dollar debt sale",
-   "url": "https://www.brecorder.com/news/40437593/capri-global-completes-debut-dollar-debt-sale",
-   "source": "Business Recorder",
-   "published": "2026-09-02T11:52:25+00:00",
-   "summary": "MUMBAI: India’s Capri Global Capital has accepted bids worth $300 million for its debut dollar bond offering at 20 basis points below the initial price guidance, the company said in a notice to stock exchanges on Wednesday. The non-banking financial company will sell 3-year-and-3-month bonds at 7.55% coupon. Bonds will…",
-   "image": "https://i.brecorder.com/large/2026/09/02165151ad587bd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel directs govt to renegotiate IMF terms for special economic zones",
    "url": "https://www.dawn.com/news/2026825/senate-panel-directs-govt-to-renegotiate-imf-terms-for-special-economic-zones",
    "source": "Dawn",
@@ -533,6 +597,32 @@
    "domestic": false
   },
   {
+   "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
+   "url": "https://arynews.tv/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-03T180842.643.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX closes higher as KSE-100 gains 153 points",
+   "url": "https://arynews.tv/psx-closes-higher-as-kse-100-gains-153-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX closes higher as KSE-100 gains 153 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-today.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "PSX market closes lower as KSE-100 index drops 1,690 points",
    "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-drops-1690-points",
    "source": "ARY News",
@@ -552,19 +642,6 @@
    "published": null,
    "summary": "India’s Tukaram Mundhe busts firm faking expiry dates, nutrition labels on food exports",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/India-raid-lahori-zeera.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "BYD sales extend growth streak on strong exports",
-   "url": "https://arynews.tv/byd-sales-extend-growth-streak-on-strong-exports",
-   "source": "ARY News",
-   "published": null,
-   "summary": "BYD sales extend growth streak on strong exports",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/BYD.jpg",
    "topics": [
     "Economy"
    ],
