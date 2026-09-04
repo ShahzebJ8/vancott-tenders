@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-04T11:37:45+00:00",
- "count": 43,
- "relevant_count": 10,
+ "generated": "2026-09-04T15:43:30+00:00",
+ "count": 47,
+ "relevant_count": 11,
  "domestic_count": 8,
  "sources": {
   "Dawn": "ok (8)",
-  "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (4)"
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (10)",
+  "ARY News": "ok (6)"
  },
  "stories": [
   {
    "title": "Pakistan rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40437940/pakistan-rupee-registers-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-04T11:20:25+00:00",
+   "published": "2026-09-04T14:41:02+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Friday. The local unit closed the day at 277.41, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.42 against the dollar. Moreover, the Japanese yen clung to its gains ​against the US dollar on Friday and was…",
    "image": "https://i.brecorder.com/large/2026/09/041527524dd9834.webp",
    "topics": [
@@ -116,6 +116,84 @@
    "domestic": true
   },
   {
+   "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
+   "url": "https://www.brecorder.com/news/40437959/trump-says-if-the-fed-doesnt-cut-rates-hell-stop-trading-with-some-nations",
+   "source": "Business Recorder",
+   "published": "2026-09-04T15:27:23+00:00",
+   "summary": "WASHINGTON: U.S. President Donald Trump on Friday said that unless the Federal Reserve cut interest rates, he would stop trading with countries with which the United States had a deficit. “High interest rates put the U.S.A. at a very unfair disadvantage, and I won’t allow that to happen!” said Trump, who has repeatedly…",
+   "image": "https://i.brecorder.com/large/2026/09/04202714ca29586.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE shares jump as PMI shows solid growth in August",
+   "url": "https://www.brecorder.com/news/40437958/uae-shares-jump-as-pmi-shows-solid-growth-in-august",
+   "source": "Business Recorder",
+   "published": "2026-09-04T14:37:22+00:00",
+   "summary": "Stock markets in the United Arab Emirates rose on Friday after a business survey showed the country’s non-oil private sector expanded at a solid pace in August, driven by stronger output and new business growth. The S&P Global UAE Purchasing Managers’ Index (PMI) rose to 55.3 in August from 52.7 in July. Dubai’s main i…",
+   "image": "https://i.brecorder.com/large/2026/09/041936432919c9d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's NSE targets listing in week of September 21 after IPO clearance, sources say",
+   "url": "https://www.brecorder.com/news/40437953/indias-nse-targets-listing-in-week-of-september-21-after-ipo-clearance-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-09-04T13:47:51+00:00",
+   "summary": "India’s National Stock Exchange is planning to list in the week starting September 21, two sources familiar with the matter said, after the markets regulator cleared its long-awaited IPO on Friday. The exchange is expected to begin book-building, a process to gauge investor demand and determine the IPO price, on Septem…",
+   "image": "https://i.brecorder.com/large/2026/09/04184738138aba3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nepal floods could cost insurers over $130 million even before death, injury claims",
+   "url": "https://www.brecorder.com/news/40437952/nepal-floods-could-cost-insurers-over-130-million-even-before-death-injury-claims",
+   "source": "Business Recorder",
+   "published": "2026-09-04T13:43:33+00:00",
+   "summary": "MUMBAI: The devastating flood in Nepal last week could result in commercial insurance losses exceeding 20 billion Nepali rupees ($132.3 million), with hydropower projects accounting for most claims, according to a top official at one of the country’s leading insurers. The insurance cover, when paid out, covers losses b…",
+   "image": "https://i.brecorder.com/large/2026/09/041841479f5ff6e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 Index gains nearly 400 points after volatile trading",
+   "url": "https://www.brecorder.com/news/40437906/psx-kse-100-index-gains-nearly-400-points-after-volatile-trading",
+   "source": "Business Recorder",
+   "published": "2026-09-04T13:36:59+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Friday, with the benchmark KSE-100 Index swinging both ways before closing the week’s last session on a positive note. The benchmark index opened the session on a weak note, falling sharply from around the 175,300 to an intra-day low of 174,515.3…",
+   "image": "https://i.brecorder.com/large/2026/09/04100506a068f61.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Tata Motors tender for Italy's Iveco set for September 7 to October 26",
+   "url": "https://www.brecorder.com/news/40437949/tata-motors-tender-for-italys-iveco-set-for-september-7-to-october-26",
+   "source": "Business Recorder",
+   "published": "2026-09-04T11:46:00+00:00",
+   "summary": "MILAN: The tender offer by India’s Tata Motors for Italian truck and bus maker Iveco will run from September 7 to October 26, according to a statement published after Italian market regulator Consob approved the offer document. Under certain conditions, the tender period will be extended for five further days, from Nov…",
+   "image": "https://i.brecorder.com/large/2026/09/041645241ad7aaf.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "India's REC set to debut tokenised corporate bond sale next week, bankers say",
    "url": "https://www.brecorder.com/news/40437946/indias-rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say",
    "source": "Business Recorder",
@@ -194,19 +272,6 @@
    "domestic": false
   },
   {
-   "title": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high",
-   "url": "https://www.brecorder.com/news/40437899/oil-rallies-for-the-week-as-us-iran-fighting-resumes-diesel-hits-record-high",
-   "source": "Business Recorder",
-   "published": "2026-09-04T10:58:09+00:00",
-   "summary": "Oil prices were on course to gain over 6% for the week as the U.S. and Iran resumed military exchanges in their conflict, now in its seventh month, while U.S. diesel prices hit a record high. A rally in oil prices combined with a much steeper increase in fuel prices has pushed inflation and government borrowing costs h…",
-   "image": "https://i.brecorder.com/large/2026/09/040755014a9fc94.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Power Division moves to improve detection billing system",
    "url": "https://www.brecorder.com/news/40437939/power-division-moves-to-improve-detection-billing-system",
    "source": "Business Recorder",
@@ -233,12 +298,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: Volatility at bourse, KSE-100 up nearly 300 points",
-   "url": "https://www.brecorder.com/news/40437906/psx-volatility-at-bourse-kse-100-up-nearly-300-points",
-   "source": "Business Recorder",
-   "published": "2026-09-04T07:26:48+00:00",
-   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 300 points during the first half of the trading session on Friday. At 12pm, the benchmark index was hovering at 175,198.04, up by 268.36 points or 0.15%. Selling was observed in key sectors, inc…",
-   "image": "https://i.brecorder.com/large/2026/09/04100506a068f61.webp",
+   "title": "PSX closes with modest gains of 400 points",
+   "url": "https://tribune.com.pk/story/2627452/psx-closes-with-modest-gains-of-400-points",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T07:52:36+00:00",
+   "summary": "KSE-100 Index recovers to 175,328 amid oil caution, Friday selling",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -252,19 +317,6 @@
    "published": "2026-09-04T07:10:55+00:00",
    "summary": "JOHANNESBURG: The South African rand was muted in early trade on Friday as attention ​turned to highly awaited U.S. jobs data ‌for clues on the Federal Reserve’s next interest rate decision. At 0625 GMT the rand traded at 15.9975 against ​the dollar , little changed from its ​previous close. The US nonfarm payrolls rep…",
    "image": "https://i.brecorder.com/large/2026/09/04121029549c53b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan plans rupee-denominated, dollar-settled bond, says Aurangzeb",
-   "url": "https://www.brecorder.com/news/40437925/pakistan-plans-rupee-denominated-dollar-settled-bond-says-aurangzeb",
-   "source": "Business Recorder",
-   "published": "2026-09-04T07:05:55+00:00",
-   "summary": "After successfully raising $3 billion through a dual-tranche Eurobond sale, the government is planning to issue a rupee-denominated, dollar-settled bond as part of efforts to diversify its borrowing sources and reduce reliance on the domestic banking system, Finance Minister Muhammad Aurangzeb said on Friday. “We have …",
-   "image": "https://i.ytimg.com/vi/xSsBw2CT-xE/maxresdefault.jpg",
    "topics": [
     "Economy"
    ],
@@ -363,19 +415,6 @@
    "domestic": false
   },
   {
-   "title": "Gold holds ground with US payrolls data on radar",
-   "url": "https://www.brecorder.com/news/40437898/gold-holds-ground-with-us-payrolls-data-on-radar",
-   "source": "Business Recorder",
-   "published": "2026-09-04T02:52:41+00:00",
-   "summary": "Gold held steady on Friday and was poised for a small ‌weekly gain , as attention turned to highly awaited US payrolls data for clues on the Federal Reserve’s next interest rate decision. Spot gold held its ground at $4,477.10 per ounce, as of 0211 GMT. ​ Prices jumped 2% on Thursday as traders scaled back expectations…",
-   "image": "https://i.brecorder.com/large/2026/09/04075221b479e58.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "IT exports soar, AI triggers job cuts",
    "url": "https://tribune.com.pk/story/2627332/it-exports-soar-ai-triggers-job-cuts",
    "source": "The Express Tribune",
@@ -454,19 +493,6 @@
    "domestic": false
   },
   {
-   "title": "Dubai leads Gulf gains as UAE, Saudi growth data lift sentiment",
-   "url": "https://www.brecorder.com/news/40437782/dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sentiment",
-   "source": "Business Recorder",
-   "published": "2026-09-03T14:00:31+00:00",
-   "summary": "BENGALURU: Gulf stock markets rose on Thursday, led by Dubai, as strong economic data in the United Arab Emirates and Saudi Arabia outweighed investor concerns over renewed U.S.-Iran clashes. The latest attacks marked the most substantial exchange of fire between the U.S. and Iran since July, with the war now in its se…",
-   "image": "https://i.brecorder.com/large/2026/09/031858333636db6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "'Significant scope' in Pakistan-Uzbekistan energy cooperation",
    "url": "https://tribune.com.pk/story/2627154/significant-scope-in-pakistan-uzbekistan-energy-cooperation",
    "source": "The Express Tribune",
@@ -516,6 +542,32 @@
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Inflation rises by 0.65% in Pakistan in one week",
+   "url": "https://arynews.tv/inflation-rises-in-pakistan-in-one-week",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Inflation rises by 0.65% in Pakistan in one week",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Inflation.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX closes high as KSE-100 Index gains 399 points",
+   "url": "https://arynews.tv/psx-closes-high-as-kse-100-index-gains-399-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX closes high as KSE-100 Index gains 399 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-closes-high.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
