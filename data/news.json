@@ -1,15 +1,41 @@
 {
- "generated": "2026-09-04T15:43:30+00:00",
+ "generated": "2026-09-04T18:50:47+00:00",
  "count": 47,
- "relevant_count": 11,
- "domestic_count": 8,
+ "relevant_count": 10,
+ "domestic_count": 9,
  "sources": {
-  "Dawn": "ok (8)",
+  "Dawn": "ok (10)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "OGDCL announces record Rs242.4bn profit for fiscal year 2025-26",
+   "url": "https://www.dawn.com/news/2027502/ogdcl-announces-record-rs2424bn-profit-for-fiscal-year-2025-26",
+   "source": "Dawn",
+   "published": "2026-09-04T18:10:18+00:00",
+   "summary": "ISLAMABAD: Buoyed by a windfall from the global surge in oil prices, Oil and Gas Development Company Limited (OGDCL) on Friday announced a record Rs242.4 billion profit for fiscal year 2025-26, up 43 per cent from the previous year. The company’s profit after tax for the first nine months of the fiscal year (July 2025 …",
+   "image": "https://i.dawn.com/large/2026/09/04225735644bd71.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Nepra allows govt to mandate Battery Energy Storage Systems for wind, solar IPPs in upcoming power auction",
+   "url": "https://www.dawn.com/news/2027489/nepra-allows-govt-to-mandate-battery-energy-storage-systems-for-wind-solar-ipps-in-upcoming-power-auction",
+   "source": "Dawn",
+   "published": "2026-09-04T16:40:54+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) on Friday allowed the government to require mandatory Battery Energy Storage Systems (BESS) as part of an upcoming auction for 800 megawatts of renewable power capacity from wind and solar projects, aimed at helping stabilise an electricity supply faci…",
+   "image": "https://i.dawn.com/large/2026/09/04202033e111d81.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40437940/pakistan-rupee-registers-gain-against-us-dollar",
@@ -21,19 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan, Asian Development Bank discuss early groundbreaking of ML-1 railway",
-   "url": "https://www.brecorder.com/news/40437932/pakistan-asian-development-bank-discuss-early-groundbreaking-of-ml-1-railway",
-   "source": "Business Recorder",
-   "published": "2026-09-04T08:44:45+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Friday called for an early start to work on the planned upgrade of the country’s Main Line-1 railway, as Islamabad and the Asian Development Bank (ADB) discussed infrastructure and other development priorities under a new 2026-30 partnership strategy. The development came during a meeti…",
-   "image": "https://i.ytimg.com/vi/yN4Bd9eV9fQ/maxresdefault.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -285,16 +298,16 @@
    "domestic": false
   },
   {
-   "title": "Mara sisters speak as one in Herzog's Venice contender",
-   "url": "https://www.brecorder.com/news/40437931/mara-sisters-speak-as-one-in-herzogs-venice-contender",
-   "source": "Business Recorder",
-   "published": "2026-09-04T08:30:38+00:00",
-   "summary": "VENICE: Sisters Rooney and Kate Mara said years of shared experiences ​helped them master a unique acting challenge: speaking in perfect unison for Werner Herzog’s “Bucking Fastard”, ‌which premiered at the Venice Film Festival on Thursday. In the film, inspired by real-life British twins, the Mara sisters play Jean an…",
-   "image": "https://i.brecorder.com/large/2026/09/04132910bec0cad.gif",
+   "title": "SBP rejects 'misleading headline' linking Raast to money laundering in wake of FATF report",
+   "url": "https://tribune.com.pk/story/2627467/sbp-rejects-reports-linking-raast-to-money-laundering-in-wake-of-fatf-report",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T10:10:08+00:00",
+   "summary": "Maintains that Raast does not currently facilitate cross-border transfers",
+   "image": null,
    "topics": [
-    "Procurement"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -428,19 +441,6 @@
    "domestic": false
   },
   {
-   "title": "Trade deficit jumps 18% to $7.1b",
-   "url": "https://tribune.com.pk/story/2627335/trade-deficit-jumps-18-to-71b",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T17:25:54+00:00",
-   "summary": "World Bank's 14% export forecast fails as imports grow at double rate of exports",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Consumer confidence falls by 24% to 2-year low",
    "url": "https://tribune.com.pk/story/2627338/consumer-confidence-falls-by-24-to-2-year-low",
    "source": "The Express Tribune",
@@ -545,6 +545,19 @@
    "domestic": false
   },
   {
+   "title": "NEPRA raises electricity prices under monthly and quarterly adjustments",
+   "url": "https://arynews.tv/nepra-raises-electricity-prices-under-monthly-and-quarterly-adjustments",
+   "source": "ARY News",
+   "published": null,
+   "summary": "NEPRA raises electricity prices under monthly and quarterly adjustments",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Electricity-Prices.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Inflation rises by 0.65% in Pakistan in one week",
    "url": "https://arynews.tv/inflation-rises-in-pakistan-in-one-week",
    "source": "ARY News",
@@ -603,19 +616,6 @@
    "published": null,
    "summary": "PSX closes higher as KSE-100 gains 153 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-today.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX market closes lower as KSE-100 index drops 1,690 points",
-   "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-drops-1690-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX market closes lower as KSE-100 index drops 1,690 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-low.jpg",
    "topics": [
     "Economy"
    ],

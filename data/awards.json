@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T15:43:25+00:00",
+ "generated": "2026-09-04T18:50:41+00:00",
  "count": 567,
  "with_value": 549,
  "with_winner": 213,
@@ -10796,6 +10796,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003256",
+   "tender_no": "TS0000009219E",
+   "reference": "PTA/ENF/KHI/433/2026",
+   "title": "Hiring of Security Services at PTA Zonal Office, Karachi Services Cabinet Division",
+   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-04",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003256",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003255",
    "tender_no": "TS0000010035E",
@@ -49801,24 +49819,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001103",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001099",
-   "tender_no": "TS0000005209E",
-   "reference": "PIDC/TENDER/TECH/038",
-   "title": "PROCUREMENT OF CONSULTANCY SERVICES FOR CONSTRUCTION SUPERVISION OF BLOCK-A OF THE KARACHI INDUSTRIAL PARK, KARACHI Services Ministry of Industries & Production (MoIP)",
-   "organisation": "Ministry of Industries & Production (MoIP) Pakistan Industrial Development Corporation (PIDC) Karachi - Pakistan",
-   "bid_count": 6,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-03",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001099",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
