@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-04T18:50:47+00:00",
- "count": 47,
+ "generated": "2026-09-04T21:15:20+00:00",
+ "count": 48,
  "relevant_count": 10,
  "domestic_count": 9,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (10)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (7)"
  },
  "stories": [
   {
@@ -542,6 +542,19 @@
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SBP rejects reports linking Raast to money laundering",
+   "url": "https://arynews.tv/sbp-rejects-reports-linking-raast-to-money-laundering",
+   "source": "ARY News",
+   "published": null,
+   "summary": "SBP rejects reports linking Raast to money laundering",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/State-Bank-of-Pakistan.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {

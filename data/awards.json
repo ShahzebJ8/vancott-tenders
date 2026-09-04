@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T18:50:41+00:00",
+ "generated": "2026-09-04T21:15:14+00:00",
  "count": 567,
  "with_value": 549,
  "with_winner": 213,
@@ -10796,6 +10796,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003258",
+   "tender_no": "TS0000012707E",
+   "reference": "PLL/IMP/LNGT78",
+   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS LNG/LPG Ministry of Energy (Petroleum Division)",
+   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003258",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003256",
    "tender_no": "TS0000009219E",
@@ -49801,24 +49819,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001104",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001103",
-   "tender_no": "TS0000004794E",
-   "reference": "FCS/SDQ/TE/016/26",
-   "title": "WELDING MATERIAL Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
-   "bid_count": 6,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-03",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001103",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
