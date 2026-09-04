@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T21:15:14+00:00",
+ "generated": "2026-09-04T23:13:40+00:00",
  "count": 567,
  "with_value": 549,
  "with_winner": 213,
@@ -10796,6 +10796,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003259",
+   "tender_no": "TS0000012707E",
+   "reference": "PLL/IMP/LNGT78",
+   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS LNG/LPG",
+   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "BP Singapore"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003259",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003258",
    "tender_no": "TS0000012707E",
@@ -49804,24 +49824,6 @@
    "matched_terms": [
     "led"
    ]
-  },
-  {
-   "evaluation_no": "EVL00000001104",
-   "tender_no": "TS0000005463E",
-   "reference": "F.No. 1/3/SLA/Re-License/26/LOG",
-   "title": "renewal of Licenses (SLA) for Fortinet Core Devices Installed at DGIP (HQ), Islamabad, for a period of three (03) years Services Directorate General of Immigration & Passports",
-   "organisation": "Directorate General of Immigration & Passports Directorate General of Immigration &#38; Passports Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-03",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001104",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
   }
  ]
 }
