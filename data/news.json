@@ -1,26 +1,39 @@
 {
- "generated": "2026-09-04T06:18:21+00:00",
- "count": 45,
- "relevant_count": 11,
- "domestic_count": 11,
+ "generated": "2026-09-04T11:37:45+00:00",
+ "count": 43,
+ "relevant_count": 10,
+ "domestic_count": 8,
  "sources": {
-  "Dawn": "ok (7)",
+  "Dawn": "ok (8)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "RLNG supplies: PLL issues warning to KE",
-   "url": "https://www.brecorder.com/news/40437880/rlng-supplies-pll-issues-warning-to-ke",
+   "title": "Pakistan rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40437940/pakistan-rupee-registers-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-04T04:17:48+00:00",
-   "summary": "ISLAMABAD: The Pakistan LNG Limited (PLL) has warned the K-Electric (KE) that it may reassess, curtail or suspend RLNG supplies if the power utility fails to clear outstanding payments amounting to Rs 6.75 billion. In a letter addressed to the chief executive officer of K-Electric, the PLL stated that the total outstan…",
-   "image": "https://i.brecorder.com/large/2026/09/0405540336e1e9a.webp",
+   "published": "2026-09-04T11:20:25+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Friday. The local unit closed the day at 277.41, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.42 against the dollar. Moreover, the Japanese yen clung to its gains ​against the US dollar on Friday and was…",
+   "image": "https://i.brecorder.com/large/2026/09/041527524dd9834.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan, Asian Development Bank discuss early groundbreaking of ML-1 railway",
+   "url": "https://www.brecorder.com/news/40437932/pakistan-asian-development-bank-discuss-early-groundbreaking-of-ml-1-railway",
+   "source": "Business Recorder",
+   "published": "2026-09-04T08:44:45+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Friday called for an early start to work on the planned upgrade of the country’s Main Line-1 railway, as Islamabad and the Asian Development Bank (ADB) discussed infrastructure and other development priorities under a new 2026-30 partnership strategy. The development came during a meeti…",
+   "image": "https://i.ytimg.com/vi/yN4Bd9eV9fQ/maxresdefault.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -37,64 +50,12 @@
    "domestic": true
   },
   {
-   "title": "Dar holds conversation with OIC SG on phone",
-   "url": "https://www.brecorder.com/news/40437885/dar-holds-conversation-with-oic-sg-on-phone",
-   "source": "Business Recorder",
-   "published": "2026-09-04T02:30:22+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar held a telephone conversation with newly elected OIC Secretary-General Ismail Ould Cheikh Ahmed. The DPM/FM congratulated the SG on his election by consensus, underscoring the special importance Pakistan attaches to the OIC. He ex…",
-   "image": "https://i.brecorder.com/large/2026/09/040728459b7a542.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Governor urges photojournalists to promote positive journalism",
-   "url": "https://www.brecorder.com/news/40437889/governor-urges-photojournalists-to-promote-positive-journalism",
-   "source": "Business Recorder",
-   "published": "2026-09-04T02:22:23+00:00",
-   "summary": "KARACHI: ‎Sindh Governor Syed Muhammad Nihal Hashmi on Thursday urged photojournalists to use their professional skills to project a positive image of the country and promote constructive thinking in society. ‎He made the remarks during a meeting with a delegation of photojournalists led by senior photographer and form…",
-   "image": "https://i.brecorder.com/large/2026/09/04072219e9b4902.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PM’s directives for Jinnah Medical Complex & Research Centre",
-   "url": "https://www.brecorder.com/news/40437895/pms-directives-for-jinnah-medical-complex-amp-research-centre",
-   "source": "Business Recorder",
-   "published": "2026-09-04T02:14:52+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday directed that the under-construction Federal Government Polyclinic Phase-II Extension in G-11 be developed as the first phase of the proposed Jinnah Medical Complex and Research Centre and completed by March 2027. The decision, taken at a review meeting chaired by th…",
-   "image": "https://i.brecorder.com/large/2026/09/04071445fead469.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Trade gap swells 18pc to $7.1bn",
    "url": "https://www.dawn.com/news/2027328/trade-gap-swells-18pc-to-71bn",
    "source": "Dawn",
    "published": "2026-09-04T02:03:10+00:00",
    "summary": "KARACHI: The trade gap widened alarmingly by over 18 per cent in the first two months of 2026-27, reflecting the increasing pressure of a surging import bill. The Pakistan Bureau of Statistics (PBS) data, issu­­ed on Thursday, showed that the trade deficit for July-August FY27 swelled to $7.1 billion as imports grew mo…",
    "image": "https://i.dawn.com/large/2026/09/0407223425d825d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40437763/pakistan-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-03T14:13:47+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01% against the US dollar on Thursday. The local unit closed the day at 277.42, a gain of Re0.03 against the greenback. On Wednesday , the Pakistani rupee settled at 277.45 against the dollar. Pakistan has raised $3 billion through a dual-tranche Eurobond …",
-   "image": "https://i.brecorder.com/large/2026/09/0315121046fc5b3.webp",
    "topics": [
     "Economy"
    ],
@@ -155,6 +116,188 @@
    "domestic": true
   },
   {
+   "title": "India's REC set to debut tokenised corporate bond sale next week, bankers say",
+   "url": "https://www.brecorder.com/news/40437946/indias-rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-04T11:27:15+00:00",
+   "summary": "MUMBAI: India will launch tokenized corporate bonds next week, as state-run REC aims to raise 5 billion rupees ($52.92 million) through bonds maturing in one year and eight months, three merchant bankers said on Friday. This would be India’s first debt issue to use blockchain technology to enable instant settlement of …",
+   "image": "https://i.brecorder.com/large/2026/09/04162625d6833ee.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper edges up on thinning stocks, eyes 10-week winning streak",
+   "url": "https://www.brecorder.com/news/40437945/copper-edges-up-on-thinning-stocks-eyes-10-week-winning-streak",
+   "source": "Business Recorder",
+   "published": "2026-09-04T11:23:15+00:00",
+   "summary": "Copper ticked higher on Friday and was set to post a 10th straight weekly rise, as thinning inventories outside the U.S. and a soft dollar lent support. Benchmark three-month copper on the London Metal Exchange was up 0.3% at $14,373 a metric ton as of 0900 GMT, moving closer to its all-time peak of $14,527.50. The met…",
+   "image": "https://i.brecorder.com/large/2026/09/0416230073d7811.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India debt investors call for higher short-term borrowing to absorb excess cash, sources say",
+   "url": "https://www.brecorder.com/news/40437943/india-debt-investors-call-for-higher-short-term-borrowing-to-absorb-excess-cash-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-09-04T11:09:51+00:00",
+   "summary": "MUMBAI: Indian bond market participants have suggested that the government increase supply in the shorter duration, as most lenders are holding surplus rupee liquidity and looking for investment avenues, three treasury sources aware of the matter said on Friday. All the officials requested anonymity as they are not aut…",
+   "image": "https://i.brecorder.com/large/2026/09/04160905be2f923.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares post weekly losses as elevated crude keeps sentiment subdued",
+   "url": "https://www.brecorder.com/news/40437942/indian-shares-post-weekly-losses-as-elevated-crude-keeps-sentiment-subdued",
+   "source": "Business Recorder",
+   "published": "2026-09-04T11:06:08+00:00",
+   "summary": "Indian shares rose on Friday after declining for four straight sessions but logged weekly losses as high crude prices and bond yields earlier in the week outweighed robust domestic growth and tax-collection data. The Nifty 50 rose 0.1% to 23,897.7, while the Sensex gained 0.48% to 76,515.43. Ahead of the closing auctio…",
+   "image": "https://i.brecorder.com/large/2026/09/041605564176709.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee logs best week in five as RBI muscle power, foreign deposits support",
+   "url": "https://www.brecorder.com/news/40437941/indian-rupee-logs-best-week-in-five-as-rbi-muscle-power-foreign-deposits-support",
+   "source": "Business Recorder",
+   "published": "2026-09-04T11:03:55+00:00",
+   "summary": "MUMBAI: The Indian rupee ended largely unchanged Friday, but posted its best weekly performance against the U.S. dollar in five weeks, helped by stronger-than-expected dollar inflows into the central bank’s special schemes. The Indian rupee moved in a narrow six paisa range before ending at 94.4850, aided by the Reserv…",
+   "image": "https://i.brecorder.com/large/2026/09/04160344cf75ffb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Why India's strong GDP growth is raising eyebrows",
+   "url": "https://www.dawn.com/news/2027457/why-indias-strong-gdp-growth-is-raising-eyebrows",
+   "source": "Dawn",
+   "published": "2026-09-04T11:00:41+00:00",
+   "summary": "India’s unexpectedly strong economic growth has sparked a debate after an ex-bureaucrat questioned whether the expansion was overstated and a former central bank chief asked why strong expansion had not shown up in jobs and investment. The government defended its numbers. The world’s fifth-biggest economy grew 7.8 per …",
+   "image": "https://i.dawn.com/large/2026/09/041559452df0cab.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil rallies for the week as U.S.-Iran fighting resumes; diesel hits record high",
+   "url": "https://www.brecorder.com/news/40437899/oil-rallies-for-the-week-as-us-iran-fighting-resumes-diesel-hits-record-high",
+   "source": "Business Recorder",
+   "published": "2026-09-04T10:58:09+00:00",
+   "summary": "Oil prices were on course to gain over 6% for the week as the U.S. and Iran resumed military exchanges in their conflict, now in its seventh month, while U.S. diesel prices hit a record high. A rally in oil prices combined with a much steeper increase in fuel prices has pushed inflation and government borrowing costs h…",
+   "image": "https://i.brecorder.com/large/2026/09/040755014a9fc94.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Power Division moves to improve detection billing system",
+   "url": "https://www.brecorder.com/news/40437939/power-division-moves-to-improve-detection-billing-system",
+   "source": "Business Recorder",
+   "published": "2026-09-04T10:36:50+00:00",
+   "summary": "The Power Division on Friday decided to introduce fundamental reforms in the detection billing system to protect electricity consumers from unnecessary hardships and additional financial burdens. As per a press release, the initiative is part of the ongoing broader reform process in the power sector led by Federal Mini…",
+   "image": "https://i.brecorder.com/large/2026/09/04153336acaad17.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Mara sisters speak as one in Herzog's Venice contender",
+   "url": "https://www.brecorder.com/news/40437931/mara-sisters-speak-as-one-in-herzogs-venice-contender",
+   "source": "Business Recorder",
+   "published": "2026-09-04T08:30:38+00:00",
+   "summary": "VENICE: Sisters Rooney and Kate Mara said years of shared experiences ​helped them master a unique acting challenge: speaking in perfect unison for Werner Herzog’s “Bucking Fastard”, ‌which premiered at the Venice Film Festival on Thursday. In the film, inspired by real-life British twins, the Mara sisters play Jean an…",
+   "image": "https://i.brecorder.com/large/2026/09/04132910bec0cad.gif",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Volatility at bourse, KSE-100 up nearly 300 points",
+   "url": "https://www.brecorder.com/news/40437906/psx-volatility-at-bourse-kse-100-up-nearly-300-points",
+   "source": "Business Recorder",
+   "published": "2026-09-04T07:26:48+00:00",
+   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 300 points during the first half of the trading session on Friday. At 12pm, the benchmark index was hovering at 175,198.04, up by 268.36 points or 0.15%. Selling was observed in key sectors, inc…",
+   "image": "https://i.brecorder.com/large/2026/09/04100506a068f61.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand treads water before US jobs data as markets assess Fed rate path",
+   "url": "https://www.brecorder.com/news/40437927/south-african-rand-treads-water-before-us-jobs-data-as-markets-assess-fed-rate-path",
+   "source": "Business Recorder",
+   "published": "2026-09-04T07:10:55+00:00",
+   "summary": "JOHANNESBURG: The South African rand was muted in early trade on Friday as attention ​turned to highly awaited U.S. jobs data ‌for clues on the Federal Reserve’s next interest rate decision. At 0625 GMT the rand traded at 15.9975 against ​the dollar , little changed from its ​previous close. The US nonfarm payrolls rep…",
+   "image": "https://i.brecorder.com/large/2026/09/04121029549c53b.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan plans rupee-denominated, dollar-settled bond, says Aurangzeb",
+   "url": "https://www.brecorder.com/news/40437925/pakistan-plans-rupee-denominated-dollar-settled-bond-says-aurangzeb",
+   "source": "Business Recorder",
+   "published": "2026-09-04T07:05:55+00:00",
+   "summary": "After successfully raising $3 billion through a dual-tranche Eurobond sale, the government is planning to issue a rupee-denominated, dollar-settled bond as part of efforts to diversify its borrowing sources and reduce reliance on the domestic banking system, Finance Minister Muhammad Aurangzeb said on Friday. “We have …",
+   "image": "https://i.ytimg.com/vi/xSsBw2CT-xE/maxresdefault.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yuan firms to 3-1/2-year high on soft dollar despite weak fix",
+   "url": "https://www.brecorder.com/news/40437918/yuan-firms-to-3-12-year-high-on-soft-dollar-despite-weak-fix",
+   "source": "Business Recorder",
+   "published": "2026-09-04T06:50:17+00:00",
+   "summary": "SHANGHAI: China’s yuan strengthened on Friday to a fresh 3-1/2-year high against the dollar, underpinned by broad dollar weakness, even as the central bank set the official midpoint with the largest weak bias in six months. The spot yuan opened at 6.7180 per dollar and was last trading at 6.7165 as of 0243 GMT, 13 pips…",
+   "image": "https://i.brecorder.com/large/2026/09/041149581cbd9e2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper gains as soft dollar set to save 10 week streak",
+   "url": "https://www.brecorder.com/news/40437917/copper-gains-as-soft-dollar-set-to-save-10-week-streak",
+   "source": "Business Recorder",
+   "published": "2026-09-04T06:44:34+00:00",
+   "summary": "SINGAPORE: Copper prices edged up on Friday , set to end the week higher, supported by the US dollar’s overnight plunge which offset pressure from recedingsupply fears. Benchmark three-month copper on the London Metal Exchange was up 0.06% at $14,342 a metric ton by 0300 GMT. That placed the metal on track to edge up 0…",
+   "image": "https://i.brecorder.com/large/2026/09/04114419ebe057a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Thai baht/US dollar steady on Friday",
    "url": "https://www.brecorder.com/news/40437907/thai-bahtus-dollar-steady-on-friday",
    "source": "Business Recorder",
@@ -165,47 +308,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Selling at bourse, KSE-100 down 300 points",
-   "url": "https://www.brecorder.com/news/40437906/psx-selling-at-bourse-kse-100-down-300-points",
-   "source": "Business Recorder",
-   "published": "2026-09-04T05:44:02+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding over 300 points during the opening minutes of trading on Friday. At 10:30am, the benchmark index was hovering at 174,627.46, down by 302.22 points or 0.17%. Selling was observed in key sectors, including commer…",
-   "image": "https://i.brecorder.com/large/2026/09/04100506a068f61.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan Cables approves CECL’s buy-back on entire stake for Rs350mn",
-   "url": "https://www.brecorder.com/news/40437905/pakistan-cables-approves-cecls-buy-back-on-entire-stake-for-rs350mn",
-   "source": "Business Recorder",
-   "published": "2026-09-04T04:45:06+00:00",
-   "summary": "Pakistan Cables Limited’s board has approved the sale of its 17% stake in Chinoy Engineering & Construction (Private) Limited (CECL) to the company for approximately Rs350 million. PCAL informed the Pakistan Stock Exchange today. It said that it currently held 4,845,000 ordinary shares of Rs10 each in CECL, representin…",
-   "image": "https://i.brecorder.com/large/2026/09/04093241992695a.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Nepal flood losses estimated at $2.56 billion, official says",
-   "url": "https://www.brecorder.com/news/40437904/nepal-flood-losses-estimated-at-256-billion-official-says",
-   "source": "Business Recorder",
-   "published": "2026-09-04T03:21:23+00:00",
-   "summary": "KATHMANDU: Property, housing and infrastructure ​worth at least $2.56 billion (387.5 ‌billion Nepalese rupees) was damaged in the ​Nepal’s catastrophic floods ​last week, the country’s disaster ⁠authority chief ​told Reuters on Friday. In flood-ravaged Nepal valley nothing is left standing The ​estimated cost of early …",
-   "image": "https://i.brecorder.com/large/2026/09/04082020377a3c1.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -300,19 +402,6 @@
    "domestic": false
   },
   {
-   "title": "Exports are 'life and death'",
-   "url": "https://tribune.com.pk/story/2627334/exports-are-life-and-death",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T17:25:54+00:00",
-   "summary": "Planning minister says debt-driven stabilisation offers false security; ADB to provide technical support",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Consumer confidence falls by 24% to 2-year low",
    "url": "https://tribune.com.pk/story/2627338/consumer-confidence-falls-by-24-to-2-year-low",
    "source": "The Express Tribune",
@@ -371,123 +460,6 @@
    "published": "2026-09-03T14:00:31+00:00",
    "summary": "BENGALURU: Gulf stock markets rose on Thursday, led by Dubai, as strong economic data in the United Arab Emirates and Saudi Arabia outweighed investor concerns over renewed U.S.-Iran clashes. The latest attacks marked the most substantial exchange of fire between the U.S. and Iran since July, with the war now in its se…",
    "image": "https://i.brecorder.com/large/2026/09/031858333636db6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI rejects all bids in bond buyback",
-   "url": "https://www.brecorder.com/news/40437772/rbi-rejects-all-bids-in-bond-buyback",
-   "source": "Business Recorder",
-   "published": "2026-09-03T11:21:40+00:00",
-   "summary": "The Reserve Bank of India (RBI) did not accept any bids in an auction to buyback government bonds, results released on Thursday showed. The buyback included bonds maturing this financial year. Investors offered bonds worth only 10% of the 300 billion rupees ($3.18 billion) New Delhi sought to buy through the buyback. T…",
-   "image": "https://i.brecorder.com/large/2026/09/031621039e7a859.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm falls for second session on stock fears, weak exports",
-   "url": "https://www.brecorder.com/news/40437770/palm-falls-for-second-session-on-stock-fears-weak-exports",
-   "source": "Business Recorder",
-   "published": "2026-09-03T11:18:26+00:00",
-   "summary": "KUALA LUMPUR: Malaysian palm oil futures reversed earlier gains to end lower for a second straight session on Thursday, as anticipated higher August inventories, sluggish export demand and soft Chicago soyoil weighed on the market. The benchmark palm oil contract for November delivery on the Bursa Malaysia Derivatives …",
-   "image": "https://i.brecorder.com/large/2026/09/03161814798484e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian benchmark shares subdued after recent drop as oil worries outweigh banking gains",
-   "url": "https://www.brecorder.com/news/40437768/indian-benchmark-shares-subdued-after-recent-drop-as-oil-worries-outweigh-banking-gains",
-   "source": "Business Recorder",
-   "published": "2026-09-03T10:56:21+00:00",
-   "summary": "Indian benchmark equities were subdued on Thursday, with the Nifty closing largely flat as risk aversion sparked by elevated oil prices outweighed gains in banking stocks following the central bank’s stronger-than-expected dollar mobilisation. The BSE Sensex plunged as much as 2.5% during the closing auction, with the …",
-   "image": "https://i.brecorder.com/large/2026/09/03155601610a8d6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee hits 10-week closing high as RBI schemes draw hefty dollar inflows",
-   "url": "https://www.brecorder.com/news/40437766/indian-rupee-hits-10-week-closing-high-as-rbi-schemes-draw-hefty-dollar-inflows",
-   "source": "Business Recorder",
-   "published": "2026-09-03T10:53:25+00:00",
-   "summary": "MUMBAI: The Indian rupee notched a 10-week closing high on Thursday, buoyed by stronger-than-expected dollar inflows under the central bank’s special scheme, even as importer demand pared some of the currency’s earlier gains. The Indian rupee closed 0.5% higher at 94.4850 per U.S. dollar, its highest level since June 2…",
-   "image": "https://i.brecorder.com/large/2026/09/031553120466b70.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand muted ahead of business activity PMI",
-   "url": "https://www.brecorder.com/news/40437751/south-african-rand-muted-ahead-of-business-activity-pmi",
-   "source": "Business Recorder",
-   "published": "2026-09-03T07:03:20+00:00",
-   "summary": "JOHANNESBURG: The South African rand was little changed in early trade on Thursday ​as a weaker dollar offered support, ‌while locally focused investors awaited the latest private-sector purchasing managers’ index (PMI) data. At 0618 GMT the rand traded ​at 16.04 against the dollar , a ​whisker away from its previous c…",
-   "image": "https://i.brecorder.com/large/2026/09/03120303f8c5aa7.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Chicago corn falls on profit-taking from three-year highs",
-   "url": "https://www.brecorder.com/news/40437750/chicago-corn-falls-on-profit-taking-from-three-year-highs",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:53:03+00:00",
-   "summary": "BEIJING: Chicago Board of Trade corn futures fell on Thursday as traders took profit after prices set a three-year high, but uncertainty over the conflict in the Black Sea grain-exporting region underpinned the market, traders said. Wheat and soybeans gained. The most-traded corn contract on the Chicago Board of Trade …",
-   "image": "https://i.brecorder.com/large/2026/09/03115247027ff5c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares edge higher on gold gains, energy firms cap upside",
-   "url": "https://www.brecorder.com/news/40437748/australian-shares-edge-higher-on-gold-gains-energy-firms-cap-upside",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:47:23+00:00",
-   "summary": "Australian shares inched up on Thursday, recovering from three sessions of losses, as steep losses in energy stocks capped gains in gold stocks, a day after GDP data reinforced Reserve Bank of Australia rate hike bets at this month’s meeting. The S&P/ASX 200 index was up 0.07% at 8,984.50, as of 0054 GMT. The benchmark…",
-   "image": "https://i.brecorder.com/large/2026/09/031147027bdfa17.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar slightly stronger on Thursday",
-   "url": "https://www.brecorder.com/news/40437746/thai-bahtus-dollar-slightly-stronger-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:41:33+00:00",
-   "summary": "BANGKOK: The Thai baht strengthened slightly against the US dollar on Thursday. At 0156 GMT, the baht was 0.06% higher at 33.14 versus the dollar, after trading in a range of 33.125 to 33.213. It ended the previous session at 33.1675 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/03114123e0dfbf3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China yuan hits 3-1/2-year high as yen strength weighs on dollar",
-   "url": "https://www.brecorder.com/news/40437741/china-yuan-hits-3-12-year-high-as-yen-strength-weighs-on-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:19:58+00:00",
-   "summary": "SHANGHAI: China’s yuan inched higher to a fresh 3-1/2-year high against the dollar on Thursday, aided by a significantly stronger central bank fixing and persistent dollar weakness driven in part by renewed gains in the Japanese yen. The yen held its gains after a sudden, brief surge in the previous session, keeping pr…",
-   "image": "https://i.brecorder.com/large/2026/09/031119401493517.webp",
    "topics": [
     "Economy"
    ],
