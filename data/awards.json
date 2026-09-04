@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T01:12:49+00:00",
+ "generated": "2026-09-04T06:18:16+00:00",
  "count": 565,
  "with_value": 547,
  "with_winner": 213,
@@ -10758,6 +10758,64 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003216",
+   "tender_no": "TS0000011328E",
+   "reference": "p85504",
+   "title": "Renovation / Civil Works & Fabrication of Iron Racks in FBSE premises, Islamabad Civil Works",
+   "organisation": "Ministry of Federal Education and Professional Training Federal Board of Intermediate and Secondary Education (FBISE) Islamabad - Pakistan",
+   "bid_count": 8,
+   "lowest": [
+    "Siyfma International Private Limited"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-04",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003216",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003214",
+   "tender_no": "TS0000011418E",
+   "reference": "P86971",
+   "title": "Printing of Answer Scripts Printing",
+   "organisation": "Ministry of Federal Education and Professional Training Federal Board of Intermediate and Secondary Education (FBISE) Islamabad - Pakistan",
+   "bid_count": 8,
+   "lowest": [
+    "ZA CORPORATION"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-04",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003214",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003213",
+   "tender_no": "TS0000007242E",
+   "reference": "SSGC/SC/PT/EPADS/14347",
+   "title": "Group Life Insurance Policies for Executives/Non Executives Including Accidental Death Benefit Services Ministry of Energy (Petroleum Division)",
+   "organisation": "Ministry of Energy (Petroleum Division) Sui Southern Gas Company Limited (SSGCL) Karachi - Pakistan",
+   "bid_count": 5,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-04",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003213",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003210",
    "tender_no": "TS0000010097E",
@@ -49732,69 +49790,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001069",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001068",
-   "tender_no": "TS0000000942E",
-   "reference": "FCS/SOA/TE/013/26",
-   "title": "Sanitary Items Equipments",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Karak - Pakistan",
-   "bid_count": 6,
-   "lowest": [
-    "Hannan",
-    "Pasban",
-    "Broadvision",
-    "Hassan Trader Guj",
-    "Hassan Trader Sargodha",
-    "Primehub"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-02",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001068",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001067",
-   "tender_no": "TS0000000939E",
-   "reference": "FCS/SOA/TE/010/26",
-   "title": "Sand Lawrencepur Consumable Items",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Karak - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Hassan Traders Gujranwala"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-02",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001067",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001065",
-   "tender_no": "TS0000006352E",
-   "reference": "F-26051879175",
-   "title": "Welding work of 220kV Transmission Line Towers (Gatti-Lallian, Lallian-Ludewala, Sammundari-Nishatabad, T.T Singh Sammundari, PTPL FSD-West, Gatti-Yousafwala) Repair/Maintenance Ministry of Energy (Power Division)",
-   "organisation": "Ministry of Energy (Power Division) T/L (M) Division Nishatabad. Nishatabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-02",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001065",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

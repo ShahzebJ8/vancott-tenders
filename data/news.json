@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-04T01:12:55+00:00",
- "count": 50,
- "relevant_count": 17,
- "domestic_count": 19,
+ "generated": "2026-09-04T06:18:21+00:00",
+ "count": 45,
+ "relevant_count": 11,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (8)",
+  "Dawn": "ok (7)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (8)",
+  "The Express Tribune": "ok (10)",
   "ARY News": "ok (4)"
  },
  "stories": [
@@ -14,7 +14,7 @@
    "title": "RLNG supplies: PLL issues warning to KE",
    "url": "https://www.brecorder.com/news/40437880/rlng-supplies-pll-issues-warning-to-ke",
    "source": "Business Recorder",
-   "published": "2026-09-04T00:54:08+00:00",
+   "published": "2026-09-04T04:17:48+00:00",
    "summary": "ISLAMABAD: The Pakistan LNG Limited (PLL) has warned the K-Electric (KE) that it may reassess, curtail or suspend RLNG supplies if the power utility fails to clear outstanding payments amounting to Rs 6.75 billion. In a letter addressed to the chief executive officer of K-Electric, the PLL stated that the total outstan…",
    "image": "https://i.brecorder.com/large/2026/09/0405540336e1e9a.webp",
    "topics": [
@@ -24,12 +24,12 @@
    "domestic": true
   },
   {
-   "title": "NA panel grills MoC over export failure",
-   "url": "https://www.brecorder.com/news/40437877/na-panel-grills-moc-over-export-failure",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:49:54+00:00",
-   "summary": "ISLAMABAD: The National Assembly Standing Committee on Commerce on Thursday grilled the Commerce Ministry over its failure to improve the country’s exports, questioning its reliance on irrelevant figures and justifications for the decline. Presided over by Jawed Hanif Khan, the committee was informed that Pakistan’s ex…",
-   "image": "https://i.brecorder.com/large/2026/09/04054946622a1fa.webp",
+   "title": "PSX snaps losing streak with marginal gain",
+   "url": "https://www.dawn.com/news/2027324/psx-snaps-losing-streak-with-marginal-gain",
+   "source": "Dawn",
+   "published": "2026-09-04T02:42:48+00:00",
+   "summary": "KARACHI: Although the Pakistan Stock Exchange (PSX) managed to post marginal gains in a topsy-turvy session on Thursday, snapping a three-session losing streak, investor sentiment remained choppy as the Middle East conflict and political uncertainty continued to shake investor confidence. Topline Securities Ltd said th…",
+   "image": "https://i.dawn.com/large/2026/09/040402480d5e6c7.webp",
    "topics": [
     "Economy"
    ],
@@ -37,38 +37,25 @@
    "domestic": true
   },
   {
-   "title": "IMF cites Pakistan as model for debt, growth and reform drive",
-   "url": "https://www.brecorder.com/news/40437876/imf-cites-pakistan-as-model-for-debt-growth-and-reform-drive",
+   "title": "Dar holds conversation with OIC SG on phone",
+   "url": "https://www.brecorder.com/news/40437885/dar-holds-conversation-with-oic-sg-on-phone",
    "source": "Business Recorder",
-   "published": "2026-09-04T00:44:49+00:00",
-   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has cited Pakistan as a successful example of its joint three-pillar approach with the World Bank to promote sustainable debt, stronger growth and reforms, particularly through improved domestic resource mobilisation and effective liability management operations aimed at…",
-   "image": "https://i.brecorder.com/large/2026/09/0405443834ba9a8.webp",
+   "published": "2026-09-04T02:30:22+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar held a telephone conversation with newly elected OIC Secretary-General Ismail Ould Cheikh Ahmed. The DPM/FM congratulated the SG on his election by consensus, underscoring the special importance Pakistan attaches to the OIC. He ex…",
+   "image": "https://i.brecorder.com/large/2026/09/040728459b7a542.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": true
   },
   {
-   "title": "Jul-Aug trade deficit swells 18.11pc YoY",
-   "url": "https://www.brecorder.com/news/40437872/jul-aug-trade-deficit-swells-1811pc-yoy",
+   "title": "Governor urges photojournalists to promote positive journalism",
+   "url": "https://www.brecorder.com/news/40437889/governor-urges-photojournalists-to-promote-positive-journalism",
    "source": "Business Recorder",
-   "published": "2026-09-04T00:36:12+00:00",
-   "summary": "ISLAMABAD: Pakistan’s trade deficit increased by 18.11 percent during the first two months (July to August) of the current fiscal year 2026-27, rising from around USD6.025 billion in the same period of last fiscal year to USD7.116 billion, according to a summary of merchandise trade statistics released by the Pakistan …",
-   "image": "https://i.brecorder.com/large/2026/09/04054658c0eb8e8.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "NA body takes notice of taxing local EV infrastructure",
-   "url": "https://www.brecorder.com/news/40437829/na-body-takes-notice-of-taxing-local-ev-infrastructure",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "ISLAMABAD: The National Assembly Standing Committee on Industries and Production took notice of the double duty being levied on electric vehicle (EV) chargers and said that the step would have serious negative implications for the nation’s green energy goals. The Standing Committee, which met here on Thursday with MNA …",
-   "image": "https://i.brecorder.com/large/2026/09/04012310c16eaa0.webp",
+   "published": "2026-09-04T02:22:23+00:00",
+   "summary": "KARACHI: ‎Sindh Governor Syed Muhammad Nihal Hashmi on Thursday urged photojournalists to use their professional skills to project a positive image of the country and promote constructive thinking in society. ‎He made the remarks during a meeting with a delegation of photojournalists led by senior photographer and form…",
+   "image": "https://i.brecorder.com/large/2026/09/04072219e9b4902.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -76,51 +63,12 @@
    "domestic": true
   },
   {
-   "title": "FBR notifies amended income tax return form",
-   "url": "https://www.brecorder.com/news/40437831/fbr-notifies-amended-income-tax-return-form",
+   "title": "PM’s directives for Jinnah Medical Complex & Research Centre",
+   "url": "https://www.brecorder.com/news/40437895/pms-directives-for-jinnah-medical-complex-amp-research-centre",
    "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has notified the amended income tax return form for tax year 2026. According to an SRO.1495(I)/2026 issued by the FBR on Thursday, the FBR has amended Income Tax Rules, 2002. In the aforesaid Rules in the Second Schedule, after Part-II-ZD, the following new Pan-ll-ZE. Part-…",
-   "image": "https://i.brecorder.com/large/2026/09/04012423b58eca5.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Sindh plans subsidy on DAP for Rabi season",
-   "url": "https://www.brecorder.com/news/40437832/sindh-plans-subsidy-on-dap-for-rabi-season",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "KARACHI: In a move to stabilise agricultural costs, the Sindh government is considering a proposal to subsidise DAP fertiliser for the upcoming Rabi season 2026-27, aiming to protect growers from anticipated price hikes. This proposal was discussed in a second meeting of the Sindh Cabinet’s Sub-Committee on Agriculture…",
-   "image": "https://i.brecorder.com/large/2026/09/0401455971e1624.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR’s IRIS system: PCDMA chief expresses his concern over persistent glitches",
-   "url": "https://www.brecorder.com/news/40437835/fbrs-iris-system-pcdma-chief-expresses-his-concern-over-persistent-glitches",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "KARACHI: Pakistan Chemicals & Dyes Merchants Association (PCDMA) Chairman Salim Valimuhammad has warned that persistent technical glitches in the Federal Board of Revenue’s (FBR) IRIS system have created a major bottleneck in the timely filing of Sales Tax Returns, forcing registered taxpayers into precarious dependenc…",
-   "image": "https://i.brecorder.com/large/2026/09/040148010017610.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KU pharmacy club fair highlights students’ ingenuity",
-   "url": "https://www.brecorder.com/news/40437838/ku-pharmacy-club-fair-highlights-students-ingenuity",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "KARACHI: The Karachi University (KU) Pharmacy Science Club of the University of Karachi’s Faculty of Pharmacy and Pharmaceutical Sciences organized a Science Fair 3.0 on Thursday. The KU acting vice chancellor Professor Dr Muhammad Haris Shoaib inaugurated the event, which was held in the newly constructed building of …",
-   "image": "https://i.brecorder.com/large/2026/09/040151266b35be4.webp",
+   "published": "2026-09-04T02:14:52+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday directed that the under-construction Federal Government Polyclinic Phase-II Extension in G-11 be developed as the first phase of the proposed Jinnah Medical Complex and Research Centre and completed by March 2027. The decision, taken at a review meeting chaired by th…",
+   "image": "https://i.brecorder.com/large/2026/09/04071445fead469.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -128,25 +76,12 @@
    "domestic": true
   },
   {
-   "title": "WAPDA chief visits Mohmand Dam project, reviews progress",
-   "url": "https://www.brecorder.com/news/40437842/wapda-chief-visits-mohmand-dam-project-reviews-progress",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "PESHAWAR: Chairman WAPDA Lt Gen Muhammad Saeed (Retd) on Thursday visited Mohmand Dam Hydropower Project being constructed across River Swat in Mohmand District, Khyber Pakhtunkhwa. Member Water Asim Rauf Khan accompanied him. During the visit, the Chairman reviewed construction activities at key sites, with particular…",
-   "image": "https://i.brecorder.com/large/2026/09/04015715df05e74.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Finance, climate investment promotion: PSX partners with UK’s MOBILIST",
-   "url": "https://www.brecorder.com/news/40437846/finance-climate-investment-promotion-psx-partners-with-uks-mobilist",
-   "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "KARACHI: Pakistan Stock Exchange (PSX) has partnered with the United Kingdom’s MOBILIST programme to help mobilise private investment in Pakistan’s sustainable development and climate transition through products listed on the exchange. Under the partnership, MOBILIST will work with PSX’s network of issuers and market i…",
-   "image": "https://i.brecorder.com/large/2026/09/040159522ac93fc.webp",
+   "title": "Trade gap swells 18pc to $7.1bn",
+   "url": "https://www.dawn.com/news/2027328/trade-gap-swells-18pc-to-71bn",
+   "source": "Dawn",
+   "published": "2026-09-04T02:03:10+00:00",
+   "summary": "KARACHI: The trade gap widened alarmingly by over 18 per cent in the first two months of 2026-27, reflecting the increasing pressure of a surging import bill. The Pakistan Bureau of Statistics (PBS) data, issu­­ed on Thursday, showed that the trade deficit for July-August FY27 swelled to $7.1 billion as imports grew mo…",
+   "image": "https://i.dawn.com/large/2026/09/0407223425d825d.webp",
    "topics": [
     "Economy"
    ],
@@ -220,51 +155,12 @@
    "domestic": true
   },
   {
-   "title": "Aurangzeb eyes sustainable export-driven growth",
-   "url": "https://www.dawn.com/news/2026515/aurangzeb-eyes-sustainable-export-driven-growth",
-   "source": "Dawn",
-   "published": "2026-09-01T03:02:39+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb witnesses the signing of ICIEC Reinsurance Agreement.—APP ISLAMABAD: Finance Minister Muhammad Aurangzeb said on Monday the government’s focus was on building an ecosystem to support growth that is sustainable, led by the private sector and is export-driven. He was addressing a cerem…",
-   "image": "https://i.dawn.com/large/2026/09/01080020a911167.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR misses August target by Rs29bn",
-   "url": "https://www.dawn.com/news/2026516/fbr-misses-august-target-by-rs29bn",
-   "source": "Dawn",
-   "published": "2026-09-01T02:52:04+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) collected Rs901 billion in August, missing the projected target of Rs930bn by Rs29bn. The collection remained stagnant compared to Rs900bn in August 2025. However, the FBR raised Rs1.722 trillion in the first two months (July-August) of 2026-27, exceeding the target of Rs1.…",
-   "image": "https://i.dawn.com/large/2026/09/01075126c6f8204.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Equities lose 721 points on oil, inflation spike",
-   "url": "https://www.dawn.com/news/2026514/equities-lose-721-points-on-oil-inflation-spike",
-   "source": "Dawn",
-   "published": "2026-09-01T02:08:10+00:00",
-   "summary": "KARACHI: After a mild recovery in the weekend session, the Pakistan Stock Exchange (PSX) slipped again on Monday as rising tensions in the Middle East and the subsequent surge in oil prices rekindled investor fears about the economic outlook. Topline Securities Ltd said the benchmark KSE-100 index remained under pressu…",
-   "image": "https://i.dawn.com/large/2026/09/010256511235112.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "The banking sector’s next test",
-   "url": "https://www.brecorder.com/news/40437823/the-banking-sectors-next-test",
+   "title": "Thai baht/US dollar steady on Friday",
+   "url": "https://www.brecorder.com/news/40437907/thai-bahtus-dollar-steady-on-friday",
    "source": "Business Recorder",
-   "published": "2026-09-04T00:29:53+00:00",
-   "summary": "EDITORIAL: The SBP governor’s recent call for banks to re-orient their business models towards stronger retail deposit mobilisation and greater private sector financing deserves serious attention. Addressing the Pakistan Banking Awards ceremony last week, he rightly noted that although the economy has reached the much-…",
-   "image": "https://i.brecorder.com/large/2026/09/04011305714018d.webp",
+   "published": "2026-09-04T06:09:54+00:00",
+   "summary": "BANGKOK: The Thai baht was little changed against the US dollar on Friday. At 0217 GMT, the baht was 0.02% lower at 32.92 versus the dollar, after trading in a range of 32.890 to 32.970. It ended the previous session at 32.9125 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/041109441c94555.webp",
    "topics": [
     "Economy"
    ],
@@ -272,12 +168,196 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 Index closes marginally up after volatile trading",
-   "url": "https://www.brecorder.com/news/40437729/psx-kse-100-index-closes-marginally-up-after-volatile-trading",
+   "title": "PSX: Selling at bourse, KSE-100 down 300 points",
+   "url": "https://www.brecorder.com/news/40437906/psx-selling-at-bourse-kse-100-down-300-points",
    "source": "Business Recorder",
-   "published": "2026-09-03T15:05:12+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile session on Thursday, with the benchmark KSE-100 Index swaying in both directions throughout the day before closing marginally higher. The index opened with strong buying interest, climbing sharply in early trade and hitting an intra-day high of 175,796.24, after wh…",
-   "image": "https://i.brecorder.com/large/2026/09/03101618e48c390.webp",
+   "published": "2026-09-04T05:44:02+00:00",
+   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding over 300 points during the opening minutes of trading on Friday. At 10:30am, the benchmark index was hovering at 174,627.46, down by 302.22 points or 0.17%. Selling was observed in key sectors, including commer…",
+   "image": "https://i.brecorder.com/large/2026/09/04100506a068f61.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan Cables approves CECL’s buy-back on entire stake for Rs350mn",
+   "url": "https://www.brecorder.com/news/40437905/pakistan-cables-approves-cecls-buy-back-on-entire-stake-for-rs350mn",
+   "source": "Business Recorder",
+   "published": "2026-09-04T04:45:06+00:00",
+   "summary": "Pakistan Cables Limited’s board has approved the sale of its 17% stake in Chinoy Engineering & Construction (Private) Limited (CECL) to the company for approximately Rs350 million. PCAL informed the Pakistan Stock Exchange today. It said that it currently held 4,845,000 ordinary shares of Rs10 each in CECL, representin…",
+   "image": "https://i.brecorder.com/large/2026/09/04093241992695a.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Nepal flood losses estimated at $2.56 billion, official says",
+   "url": "https://www.brecorder.com/news/40437904/nepal-flood-losses-estimated-at-256-billion-official-says",
+   "source": "Business Recorder",
+   "published": "2026-09-04T03:21:23+00:00",
+   "summary": "KATHMANDU: Property, housing and infrastructure ​worth at least $2.56 billion (387.5 ‌billion Nepalese rupees) was damaged in the ​Nepal’s catastrophic floods ​last week, the country’s disaster ⁠authority chief ​told Reuters on Friday. In flood-ravaged Nepal valley nothing is left standing The ​estimated cost of early …",
+   "image": "https://i.brecorder.com/large/2026/09/04082020377a3c1.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares may open higher as traders trim Fed hike bets",
+   "url": "https://www.brecorder.com/news/40437903/indian-shares-may-open-higher-as-traders-trim-fed-hike-bets",
+   "source": "Business Recorder",
+   "published": "2026-09-04T03:18:32+00:00",
+   "summary": "Indian shares were on track to open higher on Friday after four consecutive sessions of losses, as fading prospects of a US Federal Reserve ​rate hike later this month lifted global equities and weighed on ‌bond yields. Federal Reserve Governor Christopher Waller said on Thursday he would support keeping interest rates…",
+   "image": "https://i.brecorder.com/large/2026/09/04081758610a8d6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee inflow-linked, RBI-backed optimism faces oil test",
+   "url": "https://www.brecorder.com/news/40437902/indian-rupee-inflow-linked-rbi-backed-optimism-faces-oil-test",
+   "source": "Business Recorder",
+   "published": "2026-09-04T03:14:50+00:00",
+   "summary": "MUMBAI: The Indian rupee’s rally , propelled by the central bank’s dollar sales and bolstered by hefty inflows from one-off measures, will face ​a familiar foe on Friday in rising oil prices. The rupee is ‌expected to open in the 94.55 to 94.60 range, per traders, having settled at 94.4850 to the dollar on Thursday, wh…",
+   "image": "https://i.brecorder.com/large/2026/09/04081322e3960e2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian shares climb ahead of US jobs data, Fed's Waller soothes bonds",
+   "url": "https://www.brecorder.com/news/40437901/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds",
+   "source": "Business Recorder",
+   "published": "2026-09-04T03:10:52+00:00",
+   "summary": "SYDNEY: Asian shares rose on Friday as investors embraced a global rally before crucial U.S. jobs data, while bonds found some much needed ​relief after a top Federal Reserve official cooled rate hike fears and dragged the dollar lower. The dollar’s retreat turbocharged a rally in the yen, ‌which has gained 2.6% this w…",
+   "image": "https://i.brecorder.com/large/2026/09/040809496b54a8c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen headed for strongest week in a month, dollar flat ahead of payroll data",
+   "url": "https://www.brecorder.com/news/40437900/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data",
+   "source": "Business Recorder",
+   "published": "2026-09-04T03:05:45+00:00",
+   "summary": "HONG KONG: The Japanese yen clung to its gains ​against the US dollar on Friday and was on track for its strongest week in more ‌than a month, as traders ramped up bets on a Bank of Japan interest rate hike and broader currency markets awaited US payrolls data. The Japanese yen strengthened to as much as 155.25 per dol…",
+   "image": "https://i.brecorder.com/large/2026/09/0408015664abb23.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold holds ground with US payrolls data on radar",
+   "url": "https://www.brecorder.com/news/40437898/gold-holds-ground-with-us-payrolls-data-on-radar",
+   "source": "Business Recorder",
+   "published": "2026-09-04T02:52:41+00:00",
+   "summary": "Gold held steady on Friday and was poised for a small ‌weekly gain , as attention turned to highly awaited US payrolls data for clues on the Federal Reserve’s next interest rate decision. Spot gold held its ground at $4,477.10 per ounce, as of 0211 GMT. ​ Prices jumped 2% on Thursday as traders scaled back expectations…",
+   "image": "https://i.brecorder.com/large/2026/09/04075221b479e58.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IT exports soar, AI triggers job cuts",
+   "url": "https://tribune.com.pk/story/2627332/it-exports-soar-ai-triggers-job-cuts",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "Entry-level hiring down 25% as exports hit $4.6b, freelancers account for $1.6b",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Trade deficit jumps 18% to $7.1b",
+   "url": "https://tribune.com.pk/story/2627335/trade-deficit-jumps-18-to-71b",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "World Bank's 14% export forecast fails as imports grow at double rate of exports",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Exports are 'life and death'",
+   "url": "https://tribune.com.pk/story/2627334/exports-are-life-and-death",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "Planning minister says debt-driven stabilisation offers false security; ADB to provide technical support",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Consumer confidence falls by 24% to 2-year low",
+   "url": "https://tribune.com.pk/story/2627338/consumer-confidence-falls-by-24-to-2-year-low",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "Survey shows country has entered 'extremely pessimistic territory' as inflation, unemployment bite",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bourse ends flat despite Eurobond success",
+   "url": "https://tribune.com.pk/story/2627341/bourse-ends-flat-despite-eurobond-success",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "KSE-100 adds 153 points after volatile session; oil jitters persist",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "ADB to help transform tax collection system",
+   "url": "https://tribune.com.pk/story/2627342/adb-to-help-transform-tax-collection-system",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "Including broadening tax base, reducing burden on compliant taxpayers, improving efficiency through digitalisation",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SBP reserves rise $19m; gold jumps Rs11,200",
+   "url": "https://tribune.com.pk/story/2627339/sbp-reserves-rise-19m-gold-jumps-rs11200",
+   "source": "The Express Tribune",
+   "published": "2026-09-03T17:25:54+00:00",
+   "summary": "Net foreign reserves with commercial banks dropped $78.8 million to $5.41 billion over the same period",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -389,19 +469,6 @@
    "domestic": false
   },
   {
-   "title": "Vietnam raises $97 million in government bond auction",
-   "url": "https://www.brecorder.com/news/40437730/vietnam-raises-97-million-in-government-bond-auction",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:44:04+00:00",
-   "summary": "HANOI: Vietnam’s State Treasury raised 2.54 trillion dong ($97 million) in its weekly government bond auction on Thursday, down from $479 million raised last week. The uptake was also lower, with only 15% of the bonds on offer sold, compared with 74% last week, according to a Hanoi Stock Exchange filing. The treasury s…",
-   "image": "https://i.brecorder.com/large/2026/09/03103355d6ae941.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Thai baht/US dollar slightly stronger on Thursday",
    "url": "https://www.brecorder.com/news/40437746/thai-bahtus-dollar-slightly-stronger-on-thursday",
    "source": "Business Recorder",
@@ -425,110 +492,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Audi, SAIC Motor set up innovation hub for China-exclusive brand",
-   "url": "https://www.brecorder.com/news/40437738/audi-saic-motor-set-up-innovation-hub-for-china-exclusive-brand",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:10:54+00:00",
-   "summary": "SHANGHAI/BEIJING: Volkswagen’s premium subsidiary Audi on Thursday established an innovation hub with its Chinese partner SAIC Motor for the China-exclusive AUDI brand, the company said in a statement. The new Shanghai-based joint venture,dedicated to the four-letter, all-caps AUDI brand,will focus on vehicle and drivi…",
-   "image": "https://i.brecorder.com/large/2026/09/03111019a613036.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Japan bond yields retreat; 30-year auction uneventful",
-   "url": "https://www.brecorder.com/news/40437737/japan-bond-yields-retreat-30-year-auction-uneventful",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:07:18+00:00",
-   "summary": "TOKYO: Japanese government bond (JGB) yields retreated on Thursday after rising for successive sessions, as investors reassessed inflation risks and the prospect of a US interest rate hike, while the 30-year bond auction was largely uneventful as expected. Here are a few details: The benchmark 10-year JGB yield fell 4 …",
-   "image": "https://i.brecorder.com/large/2026/09/03110657f96ba60.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee scales 2-month peak as $136bn inflows bolster currency against global risks",
-   "url": "https://www.brecorder.com/news/40437736/indian-rupee-scales-2-month-peak-as-136bn-inflows-bolster-currency-against-global-risks",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:05:05+00:00",
-   "summary": "MUMBAI: The Indian rupee climbed to a two-month high on Thursday after massive overseas fundraising through one-off measures far exceeded market expectations, improving the currency’s outlook at a time when a renewed US-Iran conflict has pushed crude prices higher and contributed to a global bond selloff. The rupee ope…",
-   "image": "https://i.brecorder.com/large/2026/09/031104522f5a65c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar hovers near 13-year high on kiwi as rate outlooks diverge",
-   "url": "https://www.brecorder.com/news/40437735/australian-dollar-hovers-near-13-year-high-on-kiwi-as-rate-outlooks-diverge",
-   "source": "Business Recorder",
-   "published": "2026-09-03T06:02:07+00:00",
-   "summary": "SYDNEY: The Australian dollar held near a 13-year high against the kiwi on Thursday as markets bet on diverging rate outlooks between the two central banks, though both currencies lost ground to a surging yen amid suspected Japanese government intervention. The Aussie slipped 0.1% to NZ$1.2227, having jumped 1% overnig…",
-   "image": "https://i.brecorder.com/large/2026/09/0311014444e776c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India bonds gain as RBI FX inflows lift liquidity, spur short-term debt buying",
-   "url": "https://www.brecorder.com/news/40437733/india-bonds-gain-as-rbi-fx-inflows-lift-liquidity-spur-short-term-debt-buying",
-   "source": "Business Recorder",
-   "published": "2026-09-03T05:55:28+00:00",
-   "summary": "MUMBAI: Indian government bonds rose in early trade on Thursday, led by the shorter-duration papers, after larger-than-expected dollar inflows under the central bank’s special schemes boosted rupee liquidity and improved sentiment for Indian assets. The yield on the benchmark 6.94% 2036 bond was at 6.9502% as of 10:30 …",
-   "image": "https://i.brecorder.com/large/2026/09/031055104bfc4b9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX edges up 153 points amid geopolitical uncertainty",
-   "url": "https://tribune.com.pk/story/2627220/psx-rebounds-as-kse-100-gains-877-points-after-steep-fall",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T03:46:38+00:00",
-   "summary": "KSE-100 Index closes at 174,930 as mixed sentiment causes investor caution",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Stocks dive 1,690 points; ME battle fuels sell-off",
-   "url": "https://tribune.com.pk/story/2627155/stocks-dive-1690-points-me-battle-fuels-sell-off",
-   "source": "The Express Tribune",
-   "published": "2026-09-02T17:10:52+00:00",
-   "summary": "KSE-100 index slips below 175,000 amid broad-based selling in key sectors",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PRA collects Rs54.8b in first two months",
-   "url": "https://tribune.com.pk/story/2627151/pra-collects-rs548b-in-first-two-months",
-   "source": "The Express Tribune",
-   "published": "2026-09-02T17:10:52+00:00",
-   "summary": "Latest numbers build on a record-breaking fiscal year for the authority",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -581,32 +544,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX dips 509 points amid cautious trading",
-   "url": "https://tribune.com.pk/story/2626988/psx-dips-509-points-amid-cautious-trading",
-   "source": "The Express Tribune",
-   "published": "2026-09-01T16:51:48+00:00",
-   "summary": "KSE-100 index gives up early gains over US-Iran hostilities, oil supply fears",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls; liquidity model eyes $5,025",
-   "url": "https://tribune.com.pk/story/2626980/gold-falls-liquidity-model-eyes-5025",
-   "source": "The Express Tribune",
-   "published": "2026-09-01T16:51:48+00:00",
-   "summary": "Global M2 money supply grows 8.5% YoY; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
