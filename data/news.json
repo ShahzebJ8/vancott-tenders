@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-03T23:28:31+00:00",
- "count": 49,
- "relevant_count": 11,
- "domestic_count": 9,
+ "generated": "2026-09-04T01:12:55+00:00",
+ "count": 50,
+ "relevant_count": 17,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (8)",
   "Business Recorder": "ok (18)",
@@ -11,12 +11,142 @@
  },
  "stories": [
   {
-   "title": "SBP’s forex reserves rise $19mn to $17.12bn",
-   "url": "https://www.brecorder.com/news/40437789/sbps-forex-reserves-rise-19mn-to-1712bn",
+   "title": "RLNG supplies: PLL issues warning to KE",
+   "url": "https://www.brecorder.com/news/40437880/rlng-supplies-pll-issues-warning-to-ke",
    "source": "Business Recorder",
-   "published": "2026-09-03T16:19:57+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $19 million to $17.12 billion during the week ended August 28, 2026. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves stood at $22.53 billion as of August 28, 2026. Of these, commercial ban…",
-   "image": "https://i.brecorder.com/large/2026/09/032025406f4254e.webp",
+   "published": "2026-09-04T00:54:08+00:00",
+   "summary": "ISLAMABAD: The Pakistan LNG Limited (PLL) has warned the K-Electric (KE) that it may reassess, curtail or suspend RLNG supplies if the power utility fails to clear outstanding payments amounting to Rs 6.75 billion. In a letter addressed to the chief executive officer of K-Electric, the PLL stated that the total outstan…",
+   "image": "https://i.brecorder.com/large/2026/09/0405540336e1e9a.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "NA panel grills MoC over export failure",
+   "url": "https://www.brecorder.com/news/40437877/na-panel-grills-moc-over-export-failure",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:49:54+00:00",
+   "summary": "ISLAMABAD: The National Assembly Standing Committee on Commerce on Thursday grilled the Commerce Ministry over its failure to improve the country’s exports, questioning its reliance on irrelevant figures and justifications for the decline. Presided over by Jawed Hanif Khan, the committee was informed that Pakistan’s ex…",
+   "image": "https://i.brecorder.com/large/2026/09/04054946622a1fa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "IMF cites Pakistan as model for debt, growth and reform drive",
+   "url": "https://www.brecorder.com/news/40437876/imf-cites-pakistan-as-model-for-debt-growth-and-reform-drive",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:44:49+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has cited Pakistan as a successful example of its joint three-pillar approach with the World Bank to promote sustainable debt, stronger growth and reforms, particularly through improved domestic resource mobilisation and effective liability management operations aimed at…",
+   "image": "https://i.brecorder.com/large/2026/09/0405443834ba9a8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Jul-Aug trade deficit swells 18.11pc YoY",
+   "url": "https://www.brecorder.com/news/40437872/jul-aug-trade-deficit-swells-1811pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:36:12+00:00",
+   "summary": "ISLAMABAD: Pakistan’s trade deficit increased by 18.11 percent during the first two months (July to August) of the current fiscal year 2026-27, rising from around USD6.025 billion in the same period of last fiscal year to USD7.116 billion, according to a summary of merchandise trade statistics released by the Pakistan …",
+   "image": "https://i.brecorder.com/large/2026/09/04054658c0eb8e8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "NA body takes notice of taxing local EV infrastructure",
+   "url": "https://www.brecorder.com/news/40437829/na-body-takes-notice-of-taxing-local-ev-infrastructure",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "ISLAMABAD: The National Assembly Standing Committee on Industries and Production took notice of the double duty being levied on electric vehicle (EV) chargers and said that the step would have serious negative implications for the nation’s green energy goals. The Standing Committee, which met here on Thursday with MNA …",
+   "image": "https://i.brecorder.com/large/2026/09/04012310c16eaa0.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR notifies amended income tax return form",
+   "url": "https://www.brecorder.com/news/40437831/fbr-notifies-amended-income-tax-return-form",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has notified the amended income tax return form for tax year 2026. According to an SRO.1495(I)/2026 issued by the FBR on Thursday, the FBR has amended Income Tax Rules, 2002. In the aforesaid Rules in the Second Schedule, after Part-II-ZD, the following new Pan-ll-ZE. Part-…",
+   "image": "https://i.brecorder.com/large/2026/09/04012423b58eca5.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sindh plans subsidy on DAP for Rabi season",
+   "url": "https://www.brecorder.com/news/40437832/sindh-plans-subsidy-on-dap-for-rabi-season",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "KARACHI: In a move to stabilise agricultural costs, the Sindh government is considering a proposal to subsidise DAP fertiliser for the upcoming Rabi season 2026-27, aiming to protect growers from anticipated price hikes. This proposal was discussed in a second meeting of the Sindh Cabinet’s Sub-Committee on Agriculture…",
+   "image": "https://i.brecorder.com/large/2026/09/0401455971e1624.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR’s IRIS system: PCDMA chief expresses his concern over persistent glitches",
+   "url": "https://www.brecorder.com/news/40437835/fbrs-iris-system-pcdma-chief-expresses-his-concern-over-persistent-glitches",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "KARACHI: Pakistan Chemicals & Dyes Merchants Association (PCDMA) Chairman Salim Valimuhammad has warned that persistent technical glitches in the Federal Board of Revenue’s (FBR) IRIS system have created a major bottleneck in the timely filing of Sales Tax Returns, forcing registered taxpayers into precarious dependenc…",
+   "image": "https://i.brecorder.com/large/2026/09/040148010017610.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KU pharmacy club fair highlights students’ ingenuity",
+   "url": "https://www.brecorder.com/news/40437838/ku-pharmacy-club-fair-highlights-students-ingenuity",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "KARACHI: The Karachi University (KU) Pharmacy Science Club of the University of Karachi’s Faculty of Pharmacy and Pharmaceutical Sciences organized a Science Fair 3.0 on Thursday. The KU acting vice chancellor Professor Dr Muhammad Haris Shoaib inaugurated the event, which was held in the newly constructed building of …",
+   "image": "https://i.brecorder.com/large/2026/09/040151266b35be4.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "WAPDA chief visits Mohmand Dam project, reviews progress",
+   "url": "https://www.brecorder.com/news/40437842/wapda-chief-visits-mohmand-dam-project-reviews-progress",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "PESHAWAR: Chairman WAPDA Lt Gen Muhammad Saeed (Retd) on Thursday visited Mohmand Dam Hydropower Project being constructed across River Swat in Mohmand District, Khyber Pakhtunkhwa. Member Water Asim Rauf Khan accompanied him. During the visit, the Chairman reviewed construction activities at key sites, with particular…",
+   "image": "https://i.brecorder.com/large/2026/09/04015715df05e74.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Finance, climate investment promotion: PSX partners with UK’s MOBILIST",
+   "url": "https://www.brecorder.com/news/40437846/finance-climate-investment-promotion-psx-partners-with-uks-mobilist",
+   "source": "Business Recorder",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "KARACHI: Pakistan Stock Exchange (PSX) has partnered with the United Kingdom’s MOBILIST programme to help mobilise private investment in Pakistan’s sustainable development and climate transition through products listed on the exchange. Under the partnership, MOBILIST will work with PSX’s network of issuers and market i…",
+   "image": "https://i.brecorder.com/large/2026/09/040159522ac93fc.webp",
    "topics": [
     "Economy"
    ],
@@ -129,12 +259,12 @@
    "domestic": true
   },
   {
-   "title": "LEAP 2026: Pakistan’s IT exporters eye expansion in GCC region",
-   "url": "https://www.brecorder.com/news/40437804/leap-2026-pakistans-it-exporters-eye-expansion-in-gcc-region",
+   "title": "The banking sector’s next test",
+   "url": "https://www.brecorder.com/news/40437823/the-banking-sectors-next-test",
    "source": "Business Recorder",
-   "published": "2026-09-03T19:14:18+00:00",
-   "summary": "Pakistan IT and IT-enabled companies received good response from foreign investors and tech companies, eyeing growth in exports in the Gulf region, particularly in Saudi Arabia. IT exporters believe that participation in the LEAP 2026 will translate into higher exports, as regional and international companies from diff…",
-   "image": "https://i.brecorder.com/large/2026/09/04001332ffb4e2f.webp",
+   "published": "2026-09-04T00:29:53+00:00",
+   "summary": "EDITORIAL: The SBP governor’s recent call for banks to re-orient their business models towards stronger retail deposit mobilisation and greater private sector financing deserves serious attention. Addressing the Pakistan Banking Awards ceremony last week, he rightly noted that although the economy has reached the much-…",
+   "image": "https://i.brecorder.com/large/2026/09/04011305714018d.webp",
    "topics": [
     "Economy"
    ],
@@ -155,45 +285,6 @@
    "domestic": false
   },
   {
-   "title": "PSX partners with UK’s MOBILIST to boost sustainable finance",
-   "url": "https://www.brecorder.com/news/40437788/psx-partners-with-uks-mobilist-to-boost-sustainable-finance",
-   "source": "Business Recorder",
-   "published": "2026-09-03T14:48:21+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) has partnered with the United Kingdom’s MOBILIST programme to mobilise private investment for sustainable development and climate transition projects in Pakistan. Under the partnership, MOBILIST will work with PSX’s network of issuers and market intermediaries to identify products elig…",
-   "image": "https://i.brecorder.com/large/2026/09/03194614a3baed3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "In flood-ravaged Nepal valley nothing is left standing",
-   "url": "https://www.brecorder.com/news/40437787/in-flood-ravaged-nepal-valley-nothing-is-left-standing",
-   "source": "Business Recorder",
-   "published": "2026-09-03T14:42:04+00:00",
-   "summary": "RASUWA: From the air, the section of Nepal’s Trishuli River valley, where rescuers are trying to reach hundreds of workers trapped in hydroelectric power plants, emerges as an utterly desolate grey expanse. Eight days since the catastrophic flood, the ground has either turned hard like concrete or has become a slippery…",
-   "image": "https://i.brecorder.com/large/2026/09/03194052145d7f9.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India top court dismisses market regulator's plea against NSE, reports",
-   "url": "https://www.brecorder.com/news/40437786/india-top-court-dismisses-market-regulators-plea-against-nse-reports",
-   "source": "Business Recorder",
-   "published": "2026-09-03T14:29:59+00:00",
-   "summary": "India’s top court dismissed market regulator’s appeals against the National Stock Exchange of India , removing a major regulatory hurdle for NSE’s planned IPO, CNBC TV-18 reported on Thursday, citing news wire agency Informist. The appeals are related to the exchange’s co-location data centre and dark fibre cases, whic…",
-   "image": "https://i.brecorder.com/large/2026/09/03192925a70dd82.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Dubai leads Gulf gains as UAE, Saudi growth data lift sentiment",
    "url": "https://www.brecorder.com/news/40437782/dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sentiment",
    "source": "Business Recorder",
@@ -204,58 +295,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Bharat Forge unit, France's Thales sign rocket systems alliance",
-   "url": "https://www.brecorder.com/news/40437781/indias-bharat-forge-unit-frances-thales-sign-rocket-systems-alliance",
-   "source": "Business Recorder",
-   "published": "2026-09-03T13:51:55+00:00",
-   "summary": "BENGALURU: India’s Bharat Forge said on Thursday its defence unit signed an agreement with France’s Thales to establish advanced industrial capability to build 70-mm rocket systems in the country. India is the world’s fifth-largest military spender and the second-largest arms importer after Ukraine, according to data f…",
-   "image": "https://i.brecorder.com/large/2026/09/03185016d550bd2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt, JI agree to form committees to explore relief measures",
-   "url": "https://www.brecorder.com/news/40437779/govt-ji-agree-to-form-committees-to-explore-relief-measures",
-   "source": "Business Recorder",
-   "published": "2026-09-03T13:15:57+00:00",
-   "summary": "The government and Jamaat-e-Islami (JI) on Thursday agreed to form committees to deliberate on measures aimed at providing relief to the public amid rising inflation and petroleum prices. Federal Minister for Planning Ahsan Iqbal, speaking at a joint press conference with JI Emir Hafiz Naeemur Rehman and Prime Minister…",
-   "image": "https://i.ytimg.com/vi/SjtVJDMsgJU/maxresdefault.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Canada assesses risks to imports after India raid finds fake labels on food products",
-   "url": "https://www.brecorder.com/news/40437778/canada-assesses-risks-to-imports-after-india-raid-finds-fake-labels-on-food-products",
-   "source": "Business Recorder",
-   "published": "2026-09-03T11:48:42+00:00",
-   "summary": "OTTAWA/NEW DELHI: The Canadian Food Inspection Agency is looking into whether an illegal operation in India that labelled chips and other food products with fake nutrition information and expiry dates represents a risk to the country’s imports. Indian authorities raided a Mumbai warehouse last week, seizing products wo…",
-   "image": "https://i.brecorder.com/large/2026/09/0316475955c3c0a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Israel's Katz threatens broad retaliation if Iran attacks Israel",
-   "url": "https://www.brecorder.com/news/40437776/israels-katz-threatens-broad-retaliation-if-iran-attacks-israel",
-   "source": "Business Recorder",
-   "published": "2026-09-03T11:42:41+00:00",
-   "summary": "JERUSALEM: Defence Minister Israel Katz said on Thursday that Israel would strike Iran’s energy and civilian infrastructure if Iran were to attack Israel, the country’s latest threat to Tehran amid a sudden recent escalation of U.S.-Iran fighting. Fears of renewed escalation gripped the Middle East this week after the …",
-   "image": "https://i.brecorder.com/large/2026/09/0316404120ea162.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -285,19 +324,6 @@
    "domestic": false
   },
   {
-   "title": "How India's RBI could tackle a liquidity deluge triggered by dollar deposits",
-   "url": "https://www.brecorder.com/news/40437769/how-indias-rbi-could-tackle-a-liquidity-deluge-triggered-by-dollar-deposits",
-   "source": "Business Recorder",
-   "published": "2026-09-03T11:01:26+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India’s special dollar deposit scheme drew a larger-than-expected $127.23 billion, leaving the central bank having to deal with a problem of plenty. The dollar deposits, swapped by banks directly with the RBI, have pushed the liquidity surplus in India’s banking system to a record high of 9.…",
-   "image": "https://i.brecorder.com/large/2026/09/03160051915217c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian benchmark shares subdued after recent drop as oil worries outweigh banking gains",
    "url": "https://www.brecorder.com/news/40437768/indian-benchmark-shares-subdued-after-recent-drop-as-oil-worries-outweigh-banking-gains",
    "source": "Business Recorder",
@@ -308,19 +334,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s trade deficit widens 18% in 2MFY27",
-   "url": "https://www.brecorder.com/news/40437767/pakistans-trade-deficit-widens-18-in-2mfy27",
-   "source": "Business Recorder",
-   "published": "2026-09-03T10:53:57+00:00",
-   "summary": "Pakistan’s trade deficit widened by 18.1% year-on-year to $7.12 billion during the first two months (July-August) of fiscal year 2026-27, according to data released by the Pakistan Bureau of Statistics (PBS) on Thursday. According to the data, the trade gap stood at $6.03 billion in the corresponding period of the prev…",
-   "image": "https://i.brecorder.com/large/2026/09/0315513059dc2a3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
