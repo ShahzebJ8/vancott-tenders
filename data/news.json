@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-05T10:53:09+00:00",
- "count": 54,
- "relevant_count": 9,
- "domestic_count": 18,
+ "generated": "2026-09-05T13:43:31+00:00",
+ "count": 52,
+ "relevant_count": 8,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (10)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "BESS made mandatory: Nepra approves amendments to electricity wheeling auction process",
+   "url": "https://www.brecorder.com/news/40438015/bess-made-mandatory-nepra-approves-amendments-to-electricity-wheeling-auction-process",
+   "source": "Business Recorder",
+   "published": "2026-09-05T11:17:12+00:00",
+   "summary": "ISLAMABAD: National Electric Power Regulatory Authority (Nepra) has approved, with modifications, amendments to the electricity wheeling auction process proposed by the Independent System and Market Operator of Pakistan (ISMO), making battery energy storage systems (BESS) mandatory for solar and wind projects participa…",
+   "image": "https://i.brecorder.com/large/2026/09/050633224662a05.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Detection billing system: Power Division decides to introduce reforms",
    "url": "https://www.brecorder.com/news/40438017/detection-billing-system-power-division-decides-to-introduce-reforms",
@@ -30,19 +43,6 @@
    "published": "2026-09-05T04:15:55+00:00",
    "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) has allowed a positive Fuel Charges Adjustment (FCA) of Rs2.0581 per unit for electricity consumed in July 2026, to be recovered from consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric (KE) in their September 2026 bills. According t…",
    "image": "https://i.brecorder.com/large/2026/09/050620140cdbb51.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "BESS made mandatory: Nepra approves amendments to electricity wheeling auction process",
-   "url": "https://www.brecorder.com/news/40438015/bess-made-mandatory-nepra-approves-amendments-to-electricity-wheeling-auction-process",
-   "source": "Business Recorder",
-   "published": "2026-09-05T04:15:19+00:00",
-   "summary": "ISLAMABAD: National Electric Power Regulatory Authority (Nepra) has approved, with modifications, amendments to the electricity wheeling auction process proposed by the Independent System and Market Operator of Pakistan (ISMO), making battery energy storage systems (BESS) mandatory for solar and wind projects participa…",
-   "image": "https://i.brecorder.com/large/2026/09/050633224662a05.webp",
    "topics": [
     "Energy & power"
    ],
@@ -86,19 +86,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PIBF launches campaign against petroleum levy",
-   "url": "https://www.brecorder.com/news/40438037/pibf-launches-campaign-against-petroleum-levy",
-   "source": "Business Recorder",
-   "published": "2026-09-04T23:59:30+00:00",
-   "summary": "LAHORE: The Pakistan International Business Forum (PIBF) has announced a nationwide “Say No to Petroleum Levy Tax” signature campaign to mobilise the business community against the increasing burden of petroleum-related taxes. PIBF Central President Dr Mushtaq Mangat, Secretary General Muhammad Ejaz Tanveer, Lahore Pre…",
-   "image": "https://i.brecorder.com/large/2026/09/05034846ac864df.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -697,19 +684,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX closes higher as KSE-100 gains 153 points",
-   "url": "https://arynews.tv/psx-closes-higher-as-kse-100-gains-153-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX closes higher as KSE-100 gains 153 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-today.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
