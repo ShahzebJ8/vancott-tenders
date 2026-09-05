@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-05T20:59:19+00:00",
- "count": 48,
- "relevant_count": 8,
- "domestic_count": 13,
+ "generated": "2026-09-05T22:41:02+00:00",
+ "count": 47,
+ "relevant_count": 6,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,32 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Auto imports under personal baggage",
+   "url": "https://www.brecorder.com/news/40438089/auto-imports-under-personal-baggage",
+   "source": "Business Recorder",
+   "published": "2026-09-05T21:30:08+00:00",
+   "summary": "EDITORIAL: The Personal Baggage Scheme for used vehicle imports has finally been abolished after the government concluded that a facility meant for overseas Pakistanis was being misused for commercial purposes. The Economic Coordination Committee and federal cabinet have approved the change, while the Gift and Transfer…",
+   "image": "https://i.brecorder.com/large/2026/09/06005143c448c33.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh CM calls for protection, empowerment of women, girls",
+   "url": "https://www.brecorder.com/news/40438101/sindh-cm-calls-for-protection-empowerment-of-women-girls",
+   "source": "Business Recorder",
+   "published": "2026-09-05T21:30:08+00:00",
+   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah, in his special message on the International Day of the World’s Indigenous Women and Girls, on Saturday said that indigenous women and girls around the world were playing an important role in the development and prosperity of their societies. The chief minister stressed…",
+   "image": "https://i.brecorder.com/large/2026/09/06005946782dda7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Higher food prices push up Sensitive Price Index",
    "url": "https://www.dawn.com/news/2027597/higher-food-prices-push-up-sensitive-price-index",
@@ -180,12 +206,12 @@
    "domestic": true
   },
   {
-   "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
-   "url": "https://www.brecorder.com/news/40438065/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says",
+   "title": "The IWT stands",
+   "url": "https://www.brecorder.com/news/40438090/the-iwt-stands",
    "source": "Business Recorder",
-   "published": "2026-09-05T15:31:50+00:00",
-   "summary": "DUBAI: US forces struck three Iranian oil tankers on Saturday, US Central Command said, including one off the coast of Kharg Island, near Iran’s key oil export hub. The strikes were carried out after Iran’s Islamic Revolutionary Guard Corps launched ballistic missiles at two US Navy ships, Central Command said. “Let th…",
-   "image": "https://i.brecorder.com/large/2026/09/051857553e89c66.webp",
+   "published": "2026-09-05T21:30:08+00:00",
+   "summary": "EDITORIAL: The award issued by the Hague-based Permanent Court of Arbitration (PCA) on the Indus Waters Treaty (IWT) comes as a vindication of Pakistan’s position and reinforces a fundamental principle of international law: treaties cannot simply be suspended or discarded unilaterally. The ruling provides important leg…",
+   "image": "https://i.brecorder.com/large/2026/09/0600524025f986f.webp",
    "topics": [
     "Economy"
    ],
@@ -193,38 +219,12 @@
    "domestic": false
   },
   {
-   "title": "Localized ceasefire in effect to enable repairs to Zaporizhzhia nuclear plant, IAEA says",
-   "url": "https://www.brecorder.com/news/40438054/localized-ceasefire-in-effect-to-enable-repairs-to-zaporizhzhia-nuclear-plant-iaea-says",
+   "title": "India top court dismisses market regulator’s plea against NSE",
+   "url": "https://www.brecorder.com/news/40438114/india-top-court-dismisses-market-regulators-plea-against-nse",
    "source": "Business Recorder",
-   "published": "2026-09-05T08:19:11+00:00",
-   "summary": "A local ceasefire brokered by the International Atomic Energy Agency (IAEA) has taken effect to enable repairs for the restoration of external power to the Zaporizhzhia nuclear power plant , the agency said on Saturday. The Russian-controlled nuclear power plant, located in Ukraine, has been without external power sinc…",
-   "image": "https://i.brecorder.com/large/2026/09/0513165664fe49f.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US embassy issues health alert for Cuba amid oil blockade, sanctions",
-   "url": "https://www.brecorder.com/news/40438050/us-embassy-issues-health-alert-for-cuba-amid-oil-blockade-sanctions",
-   "source": "Business Recorder",
-   "published": "2026-09-05T06:44:59+00:00",
-   "summary": "HAVANA: The US embassy in Havana issued a health alert for Cuba on Friday, warning travelers and residents of a spike in intestinal illnesses and diarrhea caused by failing water and electricity supply, even as the Trump administration continued to hold back fuel shipments necessary for power generation on the island. …",
-   "image": "https://i.brecorder.com/large/2026/09/0511431430fe32c.gif",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Weather, war push up food prices: FAO",
-   "url": "https://www.brecorder.com/news/40438020/weather-war-push-up-food-prices-fao",
-   "source": "Business Recorder",
-   "published": "2026-09-05T02:14:56+00:00",
-   "summary": "PARIS: Food price inflation accelerated in August as drought and conflicts impacted commodity markets, with sugar prices hitting their highest level in more than a year, UN data showed Friday. The food price index compiled by the UN’s Food and Agricultural Organization rose by 1.9 percent in August from July, and by 2.…",
-   "image": "https://i.brecorder.com/large/2026/09/05071838b65e408.webp",
+   "published": "2026-09-05T21:30:08+00:00",
+   "summary": "BENGALURU: India’s top court dismissed market regulator’s appeals against the National Stock Exchange of India, removing a major regulatory hurdle for NSE’s planned IPO, CNBC TV-18 reported on Thursday, citing news wire agency Informist. The appeals are related to the exchange’s co-location data centre and dark fibre c…",
+   "image": "https://i.brecorder.com/large/2026/09/060106018d16170.webp",
    "topics": [
     "Economy"
    ],
@@ -232,29 +232,16 @@
    "domestic": false
   },
   {
-   "title": "US diesel price hits new high",
-   "url": "https://www.brecorder.com/news/40438018/us-diesel-price-hits-new-high",
+   "title": "BD signs USD1bn IsDB financing deal to expand refinery",
+   "url": "https://www.brecorder.com/news/40438116/bd-signs-usd1bn-isdb-financing-deal-to-expand-refinery",
    "source": "Business Recorder",
-   "published": "2026-09-05T02:08:54+00:00",
-   "summary": "WASHINGTON: The price of diesel — the vital fuel used for road hauling, agriculture and construction — hit a new record Friday in the United States, as disruption from the US war with Iran squeezes voters. The cost is now USD5.85 a gallon, up from USD3.71 a year ago, the AAA motorists’ association said. Six months into…",
-   "image": "https://i.brecorder.com/large/2026/09/050708264e2dc48.webp",
+   "published": "2026-09-05T21:30:08+00:00",
+   "summary": "DHAKA: Bangladesh signed a USD1.004 billion financing agreement with the Islamic Development Bank on Thursday to modernize and expand Eastern Refinery, a project aimed at bolstering energy security and reducing reliance on imported refined petroleum products. The financing package will support the expansion of the stat…",
+   "image": "https://i.brecorder.com/large/2026/09/06010730ddcab0f.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "US targets Turkish entities with Iran-related sanctions",
-   "url": "https://www.brecorder.com/news/40438011/us-targets-turkish-entities-with-iran-related-sanctions",
-   "source": "Business Recorder",
-   "published": "2026-09-05T01:55:29+00:00",
-   "summary": "WASHINGTON: The US Treasury Department said on Friday it imposed new Iran-related sanctions on a small Turkish investment bank and two subsidiaries as part of the Trump administration’s effort to increase economic pressure on Iran. The entities targeted are Instanbul-based investment bank Golden Global Yatirim Bankasi …",
-   "image": "https://i.brecorder.com/large/2026/09/050654414b42679.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
