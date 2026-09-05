@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-05T13:43:31+00:00",
- "count": 52,
+ "generated": "2026-09-05T16:34:30+00:00",
+ "count": 51,
  "relevant_count": 8,
- "domestic_count": 17,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (15)",
@@ -37,19 +37,6 @@
    "domestic": true
   },
   {
-   "title": "Positive FCA allowed: Nepra increases tariff by Rs2.0581/unit",
-   "url": "https://www.brecorder.com/news/40438016/positive-fca-allowed-nepra-increases-tariff-by-rs20581unit",
-   "source": "Business Recorder",
-   "published": "2026-09-05T04:15:55+00:00",
-   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) has allowed a positive Fuel Charges Adjustment (FCA) of Rs2.0581 per unit for electricity consumed in July 2026, to be recovered from consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric (KE) in their September 2026 bills. According t…",
-   "image": "https://i.brecorder.com/large/2026/09/050620140cdbb51.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Higher food prices push up Sensitive Price Index",
    "url": "https://www.dawn.com/news/2027597/higher-food-prices-push-up-sensitive-price-index",
    "source": "Dawn",
@@ -71,19 +58,6 @@
    "image": "https://i.dawn.com/large/2026/09/050721061fa2ba8.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "MoF working on rupee-denominated, dollar-settled bond: Aurangzeb",
-   "url": "https://www.brecorder.com/news/40438021/mof-working-on-rupee-denominated-dollar-settled-bond-aurangzeb",
-   "source": "Business Recorder",
-   "published": "2026-09-05T00:20:36+00:00",
-   "summary": "ISLAMABAD: Finance Minister Muhammad Aurangzeb on Friday said the Ministry of Finance was working on a rupee-denominated, dollar-settled bond and exploring the possibility of tokenising some existing Eurobond debt, while stressing the need to focus on Pakistan’s stagnant goods exports of around USD 30 billion to sustai…",
-   "image": "https://i.brecorder.com/large/2026/09/05052022b3e5960.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -230,6 +204,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says",
+   "url": "https://www.brecorder.com/news/40438065/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says",
+   "source": "Business Recorder",
+   "published": "2026-09-05T15:31:50+00:00",
+   "summary": "DUBAI: US forces struck three Iranian oil tankers on Saturday, US Central Command said, including one off the coast of Kharg Island, near Iran’s key oil export hub. The strikes were carried out after Iran’s Islamic Revolutionary Guard Corps launched ballistic missiles at two US Navy ships, Central Command said. “Let th…",
+   "image": "https://i.brecorder.com/large/2026/09/051857553e89c66.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Localized ceasefire in effect to enable repairs to Zaporizhzhia nuclear plant, IAEA says",
@@ -609,6 +596,19 @@
    "domestic": false
   },
   {
+   "title": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
+   "url": "https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Govt cut super tax to 8% as part of broad structural reforms, says Kiyani",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Bilal-Azhar-Kayani.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "SBP rejects reports linking Raast to money laundering",
    "url": "https://arynews.tv/sbp-rejects-reports-linking-raast-to-money-laundering",
    "source": "ARY News",
@@ -671,19 +671,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
-   "url": "https://arynews.tv/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-03T180842.643.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
