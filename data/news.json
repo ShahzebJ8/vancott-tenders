@@ -1,15 +1,80 @@
 {
- "generated": "2026-09-05T01:17:24+00:00",
- "count": 52,
- "relevant_count": 11,
- "domestic_count": 16,
+ "generated": "2026-09-05T06:06:30+00:00",
+ "count": 57,
+ "relevant_count": 9,
+ "domestic_count": 20,
  "sources": {
-  "Dawn": "ok (10)",
+  "Dawn": "ok (12)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Detection billing system: Power Division decides to introduce reforms",
+   "url": "https://www.brecorder.com/news/40438017/detection-billing-system-power-division-decides-to-introduce-reforms",
+   "source": "Business Recorder",
+   "published": "2026-09-05T04:24:03+00:00",
+   "summary": "ISLAMABAD: The Power Division has decided to introduce fundamental reforms in the detection billing system to protect electricity consumers from inflated bills, unnecessary hardships and additional financial burdens. The initiative is part of the broader power sector reform process being pursued under Federal Minister …",
+   "image": "https://i.brecorder.com/large/2026/09/05061408ab75ed5.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Positive FCA allowed: Nepra increases tariff by Rs2.0581/unit",
+   "url": "https://www.brecorder.com/news/40438016/positive-fca-allowed-nepra-increases-tariff-by-rs20581unit",
+   "source": "Business Recorder",
+   "published": "2026-09-05T04:15:55+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) has allowed a positive Fuel Charges Adjustment (FCA) of Rs2.0581 per unit for electricity consumed in July 2026, to be recovered from consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric (KE) in their September 2026 bills. According t…",
+   "image": "https://i.brecorder.com/large/2026/09/050620140cdbb51.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "BESS made mandatory: Nepra approves amendments to electricity wheeling auction process",
+   "url": "https://www.brecorder.com/news/40438015/bess-made-mandatory-nepra-approves-amendments-to-electricity-wheeling-auction-process",
+   "source": "Business Recorder",
+   "published": "2026-09-05T04:15:19+00:00",
+   "summary": "ISLAMABAD: National Electric Power Regulatory Authority (Nepra) has approved, with modifications, amendments to the electricity wheeling auction process proposed by the Independent System and Market Operator of Pakistan (ISMO), making battery energy storage systems (BESS) mandatory for solar and wind projects participa…",
+   "image": "https://i.brecorder.com/large/2026/09/050633224662a05.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Higher food prices push up Sensitive Price Index",
+   "url": "https://www.dawn.com/news/2027597/higher-food-prices-push-up-sensitive-price-index",
+   "source": "Dawn",
+   "published": "2026-09-05T02:29:21+00:00",
+   "summary": "KARACHI: Consumers continue to face hardships in buying various commodities as the weekly inflation, measured by the Sensitive Price Index (SPI), rose 8.35 per cent for the week ending on Sept 3 year-on-year, showed data on Friday. According to data released by the Pakistan Bureau of Statistics (PBS) the SPI increased …",
+   "image": "https://i.dawn.com/large/2026/09/05072758ac4f5d1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Nepra raises electricity costs by Rs2.58 per unit",
+   "url": "https://www.dawn.com/news/2027627/nepra-raises-electricity-costs-by-rs258-per-unit",
+   "source": "Dawn",
+   "published": "2026-09-05T02:21:30+00:00",
+   "summary": "• Fuel adjustment adds Rs2.06 per unit to Sept bills • 52 paisa per unit quarterly charge to continue through Nov; Rs45.6bn additional burden imposed on users • Some relief for lifeline consumers, EV charging stations, prepaid users ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) on Friday notified …",
+   "image": "https://i.dawn.com/large/2026/09/050721061fa2ba8.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "MoF working on rupee-denominated, dollar-settled bond: Aurangzeb",
    "url": "https://www.brecorder.com/news/40438021/mof-working-on-rupee-denominated-dollar-settled-bond-aurangzeb",
@@ -63,12 +128,12 @@
    "domestic": true
   },
   {
-   "title": "PKI President calls for complete deregulation of sugar sector",
-   "url": "https://www.brecorder.com/news/40437991/pki-president-calls-for-complete-deregulation-of-sugar-sector",
-   "source": "Business Recorder",
-   "published": "2026-09-04T23:59:29+00:00",
-   "summary": "LAHORE: Complete deregulation of the sugar sector can establish an efficient, market-driven and sustainable framework capable of addressing domestic as well as export surplus challenges, said Pakistan Kissan Ittehad (PKI) president Khalid Mahmood Khokhar. Addressing a press conference on Friday, he urged the government…",
-   "image": "https://i.brecorder.com/large/2026/09/050143452bdeb08.webp",
+   "title": "Economy faces downside risks: FPCCI",
+   "url": "https://www.dawn.com/news/2027598/economy-faces-downside-risks-fpcci",
+   "source": "Dawn",
+   "published": "2026-09-04T23:02:17+00:00",
+   "summary": "KARACHI: Federation of Pakistan Chambers of Commerce and Industry (FPCCI) President Atif Ikram Sheikh has voiced concern over the widening of the trade deficit during 2MFY27 by 18.1 per cent to $7.1 billion from $6.025bn. While acknowledging a slight recovery in overall economic activity, he said the increase in export…",
+   "image": "https://i.dawn.com/large/2026/09/05071611924766d.webp",
    "topics": [
     "Economy"
    ],
@@ -76,12 +141,12 @@
    "domestic": true
   },
   {
-   "title": "APTMA, CAP to work for brand development globally",
-   "url": "https://www.brecorder.com/news/40437992/aptma-cap-to-work-for-brand-development-globally",
-   "source": "Business Recorder",
-   "published": "2026-09-04T23:59:29+00:00",
-   "summary": "LAHORE: The All Pakistan Textile Mills Association (APTMA) and the Chainstores Association of Pakistan (CAP) have agreed to work together to develop and promote Pakistani textile and apparel brands in international markets, terming brand development a key avenue for increasing and diversifying the country’s exports. Th…",
-   "image": "https://i.brecorder.com/large/2026/09/050144190e6c328.webp",
+   "title": "Kissan Ittehad seeks 1m tonnes in sugar exports",
+   "url": "https://www.dawn.com/news/2027595/kissan-ittehad-seeks-1m-tonnes-in-sugar-exports",
+   "source": "Dawn",
+   "published": "2026-09-04T23:02:17+00:00",
+   "summary": "LAHORE: Amid warnings of a potential Rs100 billion collapse in farmers’ revenues reminiscent of the 2017-18 sugar crisis, the Pakistan Kissan Ittehad (PKI) has demanded the immediate export authorisation of 1 million tonnes of surplus sugar before the upcoming crushing season kicks off on Nov 15. Addressing a press con…",
+   "image": "https://i.dawn.com/large/2026/09/05073257e9a7c5c.webp",
    "topics": [
     "Economy"
    ],
@@ -89,16 +154,16 @@
    "domestic": true
   },
   {
-   "title": "Members of ADR bodies: FBR proposes revised remuneration structure",
-   "url": "https://www.brecorder.com/news/40437998/members-of-adr-bodies-fbr-proposes-revised-remuneration-structure",
-   "source": "Business Recorder",
-   "published": "2026-09-04T23:59:29+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has proposed revised remuneration structure for members of Alternative Dispute Resolution (ADR) committees. The FBR has proposed amendments to the Income Tax Rules, 2002, to revamp the mechanism for resolution of tax disputes through Alternative Dispute Resolution (ADR) com…",
-   "image": "https://i.brecorder.com/large/2026/09/0501491291bc0bd.webp",
+   "title": "Stocks extend mild recovery on select buying",
+   "url": "https://www.dawn.com/news/2027592/stocks-extend-mild-recovery-on-select-buying",
+   "source": "Dawn",
+   "published": "2026-09-04T23:02:17+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Friday extended its mild recovery on selective buying, despite persistent uncertainty over the economic outlook amid an upsurge in inflation and geopolitical tensions. Topline Securities Ltd said the market remained range-bound during the last trading session of the week, …",
+   "image": "https://i.dawn.com/large/2026/09/05032748d2b2728.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": true
   },
   {
@@ -123,6 +188,19 @@
    "image": "https://i.dawn.com/large/2026/09/04202033e111d81.webp",
    "topics": [
     "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Trust in economic strength drops",
+   "url": "https://tribune.com.pk/story/2627504/trust-in-economic-strength-drops",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T15:03:46+00:00",
+   "summary": "One in seven Pakistanis considers economy strong amid high inflation, power outages",
+   "image": null,
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -193,41 +271,118 @@
    "domestic": true
   },
   {
-   "title": "Inflation rebounds to 11pc in August",
-   "url": "https://www.dawn.com/news/2026747/inflation-rebounds-to-11pc-in-august",
-   "source": "Dawn",
-   "published": "2026-09-02T02:35:06+00:00",
-   "summary": "ISLAMABAD: Consumer inflation rose to 11.1 per cent in August from 9.2pc a month earlier, driven mainly by higher food and energy prices, according to data released by the Pakistan Bureau of Statistics (PBS) on Tuesday. The reversal in inflation, measured by the Consumer Price Index (CPI), after two consecutive months …",
-   "image": "https://i.dawn.com/large/2026/09/02024453b708add.webp",
+   "title": "The discount nobody noticed",
+   "url": "https://www.brecorder.com/news/40437975/the-discount-nobody-noticed",
+   "source": "Business Recorder",
+   "published": "2026-09-05T02:23:36+00:00",
+   "summary": "EDITORIAL: A Power Division review has found that coal-fired power plants buying from the same international suppliers against the same recognised benchmark were receiving wildly different discounts, ranging from just $0.25 to $7.12 per metric ton. The government has now responded with a straightforward rule: plants mu…",
+   "image": "https://i.brecorder.com/large/2026/09/05072605fa0d488.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Weather, war push up food prices: FAO",
+   "url": "https://www.brecorder.com/news/40438020/weather-war-push-up-food-prices-fao",
+   "source": "Business Recorder",
+   "published": "2026-09-05T02:14:56+00:00",
+   "summary": "PARIS: Food price inflation accelerated in August as drought and conflicts impacted commodity markets, with sugar prices hitting their highest level in more than a year, UN data showed Friday. The food price index compiled by the UN’s Food and Agricultural Organization rose by 1.9 percent in August from July, and by 2.…",
+   "image": "https://i.brecorder.com/large/2026/09/05071838b65e408.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Karachi industry cries out over power tariffs",
-   "url": "https://www.dawn.com/news/2026749/karachi-industry-cries-out-over-power-tariffs",
-   "source": "Dawn",
-   "published": "2026-09-02T01:59:08+00:00",
-   "summary": "KARACHI: Amid disappointment among trade and industry over costly tariffs, K-Electric Board Chairman Shaheryar Chishti has said the company is investing Rs15 billion to upgrade its power infrastructure and ensure a reliable, uninterrupted electricity supply for the industrial sector. Addressing members of the Korangi A…",
-   "image": "https://i.dawn.com/large/2026/09/0207395052e9cd0.webp",
+   "title": "US diesel price hits new high",
+   "url": "https://www.brecorder.com/news/40438018/us-diesel-price-hits-new-high",
+   "source": "Business Recorder",
+   "published": "2026-09-05T02:08:54+00:00",
+   "summary": "WASHINGTON: The price of diesel — the vital fuel used for road hauling, agriculture and construction — hit a new record Friday in the United States, as disruption from the US war with Iran squeezes voters. The cost is now USD5.85 a gallon, up from USD3.71 a year ago, the AAA motorists’ association said. Six months into…",
+   "image": "https://i.brecorder.com/large/2026/09/050708264e2dc48.webp",
    "topics": [
-    "Construction & projects",
-    "Energy & power"
+    "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "The discount nobody noticed",
-   "url": "https://www.brecorder.com/news/40437975/the-discount-nobody-noticed",
+   "title": "US targets Turkish entities with Iran-related sanctions",
+   "url": "https://www.brecorder.com/news/40438011/us-targets-turkish-entities-with-iran-related-sanctions",
    "source": "Business Recorder",
-   "published": "2026-09-04T23:59:29+00:00",
-   "summary": "EDITORIAL: A Power Division review has found that coal-fired power plants buying from the same international suppliers against the same recognised benchmark were receiving wildly different discounts, ranging from just $0.25 to $7.12 per metric ton. The government has now responded with a straightforward rule: plants mu…",
-   "image": "https://i.brecorder.com/large/2026/09/0501204393dce51.webp",
+   "published": "2026-09-05T01:55:29+00:00",
+   "summary": "WASHINGTON: The US Treasury Department said on Friday it imposed new Iran-related sanctions on a small Turkish investment bank and two subsidiaries as part of the Trump administration’s effort to increase economic pressure on Iran. The entities targeted are Instanbul-based investment bank Golden Global Yatirim Bankasi …",
+   "image": "https://i.brecorder.com/large/2026/09/050654414b42679.webp",
    "topics": [
-    "Energy & power"
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Sweetener's import raises eyebrows",
+   "url": "https://tribune.com.pk/story/2627509/sweeteners-import-raises-eyebrows",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T15:03:46+00:00",
+   "summary": "Govt defends decision, saying timely imports helped arrest price increase",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Growers demand free sugar market",
+   "url": "https://tribune.com.pk/story/2627505/growers-demand-free-sugar-market",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T15:03:46+00:00",
+   "summary": "Fear Rs100b loss if exports not allowed before new crushing season",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold prices rise Rs3,900/tola despite global dip",
+   "url": "https://tribune.com.pk/story/2627510/gold-prices-rise-rs3900tola-despite-global-dip",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T15:03:46+00:00",
+   "summary": "International market declines on stronger US jobs data; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "$16b fossil fuel import bill strains reserves",
+   "url": "https://tribune.com.pk/story/2627508/16b-fossil-fuel-import-bill-strains-reserves",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T15:03:46+00:00",
+   "summary": "Tehseen said Pakistan had set a target to cut carbon emissions by 50% by 2035",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "High-value agri-exports can unlock billions of dollars",
+   "url": "https://tribune.com.pk/story/2627511/high-value-agri-exports-can-unlock-billions-of-dollars",
+   "source": "The Express Tribune",
+   "published": "2026-09-04T15:03:46+00:00",
+   "summary": "Govt, agriculture sector join hands to prop up Pakistan's farm economy",
+   "image": null,
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -350,32 +505,6 @@
    "domestic": false
   },
   {
-   "title": "SBP rejects 'misleading headline' linking Raast to money laundering in wake of FATF report",
-   "url": "https://tribune.com.pk/story/2627467/sbp-rejects-reports-linking-raast-to-money-laundering-in-wake-of-fatf-report",
-   "source": "The Express Tribune",
-   "published": "2026-09-04T10:10:08+00:00",
-   "summary": "Maintains that Raast does not currently facilitate cross-border transfers",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX closes with modest gains of 400 points",
-   "url": "https://tribune.com.pk/story/2627452/psx-closes-with-modest-gains-of-400-points",
-   "source": "The Express Tribune",
-   "published": "2026-09-04T07:52:36+00:00",
-   "summary": "KSE-100 Index recovers to 175,328 amid oil caution, Friday selling",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "South African rand treads water before US jobs data as markets assess Fed rate path",
    "url": "https://www.brecorder.com/news/40437927/south-african-rand-treads-water-before-us-jobs-data-as-markets-assess-fed-rate-path",
    "source": "Business Recorder",
@@ -480,63 +609,11 @@
    "domestic": false
   },
   {
-   "title": "IT exports soar, AI triggers job cuts",
-   "url": "https://tribune.com.pk/story/2627332/it-exports-soar-ai-triggers-job-cuts",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T17:25:54+00:00",
-   "summary": "Entry-level hiring down 25% as exports hit $4.6b, freelancers account for $1.6b",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Consumer confidence falls by 24% to 2-year low",
    "url": "https://tribune.com.pk/story/2627338/consumer-confidence-falls-by-24-to-2-year-low",
    "source": "The Express Tribune",
    "published": "2026-09-03T17:25:54+00:00",
    "summary": "Survey shows country has entered 'extremely pessimistic territory' as inflation, unemployment bite",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bourse ends flat despite Eurobond success",
-   "url": "https://tribune.com.pk/story/2627341/bourse-ends-flat-despite-eurobond-success",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T17:25:54+00:00",
-   "summary": "KSE-100 adds 153 points after volatile session; oil jitters persist",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "ADB to help transform tax collection system",
-   "url": "https://tribune.com.pk/story/2627342/adb-to-help-transform-tax-collection-system",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T17:25:54+00:00",
-   "summary": "Including broadening tax base, reducing burden on compliant taxpayers, improving efficiency through digitalisation",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SBP reserves rise $19m; gold jumps Rs11,200",
-   "url": "https://tribune.com.pk/story/2627339/sbp-reserves-rise-19m-gold-jumps-rs11200",
-   "source": "The Express Tribune",
-   "published": "2026-09-03T17:25:54+00:00",
-   "summary": "Net foreign reserves with commercial banks dropped $78.8 million to $5.41 billion over the same period",
    "image": null,
    "topics": [
     "Economy"
@@ -579,19 +656,6 @@
    "image": null,
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Senate panel directs govt to renegotiate IMF terms for special economic zones",
-   "url": "https://www.dawn.com/news/2026825/senate-panel-directs-govt-to-renegotiate-imf-terms-for-special-economic-zones",
-   "source": "Dawn",
-   "published": "2026-09-02T03:28:39+00:00",
-   "summary": "https://www.dawn.com/news/2026750/govt-told-to-renegotiate-imf-terms",
-   "image": "https://i.dawn.com/large/2026/09/02082243d83486c.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
