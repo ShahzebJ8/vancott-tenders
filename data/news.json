@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-04T23:13:46+00:00",
- "count": 48,
- "relevant_count": 10,
- "domestic_count": 9,
+ "generated": "2026-09-05T01:17:24+00:00",
+ "count": 52,
+ "relevant_count": 11,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,97 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "MoF working on rupee-denominated, dollar-settled bond: Aurangzeb",
+   "url": "https://www.brecorder.com/news/40438021/mof-working-on-rupee-denominated-dollar-settled-bond-aurangzeb",
+   "source": "Business Recorder",
+   "published": "2026-09-05T00:20:36+00:00",
+   "summary": "ISLAMABAD: Finance Minister Muhammad Aurangzeb on Friday said the Ministry of Finance was working on a rupee-denominated, dollar-settled bond and exploring the possibility of tokenising some existing Eurobond debt, while stressing the need to focus on Pakistan’s stagnant goods exports of around USD 30 billion to sustai…",
+   "image": "https://i.brecorder.com/large/2026/09/05052022b3e5960.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PIBF launches campaign against petroleum levy",
+   "url": "https://www.brecorder.com/news/40438037/pibf-launches-campaign-against-petroleum-levy",
+   "source": "Business Recorder",
+   "published": "2026-09-04T23:59:30+00:00",
+   "summary": "LAHORE: The Pakistan International Business Forum (PIBF) has announced a nationwide “Say No to Petroleum Levy Tax” signature campaign to mobilise the business community against the increasing burden of petroleum-related taxes. PIBF Central President Dr Mushtaq Mangat, Secretary General Muhammad Ejaz Tanveer, Lahore Pre…",
+   "image": "https://i.brecorder.com/large/2026/09/05034846ac864df.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SMEDA, SBP explore cluster-based lending for SMEs",
+   "url": "https://www.brecorder.com/news/40438042/smeda-sbp-explore-cluster-based-lending-for-smes",
+   "source": "Business Recorder",
+   "published": "2026-09-04T23:59:30+00:00",
+   "summary": "LAHORE: The Small and Medium Enterprises Development Authority (SMEDA), in collaboration with the State Bank of Pakistan (SBP), organised a seminar on cluster-based lending studies to explore practical ways of expanding financing opportunities for Pakistan’s Small and Medium Enterprises (SMEs). The seminar brought toge…",
+   "image": "https://i.brecorder.com/large/2026/09/05034338aa57bf3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP reacts to social media post",
+   "url": "https://www.brecorder.com/news/40437983/sbp-reacts-to-social-media-post",
+   "source": "Business Recorder",
+   "published": "2026-09-04T23:59:29+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has taken notice of a misleading headline on a social media platform suggesting that the Financial Action Task Force (FATF) has identified Raast as a channel for money laundering. The FATF report neither identifies Raast as a money-laundering mechanism nor raises any specific c…",
+   "image": "https://i.brecorder.com/large/2026/09/0501305139020cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PKI President calls for complete deregulation of sugar sector",
+   "url": "https://www.brecorder.com/news/40437991/pki-president-calls-for-complete-deregulation-of-sugar-sector",
+   "source": "Business Recorder",
+   "published": "2026-09-04T23:59:29+00:00",
+   "summary": "LAHORE: Complete deregulation of the sugar sector can establish an efficient, market-driven and sustainable framework capable of addressing domestic as well as export surplus challenges, said Pakistan Kissan Ittehad (PKI) president Khalid Mahmood Khokhar. Addressing a press conference on Friday, he urged the government…",
+   "image": "https://i.brecorder.com/large/2026/09/050143452bdeb08.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "APTMA, CAP to work for brand development globally",
+   "url": "https://www.brecorder.com/news/40437992/aptma-cap-to-work-for-brand-development-globally",
+   "source": "Business Recorder",
+   "published": "2026-09-04T23:59:29+00:00",
+   "summary": "LAHORE: The All Pakistan Textile Mills Association (APTMA) and the Chainstores Association of Pakistan (CAP) have agreed to work together to develop and promote Pakistani textile and apparel brands in international markets, terming brand development a key avenue for increasing and diversifying the country’s exports. Th…",
+   "image": "https://i.brecorder.com/large/2026/09/050144190e6c328.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Members of ADR bodies: FBR proposes revised remuneration structure",
+   "url": "https://www.brecorder.com/news/40437998/members-of-adr-bodies-fbr-proposes-revised-remuneration-structure",
+   "source": "Business Recorder",
+   "published": "2026-09-04T23:59:29+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has proposed revised remuneration structure for members of Alternative Dispute Resolution (ADR) committees. The FBR has proposed amendments to the Income Tax Rules, 2002, to revamp the mechanism for resolution of tax disputes through Alternative Dispute Resolution (ADR) com…",
+   "image": "https://i.brecorder.com/large/2026/09/0501491291bc0bd.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "OGDCL announces record Rs242.4bn profit for fiscal year 2025-26",
    "url": "https://www.dawn.com/news/2027502/ogdcl-announces-record-rs2424bn-profit-for-fiscal-year-2025-26",
@@ -129,14 +220,14 @@
    "domestic": true
   },
   {
-   "title": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
-   "url": "https://www.brecorder.com/news/40437959/trump-says-if-the-fed-doesnt-cut-rates-hell-stop-trading-with-some-nations",
+   "title": "The discount nobody noticed",
+   "url": "https://www.brecorder.com/news/40437975/the-discount-nobody-noticed",
    "source": "Business Recorder",
-   "published": "2026-09-04T15:27:23+00:00",
-   "summary": "WASHINGTON: U.S. President Donald Trump on Friday said that unless the Federal Reserve cut interest rates, he would stop trading with countries with which the United States had a deficit. “High interest rates put the U.S.A. at a very unfair disadvantage, and I won’t allow that to happen!” said Trump, who has repeatedly…",
-   "image": "https://i.brecorder.com/large/2026/09/04202714ca29586.webp",
+   "published": "2026-09-04T23:59:29+00:00",
+   "summary": "EDITORIAL: A Power Division review has found that coal-fired power plants buying from the same international suppliers against the same recognised benchmark were receiving wildly different discounts, ranging from just $0.25 to $7.12 per metric ton. The government has now responded with a straightforward rule: plants mu…",
+   "image": "https://i.brecorder.com/large/2026/09/0501204393dce51.webp",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -168,19 +259,6 @@
    "domestic": false
   },
   {
-   "title": "Nepal floods could cost insurers over $130 million even before death, injury claims",
-   "url": "https://www.brecorder.com/news/40437952/nepal-floods-could-cost-insurers-over-130-million-even-before-death-injury-claims",
-   "source": "Business Recorder",
-   "published": "2026-09-04T13:43:33+00:00",
-   "summary": "MUMBAI: The devastating flood in Nepal last week could result in commercial insurance losses exceeding 20 billion Nepali rupees ($132.3 million), with hydropower projects accounting for most claims, according to a top official at one of the country’s leading insurers. The insurance cover, when paid out, covers losses b…",
-   "image": "https://i.brecorder.com/large/2026/09/041841479f5ff6e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX: KSE-100 Index gains nearly 400 points after volatile trading",
    "url": "https://www.brecorder.com/news/40437906/psx-kse-100-index-gains-nearly-400-points-after-volatile-trading",
    "source": "Business Recorder",
@@ -191,19 +269,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Tata Motors tender for Italy's Iveco set for September 7 to October 26",
-   "url": "https://www.brecorder.com/news/40437949/tata-motors-tender-for-italys-iveco-set-for-september-7-to-october-26",
-   "source": "Business Recorder",
-   "published": "2026-09-04T11:46:00+00:00",
-   "summary": "MILAN: The tender offer by India’s Tata Motors for Italian truck and bus maker Iveco will run from September 7 to October 26, according to a statement published after Italian market regulator Consob approved the offer document. Under certain conditions, the tender period will be extended for five further days, from Nov…",
-   "image": "https://i.brecorder.com/large/2026/09/041645241ad7aaf.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -280,19 +345,6 @@
    "image": "https://i.dawn.com/large/2026/09/041559452df0cab.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Power Division moves to improve detection billing system",
-   "url": "https://www.brecorder.com/news/40437939/power-division-moves-to-improve-detection-billing-system",
-   "source": "Business Recorder",
-   "published": "2026-09-04T10:36:50+00:00",
-   "summary": "The Power Division on Friday decided to introduce fundamental reforms in the detection billing system to protect electricity consumers from unnecessary hardships and additional financial burdens. As per a press release, the initiative is part of the ongoing broader reform process in the power sector led by Federal Mini…",
-   "image": "https://i.brecorder.com/large/2026/09/04153336acaad17.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
