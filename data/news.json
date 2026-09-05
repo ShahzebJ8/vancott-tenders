@@ -1,41 +1,15 @@
 {
- "generated": "2026-09-05T16:34:30+00:00",
- "count": 51,
+ "generated": "2026-09-05T18:36:42+00:00",
+ "count": 48,
  "relevant_count": 8,
- "domestic_count": 15,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (10)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (5)"
  },
  "stories": [
-  {
-   "title": "BESS made mandatory: Nepra approves amendments to electricity wheeling auction process",
-   "url": "https://www.brecorder.com/news/40438015/bess-made-mandatory-nepra-approves-amendments-to-electricity-wheeling-auction-process",
-   "source": "Business Recorder",
-   "published": "2026-09-05T11:17:12+00:00",
-   "summary": "ISLAMABAD: National Electric Power Regulatory Authority (Nepra) has approved, with modifications, amendments to the electricity wheeling auction process proposed by the Independent System and Market Operator of Pakistan (ISMO), making battery energy storage systems (BESS) mandatory for solar and wind projects participa…",
-   "image": "https://i.brecorder.com/large/2026/09/050633224662a05.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Detection billing system: Power Division decides to introduce reforms",
-   "url": "https://www.brecorder.com/news/40438017/detection-billing-system-power-division-decides-to-introduce-reforms",
-   "source": "Business Recorder",
-   "published": "2026-09-05T04:24:03+00:00",
-   "summary": "ISLAMABAD: The Power Division has decided to introduce fundamental reforms in the detection billing system to protect electricity consumers from inflated bills, unnecessary hardships and additional financial burdens. The initiative is part of the broader power sector reform process being pursued under Federal Minister …",
-   "image": "https://i.brecorder.com/large/2026/09/05061408ab75ed5.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
   {
    "title": "Higher food prices push up Sensitive Price Index",
    "url": "https://www.dawn.com/news/2027597/higher-food-prices-push-up-sensitive-price-index",
@@ -654,19 +628,6 @@
    "published": null,
    "summary": "PSX closes high as KSE-100 Index gains 399 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-closes-high.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan says exports only way out of an existential crisis, seeks ADB expertise",
-   "url": "https://arynews.tv/pakistan-says-exports-only-way-out-of-an-existential-crisis-seeks-adb-expertise",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan says exports only way out of an existential crisis, seeks ADB expertise",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Ahsan-Iqbal-ADB.jpg",
    "topics": [
     "Economy"
    ],
