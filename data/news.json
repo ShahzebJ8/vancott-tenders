@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-05T06:06:30+00:00",
- "count": 57,
+ "generated": "2026-09-05T10:53:09+00:00",
+ "count": 54,
  "relevant_count": 9,
- "domestic_count": 20,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (12)",
-  "Business Recorder": "ok (17)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (7)"
  },
@@ -99,32 +99,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SMEDA, SBP explore cluster-based lending for SMEs",
-   "url": "https://www.brecorder.com/news/40438042/smeda-sbp-explore-cluster-based-lending-for-smes",
-   "source": "Business Recorder",
-   "published": "2026-09-04T23:59:30+00:00",
-   "summary": "LAHORE: The Small and Medium Enterprises Development Authority (SMEDA), in collaboration with the State Bank of Pakistan (SBP), organised a seminar on cluster-based lending studies to explore practical ways of expanding financing opportunities for Pakistan’s Small and Medium Enterprises (SMEs). The seminar brought toge…",
-   "image": "https://i.brecorder.com/large/2026/09/05034338aa57bf3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP reacts to social media post",
-   "url": "https://www.brecorder.com/news/40437983/sbp-reacts-to-social-media-post",
-   "source": "Business Recorder",
-   "published": "2026-09-04T23:59:29+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has taken notice of a misleading headline on a social media platform suggesting that the Financial Action Task Force (FATF) has identified Raast as a channel for money laundering. The FATF report neither identifies Raast as a money-laundering mechanism nor raises any specific c…",
-   "image": "https://i.brecorder.com/large/2026/09/0501305139020cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -271,12 +245,25 @@
    "domestic": true
   },
   {
-   "title": "The discount nobody noticed",
-   "url": "https://www.brecorder.com/news/40437975/the-discount-nobody-noticed",
+   "title": "Localized ceasefire in effect to enable repairs to Zaporizhzhia nuclear plant, IAEA says",
+   "url": "https://www.brecorder.com/news/40438054/localized-ceasefire-in-effect-to-enable-repairs-to-zaporizhzhia-nuclear-plant-iaea-says",
    "source": "Business Recorder",
-   "published": "2026-09-05T02:23:36+00:00",
-   "summary": "EDITORIAL: A Power Division review has found that coal-fired power plants buying from the same international suppliers against the same recognised benchmark were receiving wildly different discounts, ranging from just $0.25 to $7.12 per metric ton. The government has now responded with a straightforward rule: plants mu…",
-   "image": "https://i.brecorder.com/large/2026/09/05072605fa0d488.webp",
+   "published": "2026-09-05T08:19:11+00:00",
+   "summary": "A local ceasefire brokered by the International Atomic Energy Agency (IAEA) has taken effect to enable repairs for the restoration of external power to the Zaporizhzhia nuclear power plant , the agency said on Saturday. The Russian-controlled nuclear power plant, located in Ukraine, has been without external power sinc…",
+   "image": "https://i.brecorder.com/large/2026/09/0513165664fe49f.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US embassy issues health alert for Cuba amid oil blockade, sanctions",
+   "url": "https://www.brecorder.com/news/40438050/us-embassy-issues-health-alert-for-cuba-amid-oil-blockade-sanctions",
+   "source": "Business Recorder",
+   "published": "2026-09-05T06:44:59+00:00",
+   "summary": "HAVANA: The US embassy in Havana issued a health alert for Cuba on Friday, warning travelers and residents of a spike in intestinal illnesses and diarrhea caused by failing water and electricity supply, even as the Trump administration continued to hold back fuel shipments necessary for power generation on the island. …",
+   "image": "https://i.brecorder.com/large/2026/09/0511431430fe32c.gif",
    "topics": [
     "Energy & power"
    ],
@@ -576,32 +563,6 @@
    "published": "2026-09-04T03:14:50+00:00",
    "summary": "MUMBAI: The Indian rupee’s rally , propelled by the central bank’s dollar sales and bolstered by hefty inflows from one-off measures, will face ​a familiar foe on Friday in rising oil prices. The rupee is ‌expected to open in the 94.55 to 94.60 range, per traders, having settled at 94.4850 to the dollar on Thursday, wh…",
    "image": "https://i.brecorder.com/large/2026/09/04081322e3960e2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asian shares climb ahead of US jobs data, Fed's Waller soothes bonds",
-   "url": "https://www.brecorder.com/news/40437901/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds",
-   "source": "Business Recorder",
-   "published": "2026-09-04T03:10:52+00:00",
-   "summary": "SYDNEY: Asian shares rose on Friday as investors embraced a global rally before crucial U.S. jobs data, while bonds found some much needed ​relief after a top Federal Reserve official cooled rate hike fears and dragged the dollar lower. The dollar’s retreat turbocharged a rally in the yen, ‌which has gained 2.6% this w…",
-   "image": "https://i.brecorder.com/large/2026/09/040809496b54a8c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yen headed for strongest week in a month, dollar flat ahead of payroll data",
-   "url": "https://www.brecorder.com/news/40437900/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data",
-   "source": "Business Recorder",
-   "published": "2026-09-04T03:05:45+00:00",
-   "summary": "HONG KONG: The Japanese yen clung to its gains ​against the US dollar on Friday and was on track for its strongest week in more ‌than a month, as traders ramped up bets on a Bank of Japan interest rate hike and broader currency markets awaited US payrolls data. The Japanese yen strengthened to as much as 155.25 per dol…",
-   "image": "https://i.brecorder.com/large/2026/09/0408015664abb23.webp",
    "topics": [
     "Economy"
    ],
