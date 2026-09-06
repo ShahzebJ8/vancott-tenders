@@ -1,15 +1,54 @@
 {
- "generated": "2026-09-06T00:36:24+00:00",
+ "generated": "2026-09-06T05:31:32+00:00",
  "count": 47,
- "relevant_count": 6,
- "domestic_count": 15,
+ "relevant_count": 5,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (12)",
+  "Dawn": "ok (13)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "PM lauds Rs3bn export insurance initiative",
+   "url": "https://www.dawn.com/news/2027776/pm-lauds-rs3bn-export-insurance-initiative",
+   "source": "Dawn",
+   "published": "2026-09-06T04:54:42+00:00",
+   "summary": "LAHORE: Prime Minister Shehbaz Sharif on Saturday welcomed the launch of export insurance coverage by the Export Development Fund and the Export-Import Bank of Pakistan, saying the facility would help SMEs expand the country’s exports. Chairing a meeting on the EDF, he said the Rs3 billion Risk Pool would expand access…",
+   "image": "https://i.dawn.com/large/2026/09/060953545dc5324.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt clears 11,695 net-metering applications",
+   "url": "https://www.dawn.com/news/2027777/govt-clears-11695-net-metering-applications",
+   "source": "Dawn",
+   "published": "2026-09-05T23:08:44+00:00",
+   "summary": "ISLAMABAD: The federal government has intensified its efforts to promote renewable energy by resolving over 11,000 pending net-metering applications. The move reinforces state policy to foster solar growth and protect consumers’ rights while establishing a transparent, sustainable power system. This major administrativ…",
+   "image": "https://i.dawn.com/large/2026/09/060941109ba4b89.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Maritime facilitation centre proposed to cut delays",
+   "url": "https://www.dawn.com/news/2027772/maritime-facilitation-centre-proposed-to-cut-delays",
+   "source": "Dawn",
+   "published": "2026-09-05T23:08:44+00:00",
+   "summary": "ISLAMABAD: In a bid to cut delays and streamline trade procedures, Maritime Affairs Minister Muhammad Junaid Anwar Chaudhry has proposed establishing a business facilitation centre to bring port-related services for exporters and importers under one roof. The minister made the proposal while chairing a meeting to revie…",
+   "image": "https://i.dawn.com/large/2026/09/06095804f221e6d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Auto imports under personal baggage",
    "url": "https://www.brecorder.com/news/40438089/auto-imports-under-personal-baggage",
@@ -180,32 +219,6 @@
    "domestic": true
   },
   {
-   "title": "Punjab’s budgetary borrowing jumps 145pc",
-   "url": "https://www.dawn.com/news/2027090/punjabs-budgetary-borrowing-jumps-145pc",
-   "source": "Dawn",
-   "published": "2026-09-03T02:26:24+00:00",
-   "summary": "KARACHI: Punjab more than doubled its borrowing from banks for budgetary support during the first seven weeks of the current fiscal year, reflecting growing liquidity pressures on the country’s largest province. The latest State Bank data shows that Punjab borrowed Rs753.4 billion between July 1 and Aug 21 compared to …",
-   "image": "https://i.dawn.com/large/2026/09/03082715bbf6fcc.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Stocks fall below 175,000 on geopolitical tensions",
-   "url": "https://www.dawn.com/news/2027087/stocks-fall-below-175000-on-geopolitical-tensions",
-   "source": "Dawn",
-   "published": "2026-09-03T02:20:59+00:00",
-   "summary": "KARACHI: Escalation in US military attacks and Iranian retaliation pushed oil prices higher, fuelling global economic uncertainty, especially in Pakistan, which relies on energy imports via the Strait of Hormuz, triggering panic-selling that dragged the benchmark index below the 175,000 barrier as hopes dimmed for any …",
-   "image": "https://i.dawn.com/large/2026/09/0307341182f0a1c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "The IWT stands",
    "url": "https://www.brecorder.com/news/40438090/the-iwt-stands",
    "source": "Business Recorder",
@@ -225,19 +238,6 @@
    "published": "2026-09-05T21:30:08+00:00",
    "summary": "BENGALURU: India’s top court dismissed market regulator’s appeals against the National Stock Exchange of India, removing a major regulatory hurdle for NSE’s planned IPO, CNBC TV-18 reported on Thursday, citing news wire agency Informist. The appeals are related to the exchange’s co-location data centre and dark fibre c…",
    "image": "https://i.brecorder.com/large/2026/09/060106018d16170.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "BD signs USD1bn IsDB financing deal to expand refinery",
-   "url": "https://www.brecorder.com/news/40438116/bd-signs-usd1bn-isdb-financing-deal-to-expand-refinery",
-   "source": "Business Recorder",
-   "published": "2026-09-05T21:30:08+00:00",
-   "summary": "DHAKA: Bangladesh signed a USD1.004 billion financing agreement with the Islamic Development Bank on Thursday to modernize and expand Eastern Refinery, a project aimed at bolstering energy security and reducing reliance on imported refined petroleum products. The financing package will support the expansion of the stat…",
-   "image": "https://i.brecorder.com/large/2026/09/06010730ddcab0f.webp",
    "topics": [
     "Economy"
    ],
