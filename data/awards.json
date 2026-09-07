@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T00:42:49+00:00",
+ "generated": "2026-09-07T05:41:46+00:00",
  "count": 567,
  "with_value": 549,
  "with_winner": 213,
@@ -10797,6 +10797,24 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000003269",
+   "tender_no": "TS0000010222E",
+   "reference": "P70496",
+   "title": "Repair Maintenance work of Machinery & Equipment, Computer Hardware / Software, Furniture & Fixture, Office Building, Transport etc During the Financial Year 2026-27 Repair/Maintenance",
+   "organisation": "Establishment Division Management Services Wing, Establishment Division, Islamabad - Pakistan",
+   "bid_count": 13,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-07",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003269",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003262",
    "tender_no": "TS0000009790E",
    "reference": "P40763",
@@ -11415,6 +11433,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003228",
+   "tender_no": "TS0000008459E",
+   "reference": "IFB for Routine Maintenance Works for Contract No. (RM-PS-2026-27-10-01 to RM-PS-2026-27-10-139) in Punjab-South Region",
+   "title": "IFB for Routine Maintenance Works for Contract No. (RM-PS-2026-27-10-01 to RM-PS-2026-27-10-139) in Punjab-South Region Repair/Maintenance",
+   "organisation": "Ministry of Communications National Highway Authority (NHA) Islamabad - Pakistan",
+   "bid_count": 102,
+   "lowest": [
+    "Naseer Ahmed Assoc"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-04",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003228",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003227",
    "tender_no": "TS0000010541E",
    "reference": "Farthwork Leveling of Land for Layout of New Building /01 (2026-2027)",
@@ -11947,6 +11985,26 @@
    "city": "Multan",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003201",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003200",
+   "tender_no": "TS0000008973E",
+   "reference": "IFB for Rehabilitation and Construction of Faisalabad-Pindi Bhattian Motorway (M-4) and Improvement and Upgradation of Road from Lodhran to Multan (N-5)",
+   "title": "IFB for Rehabilitation and Construction of Faisalabad-Pindi Bhattian Motorway (M-4) and Improvement and Upgradation of Road from Lodhran to Multan (N-5) Repair/Maintenance",
+   "organisation": "Ministry of Communications National Highway Authority (NHA) Islamabad - Pakistan",
+   "bid_count": 7,
+   "lowest": [
+    "NLC Engineers & M/s Saadullah Khan & Brothers"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-03",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003200",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -49752,62 +49810,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001130",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001129",
-   "tender_no": "TS0000007262E",
-   "reference": "PLL/IMP/LNGT66",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASISAC Petroleum, Oil & Lubricants",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "BP Singapore"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-04",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001129",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001128",
-   "tender_no": "TS0000007262E",
-   "reference": "PLL/IMP/LNGT66",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASISAC Petroleum, Oil & Lubricants Ministry of Energy (Petroleum Division)",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-04",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001128",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001127",
-   "tender_no": "TS0000004731E",
-   "reference": "INFRA-2026-01",
-   "title": "REHABILITATION & UPGRADATION OF NCA AND LCCA GROUND LAHORE (CONSTRUCTION WORKS) Civil Works Pakistan Cricket Board",
-   "organisation": "Pakistan Cricket Board Procurement Department Pakistan Cricket Board (PCB) Lahore - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-04",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001127",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
