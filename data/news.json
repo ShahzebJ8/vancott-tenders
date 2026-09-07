@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-07T16:40:11+00:00",
- "count": 53,
+ "generated": "2026-09-07T20:24:47+00:00",
+ "count": 51,
  "relevant_count": 8,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (8)"
+  "ARY News": "ok (7)"
  },
  "stories": [
   {
@@ -304,19 +304,6 @@
    "published": "2026-09-07T11:59:54+00:00",
    "summary": "NEW DELHI: India’s defence acquisition council approved proposals worth about 1.10 trillion rupees ($11.64 billion) on Monday, the defence ministry said in a statement. The approval was granted for acquisition of items including chemical, biological, radiological and nuclear reconnaissance vehicles, high mobility vehic…",
    "image": "https://i.brecorder.com/large/2026/09/07165937bd8a423.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties, TASS reports",
-   "url": "https://www.brecorder.com/news/40438305/north-korea-and-russia-open-their-first-road-bridge-a-symbol-of-expanding-ties-tass-reports",
-   "source": "Business Recorder",
-   "published": "2026-09-07T08:59:36+00:00",
-   "summary": "MOSCOW: North Korea and Russia opened their first road bridge on Monday, Russia’s TASS state news agency reported, a structure which spans the Tumen river and which both sides cast as an important milestone in their strategic partnership. The bridge is located near the existing “Friendship Bridge”, a rail bridge which …",
-   "image": "https://i.brecorder.com/large/2026/09/07135826f73bef3.gif",
    "topics": [
     "Economy"
    ],
@@ -683,19 +670,6 @@
    "published": null,
    "summary": "Inflation rises by 0.65% in Pakistan in one week",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Inflation.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX closes high as KSE-100 Index gains 399 points",
-   "url": "https://arynews.tv/psx-closes-high-as-kse-100-index-gains-399-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX closes high as KSE-100 Index gains 399 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-closes-high.jpg",
    "topics": [
     "Economy"
    ],
