@@ -1,113 +1,22 @@
 {
- "generated": "2026-09-07T05:41:51+00:00",
- "count": 52,
- "relevant_count": 15,
- "domestic_count": 20,
+ "generated": "2026-09-07T11:29:14+00:00",
+ "count": 44,
+ "relevant_count": 8,
+ "domestic_count": 12,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (7)"
  },
  "stories": [
   {
-   "title": "Balakot HPP to generate Rs15bn annually for KP, says provincial minister",
-   "url": "https://www.brecorder.com/news/40438178/balakot-hpp-to-generate-rs15bn-annually-for-kp-says-provincial-minister",
+   "title": "Japan to provide $16.4mn to strengthen flood protection in Pakistan",
+   "url": "https://www.brecorder.com/news/40438307/japan-to-provide-164mn-to-strengthen-flood-protection-in-pakistan",
    "source": "Business Recorder",
-   "published": "2026-09-07T02:29:52+00:00",
-   "summary": "PESHAWAR: Construction work is underway at a rapid pace on 300 MW Balakot Hydropower Project, the province’s largest hydropower project in Mansehra district of Khyber Pakhtunkhwa, which will prove to be a game-changer in stabilizing the province’s economy and creating new employment opportunities. Moreover, Balakot Hyd…",
-   "image": "https://i.brecorder.com/large/2026/09/07073052a1d6f33.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PPDA terms petrol pump sealing by KMC illegal",
-   "url": "https://www.brecorder.com/news/40438262/ppda-terms-petrol-pump-sealing-by-kmc-illegal",
-   "source": "Business Recorder",
-   "published": "2026-09-07T02:06:04+00:00",
-   "summary": "KARACHI: The Pakistan Petroleum Dealers Association (PPDA) has demanded that Karachi Mayor Barrister Murtaza Wahab immediately order the opening of petrol pumps sealed by the Enforcement and Implementation Department of the Karachi Metropolitan Corporation (KMC), terming the action illegal. The association also called …",
-   "image": "https://i.brecorder.com/large/2026/09/0707051974603d3.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "IESCO notifies power suspension programme",
-   "url": "https://www.brecorder.com/news/40438254/iesco-notifies-power-suspension-programme",
-   "source": "Business Recorder",
-   "published": "2026-09-07T01:07:23+00:00",
-   "summary": "ISLAMABAD: The Islamabad Electric Supply Company (IESCO) on Sunday issued a power suspension programme for Monday in various areas of its region due to necessary maintenance and routine development work. According to an IESCO spokesperson, in Islamabad Circle, electricity supply will remain suspended from 7 am to 11 am…",
-   "image": "https://i.brecorder.com/large/2026/09/070607096a86578.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Riverfront hotel to be constructed at Kamran's Baradari",
-   "url": "https://www.brecorder.com/news/40438259/riverfront-hotel-to-be-constructed-at-kamrans-baradari",
-   "source": "Business Recorder",
-   "published": "2026-09-07T01:06:24+00:00",
-   "summary": "LAHORE: The historic Kamran Ki Baradari in Lahore is set to undergo restoration and beautification following fresh directives from the provincial housing department. The centuries-old Mughal monument, situated in the River Ravi, will soon be revived as a cultural landmark with enhanced facilities for visitors. Horticul…",
-   "image": "https://i.brecorder.com/large/2026/09/070559538925420.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "International Travelers Vaccination Centre to be set up at Lahore airport",
-   "url": "https://www.brecorder.com/news/40438255/international-travelers-vaccination-centre-to-be-set-up-at-lahore-airport",
-   "source": "Business Recorder",
-   "published": "2026-09-07T01:05:23+00:00",
-   "summary": "LAHORE: An International Travelers Vaccination Centre is set to be established at Allama Iqbal International Airport to facilitate passengers required to undergo vaccination before traveling abroad, as part of the federal government’s initiative to make vaccination mandatory for international travelers. According to of…",
-   "image": "https://i.brecorder.com/large/2026/09/070605120ffc9b0.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR sets timelines to clear deferred ST refund claims",
-   "url": "https://www.brecorder.com/news/40438246/fbr-sets-timelines-to-clear-deferred-st-refund-claims",
-   "source": "Business Recorder",
-   "published": "2026-09-06T23:49:48+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has prescribed stage-wise timelines for processing and disposal of sales tax refund claims deferred through its “FASTER” system, directing field formations to clear the backlog and prevent accumulation of pending claims. According to the FBR’s instructions issued to the fie…",
-   "image": "https://i.brecorder.com/large/2026/09/070404349a01896.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Digital P2G payments gain momentum",
-   "url": "https://www.brecorder.com/news/40438247/digital-p2g-payments-gain-momentum",
-   "source": "Business Recorder",
-   "published": "2026-09-06T23:49:48+00:00",
-   "summary": "KARACHI: Person-to-Government (P2G) payments through digital channels are gaining momentum, with 1LINK alone processing around Rs13.5 trillion in tax and other government payments during 2025. As per industry statistics, the use of digital channels for tax, other government payments and revenue collection in Pakistan i…",
-   "image": "https://i.brecorder.com/large/2026/09/0704081428a68f8.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "ML-1 Karachi-Rohri section upgradation: ADB mulling up to USD1.1bn financing",
-   "url": "https://www.brecorder.com/news/40438250/ml-1-karachi-rohri-section-upgradation-adb-mulling-up-to-usd11bn-financing",
-   "source": "Business Recorder",
-   "published": "2026-09-06T23:49:48+00:00",
-   "summary": "ISLAMABAD: The Asian Development Bank (ADB) is considering up to USD 1.1 billion in financing for upgrading Pakistan Railways’ Main Line-1 (ML-1) Karachi-Rohri section. The proposed investment is aimed at transforming the country’s key passenger and freight corridor through climate-resilient infrastructure, modern sign…",
-   "image": "https://i.brecorder.com/large/2026/09/070419050f3863d.webp",
+   "published": "2026-09-07T09:08:03+00:00",
+   "summary": "Japan has agreed to provide Pakistan a $16.4 million grant to strengthen flood protection infrastructure in Sindh, with the project focused on improving and reinforcing the Old Abad Bund along the right bank of the Indus River in Larkana, Sindh. The development came during a ceremony between the Government of Pakistan …",
+   "image": "https://i.brecorder.com/large/2026/09/07140639d1aa0e5.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -245,19 +154,6 @@
    "domestic": true
   },
   {
-   "title": "Pakistan rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40437940/pakistan-rupee-registers-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-04T14:41:02+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Friday. The local unit closed the day at 277.41, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.42 against the dollar. Moreover, the Japanese yen clung to its gains ​against the US dollar on Friday and was…",
-   "image": "https://i.brecorder.com/large/2026/09/041527524dd9834.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Trade gap swells 18pc to $7.1bn",
    "url": "https://www.dawn.com/news/2027328/trade-gap-swells-18pc-to-71bn",
    "source": "Dawn",
@@ -271,10 +167,140 @@
    "domestic": true
   },
   {
-   "title": "Pakistan issues tender to sell and export 107,739 tons sugar, traders say",
-   "url": "https://www.brecorder.com/news/40438277/pakistan-issues-tender-to-sell-and-export-107739-tons-sugar-traders-say",
+   "title": "PSX: KSE-100 sheds nearly 1% amid selling pressure",
+   "url": "https://www.brecorder.com/news/40438276/psx-kse-100-sheds-nearly-1-amid-selling-pressure",
    "source": "Business Recorder",
-   "published": "2026-09-07T05:34:25+00:00",
+   "published": "2026-09-07T10:55:46+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) remained under pressure throughout Monday’s trading session, with the benchmark KSE-100 Index shedding nearly 1%. The market opened on a positive note, and the benchmark initially climbed to an intraday high of 175,353.67 but failed to sustain gains, with selling pressure intensifying …",
+   "image": "https://i.brecorder.com/large/2026/09/07100224744dbea.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties, TASS reports",
+   "url": "https://www.brecorder.com/news/40438305/north-korea-and-russia-open-their-first-road-bridge-a-symbol-of-expanding-ties-tass-reports",
+   "source": "Business Recorder",
+   "published": "2026-09-07T08:59:36+00:00",
+   "summary": "MOSCOW: North Korea and Russia opened their first road bridge on Monday, Russia’s TASS state news agency reported, a structure which spans the Tumen river and which both sides cast as an important milestone in their strategic partnership. The bridge is located near the existing “Friendship Bridge”, a rail bridge which …",
+   "image": "https://i.brecorder.com/large/2026/09/07135826f73bef3.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "European shares dip as rise in oil prices weighs; Novartis slips",
+   "url": "https://www.brecorder.com/news/40438302/european-shares-dip-as-rise-in-oil-prices-weighs-novartis-slips",
+   "source": "Business Recorder",
+   "published": "2026-09-07T08:02:19+00:00",
+   "summary": "European shares were subdued on Monday as rising oil prices following fresh US-Iran attacks stoked inflation concerns and reinforced expectations that the European Central Bank could raise interest rates later this week. The pan-European STOXX 600 fell 0.1% to 649.17 points by 0711 GMT. The Swiss main index dropped 1.2…",
+   "image": "https://i.brecorder.com/large/2026/09/07130208d0569fd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand subdued ahead of key economic releases this week",
+   "url": "https://www.brecorder.com/news/40438301/south-african-rand-subdued-ahead-of-key-economic-releases-this-week",
+   "source": "Business Recorder",
+   "published": "2026-09-07T08:00:27+00:00",
+   "summary": "JOHANNESBURG: The South African rand was subdued in early trade on Monday, ​as investors awaited a raft of ‌economic data this week, including gross domestic product, current account, mining and manufacturing figures, for ​clues on the health of the ​economy. At 0655 GMT, the rand traded ⁠at 15.9675 against the dollar …",
+   "image": "https://i.brecorder.com/large/2026/09/071300096afae20.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai August headline CPI rises 2.53% on year, above forecast",
+   "url": "https://www.brecorder.com/news/40438294/thai-august-headline-cpi-rises-253-on-year-above-forecast",
+   "source": "Business Recorder",
+   "published": "2026-09-07T07:08:36+00:00",
+   "summary": "BANGKOK: Thailand’s headline consumer price index rose 2.53% in August from a year earlier, following an annual rise of 1.95% in the previous month, the commerce ministry said on Monday. The August reading compared with a forecast increase of 2.37% in a Reuters poll, and was inside the central bank’s target inflation r…",
+   "image": "https://i.brecorder.com/large/2026/09/07120823e490d30.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Aussie hovers near 4-month peak against dollar, close to 13-year top on kiwi",
+   "url": "https://www.brecorder.com/news/40438293/aussie-hovers-near-4-month-peak-against-dollar-close-to-13-year-top-on-kiwi",
+   "source": "Business Recorder",
+   "published": "2026-09-07T07:06:16+00:00",
+   "summary": "SYDNEY: The Australian dollar hovered near a four-month peak on Monday as traders eyed two upcoming central bank appearances and US inflation data that could decide if the Antipodean currency’s upward trend has further to run. The Aussie was steady at $0.7202, having gained 0.6% last week to resume its upward trend fro…",
+   "image": "https://i.brecorder.com/large/2026/09/07120606f0bd93e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korean shares start week higher as chipmakers jump; won hits near 2-year high",
+   "url": "https://www.brecorder.com/news/40438290/south-korean-shares-start-week-higher-as-chipmakers-jump-won-hits-near-2-year-high",
+   "source": "Business Recorder",
+   "published": "2026-09-07T06:56:47+00:00",
+   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Monday, driven by chipmakers on optimism around strong demand for AI investments, while the won hit a near two-year high amid expectations of continued dollar selling by major exporters. The benchmark KOSPI was up 196.57 points, or 2.94%, at…",
+   "image": "https://i.brecorder.com/large/2026/09/07115549ab5ce7b.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yuan hits fresh 3-1/2-year high despite PBOC's weak guidance",
+   "url": "https://www.brecorder.com/news/40438288/yuan-hits-fresh-3-12-year-high-despite-pbocs-weak-guidance",
+   "source": "Business Recorder",
+   "published": "2026-09-07T06:51:46+00:00",
+   "summary": "HONG KONG: China’s yuan strengthened to a 3-1/2-year high against the dollar on Monday, defying a near-record weak-side gap in the central bank’s daily midpoint guidance as demand for the greenback remained subdued. The yuan strengthened to a high of 6.7050 per dollar in early trades, its strongest level since February…",
+   "image": "https://i.brecorder.com/large/2026/09/071151236060df5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
+   "url": "https://www.brecorder.com/news/40438287/seven-indonesian-airports-remain-shut-due-to-volcanic-ash-from-anak-krakatau",
+   "source": "Business Recorder",
+   "published": "2026-09-07T06:50:18+00:00",
+   "summary": "TANGERANG: Seven Indonesian airports, including two serving Jakarta, remained closed on Monday morning because of volcanic ash from eruptions at Mount Anak Krakatau, the transport minister said. Ash from Anak Krakatau, which sits halfway between Java and Sumatra islands, has blanketed Jakarta and several surrounding ar…",
+   "image": "https://i.brecorder.com/large/2026/09/07114845eab8e6f.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Monday",
+   "url": "https://www.brecorder.com/news/40438279/thai-bahtus-dollar-weaker-on-monday",
+   "source": "Business Recorder",
+   "published": "2026-09-07T06:24:21+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Monday. At 0216 GMT, the baht was 0.18% lower at 32.94 versus the dollar, after trading in a range of 32.880 to 32.990. It ended the previous session at 32.88 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/07112306eceac7b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan issues tender to export 107,739 tons sugar, traders say",
+   "url": "https://www.brecorder.com/news/40438277/pakistan-issues-tender-to-export-107739-tons-sugar-traders-say",
+   "source": "Business Recorder",
+   "published": "2026-09-07T05:46:39+00:00",
    "summary": "HAMBURG: Pakistan’s state agency the Trading Corporation of Pakistan (TCP) has issued a tender to sell and export 107,739 metric tons of white refined sugar, European traders said on Monday. The deadline for submission of price offers is September 28. The sale is being made of previously imported sugar stocks to ease a…",
    "image": "https://i.brecorder.com/large/2026/09/071033457e12b87.webp",
    "topics": [
@@ -282,19 +308,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 sheds nearly 800 points in early trade",
-   "url": "https://www.brecorder.com/news/40438276/psx-kse-100-sheds-nearly-800-points-in-early-trade",
-   "source": "Business Recorder",
-   "published": "2026-09-07T05:21:38+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding nearly 800 points during the opening minutes of trading on Monday. At 10:15am, the benchmark index was hovering at 174,556.32, a decrease of 772.50 or 0.44%. Selling was observed in key sectors, including autom…",
-   "image": "https://i.brecorder.com/large/2026/09/07100224744dbea.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -360,19 +373,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Seminar urges gender tagging of education budget",
-   "url": "https://www.brecorder.com/news/40438261/seminar-urges-gender-tagging-of-education-budget",
-   "source": "Business Recorder",
-   "published": "2026-09-07T00:52:05+00:00",
-   "summary": "PESHAWAR: A post-budget seminar focused on the budget allocations for girls’ education in the fiscal year 2026–27, called for gender tagging of education budget and stronger oversight mechanisms to ensure effective utilisation of financial resources and address barriers to girls’ access to quality education. The semina…",
-   "image": "https://i.brecorder.com/large/2026/09/07055044d979df6.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -454,116 +454,12 @@
    "domestic": false
   },
   {
-   "title": "India's NSE targets listing in week of September 21 after IPO clearance, sources say",
-   "url": "https://www.brecorder.com/news/40437953/indias-nse-targets-listing-in-week-of-september-21-after-ipo-clearance-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-04T13:47:51+00:00",
-   "summary": "India’s National Stock Exchange is planning to list in the week starting September 21, two sources familiar with the matter said, after the markets regulator cleared its long-awaited IPO on Friday. The exchange is expected to begin book-building, a process to gauge investor demand and determine the IPO price, on Septem…",
-   "image": "https://i.brecorder.com/large/2026/09/04184738138aba3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's REC set to debut tokenised corporate bond sale next week, bankers say",
-   "url": "https://www.brecorder.com/news/40437946/indias-rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-04T11:27:15+00:00",
-   "summary": "MUMBAI: India will launch tokenized corporate bonds next week, as state-run REC aims to raise 5 billion rupees ($52.92 million) through bonds maturing in one year and eight months, three merchant bankers said on Friday. This would be India’s first debt issue to use blockchain technology to enable instant settlement of …",
-   "image": "https://i.brecorder.com/large/2026/09/04162625d6833ee.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper edges up on thinning stocks, eyes 10-week winning streak",
-   "url": "https://www.brecorder.com/news/40437945/copper-edges-up-on-thinning-stocks-eyes-10-week-winning-streak",
-   "source": "Business Recorder",
-   "published": "2026-09-04T11:23:15+00:00",
-   "summary": "Copper ticked higher on Friday and was set to post a 10th straight weekly rise, as thinning inventories outside the U.S. and a soft dollar lent support. Benchmark three-month copper on the London Metal Exchange was up 0.3% at $14,373 a metric ton as of 0900 GMT, moving closer to its all-time peak of $14,527.50. The met…",
-   "image": "https://i.brecorder.com/large/2026/09/0416230073d7811.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India debt investors call for higher short-term borrowing to absorb excess cash, sources say",
-   "url": "https://www.brecorder.com/news/40437943/india-debt-investors-call-for-higher-short-term-borrowing-to-absorb-excess-cash-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-04T11:09:51+00:00",
-   "summary": "MUMBAI: Indian bond market participants have suggested that the government increase supply in the shorter duration, as most lenders are holding surplus rupee liquidity and looking for investment avenues, three treasury sources aware of the matter said on Friday. All the officials requested anonymity as they are not aut…",
-   "image": "https://i.brecorder.com/large/2026/09/04160905be2f923.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares post weekly losses as elevated crude keeps sentiment subdued",
-   "url": "https://www.brecorder.com/news/40437942/indian-shares-post-weekly-losses-as-elevated-crude-keeps-sentiment-subdued",
-   "source": "Business Recorder",
-   "published": "2026-09-04T11:06:08+00:00",
-   "summary": "Indian shares rose on Friday after declining for four straight sessions but logged weekly losses as high crude prices and bond yields earlier in the week outweighed robust domestic growth and tax-collection data. The Nifty 50 rose 0.1% to 23,897.7, while the Sensex gained 0.48% to 76,515.43. Ahead of the closing auctio…",
-   "image": "https://i.brecorder.com/large/2026/09/041605564176709.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee logs best week in five as RBI muscle power, foreign deposits support",
-   "url": "https://www.brecorder.com/news/40437941/indian-rupee-logs-best-week-in-five-as-rbi-muscle-power-foreign-deposits-support",
-   "source": "Business Recorder",
-   "published": "2026-09-04T11:03:55+00:00",
-   "summary": "MUMBAI: The Indian rupee ended largely unchanged Friday, but posted its best weekly performance against the U.S. dollar in five weeks, helped by stronger-than-expected dollar inflows into the central bank’s special schemes. The Indian rupee moved in a narrow six paisa range before ending at 94.4850, aided by the Reserv…",
-   "image": "https://i.brecorder.com/large/2026/09/04160344cf75ffb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Why India's strong GDP growth is raising eyebrows",
    "url": "https://www.dawn.com/news/2027457/why-indias-strong-gdp-growth-is-raising-eyebrows",
    "source": "Dawn",
    "published": "2026-09-04T11:00:41+00:00",
    "summary": "India’s unexpectedly strong economic growth has sparked a debate after an ex-bureaucrat questioned whether the expansion was overstated and a former central bank chief asked why strong expansion had not shown up in jobs and investment. The government defended its numbers. The world’s fifth-biggest economy grew 7.8 per …",
    "image": "https://i.dawn.com/large/2026/09/041559452df0cab.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand treads water before US jobs data as markets assess Fed rate path",
-   "url": "https://www.brecorder.com/news/40437927/south-african-rand-treads-water-before-us-jobs-data-as-markets-assess-fed-rate-path",
-   "source": "Business Recorder",
-   "published": "2026-09-04T07:10:55+00:00",
-   "summary": "JOHANNESBURG: The South African rand was muted in early trade on Friday as attention ​turned to highly awaited U.S. jobs data ‌for clues on the Federal Reserve’s next interest rate decision. At 0625 GMT the rand traded at 15.9975 against ​the dollar , little changed from its ​previous close. The US nonfarm payrolls rep…",
-   "image": "https://i.brecorder.com/large/2026/09/04121029549c53b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan firms to 3-1/2-year high on soft dollar despite weak fix",
-   "url": "https://www.brecorder.com/news/40437918/yuan-firms-to-3-12-year-high-on-soft-dollar-despite-weak-fix",
-   "source": "Business Recorder",
-   "published": "2026-09-04T06:50:17+00:00",
-   "summary": "SHANGHAI: China’s yuan strengthened on Friday to a fresh 3-1/2-year high against the dollar, underpinned by broad dollar weakness, even as the central bank set the official midpoint with the largest weak bias in six months. The spot yuan opened at 6.7180 per dollar and was last trading at 6.7165 as of 0243 GMT, 13 pips…",
-   "image": "https://i.brecorder.com/large/2026/09/041149581cbd9e2.webp",
    "topics": [
     "Economy"
    ],
