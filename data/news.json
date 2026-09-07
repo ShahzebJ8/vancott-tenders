@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-07T11:29:14+00:00",
- "count": 44,
+ "generated": "2026-09-07T16:40:11+00:00",
+ "count": 53,
  "relevant_count": 8,
- "domestic_count": 12,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (7)"
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40438311/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-07T15:13:35+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar on Monday. The local unit closed the day at 277.40, a gain of Re0.01 against the greenback. On Friday , the Pakistani rupee settled at 277.41 against the dollar. Internationally, the US dollar was on shaky ground on ​Monday, despite a ramp-up in US r…",
+   "image": "https://i.brecorder.com/large/2026/09/071646383c3338b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Japan to provide $16.4mn to strengthen flood protection in Pakistan",
    "url": "https://www.brecorder.com/news/40438307/japan-to-provide-164mn-to-strengthen-flood-protection-in-pakistan",
@@ -167,12 +180,130 @@
    "domestic": true
   },
   {
+   "title": "Gulf equities mixed amid US-Iran flare-ups",
+   "url": "https://www.brecorder.com/news/40438332/gulf-equities-mixed-amid-us-iran-flare-ups",
+   "source": "Business Recorder",
+   "published": "2026-09-07T16:33:15+00:00",
+   "summary": "Gulf stock markets were mixed on Monday as escalating U.S.-Iran tensions and fresh attacks on shipping in the region weighed on investor sentiment. After a weekend of tit-for-tat maritime strikes, Iran warned on Monday that regional energy infrastructure remained “sprawling, accessible, and exposed” to retaliation agai…",
+   "image": "https://i.brecorder.com/large/2026/09/07213133688e054.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SE Fruits & Vegetables secures PSX approval for IPO to raise up to Rs1.92bn",
+   "url": "https://www.brecorder.com/news/40438326/se-fruits-amp-vegetables-secures-psx-approval-for-ipo-to-raise-up-to-rs192bn",
+   "source": "Business Recorder",
+   "published": "2026-09-07T14:39:33+00:00",
+   "summary": "SE Fruits & Vegetables Limited has received approval from the Pakistan Stock Exchange (PSX) for its initial public offering (IPO), with the horticulture exporter aiming to raise between Rs1.2 billion and Rs1.92 billion to fund working capital and expand its processing and export operations. The Sargodha-based company p…",
+   "image": "https://i.brecorder.com/large/2026/09/07193701f75aee2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "PSX: KSE-100 sheds nearly 1% amid selling pressure",
    "url": "https://www.brecorder.com/news/40438276/psx-kse-100-sheds-nearly-1-amid-selling-pressure",
    "source": "Business Recorder",
-   "published": "2026-09-07T10:55:46+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) remained under pressure throughout Monday’s trading session, with the benchmark KSE-100 Index shedding nearly 1%. The market opened on a positive note, and the benchmark initially climbed to an intraday high of 175,353.67 but failed to sustain gains, with selling pressure intensifying …",
+   "published": "2026-09-07T14:09:50+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) remained under pressure throughout Monday’s trading session, with the benchmark KSE-100 Index shedding nearly 1%. The market opened on a positive note, and the KSE-100 initially climbed to an intra-day high of 175,353.67 but failed to sustain gains, with selling pressure intensifying i…",
    "image": "https://i.brecorder.com/large/2026/09/07100224744dbea.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say",
+   "url": "https://www.brecorder.com/news/40438321/indian-central-bank-unloaded-at-least-8-billion-last-week-to-anchor-rupee-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-07T12:45:10+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India ramped up its FX intervention last week, selling at least $8 billion to bolster the rupee, six bankers said, as a deluge of policy-driven dollar inflows gave the central bank more room to support the currency. The bankers estimated the RBI’s market presence at between $8 billion and $1…",
+   "image": "https://i.brecorder.com/large/2026/09/0717445670080a7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Saudi PIF launches firm to develop tourism, residential area on Gulf coast",
+   "url": "https://www.brecorder.com/news/40438319/saudi-pif-launches-firm-to-develop-tourism-residential-area-on-gulf-coast",
+   "source": "Business Recorder",
+   "published": "2026-09-07T12:36:16+00:00",
+   "summary": "DUBAI: Saudi Arabia’s Public Investment Fund (PIF) said on Monday it has launched a real estate company to develop tourism on the Al-Khafji coastline on the Gulf, as the sovereign wealth fund pours billions of dollars into infrastructure projects. Saudi Arabia is investing in infrastructure as part of its plans to tran…",
+   "image": "https://i.brecorder.com/large/2026/09/07173544655ecef.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's vegetable oil imports strain port storage, delaying unloading",
+   "url": "https://www.brecorder.com/news/40438318/indias-vegetable-oil-imports-strain-port-storage-delaying-unloading",
+   "source": "Business Recorder",
+   "published": "2026-09-07T12:25:02+00:00",
+   "summary": "MUMBAI: India’s aggressive vegetable-oil buying has led to congestion at major ports, delaying vessel unloading by as much as 10 days as shore tanks fill and refiners struggle to clear incoming cargo, industry officials told Reuters. The congestion is expected to prompt Indian refiners to scale back purchases of soyoil…",
+   "image": "https://i.brecorder.com/large/2026/09/07172427cb19423.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee ends flat, hemmed in by RBI intervention, oil pangs",
+   "url": "https://www.brecorder.com/news/40438317/indian-rupee-ends-flat-hemmed-in-by-rbi-intervention-oil-pangs",
+   "source": "Business Recorder",
+   "published": "2026-09-07T12:22:03+00:00",
+   "summary": "MUMBAI: The Indian rupee traded in a narrow range on Monday, wedged between sustained market intervention by the Reserve Bank of India and a rise in oil prices as strikes on vessels sailing through the Strait of Hormuz stoked worries over energy flows. The Indian rupee closed at 94.4850 per dollar, unchanged from its c…",
+   "image": "https://i.brecorder.com/large/2026/09/0717212567d54d5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper heads towards record high, focus on tight supplies outside US",
+   "url": "https://www.brecorder.com/news/40438316/copper-heads-towards-record-high-focus-on-tight-supplies-outside-us",
+   "source": "Business Recorder",
+   "published": "2026-09-07T12:19:31+00:00",
+   "summary": "LONDON: Copper prices headed towards a record high on Monday, as the prospect of shortages outside the U.S. spurred buying, while the softer dollar reinforced positive sentiment. Traders said a U.S. holiday meant volumes were likely to be muted, but added that focus was firmly on copper and zinc. Benchmark copper on th…",
+   "image": "https://i.brecorder.com/large/2026/09/071719025263810.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bank of Maharashtra, Canara Bank eye dollar debt issuance this month, bankers say",
+   "url": "https://www.brecorder.com/news/40438313/bank-of-maharashtra-canara-bank-eye-dollar-debt-issuance-this-month-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-07T12:03:30+00:00",
+   "summary": "MUMBAI: Two Indian state-run lenders, Canara Bank and Bank of Maharashtra, are set to raise $500 million each through the sale of U.S. dollar-denominated bonds over the next few days, two merchant bankers said on Monday. Both the lenders will look to raise funds through a sale of three-year or five-year papers, or a co…",
+   "image": "https://i.brecorder.com/large/2026/09/07170318cd70b5e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian defence panel clears purchase proposals worth $11.6 billion",
+   "url": "https://www.brecorder.com/news/40438312/indian-defence-panel-clears-purchase-proposals-worth-116-billion",
+   "source": "Business Recorder",
+   "published": "2026-09-07T11:59:54+00:00",
+   "summary": "NEW DELHI: India’s defence acquisition council approved proposals worth about 1.10 trillion rupees ($11.64 billion) on Monday, the defence ministry said in a statement. The approval was granted for acquisition of items including chemical, biological, radiological and nuclear reconnaissance vehicles, high mobility vehic…",
+   "image": "https://i.brecorder.com/large/2026/09/07165937bd8a423.webp",
    "topics": [
     "Economy"
    ],
@@ -186,6 +317,19 @@
    "published": "2026-09-07T08:59:36+00:00",
    "summary": "MOSCOW: North Korea and Russia opened their first road bridge on Monday, Russia’s TASS state news agency reported, a structure which spans the Tumen river and which both sides cast as an important milestone in their strategic partnership. The bridge is located near the existing “Friendship Bridge”, a rail bridge which …",
    "image": "https://i.brecorder.com/large/2026/09/07135826f73bef3.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE says its energy exports will not be 'held hostage' by Iran war",
+   "url": "https://tribune.com.pk/story/2627959/uae-says-its-energy-exports-will-not-be-held-hostage-by-iran-war",
+   "source": "The Express Tribune",
+   "published": "2026-09-07T08:46:24+00:00",
+   "summary": "UAE is expanding port capacity along its eastern ⁠coast, developing pipelines, trade routes for alternative corridors",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -271,19 +415,6 @@
    "domestic": false
   },
   {
-   "title": "Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau",
-   "url": "https://www.brecorder.com/news/40438287/seven-indonesian-airports-remain-shut-due-to-volcanic-ash-from-anak-krakatau",
-   "source": "Business Recorder",
-   "published": "2026-09-07T06:50:18+00:00",
-   "summary": "TANGERANG: Seven Indonesian airports, including two serving Jakarta, remained closed on Monday morning because of volcanic ash from eruptions at Mount Anak Krakatau, the transport minister said. Ash from Anak Krakatau, which sits halfway between Java and Sumatra islands, has blanketed Jakarta and several surrounding ar…",
-   "image": "https://i.brecorder.com/large/2026/09/07114845eab8e6f.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Thai baht/US dollar weaker on Monday",
    "url": "https://www.brecorder.com/news/40438279/thai-bahtus-dollar-weaker-on-monday",
    "source": "Business Recorder",
@@ -308,6 +439,19 @@
     "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX tumbles 1,693 points as selling pressure intensifies",
+   "url": "https://tribune.com.pk/story/2627915/psx-comes-under-selling-pressure-sheds-100340-points-by-midday",
+   "source": "The Express Tribune",
+   "published": "2026-09-07T04:23:39+00:00",
+   "summary": "KSE-100 settles below 174,000 as geopolitical tensions, higher oil prices unsettle investors",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -363,19 +507,6 @@
    "domestic": false
   },
   {
-   "title": "Gold eases as robust US payrolls boost rate-hike bets; inflation data in focus",
-   "url": "https://www.brecorder.com/news/40438268/gold-eases-as-robust-us-payrolls-boost-rate-hike-bets-inflation-data-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-09-07T02:56:42+00:00",
-   "summary": "Gold prices nudged lower on Monday as strong US ‌jobs data reinforced expectations for higher interest rates, while market participants awaited key US inflation prints due later this week for further clarity on the Federal Reserve’s policy path. Spot gold was down 0.5% ​at $4,405.47 per ounce, as of 0211 GMT, after fal…",
-   "image": "https://i.brecorder.com/large/2026/09/07075215cad3bdc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Exporters need shared responsibility",
    "url": "https://tribune.com.pk/story/2627797/exporters-need-shared-responsibility",
    "source": "The Express Tribune",
@@ -386,19 +517,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "VAT's hidden 'working capital' tax",
-   "url": "https://tribune.com.pk/story/2627800/vats-hidden-working-capital-tax",
-   "source": "The Express Tribune",
-   "published": "2026-09-06T15:31:52+00:00",
-   "summary": "State takes money from producer who, in turn, is forced to borrow to meet costs",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -434,19 +552,6 @@
    "published": "2026-09-04T15:03:46+00:00",
    "summary": "Govt, agriculture sector join hands to prop up Pakistan's farm economy",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UAE shares jump as PMI shows solid growth in August",
-   "url": "https://www.brecorder.com/news/40437958/uae-shares-jump-as-pmi-shows-solid-growth-in-august",
-   "source": "Business Recorder",
-   "published": "2026-09-04T14:37:22+00:00",
-   "summary": "Stock markets in the United Arab Emirates rose on Friday after a business survey showed the country’s non-oil private sector expanded at a solid pace in August, driven by stronger output and new business growth. The S&P Global UAE Purchasing Managers’ Index (PMI) rose to 55.3 in August from 52.7 in July. Dubai’s main i…",
-   "image": "https://i.brecorder.com/large/2026/09/041936432919c9d.webp",
    "topics": [
     "Economy"
    ],
@@ -490,6 +595,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Japanese Yen surges to 7-month high; dollar drifts ahead of US inflation",
+   "url": "https://arynews.tv/japanese-yen-surges-to-7-month-high-dollar-drifts-ahead-of-us-inflation",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Japanese Yen surges to 7-month high; dollar drifts ahead of US inflation",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/JPY.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
