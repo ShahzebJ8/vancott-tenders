@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-06T22:43:07+00:00",
- "count": 44,
- "relevant_count": 7,
- "domestic_count": 14,
+ "generated": "2026-09-07T00:42:55+00:00",
+ "count": 47,
+ "relevant_count": 11,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,84 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "FBR sets timelines to clear deferred ST refund claims",
+   "url": "https://www.brecorder.com/news/40438246/fbr-sets-timelines-to-clear-deferred-st-refund-claims",
+   "source": "Business Recorder",
+   "published": "2026-09-06T23:49:48+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has prescribed stage-wise timelines for processing and disposal of sales tax refund claims deferred through its “FASTER” system, directing field formations to clear the backlog and prevent accumulation of pending claims. According to the FBR’s instructions issued to the fie…",
+   "image": "https://i.brecorder.com/large/2026/09/070404349a01896.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Digital P2G payments gain momentum",
+   "url": "https://www.brecorder.com/news/40438247/digital-p2g-payments-gain-momentum",
+   "source": "Business Recorder",
+   "published": "2026-09-06T23:49:48+00:00",
+   "summary": "KARACHI: Person-to-Government (P2G) payments through digital channels are gaining momentum, with 1LINK alone processing around Rs13.5 trillion in tax and other government payments during 2025. As per industry statistics, the use of digital channels for tax, other government payments and revenue collection in Pakistan i…",
+   "image": "https://i.brecorder.com/large/2026/09/0704081428a68f8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ML-1 Karachi-Rohri section upgradation: ADB mulling up to USD1.1bn financing",
+   "url": "https://www.brecorder.com/news/40438250/ml-1-karachi-rohri-section-upgradation-adb-mulling-up-to-usd11bn-financing",
+   "source": "Business Recorder",
+   "published": "2026-09-06T23:49:48+00:00",
+   "summary": "ISLAMABAD: The Asian Development Bank (ADB) is considering up to USD 1.1 billion in financing for upgrading Pakistan Railways’ Main Line-1 (ML-1) Karachi-Rohri section. The proposed investment is aimed at transforming the country’s key passenger and freight corridor through climate-resilient infrastructure, modern sign…",
+   "image": "https://i.brecorder.com/large/2026/09/070419050f3863d.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Balakot HPP to generate Rs15bn annually for KP, says provincial minister",
+   "url": "https://www.brecorder.com/news/40438178/balakot-hpp-to-generate-rs15bn-annually-for-kp-says-provincial-minister",
+   "source": "Business Recorder",
+   "published": "2026-09-06T23:49:47+00:00",
+   "summary": "PESHAWAR: Construction work is underway at a rapid pace on 300 MW Balakot Hydropower Project, the province’s largest hydropower project in Mansehra district of Khyber Pakhtunkhwa, which will prove to be a game-changer in stabilizing the province’s economy and creating new employment opportunities. Moreover, Balakot Hyd…",
+   "image": "https://i.brecorder.com/large/2026/09/07003153a7f143c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Work on Jabba Dam suspended due to security concerns",
+   "url": "https://www.brecorder.com/news/40438181/work-on-jabba-dam-suspended-due-to-security-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-06T23:49:47+00:00",
+   "summary": "PESHAWAR: Construction work on Jabba Dam in Jamrud tehsil of Khyber district has been temporarily suspended due to security concerns, officials from the Irrigation Department and district administration said on Sunday. According to sources, security arrangements are expected to be completed soon, after which constructi…",
+   "image": "https://i.brecorder.com/large/2026/09/070035590ce53f9.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "GMO corn approval poses grave threat to farmers, food, economy: experts",
+   "url": "https://www.brecorder.com/news/40438190/gmo-corn-approval-poses-grave-threat-to-farmers-food-economy-experts",
+   "source": "Business Recorder",
+   "published": "2026-09-06T23:49:47+00:00",
+   "summary": "LAHORE: A unilateral move to approve the cultivation of genetically modified (GMO) corn in Pakistan has triggered deep alarm and anger across agricultural circles, with farmers, scientists, exporters, processors, academia and agriculture experts warning that the decision amounts to a “suicide attack on food security, h…",
+   "image": "https://i.brecorder.com/large/2026/09/070107510555561.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM lauds Rs3bn export insurance initiative",
    "url": "https://www.dawn.com/news/2027776/pm-lauds-rs3bn-export-insurance-initiative",
@@ -43,19 +121,6 @@
    "published": "2026-09-05T23:08:44+00:00",
    "summary": "ISLAMABAD: In a bid to cut delays and streamline trade procedures, Maritime Affairs Minister Muhammad Junaid Anwar Chaudhry has proposed establishing a business facilitation centre to bring port-related services for exporters and importers under one roof. The minister made the proposal while chairing a meeting to revie…",
    "image": "https://i.dawn.com/large/2026/09/06095804f221e6d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Auto imports under personal baggage",
-   "url": "https://www.brecorder.com/news/40438089/auto-imports-under-personal-baggage",
-   "source": "Business Recorder",
-   "published": "2026-09-05T21:30:08+00:00",
-   "summary": "EDITORIAL: The Personal Baggage Scheme for used vehicle imports has finally been abolished after the government concluded that a facility meant for overseas Pakistanis was being misused for commercial purposes. The Economic Coordination Committee and federal cabinet have approved the change, while the Gift and Transfer…",
-   "image": "https://i.brecorder.com/large/2026/09/06005143c448c33.webp",
    "topics": [
     "Economy"
    ],
@@ -193,42 +258,16 @@
    "domestic": true
   },
   {
-   "title": "Germany plans anti-sabotage shield after airport drone attack, reports",
-   "url": "https://www.brecorder.com/news/40438163/germany-plans-anti-sabotage-shield-after-airport-drone-attack-reports",
+   "title": "Business community given opportunity for compliance: RTO Hyderabad launches digital invoicing enforcement drive",
+   "url": "https://www.brecorder.com/news/40438183/business-community-given-opportunity-for-compliance-rto-hyderabad-launches-digital-invoicing-enforcement-drive",
    "source": "Business Recorder",
-   "published": "2026-09-06T07:23:59+00:00",
-   "summary": "BERLIN: Germany is planning a broad package of measures to strengthen its defences against drone attacks, cyber intrusions and other forms of Russian sabotage following a failed airport drone attack last month, Bild am Sonntag newspaper reported on Sunday. Interior Minister Alexander Dobrindt told the newspaper that Ru…",
-   "image": "https://i.brecorder.com/large/2026/09/0612225657de6b0.webp",
+   "published": "2026-09-06T23:49:47+00:00",
+   "summary": "HYDERABAD: The Regional Tax Office (RTO) Hyderabad has initiated enforcement action to ensure compliance with the digital invoicing system and the provisions of the Sales Tax laws. During the course of the enforcement drive, approximately 30 vehicles carrying goods were stopped, as the required digital invoices and rel…",
+   "image": "https://i.brecorder.com/large/2026/09/07010247675336c.webp",
    "topics": [
-    "Construction & projects"
+    "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing",
-   "url": "https://www.brecorder.com/news/40438160/indonesias-anak-krakatau-eruption-halts-flights-schools-fishing",
-   "source": "Business Recorder",
-   "published": "2026-09-06T06:06:33+00:00",
-   "summary": "TANGERANG: An eruption of Indonesia’s Mount Anak Krakatau caused five airports to suspend flight operations on Sunday, affecting hundreds of flights at Jakarta’s main airport, after some school activities and fishing were halted. Soekarno-Hatta International Airport suspended flight operations until 1:30 p.m. (0630 GMT…",
-   "image": "https://i.brecorder.com/large/2026/09/06110402a32f990.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "The IWT stands",
-   "url": "https://www.brecorder.com/news/40438090/the-iwt-stands",
-   "source": "Business Recorder",
-   "published": "2026-09-05T21:30:08+00:00",
-   "summary": "EDITORIAL: The award issued by the Hague-based Permanent Court of Arbitration (PCA) on the Indus Waters Treaty (IWT) comes as a vindication of Pakistan’s position and reinforces a fundamental principle of international law: treaties cannot simply be suspended or discarded unilaterally. The ruling provides important leg…",
-   "image": "https://i.brecorder.com/large/2026/09/0600524025f986f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
