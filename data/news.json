@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-08T10:33:01+00:00",
- "count": 46,
+ "generated": "2026-09-08T14:47:24+00:00",
+ "count": 48,
  "relevant_count": 7,
- "domestic_count": 11,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (18)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (6)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40438476/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-08T14:16:55+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 277.37, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 277.40 against the dollar. Internationally, the Japanese yen climbed t…",
+   "image": "https://i.brecorder.com/large/2026/09/08163228976a1ed.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "J.K. Spinning Mills commits $8.3mn to modernise fabric processing, spinning units",
    "url": "https://www.brecorder.com/news/40438465/jk-spinning-mills-commits-83mn-to-modernise-fabric-processing-spinning-units",
@@ -154,11 +167,63 @@
    "domestic": true
   },
   {
-   "title": "PSX dips 1,900 points during intraday trade as Middle East tensions weigh on investor sentiment",
-   "url": "https://www.dawn.com/news/2028355/psx-dips-1900-points-during-intraday-trade-as-middle-east-tensions-weigh-on-investor-sentiment",
+   "title": "India's Reliance plans first local debt sale after 3 years with $1.32 bln fundraise, bankers say",
+   "url": "https://www.brecorder.com/news/40438490/indias-reliance-plans-first-local-debt-sale-after-3-years-with-132-bln-fundraise-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-08T14:15:17+00:00",
+   "summary": "MUMBAI: Billionaire Mukesh Ambani’s Reliance Industries is set to return to India’s rupee bond market after nearly three years, five merchant bankers told Reuters late on Monday, with what would be the largest single-tranche fundraising by a rated firm since November 2023. The oil-to-telecom conglomerate plans to raise…",
+   "image": "https://i.brecorder.com/large/2026/09/081914532d80014.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM Shehbaz seeks business community’s input on boosting exports",
+   "url": "https://www.brecorder.com/news/40438486/pm-shehbaz-seeks-business-communitys-input-on-boosting-exports",
+   "source": "Business Recorder",
+   "published": "2026-09-08T13:52:22+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Tuesday said the government had convened the business community to seek its views on the challenges hindering export growth and possible solutions to address them. The prime minister said the consultation was particularly important as the country had entered the first quarter of the new…",
+   "image": "https://i.ytimg.com/vi/dCVS7tk9dhc/maxresdefault.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's leading high frequency trading firm turns to bonds for capital",
+   "url": "https://www.brecorder.com/news/40438485/indias-leading-high-frequency-trading-firm-turns-to-bonds-for-capital",
+   "source": "Business Recorder",
+   "published": "2026-09-08T13:45:25+00:00",
+   "summary": "MUMBAI: AlphaGrep, one of India’s largest home-grown high-frequency trading firms, has tapped the bond market for funds amid curbs on bank-financing to proprietary trading firms. The firm said it has raised 2 billion Indian rupees ($21.09 million) through non-convertible debentures of one-year tenor at 10.5% per annum.…",
+   "image": "https://i.brecorder.com/large/2026/09/08184435371f425.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM Shehbaz seeks input from business community as he stresses export-led growth",
+   "url": "https://www.dawn.com/news/2028381/pm-shehbaz-seeks-input-from-business-community-as-he-stresses-export-led-growth",
    "source": "Dawn",
-   "published": "2026-09-08T08:51:06+00:00",
-   "summary": "The Pakistan Stock Exchange’s benchmark KSE-100 index declined by about 1,900 points during intraday trading on Tuesday. The KSE-100 index dropped by 1,904.31 points, or 1.10 per cent, to stand at 171,731.76 points at 1:39pm from the previous close of 173,636.07. Awais Ashraf, director of research at AKD Securities, no…",
+   "published": "2026-09-08T13:03:26+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Tuesday sought recommendations from industrialists and businesspeople on how to increase export-led growth in the country. “Whatever growth we have to achieve, it has to be export-led growth, period,” the premier remarked while addressing a meeting with prominent leaders of the business…",
+   "image": "https://i.dawn.com/large/2026/09/08174508b7b4bb5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX dips nearly 1,000 points as Middle East tensions weigh on investor sentiment",
+   "url": "https://www.dawn.com/news/2028355/psx-dips-nearly-1000-points-as-middle-east-tensions-weigh-on-investor-sentiment",
+   "source": "Dawn",
+   "published": "2026-09-08T12:08:16+00:00",
+   "summary": "The Pakistan Stock Exchange’s benchmark KSE-100 index declined by nearly 1,000 points on Tuesday over tensions in the Middle East. The KSE-100 index dropped by 1,904.31 points, or 1.10 per cent, to stand at 171,731.76 points at 1:39pm from the previous close of 173,636.07. The market reached an intraday low of 171,490.…",
    "image": "https://i.dawn.com/large/2026/09/08134137558b584.webp",
    "topics": [
     "Economy"
@@ -167,12 +232,51 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 sheds over 2,100 points amid geopolitical uncertainty",
-   "url": "https://www.brecorder.com/news/40438433/psx-kse-100-sheds-over-2100-points-amid-geopolitical-uncertainty",
+   "title": "Indian central bank extends intervention streak to support Indian rupee, traders say",
+   "url": "https://www.brecorder.com/news/40438482/indian-central-bank-extends-intervention-streak-to-support-indian-rupee-traders-say",
    "source": "Business Recorder",
-   "published": "2026-09-08T08:33:36+00:00",
-   "summary": "Negative sentiment was observed at the Pakistan Stock Exchange (PSX) as risks of a prolonged conflict in the Middle East grew after Iran threatened to retaliate against any new US attacks on its assets, with the benchmark KSE-100 Index shedding over 2,100 points during the trading session on Tuesday. At 1:30pm, the ben…",
-   "image": "https://i.brecorder.com/large/2026/09/080953506b82077.webp",
+   "published": "2026-09-08T11:58:54+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Tuesday, two bankers and a trader at an FX broker told Reuters, as a renewed rise in oil prices put pressure on the rupee. The Indian currency was at 94.68 per dollar, down 0.2% on the day. State-run banks were seen offering dollars a…",
+   "image": "https://i.brecorder.com/large/2026/09/0816584771ae25b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "London shares inch lower as oil rally fuels inflation concerns",
+   "url": "https://www.brecorder.com/news/40438480/london-shares-inch-lower-as-oil-rally-fuels-inflation-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-08T11:52:33+00:00",
+   "summary": "London’s benchmark FTSE 100 was little changed on Tuesday as oil prices hit multi-week highs and dampened risk appetite in a week packed with economic data, while gains in energy stocks limited broader declines. The blue-chip FTSE 100 index fell 0.6% to 10,816.59 points by 1022 GMT, while the mid-cap FTSE 250 slipped 0…",
+   "image": "https://i.brecorder.com/large/2026/09/081651306ffd9ea.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian banks leave sizeable FX risk open on overseas deposits, creating potential rupee overhang",
+   "url": "https://www.brecorder.com/news/40438477/indian-banks-leave-sizeable-fx-risk-open-on-overseas-deposits-creating-potential-rupee-overhang",
+   "source": "Business Recorder",
+   "published": "2026-09-08T11:35:36+00:00",
+   "summary": "MUMBAI: Indian banks have left much of their future interest payments on overseas FX deposits unhedged, creating a source of potential dollar demand that could compound depreciation pressure in a rupee-weakening scenario, five bankers said. Lenders have raised more than $127 billion in such deposits since the central b…",
+   "image": "https://i.brecorder.com/large/2026/09/081634567816556.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee endures sharpest fall in over a month as Brent oil barrels towards $100",
+   "url": "https://www.brecorder.com/news/40438472/indian-rupee-endures-sharpest-fall-in-over-a-month-as-brent-oil-barrels-towards-100",
+   "source": "Business Recorder",
+   "published": "2026-09-08T11:15:02+00:00",
+   "summary": "MUMBAI: The Indian rupee logged its sharpest fall since late-July on Tuesday, pressured by a third straight day of rising oil prices that pushed Brent to near $100 a barrel as the ongoing Iran war deepened worries over sustained energy supply disruptions. On the day, tensions rose following attacks by Yemen’s Houthis o…",
+   "image": "https://i.brecorder.com/large/2026/09/08161405f9f1c7d.webp",
    "topics": [
     "Economy"
    ],
@@ -323,58 +427,6 @@
    "domestic": false
   },
   {
-   "title": "Australian shares slip below 9,000 mark as financials, healthcare drag",
-   "url": "https://www.brecorder.com/news/40438432/australian-shares-slip-below-9000-mark-as-financials-healthcare-drag",
-   "source": "Business Recorder",
-   "published": "2026-09-08T04:44:59+00:00",
-   "summary": "Australian shares eased on Tuesday , dropping below the key 9,000-point level as banking and healthcare stocks hit near one-week lows, with investors remaining wary of energy-fuelled inflation. The S&P/ASX 200 index lost 0.4% to 8,979.70 by 0012 GMT. The benchmark edged 0.1% lower on Monday. Financials were among the m…",
-   "image": "https://i.brecorder.com/large/2026/09/08094430544190c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japanese shares tread water as investors weigh yen surge, BOJ hike",
-   "url": "https://www.brecorder.com/news/40438431/japanese-shares-tread-water-as-investors-weigh-yen-surge-boj-hike",
-   "source": "Business Recorder",
-   "published": "2026-09-08T04:42:33+00:00",
-   "summary": "TOKYO: Japanese shares treaded water on Tuesday as investors weighed upbeat domestic data against a stronger yen and growing expectations of a Bank of Japan interest rate hike next week. The benchmark Nikkei 225 advanced 0.31% to 66,608.42 in early trading. The broader Topix slipped 0.51% to 4,104.89. Trading cues were…",
-   "image": "https://i.brecorder.com/large/2026/09/08094218d251c34.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold gains as dollar eases with US inflation data on radar",
-   "url": "https://www.brecorder.com/news/40438428/gold-gains-as-dollar-eases-with-us-inflation-data-on-radar",
-   "source": "Business Recorder",
-   "published": "2026-09-08T04:40:26+00:00",
-   "summary": "Gold prices climbed on ​Tuesday as the US dollar slipped, with focus on upcoming inflation ‌data that could shape expectations for the Federal Reserve’s next policy move. Spot gold was up 0.6% at $4,429.89 per ounce, as of 0208 GMT. US gold futures for December delivery ​were little changed at $4,475.10. The US dollar …",
-   "image": "https://i.brecorder.com/large/2026/09/08075801b479e58.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
-   "url": "https://www.brecorder.com/news/40438429/yen-extends-rally-to-new-seven-month-high-dollar-subdued-ahead-of-cpi",
-   "source": "Business Recorder",
-   "published": "2026-09-08T03:01:58+00:00",
-   "summary": "HONG KONG: The Japanese yen climbed to fresh seven-month highs ​against the US dollar on Tuesday , as traders continued to unwind short positions amid growing ‌bets of a Bank of Japan interest-rate hike while the dollar was subdued ahead of CPI data this week. The yen strengthened to as much as 153.53 per dollar in mor…",
-   "image": "https://i.brecorder.com/large/2026/09/0808012540fb8ca.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "UAE govt mulls alternative routes for oil exports",
    "url": "https://www.dawn.com/news/2028273/uae-govt-mulls-alternative-routes-for-oil-exports",
    "source": "Dawn",
@@ -385,20 +437,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gulf equities mixed amid US-Iran flare-ups",
-   "url": "https://www.brecorder.com/news/40438332/gulf-equities-mixed-amid-us-iran-flare-ups",
-   "source": "Business Recorder",
-   "published": "2026-09-07T16:33:15+00:00",
-   "summary": "Gulf stock markets were mixed on Monday as escalating U.S.-Iran tensions and fresh attacks on shipping in the region weighed on investor sentiment. After a weekend of tit-for-tat maritime strikes, Iran warned on Monday that regional energy infrastructure remained “sprawling, accessible, and exposed” to retaliation agai…",
-   "image": "https://i.brecorder.com/large/2026/09/07213133688e054.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -455,32 +493,6 @@
    "domestic": false
   },
   {
-   "title": "India's vegetable oil imports strain port storage, delaying unloading",
-   "url": "https://www.brecorder.com/news/40438318/indias-vegetable-oil-imports-strain-port-storage-delaying-unloading",
-   "source": "Business Recorder",
-   "published": "2026-09-07T12:25:02+00:00",
-   "summary": "MUMBAI: India’s aggressive vegetable-oil buying has led to congestion at major ports, delaying vessel unloading by as much as 10 days as shore tanks fill and refiners struggle to clear incoming cargo, industry officials told Reuters. The congestion is expected to prompt Indian refiners to scale back purchases of soyoil…",
-   "image": "https://i.brecorder.com/large/2026/09/07172427cb19423.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee ends flat, hemmed in by RBI intervention, oil pangs",
-   "url": "https://www.brecorder.com/news/40438317/indian-rupee-ends-flat-hemmed-in-by-rbi-intervention-oil-pangs",
-   "source": "Business Recorder",
-   "published": "2026-09-07T12:22:03+00:00",
-   "summary": "MUMBAI: The Indian rupee traded in a narrow range on Monday, wedged between sustained market intervention by the Reserve Bank of India and a rise in oil prices as strikes on vessels sailing through the Strait of Hormuz stoked worries over energy flows. The Indian rupee closed at 94.4850 per dollar, unchanged from its c…",
-   "image": "https://i.brecorder.com/large/2026/09/0717212567d54d5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Does Pakistan genuinely have enough surplus sugar to export?",
    "url": "https://www.dawn.com/news/2028083/does-pakistan-genuinely-have-enough-surplus-sugar-to-export",
    "source": "Dawn",
@@ -515,6 +527,33 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX market closes lower as KSE-100 index drops nearly 1,000 points",
+   "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-drops-nearly-1000-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX market closes lower as KSE-100 index drops nearly 1,000 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-low.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "New auto policy proposes tax cuts on import of vehicles",
+   "url": "https://arynews.tv/new-auto-policy-proposes-tax-cuts-on-hybrid-vehicles",
+   "source": "ARY News",
+   "published": null,
+   "summary": "New auto policy proposes tax cuts on import of vehicles",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/hybrid-car-pakistan.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
@@ -594,19 +633,6 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Electricity-Prices.jpg",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Inflation rises by 0.65% in Pakistan in one week",
-   "url": "https://arynews.tv/inflation-rises-in-pakistan-in-one-week",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Inflation rises by 0.65% in Pakistan in one week",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Inflation.jpg",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
