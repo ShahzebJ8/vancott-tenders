@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T00:58:37+00:00",
+ "generated": "2026-09-08T05:37:40+00:00",
  "count": 568,
  "with_value": 549,
  "with_winner": 213,
@@ -10815,6 +10815,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003294",
+   "tender_no": "TS0000004367E",
+   "reference": "SSGC/SC/NR/EPADS/14281",
+   "title": "Chemist for Discount On All Patient Medicines Registered In Red Book Latest Services",
+   "organisation": "Ministry of Energy (Petroleum Division) Sui Southern Gas Company Limited (SSGCL) Karachi - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "MEDCASTLE & CO"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-08",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003294",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003293",
    "tender_no": "TS0000008657E",
@@ -49795,24 +49815,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001159",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001158",
-   "tender_no": "TS0000004918E",
-   "reference": "REQ-0426-1-00111(LP/T-4110/26/FA)",
-   "title": "Hiring of Services for construction of PSPC Main Gate (N1) along with reception building; allied road works, civil works, MEP works and Supply & Installation of Security Equipment (As per Terms & Conditions & BOQ) Civil Works Pakistan Security Printing Corporaion (PSPC)",
-   "organisation": "Pakistan Security Printing Corporaion (PSPC) Pakistan Security Printing Corporation (PSPC) Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-08",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001158",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

@@ -1,15 +1,54 @@
 {
- "generated": "2026-09-08T00:58:42+00:00",
- "count": 51,
- "relevant_count": 8,
- "domestic_count": 13,
+ "generated": "2026-09-08T05:37:45+00:00",
+ "count": 49,
+ "relevant_count": 6,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Nepra clears key hurdle to competitive power market",
+   "url": "https://www.dawn.com/news/2028259/nepra-clears-key-hurdle-to-competitive-power-market",
+   "source": "Dawn",
+   "published": "2026-09-08T02:26:44+00:00",
+   "summary": "• Approves uniform charges for all Discos; participating bulk power consumers to pay Rs6.23-Rs19.62 per unit • Clears path for first 400MW open-access electricity auction ISLAMABAD: The Nat­ional Electric Power Regu­latory Authority (Nepra) on Monday approved use of system charges (UoSC) ranging from Rs6.23 to Rs19.62 …",
+   "image": "https://i.dawn.com/large/2026/09/080722137b0d949.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PSX retreats below 174,000 on profit-taking",
+   "url": "https://www.dawn.com/news/2028274/psx-retreats-below-174000-on-profit-taking",
+   "source": "Dawn",
+   "published": "2026-09-08T01:57:05+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Monday failed to sustain the weekend’s mild recovery, as the situation in the Middle East and political uncertainty weighed on investor sentiment, triggering profit-taking across the board. This pressure forced the benchmark KSE-100 index to close below 174,000 points, with…",
+   "image": "https://i.dawn.com/large/2026/09/08061224af213ed.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "President cuts short his London visit",
+   "url": "https://www.brecorder.com/news/40438387/president-cuts-short-his-london-visit",
+   "source": "Business Recorder",
+   "published": "2026-09-08T01:01:43+00:00",
+   "summary": "ISLAMABAD: President Asif Ali Zardari will return to Pakistan today (Tuesday), cutting short his visit to London amid some ‘important’ political developments at home. According to sources within Pakistan People’s Party (PPP), President Zardari had planned to stay in London for another three to four days. However, they …",
+   "image": "https://i.brecorder.com/large/2026/09/080156421763415.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40438311/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -21,19 +60,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Japan to provide $16.4mn to strengthen flood protection in Pakistan",
-   "url": "https://www.brecorder.com/news/40438307/japan-to-provide-164mn-to-strengthen-flood-protection-in-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-07T09:08:03+00:00",
-   "summary": "Japan has agreed to provide Pakistan a $16.4 million grant to strengthen flood protection infrastructure in Sindh, with the project focused on improving and reinforcing the Old Abad Bund along the right bank of the Indus River in Larkana, Sindh. The development came during a ceremony between the Government of Pakistan …",
-   "image": "https://i.brecorder.com/large/2026/09/07140639d1aa0e5.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -167,17 +193,147 @@
    "domestic": true
   },
   {
-   "title": "Trade gap swells 18pc to $7.1bn",
-   "url": "https://www.dawn.com/news/2027328/trade-gap-swells-18pc-to-71bn",
-   "source": "Dawn",
-   "published": "2026-09-04T02:03:10+00:00",
-   "summary": "KARACHI: The trade gap widened alarmingly by over 18 per cent in the first two months of 2026-27, reflecting the increasing pressure of a surging import bill. The Pakistan Bureau of Statistics (PBS) data, issu­­ed on Thursday, showed that the trade deficit for July-August FY27 swelled to $7.1 billion as imports grew mo…",
-   "image": "https://i.dawn.com/large/2026/09/0407223425d825d.webp",
+   "title": "China August iron ore imports up 3.1% y/y, customs data shows",
+   "url": "https://www.brecorder.com/news/40438439/china-august-iron-ore-imports-up-31-yy-customs-data-shows",
+   "source": "Business Recorder",
+   "published": "2026-09-08T05:10:46+00:00",
+   "summary": "China’s imports of iron ore in August rose 0.4% from the prior month and gained 3.1% from the year before, customs data showed on Tuesday. The world’s largest iron ore consumer brought in 108.54 million metric tons of the key steelmaking ingredient last month, data from the country’s General Administration of Customs s…",
+   "image": "https://i.brecorder.com/large/2026/09/081009274037de8.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee's familiar push-pull set to persist with oil pressure, RBI response",
+   "url": "https://www.brecorder.com/news/40438436/indian-rupees-familiar-push-pull-set-to-persist-with-oil-pressure-rbi-response",
+   "source": "Business Recorder",
+   "published": "2026-09-08T05:01:07+00:00",
+   "summary": "MUMBAI: The Indian rupee is likely to open little changed on Tuesday , caught once again between pressure from higher oil prices, dollar demand from companies looking to hedge their FX exposure and the central bank’s persistent presence in the market. The Indian rupee is expected to open in the 94.48 to 94.50 range, pe…",
+   "image": "https://i.brecorder.com/large/2026/09/08095956aca05d1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar stronger on Tuesday",
+   "url": "https://www.brecorder.com/news/40438434/thai-bahtus-dollar-stronger-on-tuesday",
+   "source": "Business Recorder",
+   "published": "2026-09-08T04:55:06+00:00",
+   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Tuesday. At 0222 GMT, the baht was 0.11% higher at 32.81 versus the dollar, after trading in a range of 32.810 to 32.880. It ended the previous session at 32.84 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/08095414068c9dc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 sheds over 200 points in early trade",
+   "url": "https://www.brecorder.com/news/40438433/psx-kse-100-sheds-over-200-points-in-early-trade",
+   "source": "Business Recorder",
+   "published": "2026-09-08T04:54:06+00:00",
+   "summary": "Negative sentiment was observed at the Pakistan Stock Exchange (PSX) as risks of a prolonged conflict in the Middle East grew after Iran threatened to retaliate against any new US attacks on its assets, with the benchmark KSE-100 Index shedding over 200 points during the opening minutes of trading on Tuesday. At 9:45am…",
+   "image": "https://i.brecorder.com/large/2026/09/080953506b82077.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares slip below 9,000 mark as financials, healthcare drag",
+   "url": "https://www.brecorder.com/news/40438432/australian-shares-slip-below-9000-mark-as-financials-healthcare-drag",
+   "source": "Business Recorder",
+   "published": "2026-09-08T04:44:59+00:00",
+   "summary": "Australian shares eased on Tuesday , dropping below the key 9,000-point level as banking and healthcare stocks hit near one-week lows, with investors remaining wary of energy-fuelled inflation. The S&P/ASX 200 index lost 0.4% to 8,979.70 by 0012 GMT. The benchmark edged 0.1% lower on Monday. Financials were among the m…",
+   "image": "https://i.brecorder.com/large/2026/09/08094430544190c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Japanese shares tread water as investors weigh yen surge, BOJ hike",
+   "url": "https://www.brecorder.com/news/40438431/japanese-shares-tread-water-as-investors-weigh-yen-surge-boj-hike",
+   "source": "Business Recorder",
+   "published": "2026-09-08T04:42:33+00:00",
+   "summary": "TOKYO: Japanese shares treaded water on Tuesday as investors weighed upbeat domestic data against a stronger yen and growing expectations of a Bank of Japan interest rate hike next week. The benchmark Nikkei 225 advanced 0.31% to 66,608.42 in early trading. The broader Topix slipped 0.51% to 4,104.89. Trading cues were…",
+   "image": "https://i.brecorder.com/large/2026/09/08094218d251c34.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold gains as dollar eases with US inflation data on radar",
+   "url": "https://www.brecorder.com/news/40438428/gold-gains-as-dollar-eases-with-us-inflation-data-on-radar",
+   "source": "Business Recorder",
+   "published": "2026-09-08T04:40:26+00:00",
+   "summary": "Gold prices climbed on ​Tuesday as the US dollar slipped, with focus on upcoming inflation ‌data that could shape expectations for the Federal Reserve’s next policy move. Spot gold was up 0.6% at $4,429.89 per ounce, as of 0208 GMT. US gold futures for December delivery ​were little changed at $4,475.10. The US dollar …",
+   "image": "https://i.brecorder.com/large/2026/09/08075801b479e58.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
+   "url": "https://www.brecorder.com/news/40438429/yen-extends-rally-to-new-seven-month-high-dollar-subdued-ahead-of-cpi",
+   "source": "Business Recorder",
+   "published": "2026-09-08T03:01:58+00:00",
+   "summary": "HONG KONG: The Japanese yen climbed to fresh seven-month highs ​against the US dollar on Tuesday , as traders continued to unwind short positions amid growing ‌bets of a Bank of Japan interest-rate hike while the dollar was subdued ahead of CPI data this week. The yen strengthened to as much as 153.53 per dollar in mor…",
+   "image": "https://i.brecorder.com/large/2026/09/0808012540fb8ca.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE govt mulls alternative routes for oil exports",
+   "url": "https://www.dawn.com/news/2028273/uae-govt-mulls-alternative-routes-for-oil-exports",
+   "source": "Dawn",
+   "published": "2026-09-08T02:35:38+00:00",
+   "summary": "DUBAI: The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not “held hostage” by the ongoing war between the US and Iran, UAE presidential adviser Anwar Gargash said on Monday. The conflict has had a significant impact on Gulf Arab states, including the UAE, after…",
+   "image": "https://i.dawn.com/large/2026/09/08073451c88a699.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf cannot rely on US alone for security: Qatar",
+   "url": "https://www.brecorder.com/news/40438398/gulf-cannot-rely-on-us-alone-for-security-qatar",
+   "source": "Business Recorder",
+   "published": "2026-09-08T01:01:43+00:00",
+   "summary": "DUBAI: The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not “held hostage” by the ongoing war between the US and Iran, UAE presidential adviser Anwar Gargash said on Monday. The conflict has had a significant impact on Gulf Arab states, including the UAE, after…",
+   "image": "https://i.brecorder.com/large/2026/09/08052334315127a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices rise to six-week highs",
+   "url": "https://www.brecorder.com/news/40438399/oil-prices-rise-to-six-week-highs",
+   "source": "Business Recorder",
+   "published": "2026-09-08T01:01:43+00:00",
+   "summary": "NEW YORK: Oil prices rose to a six-week high on Monday as Iran vowed to strike energy infrastructure across the Middle East in response to further US attacks on its assets, the latest escalation in a conflict that has sharply reduced oil supply from the region. Brent crude futures rose 85 cents, or 0.9 percent, to USD9…",
+   "image": "https://i.brecorder.com/large/2026/09/08050911bd74bb5.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Gulf equities mixed amid US-Iran flare-ups",
@@ -189,58 +345,6 @@
    "topics": [
     "Construction & projects",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SE Fruits & Vegetables secures PSX approval for IPO to raise up to Rs1.92bn",
-   "url": "https://www.brecorder.com/news/40438326/se-fruits-amp-vegetables-secures-psx-approval-for-ipo-to-raise-up-to-rs192bn",
-   "source": "Business Recorder",
-   "published": "2026-09-07T14:39:33+00:00",
-   "summary": "SE Fruits & Vegetables Limited has received approval from the Pakistan Stock Exchange (PSX) for its initial public offering (IPO), with the horticulture exporter aiming to raise between Rs1.2 billion and Rs1.92 billion to fund working capital and expand its processing and export operations. The Sargodha-based company p…",
-   "image": "https://i.brecorder.com/large/2026/09/07193701f75aee2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 sheds nearly 1% amid selling pressure",
-   "url": "https://www.brecorder.com/news/40438276/psx-kse-100-sheds-nearly-1-amid-selling-pressure",
-   "source": "Business Recorder",
-   "published": "2026-09-07T14:09:50+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) remained under pressure throughout Monday’s trading session, with the benchmark KSE-100 Index shedding nearly 1%. The market opened on a positive note, and the KSE-100 initially climbed to an intra-day high of 175,353.67 but failed to sustain gains, with selling pressure intensifying i…",
-   "image": "https://i.brecorder.com/large/2026/09/07100224744dbea.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian central bank unloaded at least $8 billion last week to anchor rupee, bankers say",
-   "url": "https://www.brecorder.com/news/40438321/indian-central-bank-unloaded-at-least-8-billion-last-week-to-anchor-rupee-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-07T12:45:10+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India ramped up its FX intervention last week, selling at least $8 billion to bolster the rupee, six bankers said, as a deluge of policy-driven dollar inflows gave the central bank more room to support the currency. The bankers estimated the RBI’s market presence at between $8 billion and $1…",
-   "image": "https://i.brecorder.com/large/2026/09/0717445670080a7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi PIF launches firm to develop tourism, residential area on Gulf coast",
-   "url": "https://www.brecorder.com/news/40438319/saudi-pif-launches-firm-to-develop-tourism-residential-area-on-gulf-coast",
-   "source": "Business Recorder",
-   "published": "2026-09-07T12:36:16+00:00",
-   "summary": "DUBAI: Saudi Arabia’s Public Investment Fund (PIF) said on Monday it has launched a real estate company to develop tourism on the Al-Khafji coastline on the Gulf, as the sovereign wealth fund pours billions of dollars into infrastructure projects. Saudi Arabia is investing in infrastructure as part of its plans to tran…",
-   "image": "https://i.brecorder.com/large/2026/09/07173544655ecef.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -278,32 +382,6 @@
    "published": "2026-09-07T12:19:31+00:00",
    "summary": "LONDON: Copper prices headed towards a record high on Monday, as the prospect of shortages outside the U.S. spurred buying, while the softer dollar reinforced positive sentiment. Traders said a U.S. holiday meant volumes were likely to be muted, but added that focus was firmly on copper and zinc. Benchmark copper on th…",
    "image": "https://i.brecorder.com/large/2026/09/071719025263810.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of Maharashtra, Canara Bank eye dollar debt issuance this month, bankers say",
-   "url": "https://www.brecorder.com/news/40438313/bank-of-maharashtra-canara-bank-eye-dollar-debt-issuance-this-month-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-07T12:03:30+00:00",
-   "summary": "MUMBAI: Two Indian state-run lenders, Canara Bank and Bank of Maharashtra, are set to raise $500 million each through the sale of U.S. dollar-denominated bonds over the next few days, two merchant bankers said on Monday. Both the lenders will look to raise funds through a sale of three-year or five-year papers, or a co…",
-   "image": "https://i.brecorder.com/large/2026/09/07170318cd70b5e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian defence panel clears purchase proposals worth $11.6 billion",
-   "url": "https://www.brecorder.com/news/40438312/indian-defence-panel-clears-purchase-proposals-worth-116-billion",
-   "source": "Business Recorder",
-   "published": "2026-09-07T11:59:54+00:00",
-   "summary": "NEW DELHI: India’s defence acquisition council approved proposals worth about 1.10 trillion rupees ($11.64 billion) on Monday, the defence ministry said in a statement. The approval was granted for acquisition of items including chemical, biological, radiological and nuclear reconnaissance vehicles, high mobility vehic…",
-   "image": "https://i.brecorder.com/large/2026/09/07165937bd8a423.webp",
    "topics": [
     "Economy"
    ],
@@ -376,59 +454,6 @@
    "domestic": false
   },
   {
-   "title": "South Korean shares start week higher as chipmakers jump; won hits near 2-year high",
-   "url": "https://www.brecorder.com/news/40438290/south-korean-shares-start-week-higher-as-chipmakers-jump-won-hits-near-2-year-high",
-   "source": "Business Recorder",
-   "published": "2026-09-07T06:56:47+00:00",
-   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Monday, driven by chipmakers on optimism around strong demand for AI investments, while the won hit a near two-year high amid expectations of continued dollar selling by major exporters. The benchmark KOSPI was up 196.57 points, or 2.94%, at…",
-   "image": "https://i.brecorder.com/large/2026/09/07115549ab5ce7b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan hits fresh 3-1/2-year high despite PBOC's weak guidance",
-   "url": "https://www.brecorder.com/news/40438288/yuan-hits-fresh-3-12-year-high-despite-pbocs-weak-guidance",
-   "source": "Business Recorder",
-   "published": "2026-09-07T06:51:46+00:00",
-   "summary": "HONG KONG: China’s yuan strengthened to a 3-1/2-year high against the dollar on Monday, defying a near-record weak-side gap in the central bank’s daily midpoint guidance as demand for the greenback remained subdued. The yuan strengthened to a high of 6.7050 per dollar in early trades, its strongest level since February…",
-   "image": "https://i.brecorder.com/large/2026/09/071151236060df5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Monday",
-   "url": "https://www.brecorder.com/news/40438279/thai-bahtus-dollar-weaker-on-monday",
-   "source": "Business Recorder",
-   "published": "2026-09-07T06:24:21+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Monday. At 0216 GMT, the baht was 0.18% lower at 32.94 versus the dollar, after trading in a range of 32.880 to 32.990. It ended the previous session at 32.88 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/07112306eceac7b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan issues tender to export 107,739 tons sugar, traders say",
-   "url": "https://www.brecorder.com/news/40438277/pakistan-issues-tender-to-export-107739-tons-sugar-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-09-07T05:46:39+00:00",
-   "summary": "HAMBURG: Pakistan’s state agency the Trading Corporation of Pakistan (TCP) has issued a tender to sell and export 107,739 metric tons of white refined sugar, European traders said on Monday. The deadline for submission of price offers is September 28. The sale is being made of previously imported sugar stocks to ease a…",
-   "image": "https://i.brecorder.com/large/2026/09/071033457e12b87.webp",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX tumbles 1,693 points as selling pressure intensifies",
    "url": "https://tribune.com.pk/story/2627915/psx-comes-under-selling-pressure-sheds-100340-points-by-midday",
    "source": "The Express Tribune",
@@ -448,45 +473,6 @@
    "published": "2026-09-07T03:17:23+00:00",
    "summary": "https://www.dawn.com/news/2027995",
    "image": "https://i.dawn.com/large/2026/09/0708162894b5f9c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee may withstand oil, Fed pressures with RBI support",
-   "url": "https://www.brecorder.com/news/40438272/indian-rupee-may-withstand-oil-fed-pressures-with-rbi-support",
-   "source": "Business Recorder",
-   "published": "2026-09-07T03:16:00+00:00",
-   "summary": "MUMBAI: The Indian rupee is poised for a muted opening on Monday , with the central bank’s recent aggressive presence likely to temper ​the impact of higher crude prices and the increased likelihood of ‌a US Federal Reserve rate hike next week. The Indian rupee is expected to open in the 94.46-94.50 range, per traders,…",
-   "image": "https://i.brecorder.com/large/2026/09/070814277c6cb59.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asia shares bounce, others cautious as oil rises",
-   "url": "https://www.brecorder.com/news/40438271/asia-shares-bounce-others-cautious-as-oil-rises",
-   "source": "Business Recorder",
-   "published": "2026-09-07T03:12:20+00:00",
-   "summary": "SYDNEY: Asian shares rallied on Monday as the robust US jobs ​report was seen as positive for global growth even as it narrowed the odds on a rise in interest rates, ‌while oil edged higher after the US and Iran attacked ships in the Gulf. Tehran said it will announce a restricted zone outside the Strait of Hormuz in c…",
-   "image": "https://i.brecorder.com/large/2026/09/07080649afbe21d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar gets little lift from boost in Fed hike expectations",
-   "url": "https://www.brecorder.com/news/40438270/dollar-gets-little-lift-from-boost-in-fed-hike-expectations",
-   "source": "Business Recorder",
-   "published": "2026-09-07T03:06:04+00:00",
-   "summary": "SINGAPORE: The dollar was on shaky ground on ​Monday , despite a ramp-up in US rate hike bets as Middle East tensions raised the prospect of broader inflationary pressures ‌that could force global central banks to tighten policy in tandem. A shift in sentiment towards the Japanese yen and worries about ever-growing US …",
-   "image": "https://i.brecorder.com/large/2026/09/070802293ac96d4.webp",
    "topics": [
     "Economy"
    ],
@@ -539,19 +525,6 @@
    "published": "2026-09-04T15:03:46+00:00",
    "summary": "Govt, agriculture sector join hands to prop up Pakistan's farm economy",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Why India's strong GDP growth is raising eyebrows",
-   "url": "https://www.dawn.com/news/2027457/why-indias-strong-gdp-growth-is-raising-eyebrows",
-   "source": "Dawn",
-   "published": "2026-09-04T11:00:41+00:00",
-   "summary": "India’s unexpectedly strong economic growth has sparked a debate after an ex-bureaucrat questioned whether the expansion was overstated and a former central bank chief asked why strong expansion had not shown up in jobs and investment. The government defended its numbers. The world’s fifth-biggest economy grew 7.8 per …",
-   "image": "https://i.dawn.com/large/2026/09/041559452df0cab.webp",
    "topics": [
     "Economy"
    ],
