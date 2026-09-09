@@ -1,15 +1,94 @@
 {
- "generated": "2026-09-08T23:35:32+00:00",
+ "generated": "2026-09-09T02:49:00+00:00",
  "count": 46,
- "relevant_count": 6,
- "domestic_count": 9,
+ "relevant_count": 11,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (5)",
   "ARY News": "ok (9)"
  },
  "stories": [
+  {
+   "title": "Shopkeepers asked to opt for fixed tax scheme",
+   "url": "https://www.dawn.com/news/2028474/shopkeepers-asked-to-opt-for-fixed-tax-scheme",
+   "source": "Dawn",
+   "published": "2026-09-09T02:35:19+00:00",
+   "summary": "LAHORE: The Federal Board of Revenue (FBR) has urged small shopkeepers and retailers to benefit from the recently introduced fixed tax scheme , saying that it has been designed to facilitate small businesses through simplified compliance, a one-page return and a tax rate of one per cent of turnover, subject to a minimu…",
+   "image": "https://i.dawn.com/large/2026/09/09073410447edb9.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Exchange companies’ dollar sales jump 30pc",
+   "url": "https://www.dawn.com/news/2028475/exchange-companies-dollar-sales-jump-30pc",
+   "source": "Dawn",
+   "published": "2026-09-09T02:28:41+00:00",
+   "summary": "KARACHI: Exchange companies’ dollar sales to banks increased by 30 per cent year-on-year in August, indicating higher inflows. Data from the Exchange Companies Association of Pakistan (ECAP) showed these companies sold $248.7 million to banks in August, up from $174.9m in the same month last year. However, July saw a d…",
+   "image": "https://i.dawn.com/large/2026/09/0907401526ad126.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sky Gardens Housing Scheme: NAB directed to probe annexation of Shamilaat & forest land",
+   "url": "https://www.brecorder.com/news/40438601/sky-gardens-housing-scheme-nab-directed-to-probe-annexation-of-shamilaat-amp-forest-land",
+   "source": "Business Recorder",
+   "published": "2026-09-09T00:40:00+00:00",
+   "summary": "ISLAMABAD: The Senate Housing Committee has directed the National Accountability Bureau (NAB) to probe the alleged annexation of Shamilaat and forest land in Sky Gardens Housing Scheme, raising fresh questions over land ownership, development approvals and the role of revenue authorities. The Housing and Works Committe…",
+   "image": "https://i.brecorder.com/large/2026/09/09031619437bf49.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "easypaisa partners with KTrade",
+   "url": "https://www.brecorder.com/news/40438538/easypaisa-partners-with-ktrade",
+   "source": "Business Recorder",
+   "published": "2026-09-09T00:39:59+00:00",
+   "summary": "ISLAMABAD: easypaisa digital bank and KTrade have joined hands in a first-of-its-kind partnership to make stock market investments more accessible and convenient for millions of Pakistanis, by enabling instant digital Pakistan Stock Exchange (PSX) account onboarding via the easypaisa app. The partnership was formally u…",
+   "image": "https://i.brecorder.com/large/2026/09/0901334501f03ad.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SITE industrialists concerned over rising oil prices",
+   "url": "https://www.brecorder.com/news/40438541/site-industrialists-concerned-over-rising-oil-prices",
+   "source": "Business Recorder",
+   "published": "2026-09-09T00:39:59+00:00",
+   "summary": "KARACHI: Industrialists in Karachi’s largest SITE industrial area have expressed serious concern over another sharp increase in petroleum prices, warning that continued increases in production costs, expensive energy and heavy taxation could push industries towards closure, undermine exports and trigger a fresh wave of…",
+   "image": "https://i.brecorder.com/large/2026/09/090138452d8dc74.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "CCIR explains fixed tax scheme at LCCI",
+   "url": "https://www.brecorder.com/news/40438542/ccir-explains-fixed-tax-scheme-at-lcci",
+   "source": "Business Recorder",
+   "published": "2026-09-09T00:39:59+00:00",
+   "summary": "LAHORE: Chief Commissioner Inland Revenue, Federal Board of Revenue (FBR), Fiza Batool has urged small shopkeepers and retailers to benefit from the fixed tax scheme which has been designed to facilitate small businesses through simplified compliance, a one-page return and a tax rate of 1 percent of turnover, subject t…",
+   "image": "https://i.brecorder.com/large/2026/09/09013921f8ac91b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40438476/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -89,19 +168,6 @@
    "domestic": true
   },
   {
-   "title": "Higher food prices push up Sensitive Price Index",
-   "url": "https://www.dawn.com/news/2027597/higher-food-prices-push-up-sensitive-price-index",
-   "source": "Dawn",
-   "published": "2026-09-05T02:29:21+00:00",
-   "summary": "KARACHI: Consumers continue to face hardships in buying various commodities as the weekly inflation, measured by the Sensitive Price Index (SPI), rose 8.35 per cent for the week ending on Sept 3 year-on-year, showed data on Friday. According to data released by the Pakistan Bureau of Statistics (PBS) the SPI increased …",
-   "image": "https://i.dawn.com/large/2026/09/05072758ac4f5d1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Nepra raises electricity costs by Rs2.58 per unit",
    "url": "https://www.dawn.com/news/2027627/nepra-raises-electricity-costs-by-rs258-per-unit",
    "source": "Dawn",
@@ -128,12 +194,12 @@
    "domestic": true
   },
   {
-   "title": "PTA notifies telecom equipment standards regulations",
-   "url": "https://www.brecorder.com/news/40438497/pta-notifies-telecom-equipment-standards-regulations",
+   "title": "Yen stands tall as dollar wobbles, oil's run towards $100 chills sentiment",
+   "url": "https://www.brecorder.com/news/40438607/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment",
    "source": "Business Recorder",
-   "published": "2026-09-08T16:45:18+00:00",
-   "summary": "The Pakistan Telecommunication Authority (PTA) has notified the Telecommunication Equipment Standards Regulations, 2024, making compliance with prescribed technical standards mandatory for telecom equipment manufactured, imported or deployed in the country. The regulations have been notified through the Gazette of Paki…",
-   "image": "https://i.brecorder.com/large/2026/09/0821344993b28ab.webp",
+   "published": "2026-09-09T02:44:03+00:00",
+   "summary": "SINGAPORE: The Japanese yen steadied near its strongest level since February on Wednesday , keeping the dollar on the ‌defensive as traders grappled with oil prices pushing towards $100 per barrel in the face of a widening war in the Middle East. Houthis in Yemen launched strikes on several Saudi cities , further embro…",
+   "image": "https://i.brecorder.com/large/2026/09/0907392364abb23.webp",
    "topics": [
     "Economy"
    ],
@@ -141,16 +207,16 @@
    "domestic": false
   },
   {
-   "title": "Israel to close British consulate in East Jerusalem after UK, France and Canada ban imports from settlements",
-   "url": "https://www.brecorder.com/news/40438496/israel-to-close-british-consulate-in-east-jerusalem-after-uk-france-and-canada-ban-imports-from-settlements",
+   "title": "Fiscal reforms’ missing piece",
+   "url": "https://www.brecorder.com/news/40438518/fiscal-reforms-missing-piece",
    "source": "Business Recorder",
-   "published": "2026-09-08T15:40:34+00:00",
-   "summary": "LONDON/TEL AVIV/PARIS: Israel said on Tuesday it was closing Britain’s consulate in East Jerusalem in response to plans by the UK, France and Canada to block imports from Israeli settlements in the West Bank. Britain will also no longer participate in a U.S.-led coordination mission for Gaza and some British officials …",
-   "image": "https://i.brecorder.com/large/2026/09/08203833712475d.webp",
+   "published": "2026-09-09T01:33:46+00:00",
+   "summary": "EDITORIAL: Finance Minister Muhammad Aurangzeb’s recent assurance that the government will “stay the course” on fiscal reforms, coupled with the Asian Development Bank’s call for urgent action to broaden Pakistan’s narrow tax base comes at a critical juncture. The government has made meaningful progress in restoring fi…",
+   "image": "https://i.brecorder.com/large/2026/09/09063235011b22c.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -167,64 +233,12 @@
    "domestic": false
   },
   {
-   "title": "India's Reliance plans first local debt sale after 3 years with $1.32 bln fundraise, bankers say",
-   "url": "https://www.brecorder.com/news/40438490/indias-reliance-plans-first-local-debt-sale-after-3-years-with-132-bln-fundraise-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-08T14:15:17+00:00",
-   "summary": "MUMBAI: Billionaire Mukesh Ambani’s Reliance Industries is set to return to India’s rupee bond market after nearly three years, five merchant bankers told Reuters late on Monday, with what would be the largest single-tranche fundraising by a rated firm since November 2023. The oil-to-telecom conglomerate plans to raise…",
-   "image": "https://i.brecorder.com/large/2026/09/081914532d80014.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz seeks business community’s input on boosting exports",
-   "url": "https://www.brecorder.com/news/40438486/pm-shehbaz-seeks-business-communitys-input-on-boosting-exports",
-   "source": "Business Recorder",
-   "published": "2026-09-08T13:52:22+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Tuesday said the government had convened the business community to seek its views on the challenges hindering export growth and possible solutions to address them. The prime minister said the consultation was particularly important as the country had entered the first quarter of the new…",
-   "image": "https://i.ytimg.com/vi/dCVS7tk9dhc/maxresdefault.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's leading high frequency trading firm turns to bonds for capital",
-   "url": "https://www.brecorder.com/news/40438485/indias-leading-high-frequency-trading-firm-turns-to-bonds-for-capital",
-   "source": "Business Recorder",
-   "published": "2026-09-08T13:45:25+00:00",
-   "summary": "MUMBAI: AlphaGrep, one of India’s largest home-grown high-frequency trading firms, has tapped the bond market for funds amid curbs on bank-financing to proprietary trading firms. The firm said it has raised 2 billion Indian rupees ($21.09 million) through non-convertible debentures of one-year tenor at 10.5% per annum.…",
-   "image": "https://i.brecorder.com/large/2026/09/08184435371f425.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX dips nearly 1,000 points as Middle East tensions weigh on investor sentiment",
    "url": "https://www.dawn.com/news/2028355/psx-dips-nearly-1000-points-as-middle-east-tensions-weigh-on-investor-sentiment",
    "source": "Dawn",
    "published": "2026-09-08T12:08:16+00:00",
    "summary": "The Pakistan Stock Exchange’s benchmark KSE-100 index declined by nearly 1,000 points on Tuesday over tensions in the Middle East. The KSE-100 index dropped by 1,904.31 points, or 1.10 per cent, to stand at 171,731.76 points at 1:39pm from the previous close of 173,636.07. The market reached an intraday low of 171,490.…",
    "image": "https://i.dawn.com/large/2026/09/08134137558b584.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian central bank extends intervention streak to support Indian rupee, traders say",
-   "url": "https://www.brecorder.com/news/40438482/indian-central-bank-extends-intervention-streak-to-support-indian-rupee-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-09-08T11:58:54+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Tuesday, two bankers and a trader at an FX broker told Reuters, as a renewed rise in oil prices put pressure on the rupee. The Indian currency was at 94.68 per dollar, down 0.2% on the day. State-run banks were seen offering dollars a…",
-   "image": "https://i.brecorder.com/large/2026/09/0816584771ae25b.webp",
    "topics": [
     "Economy"
    ],
@@ -381,19 +395,6 @@
    "published": "2026-09-08T05:10:46+00:00",
    "summary": "China’s imports of iron ore in August rose 0.4% from the prior month and gained 3.1% from the year before, customs data showed on Tuesday. The world’s largest iron ore consumer brought in 108.54 million metric tons of the key steelmaking ingredient last month, data from the country’s General Administration of Customs s…",
    "image": "https://i.brecorder.com/large/2026/09/081009274037de8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee's familiar push-pull set to persist with oil pressure, RBI response",
-   "url": "https://www.brecorder.com/news/40438436/indian-rupees-familiar-push-pull-set-to-persist-with-oil-pressure-rbi-response",
-   "source": "Business Recorder",
-   "published": "2026-09-08T05:01:07+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to open little changed on Tuesday , caught once again between pressure from higher oil prices, dollar demand from companies looking to hedge their FX exposure and the central bank’s persistent presence in the market. The Indian rupee is expected to open in the 94.48 to 94.50 range, pe…",
-   "image": "https://i.brecorder.com/large/2026/09/08095956aca05d1.webp",
    "topics": [
     "Economy"
    ],
