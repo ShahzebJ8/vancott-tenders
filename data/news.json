@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-09T19:44:15+00:00",
- "count": 44,
+ "generated": "2026-09-09T22:15:59+00:00",
+ "count": 43,
  "relevant_count": 9,
  "domestic_count": 6,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (18)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (6)",
   "ARY News": "ok (5)"
  },
@@ -331,19 +331,6 @@
    "published": "2026-09-09T06:32:59+00:00",
    "summary": "Copper dipped below its record high on Wednesday as inventories continued to build in the United States ahead of a possible tariff on refined copper imports, tightening availability elsewhere. Benchmark three-month copper on the London Metal Exchange fell 0.55% to $14,628 a metric ton by 0245 GMT, after touching an all…",
    "image": "https://i.brecorder.com/large/2026/09/09113216948dcfd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian bond traders may look to cut positions with Brent on cusp of $100",
-   "url": "https://www.brecorder.com/news/40438624/indian-bond-traders-may-look-to-cut-positions-with-brent-on-cusp-of-100",
-   "source": "Business Recorder",
-   "published": "2026-09-09T06:28:59+00:00",
-   "summary": "MUMBAI: Indian government bonds could witness some selling pressure in opening deals on Wednesday, reversing some of the previous session’s gains, as benchmark Brent crude has climbed to nearly $100 per barrel, stoking inflation fears. The yield on the benchmark 6.94% 2036 bond is expected to move between 6.94% and 6.9…",
-   "image": "https://i.brecorder.com/large/2026/09/09112853b159d08.webp",
    "topics": [
     "Economy"
    ],
