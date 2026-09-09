@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-09T17:03:49+00:00",
- "count": 45,
- "relevant_count": 10,
+ "generated": "2026-09-09T19:44:15+00:00",
+ "count": 44,
+ "relevant_count": 9,
  "domestic_count": 6,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (6)"
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
@@ -87,6 +87,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Pakistan’s AI education challenge is about more than technology",
+   "url": "https://www.brecorder.com/news/40438679/pakistans-ai-education-challenge-is-about-more-than-technology",
+   "source": "Business Recorder",
+   "published": "2026-09-09T17:53:03+00:00",
+   "summary": "As a co-founder of an education technology company, I spend a great deal of time thinking about how technology can improve learning. But the most important question about artificial intelligence (AI) in education is not whether our children will use AI. They already are. The question is whether our education system wil…",
+   "image": "https://i.brecorder.com/large/2026/09/0922501817ab57a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Most Gulf bourses in red as Middle East conflict escalates",
@@ -390,20 +403,6 @@
    "domestic": false
   },
   {
-   "title": "Govt allows 200,000 tonnes more sugar export",
-   "url": "https://tribune.com.pk/story/2628197/govt-allows-200000-tonnes-more-sugar-export",
-   "source": "The Express Tribune",
-   "published": "2026-09-08T16:18:41+00:00",
-   "summary": "Second export decision in three weeks as past exports pushed prices to Rs220; IMF ignored",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX loses 994 points as ME conflict dents trust",
    "url": "https://tribune.com.pk/story/2628201/psx-loses-994-points-as-me-conflict-dents-trust",
    "source": "The Express Tribune",
@@ -585,19 +584,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Japanese Yen surges to 7-month high; dollar drifts ahead of US inflation",
-   "url": "https://arynews.tv/japanese-yen-surges-to-7-month-high-dollar-drifts-ahead-of-us-inflation",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Japanese Yen surges to 7-month high; dollar drifts ahead of US inflation",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/JPY.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
