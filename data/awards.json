@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T12:44:11+00:00",
+ "generated": "2026-09-09T17:03:44+00:00",
  "count": 578,
  "with_value": 559,
  "with_winner": 218,
@@ -11006,6 +11006,107 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000003387",
+   "tender_no": "TS0000008732E",
+   "reference": "T-3110 to T-3114",
+   "title": "Supply of Computer Stationery, Toners & Media Items Electrical Items",
+   "organisation": "Faisalabad Electric Supply Company (FESCO) Director Material Mangement Faisalabad - Pakistan",
+   "bid_count": 12,
+   "lowest": [
+    "Art & Graphics",
+    "Good Luck Trader",
+    "Riz Technology",
+    "HB Enterprises"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Faisalabad",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003387",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003386",
+   "tender_no": "TS0000010246E",
+   "reference": "P67271",
+   "title": "Cleaning of Under Ground & Overhead Water Tanks at Main Campus & Residential Colony Civil Works",
+   "organisation": "Higher Education Commission (HEC) Directorate of Purchase &#38; Stores, Allama Iqbal Open University, Islamabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Hadi Brothers & Co"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003386",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003385",
+   "tender_no": "TS0000008311E",
+   "reference": "LED/022/26",
+   "title": "SLA FOR THE MAINTENANCE OF DATA CENTER INFRASTRUCTURE AT THE HEAD OFFICE FOR THE PERIOD OF 2 YEARS Repair/Maintenance Sui Northern Gas Pipelines Limited (SNGPL)",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Regional Office Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003385",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003384",
+   "tender_no": "TS0000009958E",
+   "reference": "P58934",
+   "title": "Invitation for Bids Notice - Renovation of Washrooms near Auditorium at Main Campus Islamabad Civil Works",
+   "organisation": "Higher Education Commission (HEC) Directorate of Purchase &#38; Stores, Allama Iqbal Open University, Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "Hadi Brothers & Co"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003384",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003383",
+   "tender_no": "TS0000006965E",
+   "reference": "ZTBL-09-2026",
+   "title": "Procurement of Transactions Monitoring, Sanctions, PEP Screening Software Solution & Lists Info and Comm Tech",
+   "organisation": "Ministry of Finance ZTBL Islamabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Bench Matrix for Lot-I"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003383",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003382",
    "tender_no": "TS0000006163E",
    "reference": "A (01)/PSEB/2026-14",
@@ -11398,6 +11499,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003359",
+   "tender_no": "TS0000004383E",
+   "reference": "4000- Advt/10/SGD-E-4",
+   "title": "Notice of tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Fiemens Engineering (Pvt) Ltd"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003359",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003358",
    "tender_no": "TS0000001571E",
    "reference": "FCS/KPAL/TE/010/26",
@@ -11559,6 +11680,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003350",
+   "tender_no": "TS0000003398E",
+   "reference": "4000-Advt/02/E-4",
+   "title": "Notice of Tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Fiemens Engineering (Pvt) Ltd"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003350",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003348",
    "tender_no": "TS0000008203E",
    "reference": "FCS/LKI/TE/015/26",
@@ -11654,6 +11795,26 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003344",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003343",
+   "tender_no": "TS0000006858E",
+   "reference": "6000-Advt-Sgd/86/E-6",
+   "title": "Notice of Tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Pro-Health"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003343",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -11780,6 +11941,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003336",
+   "tender_no": "TS0000007669E",
+   "reference": "4039-40/Ckl-Advt/02/E-4",
+   "title": "Notice of tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "M/A Sattar & Sons"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003336",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003335",
    "tender_no": "TS0000003672E",
    "reference": "FCS/LKI/TE/004/26",
@@ -11860,6 +12041,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003330",
+   "tender_no": "TS0000004645E",
+   "reference": "4021/19-FSL-Advt-02/E-4",
+   "title": "Notice of tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Nazir Brothers"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003330",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003329",
    "tender_no": "TS0000008921E",
    "reference": "TENDER NOTICE NO. PO/CPD/BANCA/24/2026",
@@ -11873,6 +12074,26 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003329",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003328",
+   "tender_no": "TS0000005298E",
+   "reference": "4023/Fsl/Advt/02/E-4",
+   "title": "Notice of tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Azmat Enterprises"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003328",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -11893,6 +12114,26 @@
    "city": "Faisalabad",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003327",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003326",
+   "tender_no": "TS0000003412E",
+   "reference": "6002-Advt-Fsl/45/E-6",
+   "title": "Notice of Tender Miscellaneous",
+   "organisation": "Ministry of Defence HQ DW&#38;CE (PAF) Rawalpindi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Nazeer & Sons Engineering Services"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003326",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -11979,6 +12220,24 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003321",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003319",
+   "tender_no": "TS0000011205E",
+   "reference": "CIVIL CONSTRUCTION DIVISION GSC LESCO TENDER NO. 01 (2026-27)",
+   "title": "CIVIL CONSTRUCTION DIVISION GSC LESCO TENDER NO. 01 (2026-27) Civil Works",
+   "organisation": "Ministry of Energy (Power Division) Lahore Electric Supply Compnay (LESCO) Deputy Manager Civil Construction Division GSC Lahore - Pakistan",
+   "bid_count": 44,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-09",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003319",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -12835,6 +13094,24 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003277",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003276",
+   "tender_no": "TS0000010827E",
+   "reference": "REDAMCO/01/RFP-Long Term",
+   "title": "Long-term leasing Mardan Property Leasing Pakistan Railways",
+   "organisation": "Pakistan Railways Railway Estate Development &#38; Marketing Company (Pvt) Ltd (REDAMCO) Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-07",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003276",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -49776,284 +50053,6 @@
    "city": "Multan",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001261",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001260",
-   "tender_no": "TS0000003919E",
-   "reference": "23/GSC (2025-26)",
-   "title": "Construction of tower foundation Civil Works",
-   "organisation": "Ministry of Energy (Power Division) Multan Electric Power Company (MEPCO) Multan - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Al- Khurram Associates (Pvt) Ltd. Lahore"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001260",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001259",
-   "tender_no": "TS0000005297E",
-   "reference": "138 (PRCL-RETRO-OGDCL- D&#38;O)/2026",
-   "title": "Reinsurance Coverage for Directors & Officer Liabilitty Services Ministry of Commerce",
-   "organisation": "Ministry of Commerce Pakistan Reinsurance Co.Ltd Karachi - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001259",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001258",
-   "tender_no": "TS0000002887E",
-   "reference": "224/26",
-   "title": "PROCUREMENT OF IT EQUIPMENT FOR DIFFERENT MEPCO OFFICES Equipments",
-   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Data Distinct Solutions Private Limited",
-    "Shirazi Trading Company (Pvt.) Ltd"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001258",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001257",
-   "tender_no": "TS0000005007E",
-   "reference": "232/26",
-   "title": "OUTSOURCING OF UTILITY VEHICLES Vehicles",
-   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Mystic Tours Pvt Ltd"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001257",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001256",
-   "tender_no": "TS0000004959E",
-   "reference": "F-26041845734 LP/T-4107/26-NB",
-   "title": "Supply of Cooling Towers & Associated Services Equipments",
-   "organisation": "Pakistan Security Printing Corporaion (PSPC) Pakistan Security Printing Corporation (PSPC) Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "National Technologies Inc. Pakistan Security Printing Corporaion (PSPC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001256",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001255",
-   "tender_no": "TS0000005179E",
-   "reference": "Ref.No.PMDC/Pro/Banglows/KH",
-   "title": "Tender Notice for Providing laying of RCC Slab Lintel and Repair/ Renovation of Two Nos Banglows Officers colony at PMDC Salt Mines khewra. Civil Works",
-   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Rashid Enterprises. Pakistan Mineral Development Corporation (PMDC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001255",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001254",
-   "tender_no": "TS0000005679E",
-   "reference": "P-17822 (762/PMU-D)",
-   "title": "Procurement of Lightning Arrestors, 100kN disc insulators and 11kV Post Insulators Electrical Items",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001254",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001253",
-   "tender_no": "TS0000005184E",
-   "reference": "Ref.No.PMDC/Pro/FencingMine/KH",
-   "title": "Tender Notice for Construction/Provision of underground road Fencing main mine at PMDC Salt Mine Khewra. Civil Works",
-   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Asif & Sons Enterprises. Pakistan Mineral Development Corporation (PMDC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001253",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001252",
-   "tender_no": "TS0000005682E",
-   "reference": "P-17729 (761/PMU-D)",
-   "title": "Procurement of different types of Panels Electrical Items",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Network Services International, Pak Elektron Limited (PEL)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001252",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001251",
-   "tender_no": "TS0000006070E",
-   "reference": "PIA Web",
-   "title": "PIA Web Tender. DGMPC-Laptop-2026 Info and Comm Tech",
-   "organisation": "Pakistan International Airlines (PIA) PIA Karachi - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Ibiox7 Corporation Pakistan International Airlines (PIA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001251",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001250",
-   "tender_no": "TS0000005174E",
-   "reference": "Ref.No.PMDC/Pro/CIVILTR/KH",
-   "title": "Tender Notice For Civil work of Construction of time Office & Washroom New Entrance of Salt Mine Tunnel at PMDC Khewra (Tourist Resort) Repair/Renovation of Washroom Near Old Tunnel PMDC Salt Mines, Khewra (Tourist Resort) Repair/Renovation of Washroom Near Parking area of PMDC Salt Mines Khewra (Tourist Resort) at PMDC Tourist Resort Khewra. Civil Works",
-   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
-   "bid_count": 6,
-   "lowest": [
-    "Hafiz Rahim & Brothers for Lot - 1 & Lot - 2",
-    "Asif & Sons Enterprises Pakistan Mineral Development Corporation (PMDC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001250",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001249",
-   "tender_no": "TS0000005684E",
-   "reference": "P-17906 (763/PMU-D)",
-   "title": "Procurement of Cables and Conducotrs Electrical Items",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Pakistan Cables"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001249",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001248",
-   "tender_no": "TS0000005692E",
-   "reference": "P-25811 (764/PMU-D)",
-   "title": "Procurement of Hardware for Grid Station and Transmission Line Electrical Items",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Shaheen Traders, Siddique Sons Engineering"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001248",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001247",
-   "tender_no": "TS0000005693E",
-   "reference": "P-27575(765/PMU-D)",
-   "title": "Procurement of Battery, Capacitor Racks and Neutral CTs fro Capacitor Bank Electrical Items",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Siddique Sons Engineering"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001247",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

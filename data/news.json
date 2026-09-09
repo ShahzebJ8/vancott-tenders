@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-09T12:44:16+00:00",
+ "generated": "2026-09-09T17:03:49+00:00",
  "count": 45,
  "relevant_count": 10,
- "domestic_count": 7,
+ "domestic_count": 6,
  "sources": {
-  "Dawn": "ok (12)",
+  "Dawn": "ok (11)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (6)",
-  "ARY News": "ok (7)"
+  "The Express Tribune": "ok (7)",
+  "ARY News": "ok (6)"
  },
  "stories": [
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40438656/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-09T11:14:52+00:00",
+   "published": "2026-09-09T15:59:13+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.36, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.37 against the dollar. Internationally, the Japanese yen steadied near its stronges…",
    "image": "https://i.brecorder.com/large/2026/09/091614313f22f47.webp",
    "topics": [
@@ -76,19 +76,6 @@
    "domestic": true
   },
   {
-   "title": "PM lauds Rs3bn export insurance initiative",
-   "url": "https://www.dawn.com/news/2027776/pm-lauds-rs3bn-export-insurance-initiative",
-   "source": "Dawn",
-   "published": "2026-09-06T04:54:42+00:00",
-   "summary": "LAHORE: Prime Minister Shehbaz Sharif on Saturday welcomed the launch of export insurance coverage by the Export Development Fund and the Export-Import Bank of Pakistan, saying the facility would help SMEs expand the country’s exports. Chairing a meeting on the EDF, he said the Rs3 billion Risk Pool would expand access…",
-   "image": "https://i.dawn.com/large/2026/09/060953545dc5324.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Govt clears 11,695 net-metering applications",
    "url": "https://www.dawn.com/news/2027777/govt-clears-11695-net-metering-applications",
    "source": "Dawn",
@@ -100,6 +87,45 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Most Gulf bourses in red as Middle East conflict escalates",
+   "url": "https://www.brecorder.com/news/40438674/most-gulf-bourses-in-red-as-middle-east-conflict-escalates",
+   "source": "Business Recorder",
+   "published": "2026-09-09T14:13:37+00:00",
+   "summary": "Most Gulf stock markets closed lower on Wednesday as the intensifying Middle East conflict and mounting energy security risks weighed on investor sentiment. The conflict escalated sharply after Houthi forces launched strikes across several Saudi cities, setting key oil installations ablaze and drawing a crucial U.S. al…",
+   "image": "https://i.brecorder.com/large/2026/09/09191322e0758cb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Coforge slides nearly 9% as chairman quits over board evaluation concerns",
+   "url": "https://www.brecorder.com/news/40438673/indias-coforge-slides-nearly-9-as-chairman-quits-over-board-evaluation-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-09T13:53:30+00:00",
+   "summary": "Indian IT firm Coforge’s shares fell as much as 8.7% on Wednesday, their biggest decline in more than a year, after Chairman Om Prakash Bhatt resigned after an internal audit raised concerns into a key review of the board’s performance. The company’s stock hit a three-week low of 1,780.70 rupees and was among the worst…",
+   "image": "https://i.brecorder.com/large/2026/09/091852356970c09.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India central bank likely steps in to stem Indian rupee's oil, outflow-driven fall, traders say",
+   "url": "https://www.brecorder.com/news/40438672/india-central-bank-likely-steps-in-to-stem-indian-rupees-oil-outflow-driven-fall-traders-say",
+   "source": "Business Recorder",
+   "published": "2026-09-09T13:47:30+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India likely stepped into the currency market on Wednesday, with the rupee coming under pressure from rising oil prices and dollar outflows, traders said. The Indian rupee recovered to 95.07 per dollar following the intervention, after hitting a session low of 95.2250.",
+   "image": "https://i.brecorder.com/large/2026/09/09184655edad273.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "NSE likely to price IPO at 1,700-1,785 Indian rupees per share, source says",
@@ -147,19 +173,6 @@
    "published": "2026-09-09T11:21:53+00:00",
    "summary": "MUMBAI: The Reserve Bank of India is likely conducted near-maturity dollar/rupee sell-buy swaps, as part of its recent efforts to absorb surplus rupee liquidity stemming from overseas deposits raised by lenders, seven bankers said. The central bank is conducting the swaps with a maturity in September, four of the banke…",
    "image": "https://i.brecorder.com/large/2026/09/0916214471ae25b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Selling continues, KSE-100 settles nearly 700 points lower",
-   "url": "https://www.brecorder.com/news/40438618/psx-selling-continues-kse-100-settles-nearly-700-points-lower",
-   "source": "Business Recorder",
-   "published": "2026-09-09T11:16:51+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as negative sentiment prevailed among investors following renewed attacks across ‌the Middle East, with the benchmark KSE-100 Index settling with a loss of nearly 700 points on Wednesday. The benchmark index opened around the 173,000 level and initially mo…",
-   "image": "https://i.brecorder.com/large/2026/09/091046553a965ed.webp",
    "topics": [
     "Economy"
    ],
@@ -325,12 +338,12 @@
    "domestic": false
   },
   {
-   "title": "Thai baht/US dollar steady on Wednesday",
-   "url": "https://www.brecorder.com/news/40438621/thai-bahtus-dollar-steady-on-wednesday",
-   "source": "Business Recorder",
-   "published": "2026-09-09T06:22:40+00:00",
-   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Wednesday. At 0158 GMT, the baht was steady at 32.89 versus the dollar, after trading in a range of 32.880 to 32.945. It ended the previous session at 32.89 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/09112219ed542d1.webp",
+   "title": "PSX falls 699 points as war jitters grip market",
+   "url": "https://tribune.com.pk/story/2628312/psx-swings-amid-us-iran-tensions",
+   "source": "The Express Tribune",
+   "published": "2026-09-09T04:07:42+00:00",
+   "summary": "KSE-100 retreats after a choppy session marked by late selling that wiped out earlier resilience",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -508,6 +521,19 @@
    "domestic": false
   },
   {
+   "title": "FBR ends super tax for specific taxpayers under new rules",
+   "url": "https://arynews.tv/fbr-ends-super-tax-for-specific-taxpayers-under-new-rules",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR ends super tax for specific taxpayers under new rules",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FBR.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan issues tender to import 750,000 tonnes of wheat",
    "url": "https://arynews.tv/pakistan-issues-tender-to-import-750000-tonnes-of-wheat",
    "source": "ARY News",
@@ -568,33 +594,6 @@
    "published": null,
    "summary": "Japanese Yen surges to 7-month high; dollar drifts ahead of US inflation",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/JPY.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt issues LNG cargo tender for third time",
-   "url": "https://arynews.tv/govt-issues-lng-cargo-tender-for-third-time",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Govt issues LNG cargo tender for third time",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG-G.jpg",
-   "topics": [
-    "Energy & power",
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan decides to export imported sugar",
-   "url": "https://arynews.tv/pakistan-decides-to-export-imported-sugar",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan decides to export imported sugar",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/10/Sugar-import.jpg",
    "topics": [
     "Economy"
    ],
