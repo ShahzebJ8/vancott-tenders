@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T00:28:54+00:00",
+ "generated": "2026-09-10T05:05:33+00:00",
  "count": 578,
  "with_value": 559,
  "with_winner": 218,
@@ -11005,6 +11005,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003393",
+   "tender_no": "TS0000011787E",
+   "reference": "SC-08/26 (CKT-I) Provision of Lunch, Tea, Water &#38; Fruite Services for SNGPL Cricket Team",
+   "title": "SC-08/26 (CKT-I) Provision of Lunch, Tea, Water & Fruite Services for SNGPL Cricket Team Services",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Lahore - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "Ahmed Trading Company, Sheikhupra"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-10",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003393",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003387",
    "tender_no": "TS0000008732E",
@@ -50033,26 +50053,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001262",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001261",
-   "tender_no": "TS0000003199E",
-   "reference": "21/GSC (2025-26)",
-   "title": "Construction of tower foundation to raise the ground clearance in favour of following Transmission Lines (NHA Deposit Work) Civil Works",
-   "organisation": "Ministry of Energy (Power Division) Multan Electric Power Company (MEPCO) Multan - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Al- Khurram Associates (Pvt) Ltd. Lahore"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-10",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001261",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
