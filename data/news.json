@@ -1,21 +1,34 @@
 {
- "generated": "2026-09-10T14:07:01+00:00",
- "count": 49,
- "relevant_count": 15,
- "domestic_count": 7,
+ "generated": "2026-09-10T17:51:31+00:00",
+ "count": 45,
+ "relevant_count": 14,
+ "domestic_count": 8,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (17)",
+  "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "SBP-held foreign exchange reserves surge $1.21bn to $18.33bn",
+   "url": "https://www.brecorder.com/news/40438880/sbp-held-foreign-exchange-reserves-surge-121bn-to-1833bn",
+   "source": "Business Recorder",
+   "published": "2026-09-10T16:10:08+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $1.21 billion to $18.33 billion during the week ended September 4, 2026, mainly due to the receipt of government commercial loan proceeds. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves s…",
+   "image": "https://i.brecorder.com/large/2026/09/102109553aec88a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40438859/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-10T13:42:42+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.35, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.36 against the dollar. Internationally, Currency markets treaded water in cautious…",
+   "published": "2026-09-10T15:11:11+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.35, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.36 against the dollar. Internationally, currency markets treaded water in cautious…",
    "image": "https://i.brecorder.com/large/2026/09/10160943976a1ed.webp",
    "topics": [
     "Economy"
@@ -24,15 +37,14 @@
    "domestic": true
   },
   {
-   "title": "Pakistan cuts regulatory duty on imported smartphones by up to 20%",
-   "url": "https://www.brecorder.com/news/40438851/pakistan-cuts-regulatory-duty-on-imported-smartphones-by-up-to-20",
-   "source": "Business Recorder",
-   "published": "2026-09-10T09:51:18+00:00",
-   "summary": "ISLAMABAD: The government has slashed regulatory and additional customs duties on imported mobile phones for the fiscal year 2026-27, bringing down the regulatory duty on premium smartphones priced above $500 from Rs22,000 to Rs17,600 per unit, according to a commerce ministry brief. Under the revised tariff structure,…",
-   "image": "https://i.brecorder.com/large/2026/09/10144037ea4d35e.webp",
+   "title": "IMF mission due on Sept 23 for biannual review of Pakistan’s economic performance",
+   "url": "https://www.dawn.com/news/2028892/imf-mission-due-on-sept-23-for-biannual-review-of-pakistans-economic-performance",
+   "source": "Dawn",
+   "published": "2026-09-10T14:31:51+00:00",
+   "summary": "ISLAMABAD: An International Monetary Fund (IMF) mission is due to visit Pakistan on September 23 for a biannual review of the country’s economic performance and implementation of the $7 billion Extended Fund Facility (EFF) and the $1.4bn Resilience and Sustainability Facility (RSF) for the period ending June 30, 2026. …",
+   "image": "https://i.dawn.com/large/2026/09/101834065c8f1a8.webp",
    "topics": [
-    "Budget & spending",
-    "Economy"
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -101,6 +113,45 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Pakistan can turn rooftop solar boom into ‘swarm grids’: study",
+   "url": "https://www.brecorder.com/news/40438886/pakistan-can-turn-rooftop-solar-boom-into-swarm-grids-study",
+   "source": "Business Recorder",
+   "published": "2026-09-10T17:11:42+00:00",
+   "summary": "Pakistan can harness its growth in rooftop solar through decentralised, community-driven “swarm grids”, but regulatory reform remains the key missing link between technical feasibility and large-scale deployment, according to a new study. The Policy Research Institute for Equitable Development (PRIED) on Thursday launc…",
+   "image": "https://i.brecorder.com/large/2026/09/1022065104d92b6.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Most Gulf bourses ease amid escalating US-Iran hostilities",
+   "url": "https://www.brecorder.com/news/40438878/most-gulf-bourses-ease-amid-escalating-us-iran-hostilities",
+   "source": "Business Recorder",
+   "published": "2026-09-10T15:04:44+00:00",
+   "summary": "Most Gulf stock markets closed lower on Thursday, as escalating hostilities between the United States and Iran fuelled concerns about potential disruptions across vital regional energy corridors. The decline followed the fiercest maritime confrontation of the six-month conflict. Iran struck 10 vessels near the Strait o…",
+   "image": "https://i.brecorder.com/large/2026/09/102002303636db6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dubai Airports projects 70 million passengers this year as traffic recovers, CEO says",
+   "url": "https://www.brecorder.com/news/40438873/dubai-airports-projects-70-million-passengers-this-year-as-traffic-recovers-ceo-says",
+   "source": "Business Recorder",
+   "published": "2026-09-10T14:17:51+00:00",
+   "summary": "DUBAI: Dubai Airports expects annual passenger traffic to reach around 70 million by the end of the year, down from its previous target, CEO Paul Griffiths said on Thursday, noting that the original goal could now be reached by the end of 2027. The Iran war and the resulting temporary closures of Gulf airspace forced t…",
+   "image": "https://i.brecorder.com/large/2026/09/10191638754aa8e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "RBI's liquidity mop-up via FX swaps offers a channel of support for rupee",
@@ -195,19 +246,6 @@
    "domestic": false
   },
   {
-   "title": "PSX, LADIESFUND eye first gender-focused ETF in Pakistan",
-   "url": "https://www.brecorder.com/news/40438853/psx-ladiesfund-eye-first-gender-focused-etf-in-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-10T10:35:40+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) and LADIESFUND Investments, a women-focused investment initiative of 786 Investments Ltd., are working on a proposed gender-focused exchange-traded fund (ETF) and Green Gender Bond as the bourse seeks to increase women’s participation in the capital markets. The initiative was announce…",
-   "image": "https://i.brecorder.com/large/2026/09/10152918ff5dcf1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Qatari LNG cargo reaches Pakistan",
    "url": "https://www.brecorder.com/news/40438850/qatari-lng-cargo-reaches-pakistan",
    "source": "Business Recorder",
@@ -216,19 +254,6 @@
    "image": "https://i.brecorder.com/large/2026/09/101344307d516b0.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran",
-   "url": "https://www.brecorder.com/news/40438846/how-a-billion-dollar-sanctions-dodge-kept-chinese-goods-flowing-to-iran",
-   "source": "Business Recorder",
-   "published": "2026-09-10T08:11:15+00:00",
-   "summary": "PARIS: Iran has used a barter-like arrangement to bypass sanctions on its oil sales and buy billions of dollars’ worth of goods from China, including military gear, two senior Iranian sources and three other people familiar with the matter told Reuters. The secretive trade mechanism, in which Iranian oil is exchanged ​…",
-   "image": "https://i.brecorder.com/large/2026/09/1013075361cff55.gif",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -318,58 +343,6 @@
    "published": "2026-09-10T06:01:09+00:00",
    "summary": "Copper hovered near record levels on Thursday , with scarce deliverable metal in markets outside the United States continuing to underpin prices, while oil breached $100-a-barrel and investors awaited US inflation data. Benchmark three-month copper on the London Metal Exchange slipped 0.07% to $14,757 a metric ton as o…",
    "image": "https://i.brecorder.com/large/2026/09/10110055a125ad5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fitch eyes Japan budget for balance between growth and fiscal discipline",
-   "url": "https://www.brecorder.com/news/40438822/fitch-eyes-japan-budget-for-balance-between-growth-and-fiscal-discipline",
-   "source": "Business Recorder",
-   "published": "2026-09-10T05:58:29+00:00",
-   "summary": "TOKYO: Fitch Ratings will scrutinise Japan’s budget for the next fiscal year for clues on whether Prime Minister Sanae Takaichi can balance her growth-focused spending agenda with fiscal discipline, a senior analyst said. “We need to look at the composition of the final budget proposal to see the balance between the ‘r…",
-   "image": "https://i.brecorder.com/large/2026/09/10105811977da29.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China, Hong Kong stocks track regional peers lower on oil-driven inflation fears",
-   "url": "https://www.brecorder.com/news/40438821/china-hong-kong-stocks-track-regional-peers-lower-on-oil-driven-inflation-fears",
-   "source": "Business Recorder",
-   "published": "2026-09-10T05:52:18+00:00",
-   "summary": "SHANGHAI: Mainland China and Hong Kong stocks slipped on Thursday, as escalating Middle East tensions rekindled concerns over higher oil prices and inflationary pressures. At the midday break, the benchmark Shanghai Composite index dropped 0.4%, while the blue-chip CSI300 index also lost 0.4%. The smaller Shenzhen inde…",
-   "image": "https://i.brecorder.com/large/2026/09/101052023640f70.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India bonds face twin drag from rising oil, US yields",
-   "url": "https://www.brecorder.com/news/40438819/india-bonds-face-twin-drag-from-rising-oil-us-yields",
-   "source": "Business Recorder",
-   "published": "2026-09-10T05:43:48+00:00",
-   "summary": "MUMBAI: Indian government bonds weakened for a second straight day on Thursday, pressured by rising US Treasury yields and crude prices holding above $100/barrel, raising inflation concerns. Brent crude marched higher overnight after US and Iran struck tankers near the Strait of Hormuz, deepening supply worries. For In…",
-   "image": "https://i.brecorder.com/large/2026/09/10104330b159d08.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Malaysia palm oil stocks hit 8-month high as output rises, exports fall",
-   "url": "https://www.brecorder.com/news/40438818/malaysia-palm-oil-stocks-hit-8-month-high-as-output-rises-exports-fall",
-   "source": "Business Recorder",
-   "published": "2026-09-10T05:41:46+00:00",
-   "summary": "KUALA LUMPUR: Malaysia’s palm oil inventories hit an eight-month high in August as production surged to the highest level since December and exports declined, data from the industry regulator showed on Thursday. Malaysia’s August palm oil stocks rose 7.48% from July to 2.82 million metric tons, extending gains for a fi…",
-   "image": "https://i.brecorder.com/large/2026/09/101041313940c2e.webp",
    "topics": [
     "Economy"
    ],
@@ -559,19 +532,6 @@
    "domestic": false
   },
   {
-   "title": "Why has oil stayed below $100 a barrel despite supply disruptions amid US-Iran escalation?",
-   "url": "https://www.dawn.com/news/2028333/why-has-oil-stayed-below-100-a-barrel-despite-supply-disruptions-amid-us-iran-escalation",
-   "source": "Dawn",
-   "published": "2026-09-08T05:53:37+00:00",
-   "summary": "Global oil benchmark Brent crude has rallied this month but stayed below $100 a barrel despite recent escalation in the US-Iran conflict that has disrupted Gulf exports from the Strait of Hormuz and the Red Sea. Crude oil shipments from Middle East producers are at about 11 million barrels per day (bpd) now, from 18m b…",
-   "image": "https://i.dawn.com/large/2026/09/08104929e519f0f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "UAE govt mulls alternative routes for oil exports",
    "url": "https://www.dawn.com/news/2028273/uae-govt-mulls-alternative-routes-for-oil-exports",
    "source": "Dawn",
@@ -598,6 +558,19 @@
    "domestic": false
   },
   {
+   "title": "Pakistan sets export acceleration as first priority under URAAN plan",
+   "url": "https://arynews.tv/pakistan-sets-export-acceleration-as-first-priority-under-uraan-plan",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan sets export acceleration as first priority under URAAN plan",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Export-containers.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "PSX market closes lower as KSE-100 index dips 3,078.56 points",
    "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-dips-3078-56-points",
    "source": "ARY News",
@@ -621,33 +594,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan issues tender to import 750,000 tonnes of wheat",
-   "url": "https://arynews.tv/pakistan-issues-tender-to-import-750000-tonnes-of-wheat",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan issues tender to import 750,000 tonnes of wheat",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Wheat.jpg",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Wall St slips as steep oil prices stoke inflation concerns ahead of CPI",
-   "url": "https://arynews.tv/wall-st-slips-as-steep-oil-prices-stoke-inflation-concerns-ahead-of-cpi",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Wall St slips as steep oil prices stoke inflation concerns ahead of CPI",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/New-York-Stock.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
