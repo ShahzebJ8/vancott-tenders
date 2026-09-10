@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-10T17:51:31+00:00",
- "count": 45,
+ "generated": "2026-09-10T20:25:46+00:00",
+ "count": 43,
  "relevant_count": 14,
  "domestic_count": 8,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (9)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (3)"
  },
  "stories": [
@@ -233,19 +233,6 @@
    "domestic": false
   },
   {
-   "title": "Unity Foods case: Officials denied bail, proceedings adjourned",
-   "url": "https://www.brecorder.com/news/40438856/unity-foods-case-officials-denied-bail-proceedings-adjourned",
-   "source": "Business Recorder",
-   "published": "2026-09-10T10:48:00+00:00",
-   "summary": "Four current and former officials of Unity Foods Limited, a company listed at the Pakistan Stock Exchange (PSX), remained in custody after they were unable to secure bail in the Federal Investigation Agency’s (FIA) multi-billion-rupee corporate crime case. According to a Securities and Exchange Commission (SECP) statem…",
-   "image": "https://i.brecorder.com/large/2026/09/101547454ad2f93.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Qatari LNG cargo reaches Pakistan",
    "url": "https://www.brecorder.com/news/40438850/qatari-lng-cargo-reaches-pakistan",
    "source": "Business Recorder",
@@ -425,19 +412,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "$44b remittance run-rate masks risks",
-   "url": "https://tribune.com.pk/story/2628416/44b-remittance-run-rate-masks-risks",
-   "source": "The Express Tribune",
-   "published": "2026-09-09T15:19:54+00:00",
-   "summary": "Western inflows rise but Gulf still dominates; no-rebate regime fails to dent inflows",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
