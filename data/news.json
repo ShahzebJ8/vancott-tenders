@@ -1,15 +1,171 @@
 {
- "generated": "2026-09-11T00:52:15+00:00",
- "count": 43,
- "relevant_count": 14,
- "domestic_count": 8,
+ "generated": "2026-09-11T05:38:59+00:00",
+ "count": 51,
+ "relevant_count": 17,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (16)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (3)"
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Shaping Pakistan's future through integrating financial literacy in curriculum",
+   "url": "https://www.brecorder.com/news/40438999/shaping-pakistans-future-through-integrating-financial-literacy-in-curriculum",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:55:08+00:00",
+   "summary": "KARACHI: The National Institute of Banking & Finance–Pakistan (NIBAF-P), under the guidance of the State Bank of Pakistan (SBP), marked a significant milestone in Pakistan’s financial education journey with the culmination of the Inter-Provincial Curriculum Workshop (IPCW), bringing together curriculum experts and repr…",
+   "image": "https://i.brecorder.com/large/2026/09/11085503d6dd68c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM urged to reduce petroleum levy by Rs60 per litre",
+   "url": "https://www.brecorder.com/news/40438995/pm-urged-to-reduce-petroleum-levy-by-rs60-per-litre",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:47:45+00:00",
+   "summary": "KARACHI: The Pakistan Business Forum (PBF) has urged Prime Minister Shehbaz Sharif to immediately reduce the petroleum levy by Rs60 per litre, saying the prevailing prices of petroleum products have become unaffordable for both consumers and the business community. The business forum said inflation was continuing to ri…",
+   "image": "https://i.brecorder.com/large/2026/09/11084711467ef95.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Key measures to support exports: Ministries, provinces directed to maintain momentum",
+   "url": "https://www.brecorder.com/news/40438991/key-measures-to-support-exports-ministries-provinces-directed-to-maintain-momentum",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:40:15+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar chaired an inter-ministerial meeting Thursday to advance Pakistan’s trade and export promotion agenda. The DPM/FM emphasised strengthening trade facilitation, enhancing the quality and competitiveness of Pakistani products, expanding market ac…",
+   "image": "https://i.brecorder.com/large/2026/09/1108401243b1811.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "IPAK reports sevenfold surge in FY26 profit",
+   "url": "https://www.brecorder.com/news/40438990/ipak-reports-sevenfold-surge-in-fy26-profit",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:39:16+00:00",
+   "summary": "KARACHI: IPAK Group’s consolidated profit after tax (PAT) surged more than sevenfold to Rs4.95 billion for FY2026, compared with Rs664 million in the previous year, supported by higher sales, significant margin expansion and improved operating performance. According to the company’s results, consolidated earnings per s…",
+   "image": "https://i.brecorder.com/large/2026/09/11083831a192762.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Export-insurance risk pool for SMEs welcomed",
+   "url": "https://www.brecorder.com/news/40438989/export-insurance-risk-pool-for-smes-welcomed",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:37:45+00:00",
+   "summary": "KARACHI: Mian Zahid Hussain, President Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman National Business Group Pakistan and Chairman Policy Advisory Board FPCCI, has welcomed the Rs3 billion export-insurance risk pool for small- and medium-size enterprises established through …",
+   "image": "https://i.brecorder.com/large/2026/09/11083741eb89359.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "CDWP approves revised plan worth Rs4.15bn for PU",
+   "url": "https://www.brecorder.com/news/40438985/cdwp-approves-revised-plan-worth-rs415bn-for-pu",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:32:05+00:00",
+   "summary": "LAHORE: The University of the Punjab has secured a major boost for its academic and research infrastructure after the Central Development Working Party (CDWP) approved a revised development plan worth Rs4.15 billion for the institution. The approval came for the second revision of the PC-I titled “Strengthening of Acad…",
+   "image": "https://i.brecorder.com/large/2026/09/11083153f3f806d.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "‘Leadership Development Programme: Journey to Next Level’ held",
+   "url": "https://www.brecorder.com/news/40438980/leadership-development-programme-journey-to-next-level-held",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:22:42+00:00",
+   "summary": "LAHORE: The two-day “Leadership Development Program: Journey to the Next Level” was successfully conducted at Executive Development Institute (EDI) of the National School of Public Policy (NSPP), Lahore from Wednesday, 09 to Thursday, 10 September, 2026. The Executive Development Institute arranged a two-day “Leadershi…",
+   "image": "https://i.brecorder.com/large/2026/09/11082202f7d01fe.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "‘KPRA Sahulat’ Mobile App launched to facilitate taxpayers",
+   "url": "https://www.brecorder.com/news/40438979/kpra-sahulat-mobile-app-launched-to-facilitate-taxpayers",
+   "source": "Business Recorder",
+   "published": "2026-09-11T03:19:09+00:00",
+   "summary": "PESHAWAR: Khyber Pakhtunkhwa Revenue Authority (KPRA) has officially launched its dedicated mobile application, ‘KPRA Sahulat’, on the Google Play Store. The application is designed to provide citizens, taxpayers, and business owners with seamless digital access to essential sales tax services and transparent grievance…",
+   "image": "https://i.brecorder.com/large/2026/09/110818402723008.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Vessel carrying Qatari LNG arrives at Port Qasim",
+   "url": "https://www.dawn.com/news/2029001/vessel-carrying-qatari-lng-arrives-at-port-qasim",
+   "source": "Dawn",
+   "published": "2026-09-11T02:31:30+00:00",
+   "summary": "KARACHI: A cargo ship carrying around 82,000 tonnes of liquefied natural gas (LNG) from Qatar arrived in Pakistan through the near-closed Strait of Hormuz, reported Anadolu news agency on Thursday. Al Marrouna, carrying LNG from Qatar’s Ras Laffan terminal, transited through the strait on Monday and docked at the Engro…",
+   "image": "https://i.dawn.com/large/2026/09/110648272859b4c.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP forex reserves surge $1.2bn",
+   "url": "https://www.dawn.com/news/2028999/sbp-forex-reserves-surge-12bn",
+   "source": "Dawn",
+   "published": "2026-09-11T02:01:32+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan’s (SBP) foreign exchange reserves surged by $1.2 billion to $18.328bn during the week ended on Sept 4. The central bank announced on Thursday that the increase in forex reserves was due to commercial loan proceeds received by the Government of Pakistan. The country’s overall liquid f…",
+   "image": "https://i.dawn.com/large/2026/09/11075551417f258.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Equities plunge below 169,000 on panic-selling",
+   "url": "https://www.dawn.com/news/2028998/equities-plunge-below-169000-on-panic-selling",
+   "source": "Dawn",
+   "published": "2026-09-11T02:01:32+00:00",
+   "summary": "KARACHI: Bearish sentiment dominated the Pakistan Stock Exchange (PSX) on Thursday, pushing the benchmark index below 169,000 amid widespread panic selling by nervous investors for the fourth session in a row. Driven by heightened economic uncertainty stemming from high oil prices caused by supply disruptions and inten…",
+   "image": "https://i.dawn.com/large/2026/09/110650101bdd999.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR allowed to retain Rs390bn in refunds, Senate committee told",
+   "url": "https://www.dawn.com/news/2029005/fbr-allowed-to-retain-rs390bn-in-refunds-senate-committee-told",
+   "source": "Dawn",
+   "published": "2026-09-11T02:01:31+00:00",
+   "summary": "ISLAMABAD: Amid complaints of inordinate delays in the processing of tax refunds on various pretexts, the Federal Board of Revenue (FBR) on Thursday told a parliamentary panel that it was allowed under the International Monetary Fund (IMF) programme to hold up to Rs390 billion in tax refunds at any time. The disclosure…",
+   "image": "https://i.dawn.com/large/2026/09/1107392896870f4.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "SBP-held foreign exchange reserves surge $1.21bn to $18.33bn",
    "url": "https://www.brecorder.com/news/40438880/sbp-held-foreign-exchange-reserves-surge-121bn-to-1833bn",
@@ -102,29 +258,68 @@
    "domestic": true
   },
   {
-   "title": "PSX retreats below 174,000 on profit-taking",
-   "url": "https://www.dawn.com/news/2028274/psx-retreats-below-174000-on-profit-taking",
-   "source": "Dawn",
-   "published": "2026-09-08T01:57:05+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Monday failed to sustain the weekend’s mild recovery, as the situation in the Middle East and political uncertainty weighed on investor sentiment, triggering profit-taking across the board. This pressure forced the benchmark KSE-100 index to close below 174,000 points, with…",
-   "image": "https://i.dawn.com/large/2026/09/08061224af213ed.webp",
+   "title": "PSX: Selling continues, KSE-100 sheds nearly 2,600 points",
+   "url": "https://www.brecorder.com/news/40439013/psx-selling-continues-kse-100-sheds-nearly-2600-points",
+   "source": "Business Recorder",
+   "published": "2026-09-11T04:52:50+00:00",
+   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) amid escalating geopolitical tensions, with the benchmark KSE-100 Index shedding over 1.5% during the opening minutes of trading on Friday. At 9:50am, the benchmark index was hovering at 166,273.27, down by 2,591.77 points or 1.53%. Selling was observed in…",
+   "image": "https://i.brecorder.com/large/2026/09/11093704b0dbf02.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "IMF pushes back on report that candidate dropped over tariff remarks",
-   "url": "https://www.brecorder.com/news/40439005/imf-pushes-back-on-report-that-candidate-dropped-over-tariff-remarks",
+   "title": "Global bonds buckle as surging oil prices inflame inflation risks",
+   "url": "https://www.brecorder.com/news/40439010/global-bonds-buckle-as-surging-oil-prices-inflame-inflation-risks",
    "source": "Business Recorder",
-   "published": "2026-09-10T23:43:56+00:00",
-   "summary": "WASHINGTON: The International Monetary Fund pushed back Thursday on a report that its lead candidate for chief economist had been dropped after he was found to have criticized the Trump administration’s policies. London School of Economics professor Ricardo Reis was set to take on the role when the IMF changed its posi…",
-   "image": "https://i.brecorder.com/large/2026/09/1104433396c2d94.webp",
+   "published": "2026-09-11T03:03:40+00:00",
+   "summary": "SYDNEY: Global bond yields ​spiked to new highs and sharemarkets slumped on Friday as soaring oil prices inflamed inflation risks, sending investors scrambling to price in ‌more policy tightening from central banks across the globe. Brent crude climbed to a four-month high of $109.97 a barrel on Friday after a 6% overn…",
+   "image": "https://i.brecorder.com/large/2026/09/110758582ab54ad.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar holds gains, yen slips as Mideast energy shock deepens",
+   "url": "https://www.brecorder.com/news/40439009/dollar-holds-gains-yen-slips-as-mideast-energy-shock-deepens",
+   "source": "Business Recorder",
+   "published": "2026-09-11T02:56:51+00:00",
+   "summary": "SINGAPORE: The dollar held near its highest ​levels of the past week and the yen slipped for a second day at the start of Asian ‌trading on Friday as renewed fears of energy supply disruptions in the Middle East pushed up bond yields and oil prices. The US dollar index , which measures the greenback’s strength against …",
+   "image": "https://i.brecorder.com/large/2026/09/11075442ee4c191.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to extend slide; oil rally, surging US yields chip away at RBI support",
+   "url": "https://www.brecorder.com/news/40439008/indian-rupee-to-extend-slide-oil-rally-surging-us-yields-chip-away-at-rbi-support",
+   "source": "Business Recorder",
+   "published": "2026-09-11T02:51:54+00:00",
+   "summary": "MUMBAI: The Indian rupee is on course to extend its weekly decline at Friday’s open , with the oil rally gathering pace, pushing US Treasury ​yields higher and fuelling risk aversion. The Indian rupee is expected to open ‌in the 95.62 to 95.68 range, according to traders, after settling at 95.44 to the dollar on Thursd…",
+   "image": "https://i.brecorder.com/large/2026/09/1107485946dd827.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold on track for third weekly loss as US inflation data looms",
+   "url": "https://www.brecorder.com/news/40439007/gold-on-track-for-third-weekly-loss-as-us-inflation-data-looms",
+   "source": "Business Recorder",
+   "published": "2026-09-11T02:47:15+00:00",
+   "summary": "Gold prices edged higher ‌on Friday but were headed for a third consecutive weekly fall as expectations of a US rate hike strengthened, while traders awaited US consumer price index data for further ​clues on the Federal Reserve’s policy path. Spot gold was up 0.2% at $4,324.79 ​per ounce, by 0020 GMT, but down more th…",
+   "image": "https://i.brecorder.com/large/2026/09/110745515a0a9b5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -154,19 +349,6 @@
    "domestic": false
   },
   {
-   "title": "Dubai Airports projects 70 million passengers this year as traffic recovers, CEO says",
-   "url": "https://www.brecorder.com/news/40438873/dubai-airports-projects-70-million-passengers-this-year-as-traffic-recovers-ceo-says",
-   "source": "Business Recorder",
-   "published": "2026-09-10T14:17:51+00:00",
-   "summary": "DUBAI: Dubai Airports expects annual passenger traffic to reach around 70 million by the end of the year, down from its previous target, CEO Paul Griffiths said on Thursday, noting that the original goal could now be reached by the end of 2027. The Iran war and the resulting temporary closures of Gulf airspace forced t…",
-   "image": "https://i.brecorder.com/large/2026/09/10191638754aa8e.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "RBI's liquidity mop-up via FX swaps offers a channel of support for rupee",
    "url": "https://www.brecorder.com/news/40438871/rbis-liquidity-mop-up-via-fx-swaps-offers-a-channel-of-support-for-rupee",
    "source": "Business Recorder",
@@ -186,19 +368,6 @@
    "published": "2026-09-10T13:35:09+00:00",
    "summary": "Some top investors in India’s National Stock Exchange (NSE) are reducing the number of shares they will be selling in the bourse’s upcoming IPO as they expect the shares to rise after listing compared to the low offer price, three sources said. NSE’s IPO will be an offer-for-sale by existing shareholders with no fresh …",
    "image": "https://i.brecorder.com/large/2026/09/101834049978217.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Cherat Cement seeks to acquire 30% stake in NICL",
-   "url": "https://www.brecorder.com/news/40438865/cherat-cement-seeks-to-acquire-30-stake-in-nicl",
-   "source": "Business Recorder",
-   "published": "2026-09-10T12:00:21+00:00",
-   "summary": "Cherat Cement Company Limited (CCCL), a major player in Pakistan’s cement industry, has expressed its intention to acquire at least 30% of the ordinary shares of Nimir Industrial Chemicals Limited (NICL), a company listed on the Pakistan Stock Exchange (PSX). “Nimir Industrial Chemicals Limited has received a Notice of…",
-   "image": "https://i.brecorder.com/large/2026/09/1017000480522de.webp",
    "topics": [
     "Economy"
    ],
@@ -278,58 +447,6 @@
    "published": "2026-09-10T07:19:49+00:00",
    "summary": "FUKUI: The Bank of Japan may be forced to raise interest rates rapidly if inflation accelerates as the country’s financial conditions remain accommodative, board member Kazuyuki Masu said on Thursday. “I am convinced the BOJ needs to raise its policy rate further as it falls solidly within the estimated range of the ne…",
    "image": "https://i.brecorder.com/large/2026/09/10121846f1b5119.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar steady on Thursday",
-   "url": "https://www.brecorder.com/news/40438834/thai-bahtus-dollar-steady-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-09-10T07:09:01+00:00",
-   "summary": "BANGKOK: The Thai baht was unchanged against the US dollar on Thursday. At 0211 GMT, the baht was unchanged at 32.89 versus the dollar, after trading in a range of 32.900 to 32.960. It ended the previous session at 32.89 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/1012084951dba41.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar holds firm as yields hit six-month highs",
-   "url": "https://www.brecorder.com/news/40438830/australian-dollar-holds-firm-as-yields-hit-six-month-highs",
-   "source": "Business Recorder",
-   "published": "2026-09-10T06:50:40+00:00",
-   "summary": "SYDNEY: The Australian dollar paused near another fresh top on Thursday as investors ramped up wagers on a near-term hike in interest rates, lifting short-term bond yields to their highest in almost six months. A string of hawkish comments from the Reserve Bank of Australia has combined with the inflationary pulse from…",
-   "image": "https://i.brecorder.com/large/2026/09/10115026837bd37.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan holds near 3-1/2-year high as investors await US inflation data",
-   "url": "https://www.brecorder.com/news/40438826/yuan-holds-near-3-12-year-high-as-investors-await-us-inflation-data",
-   "source": "Business Recorder",
-   "published": "2026-09-10T06:11:17+00:00",
-   "summary": "SHANGHAI: China’s yuan held steady near a 3-1/2-year high against the dollar on Thursday as investors awaited US inflation data, seeking fresh clues on the Federal Reserve’s policy outlook and its potential impact on global financial markets. Meanwhile, the yield premium of the 10-year US Treasury over its Chinese coun…",
-   "image": "https://i.brecorder.com/large/2026/09/10111108fde1447.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper rally holds firm even as rising oil threatens growth outlook",
-   "url": "https://www.brecorder.com/news/40438823/copper-rally-holds-firm-even-as-rising-oil-threatens-growth-outlook",
-   "source": "Business Recorder",
-   "published": "2026-09-10T06:01:09+00:00",
-   "summary": "Copper hovered near record levels on Thursday , with scarce deliverable metal in markets outside the United States continuing to underpin prices, while oil breached $100-a-barrel and investors awaited US inflation data. Benchmark three-month copper on the London Metal Exchange slipped 0.07% to $14,757 a metric ton as o…",
-   "image": "https://i.brecorder.com/large/2026/09/10110055a125ad5.webp",
    "topics": [
     "Economy"
    ],
@@ -499,19 +616,6 @@
    "published": "2026-09-08T12:08:16+00:00",
    "summary": "The Pakistan Stock Exchange’s benchmark KSE-100 index declined by nearly 1,000 points on Tuesday over tensions in the Middle East. The KSE-100 index dropped by 1,904.31 points, or 1.10 per cent, to stand at 171,731.76 points at 1:39pm from the previous close of 173,636.07. The market reached an intraday low of 171,490.…",
    "image": "https://i.dawn.com/large/2026/09/08134137558b584.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UAE govt mulls alternative routes for oil exports",
-   "url": "https://www.dawn.com/news/2028273/uae-govt-mulls-alternative-routes-for-oil-exports",
-   "source": "Dawn",
-   "published": "2026-09-08T02:35:38+00:00",
-   "summary": "DUBAI: The United Arab Emirates is building alternative routes for its energy exports and trade to ensure they are not “held hostage” by the ongoing war between the US and Iran, UAE presidential adviser Anwar Gargash said on Monday. The conflict has had a significant impact on Gulf Arab states, including the UAE, after…",
-   "image": "https://i.dawn.com/large/2026/09/08073451c88a699.webp",
    "topics": [
     "Economy"
    ],
