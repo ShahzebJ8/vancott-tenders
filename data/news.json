@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T22:46:51+00:00",
+ "generated": "2026-09-11T00:52:15+00:00",
  "count": 43,
  "relevant_count": 14,
  "domestic_count": 8,
@@ -115,6 +115,19 @@
    "domestic": true
   },
   {
+   "title": "IMF pushes back on report that candidate dropped over tariff remarks",
+   "url": "https://www.brecorder.com/news/40439005/imf-pushes-back-on-report-that-candidate-dropped-over-tariff-remarks",
+   "source": "Business Recorder",
+   "published": "2026-09-10T23:43:56+00:00",
+   "summary": "WASHINGTON: The International Monetary Fund pushed back Thursday on a report that its lead candidate for chief economist had been dropped after he was found to have criticized the Trump administration’s policies. London School of Economics professor Ricardo Reis was set to take on the role when the IMF changed its posi…",
+   "image": "https://i.brecorder.com/large/2026/09/1104433396c2d94.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan can turn rooftop solar boom into ‘swarm grids’: study",
    "url": "https://www.brecorder.com/news/40438886/pakistan-can-turn-rooftop-solar-boom-into-swarm-grids-study",
    "source": "Business Recorder",
@@ -202,19 +215,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "BII reaffirms Pakistan commitment, seeks greater private capital mobilisation",
-   "url": "https://www.brecorder.com/news/40438858/bii-reaffirms-pakistan-commitment-seeks-greater-private-capital-mobilisation",
-   "source": "Business Recorder",
-   "published": "2026-09-10T10:52:49+00:00",
-   "summary": "British International Investment (BII) on Thursday reaffirmed its commitment to Pakistan and expressed interest in significantly expanding its investment footprint in the country, with a focus on infrastructure, climate finance, technology and private markets. The development came during a meeting between Finance Minis…",
-   "image": "https://i.brecorder.com/large/2026/09/10155111131380f.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
