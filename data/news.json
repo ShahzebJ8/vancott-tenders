@@ -1,35 +1,35 @@
 {
- "generated": "2026-09-11T10:34:22+00:00",
- "count": 48,
- "relevant_count": 13,
- "domestic_count": 12,
+ "generated": "2026-09-11T14:39:28+00:00",
+ "count": 50,
+ "relevant_count": 12,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (18)",
+  "Dawn": "ok (16)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
-   "title": "SE Fruits and Vegetable secures SECP approval for IPO",
-   "url": "https://www.brecorder.com/news/40439032/se-fruits-and-vegetable-secures-secp-approval-for-ipo",
+   "title": "PM Shehbaz orders two-hour limit on power cuts in country’s any area",
+   "url": "https://www.brecorder.com/news/40439059/pm-shehbaz-orders-two-hour-limit-on-power-cuts-in-countrys-any-area",
    "source": "Business Recorder",
-   "published": "2026-09-11T07:06:53+00:00",
-   "summary": "SE Fruits and Vegetable Limited , a Punjab-based exporter of mangoes, citrus and potatoes, has received approval from the Securities and Exchange Commission of Pakistan (SECP) for the issuance, circulation and publication of its prospectus for an Initial Public Offering (IPO) of 30 million ordinary shares on the Pakist…",
-   "image": "https://i.brecorder.com/large/2026/09/11120639f75aee2.webp",
+   "published": "2026-09-11T13:55:42+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Friday took notice of increased electricity load shedding in various parts of the country and ordered authorities to ensure that power outages do not exceed two hours in any area. The prime minister issued the directive while chairing a meeting in Islamabad to review the country’s elect…",
+   "image": "https://i.brecorder.com/large/2026/09/11185309a1bd717.webp",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
   },
   {
-   "title": "Rupee to hold at Rs278/USD in 2026 as Pakistan’s FX buffers improve: BMI",
-   "url": "https://www.brecorder.com/news/40439021/rupee-to-hold-at-rs278usd-in-2026-as-pakistans-fx-buffers-improve-bmi",
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40439047/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-11T06:17:30+00:00",
-   "summary": "BMI, a Fitch Solutions Company, has pushed back its forecast for a depreciation of the Pakistani rupee to 2027, revising its end-2026 projection to Rs278 per US dollar from Rs288 previously, citing improved foreign exchange buffers, tight monetary policy and better access to international capital markets. The firm now …",
-   "image": "https://i.brecorder.com/large/2026/09/111117077fec3ea.webp",
+   "published": "2026-09-11T11:31:30+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01%, against the US dollar in the interbank market on Friday. The local unit closed the day at 277.32, a gain of Re0.03 against the greenback. On Thursday , the Pakistani rupee settled at 277.35 against the dollar. Rupee to hold at Rs278/USD in 2026 as Pak…",
+   "image": "https://i.brecorder.com/large/2026/09/1115560881783dd.webp",
    "topics": [
     "Economy"
    ],
@@ -86,19 +86,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SBP-held foreign exchange reserves surge $1.21bn to $18.33bn",
-   "url": "https://www.brecorder.com/news/40438880/sbp-held-foreign-exchange-reserves-surge-121bn-to-1833bn",
-   "source": "Business Recorder",
-   "published": "2026-09-10T16:10:08+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $1.21 billion to $18.33 billion during the week ended September 4, 2026, mainly due to the receipt of government commercial loan proceeds. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves s…",
-   "image": "https://i.brecorder.com/large/2026/09/102109553aec88a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -167,12 +154,104 @@
    "domestic": true
   },
   {
-   "title": "PSX: Buying returns, KSE-100 up over 1,100 points on hopes of easing Middle East tensions",
-   "url": "https://www.brecorder.com/news/40439013/psx-buying-returns-kse-100-up-over-1100-points-on-hopes-of-easing-middle-east-tensions",
+   "title": "UAE shares gain as regional conflict fuels oil supply concerns",
+   "url": "https://www.brecorder.com/news/40439061/uae-shares-gain-as-regional-conflict-fuels-oil-supply-concerns",
    "source": "Business Recorder",
-   "published": "2026-09-11T10:28:01+00:00",
-   "summary": "After observing intense selling pressure in the first half of the trading session, bulls returned at the Pakistan Stock Exchange (PSX) as Strait of Hormuz talks lifted market sentiment At 3:20pm, the benchmark KSE-100 index was hovering at 169,975.37, up by 1,110.33 points or 0.66%. According to the Financial Times , G…",
+   "published": "2026-09-11T14:18:13+00:00",
+   "summary": "UAE stock markets closed higher on Friday, with Dubai outperforming its regional peer, supported by a sharp weekly rise in oil prices as attacks on key Middle East shipping routes fuelled concerns that supply disruptions could persist. Crude was on track to gain more than 7% for the week, while U.S. diesel prices hit a…",
+   "image": "https://i.brecorder.com/large/2026/09/111917342919c9d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India partially cancels debt sale for first time in a year as rates spike",
+   "url": "https://www.brecorder.com/news/40439060/india-partially-cancels-debt-sale-for-first-time-in-a-year-as-rates-spike",
+   "source": "Business Recorder",
+   "published": "2026-09-11T13:57:13+00:00",
+   "summary": "MUMBAI: In what market participants are seeing as an early indication from Indian authorities on interest rates, the central bank partially canceled an auction of shorter duration government security to curb any further spike in bond yields, traders said on Friday. Reserve Bank of India accepted bids worth only 45.06 b…",
+   "image": "https://i.brecorder.com/large/2026/09/11185649519791d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian central bank likely intervenes to defend rupee as oil prices climb, traders say",
+   "url": "https://www.brecorder.com/news/40439058/indian-central-bank-likely-intervenes-to-defend-rupee-as-oil-prices-climb-traders-say",
+   "source": "Business Recorder",
+   "published": "2026-09-11T13:53:20+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Friday to limit the rupee’s fall as a run-up in oil prices and U.S. bond yields pressured the currency, three FX traders at banks and one at an FX brokerage told Reuters . The Indian rupee declined as much as 0.4% to 95.7925 before pa…",
+   "image": "https://i.brecorder.com/large/2026/09/11185305883eb48.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Saudi Arabia launches two airstrikes on Mocha airport: Houthi media",
+   "url": "https://www.brecorder.com/news/40439057/saudi-arabia-launches-two-airstrikes-on-mocha-airport-houthi-media",
+   "source": "Business Recorder",
+   "published": "2026-09-11T13:49:14+00:00",
+   "summary": "DUBAI: Saudi Arabia launched two airstrikes on Friday targeting the airport of the strategic city of Mocha, now under Houthi control, according to the Al-Masirah TV channel. Yemen’s Houthis seized control of the Red Sea port city on Thursday after launching a major offensive against Yemeni government forces around the …",
+   "image": "https://i.brecorder.com/large/2026/09/111848451ed5656.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying returns, KSE-100 gains nearly 1% on hopes of easing Middle East tensions",
+   "url": "https://www.brecorder.com/news/40439013/psx-buying-returns-kse-100-gains-nearly-1-on-hopes-of-easing-middle-east-tensions",
+   "source": "Business Recorder",
+   "published": "2026-09-11T13:28:06+00:00",
+   "summary": "It was a tale of two halves at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index recovering sharply from early-session losses to close near the day’s high as reports of Strait of Hormuz talks lifted market sentiment on Friday. The benchmark index opened under pressure and fell to an intra-day low of 1…",
    "image": "https://i.brecorder.com/large/2026/09/11093704b0dbf02.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bangladesh to develop two new LNG import terminals by 2030",
+   "url": "https://www.dawn.com/news/2029118/bangladesh-to-develop-two-new-lng-import-terminals-by-2030",
+   "source": "Dawn",
+   "published": "2026-09-11T11:58:56+00:00",
+   "summary": "Bangladesh plans to commission a new floating storage and regasification unit by 2028 to import liquefied natural gas (LNG), a government minister said on Friday. Dhaka is also planning to develop a land-based import terminal at Matarbari by 2030, Anindya Islam Amit, state minister for power, energy and mineral resourc…",
+   "image": "https://i.dawn.com/large/2026/09/11164612eae7451.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee sees sharpest weekly drop in four months on oil worries",
+   "url": "https://www.brecorder.com/news/40439051/indian-rupee-sees-sharpest-weekly-drop-in-four-months-on-oil-worries",
+   "source": "Business Recorder",
+   "published": "2026-09-11T11:44:01+00:00",
+   "summary": "MUMBAI: The Indian rupee slipped on Friday and fell over 1% week-on-week as a sharp rise in oil prices pressured Indian markets, though the central bank’s intervention helped limit the currency’s decline. The Indian rupee declined 0.1% to end at 95.55, weakening for the fourth straight day. On the week, it declined 1.1…",
+   "image": "https://i.brecorder.com/large/2026/09/11164348a1d11aa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India stocks log fifth weekly loss as oil fears grip markets",
+   "url": "https://www.brecorder.com/news/40439050/india-stocks-log-fifth-weekly-loss-as-oil-fears-grip-markets",
+   "source": "Business Recorder",
+   "published": "2026-09-11T11:41:29+00:00",
+   "summary": "India’s equity benchmarks fell for a fifth consecutive week on Friday, as the escalating Middle East conflict pushed crude oil prices higher, raising concerns about inflation and global interest rates. The Nifty 50 dropped 0.34% to 23,398.1 and the BSE Sensex lost 0.16% to 74,781.76. Both indexes fell over 2% this week…",
+   "image": "https://i.brecorder.com/large/2026/09/111641121c44050.webp",
    "topics": [
     "Economy"
    ],
@@ -310,11 +389,24 @@
    "domestic": false
   },
   {
-   "title": "PSX down 669 points at midday",
+   "title": "Govt to digitise farmers, agricultural land records",
+   "url": "https://tribune.com.pk/story/2628723/govt-to-digitise-farmers-agricultural-land-records",
+   "source": "The Express Tribune",
+   "published": "2026-09-11T03:52:46+00:00",
+   "summary": "PM Shehbaz says value addition in agricultural products is essential to increase exports from agricultural sector",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX gains 1,646 points after rebound from oil-led sell-off",
    "url": "https://tribune.com.pk/story/2628717/psx-down-669-points-at-midday",
    "source": "The Express Tribune",
    "published": "2026-09-11T03:16:53+00:00",
-   "summary": "KSE-100 dips to 166,141, stocks slip 0.4pc as market suspends session for Jummah",
+   "summary": "KSE-100 Index closes at 170,511 points, following an extremely volatile session",
    "image": null,
    "topics": [
     "Economy"
@@ -375,19 +467,6 @@
    "domestic": false
   },
   {
-   "title": "Pakistan can turn rooftop solar boom into ‘swarm grids’: study",
-   "url": "https://www.brecorder.com/news/40438886/pakistan-can-turn-rooftop-solar-boom-into-swarm-grids-study",
-   "source": "Business Recorder",
-   "published": "2026-09-10T17:11:42+00:00",
-   "summary": "Pakistan can harness its growth in rooftop solar through decentralised, community-driven “swarm grids”, but regulatory reform remains the key missing link between technical feasibility and large-scale deployment, according to a new study. The Policy Research Institute for Equitable Development (PRIED) on Thursday launc…",
-   "image": "https://i.brecorder.com/large/2026/09/1022065104d92b6.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -414,51 +493,12 @@
    "domestic": false
   },
   {
-   "title": "Wheat pricey despite bumper crop",
-   "url": "https://tribune.com.pk/story/2628613/wheat-pricey-despite-bumper-crop",
-   "source": "The Express Tribune",
-   "published": "2026-09-10T15:17:12+00:00",
-   "summary": "Wholesale wheat up Rs42/kg; hoarding, supply chain and storage blamed",
-   "image": null,
-   "topics": [
-    "Advertising & media"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Stocks dumped as PSX dives over 3,000 points",
    "url": "https://tribune.com.pk/story/2628616/stocks-dumped-as-psx-dives-over-3000-points",
    "source": "The Express Tribune",
    "published": "2026-09-10T15:17:12+00:00",
    "summary": "KSE-100 index falls below 170k over oil price surge, US-Iran tensions",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Most Gulf bourses ease amid escalating US-Iran hostilities",
-   "url": "https://www.brecorder.com/news/40438878/most-gulf-bourses-ease-amid-escalating-us-iran-hostilities",
-   "source": "Business Recorder",
-   "published": "2026-09-10T15:04:44+00:00",
-   "summary": "Most Gulf stock markets closed lower on Thursday, as escalating hostilities between the United States and Iran fuelled concerns about potential disruptions across vital regional energy corridors. The decline followed the fiercest maritime confrontation of the six-month conflict. Iran struck 10 vessels near the Strait o…",
-   "image": "https://i.brecorder.com/large/2026/09/102002303636db6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI's liquidity mop-up via FX swaps offers a channel of support for rupee",
-   "url": "https://www.brecorder.com/news/40438871/rbis-liquidity-mop-up-via-fx-swaps-offers-a-channel-of-support-for-rupee",
-   "source": "Business Recorder",
-   "published": "2026-09-10T13:45:24+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India’s use of foreign-exchange swaps to drain surplus rupee liquidity is pushing up forward premiums, indirectly offering support to the rupee. The RBI conducted dollar/rupee sell-buy swaps for a second straight day on Thursday, traders said, with operations seen in September and December m…",
-   "image": "https://i.brecorder.com/large/2026/09/101844429edcb62.webp",
    "topics": [
     "Economy"
    ],
@@ -619,19 +659,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR ends super tax for specific taxpayers under new rules",
-   "url": "https://arynews.tv/fbr-ends-super-tax-for-specific-taxpayers-under-new-rules",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR ends super tax for specific taxpayers under new rules",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/FBR.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
