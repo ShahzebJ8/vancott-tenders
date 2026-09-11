@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T14:39:23+00:00",
+ "generated": "2026-09-11T18:11:58+00:00",
  "count": 594,
  "with_value": 575,
  "with_winner": 225,
@@ -11428,6 +11428,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003450",
+   "tender_no": "TS0000011143E",
+   "reference": "P82084",
+   "title": "Construction of Additional facilities in the National Police Academy Sector H-11, Islamabad (SH: Construction of Obstacles and Tracks at School of Tactics cum National Police University Civil Works",
+   "organisation": "Ministry of Interior and Narcotics Control Deputy Director Special Projects Capital Development Authority (CDA) Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Azmat Ali & Brothers"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-11",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003450",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003447",
    "tender_no": "TS0000008407E",
    "reference": "SN-4793/26",
@@ -11441,6 +11461,26 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003447",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003446",
+   "tender_no": "TS0000012143E",
+   "reference": "P94996",
+   "title": "Procurement of Janitorial & Non-Core Services Miscellaneous",
+   "organisation": "Federal Investigation Agency FIA Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "Ch Aslam Associates"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-11",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003446",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -12344,6 +12384,26 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003398",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003397",
+   "tender_no": "TS0000011534E",
+   "reference": "TENDER NO 4434 (PROCUREMENT OF LAPTOPS)",
+   "title": "TENDER NO 4434 (PROCUREMENT OF LAPTOPS) Miscellaneous",
+   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Computer Tips"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-10",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003397",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -50346,64 +50406,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001327",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001326",
-   "tender_no": "TS0000007707E",
-   "reference": "PLL/IMP/LNGT67",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS Petroleum, Oil & Lubricants",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "BP Singapore"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-11",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001326",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001325",
-   "tender_no": "TS0000007707E",
-   "reference": "PLL/IMP/LNGT67",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS Petroleum, Oil & Lubricants Ministry of Energy (Petroleum Division)",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-11",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001325",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001324",
-   "tender_no": "TS0000006620E",
-   "reference": "TENDER NOTICE IFP No. SSG.ADMIN.13.R.M/2025.26/ A.S (EPADS V2 No. P35588)",
-   "title": "Supply, Fitting & Alignment of Office Vehicles New Tyres and Adjustment of Old/Used Tyres, G-10/4 Islamabad Vehicles",
-   "organisation": "Ministry of Planning, Development & Special Initiatives National Disaster Risk Management Fund (NDRMF) Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Mr. Muhammad Rashid (Ms. Asif Traders)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-11",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001324",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
