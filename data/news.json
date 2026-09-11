@@ -1,22 +1,22 @@
 {
- "generated": "2026-09-11T05:38:59+00:00",
- "count": 51,
- "relevant_count": 17,
- "domestic_count": 19,
+ "generated": "2026-09-11T10:34:22+00:00",
+ "count": 48,
+ "relevant_count": 13,
+ "domestic_count": 12,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
+  "Business Recorder": "ok (18)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "Shaping Pakistan's future through integrating financial literacy in curriculum",
-   "url": "https://www.brecorder.com/news/40438999/shaping-pakistans-future-through-integrating-financial-literacy-in-curriculum",
+   "title": "SE Fruits and Vegetable secures SECP approval for IPO",
+   "url": "https://www.brecorder.com/news/40439032/se-fruits-and-vegetable-secures-secp-approval-for-ipo",
    "source": "Business Recorder",
-   "published": "2026-09-11T03:55:08+00:00",
-   "summary": "KARACHI: The National Institute of Banking & Finance–Pakistan (NIBAF-P), under the guidance of the State Bank of Pakistan (SBP), marked a significant milestone in Pakistan’s financial education journey with the culmination of the Inter-Provincial Curriculum Workshop (IPCW), bringing together curriculum experts and repr…",
-   "image": "https://i.brecorder.com/large/2026/09/11085503d6dd68c.webp",
+   "published": "2026-09-11T07:06:53+00:00",
+   "summary": "SE Fruits and Vegetable Limited , a Punjab-based exporter of mangoes, citrus and potatoes, has received approval from the Securities and Exchange Commission of Pakistan (SECP) for the issuance, circulation and publication of its prospectus for an Initial Public Offering (IPO) of 30 million ordinary shares on the Pakist…",
+   "image": "https://i.brecorder.com/large/2026/09/11120639f75aee2.webp",
    "topics": [
     "Economy"
    ],
@@ -24,94 +24,16 @@
    "domestic": true
   },
   {
-   "title": "PM urged to reduce petroleum levy by Rs60 per litre",
-   "url": "https://www.brecorder.com/news/40438995/pm-urged-to-reduce-petroleum-levy-by-rs60-per-litre",
+   "title": "Rupee to hold at Rs278/USD in 2026 as Pakistan’s FX buffers improve: BMI",
+   "url": "https://www.brecorder.com/news/40439021/rupee-to-hold-at-rs278usd-in-2026-as-pakistans-fx-buffers-improve-bmi",
    "source": "Business Recorder",
-   "published": "2026-09-11T03:47:45+00:00",
-   "summary": "KARACHI: The Pakistan Business Forum (PBF) has urged Prime Minister Shehbaz Sharif to immediately reduce the petroleum levy by Rs60 per litre, saying the prevailing prices of petroleum products have become unaffordable for both consumers and the business community. The business forum said inflation was continuing to ri…",
-   "image": "https://i.brecorder.com/large/2026/09/11084711467ef95.webp",
+   "published": "2026-09-11T06:17:30+00:00",
+   "summary": "BMI, a Fitch Solutions Company, has pushed back its forecast for a depreciation of the Pakistani rupee to 2027, revising its end-2026 projection to Rs278 per US dollar from Rs288 previously, citing improved foreign exchange buffers, tight monetary policy and better access to international capital markets. The firm now …",
+   "image": "https://i.brecorder.com/large/2026/09/111117077fec3ea.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Key measures to support exports: Ministries, provinces directed to maintain momentum",
-   "url": "https://www.brecorder.com/news/40438991/key-measures-to-support-exports-ministries-provinces-directed-to-maintain-momentum",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:40:15+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister/Foreign Minister Senator Mohammad Ishaq Dar chaired an inter-ministerial meeting Thursday to advance Pakistan’s trade and export promotion agenda. The DPM/FM emphasised strengthening trade facilitation, enhancing the quality and competitiveness of Pakistani products, expanding market ac…",
-   "image": "https://i.brecorder.com/large/2026/09/1108401243b1811.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "IPAK reports sevenfold surge in FY26 profit",
-   "url": "https://www.brecorder.com/news/40438990/ipak-reports-sevenfold-surge-in-fy26-profit",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:39:16+00:00",
-   "summary": "KARACHI: IPAK Group’s consolidated profit after tax (PAT) surged more than sevenfold to Rs4.95 billion for FY2026, compared with Rs664 million in the previous year, supported by higher sales, significant margin expansion and improved operating performance. According to the company’s results, consolidated earnings per s…",
-   "image": "https://i.brecorder.com/large/2026/09/11083831a192762.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Export-insurance risk pool for SMEs welcomed",
-   "url": "https://www.brecorder.com/news/40438989/export-insurance-risk-pool-for-smes-welcomed",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:37:45+00:00",
-   "summary": "KARACHI: Mian Zahid Hussain, President Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman National Business Group Pakistan and Chairman Policy Advisory Board FPCCI, has welcomed the Rs3 billion export-insurance risk pool for small- and medium-size enterprises established through …",
-   "image": "https://i.brecorder.com/large/2026/09/11083741eb89359.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "CDWP approves revised plan worth Rs4.15bn for PU",
-   "url": "https://www.brecorder.com/news/40438985/cdwp-approves-revised-plan-worth-rs415bn-for-pu",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:32:05+00:00",
-   "summary": "LAHORE: The University of the Punjab has secured a major boost for its academic and research infrastructure after the Central Development Working Party (CDWP) approved a revised development plan worth Rs4.15 billion for the institution. The approval came for the second revision of the PC-I titled “Strengthening of Acad…",
-   "image": "https://i.brecorder.com/large/2026/09/11083153f3f806d.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "‘Leadership Development Programme: Journey to Next Level’ held",
-   "url": "https://www.brecorder.com/news/40438980/leadership-development-programme-journey-to-next-level-held",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:22:42+00:00",
-   "summary": "LAHORE: The two-day “Leadership Development Program: Journey to the Next Level” was successfully conducted at Executive Development Institute (EDI) of the National School of Public Policy (NSPP), Lahore from Wednesday, 09 to Thursday, 10 September, 2026. The Executive Development Institute arranged a two-day “Leadershi…",
-   "image": "https://i.brecorder.com/large/2026/09/11082202f7d01fe.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "‘KPRA Sahulat’ Mobile App launched to facilitate taxpayers",
-   "url": "https://www.brecorder.com/news/40438979/kpra-sahulat-mobile-app-launched-to-facilitate-taxpayers",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:19:09+00:00",
-   "summary": "PESHAWAR: Khyber Pakhtunkhwa Revenue Authority (KPRA) has officially launched its dedicated mobile application, ‘KPRA Sahulat’, on the Google Play Store. The application is designed to provide citizens, taxpayers, and business owners with seamless digital access to essential sales tax services and transparent grievance…",
-   "image": "https://i.brecorder.com/large/2026/09/110818402723008.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -173,19 +95,6 @@
    "published": "2026-09-10T16:10:08+00:00",
    "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $1.21 billion to $18.33 billion during the week ended September 4, 2026, mainly due to the receipt of government commercial loan proceeds. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves s…",
    "image": "https://i.brecorder.com/large/2026/09/102109553aec88a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40438859/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-10T15:11:11+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.35, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.36 against the dollar. Internationally, currency markets treaded water in cautious…",
-   "image": "https://i.brecorder.com/large/2026/09/10160943976a1ed.webp",
    "topics": [
     "Economy"
    ],
@@ -258,12 +167,155 @@
    "domestic": true
   },
   {
-   "title": "PSX: Selling continues, KSE-100 sheds nearly 2,600 points",
-   "url": "https://www.brecorder.com/news/40439013/psx-selling-continues-kse-100-sheds-nearly-2600-points",
+   "title": "PSX: Buying returns, KSE-100 up over 1,100 points on hopes of easing Middle East tensions",
+   "url": "https://www.brecorder.com/news/40439013/psx-buying-returns-kse-100-up-over-1100-points-on-hopes-of-easing-middle-east-tensions",
    "source": "Business Recorder",
-   "published": "2026-09-11T04:52:50+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) amid escalating geopolitical tensions, with the benchmark KSE-100 Index shedding over 1.5% during the opening minutes of trading on Friday. At 9:50am, the benchmark index was hovering at 166,273.27, down by 2,591.77 points or 1.53%. Selling was observed in…",
+   "published": "2026-09-11T10:28:01+00:00",
+   "summary": "After observing intense selling pressure in the first half of the trading session, bulls returned at the Pakistan Stock Exchange (PSX) as Strait of Hormuz talks lifted market sentiment At 3:20pm, the benchmark KSE-100 index was hovering at 169,975.37, up by 1,110.33 points or 0.66%. According to the Financial Times , G…",
    "image": "https://i.brecorder.com/large/2026/09/11093704b0dbf02.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM Shehbaz calls for higher farm output, boost in agricultural exports",
+   "url": "https://www.brecorder.com/news/40439042/pm-shehbaz-calls-for-higher-farm-output-boost-in-agricultural-exports",
+   "source": "Business Recorder",
+   "published": "2026-09-11T09:22:44+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Friday called for coordinated federal and provincial efforts to increase per-acre farm productivity, modernise agriculture, develop the livestock sector and boost agricultural exports. Chairing a high-level meeting on the agricultural sector and exports, the prime minister said agricult…",
+   "image": "https://i.brecorder.com/large/2026/09/11142241105dd34.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "European stocks rise but head for sharp weekly declines",
+   "url": "https://www.brecorder.com/news/40439041/european-stocks-rise-but-head-for-sharp-weekly-declines",
+   "source": "Business Recorder",
+   "published": "2026-09-11T09:06:24+00:00",
+   "summary": "European stocks edged higher on Friday but looked on course for their worst weekly performance since April as high bond yields and fears about aggressive interest rate hikes tempered sentiment ahead of key US inflation data. The pan-European STOXX 600 rose 0.3% to 637.60 points by 0716 GMT. The index closed at a two-mo…",
+   "image": "https://i.brecorder.com/large/2026/09/11140617be11304.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF mission to visit Pakistan ‘in coming weeks’ for next review",
+   "url": "https://www.brecorder.com/news/40439040/imf-mission-to-visit-pakistan-in-coming-weeks-for-next-review",
+   "source": "Business Recorder",
+   "published": "2026-09-11T08:24:38+00:00",
+   "summary": "The International Monetary Fund (IMF) is expected to send a mission to Pakistan in the coming weeks for the next review of the $7-billion Extended Fund Facility (EFF) and the ongoing Resilience and Sustainability Facility (RSF), the lender’s Resident Representative said on Friday. “The mission is expected to visit Paki…",
+   "image": "https://i.brecorder.com/large/2026/09/11132423fe86e47.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares head for worst week in six months, miners lose lustre",
+   "url": "https://www.brecorder.com/news/40439038/australian-shares-head-for-worst-week-in-six-months-miners-lose-lustre",
+   "source": "Business Recorder",
+   "published": "2026-09-11T07:18:39+00:00",
+   "summary": "Australian shares declined for the fourth straight session on Friday in broad-based weakness led by heavyweight miners, while traders focused on inflationary concerns and future rate hikes brought on by the Middle East war-led energy shock. The S&P/ASX 200 index slipped 1.1% to 8,727 by 0010 GMT. The benchmark settled …",
+   "image": "https://i.brecorder.com/large/2026/09/11121826d64d92f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Japan's Nikkei slumps as Fed hike bets, soaring oil weigh",
+   "url": "https://www.brecorder.com/news/40439037/japans-nikkei-slumps-as-fed-hike-bets-soaring-oil-weigh",
+   "source": "Business Recorder",
+   "published": "2026-09-11T07:17:01+00:00",
+   "summary": "TOKYO: Japan’s Nikkei slumped on Friday amid renewed concerns over US rate hikes and a surge in oil prices that fuelled inflation worries. The benchmark Nikkei 225 gauge fell 1.93% to close at 64,011.34, giving it a 0.4% decline on the week. The gauge earlier sank as much as 3.16%. The broader Topix slipped 0.65% to 4,…",
+   "image": "https://i.brecorder.com/large/2026/09/11121646e2b4e96.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar suffers setback, yields spike to 15-year peak",
+   "url": "https://www.brecorder.com/news/40439036/australian-dollar-suffers-setback-yields-spike-to-15-year-peak",
+   "source": "Business Recorder",
+   "published": "2026-09-11T07:13:01+00:00",
+   "summary": "SYDNEY: The Australian and New Zealand dollars came under pressure on Friday as a spike in oil prices slugged risk assets and convinced investors that more rate hikes were now inevitable globally. Fears of higher-for-longer inflation led markets to price in a 90% chance the Reserve Bank of Australia would lift rates la…",
+   "image": "https://i.brecorder.com/large/2026/09/11121252415b9a7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar slightly weaker on Friday",
+   "url": "https://www.brecorder.com/news/40439033/thai-bahtus-dollar-slightly-weaker-on-friday",
+   "source": "Business Recorder",
+   "published": "2026-09-11T07:07:30+00:00",
+   "summary": "BANGKOK: The Thai baht slightly weakened against the US dollar on Friday. At 0255 GMT, the baht was 0.09% lower at 33.14 versus the dollar, after trading in a range of 33.120 to 33.200. It ended the previous session at 33.11 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/1112072309e1dde.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan steady as dollar rebounds, investors eye US CPI",
+   "url": "https://www.brecorder.com/news/40439028/chinas-yuan-steady-as-dollar-rebounds-investors-eye-us-cpi",
+   "source": "Business Recorder",
+   "published": "2026-09-11T06:45:50+00:00",
+   "summary": "SHANGHAI: China’s yuan held steady against the US dollar on Friday as the greenback rebounded and the central bank set a strong fixing, with investors positioning cautiously ahead of US inflation data later in the day. The spot yuan opened at 6.7119 per dollar and was last trading at 6.7109 as of 0249 GMT, 6 pips firme…",
+   "image": "https://i.brecorder.com/large/2026/09/11114536fde1447.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korea shares drop on oil, bond rout concerns",
+   "url": "https://www.brecorder.com/news/40439027/south-korea-shares-drop-on-oil-bond-rout-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-11T06:43:48+00:00",
+   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares fell on Friday amid a sell-off in US treasuries while the inflation data there reinforced bets on an imminent Federal Reserve interest rate hike. The won strengthened, while the benchmark bond yield rose. The benchmark KOSPI was down 189.90 points, …",
+   "image": "https://i.brecorder.com/large/2026/09/11114333ab5ce7b.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China, Hong Kong shares head for weekly drop on Fed rate concerns",
+   "url": "https://www.brecorder.com/news/40439022/china-hong-kong-shares-head-for-weekly-drop-on-fed-rate-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-11T06:19:44+00:00",
+   "summary": "SHANGHAI: China and Hong Kong stocks slipped on Friday and were on track to close the week lower, as thin trading volumes and growing expectations of further US interest rate hikes dampened risk sentiment. China’s blue-chip CSI300 Index dropped 1.6% by the lunch break, while the Shanghai Composite Index lost 1.8% to be…",
+   "image": "https://i.brecorder.com/large/2026/09/11111935e3d5b8c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX down 669 points at midday",
+   "url": "https://tribune.com.pk/story/2628717/psx-down-669-points-at-midday",
+   "source": "The Express Tribune",
+   "published": "2026-09-11T03:16:53+00:00",
+   "summary": "KSE-100 dips to 166,141, stocks slip 0.4pc as market suspends session for Jummah",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -336,6 +388,58 @@
    "domestic": false
   },
   {
+   "title": "Minister reaffirms BRI commitment at Hong Kong summit",
+   "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
+   "source": "The Express Tribune",
+   "published": "2026-09-10T15:18:01+00:00",
+   "summary": "CPEC was transforming country's economic landscape through cooperation in infrastructure, energy, industrialisation",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Realty tax collection falls 29%",
+   "url": "https://tribune.com.pk/story/2628608/realty-tax-collection-falls-29",
+   "source": "The Express Tribune",
+   "published": "2026-09-10T15:17:12+00:00",
+   "summary": "Salaried class pays Rs91b, 225% more income tax than real estate sector",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Wheat pricey despite bumper crop",
+   "url": "https://tribune.com.pk/story/2628613/wheat-pricey-despite-bumper-crop",
+   "source": "The Express Tribune",
+   "published": "2026-09-10T15:17:12+00:00",
+   "summary": "Wholesale wheat up Rs42/kg; hoarding, supply chain and storage blamed",
+   "image": null,
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Stocks dumped as PSX dives over 3,000 points",
+   "url": "https://tribune.com.pk/story/2628616/stocks-dumped-as-psx-dives-over-3000-points",
+   "source": "The Express Tribune",
+   "published": "2026-09-10T15:17:12+00:00",
+   "summary": "KSE-100 index falls below 170k over oil price surge, US-Iran tensions",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Most Gulf bourses ease amid escalating US-Iran hostilities",
    "url": "https://www.brecorder.com/news/40438878/most-gulf-bourses-ease-amid-escalating-us-iran-hostilities",
    "source": "Business Recorder",
@@ -355,111 +459,6 @@
    "published": "2026-09-10T13:45:24+00:00",
    "summary": "MUMBAI: The Reserve Bank of India’s use of foreign-exchange swaps to drain surplus rupee liquidity is pushing up forward premiums, indirectly offering support to the rupee. The RBI conducted dollar/rupee sell-buy swaps for a second straight day on Thursday, traders said, with operations seen in September and December m…",
    "image": "https://i.brecorder.com/large/2026/09/101844429edcb62.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Top investors in India's NSE IPO trim stake sales, sources say",
-   "url": "https://www.brecorder.com/news/40438868/top-investors-in-indias-nse-ipo-trim-stake-sales-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-10T13:35:09+00:00",
-   "summary": "Some top investors in India’s National Stock Exchange (NSE) are reducing the number of shares they will be selling in the bourse’s upcoming IPO as they expect the shares to rise after listing compared to the low offer price, three sources said. NSE’s IPO will be an offer-for-sale by existing shareholders with no fresh …",
-   "image": "https://i.brecorder.com/large/2026/09/101834049978217.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBI Mutual Fund says 10-year yield will soar beyond 7%",
-   "url": "https://www.brecorder.com/news/40438862/sbi-mutual-fund-says-10-year-yield-will-soar-beyond-7",
-   "source": "Business Recorder",
-   "published": "2026-09-10T11:28:58+00:00",
-   "summary": "MUMBAI: India’s largest asset manager expects the 10-year bond yield to rise and stay above 7% in the near term, as the central bank turns hawkish on rising inflation fuelled by the prolonged Middle East war. Budget and currency vulnerabilities as well as a likely “inflection point” in the interest-rate cycle would kee…",
-   "image": "https://i.brecorder.com/large/2026/09/1016273383933b1.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee drops to over one-week low as oil bubbles on Middle East worries",
-   "url": "https://www.brecorder.com/news/40438857/indian-rupee-drops-to-over-one-week-low-as-oil-bubbles-on-middle-east-worries",
-   "source": "Business Recorder",
-   "published": "2026-09-10T10:49:39+00:00",
-   "summary": "MUMBAI: The Indian rupee declined for a third straight session on Thursday as oil prices continued to march higher on worries over the escalating conflict in the Middle East, elevated dollar demand linked to derivative maturities and corporate hedging. The Indian rupee weakened 0.3% to end the session at 95.44 per doll…",
-   "image": "https://i.brecorder.com/large/2026/09/10154924acb7150.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Qatari LNG cargo reaches Pakistan",
-   "url": "https://www.brecorder.com/news/40438850/qatari-lng-cargo-reaches-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-10T08:45:44+00:00",
-   "summary": "Al Marrouna, a tanker carrying liquefied natural gas (LNG) from Qatar, has arrived at Pakistan’s Port Qasim on Thursday. The LNG carrier Al Marrouna, carrying 142,217.21 cubic metres of LNG, successfully berthed at Engro Elengy Terminal (EETL) at around 11:38am on Thursday, officials at Port Qasim Authority told Busine…",
-   "image": "https://i.brecorder.com/large/2026/09/101344307d516b0.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "European shares edge higher as traders await ECB decision",
-   "url": "https://www.brecorder.com/news/40438845/european-shares-edge-higher-as-traders-await-ecb-decision",
-   "source": "Business Recorder",
-   "published": "2026-09-10T08:02:44+00:00",
-   "summary": "European shares rose on Thursday after their biggest selloff in two months as investors awaited a widely forecast interest rate hike from the European Central Bank and comments from chief Christine Lagarde on oil prices and their impact on inflation. The pan-European STOXX 600 was up 0.1% at 641.23 points, as of 0708 G…",
-   "image": "https://i.brecorder.com/large/2026/09/1013023159609a1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares hit six-week low as oil tops $100 on Middle East tensions",
-   "url": "https://www.brecorder.com/news/40438840/australian-shares-hit-six-week-low-as-oil-tops-100-on-middle-east-tensions",
-   "source": "Business Recorder",
-   "published": "2026-09-10T07:22:56+00:00",
-   "summary": "Australian shares fell on Thursday to a six-week low, with all sectors trading in the red, as escalating tensions in the Middle East pushed oil prices above $100 per barrel and intensified concerns about inflation. The S&P/ASX 200 index was down 1.4% at 8,785.20, as of 0020 GMT. The benchmark finished at its lowest poi…",
-   "image": "https://i.brecorder.com/large/2026/09/10122249c33ed94.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "BOJ may be forced to hike rates rapidly if inflation accelerates, board member Masu says",
-   "url": "https://www.brecorder.com/news/40438838/boj-may-be-forced-to-hike-rates-rapidly-if-inflation-accelerates-board-member-masu-says",
-   "source": "Business Recorder",
-   "published": "2026-09-10T07:19:49+00:00",
-   "summary": "FUKUI: The Bank of Japan may be forced to raise interest rates rapidly if inflation accelerates as the country’s financial conditions remain accommodative, board member Kazuyuki Masu said on Thursday. “I am convinced the BOJ needs to raise its policy rate further as it falls solidly within the estimated range of the ne…",
-   "image": "https://i.brecorder.com/large/2026/09/10121846f1b5119.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX plunges over 3,000 points as oil surge sparks panic selling",
-   "url": "https://tribune.com.pk/story/2628502/psx-sheds-1486-points-as-me-war-fears-persist",
-   "source": "The Express Tribune",
-   "published": "2026-09-10T03:05:40+00:00",
-   "summary": "KSE-100 slumps 1.8% after Brent hits $103; benchmark closes at 168,865",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -503,32 +502,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "NEVs get major tax relief",
-   "url": "https://tribune.com.pk/story/2628413/nevs-get-major-tax-relief",
-   "source": "The Express Tribune",
-   "published": "2026-09-09T15:19:54+00:00",
-   "summary": "PM approves 1% sales tax for EVs but protection for existing assemblers continues",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gas consumers to pay extra Rs46b",
-   "url": "https://tribune.com.pk/story/2628418/gas-consumers-to-pay-extra-rs46b",
-   "source": "The Express Tribune",
-   "published": "2026-09-09T15:19:54+00:00",
-   "summary": "Govt mulling over 14 CPEC-style dedicated wings to protect gas pipelines",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -581,19 +554,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "VEON explores digital infrastructure uplift",
-   "url": "https://tribune.com.pk/story/2628202/veon-explores-digital-infrastructure-uplift",
-   "source": "The Express Tribune",
-   "published": "2026-09-08T16:18:41+00:00",
-   "summary": "Seeks to expand financial inclusion, tech-led innovation",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
