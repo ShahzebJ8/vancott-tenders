@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T06:11:29+00:00",
+ "generated": "2026-09-12T11:08:13+00:00",
  "count": 594,
  "with_value": 575,
  "with_winner": 225,
@@ -19104,6 +19104,24 @@
    "city": "Gujranwala",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003037",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003036",
+   "tender_no": "TS0000010580E",
+   "reference": "P71728",
+   "title": "Pre-Qualification of Firms for Repair, Renovation, Maintenance, Replacement, and Related Works of the Office Building Structure at Headquarters ASF, Karach Repair/Maintenance",
+   "organisation": "Ministry of Defence Airport Security Force Karachi - Pakistan",
+   "bid_count": 7,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "PQ Evaluation",
+   "advertised": "2026-08-29",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003036",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -50384,26 +50402,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001329",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001328",
-   "tender_no": "TS0000004717E",
-   "reference": "REQ-0326-1-00098-FA (T-4097)",
-   "title": "Procurement of 6 x Miscellaneous HSE Items (As per BOQ) Miscellaneous",
-   "organisation": "Pakistan Security Printing Corporaion (PSPC) Pakistan Security Printing Corporation (PSPC) Islamabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "F.Y.N Associates Pakistan Security Printing Corporaion (PSPC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-11",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001328",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

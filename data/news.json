@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-12T06:11:34+00:00",
+ "generated": "2026-09-12T11:08:18+00:00",
  "count": 45,
  "relevant_count": 10,
- "domestic_count": 14,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (16)",
-  "Business Recorder": "ok (18)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (3)"
  },
@@ -17,19 +17,6 @@
    "published": "2026-09-12T02:35:34+00:00",
    "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday stressed that effective coordination and partnership between the federal and provincial governments was essential for increasing per-acre agricultural productivity, introducing innovation in agriculture, developing the livestock sector and promoting agricultural export…",
    "image": "https://i.dawn.com/large/2026/09/12073322646805e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Anti–dumping probe into soda ash import: Türkiye Trade Ministry conveys its regrets",
-   "url": "https://www.brecorder.com/news/40439113/anti-dumping-probe-into-soda-ash-import-turkiye-trade-ministry-conveys-its-regrets",
-   "source": "Business Recorder",
-   "published": "2026-09-12T00:46:42+00:00",
-   "summary": "ISLAMABAD: The Ministry of Trade, Türkiye officially expressed its regrets for the initiation of the anti–dumping investigation and unexpected imposition of provisional measures on the import of soda ash which would impede the operation of market forces in a competitive environment. The government of Türkiye has convey…",
-   "image": "https://i.brecorder.com/large/2026/09/12013722f75cd1c.webp",
    "topics": [
     "Economy"
    ],
@@ -191,6 +178,32 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
+   "url": "https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline",
+   "source": "Business Recorder",
+   "published": "2026-09-12T10:38:38+00:00",
+   "summary": "DUBLIN: U.S. President Donald Trump said on Saturday that Iran was probably responsible for an aerial attack on Saudi Arabia ​that shut down its East-West pipeline, one of the kingdom’s main routes for exporting crude while bypassing the Strait of Hormuz . “I think they are, probably they are,” Trump told reporters in …",
+   "image": "https://i.brecorder.com/large/2026/09/12144802732721a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s FPCCI calls for stronger economic integration among OIC states",
+   "url": "https://www.brecorder.com/news/40439159/pakistans-fpcci-calls-for-stronger-economic-integration-among-oic-states",
+   "source": "Business Recorder",
+   "published": "2026-09-12T07:33:06+00:00",
+   "summary": "Despite a combined GDP of around $10.77 trillion, trade among the 57 member states of the Organisation of Islamic Cooperation (OIC) accounts for only 20.36% of their total foreign trade, highlighting significant untapped potential for deeper economic integration, the Federation of Pakistan Chambers of Commerce & Indust…",
+   "image": "https://i.brecorder.com/large/2026/09/12123241afa536a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Finmin's adviser says tax collection on target, provinces bound to boost revenue",
@@ -460,19 +473,6 @@
    "published": "2026-09-11T02:56:51+00:00",
    "summary": "SINGAPORE: The dollar held near its highest ​levels of the past week and the yen slipped for a second day at the start of Asian ‌trading on Friday as renewed fears of energy supply disruptions in the Middle East pushed up bond yields and oil prices. The US dollar index , which measures the greenback’s strength against …",
    "image": "https://i.brecorder.com/large/2026/09/11075442ee4c191.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to extend slide; oil rally, surging US yields chip away at RBI support",
-   "url": "https://www.brecorder.com/news/40439008/indian-rupee-to-extend-slide-oil-rally-surging-us-yields-chip-away-at-rbi-support",
-   "source": "Business Recorder",
-   "published": "2026-09-11T02:51:54+00:00",
-   "summary": "MUMBAI: The Indian rupee is on course to extend its weekly decline at Friday’s open , with the oil rally gathering pace, pushing US Treasury ​yields higher and fuelling risk aversion. The Indian rupee is expected to open ‌in the 95.62 to 95.68 range, according to traders, after settling at 95.44 to the dollar on Thursd…",
-   "image": "https://i.brecorder.com/large/2026/09/1107485946dd827.webp",
    "topics": [
     "Economy"
    ],
