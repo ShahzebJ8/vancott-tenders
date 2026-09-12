@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-12T11:08:18+00:00",
- "count": 45,
- "relevant_count": 10,
+ "generated": "2026-09-12T14:21:08+00:00",
+ "count": 47,
+ "relevant_count": 12,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (3)"
+  "ARY News": "ok (4)"
  },
  "stories": [
   {
@@ -180,12 +180,25 @@
    "domestic": true
   },
   {
-   "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
-   "url": "https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline",
+   "title": "Bahrain says won't participate in Hormuz meeting with Iran",
+   "url": "https://www.brecorder.com/news/40439175/bahrain-says-wont-participate-in-hormuz-meeting-with-iran",
    "source": "Business Recorder",
-   "published": "2026-09-12T10:38:38+00:00",
-   "summary": "DUBLIN: U.S. President Donald Trump said on Saturday that Iran was probably responsible for an aerial attack on Saudi Arabia ​that shut down its East-West pipeline, one of the kingdom’s main routes for exporting crude while bypassing the Strait of Hormuz . “I think they are, probably they are,” Trump told reporters in …",
-   "image": "https://i.brecorder.com/large/2026/09/12144802732721a.webp",
+   "published": "2026-09-12T13:47:05+00:00",
+   "summary": "MANAMA: Bahrain said on Saturday that it would not take part in a proposed meeting in Oman between Iran and Gulf states to discuss the Strait of Hormuz, which Tehran has blockaded throughout the Middle East war. Pointing to attacks on infrastructure across the Gulf, the ministry said that security and stability in the …",
+   "image": "https://i.brecorder.com/large/2026/09/12184456593d9ef.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FPCCI calls for stronger economic integration among OIC states",
+   "url": "https://www.brecorder.com/news/40439159/fpcci-calls-for-stronger-economic-integration-among-oic-states",
+   "source": "Business Recorder",
+   "published": "2026-09-12T12:26:54+00:00",
+   "summary": "Despite a combined GDP of around $10.77 trillion, trade among the 57 member states of the Organisation of Islamic Cooperation (OIC) accounts for only 20.36% of their total foreign trade, highlighting significant untapped potential for deeper economic integration, the Federation of Pakistan Chambers of Commerce & Indust…",
+   "image": "https://i.brecorder.com/large/2026/09/12123241afa536a.webp",
    "topics": [
     "Economy"
    ],
@@ -193,12 +206,25 @@
    "domestic": false
   },
   {
-   "title": "Pakistan’s FPCCI calls for stronger economic integration among OIC states",
-   "url": "https://www.brecorder.com/news/40439159/pakistans-fpcci-calls-for-stronger-economic-integration-among-oic-states",
+   "title": "Pakistan makes NADRA-integrated vaccination proof mandatory for Umrah travelers",
+   "url": "https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers",
    "source": "Business Recorder",
-   "published": "2026-09-12T07:33:06+00:00",
-   "summary": "Despite a combined GDP of around $10.77 trillion, trade among the 57 member states of the Organisation of Islamic Cooperation (OIC) accounts for only 20.36% of their total foreign trade, highlighting significant untapped potential for deeper economic integration, the Federation of Pakistan Chambers of Commerce & Indust…",
-   "image": "https://i.brecorder.com/large/2026/09/12123241afa536a.webp",
+   "published": "2026-09-12T11:57:12+00:00",
+   "summary": "The Airport Health Department, Border Health Services-Pakistan, has announced that Umrah pilgrims departing from Pakistan will be required to carry NADRA-integrated digital vaccination proof for international travel. According to a notification issued by the Airport Health Department on September 7, 2026, the measure c…",
+   "image": "https://i.brecorder.com/large/2026/09/12165615c002cab.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
+   "url": "https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline",
+   "source": "Business Recorder",
+   "published": "2026-09-12T10:38:38+00:00",
+   "summary": "DUBLIN: U.S. President Donald Trump said on Saturday that Iran was probably responsible for an aerial attack on Saudi Arabia ​that shut down its East-West pipeline, one of the kingdom’s main routes for exporting crude while bypassing the Strait of Hormuz . “I think they are, probably they are,” Trump told reporters in …",
+   "image": "https://i.brecorder.com/large/2026/09/12144802732721a.webp",
    "topics": [
     "Economy"
    ],
@@ -216,19 +242,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PHDEC organises workshop",
-   "url": "https://www.brecorder.com/news/40439143/phdec-organises-workshop",
-   "source": "Business Recorder",
-   "published": "2026-09-12T02:13:35+00:00",
-   "summary": "MULTAN: The Pakistan Horticulture Development & Export Company (PHDEC), in collaboration with the Mango Research Institute (MRI), Multan, organised a special workshop for mango growers, orchardists and relevant stakeholders at Lutfabad Mango Farms, Multan. The objective of the workshop was to provide participants with …",
-   "image": "https://i.brecorder.com/large/2026/09/120713157b7e0bb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -568,6 +581,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "QatarEnergy seeks US LNG deals through to 2031, sources say",
+   "url": "https://arynews.tv/qatarenergy-seeks-us-lng-deals-through-to-2031-sources-say",
+   "source": "ARY News",
+   "published": null,
+   "summary": "QatarEnergy seeks US LNG deals through to 2031, sources say",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/QatarEnergy.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
