@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T01:26:50+00:00",
+ "generated": "2026-09-12T06:11:29+00:00",
  "count": 594,
  "with_value": 575,
  "with_winner": 225,
@@ -11309,6 +11309,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003457",
+   "tender_no": "TS0000007324E",
+   "reference": "FCS/SOA/TE/041/26",
+   "title": "HARDWARE MATERIAL (claimable Items) Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Karak - Pakistan",
+   "bid_count": 7,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-12",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003457",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003456",
    "tender_no": "TS0000002494E",
@@ -50386,26 +50404,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001328",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001327",
-   "tender_no": "TS0000002713E",
-   "reference": "SSGC/LP/EPADS/NR/2137129",
-   "title": "SSGC/LP/EPADS/NR/2137129 (Computer Accessories) Miscellaneous",
-   "organisation": "Ministry of Energy (Petroleum Division) Sui Southern Gas Company Ltd. (SSGC) Karachi Head Office Karachi - Pakistan",
-   "bid_count": 8,
-   "lowest": [
-    "Allied Computer Services"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-11",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001327",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
