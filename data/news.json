@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-11T23:30:57+00:00",
- "count": 49,
- "relevant_count": 12,
- "domestic_count": 10,
+ "generated": "2026-09-12T01:26:55+00:00",
+ "count": 54,
+ "relevant_count": 13,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (19)",
@@ -11,14 +11,119 @@
  },
  "stories": [
   {
-   "title": "PM Shehbaz orders two-hour limit on power cuts",
-   "url": "https://www.brecorder.com/news/40439059/pm-shehbaz-orders-two-hour-limit-on-power-cuts",
+   "title": "Anti–dumping probe into soda ash import: Türkiye Trade Ministry conveys its regrets",
+   "url": "https://www.brecorder.com/news/40439113/anti-dumping-probe-into-soda-ash-import-turkiye-trade-ministry-conveys-its-regrets",
    "source": "Business Recorder",
-   "published": "2026-09-11T16:21:43+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Friday took notice of increased electricity load shedding in various parts of the country and ordered authorities to ensure that power outages do not exceed two hours in any area. The prime minister issued the directive while chairing a meeting in Islamabad to review the country’s elect…",
-   "image": "https://i.brecorder.com/large/2026/09/11185309a1bd717.webp",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: The Ministry of Trade, Türkiye officially expressed its regrets for the initiation of the anti–dumping investigation and unexpected imposition of provisional measures on the import of soda ash which would impede the operation of market forces in a competitive environment. The government of Türkiye has convey…",
+   "image": "https://i.brecorder.com/large/2026/09/12013722f75cd1c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh PA will reject any move by NA to approve new provinces: Murad",
+   "url": "https://www.brecorder.com/news/40439115/sindh-pa-will-reject-any-move-by-na-to-approve-new-provinces-murad",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah has said the Sindh Assembly will reject any move by the National Assembly to approve new provinces or administrative units in Sindh. Speaking to the media during a visit to the Mazar-e-Quaid in Karachi, Governor Nihal Hashmi and Chief Minister Murad Ali Shah said import…",
+   "image": "https://i.brecorder.com/large/2026/09/12013836b926c49.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "RDA inflows reach USD13.9bn: SBP",
+   "url": "https://www.brecorder.com/news/40439124/rda-inflows-reach-usd139bn-sbp",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "KARACHI: Inflows through Roshan Digital Account (RDA) reached USD 13.9 billion by the end of August 2026, the State Bank of Pakistan (SBP) said on Friday. According to SBP, inflows under the RDA rose by USD 259 million or 2 percent in August 2026 to reach USD 13.906 billion up from USD 13.647 billion in July 2026. Out …",
+   "image": "https://i.brecorder.com/large/2026/09/12052557e1e8015.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "CKD kits for EVs: GST exemption extended till June 30, 2027",
+   "url": "https://www.brecorder.com/news/40439128/ckd-kits-for-evs-gst-exemption-extended-till-june-30-2027",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has extended sales tax exemption on import of CKD kits for specified electric vehicles till June 30, 2027. In this regard, the FBR has issued budget instructions (2026-27) to the field formations on Friday. According to the FBR, the S. No. 157 of Table-1 of the Sixth Schedu…",
+   "image": "https://i.brecorder.com/large/2026/09/1205204045d7f9b.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Weekly SPI-based inflation surges 0.23pc",
+   "url": "https://www.brecorder.com/news/40439129/weekly-spi-based-inflation-surges-023pc",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Indicator (SPI)-based inflation for the week ended September 10, 2026 increased by 0.23 percent, mainly due to an increase in the prices of petrol (6.18percent), diesel (5.49 percent), LPG (4.32 percent) and wheat flour (0.47 percent), Pakistan Bureau of Statistics (PBS) data noted. The y…",
+   "image": "https://i.brecorder.com/large/2026/09/1205195690c61e1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM places two-hour cap on power load-shedding",
+   "url": "https://www.brecorder.com/news/40439130/pm-places-two-hour-cap-on-power-load-shedding",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday ordered the authorities to cap load-shedding at two hours in any area, as officials blamed disruptions in RLNG supplies amid regional tensions for a fresh squeeze on electricity generation and worsening power outages across the country. Chairing a high-level meeting on…",
+   "image": "https://i.brecorder.com/large/2026/09/1205191778421fa.webp",
    "topics": [
     "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PBC proposes framework to address electricity challenges",
+   "url": "https://www.brecorder.com/news/40439131/pbc-proposes-framework-to-address-electricity-challenges",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: The Pakistan Business Council (PBC) has proposed a strategic framework to stimulate electricity demand, optimise existing generation capacity, reduce power sector costs and promote electricity consumption as a means to accelerate economic activity. A PBC delegation led by Chief Executive Officer Javed Kureis…",
+   "image": "https://i.brecorder.com/large/2026/09/12051710cadcd14.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Punishment for fake invoices: FBR sharply increases sales tax penalties",
+   "url": "https://www.brecorder.com/news/40439132/punishment-for-fake-invoices-fbr-sharply-increases-sales-tax-penalties",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has substantially raised penalties and introduced harsh punishments for sales tax registered persons involved in digital non-compliance and offences or using fake/flying invoices/avoiding production monitoring systems from July 1, 2026. The FBR’s sales tax budget instructio…",
+   "image": "https://i.brecorder.com/large/2026/09/12050611df116d7.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM for expanded global market access for agri products",
+   "url": "https://www.brecorder.com/news/40439133/pm-for-expanded-global-market-access-for-agri-products",
+   "source": "Business Recorder",
+   "published": "2026-09-12T00:46:42+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday ordered a coordinated push to increase the country’s agricultural exports, directing authorities to expand access to global markets and find new destinations for the country’s farm products. Chairing a high-level meeting on the promotion of agriculture and agricultural…",
+   "image": "https://i.brecorder.com/large/2026/09/12050344a2d91e1.webp",
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -167,32 +272,6 @@
    "domestic": false
   },
   {
-   "title": "Indian central bank likely intervenes to defend rupee as oil prices climb, traders say",
-   "url": "https://www.brecorder.com/news/40439058/indian-central-bank-likely-intervenes-to-defend-rupee-as-oil-prices-climb-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-09-11T13:53:20+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Friday to limit the rupee’s fall as a run-up in oil prices and U.S. bond yields pressured the currency, three FX traders at banks and one at an FX brokerage told Reuters . The Indian rupee declined as much as 0.4% to 95.7925 before pa…",
-   "image": "https://i.brecorder.com/large/2026/09/11185305883eb48.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia launches two airstrikes on Mocha airport: Houthi media",
-   "url": "https://www.brecorder.com/news/40439057/saudi-arabia-launches-two-airstrikes-on-mocha-airport-houthi-media",
-   "source": "Business Recorder",
-   "published": "2026-09-11T13:49:14+00:00",
-   "summary": "DUBAI: Saudi Arabia launched two airstrikes on Friday targeting the airport of the strategic city of Mocha, now under Houthi control, according to the Al-Masirah TV channel. Yemen’s Houthis seized control of the Red Sea port city on Thursday after launching a major offensive against Yemeni government forces around the …",
-   "image": "https://i.brecorder.com/large/2026/09/111848451ed5656.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX: buying returns, KSE-100 gains nearly 1% on hopes of easing Middle East tensions",
    "url": "https://www.brecorder.com/news/40439013/psx-buying-returns-kse-100-gains-nearly-1-on-hopes-of-easing-middle-east-tensions",
    "source": "Business Recorder",
@@ -239,19 +318,6 @@
    "published": "2026-09-11T11:41:29+00:00",
    "summary": "India’s equity benchmarks fell for a fifth consecutive week on Friday, as the escalating Middle East conflict pushed crude oil prices higher, raising concerns about inflation and global interest rates. The Nifty 50 dropped 0.34% to 23,398.1 and the BSE Sensex lost 0.16% to 74,781.76. Both indexes fell over 2% this week…",
    "image": "https://i.brecorder.com/large/2026/09/111641121c44050.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz calls for higher farm output, boost in agricultural exports",
-   "url": "https://www.brecorder.com/news/40439042/pm-shehbaz-calls-for-higher-farm-output-boost-in-agricultural-exports",
-   "source": "Business Recorder",
-   "published": "2026-09-11T09:22:44+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Friday called for coordinated federal and provincial efforts to increase per-acre farm productivity, modernise agriculture, develop the livestock sector and boost agricultural exports. Chairing a high-level meeting on the agricultural sector and exports, the prime minister said agricult…",
-   "image": "https://i.brecorder.com/large/2026/09/11142241105dd34.webp",
    "topics": [
     "Economy"
    ],
