@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-12T14:21:08+00:00",
- "count": 47,
+ "generated": "2026-09-12T17:25:23+00:00",
+ "count": 45,
  "relevant_count": 12,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (2)"
  },
  "stories": [
   {
@@ -592,32 +592,6 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/QatarEnergy.jpg",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan sets export acceleration as first priority under URAAN plan",
-   "url": "https://arynews.tv/pakistan-sets-export-acceleration-as-first-priority-under-uraan-plan",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan sets export acceleration as first priority under URAAN plan",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Export-containers.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX market closes lower as KSE-100 index dips 3,078.56 points",
-   "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-dips-3078-56-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX market closes lower as KSE-100 index dips 3,078.56 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PSX-downward-trend-1.jpg",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
