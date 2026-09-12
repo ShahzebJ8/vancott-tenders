@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-12T19:37:10+00:00",
- "count": 45,
+ "generated": "2026-09-12T21:58:43+00:00",
+ "count": 48,
  "relevant_count": 12,
- "domestic_count": 13,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,84 @@
   "ARY News": "ok (2)"
  },
  "stories": [
+  {
+   "title": "FBR slaps Rs80/litre FED on 3 POL products",
+   "url": "https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products",
+   "source": "Business Recorder",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has imposed Federal Excise Duty @ Rs 80 per litre on three petroleum products including petroleum top naphtha, white spirit/ mineral turpentine oil (MTT) and solvent oil from July 1, 2026. In this regard, the FBR has issued sales tax budget instructions (2026-27) to the fie…",
+   "image": "https://i.brecorder.com/large/2026/09/13012559688a4cd.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Gaps in demand estimates: Nepra chief calls for transparent power generation projections",
+   "url": "https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections",
+   "source": "Business Recorder",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "ISLAMABAD: Chairman National Electric Power Regulatory Authority (Nepra) Waseem Mukhtar has questioned ISMO, DISCOs and CPPA-G over significant variations in their demand projections, calling for a rational and transparent mechanism to align future generation capacity with prevailing and projected electricity demand wh…",
+   "image": "https://i.brecorder.com/large/2026/09/13012749cadcd14.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM defends decision to export imported sugar",
+   "url": "https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar",
+   "source": "Business Recorder",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has defended the government’s decision to export around 108,000 metric tonnes (MT) of imported sugar, terming reports being circulated in the media regarding the initiative as “fallacious” and maintaining that the measure was aimed at preventing financial losses arising from the…",
+   "image": "https://i.brecorder.com/large/2026/09/130132071554586.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "IT sector: Govt finalising plan to ensure uninterrupted internet access: Shaza",
+   "url": "https://www.brecorder.com/news/40439244/it-sector-govt-finalising-plan-to-ensure-uninterrupted-internet-access-shaza",
+   "source": "Business Recorder",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "LAHORE: Federal Minister for IT and Telecommunication Shaza Fatima Khawaja announced on Saturday that the government is finalizing a plan to guarantee uninterrupted internet access for Pakistan’s IT sector, as part of a broader push to hit the country’s fifteen-billion-dollar export target. Speaking at a joint session …",
+   "image": "https://i.brecorder.com/large/2026/09/1301445660c03fd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Ambassador appointed to China meets DPM",
+   "url": "https://www.brecorder.com/news/40439250/ambassador-appointed-to-china-meets-dpm",
+   "source": "Business Recorder",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "ISLAMABAD: Pakistan’s Ambassador-designate to China, Ambassador Ali Asad Gilani, called on Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar here on Saturday. The DPM/FM congratulated Ambassador-designate Gilani on his appointment and underscored the special importance Pakistan attaches to …",
+   "image": "https://i.brecorder.com/large/2026/09/130152522f050a0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Clifton, Defence: Damlottee pipeline project to supply 10MGD additional water",
+   "url": "https://www.brecorder.com/news/40439253/clifton-defence-damlottee-pipeline-project-to-supply-10mgd-additional-water",
+   "source": "Business Recorder",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "KARACHI: ‎Mayor Karachi Barrister Murtaza Wahab has taken a major initiative to improve the city’s water supply by adding 10 MGD for Defence and Clifton areas. ‎Karachi Water and Sewerage Corporation (KW&SC) and the Frontier Works Organisation (FWO) signed an agreement for construction of a new pipeline from Damlottee,…",
+   "image": "https://i.brecorder.com/large/2026/09/1301555051c8834.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "PM Shehbaz stresses coordination to boost agri exports",
    "url": "https://www.dawn.com/news/2029252/pm-shehbaz-stresses-coordination-to-boost-agri-exports",
@@ -180,51 +258,12 @@
    "domestic": true
   },
   {
-   "title": "Bahrain says won't participate in Hormuz meeting with Iran",
-   "url": "https://www.brecorder.com/news/40439175/bahrain-says-wont-participate-in-hormuz-meeting-with-iran",
+   "title": "Saudi Arabia shuts down East-West oil pipeline",
+   "url": "https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline",
    "source": "Business Recorder",
-   "published": "2026-09-12T13:47:05+00:00",
-   "summary": "MANAMA: Bahrain said on Saturday that it would not take part in a proposed meeting in Oman between Iran and Gulf states to discuss the Strait of Hormuz, which Tehran has blockaded throughout the Middle East war. Pointing to attacks on infrastructure across the Gulf, the ministry said that security and stability in the …",
-   "image": "https://i.brecorder.com/large/2026/09/12184456593d9ef.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FPCCI calls for stronger economic integration among OIC states",
-   "url": "https://www.brecorder.com/news/40439159/fpcci-calls-for-stronger-economic-integration-among-oic-states",
-   "source": "Business Recorder",
-   "published": "2026-09-12T12:26:54+00:00",
-   "summary": "Despite a combined GDP of around $10.77 trillion, trade among the 57 member states of the Organisation of Islamic Cooperation (OIC) accounts for only 20.36% of their total foreign trade, highlighting significant untapped potential for deeper economic integration, the Federation of Pakistan Chambers of Commerce & Indust…",
-   "image": "https://i.brecorder.com/large/2026/09/12123241afa536a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan makes NADRA-integrated vaccination proof mandatory for Umrah travelers",
-   "url": "https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers",
-   "source": "Business Recorder",
-   "published": "2026-09-12T11:57:12+00:00",
-   "summary": "The Airport Health Department, Border Health Services-Pakistan, has announced that Umrah pilgrims departing from Pakistan will be required to carry NADRA-integrated digital vaccination proof for international travel. According to a notification issued by the Airport Health Department on September 7, 2026, the measure c…",
-   "image": "https://i.brecorder.com/large/2026/09/12165615c002cab.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Trump says Iran probably responsible for attack on Saudi pipeline",
-   "url": "https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline",
-   "source": "Business Recorder",
-   "published": "2026-09-12T10:38:38+00:00",
-   "summary": "DUBLIN: U.S. President Donald Trump said on Saturday that Iran was probably responsible for an aerial attack on Saudi Arabia ​that shut down its East-West pipeline, one of the kingdom’s main routes for exporting crude while bypassing the Strait of Hormuz . “I think they are, probably they are,” Trump told reporters in …",
-   "image": "https://i.brecorder.com/large/2026/09/12144802732721a.webp",
+   "published": "2026-09-12T21:36:43+00:00",
+   "summary": "ADEN/DUBAI: Saudi Arabia has shut down its East-West pipeline, after the vital oil conduit came under aerial attack in the widening Middle East war, threatening to send energy prices even higher. The world’s largest crude oil exporter said it temporarily closed the pipeline as a precaution after a drone attack that bot…",
+   "image": "https://i.brecorder.com/large/2026/09/13014025a9df742.webp",
    "topics": [
     "Economy"
    ],
