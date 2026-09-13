@@ -1,33 +1,46 @@
 {
- "generated": "2026-09-13T02:52:09+00:00",
- "count": 48,
- "relevant_count": 12,
- "domestic_count": 19,
+ "generated": "2026-09-13T08:00:39+00:00",
+ "count": 46,
+ "relevant_count": 10,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (16)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (7)",
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (2)"
  },
  "stories": [
   {
-   "title": "FBR slaps Rs80/litre FED on 3 POL products",
-   "url": "https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products",
+   "title": "PM defends decision to export imported sugar",
+   "url": "https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar",
    "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has imposed Federal Excise Duty @ Rs 80 per litre on three petroleum products including petroleum top naphtha, white spirit/ mineral turpentine oil (MTT) and solvent oil from July 1, 2026. In this regard, the FBR has issued sales tax budget instructions (2026-27) to the fie…",
-   "image": "https://i.brecorder.com/large/2026/09/13012559688a4cd.webp",
+   "published": "2026-09-13T05:43:17+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has defended the government’s decision to export around 108,000 metric tonnes (MT) of imported sugar, terming reports being circulated in the media regarding the initiative as “fallacious” and maintaining that the measure was aimed at preventing financial losses arising from the…",
+   "image": "https://i.brecorder.com/large/2026/09/130132071554586.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Used car imports fall sharply",
+   "url": "https://www.dawn.com/news/2029573/used-car-imports-fall-sharply",
+   "source": "Dawn",
+   "published": "2026-09-13T05:36:06+00:00",
+   "summary": "KARACHI: The government’s January move to abolish the baggage scheme for used car imports and enforce mandatory pre-shipment inspections for gifted and resident-transferred vehicles is now showing results, with arrivals in this category declining. Indus Motor Company (IMC) in its annual report FY26 mentioned that “the …",
+   "image": "https://i.dawn.com/large/2026/09/13103446e755930.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
    "title": "Gaps in demand estimates: Nepra chief calls for transparent power generation projections",
    "url": "https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections",
    "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
+   "published": "2026-09-13T05:34:02+00:00",
    "summary": "ISLAMABAD: Chairman National Electric Power Regulatory Authority (Nepra) Waseem Mukhtar has questioned ISMO, DISCOs and CPPA-G over significant variations in their demand projections, calling for a rational and transparent mechanism to align future generation capacity with prevailing and projected electricity demand wh…",
    "image": "https://i.brecorder.com/large/2026/09/13012749cadcd14.webp",
    "topics": [
@@ -37,12 +50,25 @@
    "domestic": true
   },
   {
-   "title": "PM defends decision to export imported sugar",
-   "url": "https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar",
+   "title": "FBR slaps Rs80/litre FED on 3 POL products",
+   "url": "https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products",
    "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has defended the government’s decision to export around 108,000 metric tonnes (MT) of imported sugar, terming reports being circulated in the media regarding the initiative as “fallacious” and maintaining that the measure was aimed at preventing financial losses arising from the…",
-   "image": "https://i.brecorder.com/large/2026/09/130132071554586.webp",
+   "published": "2026-09-13T05:07:45+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has imposed Federal Excise Duty @ Rs 80 per litre on three petroleum products including petroleum top naphtha, white spirit/ mineral turpentine oil (MTT) and solvent oil from July 1, 2026. In this regard, the FBR has issued sales tax budget instructions (2026-27) to the fie…",
+   "image": "https://i.brecorder.com/large/2026/09/13012559688a4cd.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "State Bank in tight spot over policy rate as inflation rises amid Gulf conflict",
+   "url": "https://www.dawn.com/news/2029588/state-bank-in-tight-spot-over-policy-rate-as-inflation-rises-amid-gulf-conflict",
+   "source": "Dawn",
+   "published": "2026-09-13T03:44:02+00:00",
+   "summary": "https://www.dawn.com/news/2029577/state-bank-in-tight-spot-as-inflation-rises",
+   "image": "https://i.dawn.com/large/2026/09/13084316dabb6b8.webp",
    "topics": [
     "Economy"
    ],
@@ -60,32 +86,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Ambassador appointed to China meets DPM",
-   "url": "https://www.brecorder.com/news/40439250/ambassador-appointed-to-china-meets-dpm",
-   "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
-   "summary": "ISLAMABAD: Pakistan’s Ambassador-designate to China, Ambassador Ali Asad Gilani, called on Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar here on Saturday. The DPM/FM congratulated Ambassador-designate Gilani on his appointment and underscored the special importance Pakistan attaches to …",
-   "image": "https://i.brecorder.com/large/2026/09/130152522f050a0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Clifton, Defence: Damlottee pipeline project to supply 10MGD additional water",
-   "url": "https://www.brecorder.com/news/40439253/clifton-defence-damlottee-pipeline-project-to-supply-10mgd-additional-water",
-   "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
-   "summary": "KARACHI: ‎Mayor Karachi Barrister Murtaza Wahab has taken a major initiative to improve the city’s water supply by adding 10 MGD for Defence and Clifton areas. ‎Karachi Water and Sewerage Corporation (KW&SC) and the Frontier Works Organisation (FWO) signed an agreement for construction of a new pipeline from Damlottee,…",
-   "image": "https://i.brecorder.com/large/2026/09/1301555051c8834.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -245,25 +245,25 @@
    "domestic": true
   },
   {
-   "title": "Exchange companies’ dollar sales jump 30pc",
-   "url": "https://www.dawn.com/news/2028475/exchange-companies-dollar-sales-jump-30pc",
-   "source": "Dawn",
-   "published": "2026-09-09T02:28:41+00:00",
-   "summary": "KARACHI: Exchange companies’ dollar sales to banks increased by 30 per cent year-on-year in August, indicating higher inflows. Data from the Exchange Companies Association of Pakistan (ECAP) showed these companies sold $248.7 million to banks in August, up from $174.9m in the same month last year. However, July saw a d…",
-   "image": "https://i.dawn.com/large/2026/09/0907401526ad126.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Saudi Arabia shuts down East-West oil pipeline",
    "url": "https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline",
    "source": "Business Recorder",
    "published": "2026-09-12T21:36:43+00:00",
    "summary": "ADEN/DUBAI: Saudi Arabia has shut down its East-West pipeline, after the vital oil conduit came under aerial attack in the widening Middle East war, threatening to send energy prices even higher. The world’s largest crude oil exporter said it temporarily closed the pipeline as a precaution after a drone attack that bot…",
    "image": "https://i.brecorder.com/large/2026/09/13014025a9df742.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt urges UN to regulate digital assets",
+   "url": "https://tribune.com.pk/story/2628955/govt-urges-un-to-regulate-digital-assets",
+   "source": "The Express Tribune",
+   "published": "2026-09-12T16:00:59+00:00",
+   "summary": "Minister says 1.4b adults remain outside formal financial system as remittance costs stay above SDG target",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -506,32 +506,6 @@
    "domestic": false
   },
   {
-   "title": "Global bonds buckle as surging oil prices inflame inflation risks",
-   "url": "https://www.brecorder.com/news/40439010/global-bonds-buckle-as-surging-oil-prices-inflame-inflation-risks",
-   "source": "Business Recorder",
-   "published": "2026-09-11T03:03:40+00:00",
-   "summary": "SYDNEY: Global bond yields ​spiked to new highs and sharemarkets slumped on Friday as soaring oil prices inflamed inflation risks, sending investors scrambling to price in ‌more policy tightening from central banks across the globe. Brent crude climbed to a four-month high of $109.97 a barrel on Friday after a 6% overn…",
-   "image": "https://i.brecorder.com/large/2026/09/110758582ab54ad.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar holds gains, yen slips as Mideast energy shock deepens",
-   "url": "https://www.brecorder.com/news/40439009/dollar-holds-gains-yen-slips-as-mideast-energy-shock-deepens",
-   "source": "Business Recorder",
-   "published": "2026-09-11T02:56:51+00:00",
-   "summary": "SINGAPORE: The dollar held near its highest ​levels of the past week and the yen slipped for a second day at the start of Asian ‌trading on Friday as renewed fears of energy supply disruptions in the Middle East pushed up bond yields and oil prices. The US dollar index , which measures the greenback’s strength against …",
-   "image": "https://i.brecorder.com/large/2026/09/11075442ee4c191.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -597,19 +571,6 @@
    "domestic": false
   },
   {
-   "title": "FBR urges shopkeepers, retailers to opt for fixed tax scheme",
-   "url": "https://www.dawn.com/news/2028560/fbr-urges-shopkeepers-retailers-to-opt-for-fixed-tax-scheme",
-   "source": "Dawn",
-   "published": "2026-09-09T03:02:59+00:00",
-   "summary": "https://www.dawn.com/news/2028474/shopkeepers-asked-to-opt-for-fixed-tax-scheme",
-   "image": "https://i.dawn.com/large/2026/09/09075914447edb9.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "China donates livestock vaccines for CPEC 2.0",
    "url": "https://tribune.com.pk/story/2627156/china-donates-livestock-vaccines-for-cpec-20",
    "source": "The Express Tribune",
@@ -620,6 +581,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Global bonds buckle as surging oil prices inflame inflation risks",
+   "url": "https://arynews.tv/global-bonds-buckle-as-surging-oil-prices-inflame-inflation-risks",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Global bonds buckle as surging oil prices inflame inflation risks",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Global-stocks.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
