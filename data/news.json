@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-13T13:10:09+00:00",
- "count": 42,
- "relevant_count": 13,
- "domestic_count": 15,
+ "generated": "2026-09-13T17:05:19+00:00",
+ "count": 40,
+ "relevant_count": 12,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
@@ -10,19 +10,6 @@
   "ARY News": "ok (2)"
  },
  "stories": [
-  {
-   "title": "FBR slaps Rs80/litre FED on 3 POL products",
-   "url": "https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products",
-   "source": "Business Recorder",
-   "published": "2026-09-13T10:13:30+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has imposed Federal Excise Duty @ Rs 80 per litre on three petroleum products including petroleum top naphtha, white spirit/ mineral turpentine oil (MTT) and solvent oil from July 1, 2026. In this regard, the FBR has issued sales tax budget instructions (2026-27) to the fie…",
-   "image": "https://i.brecorder.com/large/2026/09/13012559688a4cd.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
   {
    "title": "Used car imports fall sharply",
    "url": "https://www.dawn.com/news/2029573/used-car-imports-fall-sharply",
@@ -32,19 +19,6 @@
    "image": "https://i.dawn.com/large/2026/09/13103446e755930.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Gaps in demand estimates: Nepra chief calls for transparent power generation projections",
-   "url": "https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections",
-   "source": "Business Recorder",
-   "published": "2026-09-13T05:34:02+00:00",
-   "summary": "ISLAMABAD: Chairman National Electric Power Regulatory Authority (Nepra) Waseem Mukhtar has questioned ISMO, DISCOs and CPPA-G over significant variations in their demand projections, calling for a rational and transparent mechanism to align future generation capacity with prevailing and projected electricity demand wh…",
-   "image": "https://i.brecorder.com/large/2026/09/13012749cadcd14.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -204,6 +178,19 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
+   "url": "https://www.brecorder.com/news/40439290/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply",
+   "source": "Business Recorder",
+   "published": "2026-09-13T13:29:32+00:00",
+   "summary": "LONDON: Saudi Arabia will run out of oil stocks for exports if it doesn’t restart its major pipeline to the Red Sea within days, leading to a loss of up to 4% of global supply, Saudi oil buyers and traders said. A further decline in Saudi flows will worsen the global supply crunch, which has already pushed global fuel …",
+   "image": "https://i.brecorder.com/large/2026/09/1318284552d3df3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PM Shehbaz condemns Houthi attacks on Saudi Arabia in call with crown prince",
@@ -434,19 +421,6 @@
    "published": "2026-09-11T06:43:48+00:00",
    "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares fell on Friday amid a sell-off in US treasuries while the inflation data there reinforced bets on an imminent Federal Reserve interest rate hike. The won strengthened, while the benchmark bond yield rose. The benchmark KOSPI was down 189.90 points, …",
    "image": "https://i.brecorder.com/large/2026/09/11114333ab5ce7b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China, Hong Kong shares head for weekly drop on Fed rate concerns",
-   "url": "https://www.brecorder.com/news/40439022/china-hong-kong-shares-head-for-weekly-drop-on-fed-rate-concerns",
-   "source": "Business Recorder",
-   "published": "2026-09-11T06:19:44+00:00",
-   "summary": "SHANGHAI: China and Hong Kong stocks slipped on Friday and were on track to close the week lower, as thin trading volumes and growing expectations of further US interest rate hikes dampened risk sentiment. China’s blue-chip CSI300 Index dropped 1.6% by the lunch break, while the Shanghai Composite Index lost 1.8% to be…",
-   "image": "https://i.brecorder.com/large/2026/09/11111935e3d5b8c.webp",
    "topics": [
     "Economy"
    ],
