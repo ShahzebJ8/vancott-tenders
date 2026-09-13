@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-13T17:05:19+00:00",
- "count": 40,
- "relevant_count": 12,
+ "generated": "2026-09-13T19:41:29+00:00",
+ "count": 41,
+ "relevant_count": 13,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (15)",
@@ -178,6 +178,19 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Fuel relief scheme: How to get Rs100/litre petrol subsidy?",
+   "url": "https://www.brecorder.com/news/40439296/fuel-relief-scheme-how-to-get-rs100litre-petrol-subsidy",
+   "source": "Business Recorder",
+   "published": "2026-09-13T18:02:25+00:00",
+   "summary": "Prime Minister Shehbaz Sharif has announced a special fuel relief scheme to cushion motorcycle, rickshaw, Qingqi and small-car users from rising petrol prices amid a surge in global oil prices triggered by tensions in the Middle East. Under the scheme, eligible users of motorcycles, rickshaws, Qingqi and other two- and…",
+   "image": "https://i.brecorder.com/large/2026/09/13225316aa5d02e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
