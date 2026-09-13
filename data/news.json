@@ -1,26 +1,26 @@
 {
- "generated": "2026-09-13T08:00:39+00:00",
- "count": 46,
- "relevant_count": 10,
- "domestic_count": 18,
+ "generated": "2026-09-13T13:10:09+00:00",
+ "count": 42,
+ "relevant_count": 13,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (15)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (2)"
  },
  "stories": [
   {
-   "title": "PM defends decision to export imported sugar",
-   "url": "https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar",
+   "title": "FBR slaps Rs80/litre FED on 3 POL products",
+   "url": "https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products",
    "source": "Business Recorder",
-   "published": "2026-09-13T05:43:17+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has defended the government’s decision to export around 108,000 metric tonnes (MT) of imported sugar, terming reports being circulated in the media regarding the initiative as “fallacious” and maintaining that the measure was aimed at preventing financial losses arising from the…",
-   "image": "https://i.brecorder.com/large/2026/09/130132071554586.webp",
+   "published": "2026-09-13T10:13:30+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has imposed Federal Excise Duty @ Rs 80 per litre on three petroleum products including petroleum top naphtha, white spirit/ mineral turpentine oil (MTT) and solvent oil from July 1, 2026. In this regard, the FBR has issued sales tax budget instructions (2026-27) to the fie…",
+   "image": "https://i.brecorder.com/large/2026/09/13012559688a4cd.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": true
   },
   {
@@ -50,38 +50,12 @@
    "domestic": true
   },
   {
-   "title": "FBR slaps Rs80/litre FED on 3 POL products",
-   "url": "https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products",
-   "source": "Business Recorder",
-   "published": "2026-09-13T05:07:45+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has imposed Federal Excise Duty @ Rs 80 per litre on three petroleum products including petroleum top naphtha, white spirit/ mineral turpentine oil (MTT) and solvent oil from July 1, 2026. In this regard, the FBR has issued sales tax budget instructions (2026-27) to the fie…",
-   "image": "https://i.brecorder.com/large/2026/09/13012559688a4cd.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "State Bank in tight spot over policy rate as inflation rises amid Gulf conflict",
    "url": "https://www.dawn.com/news/2029588/state-bank-in-tight-spot-over-policy-rate-as-inflation-rises-amid-gulf-conflict",
    "source": "Dawn",
    "published": "2026-09-13T03:44:02+00:00",
    "summary": "https://www.dawn.com/news/2029577/state-bank-in-tight-spot-as-inflation-rises",
    "image": "https://i.dawn.com/large/2026/09/13084316dabb6b8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "IT sector: Govt finalising plan to ensure uninterrupted internet access: Shaza",
-   "url": "https://www.brecorder.com/news/40439244/it-sector-govt-finalising-plan-to-ensure-uninterrupted-internet-access-shaza",
-   "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
-   "summary": "LAHORE: Federal Minister for IT and Telecommunication Shaza Fatima Khawaja announced on Saturday that the government is finalizing a plan to guarantee uninterrupted internet access for Pakistan’s IT sector, as part of a broader push to hit the country’s fifteen-billion-dollar export target. Speaking at a joint session …",
-   "image": "https://i.brecorder.com/large/2026/09/1301445660c03fd.webp",
    "topics": [
     "Economy"
    ],
@@ -219,19 +193,6 @@
    "domestic": true
   },
   {
-   "title": "PSX extends losses on economic uncertainty",
-   "url": "https://www.dawn.com/news/2028748/psx-extends-losses-on-economic-uncertainty",
-   "source": "Dawn",
-   "published": "2026-09-10T02:47:08+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) continued to decline for the third consecutive session on Wednesday amid rising tensions in the Strait of Hormuz. This situation drove oil prices upward, intensifying inflationary pressures. These developments pose significant risks to the economic outlook, as rising productio…",
-   "image": "https://i.dawn.com/large/2026/09/100747006abe39b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Islamabad seeks fair share in NFC",
    "url": "https://tribune.com.pk/story/2628422/islamabad-seeks-fair-share-in-nfc",
    "source": "The Express Tribune",
@@ -245,16 +206,16 @@
    "domestic": true
   },
   {
-   "title": "Saudi Arabia shuts down East-West oil pipeline",
-   "url": "https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline",
+   "title": "PM Shehbaz condemns Houthi attacks on Saudi Arabia in call with crown prince",
+   "url": "https://www.brecorder.com/news/40439286/pm-shehbaz-condemns-houthi-attacks-on-saudi-arabia-in-call-with-crown-prince",
    "source": "Business Recorder",
-   "published": "2026-09-12T21:36:43+00:00",
-   "summary": "ADEN/DUBAI: Saudi Arabia has shut down its East-West pipeline, after the vital oil conduit came under aerial attack in the widening Middle East war, threatening to send energy prices even higher. The world’s largest crude oil exporter said it temporarily closed the pipeline as a precaution after a drone attack that bot…",
-   "image": "https://i.brecorder.com/large/2026/09/13014025a9df742.webp",
+   "published": "2026-09-13T12:16:37+00:00",
+   "summary": "Prime Minister Muhammad Shehbaz Sharif on Sunday held a telephone conversation with Saudi Crown Prince and Prime Minister Mohammed bin Salman, during which he strongly condemned the recent Houthi attacks on Saudi Arabia’s civilian and economic infrastructure, the PM Office said. The prime minister expressed Pakistan’s …",
+   "image": "https://i.brecorder.com/large/2026/09/13171328cebc784.webp",
    "topics": [
-    "Economy"
+    "Construction & projects"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -329,19 +290,6 @@
    "published": "2026-09-11T13:57:13+00:00",
    "summary": "MUMBAI: In what market participants are seeing as an early indication from Indian authorities on interest rates, the central bank partially canceled an auction of shorter duration government security to curb any further spike in bond yields, traders said on Friday. Reserve Bank of India accepted bids worth only 45.06 b…",
    "image": "https://i.brecorder.com/large/2026/09/11185649519791d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying returns, KSE-100 gains nearly 1% on hopes of easing Middle East tensions",
-   "url": "https://www.brecorder.com/news/40439013/psx-buying-returns-kse-100-gains-nearly-1-on-hopes-of-easing-middle-east-tensions",
-   "source": "Business Recorder",
-   "published": "2026-09-11T13:28:06+00:00",
-   "summary": "It was a tale of two halves at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index recovering sharply from early-session losses to close near the day’s high as reports of Strait of Hormuz talks lifted market sentiment on Friday. The benchmark index opened under pressure and fell to an intra-day low of 1…",
-   "image": "https://i.brecorder.com/large/2026/09/11093704b0dbf02.webp",
    "topics": [
     "Economy"
    ],
@@ -584,29 +532,29 @@
    "domestic": false
   },
   {
-   "title": "Global bonds buckle as surging oil prices inflame inflation risks",
-   "url": "https://arynews.tv/global-bonds-buckle-as-surging-oil-prices-inflame-inflation-risks",
+   "title": "Pakistan, China explore new business partnerships in AI, advanced manufacturing, digital infrastructure",
+   "url": "https://arynews.tv/pakistan-china-explore-new-business-partnerships-in-ai-advanced-manufacturing-digital-infrastructure",
    "source": "ARY News",
    "published": null,
-   "summary": "Global bonds buckle as surging oil prices inflame inflation risks",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Global-stocks.jpg",
+   "summary": "Pakistan, China explore new business partnerships in AI, advanced manufacturing, digital infrastructure",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Pakistan-China.jpg",
    "topics": [
-    "Economy"
+    "Construction & projects"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
-   "title": "QatarEnergy seeks US LNG deals through to 2031, sources say",
-   "url": "https://arynews.tv/qatarenergy-seeks-us-lng-deals-through-to-2031-sources-say",
+   "title": "Pakistan ‘prepares’ for IMF review talks to unlock $1.2 billion",
+   "url": "https://arynews.tv/pakistan-prepares-for-imf-review-talks-to-unlock-1-2-billion",
    "source": "ARY News",
    "published": null,
-   "summary": "QatarEnergy seeks US LNG deals through to 2031, sources say",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/QatarEnergy.jpg",
+   "summary": "Pakistan ‘prepares’ for IMF review talks to unlock $1.2 billion",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistan-IMF-gas-debt.jpg",
    "topics": [
-    "Energy & power"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   }
  ]

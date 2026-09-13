@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T08:00:33+00:00",
+ "generated": "2026-09-13T13:10:04+00:00",
  "count": 594,
  "with_value": 575,
  "with_winner": 225,
@@ -11657,6 +11657,26 @@
    "city": "Faisalabad",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003438",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003437",
+   "tender_no": "TS0000011070E",
+   "reference": "PRD(L)/WAPDA/038(2026-27)",
+   "title": "WAPDA HOSPITAL TARBELA PRD NO.038 Health/Medicines",
+   "organisation": "Water and Power Development Authority (WAPDA) WAPDA Lahore - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "NA Water and Power Development Authority (WAPDA)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-11",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003437",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -50384,24 +50404,6 @@
    "city": "Peshawar",
    "province": "Khyber Pakhtunkhwa",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001330",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001329",
-   "tender_no": "TS0000006397E",
-   "reference": "Tender No.234/IESCO/MM/P&#38;PD/2025-26",
-   "title": "Procurement of Allied Accessories for Aerial Bundled Cable (ABC) Electrical Items Islamabad Electric Supply Company (IESCO)",
-   "organisation": "Islamabad Electric Supply Company (IESCO) Islamabad Electric Supply Company (IESCO) Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-11",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001329",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
