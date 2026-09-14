@@ -1,22 +1,62 @@
 {
- "generated": "2026-09-14T00:24:10+00:00",
- "count": 47,
+ "generated": "2026-09-14T05:19:43+00:00",
+ "count": 46,
  "relevant_count": 14,
  "domestic_count": 20,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (8)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (2)"
  },
  "stories": [
   {
+   "title": "Market expects status quo as MPC meets today",
+   "url": "https://www.brecorder.com/news/40439161/market-expects-status-quo-as-mpc-meets-today",
+   "source": "Business Recorder",
+   "published": "2026-09-14T05:04:32+00:00",
+   "summary": "The State Bank of Pakistan (SBP) Monetary Policy Committee (MPC) is expected to meet today (Monday) for the second time this fiscal year, with a majority of market participants expecting a status quo. At its previous meeting on July 27, the central bank’s MPC, despite signs of improvement in Pakistan’s macroeconomic ou…",
+   "image": "https://i.brecorder.com/large/2026/09/121301575b8cb5f.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Karachi sizzles at a September high of 40.3 degrees Celsius",
+   "url": "https://www.brecorder.com/news/40439369/karachi-sizzles-at-a-september-high-of-403-degrees-celsius",
+   "source": "Business Recorder",
+   "published": "2026-09-14T02:43:51+00:00",
+   "summary": "KARACHI: The metropolis sizzled in hot and humid weather on Sunday as the temperature hit 40.3 Celsius, the highest recorded in the city this September, the Met Office said. Elsewhere in Sindh, the highest temperature of 42 Celsius was recorded in Shaheed Benazirabad, followed by 41.5 Celsius each in Chhor and Mithi an…",
+   "image": "https://i.brecorder.com/large/2026/09/140743336a982e3.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM, MBS discuss Houthi challenge",
+   "url": "https://www.brecorder.com/news/40439350/pm-mbs-discuss-houthi-challenge",
+   "source": "Business Recorder",
+   "published": "2026-09-14T02:13:24+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has reiterated Pakistan’s “strong condemnation” of the recent attacks by Houthis on Saudi Arabia’s civilian and economic infrastructure, during his telephonic conversation with Saudi Crown Prince and Prime Minister Mohammed bin Salman. The said telephonic conversation took place…",
+   "image": "https://i.brecorder.com/large/2026/09/140354328c96c57.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
    "title": "President upholds FBR data confidentiality order",
    "url": "https://www.brecorder.com/news/40439346/president-upholds-fbr-data-confidentiality-order",
    "source": "Business Recorder",
-   "published": "2026-09-13T23:59:48+00:00",
+   "published": "2026-09-14T00:41:47+00:00",
    "summary": "ISLAMABAD: President Asif Ali Zardari has upheld the order of the Federal Tax Ombudsman that the Federal Board of Revenue’s (FBR) field officials should exercise due caution in future to ensure that the confidentiality of taxpayers’ tax related information and personal data is ensured during utilization for official pu…",
-   "image": "https://i.brecorder.com/large/2026/09/140350171763415.webp",
+   "image": "https://i.brecorder.com/large/2026/09/14053136ea8fc2c.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -34,19 +74,6 @@
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PM, MBS discuss Houthi challenge",
-   "url": "https://www.brecorder.com/news/40439350/pm-mbs-discuss-houthi-challenge",
-   "source": "Business Recorder",
-   "published": "2026-09-13T23:59:48+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has reiterated Pakistan’s “strong condemnation” of the recent attacks by Houthis on Saudi Arabia’s civilian and economic infrastructure, during his telephonic conversation with Saudi Crown Prince and Prime Minister Mohammed bin Salman. The said telephonic conversation took place…",
-   "image": "https://i.brecorder.com/large/2026/09/140354328c96c57.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -73,32 +100,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Protest against oil levy: JI says people want rights, not charity",
-   "url": "https://www.brecorder.com/news/40439301/protest-against-oil-levy-ji-says-people-want-rights-not-charity",
-   "source": "Business Recorder",
-   "published": "2026-09-13T23:59:47+00:00",
-   "summary": "KARACHI: The Jamaat-e-Islami’s (JI) sit-in outside the Sindh Governor House against the petroleum levy and Independent Power Plants (IPPs) agreements entered its 29th day on Sunday, with JI Karachi chief Monem Zafar saying people were demanding their rights, not charity. Addressing a press conference at the protest ven…",
-   "image": "https://i.brecorder.com/large/2026/09/140037462379024.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Weekly Cotton Review: Prices are steady; trading volume improves",
-   "url": "https://www.brecorder.com/news/40439304/weekly-cotton-review-prices-are-steady-trading-volume-improves",
-   "source": "Business Recorder",
-   "published": "2026-09-13T23:59:47+00:00",
-   "summary": "KARACHI: Cotton prices across the country’s markets have steadied after a recent upward trend, with trading volume also showing marked improvement, dealers reported. The spot rate climbed by six hundred rupees per maund, signalling a positive shift in market sentiment. New York cotton futures, meanwhile, continued to s…",
-   "image": "https://i.brecorder.com/large/2026/09/14004131613009e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -271,12 +272,90 @@
    "domestic": true
   },
   {
-   "title": "Prices of kitchen items in Peshawar show mixed trend",
-   "url": "https://www.brecorder.com/news/40439311/prices-of-kitchen-items-in-peshawar-show-mixed-trend",
+   "title": "PSX: KSE-100 sheds nearly 1,500 points as situation remains tense in ME",
+   "url": "https://www.brecorder.com/news/40439382/psx-kse-100-sheds-nearly-1500-points-as-situation-remains-tense-in-me",
    "source": "Business Recorder",
-   "published": "2026-09-13T23:59:47+00:00",
-   "summary": "PESHAWAR: Mixed trend in prices of important kitchen items was witnessed in the retail market. A weekly survey carried out by Business Recorder here Sunday revealed that most of daily use items including flour, sugar, eggs, live chicken, vegetables, pulses, fruits and others have touched a new peak in the open market. …",
-   "image": "https://i.brecorder.com/large/2026/09/14005754cce9e2d.webp",
+   "published": "2026-09-14T04:50:22+00:00",
+   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) after new Houthi strikes on Saudi Arabia and Iranian attacks on ships in the Gulf, with the benchmark KSE-100 Index shedding nearly 1,500 points during the opening minutes of trading on Monday. At 9:40am, the benchmark index was hovering at 169,030.57, …",
+   "image": "https://i.brecorder.com/large/2026/09/14094905e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Goldman Sachs now expects Fed to hike rates in September",
+   "url": "https://www.brecorder.com/news/40439378/goldman-sachs-now-expects-fed-to-hike-rates-in-september",
+   "source": "Business Recorder",
+   "published": "2026-09-14T03:08:07+00:00",
+   "summary": "Goldman Sachs now expects ​the US Federal ‌Reserve to raise interest rates by ​25 basis ​points at its September ⁠policy meeting, ​reversing its previous ​forecast for rates to remain unchanged. The Wall ​Street bank ​said in a note on ‌Friday ⁠that the change was driven less by ​its ​economic ⁠outlook and more by fina…",
+   "image": "https://i.brecorder.com/large/2026/09/14080616249d63b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Strengthening the solar ecosystem",
+   "url": "https://www.dawn.com/news/2029540/strengthening-the-solar-ecosystem",
+   "source": "Dawn",
+   "published": "2026-09-14T02:56:35+00:00",
+   "summary": "Pakistan should start building a recycling industry for solar panels and batteries now rather than wait for the first large wave of end-of-life equipment to become a waste-management problem. Speaking to Dawn during a recent visit to Pakistan, Global Solar Council (GSC) chief executive Sonia Dunlop said the country’s r…",
+   "image": "https://i.dawn.com/large/2026/09/14075611530a04f.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Shares skid in Asia as oil rises, rate hikes loom",
+   "url": "https://www.brecorder.com/news/40439374/shares-skid-in-asia-as-oil-rises-rate-hikes-loom",
+   "source": "Business Recorder",
+   "published": "2026-09-14T02:55:11+00:00",
+   "summary": "SYDNEY: Share markets slid in Asia on Monday as supply concerns caused oil prices to spike anew, while investors braced for possible ​interest rate hikes in both the United States and Japan this week. Brent climbed 3% as new strikes on Saudi Arabia ‌ and on ships in the Gulf tested nerves, after an attack on a Saudi oi…",
+   "image": "https://i.brecorder.com/large/2026/09/140752006d860e9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Building a stronger maritime future",
+   "url": "https://www.dawn.com/news/2029680/building-a-stronger-maritime-future",
+   "source": "Dawn",
+   "published": "2026-09-14T02:54:30+00:00",
+   "summary": "For Pakistan, maritime trade is a national economic lifeline. Energy supplies, imports and exports, industrial production and regional connectivity all depend on the uninterrupted functioning of the maritime and logistics system. However, the security environment around Pakistan is changing. The question Pakistan must …",
+   "image": "https://i.dawn.com/large/2026/09/140754115a9b654.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
+   "url": "https://www.brecorder.com/news/40439373/dollar-steady-yen-near-7-month-high-ahead-of-fed-boj-meetings",
+   "source": "Business Recorder",
+   "published": "2026-09-14T02:50:22+00:00",
+   "summary": "SINGAPORE: The dollar was steady on Monday , ​with the yen holding on to its recent sharp gains and hovering near a seven-month high as investors pondered possible rate hikes from ‌the Federal Reserve and Bank of Japan in a pivotal week for monetary policy. Global policymakers are grappling with erratic pricing pressur…",
+   "image": "https://i.brecorder.com/large/2026/09/14074542df2476c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Are rate hikes deepening Pakistan's debt trap?",
+   "url": "https://tribune.com.pk/story/2629133/are-rate-hikes-deepening-pakistans-debt-trap",
+   "source": "The Express Tribune",
+   "published": "2026-09-13T16:55:05+00:00",
+   "summary": "Inflation is on supply side, but central bank tightening reprices sovereign debt",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -297,38 +376,12 @@
    "domestic": false
   },
   {
-   "title": "Govt urges UN to regulate digital assets",
-   "url": "https://tribune.com.pk/story/2628955/govt-urges-un-to-regulate-digital-assets",
-   "source": "The Express Tribune",
-   "published": "2026-09-12T16:00:59+00:00",
-   "summary": "Minister says 1.4b adults remain outside formal financial system as remittance costs stay above SDG target",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Finmin's adviser says tax collection on target, provinces bound to boost revenue",
    "url": "https://www.dawn.com/news/2029318/finmins-adviser-says-tax-collection-on-target-provinces-bound-to-boost-revenue",
    "source": "Dawn",
    "published": "2026-09-12T03:00:15+00:00",
    "summary": "https://www.dawn.com/news/2029249",
    "image": "https://i.dawn.com/large/2026/09/1207555366cd5eb.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "$200m more approved for FBR",
-   "url": "https://tribune.com.pk/story/2628843/200m-more-approved-for-fbr",
-   "source": "The Express Tribune",
-   "published": "2026-09-11T15:54:47+00:00",
-   "summary": "Rs57.1b TADRA project recommended; total foreign loans for tax system reach $4.9b",
-   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -480,45 +533,6 @@
    "domestic": false
   },
   {
-   "title": "Thai baht/US dollar slightly weaker on Friday",
-   "url": "https://www.brecorder.com/news/40439033/thai-bahtus-dollar-slightly-weaker-on-friday",
-   "source": "Business Recorder",
-   "published": "2026-09-11T07:07:30+00:00",
-   "summary": "BANGKOK: The Thai baht slightly weakened against the US dollar on Friday. At 0255 GMT, the baht was 0.09% lower at 33.14 versus the dollar, after trading in a range of 33.120 to 33.200. It ended the previous session at 33.11 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/1112072309e1dde.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan steady as dollar rebounds, investors eye US CPI",
-   "url": "https://www.brecorder.com/news/40439028/chinas-yuan-steady-as-dollar-rebounds-investors-eye-us-cpi",
-   "source": "Business Recorder",
-   "published": "2026-09-11T06:45:50+00:00",
-   "summary": "SHANGHAI: China’s yuan held steady against the US dollar on Friday as the greenback rebounded and the central bank set a strong fixing, with investors positioning cautiously ahead of US inflation data later in the day. The spot yuan opened at 6.7119 per dollar and was last trading at 6.7109 as of 0249 GMT, 6 pips firme…",
-   "image": "https://i.brecorder.com/large/2026/09/11114536fde1447.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korea shares drop on oil, bond rout concerns",
-   "url": "https://www.brecorder.com/news/40439027/south-korea-shares-drop-on-oil-bond-rout-concerns",
-   "source": "Business Recorder",
-   "published": "2026-09-11T06:43:48+00:00",
-   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares fell on Friday amid a sell-off in US treasuries while the inflation data there reinforced bets on an imminent Federal Reserve interest rate hike. The won strengthened, while the benchmark bond yield rose. The benchmark KOSPI was down 189.90 points, …",
-   "image": "https://i.brecorder.com/large/2026/09/11114333ab5ce7b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -542,32 +556,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP to set up system to access bank transaction data",
-   "url": "https://www.dawn.com/news/2028817/sbp-to-set-up-system-to-access-bank-transaction-data",
-   "source": "Dawn",
-   "published": "2026-09-10T02:42:09+00:00",
-   "summary": "https://www.dawn.com/news/2028751",
-   "image": "https://i.dawn.com/large/2026/09/10074131dabb6b8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR chief orders payment of Rs126bn in tax refunds, duty rebates",
-   "url": "https://www.dawn.com/news/2028814/fbr-chief-orders-payment-of-rs126bn-in-tax-refunds-duty-rebates",
-   "source": "Dawn",
-   "published": "2026-09-10T02:33:47+00:00",
-   "summary": "https://www.dawn.com/news/2028752",
-   "image": "https://i.dawn.com/large/2026/09/100733125ec54c3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
