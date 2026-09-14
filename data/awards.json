@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-14T16:49:28+00:00",
+ "generated": "2026-09-14T20:52:54+00:00",
  "count": 602,
  "with_value": 583,
  "with_winner": 228,
@@ -11461,6 +11461,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003482",
+   "tender_no": "TS0000010852E",
+   "reference": "P79741",
+   "title": "Prequalification of Consulting Firms for Third-Party Evaluation / Validation (TPE/V) of Education Sector Development Projects Miscellaneous",
+   "organisation": "Ministry of Federal Education and Professional Training Ministry of Federal Education &#38; Professional Training Islamabad - Pakistan",
+   "bid_count": 83,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "PQ Evaluation",
+   "advertised": "2026-09-14",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003482",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003480",
    "tender_no": "TS0000012236E",
@@ -50549,24 +50567,6 @@
    "matched_terms": [
     "led"
    ]
-  },
-  {
-   "evaluation_no": "EVL00000001350",
-   "tender_no": "TS0000001893E",
-   "reference": "NADRA-HQ-RFB-38/2026",
-   "title": "PROCUREMENT OF NETWORK CONFIGURATION MANAGEMENT SOFTWARE WITH THREE YEARS SUPPORT, UPDATES AND SUBSCRIPTIONS Services",
-   "organisation": "National Database and Registration Authority (NADRA) NADRA Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-12",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001350",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
   }
  ]
 }

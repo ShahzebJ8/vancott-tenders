@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-14T16:49:33+00:00",
- "count": 48,
- "relevant_count": 15,
+ "generated": "2026-09-14T20:53:00+00:00",
+ "count": 50,
+ "relevant_count": 16,
  "domestic_count": 15,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (3)"
+  "ARY News": "ok (4)"
  },
  "stories": [
   {
@@ -207,11 +207,25 @@
    "domestic": true
   },
   {
-   "title": "Oil prices soar over 4% to 16-week high after Saudi strikes",
-   "url": "https://www.brecorder.com/news/40439372/oil-prices-soar-over-4-to-16-week-high-after-saudi-strikes",
+   "title": "Auto sales up 80% for FY27 so far, but August slips 20% from July",
+   "url": "https://www.brecorder.com/news/40439445/auto-sales-up-80-for-fy27-so-far-but-august-slips-20-from-july",
    "source": "Business Recorder",
-   "published": "2026-09-14T15:05:47+00:00",
-   "summary": "NEW YORK: Oil prices jumped over 4% to a 16-week high on Monday after new strikes on Saudi Arabian energy infrastructure and attacks on ships in the Middle East compounded energy supply concerns. Brent futures rose $4.68, or 4.5%, to $109.29 per barrel at 10:15 a.m. EDT (1415 GMT), while U.S. West Texas Intermediate (W…",
+   "published": "2026-09-14T17:47:38+00:00",
+   "summary": "Car sales in Pakistan rose by 80% during the first two months (July-August) of the current fiscal year in comparison with the same period of the previous fiscal year because of better economic conditions, stable interest rate, and more leasing schemes, according to auto experts and analysts. Car sales increased by 80% …",
+   "image": "https://i.brecorder.com/large/2026/09/14224549b4a9162.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices climb over 2% after strikes on Saudi pipeline and ships in Middle East",
+   "url": "https://www.brecorder.com/news/40439372/oil-prices-climb-over-2-after-strikes-on-saudi-pipeline-and-ships-in-middle-east",
+   "source": "Business Recorder",
+   "published": "2026-09-14T16:49:43+00:00",
+   "summary": "NEW YORK: Oil prices climbed over 2% on Monday as worries about energy supplies mounted following new strikes on Saudi Arabian energy infrastructure and attacks on ships in the Middle East. Brent futures rose $2.72, or 2.6%, to $107.33 per barrel at 11:39 a.m. EDT (1539 GMT). U.S. West Texas Intermediate (WTI) crude ro…",
    "image": "https://i.brecorder.com/large/2026/09/142005296c1f602.webp",
    "topics": [
     "Construction & projects"
@@ -598,6 +612,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Canadian dollar hits 12-day low as inflation data meets expectations",
+   "url": "https://arynews.tv/canadian-dollar-hits-12-day-low-as-inflation-data-meets-expectations",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Canadian dollar hits 12-day low as inflation data meets expectations",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Canadian-Dollar.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
