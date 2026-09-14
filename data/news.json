@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-13T22:06:51+00:00",
- "count": 41,
- "relevant_count": 13,
- "domestic_count": 13,
+ "generated": "2026-09-14T00:24:10+00:00",
+ "count": 47,
+ "relevant_count": 14,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,97 @@
   "ARY News": "ok (2)"
  },
  "stories": [
+  {
+   "title": "President upholds FBR data confidentiality order",
+   "url": "https://www.brecorder.com/news/40439346/president-upholds-fbr-data-confidentiality-order",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:48+00:00",
+   "summary": "ISLAMABAD: President Asif Ali Zardari has upheld the order of the Federal Tax Ombudsman that the Federal Board of Revenue’s (FBR) field officials should exercise due caution in future to ensure that the confidentiality of taxpayers’ tax related information and personal data is ensured during utilization for official pu…",
+   "image": "https://i.brecorder.com/large/2026/09/140350171763415.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PLL warns KE of RLNG supply cut",
+   "url": "https://www.brecorder.com/news/40439347/pll-warns-ke-of-rlng-supply-cut",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:48+00:00",
+   "summary": "ISLAMABAD: Pakistan LNG Limited (PLL) has warned K-Electric (KE) again that it may exercise its contractual rights, including cessation of RLNG supplies, if the power utility fails to immediately clear its outstanding Rs8.7 billion dues. In another letter dated September 8, 2026, addressed to the Chief Financial Office…",
+   "image": "https://i.brecorder.com/large/2026/09/14035227da7e1ea.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM, MBS discuss Houthi challenge",
+   "url": "https://www.brecorder.com/news/40439350/pm-mbs-discuss-houthi-challenge",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:48+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has reiterated Pakistan’s “strong condemnation” of the recent attacks by Houthis on Saudi Arabia’s civilian and economic infrastructure, during his telephonic conversation with Saudi Crown Prince and Prime Minister Mohammed bin Salman. The said telephonic conversation took place…",
+   "image": "https://i.brecorder.com/large/2026/09/140354328c96c57.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PIBT rejects priority berthing for coal vessels",
+   "url": "https://www.brecorder.com/news/40439352/pibt-rejects-priority-berthing-for-coal-vessels",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:48+00:00",
+   "summary": "ISLAMABAD: Pakistan International Bulk Terminal Limited (PIBT) has refused to accord priority berthing to coal vessels, arguing that any deviation from the established “berthing-on-turn” system could disrupt coal supplies to other power plants connected to the national grid. In a letter to the Secretary Maritime Affair…",
+   "image": "https://i.brecorder.com/large/2026/09/14035707525803e.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Steel sector urges FBR to fast-track budget reforms",
+   "url": "https://www.brecorder.com/news/40439353/steel-sector-urges-fbr-to-fast-track-budget-reforms",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:48+00:00",
+   "summary": "ISLAMABAD: The documented steel sector is facing serious difficulties in the operationalisation and implementation of budgetary measures (2026-27) aimed at promoting corporatisation, documentation, digitisation and curbing tax evasion and broadening the tax base. In a communication to Rashid Mahmood Langrial Chairman F…",
+   "image": "https://i.brecorder.com/large/2026/09/1403581719a20d7.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Protest against oil levy: JI says people want rights, not charity",
+   "url": "https://www.brecorder.com/news/40439301/protest-against-oil-levy-ji-says-people-want-rights-not-charity",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:47+00:00",
+   "summary": "KARACHI: The Jamaat-e-Islami’s (JI) sit-in outside the Sindh Governor House against the petroleum levy and Independent Power Plants (IPPs) agreements entered its 29th day on Sunday, with JI Karachi chief Monem Zafar saying people were demanding their rights, not charity. Addressing a press conference at the protest ven…",
+   "image": "https://i.brecorder.com/large/2026/09/140037462379024.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Weekly Cotton Review: Prices are steady; trading volume improves",
+   "url": "https://www.brecorder.com/news/40439304/weekly-cotton-review-prices-are-steady-trading-volume-improves",
+   "source": "Business Recorder",
+   "published": "2026-09-13T23:59:47+00:00",
+   "summary": "KARACHI: Cotton prices across the country’s markets have steadied after a recent upward trend, with trading volume also showing marked improvement, dealers reported. The spot rate climbed by six hundred rupees per maund, signalling a positive shift in market sentiment. New York cotton futures, meanwhile, continued to s…",
+   "image": "https://i.brecorder.com/large/2026/09/14004131613009e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Used car imports fall sharply",
    "url": "https://www.dawn.com/news/2029573/used-car-imports-fall-sharply",
@@ -180,16 +271,16 @@
    "domestic": true
   },
   {
-   "title": "Fuel relief scheme: How to get Rs100/litre petrol subsidy?",
-   "url": "https://www.brecorder.com/news/40439296/fuel-relief-scheme-how-to-get-rs100litre-petrol-subsidy",
+   "title": "Prices of kitchen items in Peshawar show mixed trend",
+   "url": "https://www.brecorder.com/news/40439311/prices-of-kitchen-items-in-peshawar-show-mixed-trend",
    "source": "Business Recorder",
-   "published": "2026-09-13T18:02:25+00:00",
-   "summary": "Prime Minister Shehbaz Sharif has announced a special fuel relief scheme to cushion motorcycle, rickshaw, Qingqi and small-car users from rising petrol prices amid a surge in global oil prices triggered by tensions in the Middle East. Under the scheme, eligible users of motorcycles, rickshaws, Qingqi and other two- and…",
-   "image": "https://i.brecorder.com/large/2026/09/13225316aa5d02e.webp",
+   "published": "2026-09-13T23:59:47+00:00",
+   "summary": "PESHAWAR: Mixed trend in prices of important kitchen items was witnessed in the retail market. A weekly survey carried out by Business Recorder here Sunday revealed that most of daily use items including flour, sugar, eggs, live chicken, vegetables, pulses, fruits and others have touched a new peak in the open market. …",
+   "image": "https://i.brecorder.com/large/2026/09/14005754cce9e2d.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -203,19 +294,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz condemns Houthi attacks on Saudi Arabia in call with crown prince",
-   "url": "https://www.brecorder.com/news/40439286/pm-shehbaz-condemns-houthi-attacks-on-saudi-arabia-in-call-with-crown-prince",
-   "source": "Business Recorder",
-   "published": "2026-09-13T12:16:37+00:00",
-   "summary": "Prime Minister Muhammad Shehbaz Sharif on Sunday held a telephone conversation with Saudi Crown Prince and Prime Minister Mohammed bin Salman, during which he strongly condemned the recent Houthi attacks on Saudi Arabia’s civilian and economic infrastructure, the PM Office said. The prime minister expressed Pakistan’s …",
-   "image": "https://i.brecorder.com/large/2026/09/13171328cebc784.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
