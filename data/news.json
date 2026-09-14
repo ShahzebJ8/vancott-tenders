@@ -1,21 +1,34 @@
 {
- "generated": "2026-09-14T10:57:01+00:00",
- "count": 37,
- "relevant_count": 11,
+ "generated": "2026-09-14T16:49:33+00:00",
+ "count": 48,
+ "relevant_count": 15,
  "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (10)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (2)"
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (14)",
+  "The Express Tribune": "ok (9)",
+  "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "Pakistan banking sector remains resilient in H1CY26: SBP",
+   "url": "https://www.brecorder.com/news/40439436/pakistan-banking-sector-remains-resilient-in-h1cy26-sbp",
+   "source": "Business Recorder",
+   "published": "2026-09-14T14:18:23+00:00",
+   "summary": "The performance and resilience of Pakistan’s banking sector remained intact during the first half of calendar year 2026 (H1CY26), with the sector’s balance sheet expanding by 9.1%, the State Bank of Pakistan (SBP) said on Monday. According to the SBP’s Mid-Year Performance Review of the Banking Sector, the balance shee…",
+   "image": "https://i.brecorder.com/large/2026/09/14191736c2642e1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "SBP keeps interest rate unchanged at 11.5pc",
    "url": "https://www.dawn.com/news/2029831/sbp-keeps-interest-rate-unchanged-at-115pc",
    "source": "Dawn",
-   "published": "2026-09-14T10:55:45+00:00",
-   "summary": "The State Bank of Pakistan (SBP) on Monday kept the monetary policy rate unchanged at 11.5 per cent. Bankers had anticipated a status quo, but some analysts had predicted that the central bank would lift the policy rate by 50 points. The central bank had raised its policy rate to 11.5pc by 100bps on April 27 in respons…",
+   "published": "2026-09-14T14:08:28+00:00",
+   "summary": "The State Bank of Pakistan’s (SBP) Monetary Policy Committee (MPC) on Monday kept the key policy rate unchanged at 11.5 per cent. The decision comes as prolonged tensions in the Middle East drive up global oil prices and fuel inflation . In a detailed statement, the MPC said it decided to keep the policy rate unchanged…",
    "image": "https://i.dawn.com/large/2026/09/14095952b2b4eac.webp",
    "topics": [
     "Economy"
@@ -24,12 +37,12 @@
    "domestic": true
   },
   {
-   "title": "PSL restructuring being negotiated to settle court case, says Thatta Cement",
-   "url": "https://www.brecorder.com/news/40439409/psl-restructuring-being-negotiated-to-settle-court-case-says-thatta-cement",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40439426/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-14T08:33:50+00:00",
-   "summary": "Thatta Cement Company Limited (THCCL) said on Monday that a proposed restructuring of Pakistan Services Limited (PSL) is being negotiated to resolve a matter pending before the Islamabad High Court amicably. The listed cement maker disclosed the development in a notice to the Pakistan Stock Exchange (PSX). “In order to…",
-   "image": "https://i.brecorder.com/large/2026/09/141329119394cd8.webp",
+   "published": "2026-09-14T13:13:28+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 277.31, a gain of Re0.01 against the greenback. On Friday , the Pakistani rupee settled at 277.32 against the dollar. Internationally, the US dollar was steady on Monday ​with the Ja…",
+   "image": "https://i.brecorder.com/large/2026/09/14155128976a1ed.webp",
    "topics": [
     "Economy"
    ],
@@ -37,11 +50,11 @@
    "domestic": true
   },
   {
-   "title": "Market expects status quo as MPC meets today",
-   "url": "https://www.brecorder.com/news/40439161/market-expects-status-quo-as-mpc-meets-today",
+   "title": "SBP keeps policy rate unchanged at 11.5%",
+   "url": "https://www.brecorder.com/news/40439161/sbp-keeps-policy-rate-unchanged-at-115",
    "source": "Business Recorder",
-   "published": "2026-09-14T05:04:32+00:00",
-   "summary": "The State Bank of Pakistan (SBP) Monetary Policy Committee (MPC) is expected to meet today (Monday) for the second time this fiscal year, with a majority of market participants expecting a status quo. At its previous meeting on July 27, the central bank’s MPC, despite signs of improvement in Pakistan’s macroeconomic ou…",
+   "published": "2026-09-14T11:56:31+00:00",
+   "summary": "The State Bank of Pakistan (SBP) Monetary Policy Committee (MPC), in its second meeting in the fiscal year 2026-27, decided to keep the policy rate unchanged at 11.5%. The MPC met for the sixth time this calendar year. The decision was in line with market expectations. The SBP has held the rate steady since raising it …",
    "image": "https://i.brecorder.com/large/2026/09/121301575b8cb5f.webp",
    "topics": [
     "Budget & spending",
@@ -181,19 +194,6 @@
    "domestic": true
   },
   {
-   "title": "IMF mission due on Sept 23 for biannual review of Pakistan’s economic performance",
-   "url": "https://www.dawn.com/news/2028892/imf-mission-due-on-sept-23-for-biannual-review-of-pakistans-economic-performance",
-   "source": "Dawn",
-   "published": "2026-09-10T14:31:51+00:00",
-   "summary": "ISLAMABAD: An International Monetary Fund (IMF) mission is due to visit Pakistan on September 23 for a biannual review of the country’s economic performance and implementation of the $7 billion Extended Fund Facility (EFF) and the $1.4bn Resilience and Sustainability Facility (RSF) for the period ending June 30, 2026. …",
-   "image": "https://i.dawn.com/large/2026/09/101834065c8f1a8.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Islamabad seeks fair share in NFC",
    "url": "https://tribune.com.pk/story/2628422/islamabad-seeks-fair-share-in-nfc",
    "source": "The Express Tribune",
@@ -205,6 +205,139 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Oil prices soar over 4% to 16-week high after Saudi strikes",
+   "url": "https://www.brecorder.com/news/40439372/oil-prices-soar-over-4-to-16-week-high-after-saudi-strikes",
+   "source": "Business Recorder",
+   "published": "2026-09-14T15:05:47+00:00",
+   "summary": "NEW YORK: Oil prices jumped over 4% to a 16-week high on Monday after new strikes on Saudi Arabian energy infrastructure and attacks on ships in the Middle East compounded energy supply concerns. Brent futures rose $4.68, or 4.5%, to $109.29 per barrel at 10:15 a.m. EDT (1415 GMT), while U.S. West Texas Intermediate (W…",
+   "image": "https://i.brecorder.com/large/2026/09/142005296c1f602.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gulf equities mixed as Saudi energy, shipping security concerns weigh",
+   "url": "https://www.brecorder.com/news/40439433/gulf-equities-mixed-as-saudi-energy-shipping-security-concerns-weigh",
+   "source": "Business Recorder",
+   "published": "2026-09-14T13:53:25+00:00",
+   "summary": "Gulf stock markets were mixed on Monday as investors weighed escalating attacks on Saudi Arabia’s energy infrastructure and key shipping routes. Saudi Arabia’s benchmark index reversed early losses to edge 0.1% higher, with Al Rajhi Bank rising 1.8%. Arabian Drilling gained 3%, after securing a five-year gas-drilling c…",
+   "image": "https://i.brecorder.com/large/2026/09/141851292919c9d.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Copper sinks to 3-week low as dollar firms, LME stocks rise",
+   "url": "https://www.brecorder.com/news/40439432/copper-sinks-to-3-week-low-as-dollar-firms-lme-stocks-rise",
+   "source": "Business Recorder",
+   "published": "2026-09-14T13:47:57+00:00",
+   "summary": "Copper extended losses on Monday, sinking to a three-week low as an increase in London Metal Exchange inventories eased tightness and a stronger dollar put further pressure on industrial metals prices after last week’s selloff on U.S. tariff uncertainty. Benchmark three-month LME copper was down by 1.2% at $14,065 a me…",
+   "image": "https://i.brecorder.com/large/2026/09/14184738a125ad5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bangladesh's industrial growth hurt by high LNG prices, minister says",
+   "url": "https://www.brecorder.com/news/40439431/bangladeshs-industrial-growth-hurt-by-high-lng-prices-minister-says",
+   "source": "Business Recorder",
+   "published": "2026-09-14T13:42:02+00:00",
+   "summary": "BANGKOK: High LNG prices are slowing Bangladesh’s industrial growth, forcing electricity outages and stifling spending on development projects due to higher government expenditure on gas subsidies, the country’s power minister said on Monday. “Industrial growth is slowing down, and production is going down,” Bangladesh…",
+   "image": "https://i.brecorder.com/large/2026/09/1418411214bb3a8.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 sheds over 2,500 points as situation remains tense in ME",
+   "url": "https://www.brecorder.com/news/40439382/psx-kse-100-sheds-over-2500-points-as-situation-remains-tense-in-me",
+   "source": "Business Recorder",
+   "published": "2026-09-14T11:51:36+00:00",
+   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) after new Houthi strikes on Saudi Arabia and Iranian attacks on ships in the Gulf, with the benchmark KSE-100 Index losing nearly 1.5% on Monday. The index initially came under selling pressure, falling sharply before staging a recovery during the morni…",
+   "image": "https://i.brecorder.com/large/2026/09/14094905e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "LNG prices above $20 per mmBtu to hurt demand, chairman of India's GAIL says",
+   "url": "https://www.brecorder.com/news/40439427/lng-prices-above-20-per-mmbtu-to-hurt-demand-chairman-of-indias-gail-says",
+   "source": "Business Recorder",
+   "published": "2026-09-14T11:45:05+00:00",
+   "summary": "BANGKOK: The chairman of GAIL, India’s top natural gas distributor by market share, said on Monday that liquefied natural gas prices of more than $20 per million British thermal units (mmBtu) have affected demand. India GAIL buys Oman LNG cargo, sources say Deepak Gupta was speaking during an energy forum in Bangkok.",
+   "image": "https://i.brecorder.com/large/2026/09/14164453a0ed03c.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian refiners, awaiting word on Saudi shipments, expect tighter supply",
+   "url": "https://www.brecorder.com/news/40439424/asian-refiners-awaiting-word-on-saudi-shipments-expect-tighter-supply",
+   "source": "Business Recorder",
+   "published": "2026-09-14T11:36:26+00:00",
+   "summary": "NEW DELHI/SINGAPORE: Asian refiners are bracing for tighter supply of sour crude as they await guidance from Saudi Arabia on exports via the Red Sea after attacks on the East-West Pipeline, industry sources said on Monday. Saudi Arabia shut the pipeline after it came under attack on Friday. The shutdown helped push up …",
+   "image": "https://i.brecorder.com/large/2026/09/14163553afd9fc4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Solar Industries to buy South Africa's Omnia for $1.36 billion",
+   "url": "https://www.brecorder.com/news/40439420/indias-solar-industries-to-buy-south-africas-omnia-for-136-billion",
+   "source": "Business Recorder",
+   "published": "2026-09-14T11:06:36+00:00",
+   "summary": "India’s Solar Industries said on Monday its unit will acquire South Africa’s Omnia Holdings in an all-cash deal worth about $1.36 billion, as the explosives and ammunition maker looks to expand its global mining business. Solar SA Investments, an indirect wholly-owned subsidiary of Solar Industries, will acquire all ou…",
+   "image": "https://i.brecorder.com/large/2026/09/1416061758ef4d9.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India gains wider EU steel access, but carbon levy remains",
+   "url": "https://www.brecorder.com/news/40439419/india-gains-wider-eu-steel-access-but-carbon-levy-remains",
+   "source": "Business Recorder",
+   "published": "2026-09-14T11:02:09+00:00",
+   "summary": "NEW DELHI: India will be able to export up to 1.64 million metric tons of steel a year to the European Union under a free trade agreement, but exporters will still face carbon-related costs, according to the legal text of the pact. The agreement provides India with an additional preferential quota of 694,853 tons of st…",
+   "image": "https://i.brecorder.com/large/2026/09/1416015560fbc6e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's August retail inflation at 4.82% on-year",
+   "url": "https://www.brecorder.com/news/40439418/indias-august-retail-inflation-at-482-on-year",
+   "source": "Business Recorder",
+   "published": "2026-09-14T10:58:01+00:00",
+   "summary": "NEW DELHI: India’s annual retail inflation jumped to 4.82% in August from 4.45% in July, driven by higher food and fuel prices and strengthening a case for an interest rate hike in October. The August print is marginally higher than a 4.80% inflation that the economists were expecting in a Reuters polland marking a thi…",
+   "image": "https://i.brecorder.com/large/2026/09/1415573303d1e2e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Govt cuts HEV sales tax from 25% to 18%",
@@ -259,19 +392,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 sheds nearly 1,500 points as situation remains tense in ME",
-   "url": "https://www.brecorder.com/news/40439382/psx-kse-100-sheds-nearly-1500-points-as-situation-remains-tense-in-me",
-   "source": "Business Recorder",
-   "published": "2026-09-14T08:02:49+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) after new Houthi strikes on Saudi Arabia and Iranian attacks on ships in the Gulf, with the benchmark KSE-100 Index shedding nearly 1,500 points during the trading session on Monday. At 1pm, the benchmark index was hovering at 169,032.17, down by 1,479.…",
-   "image": "https://i.brecorder.com/large/2026/09/14094905e48c390.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Yuan hits fresh multi-year high as markets await Fed, BOJ decisions",
    "url": "https://www.brecorder.com/news/40439394/yuan-hits-fresh-multi-year-high-as-markets-await-fed-boj-decisions",
    "source": "Business Recorder",
@@ -295,6 +415,45 @@
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP maintains monetary policy at 11.5%",
+   "url": "https://tribune.com.pk/story/2629239/central-bank-keeps-policy-rate-unchanged-at-115",
+   "source": "The Express Tribune",
+   "published": "2026-09-14T05:56:47+00:00",
+   "summary": "Hawkish bias intact as Mideast tensions lift inflation",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX tumbles 2,541 points as oil shock rattles sentiment",
+   "url": "https://tribune.com.pk/story/2629236/psx-opens-week-with-dropping-over-1500-points-at-midday",
+   "source": "The Express Tribune",
+   "published": "2026-09-14T05:24:03+00:00",
+   "summary": "Middle East tensions trigger broad-based selling as KSE-100 settles below 168,000",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt details registration process for Rs100 petrol subsidy",
+   "url": "https://tribune.com.pk/story/2629232/govt-details-registration-process-for-rs100-petrol-subsidy",
+   "source": "The Express Tribune",
+   "published": "2026-09-14T04:58:16+00:00",
+   "summary": "Shaza Fatima says motorcycles, rickshaws, Chingchis and vehicles up to 800cc will be eligible for subsidy",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -356,32 +515,6 @@
    "published": "2026-09-14T02:50:22+00:00",
    "summary": "SINGAPORE: The dollar was steady on Monday , ​with the yen holding on to its recent sharp gains and hovering near a seven-month high as investors pondered possible rate hikes from ‌the Federal Reserve and Bank of Japan in a pivotal week for monetary policy. Global policymakers are grappling with erratic pricing pressur…",
    "image": "https://i.brecorder.com/large/2026/09/14074542df2476c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Are rate hikes deepening Pakistan's debt trap?",
-   "url": "https://tribune.com.pk/story/2629133/are-rate-hikes-deepening-pakistans-debt-trap",
-   "source": "The Express Tribune",
-   "published": "2026-09-13T16:55:05+00:00",
-   "summary": "Inflation is on supply side, but central bank tightening reprices sovereign debt",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi pipeline outage threatens loss of 4% of global oil supply",
-   "url": "https://www.brecorder.com/news/40439290/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply",
-   "source": "Business Recorder",
-   "published": "2026-09-13T13:29:32+00:00",
-   "summary": "LONDON: Saudi Arabia will run out of oil stocks for exports if it doesn’t restart its major pipeline to the Red Sea within days, leading to a loss of up to 4% of global supply, Saudi oil buyers and traders said. A further decline in Saudi flows will worsen the global supply crunch, which has already pushed global fuel …",
-   "image": "https://i.brecorder.com/large/2026/09/1318284552d3df3.webp",
    "topics": [
     "Economy"
    ],
@@ -468,11 +601,24 @@
    "domestic": false
   },
   {
-   "title": "Pakistan, China explore new business partnerships in AI, advanced manufacturing, digital infrastructure",
+   "title": "PSX: Stocks fall sharply as KSE-100 index loses over 2,500 points",
+   "url": "https://arynews.tv/psx-stocks-fall-sharply-as-kse-100-index-loses-over-2500-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks fall sharply as KSE-100 index loses over 2,500 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PSX-downward-trend-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan China explore new business partnerships in AI advanced manufacturing digital infrastructure",
    "url": "https://arynews.tv/pakistan-china-explore-new-business-partnerships-in-ai-advanced-manufacturing-digital-infrastructure",
    "source": "ARY News",
    "published": null,
-   "summary": "Pakistan, China explore new business partnerships in AI, advanced manufacturing, digital infrastructure",
+   "summary": "Pakistan China explore new business partnerships in AI advanced manufacturing digital infrastructure",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Pakistan-China.jpg",
    "topics": [
     "Construction & projects"
