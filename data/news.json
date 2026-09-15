@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-15T14:11:08+00:00",
- "count": 48,
- "relevant_count": 8,
- "domestic_count": 12,
+ "generated": "2026-09-15T18:25:32+00:00",
+ "count": 41,
+ "relevant_count": 5,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (4)"
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
    "title": "Rupee sees improvement against US dollar",
    "url": "https://www.brecorder.com/news/40439590/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-15T12:55:49+00:00",
+   "published": "2026-09-15T14:16:52+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.30, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.31 against the dollar. Internationally, the US dollar inched up to trade near a two-we…",
    "image": "https://i.brecorder.com/large/2026/09/151537123c6ee9d.webp",
    "topics": [
@@ -128,19 +128,6 @@
    "domestic": true
   },
   {
-   "title": "Stocks stage mild recovery on value-hunting",
-   "url": "https://www.dawn.com/news/2029247/stocks-stage-mild-recovery-on-value-hunting",
-   "source": "Dawn",
-   "published": "2026-09-11T23:56:46+00:00",
-   "summary": "KARACHI: Although the situation in the Middle East remained tense amid persistent supply disruptions due to attacks on ships, the Pakistan Stock Exchange (PSX) managed to break its four-session losing streak on Friday. Attractive valuations revived buying interest, helping the benchmark KSE-100 index to settle above th…",
-   "image": "https://i.dawn.com/large/2026/09/12030002ab7fcd1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Weekly inflation continues upward spiral",
    "url": "https://www.dawn.com/news/2029251/weekly-inflation-continues-upward-spiral",
    "source": "Dawn",
@@ -201,19 +188,6 @@
    "image": "https://i.brecorder.com/large/2026/09/151837438fe3262.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Buying returns, KSE-100 gains over 1,400 points",
-   "url": "https://www.brecorder.com/news/40439549/psx-buying-returns-kse-100-gains-over-1400-points",
-   "source": "Business Recorder",
-   "published": "2026-09-15T12:16:11+00:00",
-   "summary": "Buying returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,400 points on Tuesday. The market opened with strong buying interest, hitting an intraday high of 169,988.11, before witnessing a sharp correction in the early session, dropping to an intraday low of 169,189.29. The in…",
-   "image": "https://i.brecorder.com/large/2026/09/15095333913ad49.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -316,19 +290,6 @@
    "published": "2026-09-15T10:06:47+00:00",
    "summary": "Agro Processors & Atmospheric Gases Limited (APAG), the manufacturer of Soya Supreme cooking oil and banaspati, was listed on the Pakistan Stock Exchange (PSX) on Tuesday following a gong ceremony at the PSX headquarters. The company’s public offering comprised 58.049 million ordinary shares, representing 15% of post I…",
    "image": "https://i.brecorder.com/large/2026/09/15150556ce2d021.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz orders measures to boost exports, diversify products and markets",
-   "url": "https://www.brecorder.com/news/40439579/pm-shehbaz-orders-measures-to-boost-exports-diversify-products-and-markets",
-   "source": "Business Recorder",
-   "published": "2026-09-15T09:14:34+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Tuesday directed the authorities to make export growth a cornerstone of Pakistan’s economic development and expand the country’s export base beyond traditional sectors. Chairing a review meeting on boosting exports and accelerating economic growth, the prime minister called for more sec…",
-   "image": "https://i.brecorder.com/large/2026/09/15130919e74a10d.webp",
    "topics": [
     "Economy"
    ],
@@ -440,19 +401,6 @@
    "domestic": false
   },
   {
-   "title": "Indian rupee, bonds eye Fed decision, rate outlook",
-   "url": "https://www.brecorder.com/news/40439547/indian-rupee-bonds-eye-fed-decision-rate-outlook",
-   "source": "Business Recorder",
-   "published": "2026-09-15T03:00:33+00:00",
-   "summary": "MUMBAI: Pressure on the Indian rupee is likely to persist this week as oil prices stay above $100 a barrel and expectations of a US Federal Reserve rate hike grow, also weighing on government bonds. The Indian rupee fell more than 1% last ​week to close at 95.55 per dollar on Friday. Indian financial markets were shut …",
-   "image": "https://i.brecorder.com/large/2026/09/15075721966e161.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Business community split over SBP’s decision to keep policy rate unchanged",
    "url": "https://www.dawn.com/news/2030066/business-community-split-over-sbps-decision-to-keep-policy-rate-unchanged",
    "source": "Dawn",
@@ -471,19 +419,6 @@
    "source": "The Express Tribune",
    "published": "2026-09-14T17:06:07+00:00",
    "summary": "ECC sanctions sale of 29.5% PNSC shares to NLC, 200,000T sugar export",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Inflation hits 11.1%, policy stays at 11.5%",
-   "url": "https://tribune.com.pk/story/2629304/inflation-hits-111-policy-stays-at-115",
-   "source": "The Express Tribune",
-   "published": "2026-09-14T17:06:07+00:00",
-   "summary": "MPC warns risks to outlook have increased but retains 3.5-4.5% growth projection",
    "image": null,
    "topics": [
     "Economy"
@@ -531,19 +466,6 @@
    "domestic": false
   },
   {
-   "title": "Finmin's adviser says tax collection on target, provinces bound to boost revenue",
-   "url": "https://www.dawn.com/news/2029318/finmins-adviser-says-tax-collection-on-target-provinces-bound-to-boost-revenue",
-   "source": "Dawn",
-   "published": "2026-09-12T03:00:15+00:00",
-   "summary": "https://www.dawn.com/news/2029249",
-   "image": "https://i.dawn.com/large/2026/09/1207555366cd5eb.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Gold declines sharply despite global rebound",
    "url": "https://tribune.com.pk/story/2628849/gold-declines-sharply-despite-global-rebound",
    "source": "The Express Tribune",
@@ -583,6 +505,19 @@
    "domestic": false
   },
   {
+   "title": "Kuwait seeks multi-billion dollar subterranean pipeline network to shield global crude market supplies",
+   "url": "https://arynews.tv/kuwait-seeks-multi-billion-dollar-subterranean-pipeline-network-to-shield-global-crude-market-supplies",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Kuwait seeks multi-billion dollar subterranean pipeline network to shield global crude market supplies",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kuwait-Pipe-line.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Canadian dollar hits 12-day low as inflation data meets expectations",
    "url": "https://arynews.tv/canadian-dollar-hits-12-day-low-as-inflation-data-meets-expectations",
    "source": "ARY News",
@@ -606,32 +541,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan China explore new business partnerships in AI advanced manufacturing digital infrastructure",
-   "url": "https://arynews.tv/pakistan-china-explore-new-business-partnerships-in-ai-advanced-manufacturing-digital-infrastructure",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan China explore new business partnerships in AI advanced manufacturing digital infrastructure",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Pakistan-China.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan ‘prepares’ for IMF review talks to unlock $1.2 billion",
-   "url": "https://arynews.tv/pakistan-prepares-for-imf-review-talks-to-unlock-1-2-billion",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan ‘prepares’ for IMF review talks to unlock $1.2 billion",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistan-IMF-gas-debt.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
