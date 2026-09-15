@@ -1,15 +1,54 @@
 {
- "generated": "2026-09-15T08:56:14+00:00",
- "count": 39,
- "relevant_count": 11,
- "domestic_count": 10,
+ "generated": "2026-09-15T14:11:08+00:00",
+ "count": 48,
+ "relevant_count": 8,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (14)",
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Rupee sees improvement against US dollar",
+   "url": "https://www.brecorder.com/news/40439590/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-15T12:55:49+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.30, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.31 against the dollar. Internationally, the US dollar inched up to trade near a two-we…",
+   "image": "https://i.brecorder.com/large/2026/09/151537123c6ee9d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP concludes first Regulatory Sandbox cohort, four fintechs clear testing",
+   "url": "https://www.brecorder.com/news/40439594/sbp-concludes-first-regulatory-sandbox-cohort-four-fintechs-clear-testing",
+   "source": "Business Recorder",
+   "published": "2026-09-15T10:56:59+00:00",
+   "summary": "The State Bank of Pakistan (SBP) has concluded the first cohort of its Regulatory Sandbox, launched in August 2025 under SBP Vision 2028. “The first cohort focused on three themes: technology-enabled solutions for inward remittances, open banking, and remote onboarding of merchants,” said SBP in a statement on Tuesday.…",
+   "image": "https://i.brecorder.com/large/2026/09/1515555338716f5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM Shehbaz orders measures for bringing Pakistani exports up to global standards",
+   "url": "https://www.dawn.com/news/2030104/pm-shehbaz-orders-measures-for-bringing-pakistani-exports-up-to-global-standards",
+   "source": "Dawn",
+   "published": "2026-09-15T09:15:38+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Tuesday directed that effective measures be taken to bring the quality of Pakistani products up to international standards to enhance national exports. He issued the directives while chairing a review meeting in Islamabad on enhancing exports and accelerating economic growth. according …",
+   "image": "https://i.dawn.com/large/2026/09/15132919a27df1c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Economic Coordination Com­mittee allows 0.2m tonnes of sugar export",
    "url": "https://www.dawn.com/news/2029998/economic-coordination-committee-allows-02m-tonnes-of-sugar-export",
@@ -43,19 +82,6 @@
    "published": "2026-09-14T14:08:28+00:00",
    "summary": "The State Bank of Pakistan’s (SBP) Monetary Policy Committee (MPC) on Monday kept the key policy rate unchanged at 11.5 per cent. The decision comes as prolonged tensions in the Middle East drive up global oil prices and fuel inflation . In a detailed statement, the MPC said it decided to keep the policy rate unchanged…",
    "image": "https://i.dawn.com/large/2026/09/14095952b2b4eac.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40439426/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-14T13:13:28+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 277.31, a gain of Re0.01 against the greenback. On Friday , the Pakistani rupee settled at 277.32 against the dollar. Internationally, the US dollar was steady on Monday ​with the Ja…",
-   "image": "https://i.brecorder.com/large/2026/09/14155128976a1ed.webp",
    "topics": [
     "Economy"
    ],
@@ -141,27 +167,183 @@
    "domestic": true
   },
   {
-   "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
-   "url": "https://www.brecorder.com/news/40439536/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns",
+   "title": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump",
+   "url": "https://www.brecorder.com/news/40439609/most-gulf-bourses-in-red-on-houthi-attack-and-hormuz-shipping-slump",
    "source": "Business Recorder",
-   "published": "2026-09-15T08:12:09+00:00",
-   "summary": "Oil prices rose on Tuesday as concerns over supply disruptions persisted after attacks on Saudi Arabian energy infrastructure left the kingdom’s East-West pipeline offline and cast doubt on efforts to ease ​shipping risks in the Gulf. Brent crude futures rose $1.24, or 1.18%, to $106.93 a barrel at ‌0026 GMT, after cli…",
-   "image": "https://i.brecorder.com/large/2026/09/15074333f36d232.gif",
+   "published": "2026-09-15T14:03:20+00:00",
+   "summary": "Most Gulf stock markets closed lower on Tuesday, with Saudi shares posting the biggest losses, as a fresh Houthi attack and a sharp drop in shipping through the Strait of Hormuz heightened fears that the conflict could escalate further. Saudi Arabia’s benchmark index dropped 0.9%, weighed down by a 1.3% fall in Saudi A…",
+   "image": "https://i.brecorder.com/large/2026/09/151901514913c42.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
-   "title": "Hormuz crisis will end soon, Oman LNG chief exec says",
-   "url": "https://www.brecorder.com/news/40439570/hormuz-crisis-will-end-soon-oman-lng-chief-exec-says",
+   "title": "Broadening inflation, Fed prompts traders to ramp up October India rate hike bets",
+   "url": "https://www.brecorder.com/news/40439606/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets",
    "source": "Business Recorder",
-   "published": "2026-09-15T06:52:31+00:00",
-   "summary": "BANGKOK: The crisis around the Strait of Hormuz will end soon, the chief executive of Oman LNG said on Tuesday. The Hormuz crisis will not change the company’s long term plans, Hamed Al Naamany told an industry forum in Bangkok. “We have already been planning to produce more, we’ve been working on it for a couple of ye…",
-   "image": "https://i.brecorder.com/large/2026/09/151152137216225.webp",
+   "published": "2026-09-15T13:48:04+00:00",
+   "summary": "MUMBAI: Traders are increasingly betting on an October rate hike by the Reserve Bank of India, with surging oil prices and broadening inflation strengthening the case for tighter policy, while an expected Federal Reserve hike adds to the pressure, four traders said. The one-year overnight index swap rate rose 8 basis p…",
+   "image": "https://i.brecorder.com/large/2026/09/151846061829968.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "LNG demand in Pakistan, China and India expected to rebound after US-Iran war ends",
+   "url": "https://www.brecorder.com/news/40439605/lng-demand-in-pakistan-china-and-india-expected-to-rebound-after-us-iran-war-ends",
+   "source": "Business Recorder",
+   "published": "2026-09-15T13:39:10+00:00",
+   "summary": "BANGKOK: LNG demand from Pakistan, China and India is likely to rebound from multi-year lows once the Middle East supply crunch ends and new supplies emerge, industry executives say, reversing a pick-up in coal and oil to replace gas during the U.S.-Iran war. The conflict has prevented Qatar and the United Arab Emirate…",
+   "image": "https://i.brecorder.com/large/2026/09/151837438fe3262.webp",
    "topics": [
     "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Buying returns, KSE-100 gains over 1,400 points",
+   "url": "https://www.brecorder.com/news/40439549/psx-buying-returns-kse-100-gains-over-1400-points",
+   "source": "Business Recorder",
+   "published": "2026-09-15T12:16:11+00:00",
+   "summary": "Buying returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,400 points on Tuesday. The market opened with strong buying interest, hitting an intraday high of 169,988.11, before witnessing a sharp correction in the early session, dropping to an intraday low of 169,189.29. The in…",
+   "image": "https://i.brecorder.com/large/2026/09/15095333913ad49.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nigeria's NLNG aims to start up Train 7 LNG project by end-2027",
+   "url": "https://www.brecorder.com/news/40439602/nigerias-nlng-aims-to-start-up-train-7-lng-project-by-end-2027",
+   "source": "Business Recorder",
+   "published": "2026-09-15T12:06:16+00:00",
+   "summary": "BANGKOK: Nigerian LNG producer NLNG aims to start up its $10 billion Train 7 LNG project by the end of 2027, its managing director Adeleye Falade told reporters on the sidelines of the Gastech conference in Bangkok. The project on Bonny Island, which will expand NLNG’s capacity to 30 million metric tons per year from 2…",
+   "image": "https://i.brecorder.com/large/2026/09/151705160369bda.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "London shares slip as higher oil prices lift bond yields; BoE in focus",
+   "url": "https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-09-15T12:01:52+00:00",
+   "summary": "London shares slipped to two-month lows on Tuesday as rising oil prices pushed bond yields higher globally over inflation concerns, while investors assessed a batch of domestic economic data ahead of a central bank policy verdict later this week. The blue-chip FTSE 100 index fell 0.59% to 10,634.49 points by 1000 GMT, …",
+   "image": "https://i.brecorder.com/large/2026/09/1517010808c77f6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lanka's economy grew 4.2% in Q2 despite pressures from Iran war",
+   "url": "https://www.brecorder.com/news/40439599/sri-lankas-economy-grew-42-in-q2-despite-pressures-from-iran-war",
+   "source": "Business Recorder",
+   "published": "2026-09-15T11:53:43+00:00",
+   "summary": "COLOMBO: Sri Lanka’s economy grew by 4.2% year-on-year from April to June, the statistics department said on Tuesday, despite three-year-high inflation that has been exacerbated by the impact of the Iran war. Output from the agriculture sector grew by 2.3% year-on-year in the second quarter, while that of industries ex…",
+   "image": "https://i.brecorder.com/large/2026/09/15165327c8d7d91.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Moody's revises Bangladesh's outlook to ‘stable’ on easing political and external pressures",
+   "url": "https://www.brecorder.com/news/40439597/moodys-revises-bangladeshs-outlook-to-stable-on-easing-political-and-external-pressures",
+   "source": "Business Recorder",
+   "published": "2026-09-15T11:47:23+00:00",
+   "summary": "Credit ratings agency Moody’s on Tuesday revised Bangladesh’s credit outlook to “stable” from “negative” on easing political and external pressures. “Despite higher import costs, gas supply volatility, and challenges to the ready-made garment sector, the economy has shown underlying resilience,” the agency said in its …",
+   "image": "https://i.brecorder.com/large/2026/09/15164651a6363a4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee drops with stocks, bonds as oil, inflation and Fed worries mount",
+   "url": "https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount",
+   "source": "Business Recorder",
+   "published": "2026-09-15T11:04:42+00:00",
+   "summary": "MUMBAI: The Indian rupee fell to its weakest level in more than a month on Tuesday but held above 96 per dollar as likely central bank intervention limited losses driven by surging oil prices and bets on a U.S. rate hike this week. The Indian rupee settled at 95.9550 per dollar, down xx% on the day, its biggest one-day…",
+   "image": "https://i.brecorder.com/large/2026/09/15160313517609d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's August goods trade deficit narrows as gold imports plunge",
+   "url": "https://www.brecorder.com/news/40439592/indias-august-goods-trade-deficit-narrows-as-gold-imports-plunge",
+   "source": "Business Recorder",
+   "published": "2026-09-15T10:51:14+00:00",
+   "summary": "NEW DELHI: India’s goods trade deficit unexpectedly narrowed to $26.86 billion in August, government data showed on Tuesday, as imports, particularly of gold, fell sharply to make up for a slip in exports from the previous month. The fall in the import bill coincided with an intensifying U.S.-Iran conflict, disrupting …",
+   "image": "https://i.brecorder.com/large/2026/09/151550189763b0f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's August soyoil, palm oil imports rise on stocking",
+   "url": "https://www.brecorder.com/news/40439591/indias-august-soyoil-palm-oil-imports-rise-on-stocking",
+   "source": "Business Recorder",
+   "published": "2026-09-15T10:46:20+00:00",
+   "summary": "MUMBAI: India’s soyoil imports surged to a record in August, while palm oil purchases climbed to a six-month high, as refiners stocked up ahead of the country’s festival season, a leading industry body said on Tuesday. Higher palm oil and soyoil buying by the world’s biggest importer of vegetable oils could help top pr…",
+   "image": "https://i.brecorder.com/large/2026/09/15154559e875770.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Soya Supreme manufacturer APAG makes PSX debut",
+   "url": "https://www.brecorder.com/news/40439588/soya-supreme-manufacturer-apag-makes-psx-debut",
+   "source": "Business Recorder",
+   "published": "2026-09-15T10:06:47+00:00",
+   "summary": "Agro Processors & Atmospheric Gases Limited (APAG), the manufacturer of Soya Supreme cooking oil and banaspati, was listed on the Pakistan Stock Exchange (PSX) on Tuesday following a gong ceremony at the PSX headquarters. The company’s public offering comprised 58.049 million ordinary shares, representing 15% of post I…",
+   "image": "https://i.brecorder.com/large/2026/09/15150556ce2d021.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM Shehbaz orders measures to boost exports, diversify products and markets",
+   "url": "https://www.brecorder.com/news/40439579/pm-shehbaz-orders-measures-to-boost-exports-diversify-products-and-markets",
+   "source": "Business Recorder",
+   "published": "2026-09-15T09:14:34+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Tuesday directed the authorities to make export growth a cornerstone of Pakistan’s economic development and expand the country’s export base beyond traditional sectors. Chairing a review meeting on boosting exports and accelerating economic growth, the prime minister called for more sec…",
+   "image": "https://i.brecorder.com/large/2026/09/15130919e74a10d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand slides as oil price surge pressures emerging market currencies",
+   "url": "https://www.brecorder.com/news/40439584/south-african-rand-slides-as-oil-price-surge-pressures-emerging-market-currencies",
+   "source": "Business Recorder",
+   "published": "2026-09-15T09:06:51+00:00",
+   "summary": "JOHANNESBURG: South Africa’s rand weakened against the dollar on Tuesday as a stronger greenback, ​high energy prices, and softer precious metals ‌heightened concerns over inflation and a wider import bill. At 0815 GMT the rand traded at 16.33 against ​the dollar , 0.4% down from its previous ​close. Oil prices rose ne…",
+   "image": "https://i.brecorder.com/large/2026/09/151406276afae20.gif",
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -245,12 +427,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: Buying returns, KSE-100 up 2,000 points",
-   "url": "https://www.brecorder.com/news/40439549/psx-buying-returns-kse-100-up-2000-points",
-   "source": "Business Recorder",
-   "published": "2026-09-15T04:53:53+00:00",
-   "summary": "Buying returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 2,000 points during the opening minutes of trading on Tuesday. At 9:35am, the benchmark index was hovering at 169,970.23, up 1,999.58 points or 1.19%. Buying was observed in key sectors, including automobile assemblers…",
-   "image": "https://i.brecorder.com/large/2026/09/15095333913ad49.webp",
+   "title": "PSX rebounds 1,422 points on broad-based buying",
+   "url": "https://tribune.com.pk/story/2629410/psx-rebounds-1907-points-as-investors-return-to-equities",
+   "source": "The Express Tribune",
+   "published": "2026-09-15T03:54:43+00:00",
+   "summary": "Policy rate hold by SBP at 11.5% restores confidence as investors return to key sectors",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -264,19 +446,6 @@
    "published": "2026-09-15T03:00:33+00:00",
    "summary": "MUMBAI: Pressure on the Indian rupee is likely to persist this week as oil prices stay above $100 a barrel and expectations of a US Federal Reserve rate hike grow, also weighing on government bonds. The Indian rupee fell more than 1% last ​week to close at 95.55 per dollar on Friday. Indian financial markets were shut …",
    "image": "https://i.brecorder.com/large/2026/09/15075721966e161.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
-   "url": "https://www.brecorder.com/news/40439544/dollar-near-two-week-high-as-oil-surge-lifts-yields-fed-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-09-15T02:49:08+00:00",
-   "summary": "HONG KONG: The dollar inched up to trade near a two-week high on Tuesday ​as surging oil prices lifted Treasury yields and reinforced expectations that the Federal Reserve will raise interest ‌rates this week. It also gained support as risk appetite weakened after stock markets tumbled, with AI-related shares under pre…",
-   "image": "https://i.brecorder.com/large/2026/09/150748474af7cc4.webp",
    "topics": [
     "Economy"
    ],
@@ -316,60 +485,6 @@
    "published": "2026-09-14T17:06:07+00:00",
    "summary": "MPC warns risks to outlook have increased but retains 3.5-4.5% growth projection",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "EV tax clarity masks alarm over tariff policy",
-   "url": "https://tribune.com.pk/story/2629311/ev-tax-clarity-masks-alarm-over-tariff-policy",
-   "source": "The Express Tribune",
-   "published": "2026-09-14T17:06:07+00:00",
-   "summary": "Experts slam tariff cap; warn it undermines localisation, strengthens import reliance",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gulf equities mixed as Saudi energy, shipping security concerns weigh",
-   "url": "https://www.brecorder.com/news/40439433/gulf-equities-mixed-as-saudi-energy-shipping-security-concerns-weigh",
-   "source": "Business Recorder",
-   "published": "2026-09-14T13:53:25+00:00",
-   "summary": "Gulf stock markets were mixed on Monday as investors weighed escalating attacks on Saudi Arabia’s energy infrastructure and key shipping routes. Saudi Arabia’s benchmark index reversed early losses to edge 0.1% higher, with Al Rajhi Bank rising 1.8%. Arabian Drilling gained 3%, after securing a five-year gas-drilling c…",
-   "image": "https://i.brecorder.com/large/2026/09/141851292919c9d.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Copper sinks to 3-week low as dollar firms, LME stocks rise",
-   "url": "https://www.brecorder.com/news/40439432/copper-sinks-to-3-week-low-as-dollar-firms-lme-stocks-rise",
-   "source": "Business Recorder",
-   "published": "2026-09-14T13:47:57+00:00",
-   "summary": "Copper extended losses on Monday, sinking to a three-week low as an increase in London Metal Exchange inventories eased tightness and a stronger dollar put further pressure on industrial metals prices after last week’s selloff on U.S. tariff uncertainty. Benchmark three-month LME copper was down by 1.2% at $14,065 a me…",
-   "image": "https://i.brecorder.com/large/2026/09/14184738a125ad5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's August retail inflation at 4.82% on-year",
-   "url": "https://www.brecorder.com/news/40439418/indias-august-retail-inflation-at-482-on-year",
-   "source": "Business Recorder",
-   "published": "2026-09-14T10:58:01+00:00",
-   "summary": "NEW DELHI: India’s annual retail inflation jumped to 4.82% in August from 4.45% in July, driven by higher food and fuel prices and strengthening a case for an interest rate hike in October. The August print is marginally higher than a 4.80% inflation that the economists were expecting in a Reuters polland marking a thi…",
-   "image": "https://i.brecorder.com/large/2026/09/1415573303d1e2e.webp",
    "topics": [
     "Economy"
    ],
