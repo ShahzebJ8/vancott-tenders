@@ -1,26 +1,105 @@
 {
- "generated": "2026-09-14T23:44:44+00:00",
- "count": 50,
- "relevant_count": 16,
- "domestic_count": 15,
+ "generated": "2026-09-15T03:08:37+00:00",
+ "count": 47,
+ "relevant_count": 15,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (14)",
+  "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "Pakistan banking sector remains resilient in H1CY26: SBP",
-   "url": "https://www.brecorder.com/news/40439436/pakistan-banking-sector-remains-resilient-in-h1cy26-sbp",
-   "source": "Business Recorder",
-   "published": "2026-09-14T14:18:23+00:00",
-   "summary": "The performance and resilience of Pakistan’s banking sector remained intact during the first half of calendar year 2026 (H1CY26), with the sector’s balance sheet expanding by 9.1%, the State Bank of Pakistan (SBP) said on Monday. According to the SBP’s Mid-Year Performance Review of the Banking Sector, the balance shee…",
-   "image": "https://i.brecorder.com/large/2026/09/14191736c2642e1.webp",
+   "title": "Economic Coordination Com­mittee allows 0.2m tonnes of sugar export",
+   "url": "https://www.dawn.com/news/2029998/economic-coordination-committee-allows-02m-tonnes-of-sugar-export",
+   "source": "Dawn",
+   "published": "2026-09-15T02:52:37+00:00",
+   "summary": "ISLAMABAD: The Economic Coordination Com­mittee (ECC) of the cabinet on Monday approved the export of 200,000 tonnes of sugar. The ECC meeting, presided over by Finance Minister Muhammad Aurangzeb, also cleared a Rs3 billion grant to purchase 15 bulletproof sedans for deployment during the upcoming Shanghai Cooperation…",
+   "image": "https://i.dawn.com/large/2026/09/15075022aecb7d1.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PRA to set up digital cell to curb tax evasion",
+   "url": "https://www.brecorder.com/news/40439533/pra-to-set-up-digital-cell-to-curb-tax-evasion",
+   "source": "Business Recorder",
+   "published": "2026-09-15T02:03:48+00:00",
+   "summary": "LAHORE: The Punjab Revenue Authority (PRA) has announced plans to set up a Digital Central Monitoring Cell to strengthen oversight of tax payments and curb tax evasion in the province. A PRA spokesperson said the new cell would continuously track tax payments and business records across the services sector with a parti…",
+   "image": "https://i.brecorder.com/large/2026/09/150703456cc0c12.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP holds rate on inflation, ME risks",
+   "url": "https://www.brecorder.com/news/40439522/sbp-holds-rate-on-inflation-me-risks",
+   "source": "Business Recorder",
+   "published": "2026-09-15T01:38:21+00:00",
+   "summary": "KARACHI: The Monetary Policy Committee (MPC) of the State Bank of Pakistan (SBP) on Monday decided to keep the policy rate unchanged at 11.5 percent, noting that recent domestic macroeconomic developments remained broadly in line with its expectations. Although risks to the inflation outlook have increased significantl…",
+   "image": "https://i.brecorder.com/large/2026/09/15063809816469a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM waives SMS charges for fuel subsidy scheme",
+   "url": "https://www.brecorder.com/news/40439520/pm-waives-sms-charges-for-fuel-subsidy-scheme",
+   "source": "Business Recorder",
+   "published": "2026-09-15T01:17:09+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday ordered the launch of a fuel subsidy scheme for owners of motorcycles, rickshaws and vehicles up to 800cc to provide relief to low-income and middle-class people hit by rising petrol prices amid the situation in the Gulf. The prime minister, who chaired a high-level me…",
+   "image": "https://i.brecorder.com/large/2026/09/15061703d516eb3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP’s reserves hit all-time high at USD21.4bn",
+   "url": "https://www.brecorder.com/news/40439519/sbps-reserves-hit-all-time-high-at-usd214bn",
+   "source": "Business Recorder",
+   "published": "2026-09-15T01:10:46+00:00",
+   "summary": "KARACHI: With arrival of Eurobond inflows, the State Bank of Pakistan’s (SBP) foreign exchange reserves have surged to all-time high level of USD 21.4 billion mark. In the first week of September, Pakistan has raised some USD 3 billion through a landmark dual-tranche Eurobond issuance, marking its largest-ever global b…",
+   "image": "https://i.brecorder.com/large/2026/09/150610361b047b5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Banking sector review: SBP expects uptick in credit demand",
+   "url": "https://www.brecorder.com/news/40439518/banking-sector-review-sbp-expects-uptick-in-credit-demand",
+   "source": "Business Recorder",
+   "published": "2026-09-15T01:05:40+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) said on Monday that the banking sector’s performance is expected to maintain steady momentum during the second half of CY26, with credit demand likely to increase amid contained inflation, currency stability and continued economic recovery. The SBP on Monday issued the Mid-Year…",
+   "image": "https://i.brecorder.com/large/2026/09/15060824f112c19.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sales tax exempted on import of aircraft, ships",
+   "url": "https://www.brecorder.com/news/40439515/sales-tax-exempted-on-import-of-aircraft-ships",
+   "source": "Business Recorder",
+   "published": "2026-09-15T00:55:33+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has extended sales tax exemption on import or lease of aircrafts and its parts to all airline companies registered in Pakistan. According to the FBR’s instructions issued to the field formations on Monday, through addition of S. No. 181A, exemption on import or lease of air…",
+   "image": "https://i.brecorder.com/large/2026/09/15055500ef47351.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -155,32 +234,6 @@
    "domestic": true
   },
   {
-   "title": "SBP forex reserves surge $1.2bn",
-   "url": "https://www.dawn.com/news/2028999/sbp-forex-reserves-surge-12bn",
-   "source": "Dawn",
-   "published": "2026-09-11T02:01:32+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan’s (SBP) foreign exchange reserves surged by $1.2 billion to $18.328bn during the week ended on Sept 4. The central bank announced on Thursday that the increase in forex reserves was due to commercial loan proceeds received by the Government of Pakistan. The country’s overall liquid f…",
-   "image": "https://i.dawn.com/large/2026/09/11075551417f258.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Equities plunge below 169,000 on panic-selling",
-   "url": "https://www.dawn.com/news/2028998/equities-plunge-below-169000-on-panic-selling",
-   "source": "Dawn",
-   "published": "2026-09-11T02:01:32+00:00",
-   "summary": "KARACHI: Bearish sentiment dominated the Pakistan Stock Exchange (PSX) on Thursday, pushing the benchmark index below 169,000 amid widespread panic selling by nervous investors for the fourth session in a row. Driven by heightened economic uncertainty stemming from high oil prices caused by supply disruptions and inten…",
-   "image": "https://i.dawn.com/large/2026/09/110650101bdd999.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "FBR allowed to retain Rs390bn in refunds, Senate committee told",
    "url": "https://www.dawn.com/news/2029005/fbr-allowed-to-retain-rs390bn-in-refunds-senate-committee-told",
    "source": "Dawn",
@@ -207,26 +260,51 @@
    "domestic": true
   },
   {
-   "title": "Auto sales up 80% for FY27 so far, but August slips 20% from July",
-   "url": "https://www.brecorder.com/news/40439445/auto-sales-up-80-for-fy27-so-far-but-august-slips-20-from-july",
+   "title": "Indian rupee, bonds eye Fed decision, rate outlook",
+   "url": "https://www.brecorder.com/news/40439547/indian-rupee-bonds-eye-fed-decision-rate-outlook",
    "source": "Business Recorder",
-   "published": "2026-09-14T17:47:38+00:00",
-   "summary": "Car sales in Pakistan rose by 80% during the first two months (July-August) of the current fiscal year in comparison with the same period of the previous fiscal year because of better economic conditions, stable interest rate, and more leasing schemes, according to auto experts and analysts. Car sales increased by 80% …",
-   "image": "https://i.brecorder.com/large/2026/09/14224549b4a9162.webp",
+   "published": "2026-09-15T03:00:33+00:00",
+   "summary": "MUMBAI: Pressure on the Indian rupee is likely to persist this week as oil prices stay above $100 a barrel and expectations of a US Federal Reserve rate hike grow, also weighing on government bonds. The Indian rupee fell more than 1% last ​week to close at 95.55 per dollar on Friday. Indian financial markets were shut …",
+   "image": "https://i.brecorder.com/large/2026/09/15075721966e161.webp",
    "topics": [
-    "Budget & spending",
     "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
-   "title": "Oil prices climb over 2% after strikes on Saudi pipeline and ships in Middle East",
-   "url": "https://www.brecorder.com/news/40439372/oil-prices-climb-over-2-after-strikes-on-saudi-pipeline-and-ships-in-middle-east",
+   "title": "Dollar near two-week high as oil surge lifts yields, Fed hike bets",
+   "url": "https://www.brecorder.com/news/40439544/dollar-near-two-week-high-as-oil-surge-lifts-yields-fed-hike-bets",
    "source": "Business Recorder",
-   "published": "2026-09-14T16:49:43+00:00",
-   "summary": "NEW YORK: Oil prices climbed over 2% on Monday as worries about energy supplies mounted following new strikes on Saudi Arabian energy infrastructure and attacks on ships in the Middle East. Brent futures rose $2.72, or 2.6%, to $107.33 per barrel at 11:39 a.m. EDT (1539 GMT). U.S. West Texas Intermediate (WTI) crude ro…",
-   "image": "https://i.brecorder.com/large/2026/09/142005296c1f602.webp",
+   "published": "2026-09-15T02:49:08+00:00",
+   "summary": "HONG KONG: The dollar inched up to trade near a two-week high on Tuesday ​as surging oil prices lifted Treasury yields and reinforced expectations that the Federal Reserve will raise interest ‌rates this week. It also gained support as risk appetite weakened after stock markets tumbled, with AI-related shares under pre…",
+   "image": "https://i.brecorder.com/large/2026/09/150748474af7cc4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Business community split over SBP’s decision to keep policy rate unchanged",
+   "url": "https://www.dawn.com/news/2030066/business-community-split-over-sbps-decision-to-keep-policy-rate-unchanged",
+   "source": "Dawn",
+   "published": "2026-09-15T02:47:15+00:00",
+   "summary": "https://www.dawn.com/news/2029995",
+   "image": "https://i.dawn.com/large/2026/09/150715207c3b1b5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns",
+   "url": "https://www.brecorder.com/news/40439536/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns",
+   "source": "Business Recorder",
+   "published": "2026-09-15T02:43:48+00:00",
+   "summary": "Oil prices rose on Tuesday as concerns over supply disruptions persisted after attacks on Saudi Arabian energy infrastructure left the kingdom’s East-West pipeline offline and cast doubt on efforts to ease ​shipping risks in the Gulf. Brent crude futures rose $1.24, or 1.18%, to $106.93 a barrel at ‌0026 GMT, after cli…",
+   "image": "https://i.brecorder.com/large/2026/09/15074333f36d232.gif",
    "topics": [
     "Construction & projects"
    ],
@@ -261,79 +339,12 @@
    "domestic": false
   },
   {
-   "title": "Bangladesh's industrial growth hurt by high LNG prices, minister says",
-   "url": "https://www.brecorder.com/news/40439431/bangladeshs-industrial-growth-hurt-by-high-lng-prices-minister-says",
-   "source": "Business Recorder",
-   "published": "2026-09-14T13:42:02+00:00",
-   "summary": "BANGKOK: High LNG prices are slowing Bangladesh’s industrial growth, forcing electricity outages and stifling spending on development projects due to higher government expenditure on gas subsidies, the country’s power minister said on Monday. “Industrial growth is slowing down, and production is going down,” Bangladesh…",
-   "image": "https://i.brecorder.com/large/2026/09/1418411214bb3a8.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX: KSE-100 sheds over 2,500 points as situation remains tense in ME",
    "url": "https://www.brecorder.com/news/40439382/psx-kse-100-sheds-over-2500-points-as-situation-remains-tense-in-me",
    "source": "Business Recorder",
    "published": "2026-09-14T11:51:36+00:00",
    "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX) after new Houthi strikes on Saudi Arabia and Iranian attacks on ships in the Gulf, with the benchmark KSE-100 Index losing nearly 1.5% on Monday. The index initially came under selling pressure, falling sharply before staging a recovery during the morni…",
    "image": "https://i.brecorder.com/large/2026/09/14094905e48c390.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "LNG prices above $20 per mmBtu to hurt demand, chairman of India's GAIL says",
-   "url": "https://www.brecorder.com/news/40439427/lng-prices-above-20-per-mmbtu-to-hurt-demand-chairman-of-indias-gail-says",
-   "source": "Business Recorder",
-   "published": "2026-09-14T11:45:05+00:00",
-   "summary": "BANGKOK: The chairman of GAIL, India’s top natural gas distributor by market share, said on Monday that liquefied natural gas prices of more than $20 per million British thermal units (mmBtu) have affected demand. India GAIL buys Oman LNG cargo, sources say Deepak Gupta was speaking during an energy forum in Bangkok.",
-   "image": "https://i.brecorder.com/large/2026/09/14164453a0ed03c.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asian refiners, awaiting word on Saudi shipments, expect tighter supply",
-   "url": "https://www.brecorder.com/news/40439424/asian-refiners-awaiting-word-on-saudi-shipments-expect-tighter-supply",
-   "source": "Business Recorder",
-   "published": "2026-09-14T11:36:26+00:00",
-   "summary": "NEW DELHI/SINGAPORE: Asian refiners are bracing for tighter supply of sour crude as they await guidance from Saudi Arabia on exports via the Red Sea after attacks on the East-West Pipeline, industry sources said on Monday. Saudi Arabia shut the pipeline after it came under attack on Friday. The shutdown helped push up …",
-   "image": "https://i.brecorder.com/large/2026/09/14163553afd9fc4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Solar Industries to buy South Africa's Omnia for $1.36 billion",
-   "url": "https://www.brecorder.com/news/40439420/indias-solar-industries-to-buy-south-africas-omnia-for-136-billion",
-   "source": "Business Recorder",
-   "published": "2026-09-14T11:06:36+00:00",
-   "summary": "India’s Solar Industries said on Monday its unit will acquire South Africa’s Omnia Holdings in an all-cash deal worth about $1.36 billion, as the explosives and ammunition maker looks to expand its global mining business. Solar SA Investments, an indirect wholly-owned subsidiary of Solar Industries, will acquire all ou…",
-   "image": "https://i.brecorder.com/large/2026/09/1416061758ef4d9.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India gains wider EU steel access, but carbon levy remains",
-   "url": "https://www.brecorder.com/news/40439419/india-gains-wider-eu-steel-access-but-carbon-levy-remains",
-   "source": "Business Recorder",
-   "published": "2026-09-14T11:02:09+00:00",
-   "summary": "NEW DELHI: India will be able to export up to 1.64 million metric tons of steel a year to the European Union under a free trade agreement, but exporters will still face carbon-related costs, according to the legal text of the pact. The agreement provides India with an additional preferential quota of 694,853 tons of st…",
-   "image": "https://i.brecorder.com/large/2026/09/1416015560fbc6e.webp",
    "topics": [
     "Economy"
    ],
@@ -351,19 +362,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt cuts HEV sales tax from 25% to 18%",
-   "url": "https://www.brecorder.com/news/40439415/govt-cuts-hev-sales-tax-from-25-to-18",
-   "source": "Business Recorder",
-   "published": "2026-09-14T10:29:15+00:00",
-   "summary": "The government has lowered the sales tax on locally manufactured hybrid electric vehicles (HEVs) with engine capacity up to 2000cc from 25% to 18%. The Finance Division has issued S.R.O. 1525(1)/2026 dated September 13, 2026, amending the sales-tax notification S.R.O. 297(1)/2023. “In exercise of the powers conferred b…",
-   "image": "https://i.brecorder.com/large/2026/09/141517242dfcde5.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -471,19 +469,6 @@
    "domestic": false
   },
   {
-   "title": "Goldman Sachs now expects Fed to hike rates in September",
-   "url": "https://www.brecorder.com/news/40439378/goldman-sachs-now-expects-fed-to-hike-rates-in-september",
-   "source": "Business Recorder",
-   "published": "2026-09-14T03:08:07+00:00",
-   "summary": "Goldman Sachs now expects ​the US Federal ‌Reserve to raise interest rates by ​25 basis ​points at its September ⁠policy meeting, ​reversing its previous ​forecast for rates to remain unchanged. The Wall ​Street bank ​said in a note on ‌Friday ⁠that the change was driven less by ​its ​economic ⁠outlook and more by fina…",
-   "image": "https://i.brecorder.com/large/2026/09/14080616249d63b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Strengthening the solar ecosystem",
    "url": "https://www.dawn.com/news/2029540/strengthening-the-solar-ecosystem",
    "source": "Dawn",
@@ -497,38 +482,12 @@
    "domestic": false
   },
   {
-   "title": "Shares skid in Asia as oil rises, rate hikes loom",
-   "url": "https://www.brecorder.com/news/40439374/shares-skid-in-asia-as-oil-rises-rate-hikes-loom",
-   "source": "Business Recorder",
-   "published": "2026-09-14T02:55:11+00:00",
-   "summary": "SYDNEY: Share markets slid in Asia on Monday as supply concerns caused oil prices to spike anew, while investors braced for possible ​interest rate hikes in both the United States and Japan this week. Brent climbed 3% as new strikes on Saudi Arabia ‌ and on ships in the Gulf tested nerves, after an attack on a Saudi oi…",
-   "image": "https://i.brecorder.com/large/2026/09/140752006d860e9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Building a stronger maritime future",
    "url": "https://www.dawn.com/news/2029680/building-a-stronger-maritime-future",
    "source": "Dawn",
    "published": "2026-09-14T02:54:30+00:00",
    "summary": "For Pakistan, maritime trade is a national economic lifeline. Energy supplies, imports and exports, industrial production and regional connectivity all depend on the uninterrupted functioning of the maritime and logistics system. However, the security environment around Pakistan is changing. The question Pakistan must …",
    "image": "https://i.dawn.com/large/2026/09/140754115a9b654.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings",
-   "url": "https://www.brecorder.com/news/40439373/dollar-steady-yen-near-7-month-high-ahead-of-fed-boj-meetings",
-   "source": "Business Recorder",
-   "published": "2026-09-14T02:50:22+00:00",
-   "summary": "SINGAPORE: The dollar was steady on Monday , ​with the yen holding on to its recent sharp gains and hovering near a seven-month high as investors pondered possible rate hikes from ‌the Federal Reserve and Bank of Japan in a pivotal week for monetary policy. Global policymakers are grappling with erratic pricing pressur…",
-   "image": "https://i.brecorder.com/large/2026/09/14074542df2476c.webp",
    "topics": [
     "Economy"
    ],
