@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-15T21:39:57+00:00",
- "count": 41,
- "relevant_count": 5,
+ "generated": "2026-09-15T23:59:37+00:00",
+ "count": 42,
+ "relevant_count": 6,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (12)",
@@ -152,6 +152,19 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Biodiversity financing: why investing in nature matters for Pakistan’s economy",
+   "url": "https://www.brecorder.com/news/40439613/biodiversity-financing-why-investing-in-nature-matters-for-pakistans-economy",
+   "source": "Business Recorder",
+   "published": "2026-09-15T21:49:50+00:00",
+   "summary": "Pakistan is accustomed to debating the cost of climate change. Floods destroy infrastructure, droughts reduce agricultural output and heatwaves threaten lives and productivity. Yet there is another economic crisis unfolding more quietly: the erosion of the natural systems that make economic activity possible in the fir…",
+   "image": "https://i.brecorder.com/large/2026/09/160232044d4bbb4.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump",
