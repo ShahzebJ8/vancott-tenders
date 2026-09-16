@@ -1,22 +1,22 @@
 {
- "generated": "2026-09-15T23:59:37+00:00",
- "count": 42,
- "relevant_count": 6,
- "domestic_count": 11,
+ "generated": "2026-09-16T03:05:08+00:00",
+ "count": 39,
+ "relevant_count": 11,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (12)",
-  "Business Recorder": "ok (13)",
+  "Dawn": "ok (13)",
+  "Business Recorder": "ok (11)",
   "The Express Tribune": "ok (6)",
   "ARY News": "ok (3)"
  },
  "stories": [
   {
-   "title": "Rupee sees improvement against US dollar",
-   "url": "https://www.brecorder.com/news/40439590/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-15T14:16:52+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.30, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.31 against the dollar. Internationally, the US dollar inched up to trade near a two-we…",
-   "image": "https://i.brecorder.com/large/2026/09/151537123c6ee9d.webp",
+   "title": "State Bank of Pakistan cautions on sandbox approval",
+   "url": "https://www.dawn.com/news/2030248/state-bank-of-pakistan-cautions-on-sandbox-approval",
+   "source": "Dawn",
+   "published": "2026-09-16T02:30:20+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) said on Tuesday that the successful completion of sandbox testing does not imply regulatory approval. Successful participants must obtain the necessary authorisation and appro­val from the central bank before commercially laun­ching the product or service tested in the sandbox.…",
+   "image": "https://i.dawn.com/large/2026/09/16073001d11fa5e.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,64 @@
    "domestic": true
   },
   {
-   "title": "SBP concludes first Regulatory Sandbox cohort, four fintechs clear testing",
-   "url": "https://www.brecorder.com/news/40439594/sbp-concludes-first-regulatory-sandbox-cohort-four-fintechs-clear-testing",
+   "title": "PSX stages partial recovery on value-hunting",
+   "url": "https://www.dawn.com/news/2030246/psx-stages-partial-recovery-on-value-hunting",
+   "source": "Dawn",
+   "published": "2026-09-16T01:51:13+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Tuesday staged a marginal recovery rally as investors rushed to hunt for value, helping the benchmark KSE-100 index close in the green zone and snap a persistent bearish spell despite elevated tensions in the Middle East and high oil prices. Topline Securities Ltd said the …",
+   "image": "https://i.dawn.com/large/2026/09/16073229e0921cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Baker, Dar discuss regional developments",
+   "url": "https://www.brecorder.com/news/40439638/baker-dar-discuss-regional-developments",
    "source": "Business Recorder",
-   "published": "2026-09-15T10:56:59+00:00",
-   "summary": "The State Bank of Pakistan (SBP) has concluded the first cohort of its Regulatory Sandbox, launched in August 2025 under SBP Vision 2028. “The first cohort focused on three themes: technology-enabled solutions for inward remittances, open banking, and remote onboarding of merchants,” said SBP in a statement on Tuesday.…",
-   "image": "https://i.brecorder.com/large/2026/09/1515555338716f5.webp",
+   "published": "2026-09-16T00:59:50+00:00",
+   "summary": "ISLAMABAD: US Chargéd’ Affaires Natalie A. Baker called on Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar here on Tuesday. Discussions focused on Pakistan-US bilateral cooperation and recent regional developments. The DPM/FM underscored the importance of dialogue and diplomacy for lastin…",
+   "image": "https://i.brecorder.com/large/2026/09/16012313f921fc5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Huge consignment of illegal arms, ammunition seized",
+   "url": "https://www.brecorder.com/news/40439647/huge-consignment-of-illegal-arms-ammunition-seized",
+   "source": "Business Recorder",
+   "published": "2026-09-16T00:59:50+00:00",
+   "summary": "KARACHI: Pakistan Customs Enforcement personnel have seized a large consignment of illegal arms and ammunition in an operation at the Joint Check Post (JCP) Yarik. Officials estimate the total value of the seized cache at Rs 32 million. According to the details issued by the Federal Board of Revenue (FBR), Customs staf…",
+   "image": "https://i.brecorder.com/large/2026/09/160129239e53aa3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sindh Bank posts 274pc surge in PBT to Rs4.05bn in H1’26",
+   "url": "https://www.brecorder.com/news/40439655/sindh-bank-posts-274pc-surge-in-pbt-to-rs405bn-in-h126",
+   "source": "Business Recorder",
+   "published": "2026-09-16T00:59:50+00:00",
+   "summary": "KARACHI: Sindh Bank reported its profit before tax of Rs 4.05 billion in H1’26, up from Rs 1.08 billion for H1’25 driven by manifold increase in operating profits attributable to resilient margins and hence significantly higher Net Markup Income. Profit after tax for the H1’26 increased by nearly five times to Rs 2.41 …",
+   "image": "https://i.brecorder.com/large/2026/09/16015438a572834.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee sees improvement against US dollar",
+   "url": "https://www.brecorder.com/news/40439590/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-15T14:16:52+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.30, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.31 against the dollar. Internationally, the US dollar inched up to trade near a two-we…",
+   "image": "https://i.brecorder.com/large/2026/09/151537123c6ee9d.webp",
    "topics": [
     "Economy"
    ],
@@ -89,51 +141,12 @@
    "domestic": true
   },
   {
-   "title": "Used car imports fall sharply",
-   "url": "https://www.dawn.com/news/2029573/used-car-imports-fall-sharply",
-   "source": "Dawn",
-   "published": "2026-09-13T05:36:06+00:00",
-   "summary": "KARACHI: The government’s January move to abolish the baggage scheme for used car imports and enforce mandatory pre-shipment inspections for gifted and resident-transferred vehicles is now showing results, with arrivals in this category declining. Indus Motor Company (IMC) in its annual report FY26 mentioned that “the …",
-   "image": "https://i.dawn.com/large/2026/09/13103446e755930.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "State Bank in tight spot over policy rate as inflation rises amid Gulf conflict",
    "url": "https://www.dawn.com/news/2029588/state-bank-in-tight-spot-over-policy-rate-as-inflation-rises-amid-gulf-conflict",
    "source": "Dawn",
    "published": "2026-09-13T03:44:02+00:00",
    "summary": "https://www.dawn.com/news/2029577/state-bank-in-tight-spot-as-inflation-rises",
    "image": "https://i.dawn.com/large/2026/09/13084316dabb6b8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PM Shehbaz stresses coordination to boost agri exports",
-   "url": "https://www.dawn.com/news/2029252/pm-shehbaz-stresses-coordination-to-boost-agri-exports",
-   "source": "Dawn",
-   "published": "2026-09-12T02:35:34+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday stressed that effective coordination and partnership between the federal and provincial governments was essential for increasing per-acre agricultural productivity, introducing innovation in agriculture, developing the livestock sector and promoting agricultural export…",
-   "image": "https://i.dawn.com/large/2026/09/12073322646805e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Weekly inflation continues upward spiral",
-   "url": "https://www.dawn.com/news/2029251/weekly-inflation-continues-upward-spiral",
-   "source": "Dawn",
-   "published": "2026-09-11T23:56:45+00:00",
-   "summary": "KARACHI: Consumers are facing a tough year as the Sensitive Price Index (SPI) rose 8.62 per cent year-on-year for the week ending on Sept 10, with a major contribution from costly onion and petroleum products, according to data released by the Pakistan Bureau of Statistics on Friday. Major increase was observed in the …",
-   "image": "https://i.dawn.com/large/2026/09/12025859fddae67.webp",
    "topics": [
     "Economy"
    ],
@@ -154,12 +167,77 @@
    "domestic": true
   },
   {
-   "title": "Biodiversity financing: why investing in nature matters for Pakistan’s economy",
-   "url": "https://www.brecorder.com/news/40439613/biodiversity-financing-why-investing-in-nature-matters-for-pakistans-economy",
+   "title": "Fuel subsidy misses the point",
+   "url": "https://www.brecorder.com/news/40439657/fuel-subsidy-misses-the-point",
    "source": "Business Recorder",
-   "published": "2026-09-15T21:49:50+00:00",
-   "summary": "Pakistan is accustomed to debating the cost of climate change. Floods destroy infrastructure, droughts reduce agricultural output and heatwaves threaten lives and productivity. Yet there is another economic crisis unfolding more quietly: the erosion of the natural systems that make economic activity possible in the fir…",
-   "image": "https://i.brecorder.com/large/2026/09/160232044d4bbb4.webp",
+   "published": "2026-09-16T02:53:39+00:00",
+   "summary": "The government has announced a Rs75 billion subsidy on fuel consumption for 2/3-wheelers and small-car users. The scheme will run for three months, with the objective of providing some relief to bike and car users. Critics, however, are of the view that it may end up being more of a political stunt. The government migh…",
+   "image": "https://i.brecorder.com/large/2026/09/16015607a836b18.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Dollar girded by bets on a US hiking cycle",
+   "url": "https://www.brecorder.com/news/40439726/dollar-girded-by-bets-on-a-us-hiking-cycle",
+   "source": "Business Recorder",
+   "published": "2026-09-16T02:43:59+00:00",
+   "summary": "SINGAPORE: The dollar was hanging on to recent gains on ​Wednesday and trading near multi-week highs on a handful of major peers ahead of a Federal Reserve decision where traders expect ‌the first of what could be several US interest rate hikes. “A 25 basis-point increase is about 90% priced, implying the dollar will r…",
+   "image": "https://i.brecorder.com/large/2026/09/16074257522690e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "GB unveils Rs218.8bn budget after long wait",
+   "url": "https://www.dawn.com/news/2030284/gb-unveils-rs2188bn-budget-after-long-wait",
+   "source": "Dawn",
+   "published": "2026-09-16T02:42:25+00:00",
+   "summary": "GILGIT: The Gilgit-Baltistan government on Tue­s­day presented a three-month delayed budget of Rs218.845 billion for fiscal year 2026-27, with a deficit of over Rs52bn, seeking additional funds from the federal government to meet various liabilities. It may be mentioned here that in July, the GB government had presen­t…",
+   "image": "https://i.dawn.com/large/2026/09/1607400272c32fd.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FBR, trader representatives to launch joint registration drives across country",
+   "url": "https://www.dawn.com/news/2030319/fbr-trader-representatives-to-launch-joint-registration-drives-across-country",
+   "source": "Dawn",
+   "published": "2026-09-16T02:26:59+00:00",
+   "summary": "https://www.dawn.com/news/2030249",
+   "image": "https://i.dawn.com/large/2026/09/1607264524d1e38.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Holding policy rate: the right decision",
+   "url": "https://www.brecorder.com/news/40439649/holding-policy-rate-the-right-decision",
+   "source": "Business Recorder",
+   "published": "2026-09-16T01:26:14+00:00",
+   "summary": "EDITORIAL: The Monetary Policy Committee kept the policy rate unchanged at 11.5 percent which must be supported. Any increase in the rate would have made borrowing costs for the government (the single largest borrower) as well as the private sector prohibitively expensive that, in turn, would have impacted negatively o…",
+   "image": "https://i.brecorder.com/large/2026/09/16015018af9a587.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gammon Pakistan Limited",
+   "url": "https://www.brecorder.com/news/40439658/gammon-pakistan-limited",
+   "source": "Business Recorder",
+   "published": "2026-09-16T00:59:50+00:00",
+   "summary": "Gammon Pakistan Limited (PSX: GAMON) was incorporated in Pakistan as a public limited company in 1947. The principal activity of the company is the execution of civil construction works particularly bridges and buildings. Bibojee Services (Private) Limited is the holding company of GAMON. Pattern of Shareholding As of …",
+   "image": "https://i.brecorder.com/large/2026/09/160156512814ab2.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -180,77 +258,12 @@
    "domestic": false
   },
   {
-   "title": "Broadening inflation, Fed prompts traders to ramp up October India rate hike bets",
-   "url": "https://www.brecorder.com/news/40439606/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-09-15T13:48:04+00:00",
-   "summary": "MUMBAI: Traders are increasingly betting on an October rate hike by the Reserve Bank of India, with surging oil prices and broadening inflation strengthening the case for tighter policy, while an expected Federal Reserve hike adds to the pressure, four traders said. The one-year overnight index swap rate rose 8 basis p…",
-   "image": "https://i.brecorder.com/large/2026/09/151846061829968.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "LNG demand in Pakistan, China and India expected to rebound after US-Iran war ends",
-   "url": "https://www.brecorder.com/news/40439605/lng-demand-in-pakistan-china-and-india-expected-to-rebound-after-us-iran-war-ends",
-   "source": "Business Recorder",
-   "published": "2026-09-15T13:39:10+00:00",
-   "summary": "BANGKOK: LNG demand from Pakistan, China and India is likely to rebound from multi-year lows once the Middle East supply crunch ends and new supplies emerge, industry executives say, reversing a pick-up in coal and oil to replace gas during the U.S.-Iran war. The conflict has prevented Qatar and the United Arab Emirate…",
-   "image": "https://i.brecorder.com/large/2026/09/151837438fe3262.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Nigeria's NLNG aims to start up Train 7 LNG project by end-2027",
-   "url": "https://www.brecorder.com/news/40439602/nigerias-nlng-aims-to-start-up-train-7-lng-project-by-end-2027",
-   "source": "Business Recorder",
-   "published": "2026-09-15T12:06:16+00:00",
-   "summary": "BANGKOK: Nigerian LNG producer NLNG aims to start up its $10 billion Train 7 LNG project by the end of 2027, its managing director Adeleye Falade told reporters on the sidelines of the Gastech conference in Bangkok. The project on Bonny Island, which will expand NLNG’s capacity to 30 million metric tons per year from 2…",
-   "image": "https://i.brecorder.com/large/2026/09/151705160369bda.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "London shares slip as higher oil prices lift bond yields; BoE in focus",
    "url": "https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus",
    "source": "Business Recorder",
    "published": "2026-09-15T12:01:52+00:00",
    "summary": "London shares slipped to two-month lows on Tuesday as rising oil prices pushed bond yields higher globally over inflation concerns, while investors assessed a batch of domestic economic data ahead of a central bank policy verdict later this week. The blue-chip FTSE 100 index fell 0.59% to 10,634.49 points by 1000 GMT, …",
    "image": "https://i.brecorder.com/large/2026/09/1517010808c77f6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka's economy grew 4.2% in Q2 despite pressures from Iran war",
-   "url": "https://www.brecorder.com/news/40439599/sri-lankas-economy-grew-42-in-q2-despite-pressures-from-iran-war",
-   "source": "Business Recorder",
-   "published": "2026-09-15T11:53:43+00:00",
-   "summary": "COLOMBO: Sri Lanka’s economy grew by 4.2% year-on-year from April to June, the statistics department said on Tuesday, despite three-year-high inflation that has been exacerbated by the impact of the Iran war. Output from the agriculture sector grew by 2.3% year-on-year in the second quarter, while that of industries ex…",
-   "image": "https://i.brecorder.com/large/2026/09/15165327c8d7d91.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Moody's revises Bangladesh's outlook to ‘stable’ on easing political and external pressures",
-   "url": "https://www.brecorder.com/news/40439597/moodys-revises-bangladeshs-outlook-to-stable-on-easing-political-and-external-pressures",
-   "source": "Business Recorder",
-   "published": "2026-09-15T11:47:23+00:00",
-   "summary": "Credit ratings agency Moody’s on Tuesday revised Bangladesh’s credit outlook to “stable” from “negative” on easing political and external pressures. “Despite higher import costs, gas supply volatility, and challenges to the ready-made garment sector, the economy has shown underlying resilience,” the agency said in its …",
-   "image": "https://i.brecorder.com/large/2026/09/15164651a6363a4.webp",
    "topics": [
     "Economy"
    ],
@@ -290,19 +303,6 @@
    "published": "2026-09-15T10:46:20+00:00",
    "summary": "MUMBAI: India’s soyoil imports surged to a record in August, while palm oil purchases climbed to a six-month high, as refiners stocked up ahead of the country’s festival season, a leading industry body said on Tuesday. Higher palm oil and soyoil buying by the world’s biggest importer of vegetable oils could help top pr…",
    "image": "https://i.brecorder.com/large/2026/09/15154559e875770.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Soya Supreme manufacturer APAG makes PSX debut",
-   "url": "https://www.brecorder.com/news/40439588/soya-supreme-manufacturer-apag-makes-psx-debut",
-   "source": "Business Recorder",
-   "published": "2026-09-15T10:06:47+00:00",
-   "summary": "Agro Processors & Atmospheric Gases Limited (APAG), the manufacturer of Soya Supreme cooking oil and banaspati, was listed on the Pakistan Stock Exchange (PSX) on Tuesday following a gong ceremony at the PSX headquarters. The company’s public offering comprised 58.049 million ordinary shares, representing 15% of post I…",
-   "image": "https://i.brecorder.com/large/2026/09/15150556ce2d021.webp",
    "topics": [
     "Economy"
    ],
@@ -359,45 +359,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan emerges as new donkey supplier to China: report",
-   "url": "https://www.brecorder.com/news/40439555/pakistan-emerges-as-new-donkey-supplier-to-china-report",
-   "source": "Business Recorder",
-   "published": "2026-09-15T05:43:59+00:00",
-   "summary": "Pakistan is emerging as a new supplier of donkeys to China, as growing demand for donkey hides used in the traditional Chinese medicine ejiao opens a niche export market for the country, Bloomberg reported on Tuesday. The expansion comes as Chinese demand for donkey hides grows while domestic supplies decline. The hide…",
-   "image": "https://i.brecorder.com/large/2026/09/15104329b8cff73.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Tuesday",
-   "url": "https://www.brecorder.com/news/40439554/thai-bahtus-dollar-weaker-on-tuesday",
-   "source": "Business Recorder",
-   "published": "2026-09-15T05:41:08+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Tuesday. At 0211 GMT, the baht was 0.12% lower at 33.24 versus the dollar, after trading in a range of 33.210 to 33.305. It ended the previous session at 33.2 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/1510395311ac5af.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares fall as miners slide, oil prices stoke inflation worries",
-   "url": "https://www.brecorder.com/news/40439553/australian-shares-fall-as-miners-slide-oil-prices-stoke-inflation-worries",
-   "source": "Business Recorder",
-   "published": "2026-09-15T05:35:18+00:00",
-   "summary": "Australian shares fell on Tuesday as weak commodity prices hurt mining and gold stocks, while rising crude oil prices heightened inflation worries and reinforced expectations of a US Federal Reserve rate hike. The S&P/ASX 200 index fell 0.5% to 8,709.6, as of 0005 GMT. The benchmark ended 0.1% higher on Monday. The Mid…",
-   "image": "https://i.brecorder.com/large/2026/09/15103502d64d92f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
