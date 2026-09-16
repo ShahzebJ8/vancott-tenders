@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-16T18:06:52+00:00",
- "count": 43,
- "relevant_count": 13,
- "domestic_count": 11,
+ "generated": "2026-09-16T21:34:58+00:00",
+ "count": 44,
+ "relevant_count": 14,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (6)",
-  "ARY News": "ok (3)"
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Petroleum dealers demand govt devise mechanism for fuel subsidy reimbursement",
+   "url": "https://www.dawn.com/news/2030414/petroleum-dealers-demand-govt-devise-mechanism-for-fuel-subsidy-reimbursement",
+   "source": "Dawn",
+   "published": "2026-09-16T18:57:58+00:00",
+   "summary": "KARACHI: Petroleum dealers have called on the government to devise a mechanism for reimbursing the fuel subsidy, which is set to take effect across the country from midnight on Wednesday. On September 13, Prime Minister Shehbaz Sharif announced a “ relief scheme ” for users of motorcycles, autos and vehicles of up to 8…",
+   "image": "https://i.dawn.com/large/2026/09/162330132ec67cb.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Govt working to introduce virtual grid system, says power minister",
    "url": "https://www.dawn.com/news/2030404/govt-working-to-introduce-virtual-grid-system-says-power-minister",
@@ -154,6 +167,19 @@
    "domestic": true
   },
   {
+   "title": "Fed hikes rates, sees more tightening in search of 'timelier' drop in inflation",
+   "url": "https://www.brecorder.com/news/40439801/fed-hikes-rates-sees-more-tightening-in-search-of-timelier-drop-in-inflation",
+   "source": "Business Recorder",
+   "published": "2026-09-16T18:32:30+00:00",
+   "summary": "WASHINGTON: The Federal Reserve raised interest rates on Wednesday and flagged further increases in borrowing costs in coming months, with new US central bank chief Kevin Warsh joining a unanimous decision that effectively acknowledges the Trump administration’s inability so far to control inflation. While President Do…",
+   "image": "https://i.brecorder.com/large/2026/09/1623274494e4723.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Army chief discusses defence technology cooperation with US firm POWERUS",
    "url": "https://www.brecorder.com/news/40439798/army-chief-discusses-defence-technology-cooperation-with-us-firm-powerus",
    "source": "Business Recorder",
@@ -242,19 +268,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Selling returns as KSE-100 loses nearly 1,400 points",
-   "url": "https://www.brecorder.com/news/40439733/psx-selling-returns-as-kse-100-loses-nearly-1400-points",
-   "source": "Business Recorder",
-   "published": "2026-09-16T12:43:36+00:00",
-   "summary": "Selling returned at the Pakistan Stock Exchange (PSX) amid escalating tensions in the Middle East, with the benchmark KSE-100 Index settling with a loss of nearly 1,400 points on Wednesday. The benchmark index initially showed strength, climbing towards the 169,000 level during early trading, but failed to sustain the …",
-   "image": "https://i.brecorder.com/large/2026/09/16102453664525d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {

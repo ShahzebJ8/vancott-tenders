@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T18:06:47+00:00",
+ "generated": "2026-09-16T21:34:53+00:00",
  "count": 619,
  "with_value": 600,
  "with_winner": 233,
@@ -11784,6 +11784,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003553",
+   "tender_no": "TS0000012182E",
+   "reference": "F.No. EM-1/8/2007",
+   "title": "PROCUREMENT OF OFFICE FURNITURE Furniture/Fixture",
+   "organisation": "Ministry of Foreign Affairs Embassy of Pakistan Washington DC - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "National Furniture & Mattress"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-16",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003553",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003551",
    "tender_no": "TS0000008255E",
@@ -50866,26 +50886,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001430",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001428",
-   "tender_no": "TS0000003509E",
-   "reference": "4341",
-   "title": "TENDER NO 4341 (PROCUREMENT OF STAY STRIP SETS) Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "AM Associates (Pvt.) Ltd. (Only Eligible/Qualified Bidder)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-17",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001428",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
