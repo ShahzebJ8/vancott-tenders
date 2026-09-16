@@ -1,15 +1,41 @@
 {
- "generated": "2026-09-16T08:49:59+00:00",
- "count": 38,
- "relevant_count": 8,
- "domestic_count": 9,
+ "generated": "2026-09-16T14:03:43+00:00",
+ "count": 40,
+ "relevant_count": 10,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (6)",
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (5)",
   "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40439776/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-16T12:42:27+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01%, against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.27, a gain of Re0.03 against the greenback. On Tuesday , the Pakistani rupee settled at 277.30 against the dollar. Internationally, the US dollar was hang…",
+   "image": "https://i.brecorder.com/large/2026/09/161623392aee13c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan posts $98mn C/A deficit in August 2026",
+   "url": "https://www.brecorder.com/news/40439780/pakistan-posts-98mn-ca-deficit-in-august-2026",
+   "source": "Business Recorder",
+   "published": "2026-09-16T12:27:44+00:00",
+   "summary": "Pakistan’s current account posted a deficit of $98 million in August 2026, data released by the State Bank of Pakistan (SBP) showed on Wednesday. The latest figure follows a deficit of $445 million recorded in July 2026 and a deficit of $324 million in August 2025. The deficit came from a significantly higher import bi…",
+   "image": "https://i.brecorder.com/large/2026/09/16170225d01af27.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PAC halts sugar export despite green light from advisory board",
    "url": "https://www.dawn.com/news/2030266/pac-halts-sugar-export-despite-green-light-from-advisory-board",
@@ -128,6 +154,59 @@
    "domestic": true
   },
   {
+   "title": "Finance Division rejects claims of SOE financial deterioration, cites Rs35.8bn net fiscal inflow",
+   "url": "https://www.brecorder.com/news/40439781/finance-division-rejects-claims-of-soe-financial-deterioration-cites-rs358bn-net-fiscal-inflow",
+   "source": "Business Recorder",
+   "published": "2026-09-16T12:47:57+00:00",
+   "summary": "The Finance Division on Wednesday pushed back against media interpretations linking a decline in net fiscal flow to a deterioration in the financial health of State-Owned Enterprises (SOEs), saying the two are “distinct measures” that should not be conflated. In a press release, the ministry said fiscal flows capture t…",
+   "image": "https://i.brecorder.com/large/2026/09/161747337b2190d.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Selling returns as KSE-100 loses nearly 1,400 points",
+   "url": "https://www.brecorder.com/news/40439733/psx-selling-returns-as-kse-100-loses-nearly-1400-points",
+   "source": "Business Recorder",
+   "published": "2026-09-16T12:43:36+00:00",
+   "summary": "Selling returned at the Pakistan Stock Exchange (PSX) amid escalating tensions in the Middle East, with the benchmark KSE-100 Index settling with a loss of nearly 1,400 points on Wednesday. The benchmark index initially showed strength, climbing towards the 169,000 level during early trading, but failed to sustain the …",
+   "image": "https://i.brecorder.com/large/2026/09/16102453664525d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee languishes at six-week low ahead of Fed outcome, RBI limits losses",
+   "url": "https://www.brecorder.com/news/40439779/indian-rupee-languishes-at-six-week-low-ahead-of-fed-outcome-rbi-limits-losses",
+   "source": "Business Recorder",
+   "published": "2026-09-16T12:03:15+00:00",
+   "summary": "MUMBAI: The Indian rupee slipped to its lowest since late July on Wednesday as strong dollar demand from local companies and expectations of a U.S. Federal Reserve rate hike later in the day weighed on the currency. Oil prices eased modestly but remained north of $100 per barrel with likely central bank intervention he…",
+   "image": "https://i.brecorder.com/large/2026/09/16170241ba47e28.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SECP proposes reforms to strengthen insurance guarantees",
+   "url": "https://www.brecorder.com/news/40439777/secp-proposes-reforms-to-strengthen-insurance-guarantees",
+   "source": "Business Recorder",
+   "published": "2026-09-16T11:24:32+00:00",
+   "summary": "The Securities and Exchange Commission of Pakistan (SECP) has proposed reforms to make insurance bonds and guarantees safer, clearer and more reliable, particularly for construction projects, government contracts, public procurement and trade. The proposed framework covers bid and performance bonds, mobilisation advanc…",
+   "image": "https://i.brecorder.com/large/2026/09/16162357d58d992.webp",
+   "topics": [
+    "Construction & projects",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Jordan issues new tender to buy up to 120,000 metric tons wheat",
    "url": "https://www.brecorder.com/news/40439767/jordan-issues-new-tender-to-buy-up-to-120000-metric-tons-wheat",
    "source": "Business Recorder",
@@ -160,19 +239,6 @@
    "published": "2026-09-16T07:09:29+00:00",
    "summary": "WorldCall Telecom Limited (WTL) has been placed back in the Pakistan Stock Exchange’s (PSX) Non-Compliant Segment effective September 16, after a court dismissed the company’s application seeking interim relief against regulatory action. The move follows an order issued by the court on September 11, 2026, dismissing WT…",
    "image": "https://i.brecorder.com/large/2026/09/16120623c408279.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Selling continues as KSE-100 sheds over 800 points",
-   "url": "https://www.brecorder.com/news/40439733/psx-selling-continues-as-kse-100-sheds-over-800-points",
-   "source": "Business Recorder",
-   "published": "2026-09-16T06:26:40+00:00",
-   "summary": "Selling continued at the Pakistan Stock Exchange (PSX) amid escalating tensions in the Middle East, with the benchmark KSE-100 Index shedding over 800 points on Wednesday. At 11:20am, the benchmark index was hovering at 168,534.86, down 857.46 points or 0.51%. Selling was observed in key sectors, including automobile a…",
-   "image": "https://i.brecorder.com/large/2026/09/16102453664525d.webp",
    "topics": [
     "Economy"
    ],
@@ -324,19 +390,6 @@
    "domestic": false
   },
   {
-   "title": "High prices choke LNG demand",
-   "url": "https://tribune.com.pk/story/2629505/high-prices-choke-lng-demand",
-   "source": "The Express Tribune",
-   "published": "2026-09-15T14:21:53+00:00",
-   "summary": "Pakistan, China and India cut use as prices jump to $30/MMBtu",
-   "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Policy rate status quo triggers PSX rebound",
    "url": "https://tribune.com.pk/story/2629509/policy-rate-status-quo-triggers-psx-rebound",
    "source": "The Express Tribune",
@@ -356,32 +409,6 @@
    "published": "2026-09-15T14:21:53+00:00",
    "summary": "Says IT exports hit $4.6b, digital gender divide narrows to 8%",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Most Gulf bourses in red on Houthi attack and Hormuz shipping slump",
-   "url": "https://www.brecorder.com/news/40439609/most-gulf-bourses-in-red-on-houthi-attack-and-hormuz-shipping-slump",
-   "source": "Business Recorder",
-   "published": "2026-09-15T14:03:20+00:00",
-   "summary": "Most Gulf stock markets closed lower on Tuesday, with Saudi shares posting the biggest losses, as a fresh Houthi attack and a sharp drop in shipping through the Strait of Hormuz heightened fears that the conflict could escalate further. Saudi Arabia’s benchmark index dropped 0.9%, weighed down by a 1.3% fall in Saudi A…",
-   "image": "https://i.brecorder.com/large/2026/09/151901514913c42.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "London shares slip as higher oil prices lift bond yields; BoE in focus",
-   "url": "https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-09-15T12:01:52+00:00",
-   "summary": "London shares slipped to two-month lows on Tuesday as rising oil prices pushed bond yields higher globally over inflation concerns, while investors assessed a batch of domestic economic data ahead of a central bank policy verdict later this week. The blue-chip FTSE 100 index fell 0.59% to 10,634.49 points by 1000 GMT, …",
-   "image": "https://i.brecorder.com/large/2026/09/1517010808c77f6.webp",
    "topics": [
     "Economy"
    ],
@@ -467,6 +494,19 @@
    "domestic": false
   },
   {
+   "title": "PSX closes lower as KSE-100 index dips over 1,300 points",
+   "url": "https://arynews.tv/psx-closes-lower-as-kse-100-index-dips-over-1300-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX closes lower as KSE-100 index dips over 1,300 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-2.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Kuwait seeks multi-billion dollar subterranean pipeline network to shield global crude market supplies",
    "url": "https://arynews.tv/kuwait-seeks-multi-billion-dollar-subterranean-pipeline-network-to-shield-global-crude-market-supplies",
    "source": "ARY News",
@@ -486,19 +526,6 @@
    "published": null,
    "summary": "Canadian dollar hits 12-day low as inflation data meets expectations",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Canadian-Dollar.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks fall sharply as KSE-100 index loses over 2,500 points",
-   "url": "https://arynews.tv/psx-stocks-fall-sharply-as-kse-100-index-loses-over-2500-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks fall sharply as KSE-100 index loses over 2,500 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PSX-downward-trend-1.jpg",
    "topics": [
     "Economy"
    ],
