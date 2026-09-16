@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T14:03:38+00:00",
+ "generated": "2026-09-16T18:06:47+00:00",
  "count": 619,
  "with_value": 600,
  "with_winner": 233,
@@ -11784,6 +11784,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003551",
+   "tender_no": "TS0000008255E",
+   "reference": "MNT/TE/033/2026",
+   "title": "Welding Electrodes Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Multan - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "M sharif & Company"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-16",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003551",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003550",
    "tender_no": "TS0000013206E",
@@ -50866,26 +50886,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001428",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001427",
-   "tender_no": "TS0000003510E",
-   "reference": "4342",
-   "title": "TENDER NO 4342 (PROCUREMENT D-Fuse Link with Fuse Specification (Amended to date) DDS-27:2005 & DDS-49:2009 Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "FICO HI-TECH (PVT) LTD"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-17",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001427",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

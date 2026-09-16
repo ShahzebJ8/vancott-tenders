@@ -1,20 +1,33 @@
 {
- "generated": "2026-09-16T14:03:43+00:00",
- "count": 40,
- "relevant_count": 10,
+ "generated": "2026-09-16T18:06:52+00:00",
+ "count": 43,
+ "relevant_count": 13,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (5)",
+  "The Express Tribune": "ok (6)",
   "ARY News": "ok (3)"
  },
  "stories": [
   {
+   "title": "Govt working to introduce virtual grid system, says power minister",
+   "url": "https://www.dawn.com/news/2030404/govt-working-to-introduce-virtual-grid-system-says-power-minister",
+   "source": "Dawn",
+   "published": "2026-09-16T16:46:54+00:00",
+   "summary": "ISLAMABAD: Power Minister Awais Leghari on Wednesday said the government was working to introduce a virtual grid system in the country, under which consumers would be able to generate and store electricity. Talking to the media after a National Assembly panel meeting, the minister said work on regulations for virtual g…",
+   "image": "https://i.dawn.com/large/2026/09/162125102b9cb61.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40439776/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-16T12:42:27+00:00",
+   "published": "2026-09-16T14:09:37+00:00",
    "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01%, against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.27, a gain of Re0.03 against the greenback. On Tuesday , the Pakistani rupee settled at 277.30 against the dollar. Internationally, the US dollar was hang…",
    "image": "https://i.brecorder.com/large/2026/09/161623392aee13c.webp",
    "topics": [
@@ -128,19 +141,6 @@
    "domestic": true
   },
   {
-   "title": "State Bank in tight spot over policy rate as inflation rises amid Gulf conflict",
-   "url": "https://www.dawn.com/news/2029588/state-bank-in-tight-spot-over-policy-rate-as-inflation-rises-amid-gulf-conflict",
-   "source": "Dawn",
-   "published": "2026-09-13T03:44:02+00:00",
-   "summary": "https://www.dawn.com/news/2029577/state-bank-in-tight-spot-as-inflation-rises",
-   "image": "https://i.dawn.com/large/2026/09/13084316dabb6b8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Islamabad seeks fair share in NFC",
    "url": "https://tribune.com.pk/story/2628422/islamabad-seeks-fair-share-in-nfc",
    "source": "The Express Tribune",
@@ -152,6 +152,84 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Army chief discusses defence technology cooperation with US firm POWERUS",
+   "url": "https://www.brecorder.com/news/40439798/army-chief-discusses-defence-technology-cooperation-with-us-firm-powerus",
+   "source": "Business Recorder",
+   "published": "2026-09-16T17:23:09+00:00",
+   "summary": "A delegation of US-based defence and critical infrastructure solutions company POWERUS, led by Robert Bret Velicovich, called on Chief of Defence Forces (CDF) Field Marshal Syed Asim Munir at General Headquarters (GHQ), Rawalpindi. According to a statement issued by the Inter-Services Public Relations (ISPR), matters o…",
+   "image": "https://i.brecorder.com/large/2026/09/16221716bbb12be.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Maritime minister seeks measures to ease textile exporters’ port issues",
+   "url": "https://www.brecorder.com/news/40439795/maritime-minister-seeks-measures-to-ease-textile-exporters-port-issues",
+   "source": "Business Recorder",
+   "published": "2026-09-16T15:25:05+00:00",
+   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry has directed relevant authorities to streamline customs and port procedures to reduce clearance delays and ensure shorter and more predictable transit times for textile exports. The minister was chairing a meeting on issues faced by textile exporters …",
+   "image": "https://i.brecorder.com/large/2026/09/16202427b8616d7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's NSE allots shares worth $703 million to anchor investors, sources say",
+   "url": "https://www.brecorder.com/news/40439796/indias-nse-allots-shares-worth-703-million-to-anchor-investors-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-09-16T15:22:51+00:00",
+   "summary": "The National Stock Exchange of India allocated shares worth 67.45 billion rupees ($702.93 million) to more than 100 anchor investors ahead of its initial public offering, people familiar with the matter said on Wednesday. India’s Life Insurance Corporation, Norway’s Norges Bank, Abu Dhabi’s sovereign wealth fund Abu Dh…",
+   "image": "https://i.brecorder.com/large/2026/09/1620222568b7657.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India considers cutting vegetable oil import taxes as prices climb",
+   "url": "https://www.brecorder.com/news/40439790/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb",
+   "source": "Business Recorder",
+   "published": "2026-09-16T14:57:19+00:00",
+   "summary": "NEW DELHI/MUMBAI: India, the world’s biggest vegetable oils importer, is considering lowering import taxes on the commodities to try to curb food inflation, two government and two industry sources said on Wednesday, as the peak demand festival season gets under way. Prices of vegetable oils in India have climbed by nea…",
+   "image": "https://i.brecorder.com/large/2026/09/16195646af703a8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nasdaq, S&P 500 climb ahead of keenly awaited Fed decision",
+   "url": "https://www.brecorder.com/news/40439789/nasdaq-sampp-500-climb-ahead-of-keenly-awaited-fed-decision",
+   "source": "Business Recorder",
+   "published": "2026-09-16T14:53:38+00:00",
+   "summary": "The Nasdaq Composite and the S&P 500 edged higher following a two-day slide, as lower oil prices offered some relief during a tense wait for the Federal Reserve’s interest rate decision on Wednesday. Energy stocks fell, while technology shares were mixed. Nvidia and Apple were up marginally. The rate move, scheduled to…",
+   "image": "https://i.brecorder.com/large/2026/09/1619532184700a4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper rises with signs of active demand from China",
+   "url": "https://www.brecorder.com/news/40439786/copper-rises-with-signs-of-active-demand-from-china",
+   "source": "Business Recorder",
+   "published": "2026-09-16T14:35:20+00:00",
+   "summary": "LONDON: Copper prices rose on Wednesday, supported by signs of active demand in top consumer China, though traders remained wary of potential volatility ahead of the U.S. Federal Reserve’s interest rate decision. Three-month copper on the London Metal Exchange gained 1.1% to $14,231 a metric ton in official open-outcry…",
+   "image": "https://i.brecorder.com/large/2026/09/16193503d580c3a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Finance Division rejects claims of SOE financial deterioration, cites Rs35.8bn net fiscal inflow",
@@ -207,6 +285,19 @@
    "domestic": false
   },
   {
+   "title": "PM Shehbaz holds review meeting for fuel subsidy scheme amid escalation in Gulf tensions, rising oil prices",
+   "url": "https://tribune.com.pk/story/2629672/pm-shehbaz-holds-review-meeting-for-fuel-subsidy-scheme-amid-escalation-in-gulf-tensions",
+   "source": "The Express Tribune",
+   "published": "2026-09-16T08:35:23+00:00",
+   "summary": "Directs the establishment of facilitation desks at petrol stations to assist eligible citizens in obtaining subsidy",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Jordan issues new tender to buy up to 120,000 metric tons wheat",
    "url": "https://www.brecorder.com/news/40439767/jordan-issues-new-tender-to-buy-up-to-120000-metric-tons-wheat",
    "source": "Business Recorder",
@@ -226,19 +317,6 @@
    "published": "2026-09-16T07:53:08+00:00",
    "summary": "LONDON: Britain’s annual inflation rate climbed in line with analysts’ expectations in August, official data showed Wednesday, as the Middle East war drove up fuel prices. The Consumer Prices Index rose 3.1 percent in the 12 months to August, up from 2.9 percent the previous month, the Office for National Statistics sa…",
    "image": "https://i.brecorder.com/large/2026/09/16125249728dee1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Worldcall placed in non-compliant segment after court dismisses plea",
-   "url": "https://www.brecorder.com/news/40439754/worldcall-placed-in-non-compliant-segment-after-court-dismisses-plea",
-   "source": "Business Recorder",
-   "published": "2026-09-16T07:09:29+00:00",
-   "summary": "WorldCall Telecom Limited (WTL) has been placed back in the Pakistan Stock Exchange’s (PSX) Non-Compliant Segment effective September 16, after a court dismissed the company’s application seeking interim relief against regulatory action. The move follows an order issued by the court on September 11, 2026, dismissing WT…",
-   "image": "https://i.brecorder.com/large/2026/09/16120623c408279.webp",
    "topics": [
     "Economy"
    ],
@@ -318,45 +396,6 @@
    "published": "2026-09-16T05:25:58+00:00",
    "summary": "BANGKOK: The Thai baht weakened against the US dollar on Wednesday. At 0214 GMT, the baht was 0.12% lower at 33.28 versus the dollar, after trading in a range of 33.290 to 33.345. It ended the previous session at 33.24 per dollar, as per LSEG data.",
    "image": "https://i.brecorder.com/large/2026/09/16102534e03691a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian central bank likely intervenes to support rupee, traders say",
-   "url": "https://www.brecorder.com/news/40439732/indian-central-bank-likely-intervenes-to-support-rupee-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-09-16T05:22:46+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Wednesday, three traders told Reuters, as elevated oil prices and a looming rate hike by the US Federal Reserve pressured the currency. The rupee was at 95.8725 per dollar, up 0.1% on the day after hitting its weakest level in more th…",
-   "image": "https://i.brecorder.com/large/2026/09/161022300d2c7bf.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee faces more pressure with likely Fed rate hike compounding oil pain",
-   "url": "https://www.brecorder.com/news/40439731/indian-rupee-faces-more-pressure-with-likely-fed-rate-hike-compounding-oil-pain",
-   "source": "Business Recorder",
-   "published": "2026-09-16T03:15:42+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to remain under pressure on Wednesday , with a Federal Reserve rate hike later in the day adding to ​the strain from high oil prices. The Indian rupee is expected to open ‌marginally weaker and is at risk of slipping past the 96 mark, traders said, after settling at 95.9550 to the dol…",
-   "image": "https://i.brecorder.com/large/2026/09/1608150441e6aeb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar girded by bets on a US hiking cycle",
-   "url": "https://www.brecorder.com/news/40439726/dollar-girded-by-bets-on-a-us-hiking-cycle",
-   "source": "Business Recorder",
-   "published": "2026-09-16T02:43:59+00:00",
-   "summary": "SINGAPORE: The dollar was hanging on to recent gains on ​Wednesday and trading near multi-week highs on a handful of major peers ahead of a Federal Reserve decision where traders expect ‌the first of what could be several US interest rate hikes. “A 25 basis-point increase is about 90% priced, implying the dollar will r…",
-   "image": "https://i.brecorder.com/large/2026/09/16074257522690e.webp",
    "topics": [
     "Economy"
    ],
@@ -494,6 +533,19 @@
    "domestic": false
   },
   {
+   "title": "Italy scraps road tax for most cars as election nears",
+   "url": "https://arynews.tv/italy-scraps-road-tax-for-most-cars-as-election-nears",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Italy scraps road tax for most cars as election nears",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Italian-Prime-Minister-Giorgia-Meloni.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "PSX closes lower as KSE-100 index dips over 1,300 points",
    "url": "https://arynews.tv/psx-closes-lower-as-kse-100-index-dips-over-1300-points",
    "source": "ARY News",
@@ -513,19 +565,6 @@
    "published": null,
    "summary": "Kuwait seeks multi-billion dollar subterranean pipeline network to shield global crude market supplies",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Kuwait-Pipe-line.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Canadian dollar hits 12-day low as inflation data meets expectations",
-   "url": "https://arynews.tv/canadian-dollar-hits-12-day-low-as-inflation-data-meets-expectations",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Canadian dollar hits 12-day low as inflation data meets expectations",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Canadian-Dollar.jpg",
    "topics": [
     "Economy"
    ],
