@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T14:07:59+00:00",
+ "generated": "2026-09-17T18:29:18+00:00",
  "count": 633,
  "with_value": 613,
  "with_winner": 240,
@@ -12050,6 +12050,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003581",
+   "tender_no": "TS0000012070E",
+   "reference": "P94327",
+   "title": "Procurment of Computer Hardware and IT equipment Equipments",
+   "organisation": "Wafaqi Mohtasib (Ombudsman) Secretariat Wafaqi Mohtasib Secretariat Islamabad - Pakistan",
+   "bid_count": 16,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-17",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003581",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003579",
    "tender_no": "TS0000012140E",
@@ -51161,24 +51179,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001462",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001460",
-   "tender_no": "TS0000008058E",
-   "reference": "PLL/IMP/LNGT69",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS Petroleum, Oil & Lubricants Ministry of Energy (Petroleum Division)",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-17",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001460",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

@@ -1,20 +1,46 @@
 {
- "generated": "2026-09-17T14:08:05+00:00",
- "count": 58,
- "relevant_count": 15,
- "domestic_count": 12,
+ "generated": "2026-09-17T18:29:24+00:00",
+ "count": 59,
+ "relevant_count": 16,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (13)",
   "Business Recorder": "ok (21)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (5)"
  },
  "stories": [
   {
+   "title": "SBP rejects reports of Rs10 banknote discontinuation as baseless",
+   "url": "https://www.brecorder.com/news/40439986/sbp-rejects-reports-of-rs10-banknote-discontinuation-as-baseless",
+   "source": "Business Recorder",
+   "published": "2026-09-17T15:26:58+00:00",
+   "summary": "The State Bank of Pakistan (SBP) on Thursday categorically rejected reports circulating on social media about the discontinuation of the Rs10 banknote and a purported last date for its exchange, calling the reports baseless and without substance. In a press release, the SBP said it has submitted a proposal for the intr…",
+   "image": "https://i.brecorder.com/large/2026/09/17202437a8309ba.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP-held forex reserves surge over $3bn to $21.3bn",
+   "url": "https://www.brecorder.com/news/40439985/sbp-held-forex-reserves-surge-over-3bn-to-213bn",
+   "source": "Business Recorder",
+   "published": "2026-09-17T15:09:32+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $3.061 billion to $21.389 billion during the week ended Sept. 11, 2026. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves stood at $26.791 billion as of Sept. 11, 2026. Of these, commercial …",
+   "image": "https://i.brecorder.com/large/2026/09/17200849542afae.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40439968/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-17T11:43:22+00:00",
+   "published": "2026-09-17T14:11:24+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.26, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.27 against the dollar. Internationally, the US dollar clung to a seven-week high o…",
    "image": "https://i.brecorder.com/large/2026/09/171612037bfe9e0.webp",
    "topics": [
@@ -141,19 +167,6 @@
    "domestic": true
   },
   {
-   "title": "Index tumbles 2,541 points on Mideast tensions",
-   "url": "https://www.dawn.com/news/2029991/index-tumbles-2541-points-on-mideast-tensions",
-   "source": "Dawn",
-   "published": "2026-09-15T02:32:54+00:00",
-   "summary": "KARACHI: Extending last week’s bearish trend, the Pakistan Stock Exch­an­­ge (PSX) on Monday continued its southward slide amid a worsening Middle East conflict, rising crude oil prices, and tighter supplies, all of which pose serious risks to the economic outlook as inflationary pressures soar, dragging the benchmark …",
-   "image": "https://i.dawn.com/large/2026/09/15030856a89d211.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Islamabad seeks fair share in NFC",
    "url": "https://tribune.com.pk/story/2628422/islamabad-seeks-fair-share-in-nfc",
    "source": "The Express Tribune",
@@ -165,6 +178,32 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Wall St rises as oil slide offers respite after Fed rate hike",
+   "url": "https://www.brecorder.com/news/40439991/wall-st-rises-as-oil-slide-offers-respite-after-fed-rate-hike",
+   "source": "Business Recorder",
+   "published": "2026-09-17T16:19:58+00:00",
+   "summary": "The major US stock indexes jumped on Thursday as retreating oil prices improved market sentiment, with the Federal Reserve’s first interest-rate hike under Chair Kevin Warsh underscoring the central bank’s commitment to managing inflation. The policy decision, which addressed a chronic source of unease,prompted investo…",
+   "image": "https://i.brecorder.com/large/2026/09/17211926dd6ef55.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Government, petroleum dealers reach agreement on fuel relief package",
+   "url": "https://www.brecorder.com/news/40439989/government-petroleum-dealers-reach-agreement-on-fuel-relief-package",
+   "source": "Business Recorder",
+   "published": "2026-09-17T15:55:20+00:00",
+   "summary": "The government and petroleum dealers on Thursday reached an agreement on the payment mechanism for the Rs100 per litre subsidy under the Petrol Relief Package, ending a deadlock that had threatened its implementation. The agreement was reached during an emergency meeting between the Ministry of Petroleum and the Pakist…",
+   "image": "https://i.brecorder.com/large/2026/09/17205321d581736.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Most Gulf bourses end higher as investors weigh Fed rate hike",
@@ -304,19 +343,6 @@
    "published": "2026-09-17T10:34:46+00:00",
    "summary": "Indian shares were little changed on Thursday as a U.S. rate hike and hawkish Federal Reserve commentary, elevated oil prices and a crowded IPO market offset bargain buying that followed the recent selloff. The $2.3 billion IPO for India’s biggest bourse, National Stock Exchange — also set to ‌be the country’s third-la…",
    "image": "https://i.brecorder.com/large/2026/09/171533562bbf3ef.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fed tightening may pressure PKR but rising oil remains bigger risk for Pakistan, warn experts",
-   "url": "https://www.brecorder.com/news/40439958/fed-tightening-may-pressure-pkr-but-rising-oil-remains-bigger-risk-for-pakistan-warn-experts",
-   "source": "Business Recorder",
-   "published": "2026-09-17T10:33:09+00:00",
-   "summary": "The US Federal Reserve’s 25-basis-point interest rate hike is unlikely to have a major immediate impact on Pakistan, market experts told Business Recorder , although it could put pressure on the rupee, raise dollar-based debt-servicing costs and make future external borrowing more expensive. The Federal Reserve on Wedn…",
-   "image": "https://i.brecorder.com/large/2026/09/171520318a547cc.webp",
    "topics": [
     "Economy"
    ],
@@ -538,19 +564,6 @@
    "published": "2026-09-17T03:04:38+00:00",
    "summary": "MUMBAI: The Indian rupee is expected to be under pressure on Thursday and could weaken past the 96-per-dollar handle after the US ​Federal Reserve raised interest rates and signalled that further tightening is ‌in the pipeline. The Indian rupee is expected to open slightly weaker around 96-96.05 per dollar, down from i…",
    "image": "https://i.brecorder.com/large/2026/09/17080315fb5e261.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares seen opening flat after Fed signals more hikes; NSE IPO in focus",
-   "url": "https://www.brecorder.com/news/40439914/indian-shares-seen-opening-flat-after-fed-signals-more-hikes-nse-ipo-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-09-17T03:01:05+00:00",
-   "summary": "Indian shares are set for a muted start on Thursday after the US Federal Reserve raised interest rates and signalled further hikes, while elevated crude prices and ​a busy primary market led by the National Stock Exchange of India’s IPO ‌opening are expected to weigh on sentiment. GIFT Nifty futures were trading around…",
-   "image": "https://i.brecorder.com/large/2026/09/17075940e8a1a90.webp",
    "topics": [
     "Economy"
    ],
