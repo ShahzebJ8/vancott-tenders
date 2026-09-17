@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T18:29:18+00:00",
+ "generated": "2026-09-17T21:39:26+00:00",
  "count": 633,
  "with_value": 613,
  "with_winner": 240,
@@ -12050,6 +12050,27 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003582",
+   "tender_no": "TS0000011962E",
+   "reference": "TCP/T&#38;R/Rice/Gambia/26-1/2026",
+   "title": "TENDER FOR PROCUREMENT OF 62,500 METRIC TONS +/- 5% MOLSO OF LONG GRAIN WHITE RICE (IRRI-6) 100% BROKEN DOUBLE POLISHED ON CIF FREE OUT DAKAR, SENEGAL AND BANJUL, THE GAMBIA BASIS IN BREAK BULK / CONTAINERIZED SHIPMENTS Food Items",
+   "organisation": "Trading Corporation of Pakistan (TCP) Trading Corporation of Pakistan (TCP) Karachi - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "JHULAY LAL PARBOILED RICE MILL",
+    "MESKAY & FEMTEE (PVT) LTD Trading Corporation of Pakistan (TCP)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-17",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003582",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003581",
    "tender_no": "TS0000012070E",
@@ -51159,26 +51180,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001463",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001462",
-   "tender_no": "TS0000008058E",
-   "reference": "PLL/IMP/LNGT69",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS Petroleum, Oil & Lubricants",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "BP Singapore"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-17",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001462",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

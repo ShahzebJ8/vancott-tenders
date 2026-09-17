@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-17T18:29:24+00:00",
+ "generated": "2026-09-17T21:39:32+00:00",
  "count": 59,
- "relevant_count": 16,
- "domestic_count": 13,
+ "relevant_count": 17,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (21)",
   "The Express Tribune": "ok (10)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "PM’s fuel subsidy scheme faces first-day hurdles at petrol pumps",
+   "url": "https://www.dawn.com/news/2030654/pms-fuel-subsidy-scheme-faces-first-day-hurdles-at-petrol-pumps",
+   "source": "Dawn",
+   "published": "2026-09-17T18:43:25+00:00",
+   "summary": "ISLAMABAD: The much-touted fuel subsidy scheme launched by the prime minister faced snags on Thursday, the first day of its nationwide rollout, as many petrol pumps declined to honour the digital app, claiming they lacked the system needed to provide petrol at Rs100 per litre less. After receiving several complaints in…",
+   "image": "https://i.dawn.com/large/2026/09/17225655b05e4b7.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "SBP rejects reports of Rs10 banknote discontinuation as baseless",
    "url": "https://www.brecorder.com/news/40439986/sbp-rejects-reports-of-rs10-banknote-discontinuation-as-baseless",
@@ -764,19 +777,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX closes lower as KSE-100 index dips over 1,300 points",
-   "url": "https://arynews.tv/psx-closes-lower-as-kse-100-index-dips-over-1300-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX closes lower as KSE-100 index dips over 1,300 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-2.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
