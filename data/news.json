@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-16T23:51:10+00:00",
- "count": 48,
- "relevant_count": 18,
- "domestic_count": 19,
+ "generated": "2026-09-17T03:08:38+00:00",
+ "count": 46,
+ "relevant_count": 13,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (15)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (6)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Sugar glut threatens crushing season, warns PSMA",
+   "url": "https://www.dawn.com/news/2030490/sugar-glut-threatens-crushing-season-warns-psma",
+   "source": "Dawn",
+   "published": "2026-09-17T02:04:58+00:00",
+   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) has demanded immediate permission to export at least one million tonnes of sugar, warning that the government’s failure to clear the surplus could force mills to delay the start of the 2026-27 crushing season. Addressing a press conference, PSMA Chairman Zaka Ashraf s…",
+   "image": "https://i.dawn.com/large/2026/09/17074335efbc053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Exports stuck around the USD30bn mark: LCCI chief",
    "url": "https://www.brecorder.com/news/40439844/exports-stuck-around-the-usd30bn-mark-lcci-chief",
@@ -59,61 +72,6 @@
    "image": "https://i.brecorder.com/large/2026/09/17012331c99f614.webp",
    "topics": [
     "Advertising & media"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Utilisation of funds: Panel seeks details on 200-unit subsidy",
-   "url": "https://www.brecorder.com/news/40439877/utilisation-of-funds-panel-seeks-details-on-200-unit-subsidy",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "ISLAMABAD: A National Assembly panel on Wednesday requested a detailed breakdown of the 200-unit subsidy, including how funds are utilised and who benefits. The committee also directed that electricity pricing, Independent Power Producer (IPP) agreements, and the current status of power sector negotiations be added to …",
-   "image": "https://i.brecorder.com/large/2026/09/17013458994e6f5.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "VTTI and Honeywell UOP: Investment scope, upgradation of refinery sector discussed",
-   "url": "https://www.brecorder.com/news/40439878/vtti-and-honeywell-uop-investment-scope-upgradation-of-refinery-sector-discussed",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Petroleum Ali Pervaiz Malik held separate meetings with senior representatives of VTTI and Honeywell UOP on Wednesday to discuss investment opportunities, energy infrastructure development and the upgradation of Pakistan’s refinery sector. During his meeting with a delegation of VTTI, a …",
-   "image": "https://i.brecorder.com/large/2026/09/17013543130da72.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "TCP receives nine bids for wheat import",
-   "url": "https://www.brecorder.com/news/40439881/tcp-receives-nine-bids-for-wheat-import",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "KARACHI: The Trading Corporation of Pakistan (TCP) has received nine responsive bids, ranging from USD 348.83 to USD 369.95 per metric tonne, for the import of 656,000 metric tonnes of wheat against the tender quantity of 750,000 metric tonnes for domestic consumption. Overall, some 13 parties participated in the tende…",
-   "image": "https://i.brecorder.com/large/2026/09/170139231fe0632.webp",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "2MFY27: C/A deficit narrows 36pc",
-   "url": "https://www.brecorder.com/news/40439882/2mfy27-ca-deficit-narrows-36pc",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "KARACHI: The country’s current account deficit has narrowed sharply 36 percent in the first two months (July – August) of fiscal year 2026-27 supported by healthy home remittances inflows. According to the State Bank of Pakistan (SBP) data issued on Wednesday, the current account posted a deficit of USD 543 million dur…",
-   "image": "https://i.brecorder.com/large/2026/09/17014039248375d.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
    ],
    "relevant": true,
    "domestic": true
@@ -260,6 +218,97 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Hawkish Fed adds to Indian rupee troubles, traders watch 96/USD hurdle",
+   "url": "https://www.brecorder.com/news/40439915/hawkish-fed-adds-to-indian-rupee-troubles-traders-watch-96usd-hurdle",
+   "source": "Business Recorder",
+   "published": "2026-09-17T03:04:38+00:00",
+   "summary": "MUMBAI: The Indian rupee is expected to be under pressure on Thursday and could weaken past the 96-per-dollar handle after the US ​Federal Reserve raised interest rates and signalled that further tightening is ‌in the pipeline. The Indian rupee is expected to open slightly weaker around 96-96.05 per dollar, down from i…",
+   "image": "https://i.brecorder.com/large/2026/09/17080315fb5e261.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares seen opening flat after Fed signals more hikes; NSE IPO in focus",
+   "url": "https://www.brecorder.com/news/40439914/indian-shares-seen-opening-flat-after-fed-signals-more-hikes-nse-ipo-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-09-17T03:01:05+00:00",
+   "summary": "Indian shares are set for a muted start on Thursday after the US Federal Reserve raised interest rates and signalled further hikes, while elevated crude prices and ​a busy primary market led by the National Stock Exchange of India’s IPO ‌opening are expected to weigh on sentiment. GIFT Nifty futures were trading around…",
+   "image": "https://i.brecorder.com/large/2026/09/17075940e8a1a90.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ",
+   "url": "https://www.brecorder.com/news/40439913/hawkish-fed-lifts-dollar-to-seven-week-high-as-focus-turn-to-boj",
+   "source": "Business Recorder",
+   "published": "2026-09-17T02:57:58+00:00",
+   "summary": "HONG KONG: The dollar clung to a seven-week high on Thursday after the ​Federal Reserve raised interest rates and flagged more hikes in coming months, while investors awaited ‌decisions from the Bank of England later and the Bank of Japan on Friday. The dollar ripped higher alongside US Treasury yields, after new centr…",
+   "image": "https://i.brecorder.com/large/2026/09/170754073ac96d4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises over 1% as investors digest Fed hike, oil rally stalls",
+   "url": "https://www.brecorder.com/news/40439912/gold-rises-over-1-as-investors-digest-fed-hike-oil-rally-stalls",
+   "source": "Business Recorder",
+   "published": "2026-09-17T02:53:04+00:00",
+   "summary": "Gold prices rose more than 1% on Thursday ‌ as investors digested the US Federal Reserve’s interest rate hike and its signal that further policy tightening may follow, while an earlier rally in oil prices lost momentum. Spot gold was up 1.1% at $4,310.49 per ​ounce, as of 0149 GMT, after hitting a near six-week low on …",
+   "image": "https://i.brecorder.com/large/2026/09/17075232c92cc41.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Shares tick higher as Fed hikes rates, dollar jumps with short-term yields",
+   "url": "https://www.brecorder.com/news/40439911/shares-tick-higher-as-fed-hikes-rates-dollar-jumps-with-short-term-yields",
+   "source": "Business Recorder",
+   "published": "2026-09-17T02:49:28+00:00",
+   "summary": "SYDNEY: Shares edged up in Asia on Thursday as investors bet the Federal Reserve is finally getting the jump on ​inflation, delivering its first rate hike in more than three years and calming a global bond selloff that had ‌sent long-term yields soaring. The US dollar hit a seven-week high against its major peers, unde…",
+   "image": "https://i.brecorder.com/large/2026/09/170748368fa4e52.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM wants facilitation desks to help people buy subsidised fuel",
+   "url": "https://www.dawn.com/news/2030562/pm-wants-facilitation-desks-to-help-people-buy-subsidised-fuel",
+   "source": "Dawn",
+   "published": "2026-09-17T02:31:31+00:00",
+   "summary": "https://www.dawn.com/news/2030506",
+   "image": "https://i.dawn.com/large/2026/09/1707354087dd8fb.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "US Fed delivers first rate hike since 2023",
+   "url": "https://www.dawn.com/news/2030491/us-fed-delivers-first-rate-hike-since-2023",
+   "source": "Dawn",
+   "published": "2026-09-17T02:04:58+00:00",
+   "summary": "WASHINGTON: The US Federal Reserve on Wednesday raised interest rates in the world’s largest economy by 25 basis points to tackle stubbornly high inflation, a move sure to anger President Donald Trump, who has demanded lower rates. The Fed’s Federal Open Market Committee voted unanimously to raise rates to between 3.75…",
+   "image": "https://i.dawn.com/large/2026/09/17033929c96df3c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
@@ -419,46 +468,6 @@
    "domestic": false
   },
   {
-   "title": "Japan bond yield curve twist-steepens ahead of Fed decision",
-   "url": "https://www.brecorder.com/news/40439739/japan-bond-yield-curve-twist-steepens-ahead-of-fed-decision",
-   "source": "Business Recorder",
-   "published": "2026-09-16T05:37:33+00:00",
-   "summary": "TOKYO: Japan’s government bond yields moved in opposite directions on Wednesday, as fiscal concerns and higher oil prices fuelled inflation worries ahead of the US Federal Reserve’s policy decision. The yield curve, which tracks borrowing costs across different bond maturities, twist-steepened as yields on five- and 10…",
-   "image": "https://i.brecorder.com/large/2026/09/1610371889aeac8.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India bonds seen under strain before Fed decision as oil, global yields rise",
-   "url": "https://www.brecorder.com/news/40439738/india-bonds-seen-under-strain-before-fed-decision-as-oil-global-yields-rise",
-   "source": "Business Recorder",
-   "published": "2026-09-16T05:35:31+00:00",
-   "summary": "MUMBAI: Indian government bonds may edge lower early Wednesday as higher crude prices and global yields curb demand ahead of the US Federal Reserve’s policy decision, with a rate hike likely to reinforce RBI tightening bets after elevated inflation. The benchmark 6.94% 2036 bond yield is expected to trade between 7.05%…",
-   "image": "https://i.brecorder.com/large/2026/09/1610351947b05b4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan holds ground ahead of Fed outcome",
-   "url": "https://www.brecorder.com/news/40439736/chinas-yuan-holds-ground-ahead-of-fed-outcome",
-   "source": "Business Recorder",
-   "published": "2026-09-16T05:31:33+00:00",
-   "summary": "SHANGHAI: China’s yuan steadied against the dollar on Wednesday despite a much-strengthened official guidance rate set by the central bank, as investors stayed on the sidelines ahead of the Federal Reserve’s policy outcome due later in the day. The dollar clung to recent gains and traded near multi-week highs against a…",
-   "image": "https://i.brecorder.com/large/2026/09/1610311229d7a28.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "GB unveils Rs218.8bn budget after long wait",
    "url": "https://www.dawn.com/news/2030284/gb-unveils-rs2188bn-budget-after-long-wait",
    "source": "Dawn",
@@ -517,45 +526,6 @@
    "published": "2026-09-15T02:47:15+00:00",
    "summary": "https://www.dawn.com/news/2029995",
    "image": "https://i.dawn.com/large/2026/09/150715207c3b1b5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Brent crude at $107 per barrel following new strikes on Saudi Arabia, Strait of Hormuz",
-   "url": "https://www.dawn.com/news/2029863/brent-crude-at-107-per-barrel-following-new-strikes-on-saudi-arabia-strait-of-hormuz",
-   "source": "Dawn",
-   "published": "2026-09-14T09:13:57+00:00",
-   "summary": "Oil prices rose about three per cent on Monday, after new strikes on Saudi Arabian energy and civilian infrastructure and Iranian attacks on ships in the Gulf compounded supply concerns following the closure of a key Saudi oil pipeline. Brent crude futures climbed $2.93, or 2.8pc, to $107.54 per barrel at 0700 GMT (12p…",
-   "image": "https://i.dawn.com/large/2026/09/1414030890b067d.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Strengthening the solar ecosystem",
-   "url": "https://www.dawn.com/news/2029540/strengthening-the-solar-ecosystem",
-   "source": "Dawn",
-   "published": "2026-09-14T02:56:35+00:00",
-   "summary": "Pakistan should start building a recycling industry for solar panels and batteries now rather than wait for the first large wave of end-of-life equipment to become a waste-management problem. Speaking to Dawn during a recent visit to Pakistan, Global Solar Council (GSC) chief executive Sonia Dunlop said the country’s r…",
-   "image": "https://i.dawn.com/large/2026/09/14075611530a04f.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Building a stronger maritime future",
-   "url": "https://www.dawn.com/news/2029680/building-a-stronger-maritime-future",
-   "source": "Dawn",
-   "published": "2026-09-14T02:54:30+00:00",
-   "summary": "For Pakistan, maritime trade is a national economic lifeline. Energy supplies, imports and exports, industrial production and regional connectivity all depend on the uninterrupted functioning of the maritime and logistics system. However, the security environment around Pakistan is changing. The question Pakistan must …",
-   "image": "https://i.dawn.com/large/2026/09/140754115a9b654.webp",
    "topics": [
     "Economy"
    ],
