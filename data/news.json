@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-16T21:34:58+00:00",
- "count": 44,
- "relevant_count": 14,
- "domestic_count": 12,
+ "generated": "2026-09-16T23:51:10+00:00",
+ "count": 48,
+ "relevant_count": 18,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,114 @@
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Exports stuck around the USD30bn mark: LCCI chief",
+   "url": "https://www.brecorder.com/news/40439844/exports-stuck-around-the-usd30bn-mark-lcci-chief",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "LAHORE: The Lahore Chamber of Commerce & Industry (LCCI) organized a seminar on “Export Documentation and FBR Regulatory Requirements” to create awareness among the business community about regulatory procedures, documentation, compliance requirements and the need for a facilitation-oriented approach by government inst…",
+   "image": "https://i.brecorder.com/large/2026/09/170105176665384.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PSMA says surplus sugar may delay crushing season",
+   "url": "https://www.brecorder.com/news/40439851/psma-says-surplus-sugar-may-delay-crushing-season",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) on Wednesday warned that failure to allow the export of one million tons of surplus sugar could delay the start of the next crushing season, putting both farmers and sugar mills under pressure. The association said timely disposal of the surplus stock was essential to…",
+   "image": "https://i.brecorder.com/large/2026/09/170109358fa1375.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "CAP calls for allowing private sector to import wheat",
+   "url": "https://www.brecorder.com/news/40439862/cap-calls-for-allowing-private-sector-to-import-wheat",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "KARACHI: The Cereal Association of Pakistan (CAP) has urged the government and the relevant Standing Committee to immediately allow the private sector to import wheat to avert a potential shortage and prevent further increases in domestic wheat prices. CAP acknowledges the federal government’s efforts to imports wheat …",
+   "image": "https://i.brecorder.com/large/2026/09/17011739403f7e2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Mediavest named the No 1 Agency at Dragons of Pakistan",
+   "url": "https://www.brecorder.com/news/40439864/mediavest-named-the-no-1-agency-at-dragons-of-pakistan",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "KARACHI: Mediavest, the media agency of Brainchild Communications Pakistan, has been named the No. 1 Agency at the Dragons of Pakistan 2026, marking a significant achievement for the agency and its teams. The recognition comes in a year that saw increased participation from agencies and clients, making the competition …",
+   "image": "https://i.brecorder.com/large/2026/09/17012331c99f614.webp",
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Utilisation of funds: Panel seeks details on 200-unit subsidy",
+   "url": "https://www.brecorder.com/news/40439877/utilisation-of-funds-panel-seeks-details-on-200-unit-subsidy",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "ISLAMABAD: A National Assembly panel on Wednesday requested a detailed breakdown of the 200-unit subsidy, including how funds are utilised and who benefits. The committee also directed that electricity pricing, Independent Power Producer (IPP) agreements, and the current status of power sector negotiations be added to …",
+   "image": "https://i.brecorder.com/large/2026/09/17013458994e6f5.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "VTTI and Honeywell UOP: Investment scope, upgradation of refinery sector discussed",
+   "url": "https://www.brecorder.com/news/40439878/vtti-and-honeywell-uop-investment-scope-upgradation-of-refinery-sector-discussed",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Petroleum Ali Pervaiz Malik held separate meetings with senior representatives of VTTI and Honeywell UOP on Wednesday to discuss investment opportunities, energy infrastructure development and the upgradation of Pakistan’s refinery sector. During his meeting with a delegation of VTTI, a …",
+   "image": "https://i.brecorder.com/large/2026/09/17013543130da72.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "TCP receives nine bids for wheat import",
+   "url": "https://www.brecorder.com/news/40439881/tcp-receives-nine-bids-for-wheat-import",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "KARACHI: The Trading Corporation of Pakistan (TCP) has received nine responsive bids, ranging from USD 348.83 to USD 369.95 per metric tonne, for the import of 656,000 metric tonnes of wheat against the tender quantity of 750,000 metric tonnes for domestic consumption. Overall, some 13 parties participated in the tende…",
+   "image": "https://i.brecorder.com/large/2026/09/170139231fe0632.webp",
+   "topics": [
+    "Procurement",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "2MFY27: C/A deficit narrows 36pc",
+   "url": "https://www.brecorder.com/news/40439882/2mfy27-ca-deficit-narrows-36pc",
+   "source": "Business Recorder",
+   "published": "2026-09-16T21:47:53+00:00",
+   "summary": "KARACHI: The country’s current account deficit has narrowed sharply 36 percent in the first two months (July – August) of fiscal year 2026-27 supported by healthy home remittances inflows. According to the State Bank of Pakistan (SBP) data issued on Wednesday, the current account posted a deficit of USD 543 million dur…",
+   "image": "https://i.brecorder.com/large/2026/09/17014039248375d.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Petroleum dealers demand govt devise mechanism for fuel subsidy reimbursement",
    "url": "https://www.dawn.com/news/2030414/petroleum-dealers-demand-govt-devise-mechanism-for-fuel-subsidy-reimbursement",
@@ -43,19 +151,6 @@
    "published": "2026-09-16T14:09:37+00:00",
    "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01%, against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.27, a gain of Re0.03 against the greenback. On Tuesday , the Pakistani rupee settled at 277.30 against the dollar. Internationally, the US dollar was hang…",
    "image": "https://i.brecorder.com/large/2026/09/161623392aee13c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan posts $98mn C/A deficit in August 2026",
-   "url": "https://www.brecorder.com/news/40439780/pakistan-posts-98mn-ca-deficit-in-august-2026",
-   "source": "Business Recorder",
-   "published": "2026-09-16T12:27:44+00:00",
-   "summary": "Pakistan’s current account posted a deficit of $98 million in August 2026, data released by the State Bank of Pakistan (SBP) showed on Wednesday. The latest figure follows a deficit of $445 million recorded in July 2026 and a deficit of $324 million in August 2025. The deficit came from a significantly higher import bi…",
-   "image": "https://i.brecorder.com/large/2026/09/16170225d01af27.webp",
    "topics": [
     "Economy"
    ],
@@ -167,6 +262,19 @@
    "domestic": true
   },
   {
+   "title": "Fed raises rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+   "url": "https://www.brecorder.com/news/40439909/fed-raises-rates-in-search-of-timelier-drop-in-inflation-sees-more-tightening-ahead",
+   "source": "Business Recorder",
+   "published": "2026-09-16T23:22:48+00:00",
+   "summary": "WASHINGTON: The Federal Reserve raised interest rates on Wednesday and flagged more hikes in the coming months, with new U.S. central bank chief Kevin Warsh joining a unanimous decision that effectively acknowledges the Trump administration’s inability so far to control inflation that policymakers worry could worsen. W…",
+   "image": "https://i.brecorder.com/large/2026/09/170421492e8a49b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Fed hikes rates, sees more tightening in search of 'timelier' drop in inflation",
    "url": "https://www.brecorder.com/news/40439801/fed-hikes-rates-sees-more-tightening-in-search-of-timelier-drop-in-inflation",
    "source": "Business Recorder",
@@ -180,51 +288,12 @@
    "domestic": false
   },
   {
-   "title": "Army chief discusses defence technology cooperation with US firm POWERUS",
-   "url": "https://www.brecorder.com/news/40439798/army-chief-discusses-defence-technology-cooperation-with-us-firm-powerus",
-   "source": "Business Recorder",
-   "published": "2026-09-16T17:23:09+00:00",
-   "summary": "A delegation of US-based defence and critical infrastructure solutions company POWERUS, led by Robert Bret Velicovich, called on Chief of Defence Forces (CDF) Field Marshal Syed Asim Munir at General Headquarters (GHQ), Rawalpindi. According to a statement issued by the Inter-Services Public Relations (ISPR), matters o…",
-   "image": "https://i.brecorder.com/large/2026/09/16221716bbb12be.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Maritime minister seeks measures to ease textile exporters’ port issues",
-   "url": "https://www.brecorder.com/news/40439795/maritime-minister-seeks-measures-to-ease-textile-exporters-port-issues",
-   "source": "Business Recorder",
-   "published": "2026-09-16T15:25:05+00:00",
-   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry has directed relevant authorities to streamline customs and port procedures to reduce clearance delays and ensure shorter and more predictable transit times for textile exports. The minister was chairing a meeting on issues faced by textile exporters …",
-   "image": "https://i.brecorder.com/large/2026/09/16202427b8616d7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "India's NSE allots shares worth $703 million to anchor investors, sources say",
    "url": "https://www.brecorder.com/news/40439796/indias-nse-allots-shares-worth-703-million-to-anchor-investors-sources-say",
    "source": "Business Recorder",
    "published": "2026-09-16T15:22:51+00:00",
    "summary": "The National Stock Exchange of India allocated shares worth 67.45 billion rupees ($702.93 million) to more than 100 anchor investors ahead of its initial public offering, people familiar with the matter said on Wednesday. India’s Life Insurance Corporation, Norway’s Norges Bank, Abu Dhabi’s sovereign wealth fund Abu Dh…",
    "image": "https://i.brecorder.com/large/2026/09/1620222568b7657.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India considers cutting vegetable oil import taxes as prices climb",
-   "url": "https://www.brecorder.com/news/40439790/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb",
-   "source": "Business Recorder",
-   "published": "2026-09-16T14:57:19+00:00",
-   "summary": "NEW DELHI/MUMBAI: India, the world’s biggest vegetable oils importer, is considering lowering import taxes on the commodities to try to curb food inflation, two government and two industry sources said on Wednesday, as the peak demand festival season gets under way. Prices of vegetable oils in India have climbed by nea…",
-   "image": "https://i.brecorder.com/large/2026/09/16195646af703a8.webp",
    "topics": [
     "Economy"
    ],
@@ -255,19 +324,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Finance Division rejects claims of SOE financial deterioration, cites Rs35.8bn net fiscal inflow",
-   "url": "https://www.brecorder.com/news/40439781/finance-division-rejects-claims-of-soe-financial-deterioration-cites-rs358bn-net-fiscal-inflow",
-   "source": "Business Recorder",
-   "published": "2026-09-16T12:47:57+00:00",
-   "summary": "The Finance Division on Wednesday pushed back against media interpretations linking a decline in net fiscal flow to a deterioration in the financial health of State-Owned Enterprises (SOEs), saying the two are “distinct measures” that should not be conflated. In a press release, the ministry said fiscal flows capture t…",
-   "image": "https://i.brecorder.com/large/2026/09/161747337b2190d.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -403,19 +459,6 @@
    "domestic": false
   },
   {
-   "title": "Thai baht/US dollar weaker on Wednesday",
-   "url": "https://www.brecorder.com/news/40439734/thai-bahtus-dollar-weaker-on-wednesday",
-   "source": "Business Recorder",
-   "published": "2026-09-16T05:25:58+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Wednesday. At 0214 GMT, the baht was 0.12% lower at 33.28 versus the dollar, after trading in a range of 33.290 to 33.345. It ended the previous session at 33.24 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/16102534e03691a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "GB unveils Rs218.8bn budget after long wait",
    "url": "https://www.dawn.com/news/2030284/gb-unveils-rs2188bn-budget-after-long-wait",
    "source": "Dawn",
@@ -543,6 +586,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India considers cutting vegetable oil import taxes as prices climb",
+   "url": "https://arynews.tv/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb",
+   "source": "ARY News",
+   "published": null,
+   "summary": "India considers cutting vegetable oil import taxes as prices climb",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/India-vegetable-oil.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
