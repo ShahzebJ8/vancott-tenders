@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-17T03:08:38+00:00",
- "count": 46,
- "relevant_count": 13,
- "domestic_count": 16,
+ "generated": "2026-09-17T08:53:44+00:00",
+ "count": 48,
+ "relevant_count": 12,
+ "domestic_count": 10,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (6)",
-  "ARY News": "ok (4)"
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (22)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
@@ -21,59 +21,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Exports stuck around the USD30bn mark: LCCI chief",
-   "url": "https://www.brecorder.com/news/40439844/exports-stuck-around-the-usd30bn-mark-lcci-chief",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "LAHORE: The Lahore Chamber of Commerce & Industry (LCCI) organized a seminar on “Export Documentation and FBR Regulatory Requirements” to create awareness among the business community about regulatory procedures, documentation, compliance requirements and the need for a facilitation-oriented approach by government inst…",
-   "image": "https://i.brecorder.com/large/2026/09/170105176665384.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PSMA says surplus sugar may delay crushing season",
-   "url": "https://www.brecorder.com/news/40439851/psma-says-surplus-sugar-may-delay-crushing-season",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) on Wednesday warned that failure to allow the export of one million tons of surplus sugar could delay the start of the next crushing season, putting both farmers and sugar mills under pressure. The association said timely disposal of the surplus stock was essential to…",
-   "image": "https://i.brecorder.com/large/2026/09/170109358fa1375.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "CAP calls for allowing private sector to import wheat",
-   "url": "https://www.brecorder.com/news/40439862/cap-calls-for-allowing-private-sector-to-import-wheat",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "KARACHI: The Cereal Association of Pakistan (CAP) has urged the government and the relevant Standing Committee to immediately allow the private sector to import wheat to avert a potential shortage and prevent further increases in domestic wheat prices. CAP acknowledges the federal government’s efforts to imports wheat …",
-   "image": "https://i.brecorder.com/large/2026/09/17011739403f7e2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Mediavest named the No 1 Agency at Dragons of Pakistan",
-   "url": "https://www.brecorder.com/news/40439864/mediavest-named-the-no-1-agency-at-dragons-of-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-16T21:47:53+00:00",
-   "summary": "KARACHI: Mediavest, the media agency of Brainchild Communications Pakistan, has been named the No. 1 Agency at the Dragons of Pakistan 2026, marking a significant achievement for the agency and its teams. The recognition comes in a year that saw increased participation from agencies and clients, making the competition …",
-   "image": "https://i.brecorder.com/large/2026/09/17012331c99f614.webp",
-   "topics": [
-    "Advertising & media"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -98,19 +45,6 @@
    "image": "https://i.dawn.com/large/2026/09/162125102b9cb61.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40439776/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-16T14:09:37+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01%, against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.27, a gain of Re0.03 against the greenback. On Tuesday , the Pakistani rupee settled at 277.30 against the dollar. Internationally, the US dollar was hang…",
-   "image": "https://i.brecorder.com/large/2026/09/161623392aee13c.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -194,19 +128,6 @@
    "domestic": true
   },
   {
-   "title": "SBP keeps interest rate unchanged at 11.5pc",
-   "url": "https://www.dawn.com/news/2029831/sbp-keeps-interest-rate-unchanged-at-115pc",
-   "source": "Dawn",
-   "published": "2026-09-14T14:08:28+00:00",
-   "summary": "The State Bank of Pakistan’s (SBP) Monetary Policy Committee (MPC) on Monday kept the key policy rate unchanged at 11.5 per cent. The decision comes as prolonged tensions in the Middle East drive up global oil prices and fuel inflation . In a detailed statement, the MPC said it decided to keep the policy rate unchanged…",
-   "image": "https://i.dawn.com/large/2026/09/14095952b2b4eac.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Islamabad seeks fair share in NFC",
    "url": "https://tribune.com.pk/story/2628422/islamabad-seeks-fair-share-in-nfc",
    "source": "The Express Tribune",
@@ -218,6 +139,175 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "South African rand firms as stable commodities offset Fed tightening signal",
+   "url": "https://www.brecorder.com/news/40439945/south-african-rand-firms-as-stable-commodities-offset-fed-tightening-signal",
+   "source": "Business Recorder",
+   "published": "2026-09-17T08:31:36+00:00",
+   "summary": "JOHANNESBURG: The South African rand strengthened in early trading on Thursday, supported by stable ​commodity prices after the US Federal Reserve ‌raised interest rates and signalled that further monetary tightening may follow. At 0807 GMT the rand traded at 16.3050 ​against the dollar , about 0.6% stronger than ​its …",
+   "image": "https://i.brecorder.com/large/2026/09/171331276afae20.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "RDA inflows rise as regional conflict prompts strategic fund relocation: Aurangzeb",
+   "url": "https://www.brecorder.com/news/40439941/rda-inflows-rise-as-regional-conflict-prompts-strategic-fund-relocation-aurangzeb",
+   "source": "Business Recorder",
+   "published": "2026-09-17T08:11:52+00:00",
+   "summary": "The inflows from Roshan Digital Account have risen to nearly $300 million from more than $200 million previously, partly driven by strategic relocation of funds amid regional conflict, Finance Minister Muhammad Aurangzeb said. The minister gave his remarks while addressing the Remittance and Roshan Digital Account (RDA…",
+   "image": "https://i.brecorder.com/large/2026/09/1713112949f5ff3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 up nearly 1,300 points",
+   "url": "https://www.brecorder.com/news/40439921/psx-kse-100-up-nearly-1300-points",
+   "source": "Business Recorder",
+   "published": "2026-09-17T07:30:24+00:00",
+   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 1,300 points during the trading session on Thursday. At 12pm, the benchmark index was hovering at 169,303.71, up by 1,281.91 points or 0.76%. Buying was observed in key sectors, including automobile assemb…",
+   "image": "https://i.brecorder.com/large/2026/09/17104559aa034bd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian bonds seen declining as Fed hike could pressure RBI to mirror move",
+   "url": "https://www.brecorder.com/news/40439937/indian-bonds-seen-declining-as-fed-hike-could-pressure-rbi-to-mirror-move",
+   "source": "Business Recorder",
+   "published": "2026-09-17T07:26:05+00:00",
+   "summary": "MUMBAI: Indian government bonds are set to decline on Thursday, as the US Federal Reserve hiked interest rates for the first time since July 2023, which could pressure the domestic central bank to follow suit as it battles rising inflation. The benchmark 6.94% 2036 bond yield is expected to trade between 7.05% and 7.10…",
+   "image": "https://i.brecorder.com/large/2026/09/17122557ffd26cb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Thursday",
+   "url": "https://www.brecorder.com/news/40439935/thai-bahtus-dollar-weaker-on-thursday",
+   "source": "Business Recorder",
+   "published": "2026-09-17T07:13:40+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Thursday. At 0244 GMT, the baht was 0.15% lower at 33.40 versus the dollar, after trading in a range of 33.380 to 33.470. It ended the previous session at 33.35 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/171213297391865.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm retreats from 21-month high on stock outlook, weak exports",
+   "url": "https://www.brecorder.com/news/40439934/palm-retreats-from-21-month-high-on-stock-outlook-weak-exports",
+   "source": "Business Recorder",
+   "published": "2026-09-17T07:10:34+00:00",
+   "summary": "JAKARTA: [Malaysian palm oil futures]( https://palm oil) pulled back from a 21-month high on Thursday to trade little changed, pressured by weak exports and expectations that stocks could rise this month. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange was down 2 ringgit…",
+   "image": "https://i.brecorder.com/large/2026/09/171210149bc1e0f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China, HK benchmarks slip as gold stocks fall on US rate hike",
+   "url": "https://www.brecorder.com/news/40439931/china-hk-benchmarks-slip-as-gold-stocks-fall-on-us-rate-hike",
+   "source": "Business Recorder",
+   "published": "2026-09-17T06:53:56+00:00",
+   "summary": "HONG KONG: China and Hong Kong stock benchmarks declined on Thursday, with rate-sensitive sectors, including gold, non-ferrous metals and properties, slipping after the US raised interest rates for the first time in three years. China’s blue-chip CSI300 Index and the Shanghai Composite Index dipped 0.4% each by the lun…",
+   "image": "https://i.brecorder.com/large/2026/09/17115239623b988.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korea shares rise as Fed rate hike eases uncertainty",
+   "url": "https://www.brecorder.com/news/40439930/south-korea-shares-rise-as-fed-rate-hike-eases-uncertainty",
+   "source": "Business Recorder",
+   "published": "2026-09-17T06:44:38+00:00",
+   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Thursday even as the US raised interest rates for the first time since 2023 as Federal Reserve Chair Kevin Warsh’s resolve to tackle inflation eased some uncertainties. The won weakened, while the benchmark bond yield fell. The benchmark KOS…",
+   "image": "https://i.brecorder.com/large/2026/09/171144268828f6a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan inches higher as midpoint rate firmer despite US rate hike",
+   "url": "https://www.brecorder.com/news/40439929/chinas-yuan-inches-higher-as-midpoint-rate-firmer-despite-us-rate-hike",
+   "source": "Business Recorder",
+   "published": "2026-09-17T06:40:53+00:00",
+   "summary": "HONG KONG: China’s yuan rose slightly against the US dollar on Thursday as the central bank lifted the midpoint fixing to another 3-1/2-month high despite a jump in the greenback after the Federal Reserve raised interest rates. The dollar clung to a seven-week high on Thursday after the Fed raised interest rates by a q…",
+   "image": "https://i.brecorder.com/large/2026/09/171140305230bf9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australia, NZ dollars nurse losses as markets wager on hawkish Fed",
+   "url": "https://www.brecorder.com/news/40439927/australia-nz-dollars-nurse-losses-as-markets-wager-on-hawkish-fed",
+   "source": "Business Recorder",
+   "published": "2026-09-17T06:32:41+00:00",
+   "summary": "SYDNEY: The Australian and New Zealand dollars languished near multi-week lows on Thursday as wagers on additional hikes in US interest rates buoyed the greenback and reinforced expectations of further policy tightening at home. The US Federal Reserve raised rates by 25 basis points, as expected, while also projecting …",
+   "image": "https://i.brecorder.com/large/2026/09/17113217c3ce117.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korea’s MFG tenders for up to 140,000 tons corn, traders say",
+   "url": "https://www.brecorder.com/news/40439924/south-koreas-mfg-tenders-for-up-to-140000-tons-corn-traders-say",
+   "source": "Business Recorder",
+   "published": "2026-09-17T05:51:58+00:00",
+   "summary": "HAMBURG: South Korea’s Major Feedmill Group (MFG) has issued an international tender to purchase up to 140,000 metric tons of animal feed corn, European traders said on Thursday. The corn is sought for arrival in South Korea in January 2027 in two consignments of 55,000 to 70,000 tons. Chicago corn edges higher as trad…",
+   "image": "https://i.brecorder.com/large/2026/09/17105149d802419.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Fiscal consolidation delivering results, says Aurangzeb as govt courts investors in London",
+   "url": "https://www.brecorder.com/news/40439919/fiscal-consolidation-delivering-results-says-aurangzeb-as-govt-courts-investors-in-london",
+   "source": "Business Recorder",
+   "published": "2026-09-17T05:00:25+00:00",
+   "summary": "Pakistan’s fiscal consolidation is delivering results through a primary surplus, deficit compression and stronger revenue mobilisation, Finance Minister Muhammad Aurangzeb said, as the government sought to attract international investment at a roundtable with leading investors and global financial firms. The remarks ca…",
+   "image": "https://i.brecorder.com/large/2026/09/17095923ce33b2d.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Goldman Sachs now sees Fed hiking again in October",
+   "url": "https://www.brecorder.com/news/40439917/goldman-sachs-now-sees-fed-hiking-again-in-october",
+   "source": "Business Recorder",
+   "published": "2026-09-17T03:10:59+00:00",
+   "summary": "SYDNEY: Goldman Sachs now expects ​the US Federal ‌Reserve to raise interest rates by ​25 basis points ​at its October policy ⁠meeting, adding ​a further hike to ​its September call. In a note, the Wall ​Street bank said ​October was the most ‌likely ⁠time for the next move, because it was most ​natural ​to ⁠deliver hi…",
+   "image": "https://i.brecorder.com/large/2026/09/170810212340987.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Hawkish Fed adds to Indian rupee troubles, traders watch 96/USD hurdle",
@@ -337,6 +427,72 @@
    "domestic": false
   },
   {
+   "title": "Jul-Aug C/A deficit stands at $543m",
+   "url": "https://tribune.com.pk/story/2629726/jul-aug-ca-deficit-stands-at-543m",
+   "source": "The Express Tribune",
+   "published": "2026-09-16T15:47:25+00:00",
+   "summary": "Narrows 36% in 2MFY27 as remittances cover wider goods trade gap",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Foreign investment sought in energy infrastructure",
+   "url": "https://tribune.com.pk/story/2629728/foreign-investment-sought-in-energy-infrastructure",
+   "source": "The Express Tribune",
+   "published": "2026-09-16T15:47:25+00:00",
+   "summary": "VTTI, Honeywell eye capital flow into advanced refining technology",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Directives issued to address delay in goods clearance",
+   "url": "https://tribune.com.pk/story/2629732/directives-issued-to-address-delay-in-goods-clearance",
+   "source": "The Express Tribune",
+   "published": "2026-09-16T15:47:25+00:00",
+   "summary": "Minister stresses improvement in transit time for textile exports",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX stays in red amid oil supply disruptions",
+   "url": "https://tribune.com.pk/story/2629735/psx-stays-in-red-amid-oil-supply-disruptions",
+   "source": "The Express Tribune",
+   "published": "2026-09-16T15:47:25+00:00",
+   "summary": "KSE-100 index sheds 1,371 points on persistent selling pressure",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Millers seek to export 1m tonnes of sugar",
+   "url": "https://tribune.com.pk/story/2629733/millers-seek-to-export-1m-tonnes-of-sugar",
+   "source": "The Express Tribune",
+   "published": "2026-09-16T15:47:25+00:00",
+   "summary": "Call for immediate issuance of export order, taking into account IMF recommendations, the prime minister's committee",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "India's NSE allots shares worth $703 million to anchor investors, sources say",
    "url": "https://www.brecorder.com/news/40439796/indias-nse-allots-shares-worth-703-million-to-anchor-investors-sources-say",
    "source": "Business Recorder",
@@ -356,111 +512,6 @@
    "published": "2026-09-16T14:53:38+00:00",
    "summary": "The Nasdaq Composite and the S&P 500 edged higher following a two-day slide, as lower oil prices offered some relief during a tense wait for the Federal Reserve’s interest rate decision on Wednesday. Energy stocks fell, while technology shares were mixed. Nvidia and Apple were up marginally. The rate move, scheduled to…",
    "image": "https://i.brecorder.com/large/2026/09/1619532184700a4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper rises with signs of active demand from China",
-   "url": "https://www.brecorder.com/news/40439786/copper-rises-with-signs-of-active-demand-from-china",
-   "source": "Business Recorder",
-   "published": "2026-09-16T14:35:20+00:00",
-   "summary": "LONDON: Copper prices rose on Wednesday, supported by signs of active demand in top consumer China, though traders remained wary of potential volatility ahead of the U.S. Federal Reserve’s interest rate decision. Three-month copper on the London Metal Exchange gained 1.1% to $14,231 a metric ton in official open-outcry…",
-   "image": "https://i.brecorder.com/large/2026/09/16193503d580c3a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee languishes at six-week low ahead of Fed outcome, RBI limits losses",
-   "url": "https://www.brecorder.com/news/40439779/indian-rupee-languishes-at-six-week-low-ahead-of-fed-outcome-rbi-limits-losses",
-   "source": "Business Recorder",
-   "published": "2026-09-16T12:03:15+00:00",
-   "summary": "MUMBAI: The Indian rupee slipped to its lowest since late July on Wednesday as strong dollar demand from local companies and expectations of a U.S. Federal Reserve rate hike later in the day weighed on the currency. Oil prices eased modestly but remained north of $100 per barrel with likely central bank intervention he…",
-   "image": "https://i.brecorder.com/large/2026/09/16170241ba47e28.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SECP proposes reforms to strengthen insurance guarantees",
-   "url": "https://www.brecorder.com/news/40439777/secp-proposes-reforms-to-strengthen-insurance-guarantees",
-   "source": "Business Recorder",
-   "published": "2026-09-16T11:24:32+00:00",
-   "summary": "The Securities and Exchange Commission of Pakistan (SECP) has proposed reforms to make insurance bonds and guarantees safer, clearer and more reliable, particularly for construction projects, government contracts, public procurement and trade. The proposed framework covers bid and performance bonds, mobilisation advanc…",
-   "image": "https://i.brecorder.com/large/2026/09/16162357d58d992.webp",
-   "topics": [
-    "Construction & projects",
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz holds review meeting for fuel subsidy scheme amid escalation in Gulf tensions, rising oil prices",
-   "url": "https://tribune.com.pk/story/2629672/pm-shehbaz-holds-review-meeting-for-fuel-subsidy-scheme-amid-escalation-in-gulf-tensions",
-   "source": "The Express Tribune",
-   "published": "2026-09-16T08:35:23+00:00",
-   "summary": "Directs the establishment of facilitation desks at petrol stations to assist eligible citizens in obtaining subsidy",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Jordan issues new tender to buy up to 120,000 metric tons wheat",
-   "url": "https://www.brecorder.com/news/40439767/jordan-issues-new-tender-to-buy-up-to-120000-metric-tons-wheat",
-   "source": "Business Recorder",
-   "published": "2026-09-16T08:20:59+00:00",
-   "summary": "HAMBURG: Jordan’s state grain buyer has issued an international tender to buy up to 120,000 metric tons of milling wheat which can be sourced from optional origins, European traders said on Wednesday. The deadline for submission of price offers in the tender is September 22. A new announcement had been anticipated by t…",
-   "image": "https://i.brecorder.com/large/2026/09/16132047c0cdb4f.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "UK inflation jumps to 3.1% in August as fuel prices rise",
-   "url": "https://www.brecorder.com/news/40439759/uk-inflation-jumps-to-31-in-august-as-fuel-prices-rise",
-   "source": "Business Recorder",
-   "published": "2026-09-16T07:53:08+00:00",
-   "summary": "LONDON: Britain’s annual inflation rate climbed in line with analysts’ expectations in August, official data showed Wednesday, as the Middle East war drove up fuel prices. The Consumer Prices Index rose 3.1 percent in the 12 months to August, up from 2.9 percent the previous month, the Office for National Statistics sa…",
-   "image": "https://i.brecorder.com/large/2026/09/16125249728dee1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper bounces from 3-week low; Fed decision in focus",
-   "url": "https://www.brecorder.com/news/40439745/copper-bounces-from-3-week-low-fed-decision-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-09-16T06:15:13+00:00",
-   "summary": "Copper rose marginally from a more-than-three-week low on Wednesday, even as investors expect the US Federal Reserve to hike interest rates later in the day. Three-month copper on the London Metal Exchange rose 0.53% to $14,158 a metric ton by 0330 GMT, after touching $13,926 on Tuesday. The most-traded copper contract…",
-   "image": "https://i.brecorder.com/large/2026/09/161114561c82167.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan August imports jump as oil prices lift costs, exports stay firm",
-   "url": "https://www.brecorder.com/news/40439744/japan-august-imports-jump-as-oil-prices-lift-costs-exports-stay-firm",
-   "source": "Business Recorder",
-   "published": "2026-09-16T06:13:40+00:00",
-   "summary": "TOKYO: Japan posted its largest increase in imports in nearly four years in August as higher oil prices lifted energy costs, while exports rose for a 12th month on resilient semiconductor-related demand, government data showed on Wednesday. Total imports by value grew 28% from a year earlier in August, the largest incr…",
-   "image": "https://i.brecorder.com/large/2026/09/16111242ae3add8.gif",
    "topics": [
     "Economy"
    ],
@@ -491,32 +542,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Policy rate status quo triggers PSX rebound",
-   "url": "https://tribune.com.pk/story/2629509/policy-rate-status-quo-triggers-psx-rebound",
-   "source": "The Express Tribune",
-   "published": "2026-09-15T14:21:53+00:00",
-   "summary": "Index gains 1,422 points; investors return taking cue from global markets",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Iqbal sets $1tr digital goal for 2035",
-   "url": "https://tribune.com.pk/story/2629508/iqbal-sets-1tr-digital-goal-for-2035",
-   "source": "The Express Tribune",
-   "published": "2026-09-15T14:21:53+00:00",
-   "summary": "Says IT exports hit $4.6b, digital gender divide narrows to 8%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
