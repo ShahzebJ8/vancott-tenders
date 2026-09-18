@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-18T16:59:14+00:00",
- "count": 49,
+ "generated": "2026-09-18T19:28:43+00:00",
+ "count": 50,
  "relevant_count": 11,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (6)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (6)"
  },
  "stories": [
@@ -258,6 +258,19 @@
     "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "New US sanctions bill on Russia puts India's Modi in a bind",
+   "url": "https://tribune.com.pk/story/2630079/new-us-sanctions-bill-on-russia-puts-indias-modi-in-a-bind",
+   "source": "The Express Tribune",
+   "published": "2026-09-18T11:02:10+00:00",
+   "summary": "Cutting Russian oil could raise fuel prices, while maintaining imports risks crippling exports to the US",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {

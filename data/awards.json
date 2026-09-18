@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T16:58:57+00:00",
+ "generated": "2026-09-18T19:28:36+00:00",
  "count": 635,
  "with_value": 615,
  "with_winner": 242,
@@ -12088,6 +12088,44 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003611",
+   "tender_no": "TS0000003839E",
+   "reference": "HCP/FGPC(PGMI)-II/ME-260311-1/P26",
+   "title": "PROCUREMENT OF URODYNAMIC SYSTEM (PACKAGE NO. 26) ON DDP BASIS FOR ESTABLISHMENT OF FEDERAL GOVERNMENT POLYCLINIC (PGMI)-II AT G-11/3, ISLAMABAD Equipments",
+   "organisation": "Government of Punjab Infrastructure Development Authority of the Punjab (IDAP) Head Office Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "KASBN International"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-18",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003611",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003610",
+   "tender_no": "TS0000005076E",
+   "reference": "HCP/FGPC(PGMI)-II/ME-260406-1/P20B",
+   "title": "PROCUREMENT OF ESWL LITHOTRIPTER (PACKAGE NO. 20, LOT-B) ON DAP BASIS FOR ESTABLISHMENT OF FEDERAL GOVERNMENT POLYCLINIC (PGMI)-II AT G-11/3, ISLAMABAD Equipments Government of Punjab",
+   "organisation": "Government of Punjab Infrastructure Development Authority of the Punjab (IDAP) Head Office Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-18",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003610",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003609",
    "tender_no": "TS0000008878E",
@@ -51169,46 +51207,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001501",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001500",
-   "tender_no": "TS0000004904E",
-   "reference": "FST/TE/032/26",
-   "title": "Electrical Appliances Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Faisalabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Supply House Traders, Faisalabad, Azmat Traders & GOS, Faisalabad"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-18",
-   "city": "Faisalabad",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001500",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001499",
-   "tender_no": "TS0000004869E",
-   "reference": "LED/033/26",
-   "title": "WHITE PAPER 80 GRAMS Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Lahore - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Jamal & Brothers, Islamabad"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-18",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001499",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
