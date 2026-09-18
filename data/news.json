@@ -1,37 +1,37 @@
 {
- "generated": "2026-09-18T02:56:23+00:00",
- "count": 51,
- "relevant_count": 14,
- "domestic_count": 13,
+ "generated": "2026-09-18T07:59:00+00:00",
+ "count": 46,
+ "relevant_count": 9,
+ "domestic_count": 10,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (20)",
-  "The Express Tribune": "ok (10)",
-  "ARY News": "ok (4)"
+  "The Express Tribune": "ok (5)",
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "Burns Road to become modern food street: CS",
-   "url": "https://www.brecorder.com/news/40440064/burns-road-to-become-modern-food-street-cs",
-   "source": "Business Recorder",
-   "published": "2026-09-18T01:16:40+00:00",
-   "summary": "KARACHI: The Chief Secretary of Sindh, Asif Hyder Shah, has said that Burns Road would be converted into a modern, well-organised and attractive food street. He said this during a visit to Burns Road and its adjoining areas to inspect ongoing development, road construction, rehabilitation and beautification work. Durin…",
-   "image": "https://i.brecorder.com/large/2026/09/18061637eb65dd4.webp",
+   "title": "Stocks stage partial recovery on select buying",
+   "url": "https://www.dawn.com/news/2030748/stocks-stage-partial-recovery-on-select-buying",
+   "source": "Dawn",
+   "published": "2026-09-18T03:22:41+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Thursday attracted renewed buying interest in select sectors, helping the benchmark KSE-100 index partially recover overnight losses, despite persistent uncertainty on the economic front due to geopolitical concerns amid elevated crude oil prices. Topline Securities Ltd sa…",
+   "image": "https://i.dawn.com/large/2026/09/18082055140cb7d.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": true
   },
   {
-   "title": "SBP urges customers to remain vigilant against online frauds",
-   "url": "https://www.brecorder.com/news/40440059/sbp-urges-customers-to-remain-vigilant-against-online-frauds",
-   "source": "Business Recorder",
-   "published": "2026-09-18T01:08:23+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has urged customers to remain vigilant against suspicious messages and calls involving payments or transactions and never share their account PINs, passwords, or debit and credit card details with anyone. While speaking at a conference titled 24th Future Banking Summit & Expo 2…",
-   "image": "https://i.brecorder.com/large/2026/09/18060816816469a.webp",
+   "title": "Bids for power firms being evaluated",
+   "url": "https://www.dawn.com/news/2030751/bids-for-power-firms-being-evaluated",
+   "source": "Dawn",
+   "published": "2026-09-18T02:10:08+00:00",
+   "summary": "ISLAMABAD: The National Assembly Standing Committee on Privatisation was informed on Thursday that the evaluation of interested parties was at an advanced stage for the sale of 51 per cent to 100 per cent shareholding, along with management control, in each electricity distribution company (Disco). Committee Chairman D…",
+   "image": "https://i.dawn.com/large/2026/09/1808155192eb92c.webp",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -141,43 +141,213 @@
    "domestic": true
   },
   {
-   "title": "PM Shehbaz orders measures for bringing Pakistani exports up to global standards",
-   "url": "https://www.dawn.com/news/2030104/pm-shehbaz-orders-measures-for-bringing-pakistani-exports-up-to-global-standards",
-   "source": "Dawn",
-   "published": "2026-09-15T09:15:38+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Tuesday directed that effective measures be taken to bring the quality of Pakistani products up to international standards to enhance national exports. He issued the directives while chairing a review meeting in Islamabad on enhancing exports and accelerating economic growth. according …",
-   "image": "https://i.dawn.com/large/2026/09/15132919a27df1c.webp",
+   "title": "PSX: Buying continues, KSE-100 up over 1,800 points",
+   "url": "https://www.brecorder.com/news/40440103/psx-buying-continues-kse-100-up-over-1800-points",
+   "source": "Business Recorder",
+   "published": "2026-09-18T07:22:42+00:00",
+   "summary": "Buying momentum continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,800 points during the first half of trading on Friday. At 12pm, the benchmark index was hovering at 170,865.77, up 1,822.58 points or 1.08%. Buying interest was observed in key sectors, including automobile a…",
+   "image": "https://i.brecorder.com/large/2026/09/180954353b66fcc.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Economic Coordination Com­mittee allows 0.2m tonnes of sugar export",
-   "url": "https://www.dawn.com/news/2029998/economic-coordination-committee-allows-02m-tonnes-of-sugar-export",
-   "source": "Dawn",
-   "published": "2026-09-15T02:52:37+00:00",
-   "summary": "ISLAMABAD: The Economic Coordination Com­mittee (ECC) of the cabinet on Monday approved the export of 200,000 tonnes of sugar. The ECC meeting, presided over by Finance Minister Muhammad Aurangzeb, also cleared a Rs3 billion grant to purchase 15 bulletproof sedans for deployment during the upcoming Shanghai Cooperation…",
-   "image": "https://i.dawn.com/large/2026/09/15075022aecb7d1.webp",
+   "title": "China's August refined fuel exports exceed pre-Iran war levels, jet fuel exports hit record high",
+   "url": "https://www.brecorder.com/news/40440124/chinas-august-refined-fuel-exports-exceed-pre-iran-war-levels-jet-fuel-exports-hit-record-high",
+   "source": "Business Recorder",
+   "published": "2026-09-18T06:46:09+00:00",
+   "summary": "BEIJING: China’s exports of refined oil products in August rose 12.7% year-on-year amid the Iran war, with jet fuel exports hitting a record high, customs data showed on Friday. China, a key exporter of refined oil products in Asia, restricted exports of refined products, including diesel, gasoline and jet fuel, in mid…",
+   "image": "https://i.brecorder.com/large/2026/09/18114550a5a95ca.gif",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Islamabad seeks fair share in NFC",
-   "url": "https://tribune.com.pk/story/2628422/islamabad-seeks-fair-share-in-nfc",
-   "source": "The Express Tribune",
-   "published": "2026-09-09T15:19:54+00:00",
-   "summary": "Gillani says fiscal constraints affecting development, women's equal participation key",
-   "image": null,
+   "title": "Moody's raises India fiscal 2027 GDP growth forecast to 7% on Middle East resilience",
+   "url": "https://www.brecorder.com/news/40440123/moodys-raises-india-fiscal-2027-gdp-growth-forecast-to-7-on-middle-east-resilience",
+   "source": "Business Recorder",
+   "published": "2026-09-18T06:43:59+00:00",
+   "summary": "Credit ratings agency Moody’s on Friday raised India’s real GDP growth forecast to 7% from 6% for the current fiscal, citing its resilience amid the Middle East conflict. “Although we continue to expect India to grow faster than all other G-20 economies, as well as similarly rated emerging market sovereigns, risks rema…",
+   "image": "https://i.brecorder.com/large/2026/09/1811431659821d4.webp",
    "topics": [
-    "Budget & spending"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Copper set for weekly gain as China demand offsets US policy pressure",
+   "url": "https://www.brecorder.com/news/40440120/copper-set-for-weekly-gain-as-china-demand-offsets-us-policy-pressure",
+   "source": "Business Recorder",
+   "published": "2026-09-18T06:36:22+00:00",
+   "summary": "Copper was set to end the week higher on Friday , as stronger physical demand in China helped withstand pressure from US tariff uncertainty and higher interest rates. Three-month copper on the London Metal Exchange slipped 0.2% to $14,467.50 a metric ton by 0331 GMT, but was on track to gain around 1.6% for the week. T…",
+   "image": "https://i.brecorder.com/large/2026/09/181136024f7529b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Malaysian king allows jailed ex-PM Najib Razak to serve term under house arrest",
+   "url": "https://www.brecorder.com/news/40440119/malaysian-king-allows-jailed-ex-pm-najib-razak-to-serve-term-under-house-arrest",
+   "source": "Business Recorder",
+   "published": "2026-09-18T06:33:51+00:00",
+   "summary": "KUALA LUMPUR: Malaysia’s king agreed on Friday to allow jailed former premier Najib Razak to serve the remainder of his sentence under house arrest, the prime minister’s legal department said, four years after he was convicted for his involvement in a multi-billion-dollar financial scandal. Najib, 73, who was prime min…",
+   "image": "https://i.brecorder.com/large/2026/09/1811332269b242e.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar stronger on Friday",
+   "url": "https://www.brecorder.com/news/40440115/thai-bahtus-dollar-stronger-on-friday",
+   "source": "Business Recorder",
+   "published": "2026-09-18T06:18:25+00:00",
+   "summary": "BANGKOK: The Thai baht slightly strengthened against the US dollar on Friday. At 0212 GMT, the baht was 0.1% higher at 33.24 versus the dollar, after trading in a range of 33.250 to 33.305. It ended the previous session at 33.2725 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/1811175351c5b69.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Malaysia's August exports rise 45.5% y/y, above forecast",
+   "url": "https://www.brecorder.com/news/40440112/malaysias-august-exports-rise-455-yy-above-forecast",
+   "source": "Business Recorder",
+   "published": "2026-09-18T05:52:33+00:00",
+   "summary": "KUALA LUMPUR: Malaysia’s exports rose 45.5% year on year in August, higher than expectations, government data showed on Friday. August exports had been expected to grow 37.9%, according to 14 economists surveyed by Reuters . Imports in August grew 41.1% from a year earlier, data from the statistics department showed. M…",
+   "image": "https://i.brecorder.com/large/2026/09/1810520234eba7b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar lifted by RBA hawks, kiwi belly flops",
+   "url": "https://www.brecorder.com/news/40440111/australian-dollar-lifted-by-rba-hawks-kiwi-belly-flops",
+   "source": "Business Recorder",
+   "published": "2026-09-18T05:49:57+00:00",
+   "summary": "SYDNEY: The Australian dollar bounced on Friday after the country’s central bank again sounded hawkish on inflation and interest rates, while its New Zealand counterpart seemed set for a fourth straight week of losses. Appearing before lawmakers, Reserve Bank of Australia Governor Michele Bullock emphasised that upside…",
+   "image": "https://i.brecorder.com/large/2026/09/18104942c2887b9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's offshore yuan hits strongest in four years ahead of Trump-Xi meeting",
+   "url": "https://www.brecorder.com/news/40440108/chinas-offshore-yuan-hits-strongest-in-four-years-ahead-of-trump-xi-meeting",
+   "source": "Business Recorder",
+   "published": "2026-09-18T05:42:39+00:00",
+   "summary": "SHANGHAI: China’s offshore yuan on Friday hit the strongest level against the dollar in four years, as traders bet this week’s US rate hike has not derailed the yuan’s appreciation cycle. In the onshore market, the yuan strengthened about 0.15% and is on track for its third straight weekly gain, as traders await next w…",
+   "image": "https://i.brecorder.com/large/2026/09/181042215230bf9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares rise as RBA governor warns inflation risks materialising",
+   "url": "https://www.brecorder.com/news/40440106/australian-shares-rise-as-rba-governor-warns-inflation-risks-materialising",
+   "source": "Business Recorder",
+   "published": "2026-09-18T05:37:42+00:00",
+   "summary": "Australian shares climbed on Friday , buoyed by mining stocks riding stronger commodity prices, while the central bank governor warned inflation risks were materialising and traders held onto bets of further tightening later this month. The S&P/ASX 200 index rose 0.3% to 8760.6 points as of 0002 GMT, extending gains to…",
+   "image": "https://i.brecorder.com/large/2026/09/181037114f8e43d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold edges higher on lower oil prices, subdued dollar",
+   "url": "https://www.brecorder.com/news/40440105/gold-edges-higher-on-lower-oil-prices-subdued-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-18T05:35:02+00:00",
+   "summary": "Gold inched higher on Friday as lower oil prices and a subdued US dollar offered support, while market participants kept their focus on developments in the Middle East and the outlook for global monetary policy. Spot gold was up 0.2% at $4,346.65 per ounce, as of 0145 GMT. US gold futures were down 0.3% at $4,385.70. O…",
+   "image": "https://i.brecorder.com/large/2026/09/181034291dcc5f2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP rejects rumours about phasing out Rs10 banknote",
+   "url": "https://www.dawn.com/news/2030822/sbp-rejects-rumours-about-phasing-out-rs10-banknote",
+   "source": "Dawn",
+   "published": "2026-09-18T03:14:17+00:00",
+   "summary": "https://www.dawn.com/news/2030752",
+   "image": "https://i.dawn.com/large/2026/09/1808120784b8489.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "BOJ raises interest rates to 31-year high in widely expected move",
+   "url": "https://www.brecorder.com/news/40440100/boj-raises-interest-rates-to-31-year-high-in-widely-expected-move",
+   "source": "Business Recorder",
+   "published": "2026-09-18T03:10:29+00:00",
+   "summary": "TOKYO: The Bank of Japan raised ​interest rates to a ‌31-year high of 1.25% on Friday in a ​widely expected move ​to forestall risks of inflation ⁠overshooting its 2% ​inflation target. At a two-day ​policy meeting that ended on Friday, the board decided ​by a 7-2 ​vote to raise its policy rate ‌from ⁠1%. Board member …",
+   "image": "https://i.brecorder.com/large/2026/09/180810093de4cbe.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee may find breathing room on IPO-linked inflows, oil retreat",
+   "url": "https://www.brecorder.com/news/40440098/indian-rupee-may-find-breathing-room-on-ipo-linked-inflows-oil-retreat",
+   "source": "Business Recorder",
+   "published": "2026-09-18T03:02:41+00:00",
+   "summary": "MUMBAI: The Indian rupee is set to open modestly stronger on Friday , soothed by a retreat in oil prices and expectations ​of foreign portfolio inflows linked to a large initial public offering, ‌though the currency remains on track for a weekly decline. Oil prices eased on ​Friday , extending losses into a third sessi…",
+   "image": "https://i.brecorder.com/large/2026/09/180802044b7ebcd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
+   "url": "https://www.brecorder.com/news/40440097/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj",
+   "source": "Business Recorder",
+   "published": "2026-09-18T02:59:22+00:00",
+   "summary": "SINGAPORE: Asian stocks rose and the dollar held its ground on ​Friday as investors contended with global policymakers ramping up efforts to rein in inflation, with a dip in oil prices ‌improving sentiment ahead of an expected rate hike from the Bank of Japan. Monetary policy response is in focus this week as the over …",
+   "image": "https://i.brecorder.com/large/2026/09/1807561725b8013.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen weak ahead of BOJ decision; rate hike expected",
+   "url": "https://www.brecorder.com/news/40440096/yen-weak-ahead-of-boj-decision-rate-hike-expected",
+   "source": "Business Recorder",
+   "published": "2026-09-18T02:55:06+00:00",
+   "summary": "SINGAPORE: The yen got off ​to a weak start against the dollar and the euro at the start of Asian trading ‌on Friday , with currency markets in a subdued mood ahead of an expected rate hike from the Bank of Japan later in the trading session. The yen fell 0.1% to 156.19 yen per dollar, resuming its decline after snappi…",
+   "image": "https://i.brecorder.com/large/2026/09/18075150cda3f88.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan among nations worst-hit by LNG shortages due to Hormuz closure: report",
@@ -206,12 +376,12 @@
    "domestic": false
   },
   {
-   "title": "Most Gulf bourses end higher as investors weigh Fed rate hike",
-   "url": "https://www.brecorder.com/news/40439982/most-gulf-bourses-end-higher-as-investors-weigh-fed-rate-hike",
-   "source": "Business Recorder",
-   "published": "2026-09-17T14:05:37+00:00",
-   "summary": "Most Gulf bourses closed higher on Thursday despite mounting geopolitical friction, as investors weighed the U.S. Federal Reserve’s first interest rate hike in more than three years. Most Gulf Cooperation Council central banks raised their benchmark rates after the US Fed’s quarter-point increase on Wednesday. Regional…",
-   "image": "https://i.brecorder.com/large/2026/09/17190504f3bdfff.webp",
+   "title": "PSX rebounds over 1,000 points on oil price fall",
+   "url": "https://tribune.com.pk/story/2629937/psx-rebounds-over-1000-points-on-oil-price-fall",
+   "source": "The Express Tribune",
+   "published": "2026-09-17T16:01:36+00:00",
+   "summary": "Buying returns to KSE-100 index, led by energy and bank stocks",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -219,12 +389,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 gains over 1,000 points",
-   "url": "https://www.brecorder.com/news/40439921/psx-kse-100-gains-over-1000-points",
+   "title": "Most Gulf bourses end higher as investors weigh Fed rate hike",
+   "url": "https://www.brecorder.com/news/40439982/most-gulf-bourses-end-higher-as-investors-weigh-fed-rate-hike",
    "source": "Business Recorder",
-   "published": "2026-09-17T13:28:36+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index settling with a gain of over 1,000 points on Thursday. The benchmark index initially came under pressure, falling sharply in early trading towards the intraday low of 168,222.91, before recovering steadily through the la…",
-   "image": "https://i.brecorder.com/large/2026/09/17104559aa034bd.webp",
+   "published": "2026-09-17T14:05:37+00:00",
+   "summary": "Most Gulf bourses closed higher on Thursday despite mounting geopolitical friction, as investors weighed the U.S. Federal Reserve’s first interest rate hike in more than three years. Most Gulf Cooperation Council central banks raised their benchmark rates after the US Fed’s quarter-point increase on Wednesday. Regional…",
+   "image": "https://i.brecorder.com/large/2026/09/17190504f3bdfff.webp",
    "topics": [
     "Economy"
    ],
@@ -271,214 +441,6 @@
    "domestic": false
   },
   {
-   "title": "Indian rupee ends flat as RBI intervention, portfolio flows blunt Fed hike impact",
-   "url": "https://www.brecorder.com/news/40439955/indian-rupee-ends-flat-as-rbi-intervention-portfolio-flows-blunt-fed-hike-impact",
-   "source": "Business Recorder",
-   "published": "2026-09-17T10:21:19+00:00",
-   "summary": "MUMBAI: The Indian rupee ended flat on Thursday, bucking declines in most regional peers, as likely central bank intervention and inflows related to an equity index rebalancing helped cushion the impact from a US interest rate hike. The Indian rupee closed at 95.93 against the dollar, barely changed from Wednesday’s cl…",
-   "image": "https://i.brecorder.com/large/2026/09/1715210837f812c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand firms as stable commodities offset Fed tightening signal",
-   "url": "https://www.brecorder.com/news/40439945/south-african-rand-firms-as-stable-commodities-offset-fed-tightening-signal",
-   "source": "Business Recorder",
-   "published": "2026-09-17T08:31:36+00:00",
-   "summary": "JOHANNESBURG: The South African rand strengthened in early trading on Thursday, supported by stable ​commodity prices after the US Federal Reserve ‌raised interest rates and signalled that further monetary tightening may follow. At 0807 GMT the rand traded at 16.3050 ​against the dollar , about 0.6% stronger than ​its …",
-   "image": "https://i.brecorder.com/large/2026/09/171331276afae20.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RDA inflows rise as regional conflict prompts strategic fund relocation: Aurangzeb",
-   "url": "https://www.brecorder.com/news/40439941/rda-inflows-rise-as-regional-conflict-prompts-strategic-fund-relocation-aurangzeb",
-   "source": "Business Recorder",
-   "published": "2026-09-17T08:11:52+00:00",
-   "summary": "The inflows from Roshan Digital Account have risen to nearly $300 million from more than $200 million previously, partly driven by strategic relocation of funds amid regional conflict, Finance Minister Muhammad Aurangzeb said. The minister gave his remarks while addressing the Remittance and Roshan Digital Account (RDA…",
-   "image": "https://i.ytimg.com/vi/EAykAFFzdMo/maxresdefault.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fed hikes rates, gold challenges old rules",
-   "url": "https://tribune.com.pk/story/2629866/fed-hikes-rates-gold-challenges-old-rules",
-   "source": "The Express Tribune",
-   "published": "2026-09-17T07:33:43+00:00",
-   "summary": "First US rate increase in three years exposes shifting dynamics around inflation",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian bonds seen declining as Fed hike could pressure RBI to mirror move",
-   "url": "https://www.brecorder.com/news/40439937/indian-bonds-seen-declining-as-fed-hike-could-pressure-rbi-to-mirror-move",
-   "source": "Business Recorder",
-   "published": "2026-09-17T07:26:05+00:00",
-   "summary": "MUMBAI: Indian government bonds are set to decline on Thursday, as the US Federal Reserve hiked interest rates for the first time since July 2023, which could pressure the domestic central bank to follow suit as it battles rising inflation. The benchmark 6.94% 2036 bond yield is expected to trade between 7.05% and 7.10…",
-   "image": "https://i.brecorder.com/large/2026/09/17122557ffd26cb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Thursday",
-   "url": "https://www.brecorder.com/news/40439935/thai-bahtus-dollar-weaker-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-09-17T07:13:40+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Thursday. At 0244 GMT, the baht was 0.15% lower at 33.40 versus the dollar, after trading in a range of 33.380 to 33.470. It ended the previous session at 33.35 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/171213297391865.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm retreats from 21-month high on stock outlook, weak exports",
-   "url": "https://www.brecorder.com/news/40439934/palm-retreats-from-21-month-high-on-stock-outlook-weak-exports",
-   "source": "Business Recorder",
-   "published": "2026-09-17T07:10:34+00:00",
-   "summary": "JAKARTA: [Malaysian palm oil futures]( https://palm oil) pulled back from a 21-month high on Thursday to trade little changed, pressured by weak exports and expectations that stocks could rise this month. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange was down 2 ringgit…",
-   "image": "https://i.brecorder.com/large/2026/09/171210149bc1e0f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China, HK benchmarks slip as gold stocks fall on US rate hike",
-   "url": "https://www.brecorder.com/news/40439931/china-hk-benchmarks-slip-as-gold-stocks-fall-on-us-rate-hike",
-   "source": "Business Recorder",
-   "published": "2026-09-17T06:53:56+00:00",
-   "summary": "HONG KONG: China and Hong Kong stock benchmarks declined on Thursday, with rate-sensitive sectors, including gold, non-ferrous metals and properties, slipping after the US raised interest rates for the first time in three years. China’s blue-chip CSI300 Index and the Shanghai Composite Index dipped 0.4% each by the lun…",
-   "image": "https://i.brecorder.com/large/2026/09/17115239623b988.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korea shares rise as Fed rate hike eases uncertainty",
-   "url": "https://www.brecorder.com/news/40439930/south-korea-shares-rise-as-fed-rate-hike-eases-uncertainty",
-   "source": "Business Recorder",
-   "published": "2026-09-17T06:44:38+00:00",
-   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Thursday even as the US raised interest rates for the first time since 2023 as Federal Reserve Chair Kevin Warsh’s resolve to tackle inflation eased some uncertainties. The won weakened, while the benchmark bond yield fell. The benchmark KOS…",
-   "image": "https://i.brecorder.com/large/2026/09/171144268828f6a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan inches higher as midpoint rate firmer despite US rate hike",
-   "url": "https://www.brecorder.com/news/40439929/chinas-yuan-inches-higher-as-midpoint-rate-firmer-despite-us-rate-hike",
-   "source": "Business Recorder",
-   "published": "2026-09-17T06:40:53+00:00",
-   "summary": "HONG KONG: China’s yuan rose slightly against the US dollar on Thursday as the central bank lifted the midpoint fixing to another 3-1/2-month high despite a jump in the greenback after the Federal Reserve raised interest rates. The dollar clung to a seven-week high on Thursday after the Fed raised interest rates by a q…",
-   "image": "https://i.brecorder.com/large/2026/09/171140305230bf9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australia, NZ dollars nurse losses as markets wager on hawkish Fed",
-   "url": "https://www.brecorder.com/news/40439927/australia-nz-dollars-nurse-losses-as-markets-wager-on-hawkish-fed",
-   "source": "Business Recorder",
-   "published": "2026-09-17T06:32:41+00:00",
-   "summary": "SYDNEY: The Australian and New Zealand dollars languished near multi-week lows on Thursday as wagers on additional hikes in US interest rates buoyed the greenback and reinforced expectations of further policy tightening at home. The US Federal Reserve raised rates by 25 basis points, as expected, while also projecting …",
-   "image": "https://i.brecorder.com/large/2026/09/17113217c3ce117.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korea’s MFG tenders for up to 140,000 tons corn, traders say",
-   "url": "https://www.brecorder.com/news/40439924/south-koreas-mfg-tenders-for-up-to-140000-tons-corn-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-09-17T05:51:58+00:00",
-   "summary": "HAMBURG: South Korea’s Major Feedmill Group (MFG) has issued an international tender to purchase up to 140,000 metric tons of animal feed corn, European traders said on Thursday. The corn is sought for arrival in South Korea in January 2027 in two consignments of 55,000 to 70,000 tons. Chicago corn edges higher as trad…",
-   "image": "https://i.brecorder.com/large/2026/09/17105149d802419.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan eyes bigger China swap line, expects US financing decision soon",
-   "url": "https://tribune.com.pk/story/2629848/pakistan-eyes-bigger-china-swap-line-expects-us-financing-decision-soon",
-   "source": "The Express Tribune",
-   "published": "2026-09-17T05:22:28+00:00",
-   "summary": "FinMin says prolonged disruption in oil supplies could put government's 4% growth target for the fiscal ​year at risk",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fiscal consolidation delivering results, says Aurangzeb as govt courts investors in London",
-   "url": "https://www.brecorder.com/news/40439919/fiscal-consolidation-delivering-results-says-aurangzeb-as-govt-courts-investors-in-london",
-   "source": "Business Recorder",
-   "published": "2026-09-17T05:00:25+00:00",
-   "summary": "Pakistan’s fiscal consolidation is delivering results through a primary surplus, deficit compression and stronger revenue mobilisation, Finance Minister Muhammad Aurangzeb said, as the government sought to attract international investment at a roundtable with leading investors and global financial firms. The remarks ca…",
-   "image": "https://i.brecorder.com/large/2026/09/17095923ce33b2d.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Oil dip, late buying lift PSX over 1,000 points",
-   "url": "https://tribune.com.pk/story/2629827/kse-100-stages-strong-rebound-gains-1284-points",
-   "source": "The Express Tribune",
-   "published": "2026-09-17T03:18:05+00:00",
-   "summary": "KSE-100 closes at 169,043 points after Wednesday’s slump as crude easing supports sentiment",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Goldman Sachs now sees Fed hiking again in October",
-   "url": "https://www.brecorder.com/news/40439917/goldman-sachs-now-sees-fed-hiking-again-in-october",
-   "source": "Business Recorder",
-   "published": "2026-09-17T03:10:59+00:00",
-   "summary": "SYDNEY: Goldman Sachs now expects ​the US Federal ‌Reserve to raise interest rates by ​25 basis points ​at its October policy ⁠meeting, adding ​a further hike to ​its September call. In a note, the Wall ​Street bank said ​October was the most ‌likely ⁠time for the next move, because it was most ​natural ​to ⁠deliver hi…",
-   "image": "https://i.brecorder.com/large/2026/09/170810212340987.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PM wants facilitation desks to help people buy subsidised fuel",
    "url": "https://www.dawn.com/news/2030562/pm-wants-facilitation-desks-to-help-people-buy-subsidised-fuel",
    "source": "Dawn",
@@ -498,19 +460,6 @@
    "published": "2026-09-17T02:04:58+00:00",
    "summary": "WASHINGTON: The US Federal Reserve on Wednesday raised interest rates in the world’s largest economy by 25 basis points to tackle stubbornly high inflation, a move sure to anger President Donald Trump, who has demanded lower rates. The Fed’s Federal Open Market Committee voted unanimously to raise rates to between 3.75…",
    "image": "https://i.dawn.com/large/2026/09/17033929c96df3c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Jul-Aug C/A deficit stands at $543m",
-   "url": "https://tribune.com.pk/story/2629726/jul-aug-ca-deficit-stands-at-543m",
-   "source": "The Express Tribune",
-   "published": "2026-09-16T15:47:25+00:00",
-   "summary": "Narrows 36% in 2MFY27 as remittances cover wider goods trade gap",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -544,20 +493,6 @@
    "domestic": false
   },
   {
-   "title": "Millers seek to export 1m tonnes of sugar",
-   "url": "https://tribune.com.pk/story/2629733/millers-seek-to-export-1m-tonnes-of-sugar",
-   "source": "The Express Tribune",
-   "published": "2026-09-16T15:47:25+00:00",
-   "summary": "Call for immediate issuance of export order, taking into account IMF recommendations, the prime minister's committee",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "GB unveils Rs218.8bn budget after long wait",
    "url": "https://www.dawn.com/news/2030284/gb-unveils-rs2188bn-budget-after-long-wait",
    "source": "Dawn",
@@ -584,19 +519,6 @@
    "domestic": false
   },
   {
-   "title": "Business community split over SBP’s decision to keep policy rate unchanged",
-   "url": "https://www.dawn.com/news/2030066/business-community-split-over-sbps-decision-to-keep-policy-rate-unchanged",
-   "source": "Dawn",
-   "published": "2026-09-15T02:47:15+00:00",
-   "summary": "https://www.dawn.com/news/2029995",
-   "image": "https://i.dawn.com/large/2026/09/150715207c3b1b5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -620,6 +542,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Japan’s central bank raises policy rate to 31-year high",
+   "url": "https://arynews.tv/japans-central-bank-raises-policy-rate-to-31-year-high",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Japan’s central bank raises policy rate to 31-year high",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Japan-BOJ-interest-rate.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
