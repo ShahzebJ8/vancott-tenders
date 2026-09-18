@@ -1,15 +1,41 @@
 {
- "generated": "2026-09-17T23:56:02+00:00",
- "count": 59,
- "relevant_count": 17,
- "domestic_count": 14,
+ "generated": "2026-09-18T02:56:23+00:00",
+ "count": 51,
+ "relevant_count": 14,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (21)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (20)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Burns Road to become modern food street: CS",
+   "url": "https://www.brecorder.com/news/40440064/burns-road-to-become-modern-food-street-cs",
+   "source": "Business Recorder",
+   "published": "2026-09-18T01:16:40+00:00",
+   "summary": "KARACHI: The Chief Secretary of Sindh, Asif Hyder Shah, has said that Burns Road would be converted into a modern, well-organised and attractive food street. He said this during a visit to Burns Road and its adjoining areas to inspect ongoing development, road construction, rehabilitation and beautification work. Durin…",
+   "image": "https://i.brecorder.com/large/2026/09/18061637eb65dd4.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP urges customers to remain vigilant against online frauds",
+   "url": "https://www.brecorder.com/news/40440059/sbp-urges-customers-to-remain-vigilant-against-online-frauds",
+   "source": "Business Recorder",
+   "published": "2026-09-18T01:08:23+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has urged customers to remain vigilant against suspicious messages and calls involving payments or transactions and never share their account PINs, passwords, or debit and credit card details with anyone. While speaking at a conference titled 24th Future Banking Summit & Expo 2…",
+   "image": "https://i.brecorder.com/large/2026/09/18060816816469a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM’s fuel subsidy scheme faces first-day hurdles at petrol pumps",
    "url": "https://www.dawn.com/news/2030654/pms-fuel-subsidy-scheme-faces-first-day-hurdles-at-petrol-pumps",
@@ -24,51 +50,12 @@
    "domestic": true
   },
   {
-   "title": "SBP rejects reports of Rs10 banknote discontinuation as baseless",
-   "url": "https://www.brecorder.com/news/40439986/sbp-rejects-reports-of-rs10-banknote-discontinuation-as-baseless",
-   "source": "Business Recorder",
-   "published": "2026-09-17T15:26:58+00:00",
-   "summary": "The State Bank of Pakistan (SBP) on Thursday categorically rejected reports circulating on social media about the discontinuation of the Rs10 banknote and a purported last date for its exchange, calling the reports baseless and without substance. In a press release, the SBP said it has submitted a proposal for the intr…",
-   "image": "https://i.brecorder.com/large/2026/09/17202437a8309ba.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP-held forex reserves surge over $3bn to $21.3bn",
-   "url": "https://www.brecorder.com/news/40439985/sbp-held-forex-reserves-surge-over-3bn-to-213bn",
-   "source": "Business Recorder",
-   "published": "2026-09-17T15:09:32+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $3.061 billion to $21.389 billion during the week ended Sept. 11, 2026. In its weekly reserves statement, the SBP said the country’s total liquid foreign exchange reserves stood at $26.791 billion as of Sept. 11, 2026. Of these, commercial …",
-   "image": "https://i.brecorder.com/large/2026/09/17200849542afae.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40439968/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
    "published": "2026-09-17T14:11:24+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.26, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.27 against the dollar. Internationally, the US dollar clung to a seven-week high o…",
    "image": "https://i.brecorder.com/large/2026/09/171612037bfe9e0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Services exports record over $400 million increase in Jul-Aug: SBP",
-   "url": "https://www.brecorder.com/news/40439952/services-exports-record-over-400-million-increase-in-jul-aug-sbp",
-   "source": "Business Recorder",
-   "published": "2026-09-17T10:58:55+00:00",
-   "summary": "Pakistan’s services exports increased by over $400 million during the first two months of 2026-27, outpacing the growth recorded in goods exports during the same period. According to data released by the State Bank of Pakistan (SBP), services exports rose to $1.811 billion during July-August FY27, compared with $1.405 …",
-   "image": "https://i.brecorder.com/large/2026/09/17150105490f9fa.webp",
    "topics": [
     "Economy"
    ],
@@ -193,6 +180,19 @@
    "domestic": true
   },
   {
+   "title": "Pakistan among nations worst-hit by LNG shortages due to Hormuz closure: report",
+   "url": "https://www.dawn.com/news/2030807/pakistan-among-nations-worst-hit-by-lng-shortages-due-to-hormuz-closure-report",
+   "source": "Dawn",
+   "published": "2026-09-18T02:44:53+00:00",
+   "summary": "https://www.dawn.com/news/2030754",
+   "image": "https://i.dawn.com/large/2026/09/180735063b7adbd.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Wall St rises as oil slide offers respite after Fed rate hike",
    "url": "https://www.brecorder.com/news/40439991/wall-st-rises-as-oil-slide-offers-respite-after-fed-rate-hike",
    "source": "Business Recorder",
@@ -206,38 +206,12 @@
    "domestic": false
   },
   {
-   "title": "Government, petroleum dealers reach agreement on fuel relief package",
-   "url": "https://www.brecorder.com/news/40439989/government-petroleum-dealers-reach-agreement-on-fuel-relief-package",
-   "source": "Business Recorder",
-   "published": "2026-09-17T15:55:20+00:00",
-   "summary": "The government and petroleum dealers on Thursday reached an agreement on the payment mechanism for the Rs100 per litre subsidy under the Petrol Relief Package, ending a deadlock that had threatened its implementation. The agreement was reached during an emergency meeting between the Ministry of Petroleum and the Pakist…",
-   "image": "https://i.brecorder.com/large/2026/09/17205321d581736.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Most Gulf bourses end higher as investors weigh Fed rate hike",
    "url": "https://www.brecorder.com/news/40439982/most-gulf-bourses-end-higher-as-investors-weigh-fed-rate-hike",
    "source": "Business Recorder",
    "published": "2026-09-17T14:05:37+00:00",
    "summary": "Most Gulf bourses closed higher on Thursday despite mounting geopolitical friction, as investors weighed the U.S. Federal Reserve’s first interest rate hike in more than three years. Most Gulf Cooperation Council central banks raised their benchmark rates after the US Fed’s quarter-point increase on Wednesday. Regional…",
    "image": "https://i.brecorder.com/large/2026/09/17190504f3bdfff.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan's export trap and revealed comparative advantage",
-   "url": "https://www.brecorder.com/news/40439979/pakistans-export-trap-and-revealed-comparative-advantage",
-   "source": "Business Recorder",
-   "published": "2026-09-17T13:52:18+00:00",
-   "summary": "Pakistan has achieved remarkable specialisation in a narrow band of products while remaining largely absent from the world’s largest and fastest-growing markets. Total exports stood at USD 30.67 billion (2025) against global exports of USD 25.61 trillion, giving Pakistan a share of just 0.12 percent. The data shows tha…",
-   "image": "https://i.brecorder.com/large/2026/09/17184953b0da9a3.webp",
    "topics": [
     "Economy"
    ],
@@ -271,46 +245,6 @@
    "domestic": false
   },
   {
-   "title": "NBP pensioners entitled to govt pension increases after court dismisses bank’s appeal",
-   "url": "https://www.brecorder.com/news/40439974/nbp-pensioners-entitled-to-govt-pension-increases-after-court-dismisses-banks-appeal",
-   "source": "Business Recorder",
-   "published": "2026-09-17T12:14:55+00:00",
-   "summary": "National Bank of Pakistan (NBP) pensioners have been declared entitled to government-announced pension increases after the Federal Constitutional Court (FCC) dismissed the bank’s appeal in a long-running pension case. NBP Company Secretary (Acting) Mehnaz Salar, in a notice to the Pakistan Stock Exchange (PSX) on Thurs…",
-   "image": "https://i.brecorder.com/large/2026/09/1717121441af971.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of England sounds inflation alarm as it holds interest rates",
-   "url": "https://www.brecorder.com/news/40439972/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates",
-   "source": "Business Recorder",
-   "published": "2026-09-17T12:02:38+00:00",
-   "summary": "LONDON: The Bank of England predicted British inflation will top 4% early next year as it held interest rates unchanged on Thursday, and Governor Andrew Bailey warned explicitly that prolonged conflict in the Middle East may require tighter policy. Alongside an unexpected decision to pause all the BoE’s active sales of…",
-   "image": "https://i.brecorder.com/large/2026/09/17170034884a9b4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India infra lender targets $4bn in dollar funding by December, exec says",
-   "url": "https://www.brecorder.com/news/40439971/india-infra-lender-targets-4bn-in-dollar-funding-by-december-exec-says",
-   "source": "Business Recorder",
-   "published": "2026-09-17T11:50:45+00:00",
-   "summary": "MUMBAI: India’s National Bank for Financing Infrastructure and Development (NaBFID) is targeting a total dollar-fundraise of about $4 billion by December through loans and bonds under the Reserve Bank of India’s discounted hedging facility, its chief said on Thursday. The state-run infrastructure financier aims to rais…",
-   "image": "https://i.brecorder.com/large/2026/09/171650358b7b73f.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Palm oil falls over 1% on exports, rival oils weakness",
    "url": "https://www.brecorder.com/news/40439970/palm-oil-falls-over-1-on-exports-rival-oils-weakness",
    "source": "Business Recorder",
@@ -321,32 +255,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "World Bank boosts private capital mobilization to record $112 billion",
-   "url": "https://www.brecorder.com/news/40439969/world-bank-boosts-private-capital-mobilization-to-record-112-billion",
-   "source": "Business Recorder",
-   "published": "2026-09-17T11:13:31+00:00",
-   "summary": "WASHINGTON: The World Bank on Thursday said it attracted $112 billion in private capital in the year ended June versus $69 billion a year earlier, and more than triple the amount in fiscal 2022 before former Mastercard CEO Ajay Banga became president. The bank said the record figure committed for projects it facilitate…",
-   "image": "https://i.brecorder.com/large/2026/09/171611488ab6cbc.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz announces free SMS registration for fuel subsidy scheme",
-   "url": "https://www.brecorder.com/news/40439960/pm-shehbaz-announces-free-sms-registration-for-fuel-subsidy-scheme",
-   "source": "Business Recorder",
-   "published": "2026-09-17T10:40:05+00:00",
-   "summary": "Prime Minister Shehbaz Sharif has made SMS registration for the fuel subsidy scheme completely free to facilitate low- and middle-income households, the Prime Minister’s Office said on Thursday. Under the scheme, owners of motorcycles, rickshaws and vehicles with engine capacity of up to 800cc are being provided fuel s…",
-   "image": "https://i.brecorder.com/large/2026/09/1715352703e6df6.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -564,19 +472,6 @@
    "published": "2026-09-17T03:10:59+00:00",
    "summary": "SYDNEY: Goldman Sachs now expects ​the US Federal ‌Reserve to raise interest rates by ​25 basis points ​at its October policy ⁠meeting, adding ​a further hike to ​its September call. In a note, the Wall ​Street bank said ​October was the most ‌likely ⁠time for the next move, because it was most ​natural ​to ⁠deliver hi…",
    "image": "https://i.brecorder.com/large/2026/09/170810212340987.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Hawkish Fed adds to Indian rupee troubles, traders watch 96/USD hurdle",
-   "url": "https://www.brecorder.com/news/40439915/hawkish-fed-adds-to-indian-rupee-troubles-traders-watch-96usd-hurdle",
-   "source": "Business Recorder",
-   "published": "2026-09-17T03:04:38+00:00",
-   "summary": "MUMBAI: The Indian rupee is expected to be under pressure on Thursday and could weaken past the 96-per-dollar handle after the US ​Federal Reserve raised interest rates and signalled that further tightening is ‌in the pipeline. The Indian rupee is expected to open slightly weaker around 96-96.05 per dollar, down from i…",
-   "image": "https://i.brecorder.com/large/2026/09/17080315fb5e261.webp",
    "topics": [
     "Economy"
    ],
