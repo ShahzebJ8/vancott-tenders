@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-18T12:42:59+00:00",
- "count": 51,
- "relevant_count": 12,
- "domestic_count": 12,
+ "generated": "2026-09-18T16:59:14+00:00",
+ "count": 49,
+ "relevant_count": 11,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (17)",
+  "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (6)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (6)"
  },
  "stories": [
   {
    "title": "Rupee sees further improvement against US dollar",
    "url": "https://www.brecorder.com/news/40440136/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-18T11:53:51+00:00",
+   "published": "2026-09-18T13:33:23+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 277.25, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.26 against the dollar. Globally, the Japanese yen got off ​to a weak start against th…",
    "image": "https://i.brecorder.com/large/2026/09/181552397764ec3.webp",
    "topics": [
@@ -34,20 +34,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Mobile phone imports decline 8.85% in July-August: PBS",
-   "url": "https://www.brecorder.com/news/40440130/mobile-phone-imports-decline-885-in-july-august-pbs",
-   "source": "Business Recorder",
-   "published": "2026-09-18T09:08:58+00:00",
-   "summary": "ISLAMABAD: Pakistan’s mobile phone imports declined 8.85 percent during the first two months of the current fiscal year, falling to $274.129 million from $300.741 million in the corresponding period of last fiscal year, according to data released by the Pakistan Bureau of Statistics (PBS). In rupee terms, mobile phone …",
-   "image": "https://i.brecorder.com/large/2026/09/18140711b6d2729.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -168,6 +154,19 @@
    "domestic": true
   },
   {
+   "title": "PSX: Buying continues, KSE-100 gains over 1,800 points",
+   "url": "https://www.brecorder.com/news/40440103/psx-buying-continues-kse-100-gains-over-1800-points",
+   "source": "Business Recorder",
+   "published": "2026-09-18T13:32:46+00:00",
+   "summary": "Buying momentum continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,800 points on Friday. The benchmark index opened around the 169,500 level and moved steadily higher during the first half of the session, crossing 170,000 and subsequently testing the 170,700–170,800 range. A…",
+   "image": "https://i.brecorder.com/large/2026/09/180954353b66fcc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "India's net direct tax collections rise 13% from April 1-Sept 17",
    "url": "https://www.brecorder.com/news/40440158/indias-net-direct-tax-collections-rise-13-from-april-1-sept-17",
    "source": "Business Recorder",
@@ -179,19 +178,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Buying continues, KSE-100 gains over 1,800 points",
-   "url": "https://www.brecorder.com/news/40440103/psx-buying-continues-kse-100-gains-over-1800-points",
-   "source": "Business Recorder",
-   "published": "2026-09-18T12:18:50+00:00",
-   "summary": "Buying momentum continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,800 points on Friday. The benchmark index opened around the 169,500 level and moved steadily higher during the first half of the session, crossing 170,000 and subsequently testing the 170,700–170,800 range. A…",
-   "image": "https://i.brecorder.com/large/2026/09/180954353b66fcc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -272,20 +258,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Ningbo Green Light Energy set to be Pakistan's first listing via SPAC: report",
-   "url": "https://www.brecorder.com/news/40440128/ningbo-green-light-energy-set-to-be-pakistans-first-listing-via-spac-report",
-   "source": "Business Recorder",
-   "published": "2026-09-18T08:17:26+00:00",
-   "summary": "Renewable energy company Ningbo Green Light Energy is set to become the first company in Pakistan to go public through a blank-check vehicle, with its backdoor listing expected to be completed within weeks, its chief executive told Bloomberg . According to the report, the company, which imports solar equipment for rene…",
-   "image": "https://i.brecorder.com/large/2026/09/18124238db401df.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -407,11 +379,11 @@
    "domestic": false
   },
   {
-   "title": "PSX surges past 170,000 as oil eases",
+   "title": "PSX up nearly 1,850 points on interest in bank, cement stocks",
    "url": "https://tribune.com.pk/story/2630022/psx-surges-past-170000-as-oil-eases",
    "source": "The Express Tribune",
    "published": "2026-09-18T03:38:38+00:00",
-   "summary": "KSE-100 soars over 1,800 points before Friday prayers halt session",
+   "summary": "KSE-100 closes at 170,885; benchmark index gains 1.09% on healthy 575 million-share volume",
    "image": null,
    "topics": [
     "Economy"
@@ -465,19 +437,6 @@
    "published": "2026-09-18T02:59:22+00:00",
    "summary": "SINGAPORE: Asian stocks rose and the dollar held its ground on ​Friday as investors contended with global policymakers ramping up efforts to rein in inflation, with a dip in oil prices ‌improving sentiment ahead of an expected rate hike from the Bank of Japan. Monetary policy response is in focus this week as the over …",
    "image": "https://i.brecorder.com/large/2026/09/1807561725b8013.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yen weak ahead of BOJ decision; rate hike expected",
-   "url": "https://www.brecorder.com/news/40440096/yen-weak-ahead-of-boj-decision-rate-hike-expected",
-   "source": "Business Recorder",
-   "published": "2026-09-18T02:55:06+00:00",
-   "summary": "SINGAPORE: The yen got off ​to a weak start against the dollar and the euro at the start of Asian trading ‌on Friday , with currency markets in a subdued mood ahead of an expected rate hike from the Bank of Japan later in the trading session. The yen fell 0.1% to 156.19 yen per dollar, resuming its decline after snappi…",
-   "image": "https://i.brecorder.com/large/2026/09/18075150cda3f88.webp",
    "topics": [
     "Economy"
    ],
@@ -615,6 +574,45 @@
    "domestic": false
   },
   {
+   "title": "Aramco to boost Gulf exports to 60 million barrels in Sept. and Oct.",
+   "url": "https://arynews.tv/aramco-to-boost-gulf-exports-to-60-million-barrels-in-sept-and-oct",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Aramco to boost Gulf exports to 60 million barrels in Sept. and Oct.",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Aramco.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s GDP growth recovered to 3.7 percent in FY26, says Aurangzeb",
+   "url": "https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s GDP growth recovered to 3.7 percent in FY26, says Aurangzeb",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Aurangzeb.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: stocks rise as KSE-100 gains over 1,800 points",
+   "url": "https://arynews.tv/psx-stocks-rise-as-kse-100-gains-over-1800-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: stocks rise as KSE-100 gains over 1,800 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/stock-market.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Petrol price hike pushes weekly inflation up 0.49pc in Pakistan",
    "url": "https://arynews.tv/petrol-price-hike-pushes-weekly-inflation-up-0-49pc-in-pakistan",
    "source": "ARY News",
@@ -647,32 +645,6 @@
    "published": null,
    "summary": "PSX: Stocks rise as KSE-100 gains more than 1,000 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Stock.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead",
-   "url": "https://arynews.tv/fed-raises-rates-in-search-of-timelier-drop-in-inflation-sees-more-tightening-ahead",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Fed raises rates in search of ‘timelier’ drop in inflation, sees more tightening ahead",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Fed-US.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India considers cutting vegetable oil import taxes as prices climb",
-   "url": "https://arynews.tv/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb",
-   "source": "ARY News",
-   "published": null,
-   "summary": "India considers cutting vegetable oil import taxes as prices climb",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/India-vegetable-oil.jpg",
    "topics": [
     "Economy"
    ],
