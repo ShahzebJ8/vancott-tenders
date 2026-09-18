@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-18T19:28:43+00:00",
- "count": 50,
- "relevant_count": 11,
+ "generated": "2026-09-18T21:50:35+00:00",
+ "count": 51,
+ "relevant_count": 12,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (7)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (6)"
  },
  "stories": [
@@ -327,6 +327,19 @@
    "domestic": false
   },
   {
+   "title": "PM Shehbaz expands petrol subsidy scheme, announces Rs500 weekly relief for motorcycle, rickshaw users",
+   "url": "https://tribune.com.pk/story/2630042/pm-directs-inclusion-of-20-year-old-bikes-rickshaws-in-fuel-relief-scheme",
+   "source": "The Express Tribune",
+   "published": "2026-09-18T06:17:28+00:00",
+   "summary": "Also orders 20-year-old motorcycles and rickshaws be made eligible for registration",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Malaysia's August exports rise 45.5% y/y, above forecast",
    "url": "https://www.brecorder.com/news/40440112/malaysias-august-exports-rise-455-yy-above-forecast",
    "source": "Business Recorder",
@@ -587,6 +600,19 @@
    "domestic": false
   },
   {
+   "title": "Electricity price hike: CPPA seeks Rs1.73 per unit increase",
+   "url": "https://arynews.tv/electricity-price-hike-cppa-seeks-rs1-point-73-per-unit-increase",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Electricity price hike: CPPA seeks Rs1.73 per unit increase",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Electricity-Prices.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Aramco to boost Gulf exports to 60 million barrels in Sept. and Oct.",
    "url": "https://arynews.tv/aramco-to-boost-gulf-exports-to-60-million-barrels-in-sept-and-oct",
    "source": "ARY News",
@@ -645,19 +671,6 @@
    "published": null,
    "summary": "Japan’s central bank raises policy rate to 31-year high",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Japan-BOJ-interest-rate.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks rise as KSE-100 gains more than 1,000 points",
-   "url": "https://arynews.tv/psx-stocks-rise-as-kse-100-gains-more-than-1000-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks rise as KSE-100 gains more than 1,000 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Stock.jpg",
    "topics": [
     "Economy"
    ],
