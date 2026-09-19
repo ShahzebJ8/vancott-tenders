@@ -1,22 +1,22 @@
 {
- "generated": "2026-09-18T23:54:13+00:00",
- "count": 51,
- "relevant_count": 12,
- "domestic_count": 11,
+ "generated": "2026-09-19T02:54:38+00:00",
+ "count": 54,
+ "relevant_count": 13,
+ "domestic_count": 20,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (6)"
  },
  "stories": [
   {
-   "title": "Rupee sees further improvement against US dollar",
-   "url": "https://www.brecorder.com/news/40440136/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-18T13:33:23+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 277.25, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.26 against the dollar. Globally, the Japanese yen got off ​to a weak start against th…",
-   "image": "https://i.brecorder.com/large/2026/09/181552397764ec3.webp",
+   "title": "Stocks settle above 170,000 on renewed buying",
+   "url": "https://www.dawn.com/news/2030985/stocks-settle-above-170000-on-renewed-buying",
+   "source": "Dawn",
+   "published": "2026-09-19T02:48:55+00:00",
+   "summary": "KARACHI: The Pak­istan Stock Exchange (PSX) on Friday extended its overnight recovery as positive developments on both the economic and geopolitical fronts boosted investor confidence, triggering buying at attractive levels and propelling the benchmark KSE-100 index above 171,000 intraday. However, Topline Securities s…",
+   "image": "https://i.dawn.com/large/2026/09/190313154f4729c.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,169 @@
    "domestic": true
   },
   {
-   "title": "Pakistani textile firm Sapphire Fibres joins race for IESCO privatisation",
-   "url": "https://www.brecorder.com/news/40440145/pakistani-textile-firm-sapphire-fibres-joins-race-for-iesco-privatisation",
+   "title": "PM widens fuel subsidy, eases weekly limits",
+   "url": "https://www.dawn.com/news/2031027/pm-widens-fuel-subsidy-eases-weekly-limits",
+   "source": "Dawn",
+   "published": "2026-09-19T02:41:29+00:00",
+   "summary": "• Token validity increased, people can now use Rs500 discount per week • Minister says scheme benefits 24m • Sindh likely to introduce revised market timings ISLAMABAD: Prime Minister Shehbaz Sharif on Friday approved a revised structure for the public under the fuel relief scheme currently in vogue across the country,…",
+   "image": "https://i.dawn.com/large/2026/09/19074024170bcf7.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation surges past 10pc",
+   "url": "https://www.dawn.com/news/2030987/short-term-inflation-surges-past-10pc",
+   "source": "Dawn",
+   "published": "2026-09-19T02:40:33+00:00",
+   "summary": "ISLAMABAD: Short-term inflation, measured by the Sensitive Price Index (SPI), surged by 10.64 per cent year-on-year for the week ending Sept 17, mainly due to higher energy prices , according to official data released on Friday. Short-term inflation entered a double-digit upward spiral. Unwilling to reduce the petroleu…",
+   "image": "https://i.dawn.com/large/2026/09/190739210d2aa02.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "13.4pc fall in profit outflow during first 2 months of FY27",
+   "url": "https://www.dawn.com/news/2030995/134pc-fall-in-profit-outflow-during-first-2-months-of-fy27",
+   "source": "Dawn",
+   "published": "2026-09-19T02:37:31+00:00",
+   "summary": "KARACHI: Profits and dividends on foreign investment in Pakistan witnessed a decline as the outflow fell by 13.4 per cent during the first two months of the current fiscal year (FY27) compared to the same period last year. During July-August, the repatriation of profits and dividends from Pakistan fell to $557.6 millio…",
+   "image": "https://i.dawn.com/large/2026/09/19073610541d9bd.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Stabilising prices: Dar reviews wheat import",
+   "url": "https://www.brecorder.com/news/40440239/stabilising-prices-dar-reviews-wheat-import",
    "source": "Business Recorder",
-   "published": "2026-09-18T11:23:19+00:00",
-   "summary": "Sapphire Fibres Limited’s board has approved the company’s participation in the privatisation process of Islamabad Electric Supply Company (IESCO). The listed textile manufacturer disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Friday. “Sapphire Fibres Limited obtained the Request for Stat…",
-   "image": "https://i.brecorder.com/large/2026/09/181621259358962.webp",
+   "published": "2026-09-19T01:39:35+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/ FM) Senator Mohammad Ishaq Dar directed the Trading Corporation of Pakistan (TCP) to ensure that the provinces receive the requisite quantities according to their requirements. He also directed the Pakistan Agricultural Storage and Services Corporation (PASSCO…",
+   "image": "https://i.brecorder.com/large/2026/09/19032932f0286c1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt urged to go for a balanced fiscal policy",
+   "url": "https://www.brecorder.com/news/40440224/govt-urged-to-go-for-a-balanced-fiscal-policy",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "ISLAMABAD: While appreciating policy interventions through Finance Act 2026, a top official of a leading multinational beverage company has strongly proposed a balanced fiscal policy to incentivize compliant, formal market players and bring the large informal sector under regulatory oversight and the documented regime.…",
+   "image": "https://i.brecorder.com/large/2026/09/19034026e040eb3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Initiative launched to help chili farmers achieve export quality standards",
+   "url": "https://www.brecorder.com/news/40440225/initiative-launched-to-help-chili-farmers-achieve-export-quality-standards",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "KARACHI: Food Security and Agriculture Centre of Excellence (FACE) launched an initiative for improving local quality of red chilies to reach the required export standards. According to details, the Food Security and Agriculture Centre of Excellence (FACE) has distributed geotextile drying sheets to chili farmers to ra…",
+   "image": "https://i.brecorder.com/large/2026/09/1904412404b5e95.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM lauds FM, team as FX reserves hit all-time high of USD21.4bn",
+   "url": "https://www.brecorder.com/news/40440227/pm-lauds-fm-team-as-fx-reserves-hit-all-time-high-of-usd214bn",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday lauded Finance Minister Muhammad Aurangzeb and his economic team after the country’s foreign exchange reserves hit an all-time high of USD21.4 billion. In a statement, the Prime Minister paid tribute to Aurangzeb, State Bank of Pakistan (SBP) Governor Jameel Ahmad, the…",
+   "image": "https://i.brecorder.com/large/2026/09/1904303183907e4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Jul-Aug textile exports climb 5.55pc YoY",
+   "url": "https://www.brecorder.com/news/40440237/jul-aug-textile-exports-climb-555pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "ISLAMABAD: Pakistan’s textile sector exports have registered an increase of 5.55 percent during July-August of the current financial year 2026-27 as compared to the same months of last year, according to the Monthly Advance Releases on Foreign Trade Statistics released here on Friday by the Pakistan Bureau of Statistic…",
+   "image": "https://i.brecorder.com/large/2026/09/1903324480c8375.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SPI-based inflation rises slightly",
+   "url": "https://www.brecorder.com/news/40440238/spi-based-inflation-rises-slightly",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Index (SPI)-based inflation for the week ended on September 17, 2026, registered an increase of 0.49percent, owing to sharp price escalation in diesel by 7.29percent, petrol by 6.40percent, and Liquefied Petroleum Gas (LPG) by 3.26percent. According to the SPI data released here on Friday…",
+   "image": "https://i.brecorder.com/large/2026/09/19033035de3cc00.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Jul-Aug mobile phone imports decline 8.85pc YoY",
+   "url": "https://www.brecorder.com/news/40440241/jul-aug-mobile-phone-imports-decline-885pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "ISLAMABAD: Pakistan’s mobile phone imports declined 8.85 percent during the first two months of the current fiscal year, falling to USD274.129 million from USD300.741 million in the corresponding period of last fiscal year, according to data released by the Pakistan Bureau of Statistics (PBS). In rupee terms, mobile ph…",
+   "image": "https://i.brecorder.com/large/2026/09/19032804cebcc8d.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Macroeconomic stability: minister outlines progress",
+   "url": "https://www.brecorder.com/news/40440243/macroeconomic-stability-minister-outlines-progress",
+   "source": "Business Recorder",
+   "published": "2026-09-18T23:55:26+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, on Friday outlined Pakistan’s progress in restoring macroeconomic stability and the government’s priorities for moving towards investment, capital formation, exports and private sector-led growth. The minister was addressing the “Fireside …",
+   "image": "https://i.brecorder.com/large/2026/09/19031823b3e5960.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Auto loans rise for 21st month",
+   "url": "https://www.dawn.com/news/2030990/auto-loans-rise-for-21st-month",
+   "source": "Dawn",
+   "published": "2026-09-18T23:08:13+00:00",
+   "summary": "KARACHI: Despite a month-on-month decline in auto sales, outstanding car loans rose for the 21st consecutive month to Rs393.3 billion in August, up from Rs386.3bn in July, according to data released by the State Bank of Pakistan (SBP). Sales of cars, light commercial vehicles, pick-ups and vans clocked in at 15,558 uni…",
+   "image": "https://i.dawn.com/large/2026/09/1907435480aacd3.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee sees further improvement against US dollar",
+   "url": "https://www.brecorder.com/news/40440136/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-18T13:33:23+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 277.25, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.26 against the dollar. Globally, the Japanese yen got off ​to a weak start against th…",
+   "image": "https://i.brecorder.com/large/2026/09/181552397764ec3.webp",
    "topics": [
     "Economy"
    ],
@@ -115,104 +272,12 @@
    "domestic": true
   },
   {
-   "title": "PAC halts sugar export despite green light from advisory board",
-   "url": "https://www.dawn.com/news/2030266/pac-halts-sugar-export-despite-green-light-from-advisory-board",
-   "source": "Dawn",
-   "published": "2026-09-16T03:13:52+00:00",
-   "summary": "ISLAMABAD: The Public Accounts Committee (PAC) on Tuesday barred the government from exporting sugar without its recommendations, putting on hold a move by the Sugar Advisory Board to permit the export of 200,000 tonnes of the commodity. The apex parliamentary committee also stopped the government from importing wheat …",
-   "image": "https://i.dawn.com/large/2026/09/160812131524f19.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "State Bank of Pakistan cautions on sandbox approval",
-   "url": "https://www.dawn.com/news/2030248/state-bank-of-pakistan-cautions-on-sandbox-approval",
-   "source": "Dawn",
-   "published": "2026-09-16T02:30:20+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) said on Tuesday that the successful completion of sandbox testing does not imply regulatory approval. Successful participants must obtain the necessary authorisation and appro­val from the central bank before commercially laun­ching the product or service tested in the sandbox.…",
-   "image": "https://i.dawn.com/large/2026/09/16073001d11fa5e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PSX stages partial recovery on value-hunting",
-   "url": "https://www.dawn.com/news/2030246/psx-stages-partial-recovery-on-value-hunting",
-   "source": "Dawn",
-   "published": "2026-09-16T01:51:13+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Tuesday staged a marginal recovery rally as investors rushed to hunt for value, helping the benchmark KSE-100 index close in the green zone and snap a persistent bearish spell despite elevated tensions in the Middle East and high oil prices. Topline Securities Ltd said the …",
-   "image": "https://i.dawn.com/large/2026/09/16073229e0921cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "PSX: Buying continues, KSE-100 gains over 1,800 points",
    "url": "https://www.brecorder.com/news/40440103/psx-buying-continues-kse-100-gains-over-1800-points",
    "source": "Business Recorder",
    "published": "2026-09-18T13:32:46+00:00",
    "summary": "Buying momentum continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,800 points on Friday. The benchmark index opened around the 169,500 level and moved steadily higher during the first half of the session, crossing 170,000 and subsequently testing the 170,700–170,800 range. A…",
    "image": "https://i.brecorder.com/large/2026/09/180954353b66fcc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's net direct tax collections rise 13% from April 1-Sept 17",
-   "url": "https://www.brecorder.com/news/40440158/indias-net-direct-tax-collections-rise-13-from-april-1-sept-17",
-   "source": "Business Recorder",
-   "published": "2026-09-18T12:30:25+00:00",
-   "summary": "NEW DELHI: India’s net direct tax collections rose 13% year-on-year to 12.1 trillion rupees ($126.28 billion) between April 1 and September 17, the country’s tax department said in a statement on Friday. India likely to discuss second half borrowing on Sept. 25, sources say Direct tax collections, which include corpora…",
-   "image": "https://i.brecorder.com/large/2026/09/181729202c73234.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "When the dollar and pound hear different inflation stories",
-   "url": "https://www.brecorder.com/news/40440153/when-the-dollar-and-pound-hear-different-inflation-stories",
-   "source": "Business Recorder",
-   "published": "2026-09-18T11:59:35+00:00",
-   "summary": "GBPUSD spent much of 2026 refusing to behave like a rate trade. With the Fed and Bank of England (BoE) operating in similar policy territory, the yield gap that usually pulls the pair in one direction has become less decisive. When the differential narrows, the pair trades on the story behind their rates rather than th…",
-   "image": "https://i.brecorder.com/large/2026/09/18165845f07e05c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Auto experts criticise draft policy for weak localisation measures",
-   "url": "https://www.brecorder.com/news/40440140/auto-experts-criticise-draft-policy-for-weak-localisation-measures",
-   "source": "Business Recorder",
-   "published": "2026-09-18T11:42:01+00:00",
-   "summary": "Auto experts have urged the government to formulate the upcoming auto policy 2026-2031 focusing on localisation-friendly initiatives with a view to strengthening assembling-cum-import strategy. Auto analyst Zain Shariq said the proposed auto policy as defined is entirely anti-part manufacturing. The policy should be re…",
-   "image": "https://i.brecorder.com/large/2026/09/181610015f2d11a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of Maharashtra raises $500 million in debut dollar debt, tightens pricing",
-   "url": "https://www.brecorder.com/news/40440147/bank-of-maharashtra-raises-500-million-in-debut-dollar-debt-tightens-pricing",
-   "source": "Business Recorder",
-   "published": "2026-09-18T11:28:14+00:00",
-   "summary": "MUMBAI: India’s state-run Bank of Maharashtra’s drew strong demand for its inaugural U.S. dollar-denominated bonds, allowing it to price the five-year debt at a narrower spread compared with its initial guidance, two bankers said on Friday. The bank raised $500 million through the debt sale at a coupon of 6.1120% payab…",
-   "image": "https://i.brecorder.com/large/2026/09/1816273079e43e9.webp",
    "topics": [
     "Economy"
    ],
@@ -230,20 +295,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India likely to discuss second half borrowing on Sept. 25, sources say",
-   "url": "https://www.brecorder.com/news/40440141/india-likely-to-discuss-second-half-borrowing-on-sept-25-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-18T11:09:36+00:00",
-   "summary": "MUMBAI: India’s government officials are likely to meet next Friday to finalise the borrowing calendar for the second half of the fiscal year ending in March, two sources familiar with the matter said. An announcement is expected after the meeting. New Delhi plans to raise 16.09 trillion rupees ($167.92 billion) throug…",
-   "image": "https://i.brecorder.com/large/2026/09/1816092768a7da7.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -545,19 +596,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "GB unveils Rs218.8bn budget after long wait",
-   "url": "https://www.dawn.com/news/2030284/gb-unveils-rs2188bn-budget-after-long-wait",
-   "source": "Dawn",
-   "published": "2026-09-16T02:42:25+00:00",
-   "summary": "GILGIT: The Gilgit-Baltistan government on Tue­s­day presented a three-month delayed budget of Rs218.845 billion for fiscal year 2026-27, with a deficit of over Rs52bn, seeking additional funds from the federal government to meet various liabilities. It may be mentioned here that in July, the GB government had presen­t…",
-   "image": "https://i.dawn.com/large/2026/09/1607400272c32fd.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
