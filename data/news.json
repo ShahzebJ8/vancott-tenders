@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T16:03:59+00:00",
+ "generated": "2026-09-19T18:35:47+00:00",
  "count": 51,
  "relevant_count": 15,
  "domestic_count": 15,
@@ -206,6 +206,19 @@
    "domestic": true
   },
   {
+   "title": "Dar stresses need for uninterrupted energy supplies amid regional tensions",
+   "url": "https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions",
+   "source": "Business Recorder",
+   "published": "2026-09-19T16:15:24+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar held a telephone conversation with Iranian Foreign Minister Abbas Araghchi on Saturday, with the two discussing the latest developments in the region, according to the Foreign Office. During the conversation, Dar stressed the importance of ensuring uninterrupted ener…",
+   "image": "https://i.brecorder.com/large/2026/09/1916050775f7784.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Fuel subsidy scheme extended to internet-blind areas via SMS redemption",
    "url": "https://www.brecorder.com/news/40440265/fuel-subsidy-scheme-extended-to-internet-blind-areas-via-sms-redemption",
    "source": "Business Recorder",
@@ -229,19 +242,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Dar stresses need for uninterrupted energy supplies amid regional tensions",
-   "url": "https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions",
-   "source": "Business Recorder",
-   "published": "2026-09-19T11:30:17+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar held a telephone conversation with Iranian Foreign Minister Abbas Araghchi on Saturday, with the two discussing the latest developments in the region, according to the Foreign Office. During the conversation, Dar stressed the importance of ensuring uninterrupted ener…",
-   "image": "https://i.brecorder.com/large/2026/09/1916050775f7784.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
