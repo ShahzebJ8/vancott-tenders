@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T12:18:20+00:00",
+ "generated": "2026-09-19T16:03:53+00:00",
  "count": 635,
  "with_value": 615,
  "with_winner": 242,
@@ -12088,6 +12088,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003613",
+   "tender_no": "TS0000012048E",
+   "reference": "P97168",
+   "title": "Durable Goods for NAVTTC Furniture/Fixture",
+   "organisation": "Ministry of Federal Education and Professional Training NAVTTC Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "OFFICE MAX SOLUTIONS"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-19",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003613",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003612",
    "tender_no": "TS0000006295E",
@@ -51195,26 +51215,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001504",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001503",
-   "tender_no": "TS0000002186E",
-   "reference": "SSGC/SC/PT/EPADS/14229",
-   "title": "Providing The Services for Cleaning & Repairing of The Hangers of Painting Section Services",
-   "organisation": "Ministry of Energy (Petroleum Division) Sui Southern Gas Company Limited (SSGCL) Karachi - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "HASSAN ASSOCIATES"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-18",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001503",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

@@ -1,11 +1,11 @@
 {
- "generated": "2026-09-19T12:18:27+00:00",
+ "generated": "2026-09-19T16:03:59+00:00",
  "count": 51,
- "relevant_count": 13,
+ "relevant_count": 15,
  "domestic_count": 15,
  "sources": {
   "Dawn": "ok (16)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (6)"
  },
@@ -204,6 +204,32 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Fuel subsidy scheme extended to internet-blind areas via SMS redemption",
+   "url": "https://www.brecorder.com/news/40440265/fuel-subsidy-scheme-extended-to-internet-blind-areas-via-sms-redemption",
+   "source": "Business Recorder",
+   "published": "2026-09-19T15:03:45+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar on Saturday chaired a meeting of the National Steering Committee on Fuel Subsidy to evaluate the progress of the Prime Minister’s Special Relief Scheme. According to the Office of the Deputy Prime Minister, the committee was briefed that an overwhelm…",
+   "image": "https://i.brecorder.com/large/2026/09/1919594626fd97b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
+   "url": "https://www.brecorder.com/news/40440264/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-aerial-attack-threat",
+   "source": "Business Recorder",
+   "published": "2026-09-19T14:33:17+00:00",
+   "summary": "RIYADH: A large plume of smoke was visible near Riyadh’s main airport on Saturday after booms were heard and Saudi Arabia sent alerts overnight warning of potential danger around the capital, amid an escalation in attacks by Yemen’s Houthi group. Reuters video and photographs showed a huge pillar of black smoke rising …",
+   "image": "https://i.brecorder.com/large/2026/09/191931524348150.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Dar stresses need for uninterrupted energy supplies amid regional tensions",
@@ -475,32 +501,6 @@
    "published": "2026-09-18T03:10:29+00:00",
    "summary": "TOKYO: The Bank of Japan raised ​interest rates to a ‌31-year high of 1.25% on Friday in a ​widely expected move ​to forestall risks of inflation ⁠overshooting its 2% ​inflation target. At a two-day ​policy meeting that ended on Friday, the board decided ​by a 7-2 ​vote to raise its policy rate ‌from ⁠1%. Board member …",
    "image": "https://i.brecorder.com/large/2026/09/180810093de4cbe.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee may find breathing room on IPO-linked inflows, oil retreat",
-   "url": "https://www.brecorder.com/news/40440098/indian-rupee-may-find-breathing-room-on-ipo-linked-inflows-oil-retreat",
-   "source": "Business Recorder",
-   "published": "2026-09-18T03:02:41+00:00",
-   "summary": "MUMBAI: The Indian rupee is set to open modestly stronger on Friday , soothed by a retreat in oil prices and expectations ​of foreign portfolio inflows linked to a large initial public offering, ‌though the currency remains on track for a weekly decline. Oil prices eased on ​Friday , extending losses into a third sessi…",
-   "image": "https://i.brecorder.com/large/2026/09/180802044b7ebcd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Stocks rise as oil dips, yen wobbles ahead of BOJ",
-   "url": "https://www.brecorder.com/news/40440097/stocks-rise-as-oil-dips-yen-wobbles-ahead-of-boj",
-   "source": "Business Recorder",
-   "published": "2026-09-18T02:59:22+00:00",
-   "summary": "SINGAPORE: Asian stocks rose and the dollar held its ground on ​Friday as investors contended with global policymakers ramping up efforts to rein in inflation, with a dip in oil prices ‌improving sentiment ahead of an expected rate hike from the Bank of Japan. Monetary policy response is in focus this week as the over …",
-   "image": "https://i.brecorder.com/large/2026/09/1807561725b8013.webp",
    "topics": [
     "Economy"
    ],
