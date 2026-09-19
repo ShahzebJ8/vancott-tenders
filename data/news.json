@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-19T21:19:39+00:00",
- "count": 51,
- "relevant_count": 15,
- "domestic_count": 15,
+ "generated": "2026-09-19T23:22:24+00:00",
+ "count": 50,
+ "relevant_count": 11,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,32 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Suzuki starts exporting Pak-made Alto to Brunei",
+   "url": "https://www.brecorder.com/news/40440310/suzuki-starts-exporting-pak-made-alto-to-brunei",
+   "source": "Business Recorder",
+   "published": "2026-09-19T21:22:45+00:00",
+   "summary": "LAHORE: Pakistan’s automotive industry marked a significant milestone today as Haroon Akhtar Khan, Adviser to the Prime Minister on Industries & Production, inaugurated the commencement of regular exports program of Pakistan-manufactured Suzuki Alto and Suzuki Every to Brunei Darussalam; at the Pakistan Auto Show 2026 …",
+   "image": "https://i.brecorder.com/large/2026/09/20010515c09396c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Agri experts urge federal govt to allow export of 1m tons of sugar",
+   "url": "https://www.brecorder.com/news/40440317/agri-experts-urge-federal-govt-to-allow-export-of-1m-tons-of-sugar",
+   "source": "Business Recorder",
+   "published": "2026-09-19T21:22:45+00:00",
+   "summary": "ISLAMABAD: Agricultural experts strongly proposed the federal government to allow export of one million tons of sugar to save farmers and sugar industry and growers as well as millers from any crisis like situation in Pakistan. This has been stated by the agricultural experts at a seminar held at the National Press Clu…",
+   "image": "https://i.brecorder.com/large/2026/09/200110215b6dc6f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM widens fuel subsidy, eases weekly limits",
    "url": "https://www.dawn.com/news/2031027/pm-widens-fuel-subsidy-eases-weekly-limits",
@@ -60,45 +86,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt urged to go for a balanced fiscal policy",
-   "url": "https://www.brecorder.com/news/40440224/govt-urged-to-go-for-a-balanced-fiscal-policy",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "ISLAMABAD: While appreciating policy interventions through Finance Act 2026, a top official of a leading multinational beverage company has strongly proposed a balanced fiscal policy to incentivize compliant, formal market players and bring the large informal sector under regulatory oversight and the documented regime.…",
-   "image": "https://i.brecorder.com/large/2026/09/19034026e040eb3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Initiative launched to help chili farmers achieve export quality standards",
-   "url": "https://www.brecorder.com/news/40440225/initiative-launched-to-help-chili-farmers-achieve-export-quality-standards",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "KARACHI: Food Security and Agriculture Centre of Excellence (FACE) launched an initiative for improving local quality of red chilies to reach the required export standards. According to details, the Food Security and Agriculture Centre of Excellence (FACE) has distributed geotextile drying sheets to chili farmers to ra…",
-   "image": "https://i.brecorder.com/large/2026/09/1904412404b5e95.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PM lauds FM, team as FX reserves hit all-time high of USD21.4bn",
-   "url": "https://www.brecorder.com/news/40440227/pm-lauds-fm-team-as-fx-reserves-hit-all-time-high-of-usd214bn",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday lauded Finance Minister Muhammad Aurangzeb and his economic team after the country’s foreign exchange reserves hit an all-time high of USD21.4 billion. In a statement, the Prime Minister paid tribute to Aurangzeb, State Bank of Pakistan (SBP) Governor Jameel Ahmad, the…",
-   "image": "https://i.brecorder.com/large/2026/09/1904303183907e4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -206,12 +193,12 @@
    "domestic": true
   },
   {
-   "title": "Dar stresses need for uninterrupted energy supplies amid regional tensions",
-   "url": "https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions",
+   "title": "Aramco to boost Gulf exports to 60m barrels",
+   "url": "https://www.brecorder.com/news/40440274/aramco-to-boost-gulf-exports-to-60m-barrels",
    "source": "Business Recorder",
-   "published": "2026-09-19T16:15:24+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar held a telephone conversation with Iranian Foreign Minister Abbas Araghchi on Saturday, with the two discussing the latest developments in the region, according to the Foreign Office. During the conversation, Dar stressed the importance of ensuring uninterrupted ener…",
-   "image": "https://i.brecorder.com/large/2026/09/1916050775f7784.webp",
+   "published": "2026-09-19T21:22:45+00:00",
+   "summary": "SINGAPORE/NEW DELHI: Saudi Arabia has sold about 60 million barrels of crude from its Gulf port of Ras Tanura inside the Strait of Hormuz for loading via ship-to-ship transfer at the Omani port of Sohar this month and next, multiple trade sources said on Friday. The rebound in state oil company Saudi Aramco’s exports f…",
+   "image": "https://i.brecorder.com/large/2026/09/200028128d288dc.webp",
    "topics": [
     "Economy"
    ],
@@ -219,43 +206,42 @@
    "domestic": false
   },
   {
-   "title": "Fuel subsidy scheme extended to internet-blind areas via SMS redemption",
-   "url": "https://www.brecorder.com/news/40440265/fuel-subsidy-scheme-extended-to-internet-blind-areas-via-sms-redemption",
+   "title": "EU to impose provisional safeguards to protect electrical steel from imports",
+   "url": "https://www.brecorder.com/news/40440275/eu-to-impose-provisional-safeguards-to-protect-electrical-steel-from-imports",
    "source": "Business Recorder",
-   "published": "2026-09-19T15:03:45+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar on Saturday chaired a meeting of the National Steering Committee on Fuel Subsidy to evaluate the progress of the Prime Minister’s Special Relief Scheme. According to the Office of the Deputy Prime Minister, the committee was briefed that an overwhelm…",
-   "image": "https://i.brecorder.com/large/2026/09/1919594626fd97b.webp",
+   "published": "2026-09-19T21:22:45+00:00",
+   "summary": "BRUSSELS/ FRANKFURT: The European Union will impose a set of import quotas and minimum prices for electrical steel and downstream products, it said on Friday, in a bid to shield the EU from cheap imports, principally from Asia. The move will benefit Thyssenkrupp’s steel unit TKMS and Poland’s Stalprodukt SA, among the …",
+   "image": "https://i.brecorder.com/large/2026/09/200029015eab68a.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
-   "title": "Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat",
-   "url": "https://www.brecorder.com/news/40440264/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-aerial-attack-threat",
+   "title": "Switzerland ups 2026 GDP growth forecast",
+   "url": "https://www.brecorder.com/news/40440284/switzerland-ups-2026-gdp-growth-forecast",
    "source": "Business Recorder",
-   "published": "2026-09-19T14:33:17+00:00",
-   "summary": "RIYADH: A large plume of smoke was visible near Riyadh’s main airport on Saturday after booms were heard and Saudi Arabia sent alerts overnight warning of potential danger around the capital, amid an escalation in attacks by Yemen’s Houthi group. Reuters video and photographs showed a huge pillar of black smoke rising …",
-   "image": "https://i.brecorder.com/large/2026/09/191931524348150.webp",
+   "published": "2026-09-19T21:22:45+00:00",
+   "summary": "SWITZERLAND: The Swiss government on Thursday upped its 2026 economic growth forecast to 1.7percent, citing an exceptionally high growth recorded in the second quarter of the year. Switzerland is traditionally one of Europe’s more resilient economies, with big sectors such as pharmaceuticals less affected by swings in …",
+   "image": "https://i.brecorder.com/large/2026/09/20004207fc2d3ee.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
-   "title": "Moody's cuts Poland's ratings on deteriorating fiscal strength",
-   "url": "https://www.brecorder.com/news/40440244/moodys-cuts-polands-ratings-on-deteriorating-fiscal-strength",
+   "title": "Australia’s central bank chief warns inflation risks materialising",
+   "url": "https://www.brecorder.com/news/40440286/australias-central-bank-chief-warns-inflation-risks-materialising",
    "source": "Business Recorder",
-   "published": "2026-09-19T06:26:41+00:00",
-   "summary": "Credit ratings agency Moody’s downgraded Poland’s sovereign rating to “A3” from “A2” on Friday, citing sustained deterioration in the country’s fiscal strength. Poland continues to finance major defence, infrastructure and social spending programmes while maintaining some of the highest fiscal deficits in the European …",
-   "image": "https://i.brecorder.com/large/2026/09/191126254e456ee.webp",
+   "published": "2026-09-19T21:22:45+00:00",
+   "summary": "CANBERRA/SYDNEY: Australia’s top central banker said on Friday some of the upside risks to inflation flagged by policymakers appeared to be materialising, with the Middle East conflict and the AI boom putting upward pressure on prices. Addressing lawmakers, Michele Bullock, governor of the Reserve Bank of Australia, sa…",
+   "image": "https://i.brecorder.com/large/2026/09/20004545a894669.webp",
    "topics": [
-    "Budget & spending",
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
