@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-19T07:49:49+00:00",
- "count": 55,
- "relevant_count": 14,
- "domestic_count": 20,
+ "generated": "2026-09-19T12:18:27+00:00",
+ "count": 51,
+ "relevant_count": 13,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (16)",
@@ -63,19 +63,6 @@
    "domestic": true
   },
   {
-   "title": "Stabilising prices: Dar reviews wheat import",
-   "url": "https://www.brecorder.com/news/40440239/stabilising-prices-dar-reviews-wheat-import",
-   "source": "Business Recorder",
-   "published": "2026-09-19T01:39:35+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/ FM) Senator Mohammad Ishaq Dar directed the Trading Corporation of Pakistan (TCP) to ensure that the provinces receive the requisite quantities according to their requirements. He also directed the Pakistan Agricultural Storage and Services Corporation (PASSCO…",
-   "image": "https://i.brecorder.com/large/2026/09/19032932f0286c1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Govt urged to go for a balanced fiscal policy",
    "url": "https://www.brecorder.com/news/40440224/govt-urged-to-go-for-a-balanced-fiscal-policy",
    "source": "Business Recorder",
@@ -108,59 +95,6 @@
    "published": "2026-09-18T23:55:26+00:00",
    "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday lauded Finance Minister Muhammad Aurangzeb and his economic team after the country’s foreign exchange reserves hit an all-time high of USD21.4 billion. In a statement, the Prime Minister paid tribute to Aurangzeb, State Bank of Pakistan (SBP) Governor Jameel Ahmad, the…",
    "image": "https://i.brecorder.com/large/2026/09/1904303183907e4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Jul-Aug textile exports climb 5.55pc YoY",
-   "url": "https://www.brecorder.com/news/40440237/jul-aug-textile-exports-climb-555pc-yoy",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "ISLAMABAD: Pakistan’s textile sector exports have registered an increase of 5.55 percent during July-August of the current financial year 2026-27 as compared to the same months of last year, according to the Monthly Advance Releases on Foreign Trade Statistics released here on Friday by the Pakistan Bureau of Statistic…",
-   "image": "https://i.brecorder.com/large/2026/09/1903324480c8375.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SPI-based inflation rises slightly",
-   "url": "https://www.brecorder.com/news/40440238/spi-based-inflation-rises-slightly",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "ISLAMABAD: The Sensitive Price Index (SPI)-based inflation for the week ended on September 17, 2026, registered an increase of 0.49percent, owing to sharp price escalation in diesel by 7.29percent, petrol by 6.40percent, and Liquefied Petroleum Gas (LPG) by 3.26percent. According to the SPI data released here on Friday…",
-   "image": "https://i.brecorder.com/large/2026/09/19033035de3cc00.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Jul-Aug mobile phone imports decline 8.85pc YoY",
-   "url": "https://www.brecorder.com/news/40440241/jul-aug-mobile-phone-imports-decline-885pc-yoy",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "ISLAMABAD: Pakistan’s mobile phone imports declined 8.85 percent during the first two months of the current fiscal year, falling to USD274.129 million from USD300.741 million in the corresponding period of last fiscal year, according to data released by the Pakistan Bureau of Statistics (PBS). In rupee terms, mobile ph…",
-   "image": "https://i.brecorder.com/large/2026/09/19032804cebcc8d.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Macroeconomic stability: minister outlines progress",
-   "url": "https://www.brecorder.com/news/40440243/macroeconomic-stability-minister-outlines-progress",
-   "source": "Business Recorder",
-   "published": "2026-09-18T23:55:26+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, on Friday outlined Pakistan’s progress in restoring macroeconomic stability and the government’s priorities for moving towards investment, capital formation, exports and private sector-led growth. The minister was addressing the “Fireside …",
-   "image": "https://i.brecorder.com/large/2026/09/19031823b3e5960.webp",
    "topics": [
     "Economy"
    ],
@@ -270,6 +204,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Dar stresses need for uninterrupted energy supplies amid regional tensions",
+   "url": "https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions",
+   "source": "Business Recorder",
+   "published": "2026-09-19T11:30:17+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar held a telephone conversation with Iranian Foreign Minister Abbas Araghchi on Saturday, with the two discussing the latest developments in the region, according to the Foreign Office. During the conversation, Dar stressed the importance of ensuring uninterrupted ener…",
+   "image": "https://i.brecorder.com/large/2026/09/1916050775f7784.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Moody's cuts Poland's ratings on deteriorating fiscal strength",

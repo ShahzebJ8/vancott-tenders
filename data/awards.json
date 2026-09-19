@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-19T07:49:43+00:00",
+ "generated": "2026-09-19T12:18:20+00:00",
  "count": 635,
  "with_value": 615,
  "with_winner": 242,
@@ -12088,6 +12088,32 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003612",
+   "tender_no": "TS0000006295E",
+   "reference": "MNT/TE/027/2026",
+   "title": "LED BULBS & Flood Lights Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Multan - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "Makkah Traders for items 2 & 3",
+    "Quite Rite Solutions 5&6",
+    "RS Traders items 1,7,8,10,11",
+    "Applied Tech. item no.9",
+    "Anas Farzand for item 04"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-19",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003612",
+   "is_smd": false,
+   "smd_score": 3,
+   "matched_terms": [
+    "led"
+   ]
+  },
   {
    "evaluation_no": "EVL00000003611",
    "tender_no": "TS0000003839E",
@@ -35476,6 +35502,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000002351",
+   "tender_no": "TS0000008521E",
+   "reference": "USF/TDRS/PT&#38;I/DTS/2026-2027/06",
+   "title": "New DTS Portfolio & Upgradation of Existing TEMs DT Hardware Info and Comm Tech",
+   "organisation": "Universal Services Fund Company Universal Service Fund Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "Stratum Pvt Ltd Universal Services Fund Company"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-28",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002351",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000002349",
    "tender_no": "TS0000009349E",
    "reference": "P552562026-27",
@@ -51169,44 +51215,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001503",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001502",
-   "tender_no": "TS0000004855E",
-   "reference": "GC/34/TRE/25-26",
-   "title": "FABRICATION & SUPPLY OF T.R. UNIT ENCLOSURES OF CP STATIONS IN GUJRANWALA REGION Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Gujranwala - Pakistan",
-   "bid_count": 4,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-18",
-   "city": "Gujranwala",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001502",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001501",
-   "tender_no": "TS0000000473E",
-   "reference": "F-26021700853/E/CS-2(188)/484",
-   "title": "REPAIR AND MAINTENANCE OF KPT FLAT NO. GK-71 AT KV-06 BUILDING CHINA CREEK KEAMARI. Civil Works",
-   "organisation": "Ministry of Maritime Affairs Karachi Port Trust Karachi - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Allah Bux Kalwar."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-18",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001501",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
