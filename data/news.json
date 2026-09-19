@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-19T02:54:38+00:00",
- "count": 54,
- "relevant_count": 13,
+ "generated": "2026-09-19T07:49:49+00:00",
+ "count": 55,
+ "relevant_count": 14,
  "domestic_count": 20,
  "sources": {
   "Dawn": "ok (16)",
@@ -10,6 +10,19 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "PM widens fuel subsidy, eases weekly limits",
+   "url": "https://www.dawn.com/news/2031027/pm-widens-fuel-subsidy-eases-weekly-limits",
+   "source": "Dawn",
+   "published": "2026-09-19T07:40:56+00:00",
+   "summary": "• Token validity increased, people can now use Rs500 discount per week • Minister says scheme benefits 24m • Sindh likely to introduce revised market timings ISLAMABAD: Prime Minister Shehbaz Sharif on Friday approved a revised structure for the public under the fuel relief scheme currently in vogue across the country,…",
+   "image": "https://i.dawn.com/large/2026/09/19074024170bcf7.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Stocks settle above 170,000 on renewed buying",
    "url": "https://www.dawn.com/news/2030985/stocks-settle-above-170000-on-renewed-buying",
@@ -21,19 +34,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PM widens fuel subsidy, eases weekly limits",
-   "url": "https://www.dawn.com/news/2031027/pm-widens-fuel-subsidy-eases-weekly-limits",
-   "source": "Dawn",
-   "published": "2026-09-19T02:41:29+00:00",
-   "summary": "• Token validity increased, people can now use Rs500 discount per week • Minister says scheme benefits 24m • Sindh likely to introduce revised market timings ISLAMABAD: Prime Minister Shehbaz Sharif on Friday approved a revised structure for the public under the fuel relief scheme currently in vogue across the country,…",
-   "image": "https://i.dawn.com/large/2026/09/19074024170bcf7.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -272,6 +272,72 @@
    "domestic": true
   },
   {
+   "title": "Moody's cuts Poland's ratings on deteriorating fiscal strength",
+   "url": "https://www.brecorder.com/news/40440244/moodys-cuts-polands-ratings-on-deteriorating-fiscal-strength",
+   "source": "Business Recorder",
+   "published": "2026-09-19T06:26:41+00:00",
+   "summary": "Credit ratings agency Moody’s downgraded Poland’s sovereign rating to “A3” from “A2” on Friday, citing sustained deterioration in the country’s fiscal strength. Poland continues to finance major defence, infrastructure and social spending programmes while maintaining some of the highest fiscal deficits in the European …",
+   "image": "https://i.brecorder.com/large/2026/09/191126254e456ee.webp",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Fuel hikes push SPI into double digits",
+   "url": "https://tribune.com.pk/story/2630107/fuel-hikes-push-spi-into-double-digits",
+   "source": "The Express Tribune",
+   "published": "2026-09-18T16:03:24+00:00",
+   "summary": "Inflation jumps 10.64% YoY; weekly index up 0.49% on expensive energy, food",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX gains 1,841 points on crude price relief",
+   "url": "https://tribune.com.pk/story/2630114/psx-gains-1841-points-on-crude-price-relief",
+   "source": "The Express Tribune",
+   "published": "2026-09-18T16:03:24+00:00",
+   "summary": "Banks, fertiliser stocks lift KSE-100 amid renewed US-Iran talks' hopes",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises Rs6,900 on global bullion strength",
+   "url": "https://tribune.com.pk/story/2630112/gold-rises-rs6900-on-global-bullion-strength",
+   "source": "The Express Tribune",
+   "published": "2026-09-18T16:03:24+00:00",
+   "summary": "International prices hit one-week high; rupee inches up to 277.25/$",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Focus now on investment, capital formation: FinMin",
+   "url": "https://tribune.com.pk/story/2630108/focus-now-on-investment-capital-formation-finmin",
+   "source": "The Express Tribune",
+   "published": "2026-09-18T16:03:24+00:00",
+   "summary": "Aurangzeb outlines key priorities including fiscal, external shock-absorbing capacity",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "PSX: Buying continues, KSE-100 gains over 1,800 points",
    "url": "https://www.brecorder.com/news/40440103/psx-buying-continues-kse-100-gains-over-1800-points",
    "source": "Business Recorder",
@@ -378,19 +444,6 @@
    "domestic": false
   },
   {
-   "title": "PM Shehbaz expands petrol subsidy scheme, announces Rs500 weekly relief for motorcycle, rickshaw users",
-   "url": "https://tribune.com.pk/story/2630042/pm-directs-inclusion-of-20-year-old-bikes-rickshaws-in-fuel-relief-scheme",
-   "source": "The Express Tribune",
-   "published": "2026-09-18T06:17:28+00:00",
-   "summary": "Also orders 20-year-old motorcycles and rickshaws be made eligible for registration",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Malaysia's August exports rise 45.5% y/y, above forecast",
    "url": "https://www.brecorder.com/news/40440112/malaysias-august-exports-rise-455-yy-above-forecast",
    "source": "Business Recorder",
@@ -449,19 +502,6 @@
    "published": "2026-09-18T05:35:02+00:00",
    "summary": "Gold inched higher on Friday as lower oil prices and a subdued US dollar offered support, while market participants kept their focus on developments in the Middle East and the outlook for global monetary policy. Spot gold was up 0.2% at $4,346.65 per ounce, as of 0145 GMT. US gold futures were down 0.3% at $4,385.70. O…",
    "image": "https://i.brecorder.com/large/2026/09/181034291dcc5f2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX up nearly 1,850 points on interest in bank, cement stocks",
-   "url": "https://tribune.com.pk/story/2630022/psx-surges-past-170000-as-oil-eases",
-   "source": "The Express Tribune",
-   "published": "2026-09-18T03:38:38+00:00",
-   "summary": "KSE-100 closes at 170,885; benchmark index gains 1.09% on healthy 575 million-share volume",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -566,32 +606,6 @@
    "published": "2026-09-17T02:04:58+00:00",
    "summary": "WASHINGTON: The US Federal Reserve on Wednesday raised interest rates in the world’s largest economy by 25 basis points to tackle stubbornly high inflation, a move sure to anger President Donald Trump, who has demanded lower rates. The Fed’s Federal Open Market Committee voted unanimously to raise rates to between 3.75…",
    "image": "https://i.dawn.com/large/2026/09/17033929c96df3c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Directives issued to address delay in goods clearance",
-   "url": "https://tribune.com.pk/story/2629732/directives-issued-to-address-delay-in-goods-clearance",
-   "source": "The Express Tribune",
-   "published": "2026-09-16T15:47:25+00:00",
-   "summary": "Minister stresses improvement in transit time for textile exports",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX stays in red amid oil supply disruptions",
-   "url": "https://tribune.com.pk/story/2629735/psx-stays-in-red-amid-oil-supply-disruptions",
-   "source": "The Express Tribune",
-   "published": "2026-09-16T15:47:25+00:00",
-   "summary": "KSE-100 index sheds 1,371 points on persistent selling pressure",
-   "image": null,
    "topics": [
     "Economy"
    ],
