@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-20T12:03:00+00:00",
+ "generated": "2026-09-20T15:48:07+00:00",
  "count": 45,
- "relevant_count": 13,
- "domestic_count": 10,
+ "relevant_count": 14,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (13)",
@@ -10,6 +10,20 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Govt invites bids for first 400MW wheeling auction, says it is exiting power procurement",
+   "url": "https://www.dawn.com/news/2031351/govt-invites-bids-for-first-400mw-wheeling-auction-says-it-is-exiting-power-procurement",
+   "source": "Dawn",
+   "published": "2026-09-20T15:41:11+00:00",
+   "summary": "ISLAMABAD: The government on Sunday announced the first wheeling auction of 400 megawatt electricity under the much delayed Competitive Trading Bilateral Contracts Market (CTBCM), enabling large, mostly industrial, consumers to opt for power suppliers of their choice anywhere in the country instead of relying solely on…",
+   "image": "https://i.dawn.com/large/2026/09/201955079500b95.webp",
+   "topics": [
+    "Energy & power",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Wheat imports unlikely to cut prices",
    "url": "https://www.dawn.com/news/2031262/wheat-imports-unlikely-to-cut-prices",
@@ -478,19 +492,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "US Fed delivers first rate hike since 2023",
-   "url": "https://www.dawn.com/news/2030491/us-fed-delivers-first-rate-hike-since-2023",
-   "source": "Dawn",
-   "published": "2026-09-17T02:04:58+00:00",
-   "summary": "WASHINGTON: The US Federal Reserve on Wednesday raised interest rates in the world’s largest economy by 25 basis points to tackle stubbornly high inflation, a move sure to anger President Donald Trump, who has demanded lower rates. The Fed’s Federal Open Market Committee voted unanimously to raise rates to between 3.75…",
-   "image": "https://i.dawn.com/large/2026/09/17033929c96df3c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
