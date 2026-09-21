@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-20T23:09:46+00:00",
- "count": 43,
+ "generated": "2026-09-21T01:24:47+00:00",
+ "count": 46,
  "relevant_count": 14,
- "domestic_count": 11,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (13)",
@@ -10,6 +10,32 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Govt begins to move out of power business",
+   "url": "https://www.brecorder.com/news/40440442/govt-begins-to-move-out-of-power-business",
+   "source": "Business Recorder",
+   "published": "2026-09-20T23:53:47+00:00",
+   "summary": "ISLAMABAD: The government has taken a major step towards transforming Pakistan’s power sector from a single-buyer model to a competitive electricity market, under which it would neither sell electricity nor purchase power from producers in the traditional manner. Federal Minister for Power Sardar Awais Ahmad Khan Legha…",
+   "image": "https://i.brecorder.com/large/2026/09/21043518faaf1ff.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM’s message on International Day of Peace",
+   "url": "https://www.brecorder.com/news/40440454/pms-message-on-international-day-of-peace",
+   "source": "Business Recorder",
+   "published": "2026-09-20T23:53:47+00:00",
+   "summary": "ISLAMABAD: On the International Day of Peace, Pakistan, together with the international community, renews its commitment to the constructive values of peaceful coexistence, global stability and security, equal opportunities for development and prosperity, and justice and fairness. Pakistan takes pride in its constructi…",
+   "image": "https://i.brecorder.com/large/2026/09/21035915de2f7bc.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Govt invites bids for first 400MW wheeling auction, says it is exiting power procurement",
    "url": "https://www.dawn.com/news/2031351/govt-invites-bids-for-first-400mw-wheeling-auction-says-it-is-exiting-power-procurement",
@@ -155,6 +181,45 @@
    "domestic": true
   },
   {
+   "title": "KP govt makes budgetary allocations for WCCIPD",
+   "url": "https://www.brecorder.com/news/40440452/kp-govt-makes-budgetary-allocations-for-wccipd",
+   "source": "Business Recorder",
+   "published": "2026-09-21T01:04:03+00:00",
+   "summary": "PESHAWAR: Advisor to KP CM on Finance, Muzammil Aslam has announced that necessary budgetary allocations and procedures have been completed for several important initiatives. He was addressing women entrepreneurs of the Women Chamber of Commerce and Industries (WCCI Peshawar Division (WCCIPD). The initiatives include t…",
+   "image": "https://i.brecorder.com/large/2026/09/21060315ee2ec83.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SOEs: Govt must reduce footprint",
+   "url": "https://www.brecorder.com/news/40440409/soes-govt-must-reduce-footprint",
+   "source": "Business Recorder",
+   "published": "2026-09-21T00:35:43+00:00",
+   "summary": "EDITORIAL: Reportedly, the financial health of State-Owned Enterprises (SOEs) is deteriorating fast, as net fiscal inflows from SOEs dropped to one-tenth in the first half of the last fiscal year. That is not a pretty picture, especially when the finance minister is very vocal about cutting losses in SOEs. There are a …",
+   "image": "https://i.brecorder.com/large/2026/09/210132528405f0e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Textile sector: A power-market reform must deliver competitive system: stakeholders",
+   "url": "https://www.brecorder.com/news/40440388/textile-sector-a-power-market-reform-must-deliver-competitive-system-stakeholders",
+   "source": "Business Recorder",
+   "published": "2026-09-20T23:53:46+00:00",
+   "summary": "FAISALABAD: Pakis-tan’s power-market reforms must translate into a commercially viable, reliable and transparent energy system if the country’s export-oriented textile sector is to remain competitive while meeting growing demands for energy efficiency, renewable-energy integration and industrial decarbonisation. Stakeh…",
+   "image": "https://i.brecorder.com/large/2026/09/21005749be89554.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Govt launches 400MW auction under competitive power market",
    "url": "https://www.brecorder.com/news/40440363/govt-launches-400mw-auction-under-competitive-power-market",
    "source": "Business Recorder",
@@ -178,32 +243,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Two dead in Moscow region, drones hit oil refinery in Russian capital",
-   "url": "https://www.brecorder.com/news/40440359/two-dead-in-moscow-region-drones-hit-oil-refinery-in-russian-capital",
-   "source": "Business Recorder",
-   "published": "2026-09-20T06:18:20+00:00",
-   "summary": "MOSCOW: Two people died ‌in one of the biggest Ukrainian drone attacks on the Moscow region and an oil refinery in Russia’s capital was hit, authorities said on Sunday, as Russia enters the final day ​of parliamentary elections. Ukraine and Russia have continued attacks on each other’s energy infrastructure despite ​an…",
-   "image": "https://i.brecorder.com/large/2026/09/20111621e6eeda5.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Flames, smoke seen near Riyadh airport; Houthis claim attacks on Saudi capital",
-   "url": "https://www.brecorder.com/news/40440353/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital",
-   "source": "Business Recorder",
-   "published": "2026-09-20T05:26:02+00:00",
-   "summary": "RIYADH: Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital Riyadh on Saturday with missiles and drones, hours after flames and a large ​plume of smoke were seen near the city’s main airport. Saudi Arabia had sent alerts overnight warning of potential danger around Riyadh, amid an escalation in at…",
-   "image": "https://i.brecorder.com/large/2026/09/20102539c34de4f.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
