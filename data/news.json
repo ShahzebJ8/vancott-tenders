@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-21T19:05:56+00:00",
+ "generated": "2026-09-21T22:46:37+00:00",
  "count": 50,
- "relevant_count": 11,
+ "relevant_count": 10,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (14)",
@@ -155,11 +155,11 @@
    "domestic": true
   },
   {
-   "title": "Dar meets EU foreign policy chief, stresses importance of GSP+ status for Pakistan's trade ties with the bloc",
-   "url": "https://www.dawn.com/news/2031647/dar-meets-eu-foreign-policy-chief-stresses-importance-of-gsp-status-for-pakistans-trade-ties-with-the-bloc",
+   "title": "Dar meets EU foreign policy chief, stresses importance of GSP+ for Pakistan's trade ties with the bloc",
+   "url": "https://www.dawn.com/news/2031647/dar-meets-eu-foreign-policy-chief-stresses-importance-of-gsp-for-pakistans-trade-ties-with-the-bloc",
    "source": "Dawn",
-   "published": "2026-09-21T18:34:32+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the significance of GSP+ status for Pakistan’s trade relations with the European Union in a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas on Monday, according to a statement by the Foreign Office (FO). The meeting to…",
+   "published": "2026-09-21T19:50:13+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the significance of GSP+ for Pakistan’s trade relations with the European Union in a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas on Monday, according to a statement by the Foreign Office (FO). The meeting took plac…",
    "image": "https://i.dawn.com/large/2026/09/2123122979a8ac1.webp",
    "topics": [
     "Economy"
@@ -455,17 +455,16 @@
    "domestic": false
   },
   {
-   "title": "G-B budget and overall economy",
-   "url": "https://tribune.com.pk/story/2630428/g-b-budget-and-overall-economy",
+   "title": "FM Dar stresses importance of GSP+ status in meeting with EU foreign policy chief",
+   "url": "https://tribune.com.pk/story/2630523/fm-dar-arrives-in-new-york-for-united-nations-general-assembly-session",
    "source": "The Express Tribune",
-   "published": "2026-09-20T16:22:55+00:00",
-   "summary": "Region has limited fiscal space to build infrastructure, productive capacity to expand its economic, revenue base",
+   "published": "2026-09-21T01:42:54+00:00",
+   "summary": "Dar highlights importance Pak attaches to its partnership with the EU, particularly in trade, economic cooperation",
    "image": null,
    "topics": [
-    "Budget & spending",
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
