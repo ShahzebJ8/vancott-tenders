@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T13:38:05+00:00",
+ "generated": "2026-09-21T19:05:51+00:00",
  "count": 648,
  "with_value": 627,
  "with_winner": 244,
@@ -12409,6 +12409,26 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003640",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003639",
+   "tender_no": "TS0000012306E",
+   "reference": "1024/",
+   "title": "Purchase of IT Eqpt Equipments",
+   "organisation": "Ministry of Defence E-in-C Branch (Engineer-in-Chief Branch), DR&S IT Cell Rawalpindi - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Jamal & Brothers"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-21",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003639",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -51435,24 +51455,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001535",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001534",
-   "tender_no": "TS0000005608E",
-   "reference": "FCS/TRP/TE/092/26",
-   "title": "Misc Galvanized Self Material Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Muridke - Pakistan",
-   "bid_count": 6,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-20",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001534",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

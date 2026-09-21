@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-21T13:38:12+00:00",
- "count": 53,
- "relevant_count": 13,
- "domestic_count": 13,
+ "generated": "2026-09-21T19:05:56+00:00",
+ "count": 50,
+ "relevant_count": 11,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Privatisation Commission gets ‘overwhelming response’ from investors for Iesco privatisation",
+   "url": "https://www.dawn.com/news/2031613/privatisation-commission-gets-overwhelming-response-from-investors-for-iesco-privatisation",
+   "source": "Dawn",
+   "published": "2026-09-21T14:11:15+00:00",
+   "summary": "ISLAMABAD: The Privatisation Commission on Monday said it received an “overwhelming response” from domestic and international investors for the privatisation of Islamabad Electric Supply Company (Iesco). Iesco is among the three electricity distribution companies in Discos Batch-I, alongside Faisalabad Electric Supply …",
+   "image": "https://i.dawn.com/large/2026/09/211917149677edb.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40440509/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -21,20 +34,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistani tech co Zuma Resources sets up UK subsidiary for global connectivity expansion",
-   "url": "https://www.brecorder.com/news/40440502/pakistani-tech-co-zuma-resources-sets-up-uk-subsidiary-for-global-connectivity-expansion",
-   "source": "Business Recorder",
-   "published": "2026-09-21T08:23:21+00:00",
-   "summary": "Zuma Resources Limited has incorporated a wholly owned subsidiary in the United Kingdom as part of its international expansion strategy, with the new entity set to develop and expand the group’s digital connectivity and technology operations. According to a notice sent to the Pakistan Stock Exchange (PSX) on Monday, Zu…",
-   "image": "https://i.brecorder.com/large/2026/09/211320211637e87.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -143,19 +142,6 @@
    "domestic": true
   },
   {
-   "title": "Stocks stage partial recovery on select buying",
-   "url": "https://www.dawn.com/news/2030748/stocks-stage-partial-recovery-on-select-buying",
-   "source": "Dawn",
-   "published": "2026-09-18T03:22:41+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Thursday attracted renewed buying interest in select sectors, helping the benchmark KSE-100 index partially recover overnight losses, despite persistent uncertainty on the economic front due to geopolitical concerns amid elevated crude oil prices. Topline Securities Ltd sa…",
-   "image": "https://i.dawn.com/large/2026/09/18082055140cb7d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Bids for power firms being evaluated",
    "url": "https://www.dawn.com/news/2030751/bids-for-power-firms-being-evaluated",
    "source": "Dawn",
@@ -169,17 +155,70 @@
    "domestic": true
   },
   {
-   "title": "PM’s fuel subsidy scheme faces first-day hurdles at petrol pumps",
-   "url": "https://www.dawn.com/news/2030654/pms-fuel-subsidy-scheme-faces-first-day-hurdles-at-petrol-pumps",
+   "title": "Dar meets EU foreign policy chief, stresses importance of GSP+ status for Pakistan's trade ties with the bloc",
+   "url": "https://www.dawn.com/news/2031647/dar-meets-eu-foreign-policy-chief-stresses-importance-of-gsp-status-for-pakistans-trade-ties-with-the-bloc",
    "source": "Dawn",
-   "published": "2026-09-17T18:43:25+00:00",
-   "summary": "ISLAMABAD: The much-touted fuel subsidy scheme launched by the prime minister faced snags on Thursday, the first day of its nationwide rollout, as many petrol pumps declined to honour the digital app, claiming they lacked the system needed to provide petrol at Rs100 per litre less. After receiving several complaints in…",
-   "image": "https://i.dawn.com/large/2026/09/17225655b05e4b7.webp",
+   "published": "2026-09-21T18:34:32+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the significance of GSP+ status for Pakistan’s trade relations with the European Union in a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas on Monday, according to a statement by the Foreign Office (FO). The meeting to…",
+   "image": "https://i.dawn.com/large/2026/09/2123122979a8ac1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "World Bank, IMF back debt framework changes for poor countries",
+   "url": "https://www.brecorder.com/news/40440532/world-bank-imf-back-debt-framework-changes-for-poor-countries",
+   "source": "Business Recorder",
+   "published": "2026-09-21T16:38:25+00:00",
+   "summary": "WASHINGTON: The World Bank and International Monetary Fund said on Monday that both their executive boards had approved proposed reforms of their joint framework for evaluating the debt of low-income countries to reflect a more complex and riskier environment. A joint review, the first since 2017, recommended changes i…",
+   "image": "https://i.brecorder.com/large/2026/09/21213452a1c882e.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 ends volatile trading session on a positive note",
+   "url": "https://www.brecorder.com/news/40440469/psx-kse-100-ends-volatile-trading-session-on-a-positive-note",
+   "source": "Business Recorder",
+   "published": "2026-09-21T14:28:22+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session, with the KSE-100 index moving within a relatively narrow range before settling with a gain of over 250 points on Monday. At open, the benchmark index initially climbed to an intraday high of 171,732.62, before coming under selling pressure and fall…",
+   "image": "https://i.brecorder.com/large/2026/09/211035048878242.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's NSE IPO draws over $10 billion, traders eye modest listing pop",
+   "url": "https://www.brecorder.com/news/40440528/indias-nse-ipo-draws-over-10-billion-traders-eye-modest-listing-pop",
+   "source": "Business Recorder",
+   "published": "2026-09-21T14:25:46+00:00",
+   "summary": "The National Stock Exchange of India’s IPO drew more than $10 billion by the final day of bidding on Monday, as investors look to tap into a boom in public listings in Asia’s third-largest economy. The $2.3 billion IPO, the country’s biggest after Hyundai Motor India’s $3.3 billion offering, received bids for 505.81 mi…",
+   "image": "https://i.brecorder.com/large/2026/09/2118512597ca46c.webp",
+   "topics": [
+    "Procurement",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Most Gulf bourses end lower on Middle East conflict despite diplomatic hopes",
+   "url": "https://www.brecorder.com/news/40440523/most-gulf-bourses-end-lower-on-middle-east-conflict-despite-diplomatic-hopes",
+   "source": "Business Recorder",
+   "published": "2026-09-21T13:39:23+00:00",
+   "summary": "Most Gulf stock markets closed lower on Monday as the escalating regional conflict outpaced cautious optimism over diplomatic progress at UN meetings this week. Energy markets remained on edge after fresh rhetorical threats exchanged between Washington and Tehran were compounded by weekend drone and missile attacks by …",
+   "image": "https://i.brecorder.com/large/2026/09/211837373636db6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Nearly 40% of India's coal power plants running critically low on fuel, data show",
@@ -190,19 +229,6 @@
    "image": "https://i.brecorder.com/large/2026/09/211803142d5bb3b.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 ends volatile trading session on a positive note",
-   "url": "https://www.brecorder.com/news/40440469/psx-kse-100-ends-volatile-trading-session-on-a-positive-note",
-   "source": "Business Recorder",
-   "published": "2026-09-21T12:55:43+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session, with the KSE-100 index moving within a relatively narrow range before settling with a gain of over 250 points on Monday. At open, the benchmark index initially climbed to an intraday high of 171,732.62, before coming under selling pressure and fall…",
-   "image": "https://i.brecorder.com/large/2026/09/211035048878242.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -292,45 +318,6 @@
    "published": "2026-09-21T09:59:07+00:00",
    "summary": "Pakistan’s draft Automotive and Auto Parts Manufacturing Policy 2026–31 gets the destination broadly right: electrifying transport, reducing the country’s petroleum import bill, conserving foreign exchange and building an export-oriented automotive industry are all worthwhile objectives. The proposed shift towards expo…",
    "image": "https://i.brecorder.com/large/2026/09/2113433164ec37e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SE Fruits and Vegetable IPO book-building subscribed in two hours",
-   "url": "https://www.brecorder.com/news/40440497/se-fruits-and-vegetable-ipo-book-building-subscribed-in-two-hours",
-   "source": "Business Recorder",
-   "published": "2026-09-21T07:34:33+00:00",
-   "summary": "The book-building portion of SE Fruits and Vegetable Limited’s Initial Public Offering (IPO) was fully subscribed within two hours of opening on Monday. Bidding will continue until September 22, and the final strike price will be determined upon completion of the book-building process, a statement said. SE Fruits and V…",
-   "image": "https://i.brecorder.com/large/2026/09/2112323122d4e07.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Atletico ride derby storm to beat 10-man Real Madrid 2-1",
-   "url": "https://www.brecorder.com/news/40440496/atletico-ride-derby-storm-to-beat-10-man-real-madrid-2-1",
-   "source": "Business Recorder",
-   "published": "2026-09-21T07:16:03+00:00",
-   "summary": "MADRID: Atletico Madrid turned the Metropolitano into a derby furnace on Sunday and made Real Madrid sweat, with Alejandro Grimaldo and Jonathan David scoring in a 2-1 LaLiga win over ​their 10-man city rivals. Antonio Ruediger gave Real late hope with an 89th-minute header ‌from a free kick, but it was too little too …",
-   "image": "https://i.brecorder.com/large/2026/09/211214374328926.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Volatile yen draws intervention watch, other currencies subdued",
-   "url": "https://www.brecorder.com/news/40440458/volatile-yen-draws-intervention-watch-other-currencies-subdued",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:41:37+00:00",
-   "summary": "SINGAPORE: Currency markets focused on the yen on Monday following a sharp drop last week that spurred speculation ​of a rate check from Tokyo, while investors pondered interest-rate outlooks after a wave of hikes from major central banks last ‌week. The yen was a touch firmer at 156.64 per US dollar after dropping 2% …",
-   "image": "https://i.brecorder.com/large/2026/09/21075510e24b82f.webp",
    "topics": [
     "Economy"
    ],
@@ -448,32 +435,6 @@
    "published": "2026-09-21T03:18:01+00:00",
    "summary": "Saudi shipment recovery offers relief amid regional supply concerns",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows",
-   "url": "https://www.brecorder.com/news/40440461/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows",
-   "source": "Business Recorder",
-   "published": "2026-09-21T03:09:55+00:00",
-   "summary": "HONG KONG: SoftBank Group ​Corp has launched $10 billion and 1 billion ‌euro-denominated senior unsecured notes to fund its investment in OpenAI, a term sheet showed on Monday. The dollar-denominated ​notes are split into 3-1/2-year, 5-1/2-year ​and 7-1/2-year tenors, while the euro-denominated bonds ⁠are split into 4-…",
-   "image": "https://i.brecorder.com/large/2026/09/21080931e2a5823.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee poised for subdued start as traders watch oil prices, IPO-linked flows",
-   "url": "https://www.brecorder.com/news/40440459/indian-rupee-poised-for-subdued-start-as-traders-watch-oil-prices-ipo-linked-flows",
-   "source": "Business Recorder",
-   "published": "2026-09-21T02:58:37+00:00",
-   "summary": "MUMBAI: The Indian rupee is expected to make a quiet start on Monday, with traders watching oil prices and foreign portfolio ​flows for directional cues while holding on to expectations that central ‌bank intervention will limit the currency’s weakness. The Indian rupee is expected to open in the 95.90-95.95 band, trad…",
-   "image": "https://i.brecorder.com/large/2026/09/21075659a1a8ddf.webp",
    "topics": [
     "Economy"
    ],
@@ -625,6 +586,19 @@
    "domestic": false
   },
   {
+   "title": "Pakistan rice exports hit record high",
+   "url": "https://arynews.tv/pakistan-rice-exports-hit-record-high",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan rice exports hit record high",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Rice.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Oil prices slide to 11-day low on hopes of US-Iran diplomacy, Saudi exports",
    "url": "https://arynews.tv/oil-prices-slide-to-11-day-low-on-hopes-of-us-iran-diplomacy-saudi-exports",
    "source": "ARY News",
@@ -683,19 +657,6 @@
    "published": null,
    "summary": "PSX: stocks rise as KSE-100 gains over 1,800 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/stock-market.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Petrol price hike pushes weekly inflation up 0.49pc in Pakistan",
-   "url": "https://arynews.tv/petrol-price-hike-pushes-weekly-inflation-up-0-49pc-in-pakistan",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Petrol price hike pushes weekly inflation up 0.49pc in Pakistan",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Inflation.jpg",
    "topics": [
     "Economy"
    ],
