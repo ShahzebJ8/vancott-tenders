@@ -1,15 +1,42 @@
 {
- "generated": "2026-09-21T06:48:12+00:00",
- "count": 45,
- "relevant_count": 11,
- "domestic_count": 11,
+ "generated": "2026-09-21T13:38:12+00:00",
+ "count": 53,
+ "relevant_count": 13,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (14)",
+  "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40440509/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-21T13:36:14+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Monday. The local unit closed the day at 277.22, a gain of Re0.03 against the greenback. During the previous week , the Pakistani rupee appreciated 0.03% to settle at 277.25 against the US dollar in the …",
+   "image": "https://i.brecorder.com/large/2026/09/21152243d83a4af.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistani tech co Zuma Resources sets up UK subsidiary for global connectivity expansion",
+   "url": "https://www.brecorder.com/news/40440502/pakistani-tech-co-zuma-resources-sets-up-uk-subsidiary-for-global-connectivity-expansion",
+   "source": "Business Recorder",
+   "published": "2026-09-21T08:23:21+00:00",
+   "summary": "Zuma Resources Limited has incorporated a wholly owned subsidiary in the United Kingdom as part of its international expansion strategy, with the new entity set to develop and expand the group’s digital connectivity and technology operations. According to a notice sent to the Pakistan Stock Exchange (PSX) on Monday, Zu…",
+   "image": "https://i.brecorder.com/large/2026/09/211320211637e87.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Experts stress need for reducing cotton import regulatory procedures",
    "url": "https://www.dawn.com/news/2031409/experts-stress-need-for-reducing-cotton-import-regulatory-procedures",
@@ -155,6 +182,149 @@
    "domestic": true
   },
   {
+   "title": "Nearly 40% of India's coal power plants running critically low on fuel, data show",
+   "url": "https://www.brecorder.com/news/40440521/nearly-40-of-indias-coal-power-plants-running-critically-low-on-fuel-data-show",
+   "source": "Business Recorder",
+   "published": "2026-09-21T13:07:00+00:00",
+   "summary": "NEW DELHI: Nearly 40% of India’s coal-fired power plants are operating with critically low fuel stocks due to a surge in power demand amid hotter-than-usual weather linked to El Niño, government data showed on Monday. The number of power plants with critically low coal stocks of less than 25% of the required inventory …",
+   "image": "https://i.brecorder.com/large/2026/09/211803142d5bb3b.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 ends volatile trading session on a positive note",
+   "url": "https://www.brecorder.com/news/40440469/psx-kse-100-ends-volatile-trading-session-on-a-positive-note",
+   "source": "Business Recorder",
+   "published": "2026-09-21T12:55:43+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session, with the KSE-100 index moving within a relatively narrow range before settling with a gain of over 250 points on Monday. At open, the benchmark index initially climbed to an intraday high of 171,732.62, before coming under selling pressure and fall…",
+   "image": "https://i.brecorder.com/large/2026/09/211035048878242.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "QatarEnergy says Hormuz crisis may delay LNG expansion projects",
+   "url": "https://www.brecorder.com/news/40440519/qatarenergy-says-hormuz-crisis-may-delay-lng-expansion-projects",
+   "source": "Business Recorder",
+   "published": "2026-09-21T11:38:51+00:00",
+   "summary": "QatarEnergy expects the first train of its North Field East (NFE) liquefied natural gas expansion project to start production in the first half of 2027, but additional trains will depend on the Strait of Hormuz crisis. Disruptions caused by the effective closure of the strait since the US and Israel began their war on …",
+   "image": "https://i.brecorder.com/large/2026/09/21163757716f1f0.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "JSW Group firms plan $300 million debt sales, bankers say",
+   "url": "https://www.brecorder.com/news/40440517/jsw-group-firms-plan-300-million-debt-sales-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-09-21T11:28:00+00:00",
+   "summary": "MUMBAI: Two JSW Group firms will raise a total of around 28.5 billion rupees ($298 million) through shorter-tenor bonds in the October-December quarter, a couple of bankers said on Monday. JSW Energy plans to raise around 15 billion rupees through up to five-year bonds, while JSW Steel could raise around 13.5 billion r…",
+   "image": "https://i.brecorder.com/large/2026/09/2116270699ded79.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India-New Zealand free trade pact to come into force on October 20",
+   "url": "https://www.brecorder.com/news/40440515/india-new-zealand-free-trade-pact-to-come-into-force-on-october-20",
+   "source": "Business Recorder",
+   "published": "2026-09-21T11:06:50+00:00",
+   "summary": "NEW DELHI: A free trade agreement between India and New Zealand, signed in April, will come into force on October 20, Indian trade minister Piyush Goyal said on Monday, as New Delhi seeks to boost exports and attract investment amid shifts in global trade. The deal with New Zealand comes at a time when U.S. President D…",
+   "image": "https://i.brecorder.com/large/2026/09/21160557fc666b1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm extends losses on weak crude, firm ringgit, sluggish exports",
+   "url": "https://www.brecorder.com/news/40440513/palm-extends-losses-on-weak-crude-firm-ringgit-sluggish-exports",
+   "source": "Business Recorder",
+   "published": "2026-09-21T10:56:29+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures extended losses for a second straight session on Monday, as a firmer ringgit, softer crude oil prices and sluggish exports dampened sentiment. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange fell 41 ringgit, or 0.84%, to 4,857 rin…",
+   "image": "https://i.brecorder.com/large/2026/09/21155616c13a36f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee ends marginally higher in subdued trade, forward premiums ease",
+   "url": "https://www.brecorder.com/news/40440512/indian-rupee-ends-marginally-higher-in-subdued-trade-forward-premiums-ease",
+   "source": "Business Recorder",
+   "published": "2026-09-21T10:52:35+00:00",
+   "summary": "MUMBAI: The Indian rupee ended marginally stronger on Monday after hovering in a narrow band, supported by lower oil prices and portfolio inflows, while sustained importer hedging demand kept its gains in check. The Indian rupee closed at 95.8150 per dollar, up slightly from its close at 95.8725 in the previous session…",
+   "image": "https://i.brecorder.com/large/2026/09/2115521941e6aeb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India soyoil imports to rise to record high on price competitiveness",
+   "url": "https://www.brecorder.com/news/40440511/india-soyoil-imports-to-rise-to-record-high-on-price-competitiveness",
+   "source": "Business Recorder",
+   "published": "2026-09-21T10:50:16+00:00",
+   "summary": "MUMBAI: India’s soyoil imports are likely to surge to a record high in the 2025/26 marketing year as rallies in rival palm and sunflower oils make soyoil more competitive for price-sensitive Indian buyers, industry officials told Reuters. Higher soyoil imports would offset a decline in sunflower oil shipments due to th…",
+   "image": "https://i.brecorder.com/large/2026/09/21154958af703a8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Not all EVs are equal: rethinking Pakistan’s auto policy",
+   "url": "https://www.brecorder.com/news/40440505/not-all-evs-are-equal-rethinking-pakistans-auto-policy",
+   "source": "Business Recorder",
+   "published": "2026-09-21T09:59:07+00:00",
+   "summary": "Pakistan’s draft Automotive and Auto Parts Manufacturing Policy 2026–31 gets the destination broadly right: electrifying transport, reducing the country’s petroleum import bill, conserving foreign exchange and building an export-oriented automotive industry are all worthwhile objectives. The proposed shift towards expo…",
+   "image": "https://i.brecorder.com/large/2026/09/2113433164ec37e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SE Fruits and Vegetable IPO book-building subscribed in two hours",
+   "url": "https://www.brecorder.com/news/40440497/se-fruits-and-vegetable-ipo-book-building-subscribed-in-two-hours",
+   "source": "Business Recorder",
+   "published": "2026-09-21T07:34:33+00:00",
+   "summary": "The book-building portion of SE Fruits and Vegetable Limited’s Initial Public Offering (IPO) was fully subscribed within two hours of opening on Monday. Bidding will continue until September 22, and the final strike price will be determined upon completion of the book-building process, a statement said. SE Fruits and V…",
+   "image": "https://i.brecorder.com/large/2026/09/2112323122d4e07.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Atletico ride derby storm to beat 10-man Real Madrid 2-1",
+   "url": "https://www.brecorder.com/news/40440496/atletico-ride-derby-storm-to-beat-10-man-real-madrid-2-1",
+   "source": "Business Recorder",
+   "published": "2026-09-21T07:16:03+00:00",
+   "summary": "MADRID: Atletico Madrid turned the Metropolitano into a derby furnace on Sunday and made Real Madrid sweat, with Alejandro Grimaldo and Jonathan David scoring in a 2-1 LaLiga win over ​their 10-man city rivals. Antonio Ruediger gave Real late hope with an 89th-minute header ‌from a free kick, but it was too little too …",
+   "image": "https://i.brecorder.com/large/2026/09/211214374328926.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Volatile yen draws intervention watch, other currencies subdued",
    "url": "https://www.brecorder.com/news/40440458/volatile-yen-draws-intervention-watch-other-currencies-subdued",
    "source": "Business Recorder",
@@ -174,32 +344,6 @@
    "published": "2026-09-21T06:30:51+00:00",
    "summary": "KAMPALA: Uganda’s export earnings rose 10.2% from a year earlier in July, helped by higher shipments of commodities including gold, cocoa and flowers, the finance ministry said in a report seen by Reuters on Monday. The surge in export earnings could help cushion the local currency, the shilling, which has been weakeni…",
    "image": "https://i.brecorder.com/large/2026/09/21113004490f9fa.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Buying continues, KSE-100 up over 450 points",
-   "url": "https://www.brecorder.com/news/40440469/psx-buying-continues-kse-100-up-over-450-points",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:23:12+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX) on Monday, with the benchmark KSE-100 Index gaining over 450 points during the trading session. At 11:15am, the benchmark index was hovering at 171,350.38, up 465.80 points or 0.27%. Buying was observed in key sectors, including automobile assemblers, ce…",
-   "image": "https://i.brecorder.com/large/2026/09/211035048878242.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Kashan Hasan steps down as CEO of FrieslandCampina Engro Pakistan",
-   "url": "https://www.brecorder.com/news/40440480/kashan-hasan-steps-down-as-ceo-of-frieslandcampina-engro-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:18:49+00:00",
-   "summary": "FrieslandCampina Engro Pakistan (FCEPL) CEO Kashan Hasan has resigned from his positions as chief executive and director. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “Kashan Hasan has resigned from his positions as CEO and Board of Directors of FrieslandCampi…",
-   "image": "https://i.brecorder.com/large/2026/09/21111646f0204bd.webp",
    "topics": [
     "Economy"
    ],
@@ -298,16 +442,16 @@
    "domestic": false
   },
   {
-   "title": "Former Careem Pay head Junaid Iqbal appointed Engro Corp CEO-designate",
-   "url": "https://www.brecorder.com/news/40440467/former-careem-pay-head-junaid-iqbal-appointed-engro-corp-ceo-designate",
-   "source": "Business Recorder",
-   "published": "2026-09-21T05:14:36+00:00",
-   "summary": "Engro Holdings Limited on Monday announced that the Board of Directors of Engro Corporation Limited, a wholly-owned subsidiary, has approved Junaid Iqbal as the successor to Ahsan Zafar Syed for the role of President and CEO of Engro Corporation. “This is to inform that the Board of Directors of Engro Corporation Limit…",
-   "image": "https://i.brecorder.com/large/2026/09/21100936e6775a8.webp",
+   "title": "KSE-100 gains over 268 points as oil prices ease",
+   "url": "https://tribune.com.pk/story/2630537/stocks-gain-over-218-points-as-oil-prices-ease",
+   "source": "The Express Tribune",
+   "published": "2026-09-21T03:18:01+00:00",
+   "summary": "Saudi shipment recovery offers relief amid regional supply concerns",
+   "image": null,
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -361,45 +505,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Rising remittances, falling exports",
-   "url": "https://tribune.com.pk/story/2630429/rising-remittances-falling-exports",
-   "source": "The Express Tribune",
-   "published": "2026-09-20T16:22:55+00:00",
-   "summary": "Pakistan needs to turn inflows into productive investment and jobs",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt launches 400MW auction under competitive power market",
-   "url": "https://www.brecorder.com/news/40440363/govt-launches-400mw-auction-under-competitive-power-market",
-   "source": "Business Recorder",
-   "published": "2026-09-20T08:03:38+00:00",
-   "summary": "Pakistan has launched its first Wheeling Auction by issuing the Request for Proposals (RFP), marking a major step towards shifting the electricity market from a single-buyer model to a competitive wholesale electricity system. The initiative is being undertaken under the Competitive Trading Bilateral Contract Market (C…",
-   "image": "https://i.brecorder.com/large/2026/09/20130326cf1b23e.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China keeps benchmark lending rates unchanged for 16th month in September",
-   "url": "https://www.brecorder.com/news/40440360/china-keeps-benchmark-lending-rates-unchanged-for-16th-month-in-september",
-   "source": "Business Recorder",
-   "published": "2026-09-20T06:32:43+00:00",
-   "summary": "SHANGHAI: China kept its benchmark lending rates unchanged for the 16th straight month on Sunday, in line with market ​expectations. Why it’s important The steady loan prime rates underscored the limited scope ‌for fresh monetary easing after some major global central banks recently adopted a more hawkish stance, even …",
-   "image": "https://i.brecorder.com/large/2026/09/20113135fd8c3d0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -520,6 +625,19 @@
    "domestic": false
   },
   {
+   "title": "Oil prices slide to 11-day low on hopes of US-Iran diplomacy, Saudi exports",
+   "url": "https://arynews.tv/oil-prices-slide-to-11-day-low-on-hopes-of-us-iran-diplomacy-saudi-exports",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Oil prices slide to 11-day low on hopes of US-Iran diplomacy, Saudi exports",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/fuel-storage-area-at-King-Khalid-International-Airport-in-Riyadh-Saudi-Arabia.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Electricity price hike: CPPA seeks Rs1.73 per unit increase",
    "url": "https://arynews.tv/electricity-price-hike-cppa-seeks-rs1-point-73-per-unit-increase",
    "source": "ARY News",
@@ -578,19 +696,6 @@
    "published": null,
    "summary": "Petrol price hike pushes weekly inflation up 0.49pc in Pakistan",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Inflation.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan’s central bank raises policy rate to 31-year high",
-   "url": "https://arynews.tv/japans-central-bank-raises-policy-rate-to-31-year-high",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Japan’s central bank raises policy rate to 31-year high",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Japan-BOJ-interest-rate.jpg",
    "topics": [
     "Economy"
    ],
