@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-21T22:46:37+00:00",
+ "generated": "2026-09-22T01:28:20+00:00",
  "count": 50,
- "relevant_count": 10,
- "domestic_count": 11,
+ "relevant_count": 11,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,72 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Hot weather likely across Sindh over next two days",
+   "url": "https://www.brecorder.com/news/40440577/hot-weather-likely-across-sindh-over-next-two-days",
+   "source": "Business Recorder",
+   "published": "2026-09-22T00:15:08+00:00",
+   "summary": "KARACHI: Sizzling weather scorched Karachi on Monday, with the temperature rising to 41 Celsius, the highest recorded in the city this September, as the Met Office forecast hot and humid conditions across Sindh for the next couple of days. The metropolis experienced another spell of hot weather as the mercury touched a…",
+   "image": "https://i.brecorder.com/large/2026/09/220134045913688.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SE Fruits, Vegetable IPO book-building process begins",
+   "url": "https://www.brecorder.com/news/40440579/se-fruits-vegetable-ipo-book-building-process-begins",
+   "source": "Business Recorder",
+   "published": "2026-09-22T00:15:08+00:00",
+   "summary": "KARACHI: The two-day book-building process for the Initial Public Offering (IPO) of SE Fruits and Vegetable Limited commenced at the Pakistan Stock Exchange (PSX) on Monday and will continue until September 22, with the company offering 22.5 million shares to institutional and high-net-worth investors. SE Fruits and Ve…",
+   "image": "https://i.brecorder.com/large/2026/09/220135222ac93fc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Stronger export-oriented economy key to achieving economic strength: Ahsan",
+   "url": "https://www.brecorder.com/news/40440583/stronger-export-oriented-economy-key-to-achieving-economic-strength-ahsan",
+   "source": "Business Recorder",
+   "published": "2026-09-22T00:15:08+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal has said that continuity of reforms, political stability, productive investment, and a stronger export-oriented economy are key to achieving economic strength. Presenting the September 2026 Monthly Development Update (MDU) here on…",
+   "image": "https://i.brecorder.com/large/2026/09/2201381097e744c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR asks officers to submit assets declarations by Oct 30",
+   "url": "https://www.brecorder.com/news/40440586/fbr-asks-officers-to-submit-assets-declarations-by-oct-30",
+   "source": "Business Recorder",
+   "published": "2026-09-22T00:15:08+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed all officers of the Inland Revenue Service (IRS) and Pakistan Customs Service (PCS) to submit their declarations of assets and liabilities for the year ending June 30, 2026, through the new designated FBR online portal by October 30, 2026. In this regard, the F…",
+   "image": "https://i.brecorder.com/large/2026/09/22014008deddb1c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt urged to reduce electricity tariffs",
+   "url": "https://www.brecorder.com/news/40440587/govt-urged-to-reduce-electricity-tariffs",
+   "source": "Business Recorder",
+   "published": "2026-09-22T00:15:08+00:00",
+   "summary": "KARACHI: Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce and Industry (FPCCI), has stated that the cost of doing business in the country is 30 to 35 percent higher than in the region. He said that in order to increase exports and make costs competitive at regional and international level…",
+   "image": "https://i.brecorder.com/large/2026/09/220140473392e67.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Privatisation Commission gets ‘overwhelming response’ from investors for Iesco privatisation",
    "url": "https://www.dawn.com/news/2031613/privatisation-commission-gets-overwhelming-response-from-investors-for-iesco-privatisation",
@@ -155,6 +221,19 @@
    "domestic": true
   },
   {
+   "title": "Power keeps getting pricier",
+   "url": "https://www.brecorder.com/news/40440581/power-keeps-getting-pricier",
+   "source": "Business Recorder",
+   "published": "2026-09-22T00:15:08+00:00",
+   "summary": "August tells a more uncomfortable story for Pakistan’s power sector. Generation is growing again, but the cost and composition of that growth are becoming increasingly difficult to ignore. National grid generation reached 14.9 billion units in August, 3 percent above reference and 5.5 percent higher year on year. The 1…",
+   "image": "https://i.brecorder.com/large/2026/09/22013648890381f.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Dar meets EU foreign policy chief, stresses importance of GSP+ for Pakistan's trade ties with the bloc",
    "url": "https://www.dawn.com/news/2031647/dar-meets-eu-foreign-policy-chief-stresses-importance-of-gsp-for-pakistans-trade-ties-with-the-bloc",
    "source": "Dawn",
@@ -165,19 +244,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "World Bank, IMF back debt framework changes for poor countries",
-   "url": "https://www.brecorder.com/news/40440532/world-bank-imf-back-debt-framework-changes-for-poor-countries",
-   "source": "Business Recorder",
-   "published": "2026-09-21T16:38:25+00:00",
-   "summary": "WASHINGTON: The World Bank and International Monetary Fund said on Monday that both their executive boards had approved proposed reforms of their joint framework for evaluating the debt of low-income countries to reflect a more complex and riskier environment. A joint review, the first since 2017, recommended changes i…",
-   "image": "https://i.brecorder.com/large/2026/09/21213452a1c882e.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -221,58 +287,6 @@
    "domestic": false
   },
   {
-   "title": "Nearly 40% of India's coal power plants running critically low on fuel, data show",
-   "url": "https://www.brecorder.com/news/40440521/nearly-40-of-indias-coal-power-plants-running-critically-low-on-fuel-data-show",
-   "source": "Business Recorder",
-   "published": "2026-09-21T13:07:00+00:00",
-   "summary": "NEW DELHI: Nearly 40% of India’s coal-fired power plants are operating with critically low fuel stocks due to a surge in power demand amid hotter-than-usual weather linked to El Niño, government data showed on Monday. The number of power plants with critically low coal stocks of less than 25% of the required inventory …",
-   "image": "https://i.brecorder.com/large/2026/09/211803142d5bb3b.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "QatarEnergy says Hormuz crisis may delay LNG expansion projects",
-   "url": "https://www.brecorder.com/news/40440519/qatarenergy-says-hormuz-crisis-may-delay-lng-expansion-projects",
-   "source": "Business Recorder",
-   "published": "2026-09-21T11:38:51+00:00",
-   "summary": "QatarEnergy expects the first train of its North Field East (NFE) liquefied natural gas expansion project to start production in the first half of 2027, but additional trains will depend on the Strait of Hormuz crisis. Disruptions caused by the effective closure of the strait since the US and Israel began their war on …",
-   "image": "https://i.brecorder.com/large/2026/09/21163757716f1f0.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "JSW Group firms plan $300 million debt sales, bankers say",
-   "url": "https://www.brecorder.com/news/40440517/jsw-group-firms-plan-300-million-debt-sales-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-09-21T11:28:00+00:00",
-   "summary": "MUMBAI: Two JSW Group firms will raise a total of around 28.5 billion rupees ($298 million) through shorter-tenor bonds in the October-December quarter, a couple of bankers said on Monday. JSW Energy plans to raise around 15 billion rupees through up to five-year bonds, while JSW Steel could raise around 13.5 billion r…",
-   "image": "https://i.brecorder.com/large/2026/09/2116270699ded79.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India-New Zealand free trade pact to come into force on October 20",
-   "url": "https://www.brecorder.com/news/40440515/india-new-zealand-free-trade-pact-to-come-into-force-on-october-20",
-   "source": "Business Recorder",
-   "published": "2026-09-21T11:06:50+00:00",
-   "summary": "NEW DELHI: A free trade agreement between India and New Zealand, signed in April, will come into force on October 20, Indian trade minister Piyush Goyal said on Monday, as New Delhi seeks to boost exports and attract investment amid shifts in global trade. The deal with New Zealand comes at a time when U.S. President D…",
-   "image": "https://i.brecorder.com/large/2026/09/21160557fc666b1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Palm extends losses on weak crude, firm ringgit, sluggish exports",
    "url": "https://www.brecorder.com/news/40440513/palm-extends-losses-on-weak-crude-firm-ringgit-sluggish-exports",
    "source": "Business Recorder",
@@ -305,19 +319,6 @@
    "published": "2026-09-21T10:50:16+00:00",
    "summary": "MUMBAI: India’s soyoil imports are likely to surge to a record high in the 2025/26 marketing year as rallies in rival palm and sunflower oils make soyoil more competitive for price-sensitive Indian buyers, industry officials told Reuters. Higher soyoil imports would offset a decline in sunflower oil shipments due to th…",
    "image": "https://i.brecorder.com/large/2026/09/21154958af703a8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Not all EVs are equal: rethinking Pakistan’s auto policy",
-   "url": "https://www.brecorder.com/news/40440505/not-all-evs-are-equal-rethinking-pakistans-auto-policy",
-   "source": "Business Recorder",
-   "published": "2026-09-21T09:59:07+00:00",
-   "summary": "Pakistan’s draft Automotive and Auto Parts Manufacturing Policy 2026–31 gets the destination broadly right: electrifying transport, reducing the country’s petroleum import bill, conserving foreign exchange and building an export-oriented automotive industry are all worthwhile objectives. The proposed shift towards expo…",
-   "image": "https://i.brecorder.com/large/2026/09/2113433164ec37e.webp",
    "topics": [
     "Economy"
    ],
