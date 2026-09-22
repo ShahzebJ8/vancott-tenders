@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T17:12:00+00:00",
+ "generated": "2026-09-22T20:24:30+00:00",
  "count": 657,
  "with_value": 636,
  "with_winner": 250,
@@ -12506,6 +12506,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003677",
+   "tender_no": "TS0000010594E",
+   "reference": "P74650",
+   "title": "3 Phase Heavy Duty UPS of 80 kVA Electrical Items",
+   "organisation": "Ministry of Federal Education and Professional Training Federal Board of Intermediate and Secondary Education (FBISE) Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "MAKKAYS Pvt Ltd Company (Private Limited)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-22",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003677",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003675",
    "tender_no": "TS0000004998E",
@@ -51625,24 +51645,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001572",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001571",
-   "tender_no": "TS0000005218E",
-   "reference": "CE/CIVIL/NGC/13(R)/2025-26: Construction of Boundary Wall, Main Gate, Watch Towers, Patrolling Path, Security Barracks, Reception Office, Drains, Sewerage System and Allied Civil Works at 220kV Grid Station Quaid-E-Azam Business Park, Sheikhupura",
-   "title": "CE/CIVIL/NGC/13(R)/2025-26: Construction of Boundary Wall, Main Gate, Watch Towers, Patrolling Path, Security Barracks, Reception Office, Drains, Sewerage System and Allied Civil Works at 220kV Grid Station Quaid-E-Azam Business Park, Sheikhupura Civil Works Ministry of Energy (Power Division)",
-   "organisation": "Ministry of Energy (Power Division) National Grid Company of Pakistan (NGC) Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-22",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001571",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
