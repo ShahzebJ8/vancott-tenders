@@ -1,79 +1,53 @@
 {
- "generated": "2026-09-22T01:28:20+00:00",
+ "generated": "2026-09-22T06:35:35+00:00",
  "count": 50,
  "relevant_count": 11,
- "domestic_count": 16,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (15)",
+  "Dawn": "ok (13)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (6)"
  },
  "stories": [
   {
-   "title": "Hot weather likely across Sindh over next two days",
-   "url": "https://www.brecorder.com/news/40440577/hot-weather-likely-across-sindh-over-next-two-days",
-   "source": "Business Recorder",
-   "published": "2026-09-22T00:15:08+00:00",
-   "summary": "KARACHI: Sizzling weather scorched Karachi on Monday, with the temperature rising to 41 Celsius, the highest recorded in the city this September, as the Met Office forecast hot and humid conditions across Sindh for the next couple of days. The metropolis experienced another spell of hot weather as the mercury touched a…",
-   "image": "https://i.brecorder.com/large/2026/09/220134045913688.webp",
+   "title": "PSX manages modest gains in cautious trade",
+   "url": "https://www.dawn.com/news/2031707/psx-manages-modest-gains-in-cautious-trade",
+   "source": "Dawn",
+   "published": "2026-09-22T02:48:35+00:00",
+   "summary": "KARACHI: Extending last week’s mild recovery rally, driven by easing oil prices, the Pakistan Stock Exchange (PSX) on Monday continued to attract buying interest in selective sectors, helping the benchmark KSE-100 index close in the green, though profit-taking towards the end of the session trimmed early gains. Topline…",
+   "image": "https://i.dawn.com/large/2026/09/2207511001e04c1.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SDPI unveils battery storage roadmap",
+   "url": "https://www.dawn.com/news/2031710/sdpi-unveils-battery-storage-roadmap",
+   "source": "Dawn",
+   "published": "2026-09-22T02:41:43+00:00",
+   "summary": "ISLAMABAD: Pakistan could soon address its escalating power grid challenges by deploying battery storage technology in a structured way, an SDPI study says. The Sustainable Development Policy Institute (SDPI), in collaboration with the Network for Clean Energy Transition (NCET), launched the study on Monday. It present…",
+   "image": "https://i.dawn.com/large/2026/09/22074203993d9ed.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "TCP finalises deals for wheat import",
+   "url": "https://www.brecorder.com/news/40440618/tcp-finalises-deals-for-wheat-import",
+   "source": "Business Recorder",
+   "published": "2026-09-22T01:37:53+00:00",
+   "summary": "KARACHI: The Trading Corporation of Pakistan (TCP) has finalised deals for the import of 365,000 metric tons of wheat for domestic consumption and issued a second tender for the import of a further 185,000 metric tons to meet the country’s wheat requirements. The second tender is aimed at completing the government’s re…",
+   "image": "https://i.brecorder.com/large/2026/09/2206373169e2333.webp",
+   "topics": [
+    "Procurement",
+    "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SE Fruits, Vegetable IPO book-building process begins",
-   "url": "https://www.brecorder.com/news/40440579/se-fruits-vegetable-ipo-book-building-process-begins",
-   "source": "Business Recorder",
-   "published": "2026-09-22T00:15:08+00:00",
-   "summary": "KARACHI: The two-day book-building process for the Initial Public Offering (IPO) of SE Fruits and Vegetable Limited commenced at the Pakistan Stock Exchange (PSX) on Monday and will continue until September 22, with the company offering 22.5 million shares to institutional and high-net-worth investors. SE Fruits and Ve…",
-   "image": "https://i.brecorder.com/large/2026/09/220135222ac93fc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Stronger export-oriented economy key to achieving economic strength: Ahsan",
-   "url": "https://www.brecorder.com/news/40440583/stronger-export-oriented-economy-key-to-achieving-economic-strength-ahsan",
-   "source": "Business Recorder",
-   "published": "2026-09-22T00:15:08+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal has said that continuity of reforms, political stability, productive investment, and a stronger export-oriented economy are key to achieving economic strength. Presenting the September 2026 Monthly Development Update (MDU) here on…",
-   "image": "https://i.brecorder.com/large/2026/09/2201381097e744c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR asks officers to submit assets declarations by Oct 30",
-   "url": "https://www.brecorder.com/news/40440586/fbr-asks-officers-to-submit-assets-declarations-by-oct-30",
-   "source": "Business Recorder",
-   "published": "2026-09-22T00:15:08+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed all officers of the Inland Revenue Service (IRS) and Pakistan Customs Service (PCS) to submit their declarations of assets and liabilities for the year ending June 30, 2026, through the new designated FBR online portal by October 30, 2026. In this regard, the F…",
-   "image": "https://i.brecorder.com/large/2026/09/22014008deddb1c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt urged to reduce electricity tariffs",
-   "url": "https://www.brecorder.com/news/40440587/govt-urged-to-reduce-electricity-tariffs",
-   "source": "Business Recorder",
-   "published": "2026-09-22T00:15:08+00:00",
-   "summary": "KARACHI: Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce and Industry (FPCCI), has stated that the cost of doing business in the country is 30 to 35 percent higher than in the region. He said that in order to increase exports and make costs competitive at regional and international level…",
-   "image": "https://i.brecorder.com/large/2026/09/220140473392e67.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -208,25 +182,194 @@
    "domestic": true
   },
   {
-   "title": "Bids for power firms being evaluated",
-   "url": "https://www.dawn.com/news/2030751/bids-for-power-firms-being-evaluated",
-   "source": "Dawn",
-   "published": "2026-09-18T02:10:08+00:00",
-   "summary": "ISLAMABAD: The National Assembly Standing Committee on Privatisation was informed on Thursday that the evaluation of interested parties was at an advanced stage for the sale of 51 per cent to 100 per cent shareholding, along with management control, in each electricity distribution company (Disco). Committee Chairman D…",
-   "image": "https://i.dawn.com/large/2026/09/1808155192eb92c.webp",
+   "title": "Gold muted as higher-for-longer rate outlook weighs",
+   "url": "https://www.brecorder.com/news/40440626/gold-muted-as-higher-for-longer-rate-outlook-weighs",
+   "source": "Business Recorder",
+   "published": "2026-09-22T06:33:21+00:00",
+   "summary": "Gold ​prices struggled for momentum on Tuesday as expectations of interest rates staying ‌higher for longer weighed on sentiment, with investors awaiting comments from US Federal Reserve officials for policy clues. Spot gold was little changed at $4,344.29 per ounce, as of 0151 GMT. US gold futures ​steadied at $4,381.…",
+   "image": "https://i.brecorder.com/large/2026/09/22074059dd237d6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korean shares climb nearly 2% as Wall Street rally boosts sentiment",
+   "url": "https://www.brecorder.com/news/40440651/south-korean-shares-climb-nearly-2-as-wall-street-rally-boosts-sentiment",
+   "source": "Business Recorder",
+   "published": "2026-09-22T06:29:18+00:00",
+   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Tuesday, tracking Wall Street gains after the S&P 500 and Nasdaq 100 posted their biggest advances since early August. The won strengthened 1% against the dollar, while the benchmark bond yield fell. The benchmark KOSPI was up 135.91 points,…",
+   "image": "https://i.brecorder.com/large/2026/09/2211285921892fe.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Fauji Foods CEO Usman Zaheer resigns",
+   "url": "https://www.brecorder.com/news/40440650/fauji-foods-ceo-usman-zaheer-resigns",
+   "source": "Business Recorder",
+   "published": "2026-09-22T06:26:39+00:00",
+   "summary": "Fauji Foods Limited said Chief Executive Officer (CEO) Usman Zaheer Ahmad has resigned, effective September 18, and that the board will appoint his successor in due course. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “Usman Zaheer Ahmad will continue to perfo…",
+   "image": "https://i.brecorder.com/large/2026/09/22112618f54087c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar steady on Tuesday",
+   "url": "https://www.brecorder.com/news/40440649/thai-bahtus-dollar-steady-on-tuesday",
+   "source": "Business Recorder",
+   "published": "2026-09-22T06:26:36+00:00",
+   "summary": "BANGKOK: The [Thai baht ]( https://Thai baht)was little changed against the US dollar on Tuesday. At 0158 GMT, the baht was 0.02% lower at 33.25 versus the dollar, after trading in a range of 33.215 to 33.310. It ended the previous session at 33.2425 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/09/221126298ec721f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch",
+   "url": "https://www.brecorder.com/news/40440648/how-a-bangladeshi-garment-maker-is-fighting-the-middle-east-energy-crunch",
+   "source": "Business Recorder",
+   "published": "2026-09-22T06:24:43+00:00",
+   "summary": "SAVAR: A gas and power crisis has hit production at most Bangladeshi garment makers, but at 4A Yarn Dyeing, a supplier to Walmart, Gap and Next, workers stitch hoodies and attach brand logos uninterrupted, at least for now. Since 2019, 4A has generated its own power, including through solar panels, making it an excepti…",
+   "image": "https://i.brecorder.com/large/2026/09/221121387ac30e2.gif",
    "topics": [
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Power keeps getting pricier",
-   "url": "https://www.brecorder.com/news/40440581/power-keeps-getting-pricier",
+   "title": "Chicago soybeans edge lower ahead of Trump-Xi meeting",
+   "url": "https://www.brecorder.com/news/40440645/chicago-soybeans-edge-lower-ahead-of-trump-xi-meeting",
    "source": "Business Recorder",
-   "published": "2026-09-22T00:15:08+00:00",
-   "summary": "August tells a more uncomfortable story for Pakistan’s power sector. Generation is growing again, but the cost and composition of that growth are becoming increasingly difficult to ignore. National grid generation reached 14.9 billion units in August, 3 percent above reference and 5.5 percent higher year on year. The 1…",
-   "image": "https://i.brecorder.com/large/2026/09/22013648890381f.webp",
+   "published": "2026-09-22T06:12:00+00:00",
+   "summary": "BEIJING: Chicago Board of Trade soybean futures edged lower on Tuesday , as traders hoped that an upcoming meeting between the presidents of the US and China, the world’s largest soybean-importing nation, would result in greater demand from the Asian country. The most-traded soybeans on the Chicago Board of Trade slipp…",
+   "image": "https://i.brecorder.com/large/2026/09/221111298e1942f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan hits 3-1/2-year high as PBOC extends fixing streak ahead of Xi-Trump meeting",
+   "url": "https://www.brecorder.com/news/40440643/chinas-yuan-hits-3-12-year-high-as-pboc-extends-fixing-streak-ahead-of-xi-trump-meeting",
+   "source": "Business Recorder",
+   "published": "2026-09-22T05:56:17+00:00",
+   "summary": "SHANGHAI: China’s yuan climbed to a 3-1/2-year high against the dollar on Tuesday after the central bank set a firmer daily fixing for the 10th straight session, the longest streak since late 2023, while investors awaited a meeting between the leaders of the world’s two largest economies later this week. US Treasury Se…",
+   "image": "https://i.brecorder.com/large/2026/09/221055511c6dde0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian bonds steady as RBI rate hike expectations strengthen",
+   "url": "https://www.brecorder.com/news/40440639/indian-bonds-steady-as-rbi-rate-hike-expectations-strengthen",
+   "source": "Business Recorder",
+   "published": "2026-09-22T05:26:54+00:00",
+   "summary": "MUMBAI: Indian government bonds were broadly unchanged in early deals on Tuesday, as market participants braced for more liquidity removal ahead of next month’s monetary policy decision, when an interest rate hike is largely priced in. The benchmark 6.94% 2036 bond yield was at 7.0516%, as of 10:30 a.m. IST, after clos…",
+   "image": "https://i.brecorder.com/large/2026/09/22102633c539b63.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Buying coninues, KSE-100 gains over 400 points",
+   "url": "https://www.brecorder.com/news/40440638/psx-buying-coninues-kse-100-gains-over-400-points",
+   "source": "Business Recorder",
+   "published": "2026-09-22T05:26:06+00:00",
+   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 400 points during the opening minutes of trading on Tuesday. At 10:10am, the benchmark index was hovering at 171,562.37, up by 409.21 points or 0.24%. Buying was observed in key sectors, including automobile assemblers,…",
+   "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Russia hits sea vessels, port infrastructure in Ukraine",
+   "url": "https://www.brecorder.com/news/40440637/russia-hits-sea-vessels-port-infrastructure-in-ukraine",
+   "source": "Business Recorder",
+   "published": "2026-09-22T05:24:05+00:00",
+   "summary": "MOSCOW: The Russian defence ministry said on Tuesday its forces had carried out a massive strike on targets in Ukraine, hitting industrial and military facilities, fuel and energy sector as well as port infrastructure facilities and sea vessels operating for Ukrainian military. US sanctions merit Russian ‘military dete…",
+   "image": "https://i.brecorder.com/large/2026/09/2210230433b8b13.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to edge higher as oil slips; inflow haul caps bearish bets",
+   "url": "https://www.brecorder.com/news/40440635/indian-rupee-to-edge-higher-as-oil-slips-inflow-haul-caps-bearish-bets",
+   "source": "Business Recorder",
+   "published": "2026-09-22T03:22:07+00:00",
+   "summary": "MUMBAI: The Indian rupee is expected to open modestly stronger on Tuesday , as a decline in crude oil prices ​and long-dated US Treasury yields supports risk sentiment, with importer ‌hedging demand capping gains for the currency. India’s measures to strengthen its balance of payments have raised $143.6 billion, data r…",
+   "image": "https://i.brecorder.com/large/2026/09/22082117bbf9173.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Tech rally boosts Asian stocks, dollar firms on rate-hike wagers",
+   "url": "https://www.brecorder.com/news/40440632/tech-rally-boosts-asian-stocks-dollar-firms-on-rate-hike-wagers",
+   "source": "Business Recorder",
+   "published": "2026-09-22T03:09:10+00:00",
+   "summary": "SINGAPORE: Technology stocks powered Asian markets higher on Tuesday as lower oil prices lifted sentiment and investors ​pinned their hopes on US-Iran talks, while the dollar stood tall on bets that more hikes are needed to rein ‌in inflation. Attention is also turning to a high-stakes meeting between Donald Trump and …",
+   "image": "https://i.brecorder.com/large/2026/09/2208061571d34ec.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen squeezed as hawkish turn grips central banks",
+   "url": "https://www.brecorder.com/news/40440631/yen-squeezed-as-hawkish-turn-grips-central-banks",
+   "source": "Business Recorder",
+   "published": "2026-09-22T03:05:00+00:00",
+   "summary": "SINGAPORE: The yen was under pressure from a firm dollar on Tuesday as ​traders wagered on policymakers in Japan struggling to keep up with a hawkish turn ‌by global central banks, leaving the country’s interest rates at a wide gap with major peers. Moves were contained thanks to a holiday in Japan and because of the r…",
+   "image": "https://i.brecorder.com/large/2026/09/2208014712e6622.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "New Zealand central bank chief sees risks to economy, inflation",
+   "url": "https://www.brecorder.com/news/40440629/new-zealand-central-bank-chief-sees-risks-to-economy-inflation",
+   "source": "Business Recorder",
+   "published": "2026-09-22T02:57:43+00:00",
+   "summary": "SYDNEY: New Zealand’s top central banker said on Tuesday if recent gains in ​oil prices persist it would lead to “somewhat” higher ‌inflation than previously forecast, adding that there remained significant risks to the country’s economic recovery. In notes from a speech given ​in Dunedin, Reserve Bank of New Zealand G…",
+   "image": "https://i.brecorder.com/large/2026/09/220756090fb953f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan secures another Qatari LNG cargo",
+   "url": "https://www.brecorder.com/news/40440621/pakistan-secures-another-qatari-lng-cargo",
+   "source": "Business Recorder",
+   "published": "2026-09-22T01:26:49+00:00",
+   "summary": "LONDON: Pakistan has negotiated with Iran to secure safe passage through the Strait of Hormuz for another liquefied natural gas (LNG) shipment, providing some relief to the country as it faces a growing energy crunch, Bloomberg reported on Monday. According to the report, the LNG tanker, which loaded its cargo from Qat…",
+   "image": "https://i.brecorder.com/large/2026/09/22062641f28cb99.webp",
    "topics": [
     "Energy & power"
    ],
@@ -247,13 +390,53 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 ends volatile trading session on a positive note",
-   "url": "https://www.brecorder.com/news/40440469/psx-kse-100-ends-volatile-trading-session-on-a-positive-note",
-   "source": "Business Recorder",
-   "published": "2026-09-21T14:28:22+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session, with the KSE-100 index moving within a relatively narrow range before settling with a gain of over 250 points on Monday. At open, the benchmark index initially climbed to an intraday high of 171,732.62, before coming under selling pressure and fall…",
-   "image": "https://i.brecorder.com/large/2026/09/211035048878242.webp",
+   "title": "Iqbal seeks role in IMF talks",
+   "url": "https://tribune.com.pk/story/2630654/iqbal-seeks-role-in-imf-talks",
+   "source": "The Express Tribune",
+   "published": "2026-09-21T16:23:22+00:00",
+   "summary": "Says loan programme will have implications for people, economic development",
+   "image": null,
    "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Power demand rebounds 5.1%, driven by incentives",
+   "url": "https://tribune.com.pk/story/2630655/power-demand-rebounds-51-driven-by-incentives",
+   "source": "The Express Tribune",
+   "published": "2026-09-21T16:23:22+00:00",
+   "summary": "Hydel, coal boost electricity generation in August; FCA pressure persists",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Strong dollar pulls gold down",
+   "url": "https://tribune.com.pk/story/2630651/strong-dollar-pulls-gold-down",
+   "source": "The Express Tribune",
+   "published": "2026-09-21T16:23:22+00:00",
+   "summary": "Bullion falls Rs2,700 as Fed rate hike bets lift greenback; rupee gains three paisa",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "LNG buyers, sellers target supply diversity",
+   "url": "https://tribune.com.pk/story/2630656/lng-buyers-sellers-target-supply-diversity",
+   "source": "The Express Tribune",
+   "published": "2026-09-21T16:23:22+00:00",
+   "summary": "Amid US-Iran war, importers looking for fuel alternatives from West Africa to Indonesia",
+   "image": null,
+   "topics": [
+    "Energy & power",
     "Economy"
    ],
    "relevant": false,
@@ -326,123 +509,6 @@
    "domestic": false
   },
   {
-   "title": "Uganda's export earnings up 10.2% y/y in July",
-   "url": "https://www.brecorder.com/news/40440484/ugandas-export-earnings-up-102-yy-in-july",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:30:51+00:00",
-   "summary": "KAMPALA: Uganda’s export earnings rose 10.2% from a year earlier in July, helped by higher shipments of commodities including gold, cocoa and flowers, the finance ministry said in a report seen by Reuters on Monday. The surge in export earnings could help cushion the local currency, the shilling, which has been weakeni…",
-   "image": "https://i.brecorder.com/large/2026/09/21113004490f9fa.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korean shares start week higher as chipmakers rise on upbeat data",
-   "url": "https://www.brecorder.com/news/40440479/south-korean-shares-start-week-higher-as-chipmakers-rise-on-upbeat-data",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:18:29+00:00",
-   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Monday, led by chipmakers after a rally in US semiconductor stocks in the previous session and upbeat domestic export data. The benchmark KOSPI was up 101.16 points, or 1.47%, at 6,995.39, as of 0134 GMT. Wall Street closed a volatile week o…",
-   "image": "https://i.brecorder.com/large/2026/09/211118224c94208.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper climbs as Fed hike clears uncertainty",
-   "url": "https://www.brecorder.com/news/40440478/copper-climbs-as-fed-hike-clears-uncertainty",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:15:48+00:00",
-   "summary": "SINGAPORE: [Copper prices edged up on Monday]( https://Copper climbs as Fed hike clears uncertainty), as last week’s interest rate hike by the US Federal Reserve dispelled months-long uncertainty over rates, while optimism persisted over strong China demand. Benchmark three-month copper on the London Metal Exchange was…",
-   "image": "https://i.brecorder.com/large/2026/09/2111152902117c4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Chicago soybeans rise as China's buying of US beans falls in August",
-   "url": "https://www.brecorder.com/news/40440476/chicago-soybeans-rise-as-chinas-buying-of-us-beans-falls-in-august",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:10:19+00:00",
-   "summary": "BEIJING: Chicago soybean futures edged higher on Monday as Chinese imports of US beans fell in August and traders await a meeting between US President Donald Trump and his Chinese counterpart, Xi Jinping, later this week. Wheat and corn gained. The most-traded soybeans on the Chicago Board of Trade rose 0.7% to $13.12-…",
-   "image": "https://i.brecorder.com/large/2026/09/2111101108f841a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan hits fresh multi-year peak as PBOC eases curb ahead of Trump-Xi summit",
-   "url": "https://www.brecorder.com/news/40440475/yuan-hits-fresh-multi-year-peak-as-pboc-eases-curb-ahead-of-trump-xi-summit",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:08:57+00:00",
-   "summary": "HONG KONG: China’s yuan strengthened to more than a 3-1/2-year high against the US dollar on Monday as the central bank softened its curb on currency appreciation ahead of the meeting this week between the leaders of China and the US. US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng concluded talk…",
-   "image": "https://i.brecorder.com/large/2026/09/211108391c6dde0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar steadies after setback, rate support intact",
-   "url": "https://www.brecorder.com/news/40440474/australian-dollar-steadies-after-setback-rate-support-intact",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:07:22+00:00",
-   "summary": "SYDNEY: The Australian dollar steadied on Monday after two weeks of losses as a hawkish turn in the US rate outlook cooled its recent rally, though it remained near multi-year highs on the kiwi and euro with another rate hike at home all but locked in. The Aussie was little changed at $0.7128, after finishing last week…",
-   "image": "https://i.brecorder.com/large/2026/09/2111070282964b7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar stronger on Monday",
-   "url": "https://www.brecorder.com/news/40440471/thai-bahtus-dollar-stronger-on-monday",
-   "source": "Business Recorder",
-   "published": "2026-09-21T06:01:05+00:00",
-   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Monday. At 0155 GMT, the baht was 0.14% higher at 33.25 versus the dollar, after trading in a range of 33.250 to 33.350. It ended the previous session at 33.29 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/21110049e55b61e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold slips as focus remains on Middle East, rate outlook",
-   "url": "https://www.brecorder.com/news/40440468/gold-slips-as-focus-remains-on-middle-east-rate-outlook",
-   "source": "Business Recorder",
-   "published": "2026-09-21T05:27:52+00:00",
-   "summary": "Gold prices slipped on Monday as market participants assessed developments in the Middle East and their implications for inflation and interest rates. Spot gold fell 0.3% to $4,362.60 per ounce by 0417 GMT after hitting a one-week high on Friday. US gold futures were down 0.6% at $4,400.20. Iran and the United States e…",
-   "image": "https://i.brecorder.com/large/2026/09/211026551dcc5f2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "KSE-100 gains over 268 points as oil prices ease",
-   "url": "https://tribune.com.pk/story/2630537/stocks-gain-over-218-points-as-oil-prices-ease",
-   "source": "The Express Tribune",
-   "published": "2026-09-21T03:18:01+00:00",
-   "summary": "Saudi shipment recovery offers relief amid regional supply concerns",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Opaque savings from austerity measures and subsidy design flaws fall short of reforms needed",
    "url": "https://www.dawn.com/news/2031545/opaque-savings-from-austerity-measures-and-subsidy-design-flaws-fall-short-of-reforms-needed",
    "source": "Dawn",
@@ -456,50 +522,11 @@
    "domestic": false
   },
   {
-   "title": "FM Dar stresses importance of GSP+ status in meeting with EU foreign policy chief",
-   "url": "https://tribune.com.pk/story/2630523/fm-dar-arrives-in-new-york-for-united-nations-general-assembly-session",
-   "source": "The Express Tribune",
-   "published": "2026-09-21T01:42:54+00:00",
-   "summary": "Dar highlights importance Pak attaches to its partnership with the EU, particularly in trade, economic cooperation",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX edges up amid ME tensions",
    "url": "https://tribune.com.pk/story/2630249/psx-edges-up-amid-me-tensions",
    "source": "The Express Tribune",
    "published": "2026-09-19T16:47:46+00:00",
    "summary": "KSE-100 index gains 0.22% as diplomatic hopes lift sentiment in the end",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Porsche faces another 4,000 job cuts",
-   "url": "https://tribune.com.pk/story/2630248/porsche-faces-another-4000-job-cuts",
-   "source": "The Express Tribune",
-   "published": "2026-09-19T16:47:46+00:00",
-   "summary": "Turnaround plan comes following profit warning for VW's sports car subsidiary",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX gains 1,841 points on crude price relief",
-   "url": "https://tribune.com.pk/story/2630114/psx-gains-1841-points-on-crude-price-relief",
-   "source": "The Express Tribune",
-   "published": "2026-09-18T16:03:24+00:00",
-   "summary": "Banks, fertiliser stocks lift KSE-100 amid renewed US-Iran talks' hopes",
    "image": null,
    "topics": [
     "Economy"
@@ -529,32 +556,6 @@
    "image": null,
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP rejects rumours about phasing out Rs10 banknote",
-   "url": "https://www.dawn.com/news/2030822/sbp-rejects-rumours-about-phasing-out-rs10-banknote",
-   "source": "Dawn",
-   "published": "2026-09-18T03:14:17+00:00",
-   "summary": "https://www.dawn.com/news/2030752",
-   "image": "https://i.dawn.com/large/2026/09/1808120784b8489.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan among nations worst-hit by LNG shortages due to Hormuz closure: report",
-   "url": "https://www.dawn.com/news/2030807/pakistan-among-nations-worst-hit-by-lng-shortages-due-to-hormuz-closure-report",
-   "source": "Dawn",
-   "published": "2026-09-18T02:44:53+00:00",
-   "summary": "https://www.dawn.com/news/2030754",
-   "image": "https://i.dawn.com/large/2026/09/180735063b7adbd.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
