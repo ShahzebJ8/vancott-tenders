@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-22T12:22:48+00:00",
- "count": 49,
- "relevant_count": 8,
+ "generated": "2026-09-22T17:12:05+00:00",
+ "count": 46,
+ "relevant_count": 10,
  "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40440673/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-22T11:43:33+00:00",
+   "published": "2026-09-22T13:35:29+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.21, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.22 against the dollar. Globally, the Japanese yen was under pressure from a firm US do…",
    "image": "https://i.brecorder.com/large/2026/09/221528107186ef1.webp",
    "topics": [
@@ -168,6 +168,71 @@
    "domestic": true
   },
   {
+   "title": "Reports of petroleum levy being 'central point' in IMF programme are 'misleading': finance ministry",
+   "url": "https://www.dawn.com/news/2031876/reports-of-petroleum-levy-being-central-point-in-imf-programme-are-misleading-finance-ministry",
+   "source": "Dawn",
+   "published": "2026-09-22T16:47:51+00:00",
+   "summary": "The finance ministry issued a rebuttal on Tuesday, saying that reports of the petrol development levy (PDL) being a “central point” of Pakistan’s ongoing programme with the International Monetary Fund (IMF) were “misleading”. The programme includes a $7 billion Extended Fund Facility (EFF) and a $1.1bn Resilience and S…",
+   "image": "https://i.dawn.com/large/2026/09/22212346e3d7342.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Mediavest crowned No. 1 agency at Dragons of Pakistan",
+   "url": "https://www.brecorder.com/news/40440688/mediavest-crowned-no-1-agency-at-dragons-of-pakistan",
+   "source": "Business Recorder",
+   "published": "2026-09-22T13:38:56+00:00",
+   "summary": "Mediavest, the media agency of Brainchild Communications Pakistan, has been named the No. 1 Agency at the Dragons of Pakistan 2026, marking a significant achievement for the agency and its teams. The recognition comes in a year that saw increased participation from agencies and clients, making the competition at the Dr…",
+   "image": "https://i.brecorder.com/large/2026/09/22183838c334099.webp",
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gulf stocks mixed ahead of potential US-Iran UN talks",
+   "url": "https://www.brecorder.com/news/40440687/gulf-stocks-mixed-ahead-of-potential-us-iran-un-talks",
+   "source": "Business Recorder",
+   "published": "2026-09-22T13:36:31+00:00",
+   "summary": "Gulf stock markets closed mixed on Tuesday as cautious investors awaited potential US-Iran developments at the United Nations General Assembly. Market sentiment remained fragile following renewed threats exchanged between Washington and Tehran, prolonging a months-long stalemate that continues to pressure global energy…",
+   "image": "https://i.brecorder.com/large/2026/09/22183340d65bbc3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil falls to two-week low as Gulf supply outlook improves",
+   "url": "https://www.brecorder.com/news/40440627/oil-falls-to-two-week-low-as-gulf-supply-outlook-improves",
+   "source": "Business Recorder",
+   "published": "2026-09-22T13:29:56+00:00",
+   "summary": "LONDON: Oil prices fell to a two-week low on Tuesday as prospects for Gulf supplies improved, with Iran signaling it could reopen the Strait of Hormuz within seven days and Saudi Arabia set to resume exports from its Red Sea port of Yanbu. The Brent crude futures November contract was down $2.11, or 2.1%, to $98.23 a b…",
+   "image": "https://i.brecorder.com/large/2026/09/2207502078a0c4e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Buying continues, KSE-100 settles with nearly 250 points gain",
+   "url": "https://www.brecorder.com/news/40440638/psx-buying-continues-kse-100-settles-with-nearly-250-points-gain",
+   "source": "Business Recorder",
+   "published": "2026-09-22T13:06:58+00:00",
+   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 250 points on Tuesday. The benchmark index initially moved higher and touched an intraday high of 171,680.73 during the session. The index then came under selling pressure, with gains gradually reversing through late …",
+   "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Copper pushes higher on Chinese buying, capped by firm dollar",
    "url": "https://www.brecorder.com/news/40440681/copper-pushes-higher-on-chinese-buying-capped-by-firm-dollar",
    "source": "Business Recorder",
@@ -181,38 +246,12 @@
    "domestic": false
   },
   {
-   "title": "Oil falls to two-week low as Gulf supply outlook improves",
-   "url": "https://www.brecorder.com/news/40440627/oil-falls-to-two-week-low-as-gulf-supply-outlook-improves",
-   "source": "Business Recorder",
-   "published": "2026-09-22T11:26:29+00:00",
-   "summary": "LONDON: Oil prices fell to a two-week low on Tuesday as prospects for increased oil supplies from the Gulf eased market concerns, with Iran signaling it could reopen the Strait of Hormuz within seven days and Saudi Arabia set to resume exports from its Red Sea port of Yanbu. The Brent crude futures November contract fe…",
-   "image": "https://i.brecorder.com/large/2026/09/2207502078a0c4e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
    "url": "https://www.brecorder.com/news/40440679/saudi-arabia-restarts-east-west-oil-pipeline-sources-say",
    "source": "Business Recorder",
    "published": "2026-09-22T11:21:30+00:00",
    "summary": "SINGAPORE/NEW DELHI: Saudi Arabia has restarted operations at its East-West Pipeline and could resume exports from the Red Sea port of Yanbu later on Tuesday, three sources briefed on the matter said. Drone attacks forced Saudi Arabia to shut its East-West Pipeline on September 13, halting crude loadings at the kingdom…",
    "image": "https://i.brecorder.com/large/2026/09/22162031be1aa12.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Buying continues, KSE-100 settles with nearly 250 points gain",
-   "url": "https://www.brecorder.com/news/40440638/psx-buying-continues-kse-100-settles-with-nearly-250-points-gain",
-   "source": "Business Recorder",
-   "published": "2026-09-22T11:11:45+00:00",
-   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 250 points on Tuesday. The benchmark index initially moved higher and touched an intraday high of 171,680.73 during the session. The index then came under selling pressure, with gains gradually reversing through late …",
-   "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
    "topics": [
     "Economy"
    ],
@@ -240,20 +279,6 @@
    "summary": "Usman Zaheer Ahmad, who resigned as chief executive officer of Fauji Foods Limited last week, has been appointed CEO of FrieslandCampina Engro Pakistan Limited (FCEPL), the company said in a filing with the Pakistan Stock Exchange on Tuesday. “This is to inform you that the Board of Directors has approved the appointme…",
    "image": "https://i.brecorder.com/large/2026/09/22150329026f3a0.webp",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fauji Cement to install battery storage, solar power at two plants",
-   "url": "https://www.brecorder.com/news/40440663/fauji-cement-to-install-battery-storage-solar-power-at-two-plants",
-   "source": "Business Recorder",
-   "published": "2026-09-22T08:26:05+00:00",
-   "summary": "Fauji Cement Company Limited (FCCL) said its board had approved a project to install battery energy storage systems (BESS) with a combined capacity of 50 MWh and dedicated solar power capacity of 10 MW at two of its plants. The listed company informed the Pakistan Stock Exchange (PSX) in a notice on Tuesday. “The Board…",
-   "image": "https://i.brecorder.com/large/2026/09/22132534a8d983e.webp",
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
@@ -292,19 +317,6 @@
    "published": "2026-09-22T06:29:18+00:00",
    "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose on Tuesday, tracking Wall Street gains after the S&P 500 and Nasdaq 100 posted their biggest advances since early August. The won strengthened 1% against the dollar, while the benchmark bond yield fell. The benchmark KOSPI was up 135.91 points,…",
    "image": "https://i.brecorder.com/large/2026/09/2211285921892fe.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fauji Foods CEO Usman Zaheer resigns",
-   "url": "https://www.brecorder.com/news/40440650/fauji-foods-ceo-usman-zaheer-resigns",
-   "source": "Business Recorder",
-   "published": "2026-09-22T06:26:39+00:00",
-   "summary": "Fauji Foods Limited said Chief Executive Officer (CEO) Usman Zaheer Ahmad has resigned, effective September 18, and that the board will appoint his successor in due course. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “Usman Zaheer Ahmad will continue to perfo…",
-   "image": "https://i.brecorder.com/large/2026/09/22112618f54087c.webp",
    "topics": [
     "Economy"
    ],
@@ -429,11 +441,11 @@
    "domestic": false
   },
   {
-   "title": "PSX pares early gains on profit-taking",
+   "title": "PSX gains 249 points on US-Iran optimism",
    "url": "https://tribune.com.pk/story/2630757/psx-pares-early-gains-on-profit-taking",
    "source": "The Express Tribune",
    "published": "2026-09-22T02:34:49+00:00",
-   "summary": "US-Iran optimism fuels early rally but KSE-100 Index later slips 45.70 points",
+   "summary": "KSE-100 Index closes at 171,402 as hopes for diplomatic progress, easing oil supply concerns support buying",
    "image": null,
    "topics": [
     "Economy"
@@ -479,20 +491,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's NSE IPO draws over $10 billion, traders eye modest listing pop",
-   "url": "https://www.brecorder.com/news/40440528/indias-nse-ipo-draws-over-10-billion-traders-eye-modest-listing-pop",
-   "source": "Business Recorder",
-   "published": "2026-09-21T14:25:46+00:00",
-   "summary": "The National Stock Exchange of India’s IPO drew more than $10 billion by the final day of bidding on Monday, as investors look to tap into a boom in public listings in Asia’s third-largest economy. The $2.3 billion IPO, the country’s biggest after Hyundai Motor India’s $3.3 billion offering, received bids for 505.81 mi…",
-   "image": "https://i.brecorder.com/large/2026/09/2118512597ca46c.webp",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -574,6 +572,19 @@
    "domestic": false
   },
   {
+   "title": "Pakistan’s external debt inflows surge during first two months of fiscal year",
+   "url": "https://arynews.tv/pakistans-external-debt-inflows-surge-during-first-two-months-of-fiscal-year",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s external debt inflows surge during first two months of fiscal year",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Startup-Pakistani.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan rice exports hit record high",
    "url": "https://arynews.tv/pakistan-rice-exports-hit-record-high",
    "source": "ARY News",
@@ -593,58 +604,6 @@
    "published": null,
    "summary": "Oil prices slide to 11-day low on hopes of US-Iran diplomacy, Saudi exports",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/fuel-storage-area-at-King-Khalid-International-Airport-in-Riyadh-Saudi-Arabia.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Electricity price hike: CPPA seeks Rs1.73 per unit increase",
-   "url": "https://arynews.tv/electricity-price-hike-cppa-seeks-rs1-point-73-per-unit-increase",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Electricity price hike: CPPA seeks Rs1.73 per unit increase",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Electricity-Prices.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Aramco to boost Gulf exports to 60 million barrels in Sept. and Oct.",
-   "url": "https://arynews.tv/aramco-to-boost-gulf-exports-to-60-million-barrels-in-sept-and-oct",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Aramco to boost Gulf exports to 60 million barrels in Sept. and Oct.",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Aramco.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s GDP growth recovered to 3.7 percent in FY26, says Aurangzeb",
-   "url": "https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan’s GDP growth recovered to 3.7 percent in FY26, says Aurangzeb",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Aurangzeb.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: stocks rise as KSE-100 gains over 1,800 points",
-   "url": "https://arynews.tv/psx-stocks-rise-as-kse-100-gains-over-1800-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: stocks rise as KSE-100 gains over 1,800 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/stock-market.jpg",
    "topics": [
     "Economy"
    ],
