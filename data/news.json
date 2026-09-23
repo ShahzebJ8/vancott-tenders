@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-23T17:44:33+00:00",
- "count": 41,
+ "generated": "2026-09-23T21:04:20+00:00",
+ "count": 40,
  "relevant_count": 14,
- "domestic_count": 16,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (13)",
   "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (6)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "PM Shehbaz, IMF chief meet on UNGA sidelines as Fund kicks off Pakistan review",
+   "url": "https://www.brecorder.com/news/40440907/pm-shehbaz-imf-chief-meet-on-unga-sidelines-as-fund-kicks-off-pakistan-review",
+   "source": "Business Recorder",
+   "published": "2026-09-23T20:43:15+00:00",
+   "summary": "Prime Minister Shehbaz Sharif met with IMF Managing Director Kristalina Georgieva on the sidelines of UN General Assembly 2026, on the same day as an IMF mission has started discussions with Pakistani authorities for the next review under the $7-billion Extended Fund Facility (EFF) and the Resilience and Sustainability…",
+   "image": "https://i.ytimg.com/vi/9J9wyAKn29Q/maxresdefault.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40440854/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -33,19 +46,6 @@
    "topics": [
     "Construction & projects",
     "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan, IMF kick-off review talks",
-   "url": "https://www.brecorder.com/news/40440847/pakistan-imf-kick-off-review-talks",
-   "source": "Business Recorder",
-   "published": "2026-09-23T08:51:28+00:00",
-   "summary": "An International Monetary Fund (IMF) mission led by Iva Petrova has started discussions with Pakistani authorities for the next review under the $7-billion Extended Fund Facility (EFF) and the Resilience and Sustainability Facility (RSF). “An IMF team led by Iva Petrova has started discussions with the Pakistani author…",
-   "image": "https://i.brecorder.com/large/2026/09/23135058e489e49.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -167,19 +167,6 @@
     "Procurement"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Wheat imports unlikely to cut prices",
-   "url": "https://www.dawn.com/news/2031262/wheat-imports-unlikely-to-cut-prices",
-   "source": "Dawn",
-   "published": "2026-09-20T02:26:38+00:00",
-   "summary": "KARACHI: The government’s decision to initially import 750,000 tonnes of wheat through the Trading Corpo­ration of Pakistan (TCP) may not cause a significant drop in wheat prices in the markets, but it may resist any further escalation, millers and traders said. However, traders said that already high flour prices, tri…",
-   "image": "https://i.dawn.com/large/2026/09/20084412b1d63ac.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
