@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-23T12:56:59+00:00",
- "count": 42,
- "relevant_count": 15,
- "domestic_count": 15,
+ "generated": "2026-09-23T17:44:33+00:00",
+ "count": 41,
+ "relevant_count": 14,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (5)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (6)",
   "ARY News": "ok (5)"
  },
  "stories": [
@@ -14,7 +14,7 @@
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40440854/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-23T11:25:39+00:00",
+   "published": "2026-09-23T15:00:46+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.20, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.21 against the dollar. Globally, the US dollar steadied near its strongest level in…",
    "image": "https://i.brecorder.com/large/2026/09/23151936eb3766c.webp",
    "topics": [
@@ -183,6 +183,19 @@
    "domestic": true
   },
   {
+   "title": "Punjab: Citizens can now verify tax receipts through this app",
+   "url": "https://arynews.tv/punjab-citizens-can-now-verify-tax-receipts-through-this-app",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Punjab: Citizens can now verify tax receipts through this app",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PRA.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
    "title": "IMF delegation begins talks with State Bank in Karachi",
    "url": "https://arynews.tv/imf-delegation-begins-talks-with-state-bank-in-karachi",
    "source": "ARY News",
@@ -209,12 +222,12 @@
    "domestic": true
   },
   {
-   "title": "India's $507 million line of credit to Maldives effective August 27, central bank says",
-   "url": "https://www.brecorder.com/news/40440864/indias-507-million-line-of-credit-to-maldives-effective-august-27-central-bank-says",
+   "title": "Bangladesh to buy 11 more Boeing jets as it seeks closer US trade ties",
+   "url": "https://www.brecorder.com/news/40440873/bangladesh-to-buy-11-more-boeing-jets-as-it-seeks-closer-us-trade-ties",
    "source": "Business Recorder",
-   "published": "2026-09-23T12:40:43+00:00",
-   "summary": "India government-backed 48.50 billion rupees ($506.58 million) line of credit to the Maldives became effective on August 27, 2026, the Reserve Bank of India said on Wednesday, paving the way for individual project-level credit agreements under the facility. The RBI said that the facility will be deployed through indivi…",
-   "image": "https://i.brecorder.com/large/2026/09/231739396a88a8c.webp",
+   "published": "2026-09-23T15:39:51+00:00",
+   "summary": "DHAKA: Bangladesh will buy a further 11 aircraft from Boeing officials said on Wednesday, expanding national carrier Biman Bangladesh Airlines’ planned orders to 25 jets as Dhaka seeks closer trade ties with the United States amid concerns over tariffs on its exports. The agreement, scheduled to be signed in New York o…",
+   "image": "https://i.brecorder.com/large/2026/09/232038104eb6ca5.webp",
    "topics": [
     "Economy"
    ],
@@ -225,9 +238,22 @@
    "title": "PSX: Buying continues, KSE-100 gains over 800 points",
    "url": "https://www.brecorder.com/news/40440815/psx-buying-continues-kse-100-gains-over-800-points",
    "source": "Business Recorder",
-   "published": "2026-09-23T11:40:58+00:00",
+   "published": "2026-09-23T13:44:29+00:00",
    "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index settling with a gain of over 800 points during a volatile trading session on Wednesday. The benchmark index opened with a sharp upward move before facing selling pressure in the early session. After briefly moving above 172,400, the…",
    "image": "https://i.brecorder.com/large/2026/09/2310001170d3283.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's $507 million line of credit to Maldives effective August 27, central bank says",
+   "url": "https://www.brecorder.com/news/40440864/indias-507-million-line-of-credit-to-maldives-effective-august-27-central-bank-says",
+   "source": "Business Recorder",
+   "published": "2026-09-23T12:40:43+00:00",
+   "summary": "India government-backed 48.50 billion rupees ($506.58 million) line of credit to the Maldives became effective on August 27, 2026, the Reserve Bank of India said on Wednesday, paving the way for individual project-level credit agreements under the facility. The RBI said that the facility will be deployed through indivi…",
+   "image": "https://i.brecorder.com/large/2026/09/231739396a88a8c.webp",
    "topics": [
     "Economy"
    ],
@@ -261,38 +287,12 @@
    "domestic": false
   },
   {
-   "title": "Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy",
-   "url": "https://www.brecorder.com/news/40440807/dollar-holds-near-2-month-high-as-markets-weigh-rate-hikes-iran-diplomacy",
-   "source": "Business Recorder",
-   "published": "2026-09-23T10:34:47+00:00",
-   "summary": "SINGAPORE: The dollar steadied near its strongest level in two months on Wednesday ​on prospects of interest rate hikes in the near term, while easing oil prices on hopes for a diplomatic ‌breakthrough to end the Middle East war kept investors on edge. The euro was at $1.1446 in early trading, loitering near its weakes…",
-   "image": "https://i.brecorder.com/large/2026/09/23075047e687ea8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "OECD lifts 2026 global growth forecast to 2.9% despite Mideast war",
    "url": "https://www.brecorder.com/news/40440849/oecd-lifts-2026-global-growth-forecast-to-29-despite-mideast-war",
    "source": "Business Recorder",
    "published": "2026-09-23T09:03:19+00:00",
    "summary": "PARIS: Economic growth has remained “resilient” in many countries despite the war in the Middle East, the OECD said Wednesday as it slightly raised its GDP forecasts for the year. Global economic growth is now seen at 2.9 percent, a 0.1-point increase from estimates in June by the Paris-based group of 38 industrialised…",
    "image": "https://i.brecorder.com/large/2026/09/23140201d0eabf0.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Chinese beauty product exporters are sitting pretty despite US trade dispute",
-   "url": "https://www.brecorder.com/news/40440839/chinese-beauty-product-exporters-are-sitting-pretty-despite-us-trade-dispute",
-   "source": "Business Recorder",
-   "published": "2026-09-23T07:22:01+00:00",
-   "summary": "SINGAPORE/LIANYUNGANG: From pre-bleached straight hair wigs to wavy clipped extensions and blinged-out coffin-shaped nails, sales of Chinese-made beauty accessories ​are surging across the United States. While friction over soaring Chinese exports of high-profile items such as cars and batteries forms the backdrop ‌to …",
-   "image": "https://i.brecorder.com/large/2026/09/231221056b622b2.gif",
    "topics": [
     "Economy"
    ],
@@ -310,20 +310,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "ADB expects Pakistan's GDP growth at 3.7% in FY27 as Middle East conflict weighs on economy",
-   "url": "https://www.brecorder.com/news/40440837/adb-expects-pakistans-gdp-growth-at-37-in-fy27-as-middle-east-conflict-weighs-on-economy",
-   "source": "Business Recorder",
-   "published": "2026-09-23T07:08:59+00:00",
-   "summary": "Pakistan’s economic growth is expected to remain at 3.7% in the ongoing fiscal year 2027 (FY27) as the lingering effects of the Middle East conflict weigh on activity, while inflation is projected to rise to 8.3%, the Asian Development Bank (ADB) said. The ADB, in its latest Asian Development Outlook for September , sa…",
-   "image": "https://i.brecorder.com/large/2026/09/23115223ed194a2.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -398,6 +384,19 @@
    "published": "2026-09-23T05:45:27+00:00",
    "summary": "Gold prices eased on Wednesday as investors weighed the prospect of major central banks keeping interest rates elevated for longer in their efforts to curb persistent inflation. Spot gold fell 0.2% to $4,345.55 per ounce, as of 0435 GMT. US gold futures for December delivery were up 0.2% at $4,383.10. The dollar steadi…",
    "image": "https://i.brecorder.com/large/2026/09/23104416891d120.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX stays in the green, gains 830 points on US-Iran talks",
+   "url": "https://tribune.com.pk/story/2630973/psx-jumps-1174-points-on-us-iran-peace-hopes",
+   "source": "The Express Tribune",
+   "published": "2026-09-23T03:13:06+00:00",
+   "summary": "KSE-100 holds positive course throughout session as hopes for diplomatic resolution bolster sentiment",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -545,19 +544,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s external debt inflows surge during first two months of fiscal year",
-   "url": "https://arynews.tv/pakistans-external-debt-inflows-surge-during-first-two-months-of-fiscal-year",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan’s external debt inflows surge during first two months of fiscal year",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Startup-Pakistani.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
