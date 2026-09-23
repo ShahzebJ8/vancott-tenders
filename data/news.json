@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T21:04:20+00:00",
+ "generated": "2026-09-23T23:37:33+00:00",
  "count": 40,
  "relevant_count": 14,
  "domestic_count": 15,
@@ -222,6 +222,19 @@
    "domestic": false
   },
   {
+   "title": "PM Shehbaz says IMF raises no serious concerns over Rs100 fuel subsidy after meeting Georgieva at UNGA",
+   "url": "https://tribune.com.pk/story/2631052/pm-says-imf-raises-no-serious-concerns-over-rs100-subsidy-after-meeting-georgieva-at-unga",
+   "source": "The Express Tribune",
+   "published": "2026-09-23T14:32:41+00:00",
+   "summary": "IMF chief hails Pakistan’s reform implementation, saying it helped preserve stability and restore confidence",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "PSX: Buying continues, KSE-100 gains over 800 points",
    "url": "https://www.brecorder.com/news/40440815/psx-buying-continues-kse-100-gains-over-800-points",
    "source": "Business Recorder",
@@ -436,19 +449,6 @@
    "published": "2026-09-22T16:47:51+00:00",
    "summary": "The finance ministry issued a rebuttal on Tuesday, saying that reports of the petrol development levy (PDL) being a “central point” of Pakistan’s ongoing programme with the International Monetary Fund (IMF) were “misleading”. The programme includes a $7 billion Extended Fund Facility (EFF) and a $1.1bn Resilience and S…",
    "image": "https://i.dawn.com/large/2026/09/22212346e3d7342.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fixed tax draws only 2 new traders",
-   "url": "https://tribune.com.pk/story/2630867/fixed-tax-draws-only-2-new-traders",
-   "source": "The Express Tribune",
-   "published": "2026-09-22T16:08:03+00:00",
-   "summary": "Rs26m can be collected from traders so far vs annual target of Rs50b",
-   "image": null,
    "topics": [
     "Budget & spending"
    ],
