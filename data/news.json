@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-22T23:12:30+00:00",
- "count": 46,
- "relevant_count": 11,
- "domestic_count": 11,
+ "generated": "2026-09-23T01:42:05+00:00",
+ "count": 52,
+ "relevant_count": 14,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (18)",
@@ -10,6 +10,72 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "LDA chief orders accelerated pace on Lahore projects",
+   "url": "https://www.brecorder.com/news/40440729/lda-chief-orders-accelerated-pace-on-lahore-projects",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "LAHORE: Lahore Development Authority (LDA) Director General Tahir Farooq has directed officials to accelerate ongoing urban regeneration and infrastructure projects across the provincial capital. While presiding over a meeting of the LDA Engineering Wing on Tuesday, Tahir Farooq emphasised the importance of executing t…",
+   "image": "https://i.brecorder.com/large/2026/09/230107239e236cd.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "HCSTSI, SBP officials discuss SMEs financing issues",
+   "url": "https://www.brecorder.com/news/40440765/hcstsi-sbp-officials-discuss-smes-financing-issues",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "HYDERABAD: Vice President, Hyderabad Chamber of Small Traders & Small Industry (HCSTSI), Shan Sehgal, met with Chief Manager State Bank of Pakistan, Hyderabad Office, Muhammad Ismail, Deputy Chief Manager Khadim Hussain Khokhar and Deputy Director Adil Zahoor, and discussed the financing issues being faced by SMEs, var…",
+   "image": "https://i.brecorder.com/large/2026/09/23024123de05cdd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "JazzCash named finalist at ‘The Money Awards’",
+   "url": "https://www.brecorder.com/news/40440766/jazzcash-named-finalist-at-the-money-awards",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "ISLAMABAD: JazzCash, a subsidiary of VEON Ltd, has been named a finalist at The Money Awards 2026 in two categories: Strategic Alliance & Partnership, for its work digitising government welfare disbursement, and Banking (InsurTech), for bringing health insurance to Pakistan’s informal workforce. Winners will be announc…",
+   "image": "https://i.brecorder.com/large/2026/09/23024231d5cbed9.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "TY2020 to 2025: PAFO for publishing IT, wealth directories of parliamentarians",
+   "url": "https://www.brecorder.com/news/40440768/ty2020-to-2025-pafo-for-publishing-it-wealth-directories-of-parliamentarians",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "ISLAMABAD: The Professional Accountants Forum, Pakistan (PAFO) has urged the Finance Ministry and Federal Board of Revenue (FBR) to immediately publish income tax and wealth directories of parliamentarians for tax years 2020 to 2025 to help build public trust and encourage voluntary tax compliance. In a letter to the F…",
+   "image": "https://i.brecorder.com/large/2026/09/23024454deddb1c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM’s fuel subsidy scheme reaches 2.2m beneficiaries in Punjab",
+   "url": "https://www.brecorder.com/news/40440770/pms-fuel-subsidy-scheme-reaches-22m-beneficiaries-in-punjab",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "LAHORE: The Prime Minister’s Special Fuel Scheme is progressing successfully across Punjab, with 2.4 million people having registered for the programme so far, Additional Chief Secretary Punjab Iftikhar Ali Sahoo said on Tuesday. He said more than 2.2 million registered beneficiaries had obtained tokens and availed the…",
+   "image": "https://i.brecorder.com/large/2026/09/2302465216ea37e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40440673/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -155,6 +221,45 @@
    "domestic": true
   },
   {
+   "title": "No questions asked",
+   "url": "https://www.brecorder.com/news/40440739/no-questions-asked",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "EDITORIAL: Federal finance minister Muhammad Aurangzeb called a press briefing—during which he entertained no questions from reporters—and maintained that the country suffers a daily loss of 120 billion rupees due to strikes, sit-ins, long marches, and road blockades. He termed such disruptions “self-inflicted pain” an…",
+   "image": "https://i.brecorder.com/large/2026/09/23012752750b922.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Rice exports: insure the trade, not the freight",
+   "url": "https://www.brecorder.com/news/40440752/rice-exports-insure-the-trade-not-the-freight",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "Pakistan exported 4.29 million metric tons of rice worth USD2.29 billion in FY2026. Applying last financial year’s destination mix to the export base suggests that around 36.5 percent, or USD836 million, remains exposed to the ongoing disruption in the Strait of Hormuz, the Gulf of Aden or the longer route around the C…",
+   "image": "https://i.brecorder.com/large/2026/09/23013820e48cb27.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Trump praises Mamdani after meeting in New York",
+   "url": "https://www.brecorder.com/news/40440776/trump-praises-mamdani-after-meeting-in-new-york",
+   "source": "Business Recorder",
+   "published": "2026-09-23T01:05:02+00:00",
+   "summary": "NEW YORK: President Donald Trump heaped praise Monday onto New York Mayor Zohran Mamdani as the pair set aside their political differences to discuss immigration enforcement and a multi-billion dollar housing project. Trump, a Republican, heavily criticized Mamdani before he took office in January — calling him “my lit…",
+   "image": "https://i.brecorder.com/large/2026/09/2302511926937dc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Reports of petroleum levy being 'central point' in IMF programme are 'misleading': finance ministry",
    "url": "https://www.dawn.com/news/2031876/reports-of-petroleum-levy-being-central-point-in-imf-programme-are-misleading-finance-ministry",
    "source": "Dawn",
@@ -163,19 +268,6 @@
    "image": "https://i.dawn.com/large/2026/09/22212346e3d7342.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Mediavest crowned No. 1 agency at Dragons of Pakistan",
-   "url": "https://www.brecorder.com/news/40440688/mediavest-crowned-no-1-agency-at-dragons-of-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-22T13:38:56+00:00",
-   "summary": "Mediavest, the media agency of Brainchild Communications Pakistan, has been named the No. 1 Agency at the Dragons of Pakistan 2026, marking a significant achievement for the agency and its teams. The recognition comes in a year that saw increased participation from agencies and clients, making the competition at the Dr…",
-   "image": "https://i.brecorder.com/large/2026/09/22183838c334099.webp",
-   "topics": [
-    "Advertising & media"
    ],
    "relevant": true,
    "domestic": false
@@ -226,19 +318,6 @@
    "published": "2026-09-22T11:34:28+00:00",
    "summary": "LONDON: Copper prices extended gains for a sixth session on Tuesday as top metals consumer China stocked up ahead of holidays, though a stronger dollar dampened the rise. Benchmark three-month copper on the London Metal Exchange was up 0.7% at $14,770 a metric ton by 0930 GMT, having gained 1% in the previous session. …",
    "image": "https://i.brecorder.com/large/2026/09/221634114f7529b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia restarts East-West oil pipeline, sources say",
-   "url": "https://www.brecorder.com/news/40440679/saudi-arabia-restarts-east-west-oil-pipeline-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-22T11:21:30+00:00",
-   "summary": "SINGAPORE/NEW DELHI: Saudi Arabia has restarted operations at its East-West Pipeline and could resume exports from the Red Sea port of Yanbu later on Tuesday, three sources briefed on the matter said. Drone attacks forced Saudi Arabia to shut its East-West Pipeline on September 13, halting crude loadings at the kingdom…",
-   "image": "https://i.brecorder.com/large/2026/09/22162031be1aa12.webp",
    "topics": [
     "Economy"
    ],
