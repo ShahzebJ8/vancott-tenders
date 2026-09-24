@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23T23:37:28+00:00",
+ "generated": "2026-09-24T02:54:56+00:00",
  "count": 677,
  "with_value": 650,
  "with_winner": 255,
@@ -12886,6 +12886,46 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003726",
+   "tender_no": "TS0000011145E",
+   "reference": "Tender notice 5",
+   "title": "Lot wise tender lot no 17 to 32 Civil Works",
+   "organisation": "Islamabad Electric Supply Company (IESCO) IESCO Islamabad - Pakistan",
+   "bid_count": 8,
+   "lowest": [
+    "SMB, Haroon khan,Hannan,al-quarish,projexus,ASR"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-24",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003726",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003725",
+   "tender_no": "TS0000010689E",
+   "reference": "04",
+   "title": "Lot wise tender lot no 1 to 16 Civil Goods",
+   "organisation": "Islamabad Electric Supply Company (IESCO) IESCO Islamabad - Pakistan",
+   "bid_count": 12,
+   "lowest": [
+    "Bagga Construction co, Asr trader,al-quarish, SMB"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-24",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003725",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003724",
    "tender_no": "TS0000009353E",
@@ -51981,48 +52021,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001620",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001619",
-   "tender_no": "TS0000004127E",
-   "reference": "TENDER NOTICE NO. PO/CPD/IT/19/2026",
-   "title": "PRINTING OF DIFFERENT COMPUTER STATIONERY ITEMS FOR THE YEAR 2026 PERTAINING TO I.T.DIVISION PRINCIPAL OFFICE. Printing",
-   "organisation": "State Life Insurance Corporation of Pakistan State Life Insurance Corporation of Pakistan Karachi - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "A.B Saeed (Pvt) Ltd",
-    "Paradise Press (Pvt) Ltd",
-    "Label Tech (Pvt) Ltd State Life Insurance Corporation of Pakistan"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-23",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001619",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001618",
-   "tender_no": "TS0000005455E",
-   "reference": "138(PRCL-RETRO-PARCO-PV)/2026",
-   "title": "Pak Arab Refinery Limited for Political Violence Reinsurance Coverage Services",
-   "organisation": "Ministry of Commerce Pakistan Reinsurance Co.Ltd Karachi - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Lockton FIB (PD), Lockton FIB (PV), Marsh (TPL)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-23",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001618",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

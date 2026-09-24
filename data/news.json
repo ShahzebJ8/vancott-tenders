@@ -1,26 +1,144 @@
 {
- "generated": "2026-09-23T23:37:33+00:00",
- "count": 40,
- "relevant_count": 14,
- "domestic_count": 15,
+ "generated": "2026-09-24T02:55:01+00:00",
+ "count": 46,
+ "relevant_count": 17,
+ "domestic_count": 22,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (6)",
   "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "PM Shehbaz, IMF chief meet on UNGA sidelines as Fund kicks off Pakistan review",
-   "url": "https://www.brecorder.com/news/40440907/pm-shehbaz-imf-chief-meet-on-unga-sidelines-as-fund-kicks-off-pakistan-review",
+   "title": "PSX rallies on cooling US-Iran tensions",
+   "url": "https://www.dawn.com/news/2032246/psx-rallies-on-cooling-us-iran-tensions",
+   "source": "Dawn",
+   "published": "2026-09-24T02:41:00+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) continued its recovery on Wednesday as easing geopolitical tensions and falling oil prices boosted investor sentiment, helping the benchmark KSE-100 index close in positive territory for the third consecutive session. Topline Securities Ltd said the PSX staged a str­o­­ng rec…",
+   "image": "https://i.dawn.com/large/2026/09/240740321b539e3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Iqra University stages ‘Media Unveiled 2026’",
+   "url": "https://www.brecorder.com/news/40440984/iqra-university-stages-media-unveiled-2026",
    "source": "Business Recorder",
-   "published": "2026-09-23T20:43:15+00:00",
-   "summary": "Prime Minister Shehbaz Sharif met with IMF Managing Director Kristalina Georgieva on the sidelines of UN General Assembly 2026, on the same day as an IMF mission has started discussions with Pakistani authorities for the next review under the $7-billion Extended Fund Facility (EFF) and the Resilience and Sustainability…",
-   "image": "https://i.ytimg.com/vi/9J9wyAKn29Q/maxresdefault.jpg",
+   "published": "2026-09-24T02:37:08+00:00",
+   "summary": "KARACHI: Iqra University’s Department of Media Science successfully staged “Media Unveiled 2026” with an impressive range of advertising, media and design projects, highlighting the creative potential and practical skills of students from different semesters. The exhibition featured Final Year Thesis projects by BS Med…",
+   "image": "https://i.brecorder.com/large/2026/09/2407341509a466c.webp",
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "NEPRA and K-Electric representatives grilled over power outages",
+   "url": "https://www.brecorder.com/news/40440981/nepra-and-k-electric-representatives-grilled-over-power-outages",
+   "source": "Business Recorder",
+   "published": "2026-09-24T02:33:08+00:00",
+   "summary": "KARACHI: The Sindh Assembly’s special committee on Wednesday grilled representatives of HESCO, SEPCO, K-Electric and NEPRA over prolonged power outages, expressing dissatisfaction with their responses and warning of legal action if the companies failed to improve electricity supply. The meeting turned tense as the repr…",
+   "image": "https://i.brecorder.com/large/2026/09/24073203adb96da.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "New, used car imports surge 36pc in July-Aug",
+   "url": "https://www.dawn.com/news/2032253/new-used-car-imports-surge-36pc-in-july-aug",
+   "source": "Dawn",
+   "published": "2026-09-24T02:32:22+00:00",
+   "summary": "• Gift scheme accounts for bulk of used car imports • New entrants expand imports of electrified vehicles ahead of local assembly KARACHI: Imports of new and used cars have shown a rising trend as new entrants seek to introduce models ahead of local assembly, while auto vendors remain concerned over the continued arriv…",
+   "image": "https://i.dawn.com/large/2026/09/240730572a9417d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Private sector credit offtake remains weak",
+   "url": "https://www.dawn.com/news/2032250/private-sector-credit-offtake-remains-weak",
+   "source": "Dawn",
+   "published": "2026-09-24T02:04:22+00:00",
+   "summary": "KARACHI: The country has yet to emerge from an investment-averse environment, as reflected in private sector credit offtake during the first quarter of the current fiscal year. Latest State Bank data for the first two-and-a-half months of the fiscal year show that the private sector is still retiring debt. Between July…",
+   "image": "https://i.dawn.com/large/2026/09/2407370573be6ff.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR notifies new tax rules for non-resident influencers",
+   "url": "https://www.dawn.com/news/2032221/fbr-notifies-new-tax-rules-for-non-resident-influencers",
+   "source": "Dawn",
+   "published": "2026-09-24T02:04:07+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has introduced new rules to tax income earned from social media content, targeting non-resident Pakistanis. The new tax rules will target all those individuals who generate income through user interactions in Pakistan. The new rules were notified through a notification, SRO…",
+   "image": "https://i.dawn.com/large/2026/09/24074912a535616.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PRA registers 35,000 new businesses in tax drive",
+   "url": "https://www.brecorder.com/news/40440891/pra-registers-35000-new-businesses-in-tax-drive",
+   "source": "Business Recorder",
+   "published": "2026-09-24T00:47:50+00:00",
+   "summary": "LAHORE: The Punjab Revenue Authority (PRA) has registered 35,000 new businesses across Punjab during the past year as part of efforts to expand the provincial tax net. PRA Chairman Moazzam Iqbal Sipra, while chairing a review meeting on business registration and tax-net expansion targets, directed officials to ensure t…",
+   "image": "https://i.brecorder.com/large/2026/09/24003855ba5987b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "JI will not give up its right until the PL is abolished: Naeem",
+   "url": "https://www.brecorder.com/news/40440909/ji-will-not-give-up-its-right-until-the-pl-is-abolished-naeem",
+   "source": "Business Recorder",
+   "published": "2026-09-24T00:47:50+00:00",
+   "summary": "ISLAMABAD: Jamaat-e-Islami (JI) Ameer Hafiz Naeem-ur-Rehman has announced that his party will not give up its right to march on Islamabad until the Petroleum Levy (PL) is abolished, warning that its protest campaign will be expanded if the government fails to provide relief to inflation-hit masses. Addressing a press c…",
+   "image": "https://i.brecorder.com/large/2026/09/240130308d81b64.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PAEC Foundation signs contract for hydropower plant at outfall of Chashma-5",
+   "url": "https://www.brecorder.com/news/40440918/paec-foundation-signs-contract-for-hydropower-plant-at-outfall-of-chashma-5",
+   "source": "Business Recorder",
+   "published": "2026-09-24T00:47:50+00:00",
+   "summary": "ISLAMABAD: The Pakistan Atomic Energy Commission (PAEC) Foundation has signed a contract for the establishment of its fifth hydropower plant, Foundation Hydel Power Plant Unit-05 (FHPP-05), a 5MW project to be constructed at the outfall of the Chashma-5 Nuclear Power Plant. Once operational, the plant is expected to ge…",
+   "image": "https://i.brecorder.com/large/2026/09/240135557aa48a7.webp",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Korangi Industrial Area accounts for 9pc of total exports: Qaiser",
+   "url": "https://www.brecorder.com/news/40440922/korangi-industrial-area-accounts-for-9pc-of-total-exports-qaiser",
+   "source": "Business Recorder",
+   "published": "2026-09-24T00:47:50+00:00",
+   "summary": "KARACHI: Federal Minister, Board of Investment (BOI) Qaiser Ahmed Sheikh has said that the Korangi Industrial Area accounts for 9 percent of Pakistan’s total exports, underscoring the strategic importance of the industrial zone to the country’s economy. Addressing industrialists at the Korangi Association of Trade and …",
+   "image": "https://i.brecorder.com/large/2026/09/240150029197dfd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -34,20 +152,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PAEC Foundation signs contract for hydropower plant at outfall of Chashma-5",
-   "url": "https://www.dawn.com/news/2032058/paec-foundation-signs-contract-for-hydropower-plant-at-outfall-of-chashma-5",
-   "source": "Dawn",
-   "published": "2026-09-23T09:57:16+00:00",
-   "summary": "ISLAMABAD: Pakistan Atomic Energy Commission (PAEC) Foundation has signed a contract for the establishment of its fifth hydropower plant, Foundation Hydel Power Plant Unit-05 (FHPP-05), a five-megawatt project to be constructed at the outfall of the Chashma-5 Nuclear Power Plant . Once operational, the plant is expecte…",
-   "image": "https://i.dawn.com/large/2026/09/23145909c99cdb5.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -156,20 +260,6 @@
    "domestic": true
   },
   {
-   "title": "Govt invites bids for first 400MW wheeling auction, says it is exiting power procurement",
-   "url": "https://www.dawn.com/news/2031351/govt-invites-bids-for-first-400mw-wheeling-auction-says-it-is-exiting-power-procurement",
-   "source": "Dawn",
-   "published": "2026-09-20T15:41:11+00:00",
-   "summary": "ISLAMABAD: The government on Sunday announced the first wheeling auction of 400 megawatt electricity under the much delayed Competitive Trading Bilateral Contracts Market (CTBCM), enabling large, mostly industrial, consumers to opt for power suppliers of their choice anywhere in the country instead of relying solely on…",
-   "image": "https://i.dawn.com/large/2026/09/201955079500b95.webp",
-   "topics": [
-    "Energy & power",
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Punjab: Citizens can now verify tax receipts through this app",
    "url": "https://arynews.tv/punjab-citizens-can-now-verify-tax-receipts-through-this-app",
    "source": "ARY News",
@@ -209,16 +299,16 @@
    "domestic": true
   },
   {
-   "title": "Bangladesh to buy 11 more Boeing jets as it seeks closer US trade ties",
-   "url": "https://www.brecorder.com/news/40440873/bangladesh-to-buy-11-more-boeing-jets-as-it-seeks-closer-us-trade-ties",
+   "title": "Include planning ministry in IMF negotiations",
+   "url": "https://www.brecorder.com/news/40440927/include-planning-ministry-in-imf-negotiations",
    "source": "Business Recorder",
-   "published": "2026-09-23T15:39:51+00:00",
-   "summary": "DHAKA: Bangladesh will buy a further 11 aircraft from Boeing officials said on Wednesday, expanding national carrier Biman Bangladesh Airlines’ planned orders to 25 jets as Dhaka seeks closer trade ties with the United States amid concerns over tariffs on its exports. The agreement, scheduled to be signed in New York o…",
-   "image": "https://i.brecorder.com/large/2026/09/232038104eb6ca5.webp",
+   "published": "2026-09-24T01:35:23+00:00",
+   "summary": "EDITORIAL: International Monetary Fund (IMF) programme is a whole of the government programme engaging federal and provincial institutions as well as the Planning Commission/Ministry of Planning, so maintained a press release issued a day after Ahsan Iqbal, Minister of Planning, Development and Special Initiatives, sta…",
+   "image": "https://i.brecorder.com/large/2026/09/24015344ad5c6f3.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -241,19 +331,6 @@
    "published": "2026-09-23T13:44:29+00:00",
    "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index settling with a gain of over 800 points during a volatile trading session on Wednesday. The benchmark index opened with a sharp upward move before facing selling pressure in the early session. After briefly moving above 172,400, the…",
    "image": "https://i.brecorder.com/large/2026/09/2310001170d3283.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's $507 million line of credit to Maldives effective August 27, central bank says",
-   "url": "https://www.brecorder.com/news/40440864/indias-507-million-line-of-credit-to-maldives-effective-august-27-central-bank-says",
-   "source": "Business Recorder",
-   "published": "2026-09-23T12:40:43+00:00",
-   "summary": "India government-backed 48.50 billion rupees ($506.58 million) line of credit to the Maldives became effective on August 27, 2026, the Reserve Bank of India said on Wednesday, paving the way for individual project-level credit agreements under the facility. The RBI said that the facility will be deployed through indivi…",
-   "image": "https://i.brecorder.com/large/2026/09/231739396a88a8c.webp",
    "topics": [
     "Economy"
    ],
