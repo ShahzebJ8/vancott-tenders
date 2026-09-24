@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-24T18:11:33+00:00",
- "count": 45,
- "relevant_count": 19,
- "domestic_count": 18,
+ "generated": "2026-09-24T21:43:43+00:00",
+ "count": 43,
+ "relevant_count": 17,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (8)",
-  "ARY News": "ok (4)"
+  "The Express Tribune": "ok (7)",
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
@@ -228,19 +228,6 @@
    "published": null,
    "summary": "Punjab: Citizens can now verify tax receipts through this app",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PRA.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "IMF delegation begins talks with State Bank in Karachi",
-   "url": "https://arynews.tv/imf-delegation-begins-talks-with-state-bank-in-karachi",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF delegation begins talks with State Bank in Karachi",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/IMF-2.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -475,19 +462,6 @@
    "source": "The Express Tribune",
    "published": "2026-09-23T16:56:09+00:00",
    "summary": "Health, educational spending target missed by Rs370b; SOE reform pace slows",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "ADB keeps Pakistan's growth at 3.7%",
-   "url": "https://tribune.com.pk/story/2631063/adb-keeps-pakistans-growth-at-37",
-   "source": "The Express Tribune",
-   "published": "2026-09-23T16:56:09+00:00",
-   "summary": "Expects reduction in expenses if FBR's tax collection falls short of target",
    "image": null,
    "topics": [
     "Budget & spending"
