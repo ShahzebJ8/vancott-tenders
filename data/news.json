@@ -1,20 +1,33 @@
 {
- "generated": "2026-09-24T13:45:05+00:00",
- "count": 47,
- "relevant_count": 20,
+ "generated": "2026-09-24T18:11:33+00:00",
+ "count": 45,
+ "relevant_count": 19,
  "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (5)"
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "SBP-held foreign reserves rise by $11m to $21.4bn",
+   "url": "https://www.brecorder.com/news/40441063/sbp-held-foreign-reserves-rise-by-11m-to-214bn",
+   "source": "Business Recorder",
+   "published": "2026-09-24T14:28:47+00:00",
+   "summary": "State Bank of Pakistan (SBP)-held foreign exchange reserves increased by $11 million during the week ended September 18, 2026, reaching $21.4 billion, according to data released by the central bank on Thursday. The country’s total liquid foreign reserves stood at $26.81 billion as of September 18, compared with $21.4 b…",
+   "image": "https://i.brecorder.com/large/2026/09/241928306f4254e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40441041/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-09-24T13:37:48+00:00",
+   "published": "2026-09-24T13:48:10+00:00",
    "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01% against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.17, a gain of Re0.03 against the greenback. On Wednesday , the Pakistani rupee settled at 277.20 against the dollar. Internationally, the US dollar clung to…",
    "image": "https://i.brecorder.com/large/2026/09/24153055d78480b.webp",
    "topics": [
@@ -235,17 +248,30 @@
    "domestic": true
   },
   {
-   "title": "Overseas Pakistanis urged to invest in Pakistan’s modern tax-free zones",
-   "url": "https://arynews.tv/over-pakistanis-urged-to-invest-in-pakistans-modern-tax-free-zones",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Overseas Pakistanis urged to invest in Pakistan’s modern tax-free zones",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Investment-Overseas.jpg",
+   "title": "Copper falls on stronger dollar, Chile supply worries cap downside",
+   "url": "https://www.brecorder.com/news/40441066/copper-falls-on-stronger-dollar-chile-supply-worries-cap-downside",
+   "source": "Business Recorder",
+   "published": "2026-09-24T15:15:41+00:00",
+   "summary": "LONDON: Copper prices edged down on Thursday as a firmer dollar and risk reduction ahead of a long Chinese holiday weekend weighed on sentiment, although worries over supply disruptions at major Chilean mines limited losses. Benchmark three-month copper on the London Metal Exchange dipped 0.2% to $14,595 a metric ton b…",
+   "image": "https://i.brecorder.com/large/2026/09/242015312ac662d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF review calls for 'fewer but deeper' reforms in design of loan programs",
+   "url": "https://www.brecorder.com/news/40441060/imf-review-calls-for-fewer-but-deeper-reforms-in-design-of-loan-programs",
+   "source": "Business Recorder",
+   "published": "2026-09-24T14:06:57+00:00",
+   "summary": "WASHINGTON: The International Monetary Fund on Thursday called for targeted refinements to the design and implementation of its loan programs, including a focus on fewer but deeper reforms, to reflect the challenges of a more shock-prone global economy. Civil society groups have worried that the review could leave deve…",
+   "image": "https://i.brecorder.com/large/2026/09/241905536157cbf.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "PSX: Selling returns, KSE-100 down over 1%",
@@ -254,19 +280,6 @@
    "published": "2026-09-24T13:44:10+00:00",
    "summary": "Selling returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index settling with a loss of over 1% on Thursday. After touching an intraday high of 172,491.16 in morning trade, the index reversed gains and witnessed sustained selling in the second half of the session. The benchmark hit an intraday l…",
    "image": "https://i.brecorder.com/large/2026/09/241015431c05407.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil gains on little sign of progress in US-Iran talks",
-   "url": "https://www.brecorder.com/news/40440987/oil-gains-on-little-sign-of-progress-in-us-iran-talks",
-   "source": "Business Recorder",
-   "published": "2026-09-24T12:25:42+00:00",
-   "summary": "LONDON: Oil prices rose more than 1% on Thursday as diplomatic talks between the US and Iran showed little sign of progress, while investors focused on uncertainty about a potential US ban on diesel exports. Brent crude futures were up $1.63, or 1.58%, at $104.71 a barrel at 1200 GMT, while West Texas Intermediate futu…",
-   "image": "https://i.brecorder.com/large/2026/09/2408020543e07aa.webp",
    "topics": [
     "Economy"
    ],
@@ -418,11 +431,11 @@
    "domestic": false
   },
   {
-   "title": "PSX slips 474 points as profit-taking follows rally",
+   "title": "PSX falls 1,734 points on geopolitics tension",
    "url": "https://tribune.com.pk/story/2631164/psx-slips-474-points-as-profit-taking-follows-rally",
    "source": "The Express Tribune",
    "published": "2026-09-24T03:50:32+00:00",
-   "summary": "KSE-100 down 0.28% below 172,000 after four-session climb",
+   "summary": "KSE-100 drops to 170,499 points as oil spike and caution outweigh refinery deals",
    "image": null,
    "topics": [
     "Economy"
@@ -457,19 +470,6 @@
    "domestic": false
   },
   {
-   "title": "Dollar perched at two-month high as hot PMI fuels inflation fears, rate hike bets",
-   "url": "https://www.brecorder.com/news/40440986/dollar-perched-at-two-month-high-as-hot-pmi-fuels-inflation-fears-rate-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-09-24T02:56:54+00:00",
-   "summary": "HONG KONG: The dollar clung to a two-month high on Thursday after a strong manufacturing reading reignited inflation fears and rate-hike bets, while a weak Treasury auction sent yields ​higher across the curve, providing fresh impetus to the US currency. The broad dollar strength ‌pushed the euro to $1.1378, a two-mont…",
-   "image": "https://i.brecorder.com/large/2026/09/2407545491acd86.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "IMF talks begin with reform gaps",
    "url": "https://tribune.com.pk/story/2631068/imf-talks-begin-with-reform-gaps",
    "source": "The Express Tribune",
@@ -491,20 +491,6 @@
    "image": null,
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fuel levy poses bigger inflation risks",
-   "url": "https://tribune.com.pk/story/2631066/fuel-levy-poses-bigger-inflation-risks",
-   "source": "The Express Tribune",
-   "published": "2026-09-23T16:56:09+00:00",
-   "summary": "Easy Rs1.68tr collection target may delay reforms to broaden tax base",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
    ],
    "relevant": true,
    "domestic": false
@@ -559,19 +545,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Dar meets EU foreign policy chief, stresses importance of GSP+ for Pakistan's trade ties with the bloc",
-   "url": "https://www.dawn.com/news/2031647/dar-meets-eu-foreign-policy-chief-stresses-importance-of-gsp-for-pakistans-trade-ties-with-the-bloc",
-   "source": "Dawn",
-   "published": "2026-09-21T19:50:13+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the significance of GSP+ for Pakistan’s trade relations with the European Union in a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas on Monday, according to a statement by the Foreign Office (FO). The meeting took plac…",
-   "image": "https://i.dawn.com/large/2026/09/2123122979a8ac1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
