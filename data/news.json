@@ -1,15 +1,41 @@
 {
- "generated": "2026-09-25T10:26:49+00:00",
- "count": 49,
- "relevant_count": 20,
- "domestic_count": 16,
+ "generated": "2026-09-25T15:28:17+00:00",
+ "count": 53,
+ "relevant_count": 24,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
-  "ARY News": "ok (5)"
+  "Business Recorder": "ok (18)",
+  "The Express Tribune": "ok (9)",
+  "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "FBR sets up faceless tax audit, assessment centre in Islamabad",
+   "url": "https://www.dawn.com/news/2032605/fbr-sets-up-faceless-tax-audit-assessment-centre-in-islamabad",
+   "source": "Dawn",
+   "published": "2026-09-25T14:12:07+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has established the National Faceless Centre in Islamabad, under which audits and assessments will be handled by “faceless” wings to reduce official discretion and direct contact between tax officials and taxpayers. The initiative has been taken under Pakistan’s New Tax Ope…",
+   "image": "https://i.dawn.com/large/2026/09/25190346a15dc31.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40441226/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-25T14:05:50+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 277.16, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.17 against the dollar. Internationally, the US dollar was set for its first back-to-b…",
+   "image": "https://i.brecorder.com/large/2026/09/25155134d78480b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Govt working on 174 IMF-sought tweaks, NA panel told",
    "url": "https://www.dawn.com/news/2032485/govt-working-on-174-imf-sought-tweaks-na-panel-told",
@@ -63,19 +89,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40441041/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-24T13:48:10+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains, appreciating 0.01% against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.17, a gain of Re0.03 against the greenback. On Wednesday , the Pakistani rupee settled at 277.20 against the dollar. Internationally, the US dollar clung to…",
-   "image": "https://i.brecorder.com/large/2026/09/24153055d78480b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -198,30 +211,123 @@
    "domestic": true
   },
   {
-   "title": "Independent tax probes by FIA questioned",
-   "url": "https://www.dawn.com/news/2031971/independent-tax-probes-by-fia-questioned",
-   "source": "Dawn",
-   "published": "2026-09-23T02:24:42+00:00",
-   "summary": "ISLAMABAD: A Senate panel on Tuesday questioned the legal basis of the Federal Investigation Agency (FIA) launching independent tax inquiries — a domain of the Federal Board of Revenue (FBR) — and directed both institutions to evolve a synchronised operational mechanism to avoid jurisdictional overlap. The panel also r…",
-   "image": "https://i.dawn.com/large/2026/09/230721108fba1f2.webp",
+   "title": "Asan Tax Scheme brings nearly 10,000 shopkeepers into tax net",
+   "url": "https://www.brecorder.com/news/40441237/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net",
+   "source": "Business Recorder",
+   "published": "2026-09-25T13:23:33+00:00",
+   "summary": "Nearly 10,000 shopkeepers have joined the tax net under the Asan Tax Scheme within a month of its launch, the government said on Friday. Minister of State for Finance and Railways Bilal Azhar Kayani chaired a review meeting on the scheme, where officials briefed participants on its implementation and trader representat…",
+   "image": "https://i.brecorder.com/large/2026/09/251822308e6aa35.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Punjab: Citizens can now verify tax receipts through this app",
-   "url": "https://arynews.tv/punjab-citizens-can-now-verify-tax-receipts-through-this-app",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Punjab: Citizens can now verify tax receipts through this app",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PRA.jpg",
+   "title": "PSX: Stocks end week on positive note amid late buying",
+   "url": "https://www.brecorder.com/news/40441186/psx-stocks-end-week-on-positive-note-amid-late-buying",
+   "source": "Business Recorder",
+   "published": "2026-09-25T12:41:35+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session on Friday, with the benchmark KSE-100 Index ending the week with a marginal gain of over 250 points. The market started on a positive note and climbed towards 171,000 points, before coming under selling pressure during the morning session. The index …",
+   "image": "https://i.brecorder.com/large/2026/09/25101013d1b8ed6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper tiptoes higher on weaker dollar, tight Chinese supplies",
+   "url": "https://www.brecorder.com/news/40441235/copper-tiptoes-higher-on-weaker-dollar-tight-chinese-supplies",
+   "source": "Business Recorder",
+   "published": "2026-09-25T12:33:18+00:00",
+   "summary": "LONDON: Copper prices crept higher on Friday, boosted by a weaker dollar and shortages in China, but gains were modest as investors remained wary about the potential for more rate hikes that could dampen metals demand. Benchmark three-month copper on the London Metal Exchange rose 0.2% to $14,645 a metric ton in offici…",
+   "image": "https://i.brecorder.com/large/2026/09/25173244aa9dd2b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE markets decline after warning on regional air travel",
+   "url": "https://www.brecorder.com/news/40441234/uae-markets-decline-after-warning-on-regional-air-travel",
+   "source": "Business Recorder",
+   "published": "2026-09-25T12:24:11+00:00",
+   "summary": "UAE stock markets closed slightly lower on Friday, reversing early gains after an adviser to Iran’s leader warned of potential disruptions to regional air travel and airport services. Iranian adviser Mokhber said if Iran cannot have flights and receive airport services, then no one in the region can either, Nournews re…",
+   "image": "https://i.brecorder.com/large/2026/09/25172357237803d.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Three Iraqi airports suspend Iranian flights starting Friday, sources and state media say",
+   "url": "https://www.brecorder.com/news/40441231/three-iraqi-airports-suspend-iranian-flights-starting-friday-sources-and-state-media-say",
+   "source": "Business Recorder",
+   "published": "2026-09-25T11:42:34+00:00",
+   "summary": "Iraq’s Erbil and Sulaimaniya airports suspended Iranian flights starting on Friday, two sources told Reuters, after other Iraqi airports took the same step earlier in the week. The move means that according to sources and state media, flights to and from Iran are suspended from all four Iraqi airports at which they wer…",
+   "image": "https://i.brecorder.com/large/2026/09/251642107123afb.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "EU, IMF understand need to help Ukraine finance budget gap, Zelenskiy says",
+   "url": "https://www.brecorder.com/news/40441225/eu-imf-understand-need-to-help-ukraine-finance-budget-gap-zelenskiy-says",
+   "source": "Business Recorder",
+   "published": "2026-09-25T10:52:35+00:00",
+   "summary": "KYIV: Ukrainian President Volodymyr Zelenskiy said on Friday that the European Union and the International Monetary Fund understood the importance of helping Kyiv finance its budget deficit and defence spending. Ukraine is seeking an additional $27 billion from partners this year for defence, saying the cost of the war…",
+   "image": "https://i.brecorder.com/large/2026/09/25155220ef59bee.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Palm slides to over 7-week low on stock fears",
+   "url": "https://www.brecorder.com/news/40441221/palm-slides-to-over-7-week-low-on-stock-fears",
+   "source": "Business Recorder",
+   "published": "2026-09-25T10:29:58+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures tumbled more than 2% on Friday to their lowest level in over seven weeks, pressured by expectations of higher output and weak exports that could boost inventories. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange slid 99 ringgit, o…",
+   "image": "https://i.brecorder.com/large/2026/09/25152926ed7a5d5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSO reports over Rs15bn profit in FY2026",
+   "url": "https://www.brecorder.com/news/40441220/pso-reports-over-rs15bn-profit-in-fy2026",
+   "source": "Business Recorder",
+   "published": "2026-09-25T10:27:15+00:00",
+   "summary": "Pakistan State Oil (PSO), the nation’s energy flagship, recorded a profit after tax of Rs15.07 billion, resulting in earnings per share (EPS) of Rs32.1 for the fiscal year ended June 30, 2026. The company’s gross profit increased to Rs99.9 billion, compared with Rs96.7 billion in the previous fiscal year, read a statem…",
+   "image": "https://i.brecorder.com/large/2026/09/2515252995097fb.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "India shares log longest weekly losing run since 2020 as oil prices bite",
+   "url": "https://www.brecorder.com/news/40441219/india-shares-log-longest-weekly-losing-run-since-2020-as-oil-prices-bite",
+   "source": "Business Recorder",
+   "published": "2026-09-25T10:26:53+00:00",
+   "summary": "Indian shares posted modest gains on Friday in a partial rebound after previous session’s slide, but still logged their longest weekly losing streak in six years as high oil prices drove up bond yields and inflationary concerns. The Nifty 50 rose 0.34% on the day to 23,140.50, while the Sensex added 0.43% to 73,895.74 …",
+   "image": "https://i.brecorder.com/large/2026/09/251526339c2072e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Indian rupee soothed by intervention, surge in forward premiums tipped to cool",
@@ -250,25 +356,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: Stock surge as markets eye Iran, US truce",
-   "url": "https://www.brecorder.com/news/40441186/psx-stock-surge-as-markets-eye-iran-us-truce",
-   "source": "Business Recorder",
-   "published": "2026-09-25T07:25:36+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX) during the first half of trading on Friday, as markets weighed the possibility of a truce between the US and Iran. At 12pm, the benchmark index hovered at 170,632.86, up 133.92 points or 0.08%. Key sectors saw buying, including automobile assemblers, cem…",
-   "image": "https://i.brecorder.com/large/2026/09/25101013d1b8ed6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sazgar to introduce BAIC’s ARCFOX EVs in Pakistan",
-   "url": "https://www.brecorder.com/news/40441210/sazgar-to-introduce-baics-arcfox-evs-in-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-09-25T07:21:20+00:00",
-   "summary": "Sazgar Engineering Works Limited plans to introduce China’s BAIC Group’s premium electric vehicle brand ARCFOX in Pakistan, as the automaker expands its EV portfolio. The listed company disclosed the development in its filing to the Pakistan Stock Exchange (PSX) on Friday. “We are pleased to inform you that Sazgar Engi…",
-   "image": "https://i.brecorder.com/large/2026/09/251219262ac24bc.webp",
+   "title": "PSX gains 266 points in range-bound session",
+   "url": "https://tribune.com.pk/story/2631379/psx-gains-266-points-in-range-bound-session",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T07:40:28+00:00",
+   "summary": "KSE-100 edges higher to close at 170,765 as geopolitical risks weigh in",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -347,19 +440,6 @@
    "published": "2026-09-25T05:32:18+00:00",
    "summary": "SINGAPORE: Copper prices nudged up on Friday and were set to end the week higher, capping a volatile week in which tightness in big consumer China pushed up prices before a stronger dollar and inflation concerns pared back some of those gains. Benchmark three-month copper on the London Metal Exchange was up 0.08% at $1…",
    "image": "https://i.brecorder.com/large/2026/09/25103205aa9dd2b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "EU urges Britain to raise tariffs on Chinese cars, FT says",
-   "url": "https://www.brecorder.com/news/40441189/eu-urges-britain-to-raise-tariffs-on-chinese-cars-ft-says",
-   "source": "Business Recorder",
-   "published": "2026-09-25T05:22:13+00:00",
-   "summary": "Brussels has told British Prime Minister Andy Burnham that Britain needs to raise tariffs on Chinese cars and align more closely align with EU trade policy to avoid “made in Europe” barriers on key exports, the Financial Times said on Friday. In response to lobbying for equal treatment for British products, the bloc to…",
-   "image": "https://i.brecorder.com/large/2026/09/251020338f0ff04.gif",
    "topics": [
     "Economy"
    ],
@@ -498,59 +578,6 @@
    "domestic": false
   },
   {
-   "title": "India's NSE lists after decade-long wait; valued at $47 billion",
-   "url": "https://www.brecorder.com/news/40441045/indias-nse-lists-after-decade-long-wait-valued-at-47-billion",
-   "source": "Business Recorder",
-   "published": "2026-09-24T11:19:51+00:00",
-   "summary": "The National Stock Exchange of India closed 1.85% higher on its market debut on Thursday, ending a decade-long effort to list and becoming one of the world’s 10 most valuable publicly traded bourses. The stock rose as much as 5% during the day. It closed at 1,818 rupees, valuing India’s largest bourse at 4.5 trillion r…",
-   "image": "https://i.brecorder.com/large/2026/09/24161853a8d066c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian copper producers urge government to cut indirect tax to 5% from 18%",
-   "url": "https://www.brecorder.com/news/40441038/indian-copper-producers-urge-government-to-cut-indirect-tax-to-5-from-18",
-   "source": "Business Recorder",
-   "published": "2026-09-24T10:35:12+00:00",
-   "summary": "NEW DELHI: Indian copper producers have urged the government to reduce the indirect goods and services tax (GST) on copper products to 5% from 18%, arguing that the current rate locks up more than 490 billion rupees ($5.11 billion) in working capital. The petition by Bharat Metal Exchange (BME) and copper producers inc…",
-   "image": "https://i.brecorder.com/large/2026/09/24153455504ec85.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee declines to one-week low as oil rally fans global rate hike worries",
-   "url": "https://www.brecorder.com/news/40441037/indian-rupee-declines-to-one-week-low-as-oil-rally-fans-global-rate-hike-worries",
-   "source": "Business Recorder",
-   "published": "2026-09-24T10:29:30+00:00",
-   "summary": "MUMBAI: The Indian rupee fell to a one-week low on Thursday as a jump in oil prices and little progress in U.S.-Iran talks raised concerns that inflation could prompt further global rate hikes. Dollar sales by state-run banks, likely on behalf of the Reserve Bank of India, limited losses and kept the rupee above 96 per…",
-   "image": "https://i.brecorder.com/large/2026/09/24152841d22588e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs",
-   "url": "https://www.brecorder.com/news/40441036/indian-shares-post-worst-day-in-10-weeks-on-oil-spike-proposed-insurance-curbs",
-   "source": "Business Recorder",
-   "published": "2026-09-24T10:25:43+00:00",
-   "summary": "Indian shares fell the most in ten weeks on Thursday as surging oil prices stoked inflation concerns and weighed on sentiment, with financials leading the decline on insurance commission cap concerns. The National Stock Exchange rose 1.8% in its debut trading session, opening at a modest 0.8% premium to the stock’s iss…",
-   "image": "https://i.brecorder.com/large/2026/09/241525169c2072e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Gold falls on hawkish Fed signals",
    "url": "https://tribune.com.pk/story/2631064/gold-falls-on-hawkish-fed-signals",
    "source": "The Express Tribune",
@@ -600,6 +627,32 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FBR sets up National Faceless Centre: no more direct contact with tax officers",
+   "url": "https://arynews.tv/fbr-sets-up-national-faceless-centre-no-more-direct-contact-with-tax-officers",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR sets up National Faceless Centre: no more direct contact with tax officers",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-2026-09-25T190256.353.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks edge higher as KSE-100 index gains 266 points",
+   "url": "https://arynews.tv/psx-stocks-edge-higher-as-kse-100-index-gains-266-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks edge higher as KSE-100 index gains 266 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Stock-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
