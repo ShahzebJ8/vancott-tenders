@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-25T05:15:01+00:00",
- "count": 48,
- "relevant_count": 18,
- "domestic_count": 20,
+ "generated": "2026-09-25T10:26:49+00:00",
+ "count": 49,
+ "relevant_count": 20,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (3)"
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
@@ -22,19 +22,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Stakeholders deliberate on a phased transition to clean electricity by 2040",
-   "url": "https://www.brecorder.com/news/40441177/stakeholders-deliberate-on-a-phased-transition-to-clean-electricity-by-2040",
-   "source": "Business Recorder",
-   "published": "2026-09-25T02:25:13+00:00",
-   "summary": "LAHORE: Pakistan’s leading power-sector stakeholders gathered at the Lahore University of Management Sciences on Thursday to discuss converting the country’s thermal power plants into grid-support assets as part of a phased transition to clean electricity by 2040, with officials calling for a technology-neutral framewo…",
-   "image": "https://i.brecorder.com/large/2026/09/250723471b05e2b.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -65,32 +52,6 @@
    "domestic": true
   },
   {
-   "title": "Govt urged to develop fisheries sector on modern lines",
-   "url": "https://www.brecorder.com/news/40441172/govt-urged-to-develop-fisheries-sector-on-modern-lines",
-   "source": "Business Recorder",
-   "published": "2026-09-25T02:04:31+00:00",
-   "summary": "KARACHI: The President of the Pakistan Businessmen and Intellectuals Forum (PBIF), Mian Zahid Hussain, has said that Pakistan must shift from viewing fisheries and aquaculture merely as traditional fishing and instead develop it as a modern, export-oriented, and value-added blue economy. To achieve this, effective coor…",
-   "image": "https://i.brecorder.com/large/2026/09/250704207aadb8a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Experts call for stronger data governance in banking sector",
-   "url": "https://www.brecorder.com/news/40441170/experts-call-for-stronger-data-governance-in-banking-sector",
-   "source": "Business Recorder",
-   "published": "2026-09-25T02:02:12+00:00",
-   "summary": "KARACHI: Experts have called for stronger data governance in Pakistan’s banking sector amid the rapid expansion of the country’s digital payments ecosystem and its growing economic linkages with South Asia and the Gulf. Inflows of workers’ remittances hit USD 41.6 billion in FY26, while the State Bank of Pakistan (SBP)…",
-   "image": "https://i.brecorder.com/large/2026/09/25070026a0129c6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Equities retreat after three-session rally",
    "url": "https://www.dawn.com/news/2032462/equities-retreat-after-three-session-rally",
    "source": "Dawn",
@@ -102,19 +63,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Values increased on import of empty glass bottles",
-   "url": "https://www.brecorder.com/news/40441140/values-increased-on-import-of-empty-glass-bottles",
-   "source": "Business Recorder",
-   "published": "2026-09-25T00:45:17+00:00",
-   "summary": "ISLAMABAD: Directorate General of Customs Valuation, Karachi has increased Customs values on the import of empty glass bottles (for Perfumes and Cosmetics) and other categories of such bottles from all origins. However, the empty glass bottles of pharmaceutical grade have been excluded from this raise in Customs values…",
-   "image": "https://i.brecorder.com/large/2026/09/250522547018c77.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -276,12 +224,142 @@
    "domestic": true
   },
   {
-   "title": "PSX: Stock surge over 400 points as markets eye Iran, US truce",
-   "url": "https://www.brecorder.com/news/40441186/psx-stock-surge-over-400-points-as-markets-eye-iran-us-truce",
+   "title": "Indian rupee soothed by intervention, surge in forward premiums tipped to cool",
+   "url": "https://www.brecorder.com/news/40441217/indian-rupee-soothed-by-intervention-surge-in-forward-premiums-tipped-to-cool",
    "source": "Business Recorder",
-   "published": "2026-09-25T05:10:24+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX) as markets weighed the possibility of a truce between the US and Iran, with the benchmark KSE-100 Index gaining over 400 points during the opening minutes of trading on Friday. At 9:53am, the benchmark index hovered at 170,937.36, up 438.42 points or 0.2…",
+   "published": "2026-09-25T10:22:06+00:00",
+   "summary": "MUMBAI: The Indian rupee closed modestly stronger on Friday, aided by an easing in oil prices and the dollar after a searing rally in both kept up the pressure on the local currency through the week, eliciting central bank interventions to avert sharp falls. The Indian rupee closed at 95.8125 per dollar, up slightly fr…",
+   "image": "https://i.brecorder.com/large/2026/09/251521498f5c06f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Can AI bring Pakistan’s small retail investors into the capital markets?",
+   "url": "https://www.brecorder.com/news/40441031/can-ai-bring-pakistans-small-retail-investors-into-the-capital-markets",
+   "source": "Business Recorder",
+   "published": "2026-09-25T09:47:01+00:00",
+   "summary": "Pakistan’s capital markets have a persistent, well-documented problem: almost nobody is in them. Retail penetration sits below 1% of GDP, a figure every fintech founder in the space can recite from memory, and one that hasn’t moved much despite more than a decade of digital wealth apps promising to fix it. The newest v…",
+   "image": "https://i.brecorder.com/large/2026/09/2514390140e84a2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stock surge as markets eye Iran, US truce",
+   "url": "https://www.brecorder.com/news/40441186/psx-stock-surge-as-markets-eye-iran-us-truce",
+   "source": "Business Recorder",
+   "published": "2026-09-25T07:25:36+00:00",
+   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX) during the first half of trading on Friday, as markets weighed the possibility of a truce between the US and Iran. At 12pm, the benchmark index hovered at 170,632.86, up 133.92 points or 0.08%. Key sectors saw buying, including automobile assemblers, cem…",
    "image": "https://i.brecorder.com/large/2026/09/25101013d1b8ed6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sazgar to introduce BAIC’s ARCFOX EVs in Pakistan",
+   "url": "https://www.brecorder.com/news/40441210/sazgar-to-introduce-baics-arcfox-evs-in-pakistan",
+   "source": "Business Recorder",
+   "published": "2026-09-25T07:21:20+00:00",
+   "summary": "Sazgar Engineering Works Limited plans to introduce China’s BAIC Group’s premium electric vehicle brand ARCFOX in Pakistan, as the automaker expands its EV portfolio. The listed company disclosed the development in its filing to the Pakistan Stock Exchange (PSX) on Friday. “We are pleased to inform you that Sazgar Engi…",
+   "image": "https://i.brecorder.com/large/2026/09/251219262ac24bc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand softens as markets absorb central bank rate hike",
+   "url": "https://www.brecorder.com/news/40441208/south-african-rand-softens-as-markets-absorb-central-bank-rate-hike",
+   "source": "Business Recorder",
+   "published": "2026-09-25T06:36:22+00:00",
+   "summary": "JOHANNESBURG: The South African rand softened in early trade on Friday as markets digested the central ​bank’s interest rate hike, while growing expectations that ‌the Federal Reserve will keep interest rates elevated weighed on the risk-sensitive currency. At 0610 GMT, the rand traded at ​16.40 against the dollar , ab…",
+   "image": "https://i.brecorder.com/large/2026/09/25113432f36695a.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares head for fourth weekly loss on oil-driven inflation fears",
+   "url": "https://www.brecorder.com/news/40441204/australian-shares-head-for-fourth-weekly-loss-on-oil-driven-inflation-fears",
+   "source": "Business Recorder",
+   "published": "2026-09-25T06:16:54+00:00",
+   "summary": "Australian shares fell for a second straight session on Friday and were on track for a fourth weekly loss in a row, as rising oil prices reignited inflation concerns and added to worries about the outlook for interest rates. The S&P/ASX 200 index slipped 0.5% to 8,661.20 by 0010 GMT, set to shed 0.8% this week as Middl…",
+   "image": "https://i.brecorder.com/large/2026/09/2511164607afb57.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Suzuki aims to halve vehicle development time by 2030",
+   "url": "https://www.brecorder.com/news/40441203/suzuki-aims-to-halve-vehicle-development-time-by-2030",
+   "source": "Business Recorder",
+   "published": "2026-09-25T06:14:32+00:00",
+   "summary": "TOKYO: Japanese automaker Suzuki Motor said on Friday it aims to halve development time for new vehicles by around 2030 from fiscal 2020 levels, while improving development and production efficiency. Suzuki targets a 30% increase in development efficiency and a 50% gain in production efficiency towards 2030, it said in…",
+   "image": "https://i.brecorder.com/large/2026/09/25111414bfc2041.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Wheat heads for 4th straight weekly loss on Black Sea export hopes",
+   "url": "https://www.brecorder.com/news/40441196/wheat-heads-for-4th-straight-weekly-loss-on-black-sea-export-hopes",
+   "source": "Business Recorder",
+   "published": "2026-09-25T05:41:33+00:00",
+   "summary": "CANBERRA: Chicago wheat futures fell on Friday and were on track for their fourth straight weekly decline as traders hoped for a revival of exports from the Black Sea and as the US dollar strengthened, making US crops less competitive globally. Corn and soybean futures also moved lower, with corn headed for a weekly fa…",
+   "image": "https://i.brecorder.com/large/2026/09/25104109caeaa31.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai August exports rise 24.3% on year, close to forecast",
+   "url": "https://www.brecorder.com/news/40441194/thai-august-exports-rise-243-on-year-close-to-forecast",
+   "source": "Business Recorder",
+   "published": "2026-09-25T05:36:39+00:00",
+   "summary": "BANGKOK: Thailand’s customs-cleared exports rose 24.3% in August from a year earlier, the commerce ministry said on Friday, just below analysts’ expectations. The August reading compared with a forecast rise of 24.9% in a Reuters poll, and followed an increase of 21.6% the previous month. Imports rose 25.1% in August f…",
+   "image": "https://i.brecorder.com/large/2026/09/25103617021decb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper nudges up, set for weekly gain on China tightness",
+   "url": "https://www.brecorder.com/news/40441192/copper-nudges-up-set-for-weekly-gain-on-china-tightness",
+   "source": "Business Recorder",
+   "published": "2026-09-25T05:32:18+00:00",
+   "summary": "SINGAPORE: Copper prices nudged up on Friday and were set to end the week higher, capping a volatile week in which tightness in big consumer China pushed up prices before a stronger dollar and inflation concerns pared back some of those gains. Benchmark three-month copper on the London Metal Exchange was up 0.08% at $1…",
+   "image": "https://i.brecorder.com/large/2026/09/25103205aa9dd2b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "EU urges Britain to raise tariffs on Chinese cars, FT says",
+   "url": "https://www.brecorder.com/news/40441189/eu-urges-britain-to-raise-tariffs-on-chinese-cars-ft-says",
+   "source": "Business Recorder",
+   "published": "2026-09-25T05:22:13+00:00",
+   "summary": "Brussels has told British Prime Minister Andy Burnham that Britain needs to raise tariffs on Chinese cars and align more closely align with EU trade policy to avoid “made in Europe” barriers on key exports, the Financial Times said on Friday. In response to lobbying for equal treatment for British products, the bloc to…",
+   "image": "https://i.brecorder.com/large/2026/09/251020338f0ff04.gif",
    "topics": [
     "Economy"
    ],
@@ -354,6 +432,19 @@
    "domestic": false
   },
   {
+   "title": "PM Shehbaz invites US businesses to invest in country's agriculture, mining, IT, AI",
+   "url": "https://tribune.com.pk/story/2631340/pm-shehbaz-invites-us-businesses-to-invest-in-countrys-agriculture-mining-it-ai",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T02:39:16+00:00",
+   "summary": "Premier says Pakistan had undertaken massive structural reforms including digitisation, FBR reforms, e-governance",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Austerity steps to save only Rs17b",
    "url": "https://tribune.com.pk/story/2631257/austerity-steps-to-save-only-rs17b",
    "source": "The Express Tribune",
@@ -364,19 +455,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SBP's FX rises by $11m to $21.4b",
-   "url": "https://tribune.com.pk/story/2631258/sbps-fx-rises-by-11m-to-214b",
-   "source": "The Express Tribune",
-   "published": "2026-09-24T17:19:50+00:00",
-   "summary": "Total reserves stand at $26.8b; gold price falls Rs5,600 per tola",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -473,97 +551,6 @@
    "domestic": false
   },
   {
-   "title": "Japan's 10-year bond yield hits 30-year high after US Treasury selloff",
-   "url": "https://www.brecorder.com/news/40441014/japans-10-year-bond-yield-hits-30-year-high-after-us-treasury-selloff",
-   "source": "Business Recorder",
-   "published": "2026-09-24T07:05:45+00:00",
-   "summary": "TOKYO: Japan’s 10-year government bond (JGB) yield jumped to a 30-year high early on Thursday after US Treasury yields surged overnight, while a weaker yen added to concerns about inflationary pressures. Here are a few details: The benchmark 10-year JGB yield rose 8 basis points (bps) to 3.055%, its highest since Augus…",
-   "image": "https://i.brecorder.com/large/2026/09/241205160186f3f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper drifts as interest rate fears weigh on demand expectations",
-   "url": "https://www.brecorder.com/news/40441013/copper-drifts-as-interest-rate-fears-weigh-on-demand-expectations",
-   "source": "Business Recorder",
-   "published": "2026-09-24T06:59:36+00:00",
-   "summary": "SINGAPORE: Copper floated lower on Thursday after the release of hotter-than-expected US economic data the previous day raised fears of higher-for-longer interest rates that could compress demand for the red metal. Benchmark three-month copper on the London Metal Exchange was down 0.22% at $14,586.5 a metric ton by 031…",
-   "image": "https://i.brecorder.com/large/2026/09/2411592523d949a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Qantas workers begin 24-hour strike at four Australian airports, union says",
-   "url": "https://www.brecorder.com/news/40441009/qantas-workers-begin-24-hour-strike-at-four-australian-airports-union-says",
-   "source": "Business Recorder",
-   "published": "2026-09-24T06:37:17+00:00",
-   "summary": "Qantas airport workers launched a 24-hour strike on Thursday at the Sydney, Brisbane, Adelaide and Perth airports demanding higher pay, more secure jobs and improved safety standards, the Australia’s Transport Worker’s Union (TWU) said. The union said the industrial action involved workers from Qantas Ground Services (…",
-   "image": "https://i.brecorder.com/large/2026/09/24113659b7a29a7.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "BOJ could raise rates every quarter, ex-policymaker says",
-   "url": "https://www.brecorder.com/news/40441006/boj-could-raise-rates-every-quarter-ex-policymaker-says",
-   "source": "Business Recorder",
-   "published": "2026-09-24T06:16:45+00:00",
-   "summary": "TOKYO: The Bank of Japan is expected to raise interest rates roughly once every three months and push them up to 2% by around June next year to combat mounting inflationary pressures, former bank board member Makoto Sakurai said on Thursday. In raising interest rates to a 31-year high of 1.25% in September, the central…",
-   "image": "https://i.brecorder.com/large/2026/09/24111459cc335a3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm recovers slightly on firmer Dalian, India duty cut",
-   "url": "https://www.brecorder.com/news/40441002/palm-recovers-slightly-on-firmer-dalian-india-duty-cut",
-   "source": "Business Recorder",
-   "published": "2026-09-24T06:01:59+00:00",
-   "summary": "KUALA LUMPUR: Malaysian palm oil futures opened slightly higher on Thursday after four straight sessions of losses, supported by stronger rival Dalian oils and by India’s decision to cut import duty. The gains were limited, however, by weaker Chicago soyoil and lower crude oil prices, which reduced support for palm oil…",
-   "image": "https://i.brecorder.com/large/2026/09/2411011588d2248.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan slips as investors await Trump-Xi talk details",
-   "url": "https://www.brecorder.com/news/40441000/chinas-yuan-slips-as-investors-await-trump-xi-talk-details",
-   "source": "Business Recorder",
-   "published": "2026-09-24T05:54:50+00:00",
-   "summary": "HONG KONG: China’s yuan dipped against the dollar on Thursday , as rising near-term Federal Reserve rate hike expectations drove the greenback higher, while cautious investors awaited the outcome of the Trump-Xi summit in Washington. The US dollar rallied to its highest level in nearly two months overnight as investors…",
-   "image": "https://i.brecorder.com/large/2026/09/2410543309facab.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares hit over 3-month low as oil rally revives inflation worries",
-   "url": "https://www.brecorder.com/news/40440997/australian-shares-hit-over-3-month-low-as-oil-rally-revives-inflation-worries",
-   "source": "Business Recorder",
-   "published": "2026-09-24T05:48:10+00:00",
-   "summary": "Australian shares hit a more than three-month low on Thursday , with most sectors trading in negative territory, as a sharp rise in oil prices revived concerns that inflation could stay persistent and keep monetary policy tight. The S&P/ASX 200 index was down 1.2% at 8,658.10, as of 0010 GMT. The index fell as much as …",
-   "image": "https://i.brecorder.com/large/2026/09/241048011317a9c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Gold falls on hawkish Fed signals",
    "url": "https://tribune.com.pk/story/2631064/gold-falls-on-hawkish-fed-signals",
    "source": "The Express Tribune",
@@ -613,6 +600,32 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Petrol subsidy scheme: Over 5mln people registered across Pakistan",
+   "url": "https://arynews.tv/petrol-subsidy-over-5mln-people-registered-across-pakistan",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Petrol subsidy scheme: Over 5mln people registered across Pakistan",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Margin-1.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Major relief: OGRA cuts LNG prices by 21%",
+   "url": "https://arynews.tv/major-relief-ogra-cuts-lng-prices-by-21",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Major relief: OGRA cuts LNG prices by 21%",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG-1.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
