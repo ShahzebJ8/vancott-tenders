@@ -1,22 +1,116 @@
 {
- "generated": "2026-09-25T00:18:14+00:00",
- "count": 43,
- "relevant_count": 17,
- "domestic_count": 17,
+ "generated": "2026-09-25T05:15:01+00:00",
+ "count": 48,
+ "relevant_count": 18,
+ "domestic_count": 20,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (7)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (3)"
  },
  "stories": [
   {
-   "title": "SBP-held foreign reserves rise by $11m to $21.4bn",
-   "url": "https://www.brecorder.com/news/40441063/sbp-held-foreign-reserves-rise-by-11m-to-214bn",
+   "title": "Govt working on 174 IMF-sought tweaks, NA panel told",
+   "url": "https://www.dawn.com/news/2032485/govt-working-on-174-imf-sought-tweaks-na-panel-told",
+   "source": "Dawn",
+   "published": "2026-09-25T02:42:39+00:00",
+   "summary": "• Proposed changes to be placed before parliament for approval • IMF mission to begin its review on 28th; Kristalina praises Pakistan’s performance in meeting with PM Shehbaz • Sovereign Wealth Fund, remittances, sugar policy among areas under discussion ISLAMABAD: The government on Thursday said the International Mone…",
+   "image": "https://i.dawn.com/large/2026/09/25073905a66fa81.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Stakeholders deliberate on a phased transition to clean electricity by 2040",
+   "url": "https://www.brecorder.com/news/40441177/stakeholders-deliberate-on-a-phased-transition-to-clean-electricity-by-2040",
    "source": "Business Recorder",
-   "published": "2026-09-24T14:28:47+00:00",
-   "summary": "State Bank of Pakistan (SBP)-held foreign exchange reserves increased by $11 million during the week ended September 18, 2026, reaching $21.4 billion, according to data released by the central bank on Thursday. The country’s total liquid foreign reserves stood at $26.81 billion as of September 18, compared with $21.4 b…",
-   "image": "https://i.brecorder.com/large/2026/09/241928306f4254e.webp",
+   "published": "2026-09-25T02:25:13+00:00",
+   "summary": "LAHORE: Pakistan’s leading power-sector stakeholders gathered at the Lahore University of Management Sciences on Thursday to discuss converting the country’s thermal power plants into grid-support assets as part of a phased transition to clean electricity by 2040, with officials calling for a technology-neutral framewo…",
+   "image": "https://i.brecorder.com/large/2026/09/250723471b05e2b.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "High dollar returns on Faisalabad-Peshawar oil pipeline raise eyebrows",
+   "url": "https://www.dawn.com/news/2032468/high-dollar-returns-on-faisalabad-peshawar-oil-pipeline-raise-eyebrows",
+   "source": "Dawn",
+   "published": "2026-09-25T02:16:22+00:00",
+   "summary": "ISLAMABAD: Various stakeholders on Thursday raised serious objections to unusually lucrative dollar-based guaranteed returns proposed for a $432 million oil pipeline from Faisalabad to Peshawar and demanded substantial rationalisation of the incentives to avoid the creation of a new “super IPP”. The Oil and Gas Regulat…",
+   "image": "https://i.dawn.com/large/2026/09/25071343e121448.gif",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "LHC curtails federal tax ombudsman, president’s jurisdiction in tax matters",
+   "url": "https://www.dawn.com/news/2032469/lhc-curtails-federal-tax-ombudsman-presidents-jurisdiction-in-tax-matters",
+   "source": "Dawn",
+   "published": "2026-09-25T02:10:33+00:00",
+   "summary": "LAHORE: The Lahore High Court has set aside orders of the Federal Tax Ombudsman (FTO) and the president, ruling that they had no jurisdiction to entertain a complaint about delayed adjudication of seized goods, since the matter fell squarely within the domain of the statutory tax authorities and appellate forums. An LH…",
+   "image": "https://i.dawn.com/large/2026/09/25070652f262651.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt urged to develop fisheries sector on modern lines",
+   "url": "https://www.brecorder.com/news/40441172/govt-urged-to-develop-fisheries-sector-on-modern-lines",
+   "source": "Business Recorder",
+   "published": "2026-09-25T02:04:31+00:00",
+   "summary": "KARACHI: The President of the Pakistan Businessmen and Intellectuals Forum (PBIF), Mian Zahid Hussain, has said that Pakistan must shift from viewing fisheries and aquaculture merely as traditional fishing and instead develop it as a modern, export-oriented, and value-added blue economy. To achieve this, effective coor…",
+   "image": "https://i.brecorder.com/large/2026/09/250704207aadb8a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Experts call for stronger data governance in banking sector",
+   "url": "https://www.brecorder.com/news/40441170/experts-call-for-stronger-data-governance-in-banking-sector",
+   "source": "Business Recorder",
+   "published": "2026-09-25T02:02:12+00:00",
+   "summary": "KARACHI: Experts have called for stronger data governance in Pakistan’s banking sector amid the rapid expansion of the country’s digital payments ecosystem and its growing economic linkages with South Asia and the Gulf. Inflows of workers’ remittances hit USD 41.6 billion in FY26, while the State Bank of Pakistan (SBP)…",
+   "image": "https://i.brecorder.com/large/2026/09/25070026a0129c6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Equities retreat after three-session rally",
+   "url": "https://www.dawn.com/news/2032462/equities-retreat-after-three-session-rally",
+   "source": "Dawn",
+   "published": "2026-09-25T02:01:50+00:00",
+   "summary": "KARACHI: After a three-session recovery rally, the Pakistan Stock Exchange (PSX) fell on Thursday as some investors took profits, while a rebound in oil prices renewed fears of a spike in inflationary pressures. The economic outlook grew more uncertain amid talks with the visiting IMF mission, and PTI’s march call on t…",
+   "image": "https://i.dawn.com/large/2026/09/25075640e0921cc.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Values increased on import of empty glass bottles",
+   "url": "https://www.brecorder.com/news/40441140/values-increased-on-import-of-empty-glass-bottles",
+   "source": "Business Recorder",
+   "published": "2026-09-25T00:45:17+00:00",
+   "summary": "ISLAMABAD: Directorate General of Customs Valuation, Karachi has increased Customs values on the import of empty glass bottles (for Perfumes and Cosmetics) and other categories of such bottles from all origins. However, the empty glass bottles of pharmaceutical grade have been excluded from this raise in Customs values…",
+   "image": "https://i.brecorder.com/large/2026/09/250522547018c77.webp",
    "topics": [
     "Economy"
    ],
@@ -34,20 +128,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Business leaders call for reforms to revive Karachi’s economy",
-   "url": "https://www.brecorder.com/news/40441048/business-leaders-call-for-reforms-to-revive-karachis-economy",
-   "source": "Business Recorder",
-   "published": "2026-09-24T11:31:34+00:00",
-   "summary": "Business and opinion leaders have called for reviving Karachi’s economy by strengthening the local government system, revamping road infrastructure, lowering energy costs, easing tax burden, resolving civic issues, cracking down on street criminals and introducing mandatory reforms aimed at boosting the economy. Leadin…",
-   "image": "https://i.brecorder.com/large/2026/09/2416274254f86bc.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -183,45 +263,6 @@
    "domestic": true
   },
   {
-   "title": "PSX manages modest gains in cautious trade",
-   "url": "https://www.dawn.com/news/2031707/psx-manages-modest-gains-in-cautious-trade",
-   "source": "Dawn",
-   "published": "2026-09-22T02:48:35+00:00",
-   "summary": "KARACHI: Extending last week’s mild recovery rally, driven by easing oil prices, the Pakistan Stock Exchange (PSX) on Monday continued to attract buying interest in selective sectors, helping the benchmark KSE-100 index close in the green, though profit-taking towards the end of the session trimmed early gains. Topline…",
-   "image": "https://i.dawn.com/large/2026/09/2207511001e04c1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SDPI unveils battery storage roadmap",
-   "url": "https://www.dawn.com/news/2031710/sdpi-unveils-battery-storage-roadmap",
-   "source": "Dawn",
-   "published": "2026-09-22T02:41:43+00:00",
-   "summary": "ISLAMABAD: Pakistan could soon address its escalating power grid challenges by deploying battery storage technology in a structured way, an SDPI study says. The Sustainable Development Policy Institute (SDPI), in collaboration with the Network for Clean Energy Transition (NCET), launched the study on Monday. It present…",
-   "image": "https://i.dawn.com/large/2026/09/22074203993d9ed.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Privatisation Commission gets ‘overwhelming response’ from investors for Iesco privatisation",
-   "url": "https://www.dawn.com/news/2031613/privatisation-commission-gets-overwhelming-response-from-investors-for-iesco-privatisation",
-   "source": "Dawn",
-   "published": "2026-09-21T14:11:15+00:00",
-   "summary": "ISLAMABAD: The Privatisation Commission on Monday said it received an “overwhelming response” from domestic and international investors for the privatisation of Islamabad Electric Supply Company (Iesco). Iesco is among the three electricity distribution companies in Discos Batch-I, alongside Faisalabad Electric Supply …",
-   "image": "https://i.dawn.com/large/2026/09/211917149677edb.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Punjab: Citizens can now verify tax receipts through this app",
    "url": "https://arynews.tv/punjab-citizens-can-now-verify-tax-receipts-through-this-app",
    "source": "ARY News",
@@ -235,12 +276,12 @@
    "domestic": true
   },
   {
-   "title": "Copper falls on stronger dollar, Chile supply worries cap downside",
-   "url": "https://www.brecorder.com/news/40441066/copper-falls-on-stronger-dollar-chile-supply-worries-cap-downside",
+   "title": "PSX: Stock surge over 400 points as markets eye Iran, US truce",
+   "url": "https://www.brecorder.com/news/40441186/psx-stock-surge-over-400-points-as-markets-eye-iran-us-truce",
    "source": "Business Recorder",
-   "published": "2026-09-24T15:15:41+00:00",
-   "summary": "LONDON: Copper prices edged down on Thursday as a firmer dollar and risk reduction ahead of a long Chinese holiday weekend weighed on sentiment, although worries over supply disruptions at major Chilean mines limited losses. Benchmark three-month copper on the London Metal Exchange dipped 0.2% to $14,595 a metric ton b…",
-   "image": "https://i.brecorder.com/large/2026/09/242015312ac662d.webp",
+   "published": "2026-09-25T05:10:24+00:00",
+   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX) as markets weighed the possibility of a truce between the US and Iran, with the benchmark KSE-100 Index gaining over 400 points during the opening minutes of trading on Friday. At 9:53am, the benchmark index hovered at 170,937.36, up 438.42 points or 0.2…",
+   "image": "https://i.brecorder.com/large/2026/09/25101013d1b8ed6.webp",
    "topics": [
     "Economy"
    ],
@@ -248,12 +289,77 @@
    "domestic": false
   },
   {
-   "title": "IMF review calls for 'fewer but deeper' reforms in design of loan programs",
-   "url": "https://www.brecorder.com/news/40441060/imf-review-calls-for-fewer-but-deeper-reforms-in-design-of-loan-programs",
+   "title": "Indian rupee to navigate US-Iran truce possibility, surging global bond yields",
+   "url": "https://www.brecorder.com/news/40441182/indian-rupee-to-navigate-us-iran-truce-possibility-surging-global-bond-yields",
    "source": "Business Recorder",
-   "published": "2026-09-24T14:06:57+00:00",
-   "summary": "WASHINGTON: The International Monetary Fund on Thursday called for targeted refinements to the design and implementation of its loan programs, including a focus on fewer but deeper reforms, to reflect the challenges of a more shock-prone global economy. Civil society groups have worried that the review could leave deve…",
-   "image": "https://i.brecorder.com/large/2026/09/241905536157cbf.webp",
+   "published": "2026-09-25T03:08:33+00:00",
+   "summary": "MUMBAI: The Indian rupee is expected to remain on the defensive on Friday as markets weigh the possibility of a truce between the US and ​Iran and gauge the impact of soaring global bond yields that ‌have intensified headwinds facing risk assets. The Indian rupee is expected around the 96 per dollar mark, traders said,…",
+   "image": "https://i.brecorder.com/large/2026/09/250806224f99e53.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian stocks weather bond storm, oil retreats slightly",
+   "url": "https://www.brecorder.com/news/40441181/asian-stocks-weather-bond-storm-oil-retreats-slightly",
+   "source": "Business Recorder",
+   "published": "2026-09-25T03:05:29+00:00",
+   "summary": "SYDNEY: Asian shares held their nerve on Friday as a relentless bond selloff pushed longer dated US yields ​to two-decade highs, raising borrowing costs worldwide and threatening lofty equity valuations. The return of oil above $100 a barrel , with Brent crude ‌near $105, has revived inflation fears, bolstering bets on…",
+   "image": "https://i.brecorder.com/large/2026/09/25080356ab5ce7b.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar set for weekly gains as yields surge, Fed bets build",
+   "url": "https://www.brecorder.com/news/40441180/dollar-set-for-weekly-gains-as-yields-surge-fed-bets-build",
+   "source": "Business Recorder",
+   "published": "2026-09-25T02:59:54+00:00",
+   "summary": "HONG KONG: The dollar was set for its first back-to-back weekly ​gains in more than three months on Friday , as surging Treasury yields and mounting bets on further Federal ‌Reserve rate hikes kept the greenback near multi-month peaks. Dollar strength pushed the euro to a two-month low of $1.1370 and put it on track fo…",
+   "image": "https://i.brecorder.com/large/2026/09/2507545891acd86.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Chashma Nuclear Power Plant Unit-1 operates safely for 427 days, setting new record",
+   "url": "https://www.dawn.com/news/2032533/chashma-nuclear-power-plant-unit-1-operates-safely-for-427-days-setting-new-record",
+   "source": "Dawn",
+   "published": "2026-09-25T02:57:53+00:00",
+   "summary": "https://www.dawn.com/news/2032463",
+   "image": "https://i.dawn.com/large/2026/09/25075443e4985c4.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
+   "url": "https://www.brecorder.com/news/40441178/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs",
+   "source": "Business Recorder",
+   "published": "2026-09-25T02:47:55+00:00",
+   "summary": "Gold prices ticked up on ‌Friday but were set to post a weekly loss , pressured by a stronger dollar and growing expectations that the Federal Reserve will keep interest rates elevated to contain inflation. Spot gold ​rose 0.2% to $4,288.36 per ounce by 0200 GMT, but was down 2% ​so far this week. US gold futures edged…",
+   "image": "https://i.brecorder.com/large/2026/09/25074445b3cd7b3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Austerity steps to save only Rs17b",
+   "url": "https://tribune.com.pk/story/2631257/austerity-steps-to-save-only-rs17b",
+   "source": "The Express Tribune",
+   "published": "2026-09-24T17:19:50+00:00",
+   "summary": "Secretary tells NA panel IMF programme implementation 'pretty strong'",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -261,12 +367,52 @@
    "domestic": false
   },
   {
-   "title": "PSX: Selling returns, KSE-100 down over 1%",
-   "url": "https://www.brecorder.com/news/40440995/psx-selling-returns-kse-100-down-over-1",
+   "title": "SBP's FX rises by $11m to $21.4b",
+   "url": "https://tribune.com.pk/story/2631258/sbps-fx-rises-by-11m-to-214b",
+   "source": "The Express Tribune",
+   "published": "2026-09-24T17:19:50+00:00",
+   "summary": "Total reserves stand at $26.8b; gold price falls Rs5,600 per tola",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX reverses gains as geopolitics weigh",
+   "url": "https://tribune.com.pk/story/2631265/psx-reverses-gains-as-geopolitics-weigh",
+   "source": "The Express Tribune",
+   "published": "2026-09-24T17:19:50+00:00",
+   "summary": "KSE-100 down around 1,740 points on mounting ME, oil concerns",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "OICCI seeks capital, export push",
+   "url": "https://tribune.com.pk/story/2631259/oicci-seeks-capital-export-push",
+   "source": "The Express Tribune",
+   "published": "2026-09-24T17:19:50+00:00",
+   "summary": "Says FDI slumps 32%, urges investor-friendly reforms in meeting with IMF team",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Copper falls on stronger dollar, Chile supply worries cap downside",
+   "url": "https://www.brecorder.com/news/40441066/copper-falls-on-stronger-dollar-chile-supply-worries-cap-downside",
    "source": "Business Recorder",
-   "published": "2026-09-24T13:44:10+00:00",
-   "summary": "Selling returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index settling with a loss of over 1% on Thursday. After touching an intraday high of 172,491.16 in morning trade, the index reversed gains and witnessed sustained selling in the second half of the session. The benchmark hit an intraday l…",
-   "image": "https://i.brecorder.com/large/2026/09/241015431c05407.webp",
+   "published": "2026-09-24T15:15:41+00:00",
+   "summary": "LONDON: Copper prices edged down on Thursday as a firmer dollar and risk reduction ahead of a long Chinese holiday weekend weighed on sentiment, although worries over supply disruptions at major Chilean mines limited losses. Benchmark three-month copper on the London Metal Exchange dipped 0.2% to $14,595 a metric ton b…",
+   "image": "https://i.brecorder.com/large/2026/09/242015312ac662d.webp",
    "topics": [
     "Economy"
    ],
@@ -418,76 +564,11 @@
    "domestic": false
   },
   {
-   "title": "PSX falls 1,734 points on geopolitics tension",
-   "url": "https://tribune.com.pk/story/2631164/psx-slips-474-points-as-profit-taking-follows-rally",
-   "source": "The Express Tribune",
-   "published": "2026-09-24T03:50:32+00:00",
-   "summary": "KSE-100 drops to 170,499 points as oil spike and caution outweigh refinery deals",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SoftBank issues $11.1 billion in bonds in OpenAI financing push",
-   "url": "https://www.brecorder.com/news/40440993/softbank-issues-111-billion-in-bonds-in-openai-financing-push",
-   "source": "Business Recorder",
-   "published": "2026-09-24T03:27:30+00:00",
-   "summary": "TOKYO: Tech investor SoftBank Group has issued $11.1 billion in dollar- and euro-denominated bonds, set to be the ​largest high-yield bond sale on record by an Asia-Pacific issuer ‌as it seeks to fund its mammoth bet on OpenAI. The funding comes on top of a 1 trillion yen ($6.3 billion) bond issue aimed at retail inves…",
-   "image": "https://i.brecorder.com/large/2026/09/24082557ed493cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee faces pressure from oil, US yields; RBI deputy flags case for gains",
-   "url": "https://www.brecorder.com/news/40440988/indian-rupee-faces-pressure-from-oil-us-yields-rbi-deputy-flags-case-for-gains",
-   "source": "Business Recorder",
-   "published": "2026-09-24T03:07:34+00:00",
-   "summary": "MUMBAI: The Indian rupee is set to encounter headwinds on Thursday from a renewed rise in oil prices and a broadly firmer dollar on ​account of growing US rate hike expectations, while central bank intervention is expected ‌to limit losses. The Indian rupee is expected to open around 95.85-95.87 per dollar, traders sai…",
-   "image": "https://i.brecorder.com/large/2026/09/240804444f99e53.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF talks begin with reform gaps",
-   "url": "https://tribune.com.pk/story/2631068/imf-talks-begin-with-reform-gaps",
-   "source": "The Express Tribune",
-   "published": "2026-09-23T16:56:09+00:00",
-   "summary": "Health, educational spending target missed by Rs370b; SOE reform pace slows",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Gold falls on hawkish Fed signals",
    "url": "https://tribune.com.pk/story/2631064/gold-falls-on-hawkish-fed-signals",
    "source": "The Express Tribune",
    "published": "2026-09-23T16:56:09+00:00",
    "summary": "Drops Rs1,800/tola as dollar hits two-month high; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX stays in the black on US-Iran talks",
-   "url": "https://tribune.com.pk/story/2631072/psx-stays-in-the-black-on-us-iran-talks",
-   "source": "The Express Tribune",
-   "published": "2026-09-23T16:56:09+00:00",
-   "summary": "KSE-100 gains 830 points, aided by easing crude prices and conflict resolution hopes",
    "image": null,
    "topics": [
     "Economy"
@@ -506,19 +587,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Reports of petroleum levy being 'central point' in IMF programme are 'misleading': finance ministry",
-   "url": "https://www.dawn.com/news/2031876/reports-of-petroleum-levy-being-central-point-in-imf-programme-are-misleading-finance-ministry",
-   "source": "Dawn",
-   "published": "2026-09-22T16:47:51+00:00",
-   "summary": "The finance ministry issued a rebuttal on Tuesday, saying that reports of the petrol development levy (PDL) being a “central point” of Pakistan’s ongoing programme with the International Monetary Fund (IMF) were “misleading”. The programme includes a $7 billion Extended Fund Facility (EFF) and a $1.1bn Resilience and S…",
-   "image": "https://i.dawn.com/large/2026/09/22212346e3d7342.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
