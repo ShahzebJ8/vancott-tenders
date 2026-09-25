@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-25T15:28:17+00:00",
- "count": 53,
- "relevant_count": 24,
+ "generated": "2026-09-25T19:28:20+00:00",
+ "count": 50,
+ "relevant_count": 23,
  "domestic_count": 15,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
@@ -343,19 +343,6 @@
    "domestic": false
   },
   {
-   "title": "Can AI bring Pakistan’s small retail investors into the capital markets?",
-   "url": "https://www.brecorder.com/news/40441031/can-ai-bring-pakistans-small-retail-investors-into-the-capital-markets",
-   "source": "Business Recorder",
-   "published": "2026-09-25T09:47:01+00:00",
-   "summary": "Pakistan’s capital markets have a persistent, well-documented problem: almost nobody is in them. Retail penetration sits below 1% of GDP, a figure every fintech founder in the space can recite from memory, and one that hasn’t moved much despite more than a decade of digital wealth apps promising to fix it. The newest v…",
-   "image": "https://i.brecorder.com/large/2026/09/2514390140e84a2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX gains 266 points in range-bound session",
    "url": "https://tribune.com.pk/story/2631379/psx-gains-266-points-in-range-bound-session",
    "source": "The Express Tribune",
@@ -679,32 +666,6 @@
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX market closes lower as KSE-100 index dips over 1,700 points",
-   "url": "https://arynews.tv/psx-market-closes-lower-as-kse-100-index-dips-over-1700-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX market closes lower as KSE-100 index dips over 1,700 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-3.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz meets IMF chief, highlights government’s reform efforts",
-   "url": "https://arynews.tv/pm-shehbaz-meets-imf-chief-highlights-governments-reform-efforts",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PM Shehbaz meets IMF chief, highlights government’s reform efforts",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/pakistan-imf.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
