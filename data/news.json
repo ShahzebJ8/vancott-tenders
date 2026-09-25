@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-25T19:28:20+00:00",
- "count": 50,
- "relevant_count": 23,
+ "generated": "2026-09-25T22:41:11+00:00",
+ "count": 49,
+ "relevant_count": 22,
  "domestic_count": 15,
  "sources": {
   "Dawn": "ok (15)",
@@ -301,19 +301,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSO reports over Rs15bn profit in FY2026",
-   "url": "https://www.brecorder.com/news/40441220/pso-reports-over-rs15bn-profit-in-fy2026",
-   "source": "Business Recorder",
-   "published": "2026-09-25T10:27:15+00:00",
-   "summary": "Pakistan State Oil (PSO), the nation’s energy flagship, recorded a profit after tax of Rs15.07 billion, resulting in earnings per share (EPS) of Rs32.1 for the fiscal year ended June 30, 2026. The company’s gross profit increased to Rs99.9 billion, compared with Rs96.7 billion in the previous fiscal year, read a statem…",
-   "image": "https://i.brecorder.com/large/2026/09/2515252995097fb.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
