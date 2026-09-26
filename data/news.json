@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-26T11:43:10+00:00",
- "count": 58,
- "relevant_count": 20,
- "domestic_count": 21,
+ "generated": "2026-09-26T15:42:02+00:00",
+ "count": 55,
+ "relevant_count": 19,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (18)",
@@ -71,59 +71,6 @@
    "image": "https://i.brecorder.com/large/2026/09/2606334420ffaae.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP launches remittance reward scheme",
-   "url": "https://www.brecorder.com/news/40441315/sbp-launches-remittance-reward-scheme",
-   "source": "Business Recorder",
-   "published": "2026-09-26T01:08:12+00:00",
-   "summary": "KARACHI: The banking industry, under the auspices of the Pakistan Banks Association (PBA), has launched the ‘Pasban Remittance Reward Scheme’, a market-based and sustainable initiative offering Rs16 billion in annual cash prizes to incentivise and reward remittance recipients. Governor State Bank of Pakistan Jameel Ahm…",
-   "image": "https://i.brecorder.com/large/2026/09/26060808714018d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SPI-based inflation rises slightly",
-   "url": "https://www.brecorder.com/news/40441314/spi-based-inflation-rises-slightly",
-   "source": "Business Recorder",
-   "published": "2026-09-26T00:57:37+00:00",
-   "summary": "ISLAMABAD: The Sensitive Price Index (SPI)-based inflation for the week ended on September 24 recorded an increase of 0.99 percent owing to an escalation in prices of electricity for Q1, which was hiked by 18.76 percent, eggs by 2.02 percent, and Liquefied Petroleum Gas (LPG) by 1.55 percent. The SPI data released here…",
-   "image": "https://i.brecorder.com/large/2026/09/2605552790c61e1.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR establishes NFC in Islamabad",
-   "url": "https://www.brecorder.com/news/40441313/fbr-establishes-nfc-in-islamabad",
-   "source": "Business Recorder",
-   "published": "2026-09-26T00:54:35+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) Friday announced establishment of the National Faceless Centre (NFC) in Islamabad to carry out faceless audit and faceless assessment electronically to make tax proceedings faster, fairer and more transparent for taxpayers. The decision was taken by the Board in Council in …",
-   "image": "https://i.brecorder.com/large/2026/09/26055428c6f13ec.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Improved external account shows economic resilience: SBP Governor",
-   "url": "https://www.brecorder.com/news/40441309/improved-external-account-shows-economic-resilience-sbp-governor",
-   "source": "Business Recorder",
-   "published": "2026-09-26T00:39:38+00:00",
-   "summary": "KARACHI: Jameel Ahmed Governor State Bank of Pakistan (SBP) has said that the improvement in Pakistan’s external account reflects not only better economic indicators but also greater stability and resilience, which can help the country move towards sustainable economic growth. Speaking at the launching ceremony of Pasb…",
-   "image": "https://i.brecorder.com/large/2026/09/26053746d74b0ad.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -373,6 +320,19 @@
    "source": "The Express Tribune",
    "published": "2026-09-25T17:16:26+00:00",
    "summary": "YoY inflation rises 11.92% amid US-Iran tensions; WoW index up 0.99%",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP launches remittance reward scheme",
+   "url": "https://tribune.com.pk/story/2631466/sbp-launches-remittance-reward-scheme",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "Market-based drive offers Rs16b annual prizes to remitters",
    "image": null,
    "topics": [
     "Economy"
