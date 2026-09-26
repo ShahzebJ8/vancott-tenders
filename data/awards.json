@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T06:25:13+00:00",
+ "generated": "2026-09-26T11:43:05+00:00",
  "count": 684,
  "with_value": 657,
  "with_winner": 259,
@@ -13020,6 +13020,44 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000003792",
+   "tender_no": "TS0000011409E",
+   "reference": "P68267",
+   "title": "Procurement of Consultancy Services for the hiring of Consultant/Consulting firms for drafting Regulations Research & Development",
+   "organisation": "Public Procurement Regulatory Authority (PPRA) Public Procurement Regulatory Authority Islamabad - Pakistan",
+   "bid_count": 9,
+   "lowest": [
+    "RIAA Barker Gillette Public Procurement Regulatory Authority (PPRA)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-26",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003792",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003791",
+   "tender_no": "TS0000009865E",
+   "reference": "7(1)/2026-27-Admin",
+   "title": "SUPPLY OF STATIONERY, FURNITURE, HARDWARE, SOFTWARE, TONERS AND MISCELLANEOUS STORE ITEMS Stationery National Assembly of Pakistan",
+   "organisation": "National Assembly of Pakistan National Assembly Secretariat Islamabad - Pakistan",
+   "bid_count": 12,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-26",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003791",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003789",
    "tender_no": "TS0000012678E",
    "reference": "Lahore",
@@ -13089,6 +13127,26 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003786",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003785",
+   "tender_no": "TS0000011472E",
+   "reference": "CUI/Atd/Batteries/04 (2026-2027)P72490",
+   "title": "Procurement of Batteries (12 Volt, 40 amp) for 10KVA Online UPS (Qty=16) Consumable Items",
+   "organisation": "COMSATS University Islamabad COMSATS University Islamabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "MAKKAYS Pvt Ltd COMSATS University Islamabad"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-25",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003785",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -52080,64 +52138,6 @@
    "city": "Abbottabad",
    "province": "Khyber Pakhtunkhwa",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001688",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001687",
-   "tender_no": "TS0000006816E",
-   "reference": "P35414",
-   "title": "Procurement of handline Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Shah Gee Enterprises"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001687",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001686",
-   "tender_no": "TS0000007131E",
-   "reference": "P41258",
-   "title": "Procurement of T&P and PPE Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 10,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001686",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001685",
-   "tender_no": "TS0000004982E",
-   "reference": "OPF-1383",
-   "title": "YEAR-ROUND OPERATION / MAINTENANCE OF HVAC SYSTEM INSTALLED AT OPF HEAD OFFICE BUILDING, ISLAMABAD Mechanical/Machinery",
-   "organisation": "Ministry of Overseas Pakistanis & Human Resource Development Overseas Pakistanis Foundation (OPF) Islamabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "B.E Engineers, ISB"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001685",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
