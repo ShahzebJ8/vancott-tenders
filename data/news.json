@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-26T19:01:01+00:00",
- "count": 54,
- "relevant_count": 19,
- "domestic_count": 17,
+ "generated": "2026-09-26T21:54:30+00:00",
+ "count": 58,
+ "relevant_count": 21,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (18)",
@@ -11,14 +11,66 @@
  },
  "stories": [
   {
-   "title": "President approves ordinance to protect Islamabad Safe City cameras",
-   "url": "https://www.brecorder.com/news/40441338/president-approves-ordinance-to-protect-islamabad-safe-city-cameras",
+   "title": "Paddy cultivated over 6.7m acres in Punjab",
+   "url": "https://www.brecorder.com/news/40441390/paddy-cultivated-over-67m-acres-in-punjab",
    "source": "Business Recorder",
-   "published": "2026-09-26T16:56:05+00:00",
-   "summary": "President Asif Ali Zardari, on the advice of Prime Minister Shehbaz Sharif, has approved the Islamabad Capital Territory Safe City Camera and Surveillance Infrastructure Protection and Damage Compensation Ordinance, according a statement from the President’s Office on Saturday. The ordinance seeks to protect Safe City …",
-   "image": "https://i.brecorder.com/large/2026/09/261156139aa45ba.webp",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "LAHORE: Paddy has been cultivated over 6.7 million acres in Punjab during the current season, prompting the provincial government to step up measures for timely harvesting, wheat sowing after paddy and improvement in rice exports, Secretary Agriculture Punjab Shakeel Ahmad Mian said on Saturday. He was speaking at a me…",
+   "image": "https://i.brecorder.com/large/2026/09/2700565968cd18d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM says pursuing measures to promote tourism",
+   "url": "https://www.brecorder.com/news/40441394/pm-says-pursuing-measures-to-promote-tourism",
+   "source": "Business Recorder",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "ISLAMABAD: Prime Minister Muhammad Shehbaz Sharif said the government was actively pursuing measures to promote tourism across the country, strengthen tourism infrastructure, and create greater opportunities for employment and socioeconomic advancement for local communities and young people associated with the sector. …",
+   "image": "https://i.brecorder.com/large/2026/09/270059161554586.webp",
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "JI sets up 25 camps across Karachi to step up its protest drive",
+   "url": "https://www.brecorder.com/news/40441400/ji-sets-up-25-camps-across-karachi-to-step-up-its-protest-drive",
+   "source": "Business Recorder",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "KARACHI: Jamaat-i-Islami (JI) Karachi on Saturday set up 25 protest camps across the city against the petroleum levy, agreements with Independent Power Producers (IPPs) and prolonged load shedding by K-Electric, launching a campaign to seek public support for its demands. A large number of citizens visited the camps, e…",
+   "image": "https://i.brecorder.com/large/2026/09/270103172379024.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Income tax returns: ABAD chief urges FBR to immediately extend filing deadline",
+   "url": "https://www.brecorder.com/news/40441401/income-tax-returns-abad-chief-urges-fbr-to-immediately-extend-filing-deadline",
+   "source": "Business Recorder",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "KARACHI: Muhammad Hassan Bakhshi Chairman ABAD has called on the Federal Board of Revenue (FBR) to immediately extend the deadline for filing income tax returns, citing the business community’s preoccupation with ongoing elections. Bakhshi said that trade bodies and the business community across the country are current…",
+   "image": "https://i.brecorder.com/large/2026/09/2701034345cc470.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SPL holds 61st AGM, reporting gross profit of Rs1,585m",
+   "url": "https://www.brecorder.com/news/40441409/spl-holds-61st-agm-reporting-gross-profit-of-rs1585m",
+   "source": "Business Recorder",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "KARACHI: The shareholders of Security Papers Limited (SPL) reviewed and approved the audited financial statements of the Company for the year ended June 30, 2026, reporting a gross profit of PKR 1,585 million, profit before tax of PKR 1,598 million and a net profit of PKR 907 million, resulting in earnings per share of…",
+   "image": "https://i.brecorder.com/large/2026/09/2700542894603d1.webp",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -56,19 +108,6 @@
    "published": "2026-09-26T02:24:06+00:00",
    "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) is seeking higher charges for grid sharing, dedicated transformers, feeders and grid stations, as well as temporary disconnections and reconnections for high-rise buildings and industrial consumers, as part of proposed changes to the Consumer Service M…",
    "image": "https://i.dawn.com/large/2026/09/260722417b0d949.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Governor calls for policy to boost local solar manufacturing",
-   "url": "https://www.brecorder.com/news/40441318/governor-calls-for-policy-to-boost-local-solar-manufacturing",
-   "source": "Business Recorder",
-   "published": "2026-09-26T01:34:07+00:00",
-   "summary": "LAHORE: Punjab Governor Sardar Saleem Haider Khan has called for a policy framework to promote domestic manufacturing of solar systems, saying Pakistan could create millions of jobs, generate clean and affordable energy and earn valuable foreign exchange by developing a local solar industry. “It is unfortunate that sol…",
-   "image": "https://i.brecorder.com/large/2026/09/2606334420ffaae.webp",
    "topics": [
     "Energy & power"
    ],
@@ -236,14 +275,26 @@
    "domestic": true
   },
   {
-   "title": "Pakistan September inflation seen easing but energy pressures persist",
-   "url": "https://www.brecorder.com/news/40441339/pakistan-september-inflation-seen-easing-but-energy-pressures-persist",
+   "title": "India lowers FY27 gross borrowing, to sell debt worth 7.86 tln",
+   "url": "https://www.brecorder.com/news/40441370/india-lowers-fy27-gross-borrowing-to-sell-debt-worth-786-tln",
    "source": "Business Recorder",
-   "published": "2026-09-26T07:07:22+00:00",
-   "summary": "Pakistan’s consumer price inflation is expected to ease to around 10% in September from 11.15% a month earlier , brokerage houses said, but rising fuel and electricity costs are expected to keep price pressures elevated and complicate the central bank’s policy outlook. September inflation is projected at between 9.9% a…",
-   "image": "https://i.brecorder.com/large/2026/09/261206139b60ce6.webp",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "MUMBAI: The Indian government plans to raise 7.86 trillion rupees (USD82 billion) through bond sales between October and March, slightly less than previously planned, as it seeks to contain rising yields and steady the market. The gross borrowing for the full financial year works out to be 16 trillion rupees (15.995 tr…",
+   "image": "https://i.brecorder.com/large/2026/09/270045479edcb62.webp",
    "topics": [
-    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "OECD raises Turkey inflation forecast, trims growth outlook",
+   "url": "https://www.brecorder.com/news/40441371/oecd-raises-turkey-inflation-forecast-trims-growth-outlook",
+   "source": "Business Recorder",
+   "published": "2026-09-26T21:24:56+00:00",
+   "summary": "GDANSK: The Organisation for Economic Co-operation and Development (OECD) on Wednesday sharply raised its 2026 and 2027 inflation forecasts for Turkey, while also cutting its economic growth projections for both years. In its latest economic outlook, the OECD raised its headline inflation forecast for Turkey to 31.5per…",
+   "image": "https://i.brecorder.com/large/2026/09/27004231be9a75d.webp",
+   "topics": [
     "Economy"
    ],
    "relevant": false,
