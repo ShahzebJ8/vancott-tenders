@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-25T22:41:11+00:00",
- "count": 49,
- "relevant_count": 22,
- "domestic_count": 15,
+ "generated": "2026-09-26T01:12:46+00:00",
+ "count": 57,
+ "relevant_count": 27,
+ "domestic_count": 25,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (18)",
@@ -10,6 +10,138 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "SPI-based inflation rises slightly",
+   "url": "https://www.brecorder.com/news/40441314/spi-based-inflation-rises-slightly",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:57:37+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Index (SPI)-based inflation for the week ended on September 24 recorded an increase of 0.99 percent owing to an escalation in prices of electricity for Q1, which was hiked by 18.76 percent, eggs by 2.02 percent, and Liquefied Petroleum Gas (LPG) by 1.55 percent. The SPI data released here…",
+   "image": "https://i.brecorder.com/large/2026/09/2605552790c61e1.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR establishes NFC in Islamabad",
+   "url": "https://www.brecorder.com/news/40441313/fbr-establishes-nfc-in-islamabad",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:54:35+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) Friday announced establishment of the National Faceless Centre (NFC) in Islamabad to carry out faceless audit and faceless assessment electronically to make tax proceedings faster, fairer and more transparent for taxpayers. The decision was taken by the Board in Council in …",
+   "image": "https://i.brecorder.com/large/2026/09/26055428c6f13ec.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Improved external account shows economic resilience: SBP Governor",
+   "url": "https://www.brecorder.com/news/40441309/improved-external-account-shows-economic-resilience-sbp-governor",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:39:38+00:00",
+   "summary": "KARACHI: Jameel Ahmed Governor State Bank of Pakistan (SBP) has said that the improvement in Pakistan’s external account reflects not only better economic indicators but also greater stability and resilience, which can help the country move towards sustainable economic growth. Speaking at the launching ceremony of Pasb…",
+   "image": "https://i.brecorder.com/large/2026/09/26053746d74b0ad.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PSO posts over Rs15bn profit in FY26",
+   "url": "https://www.brecorder.com/news/40441305/pso-posts-over-rs15bn-profit-in-fy26",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:31:07+00:00",
+   "summary": "KARACHI: Pakistan State Oil (PSO) recorded a profit after tax of Rs15.07 billion during the fiscal year ended June 30, 2026, with earnings per share (EPS) of Rs32.1, while gross profit increased to Rs99.9 billion from Rs96.7 billion in the previous fiscal year. According to the company’s financial results, PSO’s consol…",
+   "image": "https://i.brecorder.com/large/2026/09/26053047c6f3149.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Higher fuel prices: Refineries report Rs54.8bn profit in FY26",
+   "url": "https://www.brecorder.com/news/40441304/higher-fuel-prices-refineries-report-rs548bn-profit-in-fy26",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:29:38+00:00",
+   "summary": "KARACHI: Pakistan’s listed refinery sector has posted a combined profit of Rs54.8 billion in FY2025-26, compared with a loss of Rs10.5 billion in the previous fiscal year, as wider petrol and diesel refining margins and higher sales volumes drove a sharp recovery in earnings. The sector’s revenue increased 27 percent y…",
+   "image": "https://i.brecorder.com/large/2026/09/26052920682afb3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Fresh JI drive against PL aims to collect 2 million affidavits",
+   "url": "https://www.brecorder.com/news/40441259/fresh-ji-drive-against-pl-aims-to-collect-2-million-affidavits",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:19:56+00:00",
+   "summary": "KARACHI: Jamaat-e-Islami (JI) Karachi has announced a fresh public mobilization drive from Saturday to collect two million affidavits demanding abolition of the petroleum levy (PL), which it termed an “extortion tax”, and an end to payments to Independent Power Producers (IPPs). Addressing a press conference at Idara N…",
+   "image": "https://i.brecorder.com/large/2026/09/2601335937ed5ad.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Abdul Hadi elected president of SITE body",
+   "url": "https://www.brecorder.com/news/40441261/abdul-hadi-elected-president-of-site-body",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:19:56+00:00",
+   "summary": "KARACHI: Abdul Hadi has been elected unopposed as President of the SITE Association of Industry, as the new leadership unveiled an action plan to fast-track industrial grievances, including a digital complaint-tracking system and construction on the long-delayed Industry House project . Muhammad Farhan Ashrafi was elec…",
+   "image": "https://i.brecorder.com/large/2026/09/260135476c7baff.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "World Bank team reviews property tax collection system in Sindh",
+   "url": "https://www.brecorder.com/news/40441268/world-bank-team-reviews-property-tax-collection-system-in-sindh",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:19:56+00:00",
+   "summary": "KARACHI: Sindh Minister for Local Government Syed Nasir Hussain Shah chaired an important meeting with a World Bank delegation to review the collection of property tax on immovable properties in the province, improvements in the collection system, transparency and measures to strengthen the financial position of local …",
+   "image": "https://i.brecorder.com/large/2026/09/2601435694ddba9.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Work on main structure of Diamer-Basha Dam’s commences",
+   "url": "https://www.brecorder.com/news/40441276/work-on-main-structure-of-diamer-basha-dams-commences",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:19:56+00:00",
+   "summary": "LAHORE: A major milestone towards construction of Main Dam structure of Diamer Basha Dam Project has been achieved with the formal commencement of extraction and transportation of pozzolan material from Gini, Diamer. The extracted pozzolan will be processed for use in Roller Compacted Concrete (RCC) for the Main Dam, f…",
+   "image": "https://i.brecorder.com/large/2026/09/2601525195cca7f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "CM pays tribute to APNS, journalists",
+   "url": "https://www.brecorder.com/news/40441277/cm-pays-tribute-to-apns-journalists",
+   "source": "Business Recorder",
+   "published": "2026-09-26T00:19:56+00:00",
+   "summary": "LAHORE: Punjab Chief Minister Maryam Nawaz Sharif, in a special message on Readers’ Day highlighting the importance of newspaper reading, has congratulated journalists associated with the print media, office-bearers and members of the All Pakistan Newspapers Society (APNS), and representatives of all organisations asso…",
+   "image": "https://i.brecorder.com/large/2026/09/26015323c8d3b79.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "FBR sets up faceless tax audit, assessment centre in Islamabad",
    "url": "https://www.dawn.com/news/2032605/fbr-sets-up-faceless-tax-audit-assessment-centre-in-islamabad",
@@ -211,19 +343,6 @@
    "domestic": true
   },
   {
-   "title": "Asan Tax Scheme brings nearly 10,000 shopkeepers into tax net",
-   "url": "https://www.brecorder.com/news/40441237/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net",
-   "source": "Business Recorder",
-   "published": "2026-09-25T13:23:33+00:00",
-   "summary": "Nearly 10,000 shopkeepers have joined the tax net under the Asan Tax Scheme within a month of its launch, the government said on Friday. Minister of State for Finance and Railways Bilal Azhar Kayani chaired a review meeting on the scheme, where officials briefed participants on its implementation and trader representat…",
-   "image": "https://i.brecorder.com/large/2026/09/251822308e6aa35.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX: Stocks end week on positive note amid late buying",
    "url": "https://www.brecorder.com/news/40441186/psx-stocks-end-week-on-positive-note-amid-late-buying",
    "source": "Business Recorder",
@@ -258,33 +377,6 @@
    "image": "https://i.brecorder.com/large/2026/09/25172357237803d.webp",
    "topics": [
     "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Three Iraqi airports suspend Iranian flights starting Friday, sources and state media say",
-   "url": "https://www.brecorder.com/news/40441231/three-iraqi-airports-suspend-iranian-flights-starting-friday-sources-and-state-media-say",
-   "source": "Business Recorder",
-   "published": "2026-09-25T11:42:34+00:00",
-   "summary": "Iraq’s Erbil and Sulaimaniya airports suspended Iranian flights starting on Friday, two sources told Reuters, after other Iraqi airports took the same step earlier in the week. The move means that according to sources and state media, flights to and from Iran are suspended from all four Iraqi airports at which they wer…",
-   "image": "https://i.brecorder.com/large/2026/09/251642107123afb.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "EU, IMF understand need to help Ukraine finance budget gap, Zelenskiy says",
-   "url": "https://www.brecorder.com/news/40441225/eu-imf-understand-need-to-help-ukraine-finance-budget-gap-zelenskiy-says",
-   "source": "Business Recorder",
-   "published": "2026-09-25T10:52:35+00:00",
-   "summary": "KYIV: Ukrainian President Volodymyr Zelenskiy said on Friday that the European Union and the International Monetary Fund understood the importance of helping Kyiv finance its budget deficit and defence spending. Ukraine is seeking an additional $27 billion from partners this year for defence, saying the cost of the war…",
-   "image": "https://i.brecorder.com/large/2026/09/25155220ef59bee.webp",
-   "topics": [
-    "Budget & spending",
     "Economy"
    ],
    "relevant": true,
@@ -610,6 +702,19 @@
    "published": null,
    "summary": "FBR sets up National Faceless Centre: no more direct contact with tax officers",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-2026-09-25T190256.353.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Asan Tax Scheme brings nearly 10,000 shopkeepers into tax net",
+   "url": "https://arynews.tv/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Asan Tax Scheme brings nearly 10,000 shopkeepers into tax net",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-2026-09-25T185422.066.jpg",
    "topics": [
     "Budget & spending"
    ],
