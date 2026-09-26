@@ -1,15 +1,80 @@
 {
- "generated": "2026-09-26T01:12:46+00:00",
- "count": 57,
- "relevant_count": 27,
- "domestic_count": 25,
+ "generated": "2026-09-26T06:25:19+00:00",
+ "count": 60,
+ "relevant_count": 23,
+ "domestic_count": 24,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (17)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (9)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Pakis­tan Stock Exchange posts modest gains on select buying",
+   "url": "https://www.dawn.com/news/2032671/pakistan-stock-exchange-posts-modest-gains-on-select-buying",
+   "source": "Dawn",
+   "published": "2026-09-26T02:38:26+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) eked out gains on Friday as investors hunted for value despite persistent geopolitical tensions. Meanwhile, before the formal start of the fourth review of the $7bn Extended Fund Facility (EFF) and the third review of the $1.4bn Resilience Support Facility (RSF), beginning on…",
+   "image": "https://i.dawn.com/large/2026/09/2603482295e1b95.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Hybrid vehicle prices slashed",
+   "url": "https://www.dawn.com/news/2032673/hybrid-vehicle-prices-slashed",
+   "source": "Dawn",
+   "published": "2026-09-26T02:34:58+00:00",
+   "summary": "KARACHI: After a delay of nearly two weeks, assemblers have begun lowering prices for hybrid electric vehicles (HEVs) following the reduction in the general sales tax (GST) on vehicles up to 2,000cc, from 25 per cent to 18pc, effective Sept 13. Also on Friday, Mega Motor Company (MMC), BYD’s official partner in Pakista…",
+   "image": "https://i.dawn.com/large/2026/09/2607334306ffa28.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Nepra proposes higher grid-sharing charges",
+   "url": "https://www.dawn.com/news/2032676/nepra-proposes-higher-grid-sharing-charges",
+   "source": "Dawn",
+   "published": "2026-09-26T02:24:06+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) is seeking higher charges for grid sharing, dedicated transformers, feeders and grid stations, as well as temporary disconnections and reconnections for high-rise buildings and industrial consumers, as part of proposed changes to the Consumer Service M…",
+   "image": "https://i.dawn.com/large/2026/09/260722417b0d949.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Governor calls for policy to boost local solar manufacturing",
+   "url": "https://www.brecorder.com/news/40441318/governor-calls-for-policy-to-boost-local-solar-manufacturing",
+   "source": "Business Recorder",
+   "published": "2026-09-26T01:34:07+00:00",
+   "summary": "LAHORE: Punjab Governor Sardar Saleem Haider Khan has called for a policy framework to promote domestic manufacturing of solar systems, saying Pakistan could create millions of jobs, generate clean and affordable energy and earn valuable foreign exchange by developing a local solar industry. “It is unfortunate that sol…",
+   "image": "https://i.brecorder.com/large/2026/09/2606334420ffaae.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP launches remittance reward scheme",
+   "url": "https://www.brecorder.com/news/40441315/sbp-launches-remittance-reward-scheme",
+   "source": "Business Recorder",
+   "published": "2026-09-26T01:08:12+00:00",
+   "summary": "KARACHI: The banking industry, under the auspices of the Pakistan Banks Association (PBA), has launched the ‘Pasban Remittance Reward Scheme’, a market-based and sustainable initiative offering Rs16 billion in annual cash prizes to incentivise and reward remittance recipients. Governor State Bank of Pakistan Jameel Ahm…",
+   "image": "https://i.brecorder.com/large/2026/09/26060808714018d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "SPI-based inflation rises slightly",
    "url": "https://www.brecorder.com/news/40441314/spi-based-inflation-rises-slightly",
@@ -77,19 +142,6 @@
    "domestic": true
   },
   {
-   "title": "Fresh JI drive against PL aims to collect 2 million affidavits",
-   "url": "https://www.brecorder.com/news/40441259/fresh-ji-drive-against-pl-aims-to-collect-2-million-affidavits",
-   "source": "Business Recorder",
-   "published": "2026-09-26T00:19:56+00:00",
-   "summary": "KARACHI: Jamaat-e-Islami (JI) Karachi has announced a fresh public mobilization drive from Saturday to collect two million affidavits demanding abolition of the petroleum levy (PL), which it termed an “extortion tax”, and an end to payments to Independent Power Producers (IPPs). Addressing a press conference at Idara N…",
-   "image": "https://i.brecorder.com/large/2026/09/2601335937ed5ad.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Abdul Hadi elected president of SITE body",
    "url": "https://www.brecorder.com/news/40441261/abdul-hadi-elected-president-of-site-body",
    "source": "Business Recorder",
@@ -117,25 +169,12 @@
    "domestic": true
   },
   {
-   "title": "Work on main structure of Diamer-Basha Dam’s commences",
-   "url": "https://www.brecorder.com/news/40441276/work-on-main-structure-of-diamer-basha-dams-commences",
-   "source": "Business Recorder",
-   "published": "2026-09-26T00:19:56+00:00",
-   "summary": "LAHORE: A major milestone towards construction of Main Dam structure of Diamer Basha Dam Project has been achieved with the formal commencement of extraction and transportation of pozzolan material from Gini, Diamer. The extracted pozzolan will be processed for use in Roller Compacted Concrete (RCC) for the Main Dam, f…",
-   "image": "https://i.brecorder.com/large/2026/09/2601525195cca7f.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "CM pays tribute to APNS, journalists",
-   "url": "https://www.brecorder.com/news/40441277/cm-pays-tribute-to-apns-journalists",
-   "source": "Business Recorder",
-   "published": "2026-09-26T00:19:56+00:00",
-   "summary": "LAHORE: Punjab Chief Minister Maryam Nawaz Sharif, in a special message on Readers’ Day highlighting the importance of newspaper reading, has congratulated journalists associated with the print media, office-bearers and members of the All Pakistan Newspapers Society (APNS), and representatives of all organisations asso…",
-   "image": "https://i.brecorder.com/large/2026/09/26015323c8d3b79.webp",
+   "title": "Short-term inflation surges on costly food, energy",
+   "url": "https://www.dawn.com/news/2032674/short-term-inflation-surges-on-costly-food-energy",
+   "source": "Dawn",
+   "published": "2026-09-25T23:59:34+00:00",
+   "summary": "ISLAMABAD: Short-term inflation, measured by the Sensitive Price Index (SPI), surged by 11.92 per cent year-on-year for the week ending Sept 24, mainly due to higher food prices, according to official data released on Friday. On a week-on-week basis, the index rose by 0.99pc, according to the Pakistan Bureau of Statist…",
+   "image": "https://i.dawn.com/large/2026/09/26034753488d606.webp",
    "topics": [
     "Economy"
    ],
@@ -276,33 +315,6 @@
    "domestic": true
   },
   {
-   "title": "FBR vows simpler, digital-first tax system",
-   "url": "https://tribune.com.pk/story/2631069/fbr-vows-simpler-digital-first-tax-system",
-   "source": "The Express Tribune",
-   "published": "2026-09-23T16:56:09+00:00",
-   "summary": "Lahore Tax Bar flags IRIS glitches, jurisdiction issues",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PAEC Foundation signs contract for hydropower plant at outfall of Chashma-5",
-   "url": "https://www.dawn.com/news/2032058/paec-foundation-signs-contract-for-hydropower-plant-at-outfall-of-chashma-5",
-   "source": "Dawn",
-   "published": "2026-09-23T09:57:16+00:00",
-   "summary": "ISLAMABAD: Pakistan Atomic Energy Commission (PAEC) Foundation has signed a contract for the establishment of its fifth hydropower plant, Foundation Hydel Power Plant Unit-05 (FHPP-05), a five-megawatt project to be constructed at the outfall of the Chashma-5 Nuclear Power Plant . Once operational, the plant is expecte…",
-   "image": "https://i.dawn.com/large/2026/09/23145909c99cdb5.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Asian Development Bank keeps Pakistan's growth forecast at 3.7pc",
    "url": "https://www.dawn.com/news/2032035/asian-development-bank-keeps-pakistans-growth-forecast-at-37pc",
    "source": "Dawn",
@@ -317,30 +329,121 @@
    "domestic": true
   },
   {
-   "title": "Value hunters help PSX close in green",
-   "url": "https://www.dawn.com/news/2031964/value-hunters-help-psx-close-in-green",
+   "title": "Nearly 10,000 traders join Asan tax scheme in its first month: minister",
+   "url": "https://www.dawn.com/news/2032777/nearly-10000-traders-join-asan-tax-scheme-in-its-first-month-minister",
    "source": "Dawn",
-   "published": "2026-09-23T03:14:40+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) eked out gains for the second consecutive session on Tuesday, though investor sentiment remained volatile amid geopolitical and economic uncertainty, as surging diesel and petrol prices increased business costs and fuelled inflationary pressures. Topline Securities Ltd said th…",
-   "image": "https://i.dawn.com/large/2026/09/230812212869c0f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Policy committee approves Rs33bn budget for Universal Service Fund",
-   "url": "https://www.dawn.com/news/2031966/policy-committee-approves-rs33bn-budget-for-universal-service-fund",
-   "source": "Dawn",
-   "published": "2026-09-23T03:00:02+00:00",
-   "summary": "ISLAMABAD: The Policy Committee of the Universal Service Fund (USF), chaired by Information Technology Minister Shaza Fatima Khawaja, approved the fund’s Rs32.90 billion budget for 2026-27 on Tuesday. USF’s key target is to expand digital connectivity across unserved and underserved areas of the country. The Policy Com…",
-   "image": "https://i.dawn.com/large/2026/09/2308003715ad501.webp",
+   "published": "2026-09-26T02:15:32+00:00",
+   "summary": "https://www.dawn.com/news/2032675",
+   "image": "https://i.dawn.com/large/2026/09/26071208f9cfae3.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Oil prices slide 2pc",
+   "url": "https://www.brecorder.com/news/40441307/oil-prices-slide-2pc",
+   "source": "Business Recorder",
+   "published": "2026-09-26T01:28:40+00:00",
+   "summary": "NEW YORK: Oil prices fell about 2 percent on Friday on mounting hopes for a truce between the US and Iran and talk about a possible US ban on diesel exports, even as traders worried that increasing attacks against Saudi Arabia by Houthi could disrupt supply from the Middle Eastern producer. Brent futures fell USD2.28, …",
+   "image": "https://i.brecorder.com/large/2026/09/2606282006e14a8.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Rs16bn bank-funded remittance reward scheme unveiled",
+   "url": "https://www.dawn.com/news/2032695/rs16bn-bank-funded-remittance-reward-scheme-unveiled",
+   "source": "Dawn",
+   "published": "2026-09-25T23:59:12+00:00",
+   "summary": "• Rs4bn to be distributed among 2,521 winners in each quarterly draw • Each raffle to award Rs100m top prize; twenty Rs25m, 100 Rs10m and 2,400 Rs1m prizes • Beneficiaries receiving at least $100 in each of three months qualify automatically • First draw on Jan 15 next year for remittances received from Oct 1 to Dec 31…",
+   "image": "https://i.dawn.com/large/2026/09/26072934f0397ab.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Rs32.5m collected under fixed tax",
+   "url": "https://tribune.com.pk/story/2631460/rs325m-collected-under-fixed-tax",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "Kayani hopes more traders will file returns; FBR launches faceless audit system",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Govt plans more gas tariff slabs",
+   "url": "https://tribune.com.pk/story/2631463/govt-plans-more-gas-tariff-slabs",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "Examines proposal to widen protected net for consumers",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil shock keeps SPI in double digits",
+   "url": "https://tribune.com.pk/story/2631461/oil-shock-keeps-spi-in-double-digits",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "YoY inflation rises 11.92% amid US-Iran tensions; WoW index up 0.99%",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX flat as oil keeps investors cautious",
+   "url": "https://tribune.com.pk/story/2631465/psx-flat-as-oil-keeps-investors-cautious",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "KSE-100 index rallies late, closes 266 points higher",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises Rs4,700 despite global weekly loss",
+   "url": "https://tribune.com.pk/story/2631467/gold-rises-rs4700-despite-global-weekly-loss",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "Local prices jump to Rs453,036 per tola; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Solar system manufacturing urged",
+   "url": "https://tribune.com.pk/story/2631469/solar-system-manufacturing-urged",
+   "source": "The Express Tribune",
+   "published": "2026-09-25T17:16:26+00:00",
+   "summary": "Governor says development of industry will create millions of jobs, earn forex",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PSX: Stocks end week on positive note amid late buying",
@@ -415,19 +518,6 @@
    "published": "2026-09-25T10:22:06+00:00",
    "summary": "MUMBAI: The Indian rupee closed modestly stronger on Friday, aided by an easing in oil prices and the dollar after a searing rally in both kept up the pressure on the local currency through the week, eliciting central bank interventions to avert sharp falls. The Indian rupee closed at 95.8125 per dollar, up slightly fr…",
    "image": "https://i.brecorder.com/large/2026/09/251521498f5c06f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX gains 266 points in range-bound session",
-   "url": "https://tribune.com.pk/story/2631379/psx-gains-266-points-in-range-bound-session",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T07:40:28+00:00",
-   "summary": "KSE-100 edges higher to close at 170,765 as geopolitical risks weigh in",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -578,32 +668,6 @@
    "domestic": false
   },
   {
-   "title": "PM Shehbaz invites US businesses to invest in country's agriculture, mining, IT, AI",
-   "url": "https://tribune.com.pk/story/2631340/pm-shehbaz-invites-us-businesses-to-invest-in-countrys-agriculture-mining-it-ai",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T02:39:16+00:00",
-   "summary": "Premier says Pakistan had undertaken massive structural reforms including digitisation, FBR reforms, e-governance",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Austerity steps to save only Rs17b",
-   "url": "https://tribune.com.pk/story/2631257/austerity-steps-to-save-only-rs17b",
-   "source": "The Express Tribune",
-   "published": "2026-09-24T17:19:50+00:00",
-   "summary": "Secretary tells NA panel IMF programme implementation 'pretty strong'",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX reverses gains as geopolitics weigh",
    "url": "https://tribune.com.pk/story/2631265/psx-reverses-gains-as-geopolitics-weigh",
    "source": "The Express Tribune",
@@ -637,32 +701,6 @@
    "published": "2026-09-24T15:15:41+00:00",
    "summary": "LONDON: Copper prices edged down on Thursday as a firmer dollar and risk reduction ahead of a long Chinese holiday weekend weighed on sentiment, although worries over supply disruptions at major Chilean mines limited losses. Benchmark three-month copper on the London Metal Exchange dipped 0.2% to $14,595 a metric ton b…",
    "image": "https://i.brecorder.com/large/2026/09/242015312ac662d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls on hawkish Fed signals",
-   "url": "https://tribune.com.pk/story/2631064/gold-falls-on-hawkish-fed-signals",
-   "source": "The Express Tribune",
-   "published": "2026-09-23T16:56:09+00:00",
-   "summary": "Drops Rs1,800/tola as dollar hits two-month high; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Food exports rise 7.68pc in first 2 months of FY27, indicating trend reversal",
-   "url": "https://www.dawn.com/news/2032026/food-exports-rise-768pc-in-first-2-months-of-fy27-indicating-trend-reversal",
-   "source": "Dawn",
-   "published": "2026-09-23T02:43:04+00:00",
-   "summary": "https://www.dawn.com/news/2031970",
-   "image": "https://i.dawn.com/large/2026/09/23073205cd83c5e.webp",
    "topics": [
     "Economy"
    ],
