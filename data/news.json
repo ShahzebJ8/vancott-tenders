@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-27T05:35:59+00:00",
- "count": 56,
- "relevant_count": 22,
- "domestic_count": 22,
+ "generated": "2026-09-27T11:20:15+00:00",
+ "count": 53,
+ "relevant_count": 21,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (19)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
+  "Business Recorder": "ok (18)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (5)"
  },
  "stories": [
@@ -86,71 +86,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Paddy cultivated over 6.7m acres in Punjab",
-   "url": "https://www.brecorder.com/news/40441390/paddy-cultivated-over-67m-acres-in-punjab",
-   "source": "Business Recorder",
-   "published": "2026-09-26T21:24:56+00:00",
-   "summary": "LAHORE: Paddy has been cultivated over 6.7 million acres in Punjab during the current season, prompting the provincial government to step up measures for timely harvesting, wheat sowing after paddy and improvement in rice exports, Secretary Agriculture Punjab Shakeel Ahmad Mian said on Saturday. He was speaking at a me…",
-   "image": "https://i.brecorder.com/large/2026/09/2700565968cd18d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PM says pursuing measures to promote tourism",
-   "url": "https://www.brecorder.com/news/40441394/pm-says-pursuing-measures-to-promote-tourism",
-   "source": "Business Recorder",
-   "published": "2026-09-26T21:24:56+00:00",
-   "summary": "ISLAMABAD: Prime Minister Muhammad Shehbaz Sharif said the government was actively pursuing measures to promote tourism across the country, strengthen tourism infrastructure, and create greater opportunities for employment and socioeconomic advancement for local communities and young people associated with the sector. …",
-   "image": "https://i.brecorder.com/large/2026/09/270059161554586.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "JI sets up 25 camps across Karachi to step up its protest drive",
-   "url": "https://www.brecorder.com/news/40441400/ji-sets-up-25-camps-across-karachi-to-step-up-its-protest-drive",
-   "source": "Business Recorder",
-   "published": "2026-09-26T21:24:56+00:00",
-   "summary": "KARACHI: Jamaat-i-Islami (JI) Karachi on Saturday set up 25 protest camps across the city against the petroleum levy, agreements with Independent Power Producers (IPPs) and prolonged load shedding by K-Electric, launching a campaign to seek public support for its demands. A large number of citizens visited the camps, e…",
-   "image": "https://i.brecorder.com/large/2026/09/270103172379024.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Income tax returns: ABAD chief urges FBR to immediately extend filing deadline",
-   "url": "https://www.brecorder.com/news/40441401/income-tax-returns-abad-chief-urges-fbr-to-immediately-extend-filing-deadline",
-   "source": "Business Recorder",
-   "published": "2026-09-26T21:24:56+00:00",
-   "summary": "KARACHI: Muhammad Hassan Bakhshi Chairman ABAD has called on the Federal Board of Revenue (FBR) to immediately extend the deadline for filing income tax returns, citing the business community’s preoccupation with ongoing elections. Bakhshi said that trade bodies and the business community across the country are current…",
-   "image": "https://i.brecorder.com/large/2026/09/2701034345cc470.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SPL holds 61st AGM, reporting gross profit of Rs1,585m",
-   "url": "https://www.brecorder.com/news/40441409/spl-holds-61st-agm-reporting-gross-profit-of-rs1585m",
-   "source": "Business Recorder",
-   "published": "2026-09-26T21:24:56+00:00",
-   "summary": "KARACHI: The shareholders of Security Papers Limited (SPL) reviewed and approved the audited financial statements of the Company for the year ended June 30, 2026, reporting a gross profit of PKR 1,585 million, profit before tax of PKR 1,598 million and a net profit of PKR 907 million, resulting in earnings per share of…",
-   "image": "https://i.brecorder.com/large/2026/09/2700542894603d1.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -302,6 +237,58 @@
    "domestic": true
   },
   {
+   "title": "UK PM Burnham refuses to back Heathrow's third runway project",
+   "url": "https://www.brecorder.com/news/40441459/uk-pm-burnham-refuses-to-back-heathrows-third-runway-project",
+   "source": "Business Recorder",
+   "published": "2026-09-27T09:26:38+00:00",
+   "summary": "LONDON: British Prime Minister Andy Burnham declined to give his backing on Sunday to plans to build a third ​runway at Heathrow, saying it was a matter ‌for people who live near London’s main airport. The government led by his predecessor, former Prime Minister Keir Starmer , announced last year it ​supported Heathrow…",
+   "image": "https://i.brecorder.com/large/2026/09/271424582e6da87.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "East German espionage raised GDP by 7.4% in late 1980s, study finds",
+   "url": "https://www.brecorder.com/news/40441455/east-german-espionage-raised-gdp-by-74-in-late-1980s-study-finds",
+   "source": "Business Recorder",
+   "published": "2026-09-27T06:54:21+00:00",
+   "summary": "BERLIN: East Germany’s extensive Cold War economic espionage in the ​1970s and 1980s lifted its overall economic output ‌by 7.4% at the end of the 1980s, according to a study by the Rockwool Foundation Berlin, seen by ​Reuters on Sunday. Here are some more details: Industrial ​value added was 22.3% higher due to espion…",
+   "image": "https://i.brecorder.com/large/2026/09/27115227cb7ae74.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bangkok floodwaters recede as officials race to drain canals",
+   "url": "https://www.brecorder.com/news/40441447/bangkok-floodwaters-recede-as-officials-race-to-drain-canals",
+   "source": "Business Recorder",
+   "published": "2026-09-27T06:12:41+00:00",
+   "summary": "BANGKOK: Floodwaters receded across parts of Bangkok on ​Sunday after a break ‌in torrential rain that caused severe flooding a day earlier ​and prompted authorities to ​declare the Thai capital a disaster ⁠zone. The Bangkok Metropolitan Administration ​said late on Saturday that ​rain had eased, with only scattered cl…",
+   "image": "https://i.brecorder.com/large/2026/09/27111018a84b61e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "US consulate builder in Milan to pay $35 million over labour probe, document shows",
+   "url": "https://www.brecorder.com/news/40441443/us-consulate-builder-in-milan-to-pay-35-million-over-labour-probe-document-shows",
+   "source": "Business Recorder",
+   "published": "2026-09-27T05:44:12+00:00",
+   "summary": "MILAN: US builder Caddell Construction has formally committed to pay €30.941 ​million ($35.24 million) in a probe into alleged worker exploitation at the site of the new US consulate ‌in Milan, a document seen by Reuters showed. The Alabama-based construction giant undertook to pay nearly €20 million to workers in over…",
+   "image": "https://i.brecorder.com/large/2026/09/271042468c58f9a.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "India lowers FY27 gross borrowing, to sell debt worth 7.86 tln",
    "url": "https://www.brecorder.com/news/40441370/india-lowers-fy27-gross-borrowing-to-sell-debt-worth-786-tln",
    "source": "Business Recorder",
@@ -390,19 +377,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Rs32.5m collected under fixed tax",
-   "url": "https://tribune.com.pk/story/2631460/rs325m-collected-under-fixed-tax",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T17:16:26+00:00",
-   "summary": "Kayani hopes more traders will file returns; FBR launches faceless audit system",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -623,19 +597,6 @@
    "image": "https://i.dawn.com/large/2026/09/25075443e4985c4.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold heads for weekly loss as stronger dollar, Fed rate outlook weighs",
-   "url": "https://www.brecorder.com/news/40441178/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs",
-   "source": "Business Recorder",
-   "published": "2026-09-25T02:47:55+00:00",
-   "summary": "Gold prices ticked up on ‌Friday but were set to post a weekly loss , pressured by a stronger dollar and growing expectations that the Federal Reserve will keep interest rates elevated to contain inflation. Spot gold ​rose 0.2% to $4,288.36 per ounce by 0200 GMT, but was down 2% ​so far this week. US gold futures edged…",
-   "image": "https://i.brecorder.com/large/2026/09/25074445b3cd7b3.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
