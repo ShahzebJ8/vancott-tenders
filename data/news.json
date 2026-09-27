@@ -1,15 +1,95 @@
 {
- "generated": "2026-09-27T00:13:10+00:00",
- "count": 58,
- "relevant_count": 21,
- "domestic_count": 20,
+ "generated": "2026-09-27T05:35:59+00:00",
+ "count": 56,
+ "relevant_count": 22,
+ "domestic_count": 22,
  "sources": {
-  "Dawn": "ok (17)",
-  "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (11)",
+  "Dawn": "ok (19)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Stocks end week flat amid oil, geopolitical uncertainty",
+   "url": "https://www.dawn.com/news/2032964/stocks-end-week-flat-amid-oil-geopolitical-uncertainty",
+   "source": "Dawn",
+   "published": "2026-09-27T03:43:32+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) remained volatile during the outgoing week, with the KSE-100 index closing largely flat as uncertainty over the US-Iran conflict kept oil prices elevated and weighed on investor sentiment. Meanwhile, an International Monetary Fund (IMF) staff mission arrived for talks with Pak…",
+   "image": "https://i.dawn.com/large/2026/09/27084247de23315.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan Medical Association calls strike on 30th against FBR policies",
+   "url": "https://www.dawn.com/news/2032966/pakistan-medical-association-calls-strike-on-30th-against-fbr-policies",
+   "source": "Dawn",
+   "published": "2026-09-27T03:38:40+00:00",
+   "summary": "ISLAMABAD: The Pakistan Medical Association (PMA) has announced that it would hold a nationwide strike and closure of medical facilities on Sept 30 to protest against the policies of the Federal Board of Revenue (FBR), with private healthcare providers across the country joining the protest. “The medical community stro…",
+   "image": "https://i.dawn.com/large/2026/09/2708382918e1bc9.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Inflation seen slowing to 10.75pc in September",
+   "url": "https://www.dawn.com/news/2032971/inflation-seen-slowing-to-1075pc-in-september",
+   "source": "Dawn",
+   "published": "2026-09-27T03:32:05+00:00",
+   "summary": "KARACHI: Some stakeholders and analysts expect inflation in September to slow despite the high uncertainty caused by the ongoing Gulf war. The financial sector expects oil prices to remain between $90 and $100 per barrel during the remaining days of September and in October. However, the situation has once again change…",
+   "image": "https://i.dawn.com/large/2026/09/27083123573941b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Iranian team to inspect mango treatment plants",
+   "url": "https://www.dawn.com/news/2032972/iranian-team-to-inspect-mango-treatment-plants",
+   "source": "Dawn",
+   "published": "2026-09-27T03:29:00+00:00",
+   "summary": "ISLAMABAD: Iran is preparing to send a two-member team to Pakistan to inspect newly established hot-water treatment (HWT) plants for mangoes. The visit could pave the way for approval of more facilities and help Pakistan revive exports to one of its key regional markets. The proposed visit, expected shortly, follows mo…",
+   "image": "https://i.dawn.com/large/2026/09/2708281277babff.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Meagre flour price cut brings no relief",
+   "url": "https://www.dawn.com/news/2032969/meagre-flour-price-cut-brings-no-relief",
+   "source": "Dawn",
+   "published": "2026-09-27T03:00:45+00:00",
+   "summary": "KARACHI: Millers have cut prices for various flour varieties by Rs3 per kg. They did not link the reduction to any pre-market effect ahead of the arrival of 750,000 tonnes of imported wheat. After the cut, millers issued new rates a day back for flour No 2.5, maida and fine flour of Rs141, Rs149 and Rs152 per kg, respe…",
+   "image": "https://i.dawn.com/large/2026/09/27080501c7269b1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Trade gap with Gulf widens",
+   "url": "https://www.dawn.com/news/2032968/trade-gap-with-gulf-widens",
+   "source": "Dawn",
+   "published": "2026-09-27T02:59:51+00:00",
+   "summary": "ISLAMABAD: Pakistan’s trade deficit with Gulf partner countries widened by 2.61 per cent to $3.450 billion in the first two months of the fiscal year 2026-27 compared with $3.362bn in the same period a year earlier, as imports from the region outpaced exports. Export proceeds posted moderate growth, driven by gains in …",
+   "image": "https://i.dawn.com/large/2026/09/270836156f9086b.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Paddy cultivated over 6.7m acres in Punjab",
    "url": "https://www.brecorder.com/news/40441390/paddy-cultivated-over-67m-acres-in-punjab",
@@ -209,45 +289,6 @@
    "domestic": true
   },
   {
-   "title": "PSX rallies on cooling US-Iran tensions",
-   "url": "https://www.dawn.com/news/2032246/psx-rallies-on-cooling-us-iran-tensions",
-   "source": "Dawn",
-   "published": "2026-09-24T02:41:00+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) continued its recovery on Wednesday as easing geopolitical tensions and falling oil prices boosted investor sentiment, helping the benchmark KSE-100 index close in positive territory for the third consecutive session. Topline Securities Ltd said the PSX staged a str­o­­ng rec…",
-   "image": "https://i.dawn.com/large/2026/09/240740321b539e3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "New, used car imports surge 36pc in July-Aug",
-   "url": "https://www.dawn.com/news/2032253/new-used-car-imports-surge-36pc-in-july-aug",
-   "source": "Dawn",
-   "published": "2026-09-24T02:32:22+00:00",
-   "summary": "• Gift scheme accounts for bulk of used car imports • New entrants expand imports of electrified vehicles ahead of local assembly KARACHI: Imports of new and used cars have shown a rising trend as new entrants seek to introduce models ahead of local assembly, while auto vendors remain concerned over the continued arriv…",
-   "image": "https://i.dawn.com/large/2026/09/240730572a9417d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Private sector credit offtake remains weak",
-   "url": "https://www.dawn.com/news/2032250/private-sector-credit-offtake-remains-weak",
-   "source": "Dawn",
-   "published": "2026-09-24T02:04:22+00:00",
-   "summary": "KARACHI: The country has yet to emerge from an investment-averse environment, as reflected in private sector credit offtake during the first quarter of the current fiscal year. Latest State Bank data for the first two-and-a-half months of the fiscal year show that the private sector is still retiring debt. Between July…",
-   "image": "https://i.dawn.com/large/2026/09/2407370573be6ff.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "FBR notifies new tax rules for non-resident influencers",
    "url": "https://www.dawn.com/news/2032221/fbr-notifies-new-tax-rules-for-non-resident-influencers",
    "source": "Dawn",
@@ -256,20 +297,6 @@
    "image": "https://i.dawn.com/large/2026/09/24074912a535616.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Asian Development Bank keeps Pakistan's growth forecast at 3.7pc",
-   "url": "https://www.dawn.com/news/2032035/asian-development-bank-keeps-pakistans-growth-forecast-at-37pc",
-   "source": "Dawn",
-   "published": "2026-09-23T04:20:55+00:00",
-   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday forecast Pakistan’s economic growth rate at 3.7 per cent — lower than the 4pc budget target — and inflation at 8.3pc — higher than the official estimate of 7pc for the current fiscal year — amid downside risks stemming from the conflict in the Middle East. “Pakis…",
-   "image": "https://i.dawn.com/large/2026/09/230858104b67a63.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
    ],
    "relevant": true,
    "domestic": true
@@ -294,6 +321,45 @@
    "published": "2026-09-26T21:24:56+00:00",
    "summary": "GDANSK: The Organisation for Economic Co-operation and Development (OECD) on Wednesday sharply raised its 2026 and 2027 inflation forecasts for Turkey, while also cutting its economic growth projections for both years. In its latest economic outlook, the OECD raised its headline inflation forecast for Turkey to 31.5per…",
    "image": "https://i.brecorder.com/large/2026/09/27004231be9a75d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Low exports, grower woes mar paddy season",
+   "url": "https://tribune.com.pk/story/2631578/low-exports-grower-woes-mar-paddy-season",
+   "source": "The Express Tribune",
+   "published": "2026-09-26T17:12:21+00:00",
+   "summary": "Secretary advocates safe use of pesticides, machine harvesting to reduce crop losses",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India orders coal plants to run at full capacity",
+   "url": "https://tribune.com.pk/story/2631582/india-orders-coal-plants-to-run-at-full-capacity",
+   "source": "The Express Tribune",
+   "published": "2026-09-26T17:12:21+00:00",
+   "summary": "Ministry invokes emergency provisions to meet expected rise in electricity demand",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Geopolitics keeps PSX range bound",
+   "url": "https://tribune.com.pk/story/2631583/geopolitics-keeps-psx-range-bound",
+   "source": "The Express Tribune",
+   "published": "2026-09-26T17:12:21+00:00",
+   "summary": "KSE-100 index ends week lower as uncertainty weighs",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -340,45 +406,6 @@
    "domestic": false
   },
   {
-   "title": "Govt plans more gas tariff slabs",
-   "url": "https://tribune.com.pk/story/2631463/govt-plans-more-gas-tariff-slabs",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T17:16:26+00:00",
-   "summary": "Examines proposal to widen protected net for consumers",
-   "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil shock keeps SPI in double digits",
-   "url": "https://tribune.com.pk/story/2631461/oil-shock-keeps-spi-in-double-digits",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T17:16:26+00:00",
-   "summary": "YoY inflation rises 11.92% amid US-Iran tensions; WoW index up 0.99%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP launches remittance reward scheme",
-   "url": "https://tribune.com.pk/story/2631466/sbp-launches-remittance-reward-scheme",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T17:16:26+00:00",
-   "summary": "Market-based drive offers Rs16b annual prizes to remitters",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX flat as oil keeps investors cautious",
    "url": "https://tribune.com.pk/story/2631465/psx-flat-as-oil-keeps-investors-cautious",
    "source": "The Express Tribune",
@@ -387,32 +414,6 @@
    "image": null,
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold rises Rs4,700 despite global weekly loss",
-   "url": "https://tribune.com.pk/story/2631467/gold-rises-rs4700-despite-global-weekly-loss",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T17:16:26+00:00",
-   "summary": "Local prices jump to Rs453,036 per tola; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Solar system manufacturing urged",
-   "url": "https://tribune.com.pk/story/2631469/solar-system-manufacturing-urged",
-   "source": "The Express Tribune",
-   "published": "2026-09-25T17:16:26+00:00",
-   "summary": "Governor says development of industry will create millions of jobs, earn forex",
-   "image": null,
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -640,19 +641,6 @@
    "domestic": false
   },
   {
-   "title": "PSX reverses gains as geopolitics weigh",
-   "url": "https://tribune.com.pk/story/2631265/psx-reverses-gains-as-geopolitics-weigh",
-   "source": "The Express Tribune",
-   "published": "2026-09-24T17:19:50+00:00",
-   "summary": "KSE-100 down around 1,740 points on mounting ME, oil concerns",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "OICCI seeks capital, export push",
    "url": "https://tribune.com.pk/story/2631259/oicci-seeks-capital-export-push",
    "source": "The Express Tribune",
@@ -664,19 +652,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Copper falls on stronger dollar, Chile supply worries cap downside",
-   "url": "https://www.brecorder.com/news/40441066/copper-falls-on-stronger-dollar-chile-supply-worries-cap-downside",
-   "source": "Business Recorder",
-   "published": "2026-09-24T15:15:41+00:00",
-   "summary": "LONDON: Copper prices edged down on Thursday as a firmer dollar and risk reduction ahead of a long Chinese holiday weekend weighed on sentiment, although worries over supply disruptions at major Chilean mines limited losses. Benchmark three-month copper on the London Metal Exchange dipped 0.2% to $14,595 a metric ton b…",
-   "image": "https://i.brecorder.com/large/2026/09/242015312ac662d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
