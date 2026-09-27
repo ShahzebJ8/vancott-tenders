@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T11:20:09+00:00",
+ "generated": "2026-09-27T15:48:11+00:00",
  "count": 684,
  "with_value": 657,
  "with_winner": 259,
@@ -13019,6 +13019,44 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003794",
+   "tender_no": "TS0000009911E",
+   "reference": "PTA/ENF/MTN/25/2025",
+   "title": "Hiring of Security Services for Zonal Office Multan Services",
+   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
+   "bid_count": 7,
+   "lowest": [
+    "Askari Guards Cabinet Division"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-27",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003794",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003793",
+   "tender_no": "TS0000011085E",
+   "reference": "PTA/Enf/Gilgit/P50954/2026",
+   "title": "Hiring of Security Services for Pakistan Telecommunication Authority (PTA) at Zonal Office Gilgit Services Cabinet Division",
+   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-27",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003793",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003792",
    "tender_no": "TS0000011409E",
@@ -52098,46 +52136,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001690",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001689",
-   "tender_no": "TS0000006805E",
-   "reference": "P34358",
-   "title": "Procurement of Earth Resistance Tester Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "sarwar electronics"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001689",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001688",
-   "tender_no": "TS0000006815E",
-   "reference": "P35138",
-   "title": "Safety Harness Belt Clothing/Uniform",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 7,
-   "lowest": [
-    "Sarwar Electronics"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001688",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

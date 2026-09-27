@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-27T11:20:15+00:00",
+ "generated": "2026-09-27T15:48:16+00:00",
  "count": 53,
  "relevant_count": 21,
- "domestic_count": 17,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (19)",
   "Business Recorder": "ok (18)",
@@ -10,6 +10,19 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Aurangzeb's US Exim talks covered financing for Boeing aircraft, adviser says",
+   "url": "https://www.brecorder.com/news/40441464/aurangzebs-us-exim-talks-covered-financing-for-boeing-aircraft-adviser-says",
+   "source": "Business Recorder",
+   "published": "2026-09-27T14:55:29+00:00",
+   "summary": "ISLAMABAD: Pakistan’s Finance Minister discussed potential US Export-Import Bank (EXIM) financing for Boeing aircraft for privatised PIA, refinery upgrades and Reko Diq, a copper and gold mining project in southwestern Balochistan, his adviser Khurram Schehzad said in a post on X on Sunday. Schehzad said the government…",
+   "image": "https://i.brecorder.com/large/2026/09/27195150750b922.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Stocks end week flat amid oil, geopolitical uncertainty",
    "url": "https://www.dawn.com/news/2032964/stocks-end-week-flat-amid-oil-geopolitical-uncertainty",
@@ -295,19 +308,6 @@
    "published": "2026-09-26T21:24:56+00:00",
    "summary": "MUMBAI: The Indian government plans to raise 7.86 trillion rupees (USD82 billion) through bond sales between October and March, slightly less than previously planned, as it seeks to contain rising yields and steady the market. The gross borrowing for the full financial year works out to be 16 trillion rupees (15.995 tr…",
    "image": "https://i.brecorder.com/large/2026/09/270045479edcb62.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "OECD raises Turkey inflation forecast, trims growth outlook",
-   "url": "https://www.brecorder.com/news/40441371/oecd-raises-turkey-inflation-forecast-trims-growth-outlook",
-   "source": "Business Recorder",
-   "published": "2026-09-26T21:24:56+00:00",
-   "summary": "GDANSK: The Organisation for Economic Co-operation and Development (OECD) on Wednesday sharply raised its 2026 and 2027 inflation forecasts for Turkey, while also cutting its economic growth projections for both years. In its latest economic outlook, the OECD raised its headline inflation forecast for Turkey to 31.5per…",
-   "image": "https://i.brecorder.com/large/2026/09/27004231be9a75d.webp",
    "topics": [
     "Economy"
    ],
