@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-28T15:48:10+00:00",
- "count": 53,
- "relevant_count": 19,
- "domestic_count": 15,
+ "generated": "2026-09-28T21:36:59+00:00",
+ "count": 52,
+ "relevant_count": 18,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (18)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (4)"
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
@@ -210,6 +210,45 @@
    "domestic": true
   },
   {
+   "title": "Punjab Revenue Authority, World Bank to introduce advanced systems to expand tax base",
+   "url": "https://arynews.tv/punjab-revenue-authority-world-bank-to-introduce-advanced-systems-to-expand-tax-base",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Punjab Revenue Authority, World Bank to introduce advanced systems to expand tax base",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PRB.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Imran Haleem Shaikh to take charge as BankIslami President & CEO from Sept 29",
+   "url": "https://www.brecorder.com/news/40441607/imran-haleem-shaikh-to-take-charge-as-bankislami-president-amp-ceo-from-sept-29",
+   "source": "Business Recorder",
+   "published": "2026-09-28T16:54:19+00:00",
+   "summary": "BankIslami Pakistan Limited has appointed its Deputy Chief Executive Officer Imran Haleem Shaikh as new President and Chief Executive Officer for a three-year term effective September 29, 2026. The bank informed the Pakistan Stock Exchange (PSX) in a notice on Monday. “Please be advised that Imran Haleem Shaikh will ta…",
+   "image": "https://i.brecorder.com/large/2026/09/28161746f292268.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Wall St declines as oil spikes after Trump rejects Iran peace proposal",
+   "url": "https://www.brecorder.com/news/40441632/wall-st-declines-as-oil-spikes-after-trump-rejects-iran-peace-proposal",
+   "source": "Business Recorder",
+   "published": "2026-09-28T16:37:45+00:00",
+   "summary": "Wall Street’s main indexes fell on Monday after President Donald Trump rejected an Iranian proposal to end the conflict, leading to a spike in crude prices that revived inflation worries and drove Treasury yields higher. Limiting declines was Nvidia’s 2.1% gain after the chip giant announced a $150 billion share repurc…",
+   "image": "https://i.brecorder.com/large/2026/09/28213726126c65f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "India's Aug industrial output jumps 8% as manufacturing output surges",
    "url": "https://www.brecorder.com/news/40441619/indias-aug-industrial-output-jumps-8-as-manufacturing-output-surges",
    "source": "Business Recorder",
@@ -234,19 +273,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Imran Haleem Shaikh to take charge as BankIslami President & CEO from Sept 29",
-   "url": "https://www.brecorder.com/news/40441607/imran-haleem-shaikh-to-take-charge-as-bankislami-president-amp-ceo-from-sept-29",
-   "source": "Business Recorder",
-   "published": "2026-09-28T11:14:59+00:00",
-   "summary": "BankIslami Pakistan Limited, Pakistan’s leading Islamic financial institution, has appointed its Deputy Chief Executive Officer Imran Haleem Shaikh as President and Chief Executive Officer for a three-year term effective September 29, 2026. The bank informed the Pakistan Stock Exchange (PSX) in a notice on Monday. “Ple…",
-   "image": "https://i.brecorder.com/large/2026/09/28161746f292268.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -512,19 +538,6 @@
    "domestic": false
   },
   {
-   "title": "Remittances: Pakistan's lifeline",
-   "url": "https://tribune.com.pk/story/2631744/remittances-pakistans-lifeline",
-   "source": "The Express Tribune",
-   "published": "2026-09-27T16:17:20+00:00",
-   "summary": "Inflows do not automatically eliminate poverty; they work best when combined with education, investment, stable econom",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Revenuecracy, tax policy and targets",
    "url": "https://tribune.com.pk/story/2631746/revenuecracy-tax-policy-and-targets",
    "source": "The Express Tribune",
@@ -675,32 +688,6 @@
    "published": null,
    "summary": "White House releases list of products US, China could tax less",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-01T222003.675.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FBR sets up National Faceless Centre: no more direct contact with tax officers",
-   "url": "https://arynews.tv/fbr-sets-up-national-faceless-centre-no-more-direct-contact-with-tax-officers",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR sets up National Faceless Centre: no more direct contact with tax officers",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-2026-09-25T190256.353.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Asan Tax Scheme brings nearly 10,000 shopkeepers into tax net",
-   "url": "https://arynews.tv/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Asan Tax Scheme brings nearly 10,000 shopkeepers into tax net",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-2026-09-25T185422.066.jpg",
    "topics": [
     "Budget & spending"
    ],

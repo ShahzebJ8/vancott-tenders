@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T15:48:04+00:00",
+ "generated": "2026-09-28T21:36:53+00:00",
  "count": 686,
  "with_value": 659,
  "with_winner": 260,
@@ -13057,6 +13057,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003817",
+   "tender_no": "TS0000011531E",
+   "reference": "P85894",
+   "title": "CONSULTANCY SERVICES FOR CONSTRUCTION, REPAIR & REHABILITATION WORK AT TCP KORANGI GODOWN, KARACHI Civil Works Trading Corporation of Pakistan (TCP)",
+   "organisation": "Trading Corporation of Pakistan (TCP) Trading Corporation of Pakistan (TCP) Karachi - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-28",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003817",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003813",
    "tender_no": "TS0000005374E",
@@ -52134,26 +52152,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001711",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001710",
-   "tender_no": "TS0000006719E",
-   "reference": "14/2025-2026",
-   "title": "Purchase of Toners and Drum Units Consumable Items",
-   "organisation": "Cabinet Division PNRA Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "ZS ENTERPRISES, PAK TECH , GEMCO Cabinet Division"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-29",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001710",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
