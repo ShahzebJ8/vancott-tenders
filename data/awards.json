@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-28T01:09:03+00:00",
- "count": 684,
- "with_value": 657,
- "with_winner": 259,
+ "generated": "2026-09-28T07:19:24+00:00",
+ "count": 686,
+ "with_value": 659,
+ "with_winner": 260,
  "smd_count": 0,
  "price_history": [
   {
@@ -391,6 +391,25 @@
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9210045747",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0FaT1VSRV9FTkdJTkVFUklOR19BTkRfU0VSVklDRVMucGRm",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-8405542527",
+   "reference": "HOT/105/26",
+   "title": "Sui Northern Gas Pipelines Limited (SNGPL) AUTOMATIC MONEY COUNTER/FAKE NOTE DETECTOR MACHINE",
+   "organisation": "SNGPL Lahore",
+   "office": "SNGPL Lahore",
+   "winner": "S&G Associates Pvt Ltd.",
+   "value_text": "Rs. 827,635 < Rs. 50 Million",
+   "value_pkr": 827635,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-09-16",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-8405542527",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0NDRl8wMDA4NzIucGRm",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -6363,6 +6382,25 @@
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9533014557",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL2NvbnRyYWN0XzMxMDZfN2JmNzFmYjYtMzdjZS0xMWYxLTk5NDMtMDA1MDU2MDIyMGEwXzIwMjYwNDMwMTU0MjMzLnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-0739372114",
+   "reference": "P13853",
+   "title": "Pakistan National Shipping Corporation (PNSC) TENDER FOR PROCUREMENT OF UPGRADATION SMARTER MAIL SOFTWARE LICENSE FOR PNSC ENTERPRISE IT SOLUTIONS ENTERPRISE IT SOLUTIONS, OFFICE # 801, 08TH FLOOR, FALAK TOWER, KARACHI National Tender: TS0000002970E",
+   "organisation": "PNSC Karachi",
+   "office": "PNSC Karachi",
+   "winner": null,
+   "value_text": "Rs. 706,018 < Rs. 50 Million",
+   "value_pkr": 706018,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-03-19",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-0739372114",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0Zvcm1fNDdfQ29tcGxldGVfU21hcnRlcl9NYWlsX01JU19EZXB0dC5wZGY=",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -13019,6 +13057,66 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003799",
+   "tender_no": "TS0000009530E",
+   "reference": "Tender No.02/2026-27",
+   "title": "Tender for the pre-qualification of firms for general repair/maintenance Repair/Maintenance",
+   "organisation": "Ministry of Science and Technology Ministry of Science and Technology Islamabad - Pakistan",
+   "bid_count": 44,
+   "lowest": [
+    "36 Firms out of 44 firms are prequalified for procurement during CFY 2026-27"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-28",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003799",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003798",
+   "tender_no": "TS0000007687E",
+   "reference": "FCS/BWP/TE/020/26",
+   "title": "CLAY FOR EARTH FILLING Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Javaid Traders, Faisalabad"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-28",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003798",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003797",
+   "tender_no": "TS0000006633E",
+   "reference": "FCS/SDQ/TE/022/26",
+   "title": "CLAY FOR EARTH FILLING Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Al Makkah Enterprises, Lahore"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-28",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003797",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003794",
    "tender_no": "TS0000009911E",
@@ -52070,72 +52168,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001693",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001692",
-   "tender_no": "TS0000000326E",
-   "reference": "MEPCO-GSO-MTN-02/2026",
-   "title": "MEPCO TENDER NOTICE FOR DISPOSAL OF SCRAP MATERIAL Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) XEN SS&#38;T Division MEPCO Rahim Yar Khan - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "Haris Traders in item.2,9",
-    "Mutahir Metal in item8,18,20",
-    "Akram Traders in item 24,34,44,48",
-    "Bismillah in item 28,"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Rahim Yar Khan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001692",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001691",
-   "tender_no": "TS0000000551E",
-   "reference": "MEPCO-GSO-MTN-04/2026",
-   "title": "MEPCO Tender Notice for Disposal of Scrap Material Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) XEN SS&#38;T Division MEPCO Multan Multan - Pakistan",
-   "bid_count": 8,
-   "lowest": [
-    "Abdullah in item.1,6,15",
-    "Bismillah in item.2,4,9,12,13,18,21,24,25,37,34",
-    "Mutahir in item.7,16,20,23,26",
-    "Kynsug in item.36,"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001691",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001690",
-   "tender_no": "TS0000005655E",
-   "reference": "FCS/TRP/TE/113/26",
-   "title": "Misc Coat & Wrap Material Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Muridke - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Imran Enterprises, Lahore, A.Z Enterprises, Lahore, Hassan Traders, Gujranwala"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-26",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001690",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
