@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-27T22:33:52+00:00",
- "count": 52,
- "relevant_count": 21,
- "domestic_count": 18,
+ "generated": "2026-09-28T01:09:08+00:00",
+ "count": 57,
+ "relevant_count": 23,
+ "domestic_count": 22,
  "sources": {
   "Dawn": "ok (19)",
   "Business Recorder": "ok (18)",
@@ -11,12 +11,64 @@
  },
  "stories": [
   {
-   "title": "Aurangzeb's US Exim talks covered financing for Boeing aircraft, adviser says",
-   "url": "https://www.brecorder.com/news/40441464/aurangzebs-us-exim-talks-covered-financing-for-boeing-aircraft-adviser-says",
+   "title": "FBR chief urged to extend income tax return deadline",
+   "url": "https://www.brecorder.com/news/40441515/fbr-chief-urged-to-extend-income-tax-return-deadline",
    "source": "Business Recorder",
-   "published": "2026-09-27T14:55:29+00:00",
-   "summary": "ISLAMABAD: Pakistan’s Finance Minister discussed potential US Export-Import Bank (EXIM) financing for Boeing aircraft for privatised PIA, refinery upgrades and Reko Diq, a copper and gold mining project in southwestern Balochistan, his adviser Khurram Schehzad said in a post on X on Sunday. Schehzad said the government…",
-   "image": "https://i.brecorder.com/large/2026/09/27195150750b922.webp",
+   "published": "2026-09-28T00:01:41+00:00",
+   "summary": "ISLAMABAD: Almost all tax bar associations, chambers/ federations and trade bodies have requested the Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial to extend the deadline for filing of income tax return forms by one month for Tax Year 2026, following failure of the system to accept returns on Sunday, …",
+   "image": "https://i.brecorder.com/large/2026/09/28050337e672913.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "JI to resume ‘super long march’ from Multan if demands not met: Hafiz",
+   "url": "https://www.brecorder.com/news/40441491/ji-to-resume-super-long-march-from-multan-if-demands-not-met-hafiz",
+   "source": "Business Recorder",
+   "published": "2026-09-27T23:13:47+00:00",
+   "summary": "KARACHI: Jamaat-e-Islami (JI) chief Hafiz Naeem-ur-Rehman on Sunday said that his party’s protest movement against the petroleum levy, agreements with independent power producers (IPPs) and inflation will continue, and a “super long march” will be resumed from Multan if the government fails to accept public demands. He…",
+   "image": "https://i.brecorder.com/large/2026/09/28005346ff9023f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Investigation into ‘sale of non-customs-paid goods’: FBR delays implementation of FTO’s recommendations",
+   "url": "https://www.brecorder.com/news/40441500/investigation-into-sale-of-non-customs-paid-goods-fbr-delays-implementation-of-ftos-recommendations",
+   "source": "Business Recorder",
+   "published": "2026-09-27T23:13:47+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has further delayed implementation of the binding recommendations of the Federal Tax Ombudsman (FTO) directing a detailed investigation into an alleged nationwide racket in the sale of non-customs paid goods. It has been alleged that the racket was run “with the connivance …",
+   "image": "https://i.brecorder.com/large/2026/09/280101404c07de1.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Money laundering cases can proceed without awaiting tax cases: LHC",
+   "url": "https://www.brecorder.com/news/40441518/money-laundering-cases-can-proceed-without-awaiting-tax-cases-lhc",
+   "source": "Business Recorder",
+   "published": "2026-09-27T23:13:47+00:00",
+   "summary": "ISLAMABAD: The Lahore High Court has ruled that money laundering is a separate crime in its own right. The Federal Board of Revenue (FBR) does not have to wait for a person’s income tax case to be fully decided before it starts a money laundering investigation. The judgment was given by a two member bench of Mr. Justic…",
+   "image": "https://i.brecorder.com/large/2026/09/28014445fc142ff.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "New PIA aircraft: No govt financing, sovereign-guaranteed loans announced: Schehzad",
+   "url": "https://www.brecorder.com/news/40441527/new-pia-aircraft-no-govt-financing-sovereign-guaranteed-loans-announced-schehzad",
+   "source": "Business Recorder",
+   "published": "2026-09-27T23:13:47+00:00",
+   "summary": "ISLAMABAD: Adviser to the Finance Minister Khurram Schehzad said on Sunday that Pakistan had discussed potential financing from the US Export-Import Bank (US Exim Bank) for Boeing aircraft for privatised Pakistan International Airlines (PIA), but no government loan or sovereign guarantee had been announced for the airl…",
+   "image": "https://i.brecorder.com/large/2026/09/280231256a6bce5.webp",
    "topics": [
     "Economy"
    ],
@@ -250,16 +302,43 @@
    "domestic": true
   },
   {
-   "title": "UK PM Burnham refuses to back Heathrow's third runway project",
-   "url": "https://www.brecorder.com/news/40441459/uk-pm-burnham-refuses-to-back-heathrows-third-runway-project",
+   "title": "Dutch diplomats in Ramallah: Israel revokes diplomatic status",
+   "url": "https://www.brecorder.com/news/40441516/dutch-diplomats-in-ramallah-israel-revokes-diplomatic-status",
    "source": "Business Recorder",
-   "published": "2026-09-27T09:26:38+00:00",
-   "summary": "LONDON: British Prime Minister Andy Burnham declined to give his backing on Sunday to plans to build a third ​runway at Heathrow, saying it was a matter ‌for people who live near London’s main airport. The government led by his predecessor, former Prime Minister Keir Starmer , announced last year it ​supported Heathrow…",
-   "image": "https://i.brecorder.com/large/2026/09/271424582e6da87.webp",
+   "published": "2026-09-28T00:46:05+00:00",
+   "summary": "TEL AVIV: Israel’s foreign ministry said on Sunday that it revoked the diplomatic status of Dutch diplomats at the Netherlands’ Representative Office in Ramallah in response to the Dutch government’s ban on imports of products originating from Israeli settlements in the occupied West Bank.",
+   "image": "https://i.brecorder.com/large/2026/09/28014315849fa80.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "A temporary breather in RLNG import",
+   "url": "https://www.brecorder.com/news/40441497/a-temporary-breather-in-rlng-import",
+   "source": "Business Recorder",
+   "published": "2026-09-27T23:13:47+00:00",
+   "summary": "EDITORIAL: The recent international oil price crisis due to the ongoing war, which has engulfed the Gulf region, is fortunately not creating havoc for Pakistan’s economy as it did during the crises of 2022 and 2008. The fiscal side is cushioned, as the government is fully passing on the impact of higher prices to consu…",
+   "image": "https://i.brecorder.com/large/2026/09/280058212f2fa2d.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "LSM finds a higher base",
+   "url": "https://www.brecorder.com/news/40441508/lsm-finds-a-higher-base",
+   "source": "Business Recorder",
+   "published": "2026-09-27T23:13:47+00:00",
+   "summary": "Large-Scale Manufacturing (LSM) growth may have slowed to 3 percent YoY in July, but the headline understates the more important development. The July LSM index climbed to 119.13, the highest reading ever recorded for the month and comfortably above the previous July peak of 115.62 in FY26. More importantly, the index …",
+   "image": "https://i.brecorder.com/large/2026/09/28012033c9b6610.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -273,19 +352,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bangkok floodwaters recede as officials race to drain canals",
-   "url": "https://www.brecorder.com/news/40441447/bangkok-floodwaters-recede-as-officials-race-to-drain-canals",
-   "source": "Business Recorder",
-   "published": "2026-09-27T06:12:41+00:00",
-   "summary": "BANGKOK: Floodwaters receded across parts of Bangkok on ​Sunday after a break ‌in torrential rain that caused severe flooding a day earlier ​and prompted authorities to ​declare the Thai capital a disaster ⁠zone. The Bangkok Metropolitan Administration ​said late on Saturday that ​rain had eased, with only scattered cl…",
-   "image": "https://i.brecorder.com/large/2026/09/27111018a84b61e.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
