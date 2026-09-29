@@ -1,15 +1,54 @@
 {
- "generated": "2026-09-29T07:17:43+00:00",
- "count": 50,
- "relevant_count": 19,
- "domestic_count": 15,
+ "generated": "2026-09-29T14:16:47+00:00",
+ "count": 54,
+ "relevant_count": 24,
+ "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (20)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
-  "ARY News": "ok (4)"
+  "Dawn": "ok (21)",
+  "Business Recorder": "ok (14)",
+  "The Express Tribune": "ok (9)",
+  "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Finance minister kicks off talks with visiting IMF mission",
+   "url": "https://www.dawn.com/news/2033493/finance-minister-kicks-off-talks-with-visiting-imf-mission",
+   "source": "Dawn",
+   "published": "2026-09-29T10:56:51+00:00",
+   "summary": "ISLAMABAD: Minister for Finance and Revenue Muhammad Aurangzeb held a kick-off meeting on Tuesday with a visiting staff mission of the International Monetary Fund (IMF). The IMF mission, led by Iva Petrova, is in Islamabad for the fourth review of Pakistan’s $7 billion Extended Fund Facility (EFF) arrangement and the t…",
+   "image": "https://i.dawn.com/large/2026/09/291318159072692.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee secures gain against US dollar",
+   "url": "https://www.brecorder.com/news/40441794/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-29T10:50:56+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 277.12, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 277.15 against the dollar. Internationally , the US dollar hovered nea…",
+   "image": "https://i.brecorder.com/large/2026/09/29154816ce05d91.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistani fintech Abhi expands UAE footprint with NymCard partnership",
+   "url": "https://www.brecorder.com/news/40441787/pakistani-fintech-abhi-expands-uae-footprint-with-nymcard-partnership",
+   "source": "Business Recorder",
+   "published": "2026-09-29T09:23:04+00:00",
+   "summary": "Abhi, a Pakistani embedded finance platform and fintech company, and NymCard, a UAE-based payments infrastructure provider, on Tuesday announced a strategic partnership to enable financial institutions to deliver more efficient credit solutions to small and medium-sized enterprises (SMEs) in the UAE. According to a sta…",
+   "image": "https://i.brecorder.com/large/2026/09/29142215d060203.avif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Stocks drift lower on geopolitical tensions",
    "url": "https://www.dawn.com/news/2033422/stocks-drift-lower-on-geopolitical-tensions",
@@ -209,12 +248,12 @@
    "domestic": true
   },
   {
-   "title": "Oil prices rise for second session on continued Middle East supply concerns",
-   "url": "https://www.brecorder.com/news/40441737/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concerns",
+   "title": "Copper steadies as mine strike threat offsets dollar, oil strength",
+   "url": "https://www.brecorder.com/news/40441805/copper-steadies-as-mine-strike-threat-offsets-dollar-oil-strength",
    "source": "Business Recorder",
-   "published": "2026-09-29T07:16:51+00:00",
-   "summary": "Oil prices rose for a second successive session on Tuesday as lingering concern over Middle East supply disruption brought about by the US-Israeli war on Iran outweighed signs of recovering crude exports from the region. Brent crude futures for November rose $1.71, or 1.6%, to $106.99 a barrel at 0626 GMT, while the mo…",
-   "image": "https://i.brecorder.com/large/2026/09/290749433e965e0.webp",
+   "published": "2026-09-29T13:47:39+00:00",
+   "summary": "Copper steadied on Tuesday as the prospect of a mining strike in top producer Chile offset concerns that a strong dollar and elevated oil prices will hurt demand. Benchmark three-month copper on the London Metal Exchange was up 0.2% to $14,447 per metric ton in official open outcry activity. It lost 1.4% on Monday, hit…",
+   "image": "https://i.brecorder.com/large/2026/09/29184719504ec85.webp",
    "topics": [
     "Economy"
    ],
@@ -222,16 +261,81 @@
    "domestic": false
   },
   {
-   "title": "Aurangzeb kicks off talks with IMF mission",
-   "url": "https://www.brecorder.com/news/40441769/aurangzeb-kicks-off-talks-with-imf-mission",
-   "source": "Business Recorder",
-   "published": "2026-09-29T06:51:26+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb held a kick-off meeting with the International Monetary Fund (IMF) mission on Tuesday. “Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, held a kick-off meeting with the IMF mission, led by Iva Petrova,” read a statement released by the Ministry of Finance. “The …",
-   "image": "https://i.brecorder.com/large/2026/09/291131155921feb.webp",
+   "title": "DPM Dar hails 'whole of govt' approach as he reviews govt fuel subsidy scheme",
+   "url": "https://www.dawn.com/news/2033527/dpm-dar-hails-whole-of-govt-approach-as-he-reviews-govt-fuel-subsidy-scheme",
+   "source": "Dawn",
+   "published": "2026-09-29T13:33:45+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday appreciated the success of the Prime Minister’s Fuel Relief Scheme , saying that it reflected a “whole of government” approach. The relief scheme for owners of motorcycles, rickshaws and vehicles of up to 800cc was rolled out across the country on Sept 17.…",
+   "image": "https://i.dawn.com/large/2026/09/29180821407a81a.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's SP Group arm taps dollar debt to meet another unit's dues",
+   "url": "https://www.brecorder.com/news/40441802/indias-sp-group-arm-taps-dollar-debt-to-meet-another-units-dues",
+   "source": "Business Recorder",
+   "published": "2026-09-29T13:15:48+00:00",
+   "summary": "MUMBAI: An unit of India’s Shapoorji Pallonji Group, Mercury Finance, is raising $125 million through the reissue of a U.S. dollar bond maturing in nearly three years, three sources aware of the matter said on Tuesday. Mercury Finance will raise the funds by reopening its zero-coupon dollar bonds due July 2029, with th…",
+   "image": "https://i.brecorder.com/large/2026/09/291815039c5fd97.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
+   "url": "https://www.brecorder.com/news/40441799/indias-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-09-29T11:46:36+00:00",
+   "summary": "MUMBAI: India’s Sun Pharmaceutical Industries is planning to raise around 100 billion rupees ($1.04 billion) via a rupee-denominated debt sale to partly fund a bridge loan it took to acquire US healthcare firm Organon & Co., three sources said on Tuesday. Bridge loans are typically short-term loans taken before acquisi…",
+   "image": "https://i.brecorder.com/large/2026/09/29164620294fe19.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
+   "url": "https://www.brecorder.com/news/40441798/indian-rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall",
+   "source": "Business Recorder",
+   "published": "2026-09-29T11:35:17+00:00",
+   "summary": "MUMBAI: The Indian rupee closed nearly unchanged on Tuesday after hitting a two-month low earlier in the session as crude oil prices continued to dictate the currency’s momentum while likely central bank intervention limited weakness. The Indian rupee had declined 0.2% to 96.1475 in early trading but trimmed losses to …",
+   "image": "https://i.brecorder.com/large/2026/09/29163503f504125.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Three debt instruments worth Rs27.8bn listed on PSX in 1QFY27",
+   "url": "https://www.brecorder.com/news/40441792/three-debt-instruments-worth-rs278bn-listed-on-psx-in-1qfy27",
+   "source": "Business Recorder",
+   "published": "2026-09-29T10:35:40+00:00",
+   "summary": "Three new debt instruments worth Rs27.8 billion (approx. $100.34 million) were listed at the Pakistan Stock Exchange’s (PSX) debt market during the first quarter of FY26-27 across banking and corporate issuers. “Faysal Bank Limited listed Rs7 billion in Rated, Unsecured, Subordinated Sukuk (FABLSC); Bank Alfalah Limite…",
+   "image": "https://i.brecorder.com/large/2026/09/29153508ce57abb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+   "url": "https://www.brecorder.com/news/40441779/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs",
+   "source": "Business Recorder",
+   "published": "2026-09-29T07:29:58+00:00",
+   "summary": "Anthropic is making a massive bet that AI will ​transform the global economy more profoundly than industrialization, electricity and the internet, according to its IPO prospectus seen by Reuters. But the cost to get there will be staggering. ‌ Anthropic reported a net loss of $42 billion in 2025, and plans to spend $51…",
+   "image": "https://i.brecorder.com/large/2026/09/291228160f5a7a3.gif",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -365,19 +469,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: Buying drives KSE-100 up over 300 points",
-   "url": "https://www.brecorder.com/news/40441747/psx-buying-drives-kse-100-up-over-300-points",
-   "source": "Business Recorder",
-   "published": "2026-09-29T04:58:13+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 300 points during the opening minutes of trading on Tuesday. At 9:35am, the benchmark index was hovering at 170,749.97, up by 324.35 points or 0.19%. Buying was observed in key sectors, including automobile …",
-   "image": "https://i.brecorder.com/large/2026/09/29095751913ad49.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "FBR notifies procedures for scrutiny of sales tax returns",
    "url": "https://www.dawn.com/news/2033465/fbr-notifies-procedures-for-scrutiny-of-sales-tax-returns",
    "source": "Dawn",
@@ -386,6 +477,20 @@
    "image": "https://i.dawn.com/large/2026/09/290846358589a62.webp",
    "topics": [
     "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX falls 825 points as US-Iran uncertainty, oil pressure weigh",
+   "url": "https://tribune.com.pk/story/2632050/psx-slips-into-red-as-us-iran-uncertainty-imf-talks-weigh",
+   "source": "The Express Tribune",
+   "published": "2026-09-29T03:41:09+00:00",
+   "summary": "KSE-100 erases early gains as broad-based selling hits market; IMF kicks off fourth EFF and third RSF reviews",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
@@ -405,19 +510,6 @@
    "domestic": false
   },
   {
-   "title": "Rising US yields, oil headwinds put RBI's Indian rupee 96 buffer to the test",
-   "url": "https://www.brecorder.com/news/40441744/rising-us-yields-oil-headwinds-put-rbis-indian-rupee-96-buffer-to-the-test",
-   "source": "Business Recorder",
-   "published": "2026-09-29T03:17:39+00:00",
-   "summary": "MUMBAI: The Indian rupee is expected to come under pressure at Tuesday’s open , weighed down by higher ​US yields and oil prices , putting it at risk of ‌slipping past the 96-a-dollar mark, seen as a key near-term support level. The Indian rupee is expected to open in the 95.99-96.02 range, per traders, after settling …",
-   "image": "https://i.brecorder.com/large/2026/09/290815324f99e53.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "QatarEnergy extends LNG force majeure",
    "url": "https://www.dawn.com/news/2033427/qatarenergy-extends-lng-force-majeure",
    "source": "Dawn",
@@ -431,68 +523,16 @@
    "domestic": false
   },
   {
-   "title": "Stocks wobble as bonds slump to monthly loss",
-   "url": "https://www.brecorder.com/news/40441741/stocks-wobble-as-bonds-slump-to-monthly-loss",
-   "source": "Business Recorder",
-   "published": "2026-09-29T03:08:15+00:00",
-   "summary": "SINGAPORE: Oil prices and bond yields were higher in an uncomfortable combination for Asian equities on Tuesday , ​as investors braced for an interest rate hike in Australia and an era where short term borrowing costs ‌settle at their highest for years. The benchmark 10-year US Treasury yield spiked to a 19-year high a…",
-   "image": "https://i.brecorder.com/large/2026/09/29080723738516a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold lingers near seven-week low ahead of US economic data",
-   "url": "https://www.brecorder.com/news/40441740/gold-lingers-near-seven-week-low-ahead-of-us-economic-data",
-   "source": "Business Recorder",
-   "published": "2026-09-29T03:03:38+00:00",
-   "summary": "Gold steadied on Tuesday but hovered at a more than ‌seven-week low on concerns that the Federal Reserve may keep interest rates higher for longer, while investors awaited a slew of US economic data. Spot gold was little changed at $4,124.57 per ounce, as ​of 0140 GMT, after hitting its lowest level since August 5 in ​…",
-   "image": "https://i.brecorder.com/large/2026/09/2908031913de781.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar holds near two-month peak as yields rise, Fed data looms",
-   "url": "https://www.brecorder.com/news/40441738/dollar-holds-near-two-month-peak-as-yields-rise-fed-data-looms",
-   "source": "Business Recorder",
-   "published": "2026-09-29T02:55:08+00:00",
-   "summary": "HONG KONG: The dollar hovered near a two-month ​high on Tuesday as volatile oil prices and a rapid climb in Treasury yields lent support, although ‌gains were limited as traders awaited US data this week for clues on the Federal Reserve’s rate path. The euro traded near its weakest level in three months at $1.1367 afte…",
-   "image": "https://i.brecorder.com/large/2026/09/29075121e687ea8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wall St declines as oil spikes after Trump rejects Iran peace proposal",
-   "url": "https://www.brecorder.com/news/40441632/wall-st-declines-as-oil-spikes-after-trump-rejects-iran-peace-proposal",
-   "source": "Business Recorder",
-   "published": "2026-09-28T16:37:45+00:00",
-   "summary": "Wall Street’s main indexes fell on Monday after President Donald Trump rejected an Iranian proposal to end the conflict, leading to a spike in crude prices that revived inflation worries and drove Treasury yields higher. Limiting declines was Nvidia’s 2.1% gain after the chip giant announced a $150 billion share repurc…",
-   "image": "https://i.brecorder.com/large/2026/09/28213726126c65f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Food imports raise supply shock risk",
-   "url": "https://tribune.com.pk/story/2631948/food-imports-raise-supply-shock-risk",
+   "title": "Pakistan, IMF formally begin talks on EFF, climate programme reviews",
+   "url": "https://tribune.com.pk/story/2632048/pakistan-imf-formally-begin-talks-on-eff-climate-programme-reviews",
    "source": "The Express Tribune",
-   "published": "2026-09-28T15:49:33+00:00",
-   "summary": "FAO says climate change, geopolitical tensions, high prices threaten access to food",
+   "published": "2026-09-29T02:54:41+00:00",
+   "summary": "Talks could unlock $1.2b in financing including $1b under economic programme, $200b under climate facility",
    "image": null,
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -574,19 +614,6 @@
    "domestic": false
   },
   {
-   "title": "Rs16bn bank-funded remittance reward scheme unveiled",
-   "url": "https://www.dawn.com/news/2032695/rs16bn-bank-funded-remittance-reward-scheme-unveiled",
-   "source": "Dawn",
-   "published": "2026-09-25T23:59:12+00:00",
-   "summary": "• Rs4bn to be distributed among 2,521 winners in each quarterly draw • Each raffle to award Rs100m top prize; twenty Rs25m, 100 Rs10m and 2,400 Rs1m prizes • Beneficiaries receiving at least $100 in each of three months qualify automatically • First draw on Jan 15 next year for remittances received from Oct 1 to Dec 31…",
-   "image": "https://i.dawn.com/large/2026/09/26072934f0397ab.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "OICCI seeks capital, export push",
    "url": "https://tribune.com.pk/story/2631259/oicci-seeks-capital-export-push",
    "source": "The Express Tribune",
@@ -622,6 +649,32 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks fall as KSE-100 index loses over 825 points",
+   "url": "https://arynews.tv/psx-stocks-fall-as-kse-100-index-loses-over-825-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks fall as KSE-100 index loses over 825 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-29.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "FBR ‘warns of penalties’ for income tax filings after September 30",
+   "url": "https://arynews.tv/fbr-warns-of-penalties-for-income-tax-filings-after-september-30",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR ‘warns of penalties’ for income tax filings after September 30",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FBR-income-tax-returns-late-file.jpg",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
