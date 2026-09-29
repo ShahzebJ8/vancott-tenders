@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-28T21:36:59+00:00",
+ "generated": "2026-09-29T01:29:51+00:00",
  "count": 52,
- "relevant_count": 18,
- "domestic_count": 16,
+ "relevant_count": 20,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,58 @@
   "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "IHC issues notices in response to plea against closure of Motorway (M-1)",
+   "url": "https://www.brecorder.com/news/40441656/ihc-issues-notices-in-response-to-plea-against-closure-of-motorway-m-1",
+   "source": "Business Recorder",
+   "published": "2026-09-28T23:48:11+00:00",
+   "summary": "ISLAMABAD: The Islamabad High Court (IHC) issued notices in a petition filed against the closure of the Islamabad-Peshawar Motorway (M-1), seeking the court’s directions for reopening of the blocked routes for lawyers, litigants and emergency services. A single bench of Justice Muhammad Asif on Monday heard a petition …",
+   "image": "https://i.brecorder.com/large/2026/09/2901121330b8b93.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Punjab moves to modernise taxation system",
+   "url": "https://www.brecorder.com/news/40441658/punjab-moves-to-modernise-taxation-system",
+   "source": "Business Recorder",
+   "published": "2026-09-28T23:48:11+00:00",
+   "summary": "LAHORE: The Punjab government is set to overhaul its tax system through advanced digital tools as the Punjab Revenue Authority (PRA) and the World Bank agreed to expand the tax base and improve revenue collection. A World Bank delegation led by Regional Director Michael Roggi and Manager Sylvia Solf met PRA Chairman Mo…",
+   "image": "https://i.brecorder.com/large/2026/09/29011325fb57f30.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Polyethylene, polypropylene: Tariff cuts must reflect in export growth: expert",
+   "url": "https://www.brecorder.com/news/40441687/polyethylene-polypropylene-tariff-cuts-must-reflect-in-export-growth-expert",
+   "source": "Business Recorder",
+   "published": "2026-09-28T23:48:11+00:00",
+   "summary": "ISLAMABAD: The government’s policy of reducing tariffs on imported raw materials needs to be reviewed against actual export performance, as available trade data suggest that substantial tariff concessions on polyethylene (PE) and polypropylene (PP) have led to a much larger increase in imports than in downstream export…",
+   "image": "https://i.brecorder.com/large/2026/09/2901355037f79a9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan Cables recognised at Int’l Solar Technology Excellence Awards 2026",
+   "url": "https://www.brecorder.com/news/40441700/pakistan-cables-recognised-at-intl-solar-technology-excellence-awards-2026",
+   "source": "Business Recorder",
+   "published": "2026-09-28T23:48:11+00:00",
+   "summary": "LAHORE: Pakistan Cables Ltd has been recognized as the exclusive category winner for Solar DC Cables at the 3rd International Solar Technology Excellence Awards 2026, organized by Energy Updates, held recently in Lahore. The award was presented by Malik Faisal Ayub Khokhar, Provincial Minister for Energy Punjab to Qasi…",
+   "image": "https://i.brecorder.com/large/2026/09/290146272833db8.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan rupee gains against US dollar",
    "url": "https://www.brecorder.com/news/40441616/pakistan-rupee-gains-against-us-dollar",
@@ -223,14 +275,27 @@
    "domestic": true
   },
   {
-   "title": "Imran Haleem Shaikh to take charge as BankIslami President & CEO from Sept 29",
-   "url": "https://www.brecorder.com/news/40441607/imran-haleem-shaikh-to-take-charge-as-bankislami-president-amp-ceo-from-sept-29",
+   "title": "Bestway Cement Limited",
+   "url": "https://www.brecorder.com/news/40441703/bestway-cement-limited",
    "source": "Business Recorder",
-   "published": "2026-09-28T16:54:19+00:00",
-   "summary": "BankIslami Pakistan Limited has appointed its Deputy Chief Executive Officer Imran Haleem Shaikh as new President and Chief Executive Officer for a three-year term effective September 29, 2026. The bank informed the Pakistan Stock Exchange (PSX) in a notice on Monday. “Please be advised that Imran Haleem Shaikh will ta…",
-   "image": "https://i.brecorder.com/large/2026/09/28161746f292268.webp",
+   "published": "2026-09-29T01:24:21+00:00",
+   "summary": "Bestway Cement Limited (PSX: BWCL) was incorporated in Pakistan as a public limited company in 1993. The company is engaged in the manufacturing and sale of cement. BWCL is the subsidiary of Bestway International Holdings limited (BIHL) which holds 56.43 percent shares of BWCL. BICL is the subsidiary of Bestway Group L…",
+   "image": "https://i.brecorder.com/large/2026/09/29014906e723f4d.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSO in FY26–held back by a weaker last quarter",
+   "url": "https://www.brecorder.com/news/40441702/pso-in-fy26-held-back-by-a-weaker-last-quarter",
+   "source": "Business Recorder",
+   "published": "2026-09-29T01:20:48+00:00",
+   "summary": "Pakistan State Oil Company Limited’s (PSX: PSO) FY26 performance was mixed. The company remained operationally resilient through a volatile year, but weaker fuel volumes, lower LNG activity and heavy inventory losses in the final quarter pulled down earnings. Net sales declined 3 percent to Rs3.05 trillion, reflecting …",
+   "image": "https://i.brecorder.com/large/2026/09/29014748fa4c520.webp",
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -244,19 +309,6 @@
    "image": "https://i.brecorder.com/large/2026/09/28213726126c65f.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Aug industrial output jumps 8% as manufacturing output surges",
-   "url": "https://www.brecorder.com/news/40441619/indias-aug-industrial-output-jumps-8-as-manufacturing-output-surges",
-   "source": "Business Recorder",
-   "published": "2026-09-28T11:20:10+00:00",
-   "summary": "NEW DELHI: India’s industrial output grew at a stronger-than-expected pace of 8% in August, government data showed on Monday, boosted by a surge in manufacturing and electricity output even as mining output contracted. Economists polled by Reuters expected industrial output growth at 6.5% in August from a revised 7.4% …",
-   "image": "https://i.brecorder.com/large/2026/09/28161920561bfd3.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -276,32 +328,6 @@
    "domestic": false
   },
   {
-   "title": "China, US agree tariff cuts on $60bn of goods including agriculture, household items",
-   "url": "https://www.brecorder.com/news/40441617/china-us-agree-tariff-cuts-on-60bn-of-goods-including-agriculture-household-items",
-   "source": "Business Recorder",
-   "published": "2026-09-28T11:10:39+00:00",
-   "summary": "BEIJING: China and the United States have agreed to cut tariffs imposed on $60 billion worth of goods imported from each other, on an array of products ranging from US corn to cosmetics, and from Chinese household appliances to toys. Under the US-China Board of Trade, both countries have each recommended $30 billion of…",
-   "image": "https://i.brecorder.com/large/2026/09/28160749de9e31a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Russian oil supply to India tightens on reduced exports, strong Chinese demand",
-   "url": "https://www.brecorder.com/news/40441615/russian-oil-supply-to-india-tightens-on-reduced-exports-strong-chinese-demand",
-   "source": "Business Recorder",
-   "published": "2026-09-28T11:02:17+00:00",
-   "summary": "MOSCOW/NEW DELHI: Indian refiners expect Russian oil supplies to further tighten in October and November due to reduced exports and stiff competition from China, forcing the world’s third-largest crude importer to buy more costly alternatives for the rest of the year, four trade sources said. India has been the top buy…",
-   "image": "https://i.brecorder.com/large/2026/09/2816012670582ea.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian firms ready $3 billion of debt issues with eye on potential RBI rate hike",
    "url": "https://www.brecorder.com/news/40441612/indian-firms-ready-3-billion-of-debt-issues-with-eye-on-potential-rbi-rate-hike",
    "source": "Business Recorder",
@@ -316,19 +342,6 @@
    "domestic": false
   },
   {
-   "title": "FPCCI seeks one-month extension to the income tax return deadline",
-   "url": "https://www.brecorder.com/news/40441611/fpcci-seeks-one-month-extension-to-the-income-tax-return-deadline",
-   "source": "Business Recorder",
-   "published": "2026-09-28T10:51:32+00:00",
-   "summary": "Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), has formally urged the government and the Federal Board of Revenue (FBR) to extend the deadline for filing income tax returns by one month – moving the cutoff date to October 31, 2026 – to facilitate trade, industry, and…",
-   "image": "https://i.brecorder.com/large/2026/09/281550592223653.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Oil woes push Indian rupee to over one-week low, RBI caps fall near 96/USD",
    "url": "https://www.brecorder.com/news/40441610/oil-woes-push-indian-rupee-to-over-one-week-low-rbi-caps-fall-near-96usd",
    "source": "Business Recorder",
@@ -336,20 +349,6 @@
    "summary": "MUMBAI: The Indian rupee slipped to its weakest in more than a week on Monday as oil prices marched higher, dragging down regional stocks and currencies as investors fretted over the impact of high energy prices and geopolitical uncertainty. Dollar sales from state-run banks, most likely on behalf of the Reserve Bank o…",
    "image": "https://i.brecorder.com/large/2026/09/281546338f5c06f.webp",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Establish a gas market for boosting exports",
-   "url": "https://www.brecorder.com/news/40441606/establish-a-gas-market-for-boosting-exports",
-   "source": "Business Recorder",
-   "published": "2026-09-28T09:47:43+00:00",
-   "summary": "A functioning gas market would reward exploration at home and buy LNG abroad when its full delivered cost is competitive. Pakistan currently does neither. Pakistan’s gas debate is usually presented as a choice between indigenous gas and imported LNG. That framing hides the real problem: Pakistan does not yet have a mar…",
-   "image": "https://i.brecorder.com/large/2026/09/2814463054a7395.webp",
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
