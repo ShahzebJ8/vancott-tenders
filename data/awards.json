@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T14:16:41+00:00",
+ "generated": "2026-09-29T19:36:30+00:00",
  "count": 690,
  "with_value": 660,
  "with_winner": 260,
@@ -13133,6 +13133,82 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003844",
+   "tender_no": "TS0000012952E",
+   "reference": "P106297",
+   "title": "Hiring of Legal Firm on Retainership Basis Services Ministry of Energy (Power Division)",
+   "organisation": "Ministry of Energy (Power Division) Energy Infrastruture Development and Management Company (EIDMC) Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-30",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003844",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003843",
+   "tender_no": "TS0000011718E",
+   "reference": "PTA/ICT/P71333/2026",
+   "title": "Procurement of 20 Laptops for PTA, Islamabad Info and Comm Tech",
+   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
+   "bid_count": 7,
+   "lowest": [
+    "NECSOL PRIVATE LIMITED Cabinet Division"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-29",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003843",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003842",
+   "tender_no": "TS0000008721E",
+   "reference": "PTA/CW/381/2026",
+   "title": "Upgradation & Repair/Maintenance of Lifts installed in PTA HQ’s Building Civil Goods",
+   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "2376000 Cabinet Division"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-29",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003842",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003841",
+   "tender_no": "TS0000008721E",
+   "reference": "PTA/CW/381/2026",
+   "title": "Upgradation & Repair/Maintenance of Lifts installed in PTA HQ’s Building Civil Goods Cabinet Division",
+   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-29",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003841",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003840",
    "tender_no": "TS0000012580E",
@@ -52133,86 +52209,6 @@
    "city": "Abbottabad",
    "province": "Khyber Pakhtunkhwa",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001736",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001735",
-   "tender_no": "TS0000007148E",
-   "reference": "STG-17",
-   "title": "Procurement of Hardware Material for 132kV Grid and 132kV Transmission Line Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Shaheen Traders (T&D)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001735",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001734",
-   "tender_no": "TS0000007149E",
-   "reference": "STG-18",
-   "title": "Procurement of Control Cables and Power Cables (Lot-I & II) Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Fast Cables"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001734",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001733",
-   "tender_no": "TS0000007247E",
-   "reference": "STG-19",
-   "title": "Procurement of 132kV Circuit Breaker Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Siddique Sons Engineering (Pvt.) Ltd."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001733",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001732",
-   "tender_no": "TS0000007250E",
-   "reference": "STG-21",
-   "title": "Procurement of Control Panel (CP-30 & 50) Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "SkyPower"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001732",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

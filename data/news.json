@@ -1,15 +1,42 @@
 {
- "generated": "2026-09-29T14:16:47+00:00",
- "count": 54,
- "relevant_count": 24,
- "domestic_count": 18,
+ "generated": "2026-09-29T19:36:35+00:00",
+ "count": 53,
+ "relevant_count": 25,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (21)",
+  "Dawn": "ok (19)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Tax returns: Pakistan banks to extend working hours on Sept 30",
+   "url": "https://www.brecorder.com/news/40441816/tax-returns-pakistan-banks-to-extend-working-hours-on-sept-30",
+   "source": "Business Recorder",
+   "published": "2026-09-29T16:06:19+00:00",
+   "summary": "Commercial banks in Pakistan will keep all their branches open until 10:00pm on Wednesday, September 30, to facilitate over-the-counter (OTC) payment of government duties and taxes. According to a statement from the State Bank of Pakistan (SBP), the decision was taken at the request of the Federal Board of Revenue (FBR…",
+   "image": "https://i.brecorder.com/large/2026/09/2920562519b4a9b.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40441794/pakistan-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-29T15:33:57+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 277.12, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 277.15 against the dollar. Finance Minister Muhammad Aurangzeb held a …",
+   "image": "https://i.brecorder.com/large/2026/09/29154816ce05d91.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Finance minister kicks off talks with visiting IMF mission",
    "url": "https://www.dawn.com/news/2033493/finance-minister-kicks-off-talks-with-visiting-imf-mission",
@@ -19,32 +46,6 @@
    "image": "https://i.dawn.com/large/2026/09/291318159072692.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rupee secures gain against US dollar",
-   "url": "https://www.brecorder.com/news/40441794/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-29T10:50:56+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 277.12, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 277.15 against the dollar. Internationally , the US dollar hovered nea…",
-   "image": "https://i.brecorder.com/large/2026/09/29154816ce05d91.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistani fintech Abhi expands UAE footprint with NymCard partnership",
-   "url": "https://www.brecorder.com/news/40441787/pakistani-fintech-abhi-expands-uae-footprint-with-nymcard-partnership",
-   "source": "Business Recorder",
-   "published": "2026-09-29T09:23:04+00:00",
-   "summary": "Abhi, a Pakistani embedded finance platform and fintech company, and NymCard, a UAE-based payments infrastructure provider, on Tuesday announced a strategic partnership to enable financial institutions to deliver more efficient credit solutions to small and medium-sized enterprises (SMEs) in the UAE. According to a sta…",
-   "image": "https://i.brecorder.com/large/2026/09/29142215d060203.avif",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": true
@@ -183,19 +184,6 @@
    "domestic": true
   },
   {
-   "title": "Pakis­tan Stock Exchange posts modest gains on select buying",
-   "url": "https://www.dawn.com/news/2032671/pakistan-stock-exchange-posts-modest-gains-on-select-buying",
-   "source": "Dawn",
-   "published": "2026-09-26T02:38:26+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) eked out gains on Friday as investors hunted for value despite persistent geopolitical tensions. Meanwhile, before the formal start of the fourth review of the $7bn Extended Fund Facility (EFF) and the third review of the $1.4bn Resilience Support Facility (RSF), beginning on…",
-   "image": "https://i.dawn.com/large/2026/09/2603482295e1b95.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Hybrid vehicle prices slashed",
    "url": "https://www.dawn.com/news/2032673/hybrid-vehicle-prices-slashed",
    "source": "Dawn",
@@ -222,19 +210,6 @@
    "domestic": true
   },
   {
-   "title": "Short-term inflation surges on costly food, energy",
-   "url": "https://www.dawn.com/news/2032674/short-term-inflation-surges-on-costly-food-energy",
-   "source": "Dawn",
-   "published": "2026-09-25T23:59:34+00:00",
-   "summary": "ISLAMABAD: Short-term inflation, measured by the Sensitive Price Index (SPI), surged by 11.92 per cent year-on-year for the week ending Sept 24, mainly due to higher food prices, according to official data released on Friday. On a week-on-week basis, the index rose by 0.99pc, according to the Pakistan Bureau of Statist…",
-   "image": "https://i.dawn.com/large/2026/09/26034753488d606.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Punjab Revenue Authority, World Bank to introduce advanced systems to expand tax base",
    "url": "https://arynews.tv/punjab-revenue-authority-world-bank-to-introduce-advanced-systems-to-expand-tax-base",
    "source": "ARY News",
@@ -246,6 +221,58 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Saudi Arabia resumes Yanbu oil loading after pipeline restart",
+   "url": "https://www.dawn.com/news/2033575/saudi-arabia-resumes-yanbu-oil-loading-after-pipeline-restart",
+   "source": "Dawn",
+   "published": "2026-09-29T19:03:27+00:00",
+   "summary": "Saudi Arabia has resumed oil tanker loadings from its Red Sea port of Yanbu after restarting operations on the East-West Pipeline, according to trade sources and shipping data, improving the outlook for oil exports from the Middle East. The resumption of Yanbu loadings, halted earlier this month after a drone attack on…",
+   "image": "https://i.dawn.com/large/2026/09/30000055f5c9f39.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM Shehbaz inaugurates $3bn Eurobond in London",
+   "url": "https://www.brecorder.com/news/40441822/pm-shehbaz-inaugurates-3bn-eurobond-in-london",
+   "source": "Business Recorder",
+   "published": "2026-09-29T18:44:33+00:00",
+   "summary": "Prime Minister Muhammad Shehbaz Sharif became the first prime minister from Pakistan to open the London Stock Exchange (LSE) trading session, besides formally inaugurating Pakistan’s landmark $3 billion dual-tranche sovereign Eurobond. During his address at the LSE headquarters in Paternoster Square, the prime minister…",
+   "image": "https://i.brecorder.com/large/2026/09/2923414378dfe78.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Special tax scheme for small shopkeepers in 'initial implementation phase': FBR",
+   "url": "https://www.brecorder.com/news/40441818/special-tax-scheme-for-small-shopkeepers-in-initial-implementation-phase-fbr",
+   "source": "Business Recorder",
+   "published": "2026-09-29T16:55:34+00:00",
+   "summary": "The Federal Board of Revenue (FBR) said on Tuesday the special tax scheme for small shopkeepers was in its initial implementation stages, during which the board was actively working to facilitate traders and address any practical or technical issues arising out of the registration process. “The Government of Pakistan a…",
+   "image": "https://i.brecorder.com/large/2026/09/292154040e4fbc8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "CAREC corridors to connect Central Asia with global markets, says Ahsan Iqbal",
+   "url": "https://www.brecorder.com/news/40441817/carec-corridors-to-connect-central-asia-with-global-markets-says-ahsan-iqbal",
+   "source": "Business Recorder",
+   "published": "2026-09-29T16:32:16+00:00",
+   "summary": "Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal on Tuesday called for transforming CAREC transport routes into next-generation economic corridors by integrating infrastructure, logistics, digital connectivity, energy cooperation and climate resilience. Participating in a session of the 25…",
+   "image": "https://i.brecorder.com/large/2026/09/29212048d8fa26d.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Copper steadies as mine strike threat offsets dollar, oil strength",
@@ -430,45 +457,6 @@
    "domestic": false
   },
   {
-   "title": "Australian dollar gets limited support from well-flagged rate hike",
-   "url": "https://www.brecorder.com/news/40441751/australian-dollar-gets-limited-support-from-well-flagged-rate-hike",
-   "source": "Business Recorder",
-   "published": "2026-09-29T05:59:22+00:00",
-   "summary": "SYDNEY: The Australian dollar got only fleeting support on Tuesday after the country’s central bank lifted interest rates to a 15-year peak and indicated it was ready to do more if needed to curb stubborn inflation. Wrapping up its September board meeting, the Reserve Bank of Australia board voted unanimously to raise …",
-   "image": "https://i.brecorder.com/large/2026/09/29105846c3ce117.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan firms as exporters convert dollars before week-long holiday",
-   "url": "https://www.brecorder.com/news/40441750/yuan-firms-as-exporters-convert-dollars-before-week-long-holiday",
-   "source": "Business Recorder",
-   "published": "2026-09-29T05:57:18+00:00",
-   "summary": "SHANGHAI: The Chinese yuan strengthened against the US dollar on Tuesday , as exporters ramped up conversion of their dollar holdings into the local currency ahead of the National Day holiday, offsetting pressure from a firm greenback that hovered near a two-month high. The spot yuan opened at 6.7094 per dollar and was…",
-   "image": "https://i.brecorder.com/large/2026/09/29105651eae6aab.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan bond yields hold near multi-decade highs before 40-year auction",
-   "url": "https://www.brecorder.com/news/40441748/japan-bond-yields-hold-near-multi-decade-highs-before-40-year-auction",
-   "source": "Business Recorder",
-   "published": "2026-09-29T05:53:44+00:00",
-   "summary": "TOKYO: Japanese government bond (JGB) yields held near multi-decade highs on Tuesday as inflation pressures set the scene for an auction of the market’s longest-dated tenor. Here are a few details: The benchmark 10-year JGB yield rose 0.5 basis point (bp) to 3.090%, near the 30-year high of 3.115% touched last week. Yi…",
-   "image": "https://i.brecorder.com/large/2026/09/291053274af27a0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "FBR notifies procedures for scrutiny of sales tax returns",
    "url": "https://www.dawn.com/news/2033465/fbr-notifies-procedures-for-scrutiny-of-sales-tax-returns",
    "source": "Dawn",
@@ -601,19 +589,6 @@
    "domestic": false
   },
   {
-   "title": "Nearly 10,000 traders join Asan tax scheme in its first month: minister",
-   "url": "https://www.dawn.com/news/2032777/nearly-10000-traders-join-asan-tax-scheme-in-its-first-month-minister",
-   "source": "Dawn",
-   "published": "2026-09-26T02:15:32+00:00",
-   "summary": "https://www.dawn.com/news/2032675",
-   "image": "https://i.dawn.com/large/2026/09/26071208f9cfae3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "OICCI seeks capital, export push",
    "url": "https://tribune.com.pk/story/2631259/oicci-seeks-capital-export-push",
    "source": "The Express Tribune",
@@ -649,6 +624,32 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
+   "url": "https://arynews.tv/netlist-seeks-u-s-import-ban-on-micron-chips-used-in-google-nvidia-ai-computing",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Micron.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF raises concerns over agricultural income tax targets in Pakistan: sources",
+   "url": "https://arynews.tv/imf-raises-concerns-over-agricultural-income-tax-targets-in-pakistan-sources",
+   "source": "ARY News",
+   "published": null,
+   "summary": "IMF raises concerns over agricultural income tax targets in Pakistan: sources",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistan-IMF-gas-debt.jpg",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
@@ -703,19 +704,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "White House releases list of products US, China could tax less",
-   "url": "https://arynews.tv/white-house-releases-list-products-us-china-tax-less",
-   "source": "ARY News",
-   "published": null,
-   "summary": "White House releases list of products US, China could tax less",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/ARY-1200-x-675-px-2026-09-01T222003.675.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
