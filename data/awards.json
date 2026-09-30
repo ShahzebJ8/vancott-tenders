@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T15:37:23+00:00",
+ "generated": "2026-09-30T20:33:32+00:00",
  "count": 693,
  "with_value": 662,
  "with_winner": 262,
@@ -13190,6 +13190,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003873",
+   "tender_no": "TS0000012467E",
+   "reference": "GSD (PROC-I)/ 441135 / Services /Oracle Renewal/2026",
+   "title": "Renewal of Oracle Support Services for ERP, DWH, CBA and Advanced Security Info and Comm Tech State Bank of Pakistan (SBP)",
+   "organisation": "State Bank of Pakistan (SBP) State Bank of Pakistan - Karachi Karachi - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-09-30",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003873",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003872",
    "tender_no": "TS0000013121E",
@@ -52226,26 +52244,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001761",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001760",
-   "tender_no": "TS0000004789E",
-   "reference": "FCS/SDQ/TE/014/26",
-   "title": "Stone Crush Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "AM Enterprises Multan"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001760",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

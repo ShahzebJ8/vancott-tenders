@@ -1,15 +1,28 @@
 {
- "generated": "2026-09-30T15:37:28+00:00",
- "count": 59,
- "relevant_count": 32,
+ "generated": "2026-09-30T20:33:37+00:00",
+ "count": 60,
+ "relevant_count": 34,
  "domestic_count": 15,
  "sources": {
   "Dawn": "ok (19)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (12)",
+  "Business Recorder": "ok (14)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "ok (11)"
  },
  "stories": [
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40441989/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-30T16:10:16+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.11, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.12 against the dollar. Internationally, the US dollar stood near this year’s high v…",
+   "image": "https://i.brecorder.com/large/2026/09/301552436a071ba.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan assembles 18.66m mobile handsets in 8 months of 2026",
    "url": "https://www.brecorder.com/news/40441993/pakistan-assembles-1866m-mobile-handsets-in-8-months-of-2026",
@@ -30,19 +43,6 @@
    "published": "2026-09-30T11:39:07+00:00",
    "summary": "MUMBAI: State Bank of India, the country’s largest lender, led the demand for Reliance Industries’ 130-billion-rupee ($1.35 billion) 10-year debt sale completed on Wednesday, according to five sources familiar with the transaction. The state-run bank is estimated to have bought bonds worth nearly 50 billion rupees, or …",
    "image": "https://i.brecorder.com/large/2026/09/301638538e27901.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40441989/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-30T11:05:29+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.11, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.12 against the dollar. Internationally, the US dollar stood near this year’s high v…",
-   "image": "https://i.brecorder.com/large/2026/09/301552436a071ba.webp",
    "topics": [
     "Economy"
    ],
@@ -208,16 +208,42 @@
    "domestic": true
   },
   {
-   "title": "FBR dismisses 'fake' notification on extension of income tax filing deadline",
-   "url": "https://www.dawn.com/news/2033760/fbr-dismisses-fake-notification-on-extension-of-income-tax-filing-deadline",
+   "title": "FBR extends deadline for filing income tax returns to Oct 15",
+   "url": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15",
    "source": "Dawn",
-   "published": "2026-09-30T14:27:04+00:00",
-   "summary": "The Federal Board of Revenue (FBR) on Wednesday refuted a notification circulating in the media claiming that it had extended its deadline to file income tax returns for 2026, terming it “fake”. “No such circular has been issued by the FBR,” the board’s spokesperson said on X. A notification circulating on social media…",
+   "published": "2026-09-30T19:44:16+00:00",
+   "summary": "The Federal Board of Revenue (FBR) on Wednesday extended the cutoff date for filing income tax returns for 2026 to Oct 15, hours before the deadline was set to expire by the end of Sept 30. The notification posted on the FBR’s X account, said: “The Federal Board of Revenue is pleased to communicate that the date of fil…",
    "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FBR extends tax return filing deadline to October 15",
+   "url": "https://www.brecorder.com/news/40442017/fbr-extends-tax-return-filing-deadline-to-october-15",
+   "source": "Business Recorder",
+   "published": "2026-09-30T17:38:22+00:00",
+   "summary": "The Federal Board of Revenue (FBR) extended on Wednesday the deadline for filing income tax returns for tax year 2026 from September 30 to October 15. The extension will provide taxpayers additional two weeks to submit their income tax returns. The previous deadline for filing returns was September 30. “In exercise of …",
+   "image": "https://i.brecorder.com/large/2026/09/30221313e9d908e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+   "url": "https://www.brecorder.com/news/40442014/sampp-500-nasdaq-advance-as-soft-inflation-tempers-fed-rate-hike-bets",
+   "source": "Business Recorder",
+   "published": "2026-09-30T16:21:12+00:00",
+   "summary": "The Nasdaq jumped more than 1% on Wednesday, leading gains among Wall Street’s main indexes , as a softer-than-anticipated inflation reading buoyed hopes that the Federal Reserve might not hike rates as soon as next month. A Commerce Department report showed the Personal Consumption Expenditures (PCE) price index stood…",
+   "image": "https://i.brecorder.com/large/2026/09/3021205554dde98.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -460,20 +486,6 @@
    "domestic": false
   },
   {
-   "title": "Power sector may be allowed LNG import",
-   "url": "https://tribune.com.pk/story/2632137/power-sector-may-be-allowed-lng-import",
-   "source": "The Express Tribune",
-   "published": "2026-09-29T16:14:52+00:00",
-   "summary": "Govt mulls policy changes to allocate idle capacity of LNG terminals to power plants",
-   "image": null,
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Gold drops despite global rebound",
    "url": "https://tribune.com.pk/story/2632136/gold-drops-despite-global-rebound",
    "source": "The Express Tribune",
@@ -659,6 +671,19 @@
    "domestic": false
   },
   {
+   "title": "FBR extends income tax return filing deadline",
+   "url": "https://arynews.tv/fbr-extends-income-tax-return-filing-deadline",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR extends income tax return filing deadline",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Electricity per unit sales tax rates revised for steel sector",
    "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
    "source": "ARY News",
@@ -774,19 +799,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks fall as KSE-100 index loses over 825 points",
-   "url": "https://arynews.tv/psx-stocks-fall-as-kse-100-index-loses-over-825-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks fall as KSE-100 index loses over 825 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-29.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
