@@ -1,26 +1,52 @@
 {
- "generated": "2026-09-30T08:54:16+00:00",
- "count": 54,
- "relevant_count": 27,
- "domestic_count": 13,
+ "generated": "2026-09-30T15:37:28+00:00",
+ "count": 59,
+ "relevant_count": 32,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (18)",
-  "Business Recorder": "ok (15)",
+  "Dawn": "ok (19)",
+  "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (12)",
-  "ARY News": "ok (8)"
+  "ARY News": "ok (11)"
  },
  "stories": [
   {
-   "title": "Barrick seeks security improvements before full construction of Reko Diq",
-   "url": "https://www.brecorder.com/news/40441950/barrick-seeks-security-improvements-before-full-construction-of-reko-diq",
+   "title": "Pakistan assembles 18.66m mobile handsets in 8 months of 2026",
+   "url": "https://www.brecorder.com/news/40441993/pakistan-assembles-1866m-mobile-handsets-in-8-months-of-2026",
    "source": "Business Recorder",
-   "published": "2026-09-30T06:02:42+00:00",
-   "summary": "Barrick Mining Corporation, a leading global mining, exploration and development company, has slowed development of its Reko Diq copper-gold project in Balochistan, Pakistan and is reviewing its plans, saying improved security conditions are needed before it proceeds with a full construction schedule. “We are revisitin…",
-   "image": "https://i.brecorder.com/large/2026/09/30110101cc58807.webp",
+   "published": "2026-09-30T11:54:11+00:00",
+   "summary": "ISLAMABAD: The local assembling plants assembled 18.66 million mobile handsets during the first eight months of calendar year 2026 compared to 2.74 million imported commercially. Official data revealed that Pakistan assembled 134,501, 5G enabled mobile handsets during August 2026, compared to 553,079 during 20025. The …",
+   "image": "https://i.brecorder.com/large/2026/09/30164429e431d42.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "State Bank of India buys nearly 40% of Reliance's $1.35 billion debt sale",
+   "url": "https://www.brecorder.com/news/40441995/state-bank-of-india-buys-nearly-40-of-reliances-135-billion-debt-sale",
+   "source": "Business Recorder",
+   "published": "2026-09-30T11:39:07+00:00",
+   "summary": "MUMBAI: State Bank of India, the country’s largest lender, led the demand for Reliance Industries’ 130-billion-rupee ($1.35 billion) 10-year debt sale completed on Wednesday, according to five sources familiar with the transaction. The state-run bank is estimated to have bought bonds worth nearly 50 billion rupees, or …",
+   "image": "https://i.brecorder.com/large/2026/09/301638538e27901.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40441989/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-30T11:05:29+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.11, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.12 against the dollar. Internationally, the US dollar stood near this year’s high v…",
+   "image": "https://i.brecorder.com/large/2026/09/301552436a071ba.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -169,25 +195,130 @@
    "domestic": true
   },
   {
-   "title": "Punjab Revenue Authority, World Bank to introduce advanced systems to expand tax base",
-   "url": "https://arynews.tv/punjab-revenue-authority-world-bank-to-introduce-advanced-systems-to-expand-tax-base",
+   "title": "New rule for transfer of imported vehicles in Punjab",
+   "url": "https://arynews.tv/new-rule-for-transfer-of-imported-vehicles-in-punjab",
    "source": "ARY News",
    "published": null,
-   "summary": "Punjab Revenue Authority, World Bank to introduce advanced systems to expand tax base",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PRB.jpg",
+   "summary": "New rule for transfer of imported vehicles in Punjab",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Imported-cars.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR dismisses 'fake' notification on extension of income tax filing deadline",
+   "url": "https://www.dawn.com/news/2033760/fbr-dismisses-fake-notification-on-extension-of-income-tax-filing-deadline",
+   "source": "Dawn",
+   "published": "2026-09-30T14:27:04+00:00",
+   "summary": "The Federal Board of Revenue (FBR) on Wednesday refuted a notification circulating in the media claiming that it had extended its deadline to file income tax returns for 2026, terming it “fake”. “No such circular has been issued by the FBR,” the board’s spokesperson said on X. A notification circulating on social media…",
+   "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "PSX: Buying at bourse, KSE-100 up over 1,200 points",
-   "url": "https://www.brecorder.com/news/40441945/psx-buying-at-bourse-kse-100-up-over-1200-points",
+   "title": "FBR uncovers Rs9.41bn wealth statement fraud, registers money laundering case",
+   "url": "https://www.brecorder.com/news/40442007/fbr-uncovers-rs941bn-wealth-statement-fraud-registers-money-laundering-case",
    "source": "Business Recorder",
-   "published": "2026-09-30T08:25:55+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,200 points during trading on Wednesday. At 1:20pm, the benchmark index was hovering at 170,808.28, up by 1,207.88 points or 0.71%. Buying was observed in key sectors, including automobile assemblers, cemen…",
-   "image": "https://i.brecorder.com/large/2026/09/30100221e408b29.webp",
+   "published": "2026-09-30T14:07:56+00:00",
+   "summary": "The Federal Board of Revenue (FBR) has uncovered a fraud involving the illegal revision of wealth statements to incorporate unexplained assets worth Rs9.41 billion, registering a criminal case under the Anti-Money Laundering Act, 2010. The fraud was detected by the Directorate General of Intelligence and Investigation …",
+   "image": "https://i.brecorder.com/large/2026/09/30190705cd547b2.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "RBI's FX forward book tipped to shrink after touching $200 billion",
+   "url": "https://www.brecorder.com/news/40442001/rbis-fx-forward-book-tipped-to-shrink-after-touching-200-billion",
+   "source": "Business Recorder",
+   "published": "2026-09-30T12:42:31+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India’s net forward dollar liabilities ballooned to a record $200 billion in August, per data released on Wednesday, as the central bank absorbed a surge in one-off policy-induced dollar inflows. Forward liabilities rose $63 billion month-on-month in August after hitting a record high of nea…",
+   "image": "https://i.brecorder.com/large/2026/09/301737243f3a488.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lankan shares finish nearly flat after previous session's fall",
+   "url": "https://www.brecorder.com/news/40442000/sri-lankan-shares-finish-nearly-flat-after-previous-sessions-fall",
+   "source": "Business Recorder",
+   "published": "2026-09-30T12:22:54+00:00",
+   "summary": "Sri Lankan shares ended little changed on Wednesday, after falling in the previous session. The CSE All Share index edged down 0.02% at 20,812.93. Sri Lanka’s central bank kept its key policy rate unchanged at 8.75% on Wednesday. Separately, the Colombo Consumer Price Index rose 8% year-on-year in September, following …",
+   "image": "https://i.brecorder.com/large/2026/09/30172224e23738b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IGI Holdings acquires Akzo Nobel",
+   "url": "https://www.brecorder.com/news/40441998/igi-holdings-acquires-akzo-nobel",
+   "source": "Business Recorder",
+   "published": "2026-09-30T11:50:48+00:00",
+   "summary": "IGI Investments (Private) Limited, a wholly owned subsidiary of IGI Holdings Limited, has completed the acquisition of a 98.31% stake in Akzo Nobel Pakistan Limited for Rs15.25 billion. IGI Holdings disclosed this in a filing to the Pakistan Stock Exchange (PSX) on Wednesday. “Further to the execution of the Share Purc…",
+   "image": "https://i.brecorder.com/large/2026/09/30165016829580e.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Circular about tax returns extension is fake, FBR clarifies",
+   "url": "https://www.brecorder.com/news/40441996/circular-about-tax-returns-extension-is-fake-fbr-clarifies",
+   "source": "Business Recorder",
+   "published": "2026-09-30T11:43:00+00:00",
+   "summary": "The Federal Board of Revenue (FBR) on Tuesday dismissed as fake a circular circulating on social media regarding the extension of the deadline for filing income tax returns for tax year 2026. “The circular circulating in the media regarding the extension of the date for submitting income tax returns for the tax year 20…",
+   "image": "https://i.brecorder.com/large/2026/09/301642095b5a989.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows",
+   "url": "https://www.brecorder.com/news/40441987/india-benchmark-shares-log-worst-month-since-march-as-oil-global-rate-hikes-spark-outflows",
+   "source": "Business Recorder",
+   "published": "2026-09-30T10:46:25+00:00",
+   "summary": "Indian equity benchmarks logged their steepest monthly drop since March, while the rupee and the benchmark bond lost ground, as foreign investors fled risky assets after soaring oil prices kept inflation worries centre stage and global central banks hiked interest rates. The US Federal Reserve raised its key interest r…",
+   "image": "https://i.brecorder.com/large/2026/09/301546166301067.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's sunflower oil imports seen up 30% on duty cut, industry official says",
+   "url": "https://www.brecorder.com/news/40441984/indias-sunflower-oil-imports-seen-up-30-on-duty-cut-industry-official-says",
+   "source": "Business Recorder",
+   "published": "2026-09-30T10:38:32+00:00",
+   "summary": "MUMBAI: India’s sunflower oil imports are likely to rise 30% in the 2026/27 marketing year to 3.5 million metric tons, as a cut in import duties has lowered prices and boosted demand, the head of a leading industry body told Reuters on Wednesday. The surge in sunflower oil imports is expected to reduce soyoil purchases…",
+   "image": "https://i.brecorder.com/large/2026/09/30153635af703a8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee lingers around bottom of Asia FX pile as global headwinds deepen",
+   "url": "https://www.brecorder.com/news/40441983/indian-rupee-lingers-around-bottom-of-asia-fx-pile-as-global-headwinds-deepen",
+   "source": "Business Recorder",
+   "published": "2026-09-30T10:29:02+00:00",
+   "summary": "MUMBAI: The Indian rupee was among the worst performers in Asia this quarter and over the last 30 days, hit by worries over elevated crude prices and surging global bond yields that added to headwinds for local assets. The currency declined 0.7% on the month and 1.2% in the July-September quarter, averting steeper loss…",
+   "image": "https://i.brecorder.com/large/2026/09/301528541c0f951.webp",
    "topics": [
     "Economy"
    ],
@@ -274,107 +405,18 @@
    "domestic": false
   },
   {
-   "title": "Australian dollar hits 9-week low, rounds out a rough month",
-   "url": "https://www.brecorder.com/news/40441952/australian-dollar-hits-9-week-low-rounds-out-a-rough-month",
-   "source": "Business Recorder",
-   "published": "2026-09-30T06:23:14+00:00",
-   "summary": "SYDNEY: The Australian dollar slipped to a nine-week low on Wednesday as inflation data came in just under forecasts and led markets to lengthen the odds on another rate hike, at least in the near term. The miss was marginal but gave speculators an excuse to keep selling the currency after three straight weeks of falls…",
-   "image": "https://i.brecorder.com/large/2026/09/30112306a647db4.webp",
+   "title": "PSX surrenders early gains, closes 369 points higher",
+   "url": "https://tribune.com.pk/story/2632231/psx-gains-over-1600-points-as-imf-talks-lift-sentiment",
+   "source": "The Express Tribune",
+   "published": "2026-09-30T03:04:27+00:00",
+   "summary": "KSE-100 settles near 170,000 as IMF talks, bond-market reforms, proposed direct LNG imports fuel investor optimism",
+   "image": null,
    "topics": [
+    "Budget & spending",
+    "Energy & power",
     "Economy"
    ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares edge higher, head for worst month in six; inflation data in focus",
-   "url": "https://www.brecorder.com/news/40441951/australian-shares-edge-higher-head-for-worst-month-in-six-inflation-data-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-09-30T06:21:53+00:00",
-   "summary": "Australian shares edged up on Wednesday but were headed for their worst monthly decline in six months as investors stayed on the sidelines ahead of domestic inflation data due later in the day. The S&P/ASX 200 index rose 0.1% to 8,718.1 points as of 0006 GMT. However, the benchmark was on track for its worst month sinc…",
-   "image": "https://i.brecorder.com/large/2026/09/30112116de6ee08.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold on track for monthly decline as investors brace for US inflation data",
-   "url": "https://www.brecorder.com/news/40441949/gold-on-track-for-monthly-decline-as-investors-brace-for-us-inflation-data",
-   "source": "Business Recorder",
-   "published": "2026-09-30T05:40:47+00:00",
-   "summary": "Gold prices steadied on Wednesday but were headed for a monthly loss as expectations of higher interest rates weighed on sentiment, while investors awaited US inflation data for clues on the Federal Reserve’s next policy move. Spot gold was little changed at $4,180.30 per ounce, as of 0435 GMT, but has lost 6% so far t…",
-   "image": "https://i.brecorder.com/large/2026/09/3010392113de781.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian central bank likely intervenes to support Indian rupee near 96/USD mark, traders say",
-   "url": "https://www.brecorder.com/news/40441946/indian-central-bank-likely-intervenes-to-support-indian-rupee-near-96usd-mark-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-09-30T05:24:37+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Wednesday, four traders told Reuters, signalling that the central bank intends to keep up its support for the currency amid a volatile global backdrop. The Indian rupee was last quoted at 95.97 per dollar, little changed on the day. S…",
-   "image": "https://i.brecorder.com/large/2026/09/301024282c8316f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Lower Fed hike odds, oil dip lend RBI hand in supporting Indian rupee",
-   "url": "https://www.brecorder.com/news/40441942/lower-fed-hike-odds-oil-dip-lend-rbi-hand-in-supporting-indian-rupee",
-   "source": "Business Recorder",
-   "published": "2026-09-30T03:22:47+00:00",
-   "summary": "MUMBAI: The Indian rupee faces a less challenging backdrop on Wednesday , after a fall in US rate-hike expectations and slightly ​softer oil tempered pressure on a currency that has needed ‌regular central bank support. The Indian rupee is expected to open at 95.94-95.99 per dollar, according to traders after closing T…",
-   "image": "https://i.brecorder.com/large/2026/09/30082152eafbdb1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bonds set for bruising September; stocks fare better",
-   "url": "https://www.brecorder.com/news/40441941/bonds-set-for-bruising-september-stocks-fare-better",
-   "source": "Business Recorder",
-   "published": "2026-09-30T03:18:24+00:00",
-   "summary": "SINGAPORE: Global bonds wobbled on Wednesday and were set for their worst month in years, hit by a toxic mix of ​deteriorating government finances, a glut of issuances and rising inflation as the seven-month-old US-Israeli war on Iran keeps energy costs elevated. Meanwhile, stocks fared ‌better, largely unfazed by the …",
-   "image": "https://i.brecorder.com/large/2026/09/30081759738516a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares likely to rise as oil comes off; BSE joins Nifty",
-   "url": "https://www.brecorder.com/news/40441940/indian-shares-likely-to-rise-as-oil-comes-off-bse-joins-nifty",
-   "source": "Business Recorder",
-   "published": "2026-09-30T03:06:47+00:00",
-   "summary": "Indian shares were expected to open marginally higher on Wednesday as signs of recovering exports from the Middle East eased crude oil ​prices , even as the absence of a peace deal between ‌the US and Iran kept investors on tenterhooks. GIFT Nifty futures were at 22,834 points as of 7:46 a.m. IST, indicating a positive…",
-   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar set for September rise, mainly at euro's expense",
-   "url": "https://www.brecorder.com/news/40441939/dollar-set-for-september-rise-mainly-at-euros-expense",
-   "source": "Business Recorder",
-   "published": "2026-09-30T03:02:36+00:00",
-   "summary": "SINGAPORE: The dollar stood near this year’s high versus the euro on Wednesday and was poised for the largest monthly rise against it ​for 14 months, powered by US growth and rising US interest rates in contrast to the energy and debt ‌worriesswirling in Europe. Overnight, the euro dipped to its lowest since May 2025, …",
-   "image": "https://i.brecorder.com/large/2026/09/30080140ce05d91.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -429,19 +471,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF asks for SOE law changes before board meeting",
-   "url": "https://tribune.com.pk/story/2632130/imf-asks-for-soe-law-changes-before-board-meeting",
-   "source": "The Express Tribune",
-   "published": "2026-09-29T16:14:52+00:00",
-   "summary": "Voices concern over delay in amendments to half a dozen laws",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -630,6 +659,72 @@
    "domestic": false
   },
   {
+   "title": "Electricity per unit sales tax rates revised for steel sector",
+   "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Electricity per unit sales tax rates revised for steel sector",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Steel.jpg",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks end higher as KSE-100 index gains over 368 points",
+   "url": "https://arynews.tv/psx-stocks-end-higher-as-kse-100-index-gains-over-368-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks end higher as KSE-100 index gains over 368 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-39.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Commercial banks to remain open until 10 pm today for tax return submissions",
+   "url": "https://arynews.tv/commercial-banks-to-remain-open-until-10-pm-today-for-tax-return-submissions",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Commercial banks to remain open until 10 pm today for tax return submissions",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Income-Tax-Returns.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FPCCI demands FBR to extend income tax filing deadline to October 31",
+   "url": "https://arynews.tv/fpcci-demands-fbr-to-extend-income-tax-filing-deadline-to-october-31",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FPCCI demands FBR to extend income tax filing deadline to October 31",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FPCCI.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Income tax filing deadline ends today across Pakistan",
+   "url": "https://arynews.tv/income-tax-filing-deadline-ends-today-across-pakistan",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Income tax filing deadline ends today across Pakistan",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Income-tax-returns-deadline-Pakistan.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Monitoring system mandatory: FBR Details sealing and desealing protocols for Businesses",
    "url": "https://arynews.tv/monitoring-system-mandatory-fbr-details-sealing-and-desealing-protocols-for-businesses",
    "source": "ARY News",
@@ -690,32 +785,6 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-29.jpg",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR ‘warns of penalties’ for income tax filings after September 30",
-   "url": "https://arynews.tv/fbr-warns-of-penalties-for-income-tax-filings-after-september-30",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR ‘warns of penalties’ for income tax filings after September 30",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FBR-income-tax-returns-late-file.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan govt ‘plans’ uniform gas tariff from July 2027",
-   "url": "https://arynews.tv/pakistan-govt-plans-uniform-gas-tariff-from-july-2027",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan govt ‘plans’ uniform gas tariff from July 2027",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Pakistan-gas-tariff-IMF.jpg",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
