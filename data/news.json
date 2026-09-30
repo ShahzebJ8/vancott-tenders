@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T23:27:45+00:00",
- "count": 53,
- "relevant_count": 25,
- "domestic_count": 16,
+ "generated": "2026-09-30T02:19:43+00:00",
+ "count": 57,
+ "relevant_count": 28,
+ "domestic_count": 22,
  "sources": {
   "Dawn": "ok (19)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,84 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Modalities for export of 20,000 MT surplus sugar approved",
+   "url": "https://www.brecorder.com/news/40441918/modalities-for-export-of-20000-mt-surplus-sugar-approved",
+   "source": "Business Recorder",
+   "published": "2026-09-30T00:56:26+00:00",
+   "summary": "ISLAMABAD: The government on Tuesday approved modalities for the export of 200,000 metric tonnes of surplus sugar and constituted a monitoring committee to regularly monitor domestic sugar prices, while directing the concerned ministries to expedite the process. Deputy Prime Minister/Foreign Minister Senator (DPM/FM) M…",
+   "image": "https://i.brecorder.com/large/2026/09/300556007a006ab.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Syed Zia Alamdar elected PHMA Chairman",
+   "url": "https://www.brecorder.com/news/40441865/syed-zia-alamdar-elected-phma-chairman",
+   "source": "Business Recorder",
+   "published": "2026-09-30T00:49:24+00:00",
+   "summary": "KARACHI: The Pakistan Hosiery Manufacturers & Exporters Association (PHMA) on Tuesday elected Syed Zia Alamdar Hussain as Chairman for the 2026-28 term, along with other office-bearers and members of its Executive Committee. The election results were announced at the association’s Annual General Meeting, with Abdul Jab…",
+   "image": "https://i.brecorder.com/large/2026/09/30014941e5a283c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Punjab mulling participation in 400MW wheeling auction",
+   "url": "https://www.brecorder.com/news/40441870/punjab-mulling-participation-in-400mw-wheeling-auction",
+   "source": "Business Recorder",
+   "published": "2026-09-30T00:49:24+00:00",
+   "summary": "LAHORE: The Punjab government is considering participation in Pakistan’s first 400-MegaWatt (MW) electricity wheeling auction as part of a broader strategy to introduce open access and promote a more competitive electricity market in the province. The matter was discussed at a meeting chaired by Punjab Energy Minister …",
+   "image": "https://i.brecorder.com/large/2026/09/3002242526dc6e1.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "International markets: Pakistani rice must command premium value: Gilani",
+   "url": "https://www.brecorder.com/news/40441871/international-markets-pakistani-rice-must-command-premium-value-gilani",
+   "source": "Business Recorder",
+   "published": "2026-09-30T00:49:24+00:00",
+   "summary": "KARACHI: Senate Chairman Syed Yousaf Raza Gilani has called for a strategic transformation of Pakistan’s agriculture sector, shifting the focus from expanding production volumes to quality-driven, high-value and export-oriented production. Speaking as the Chief Guest at the Rice Exporters Association of Pakistan (REAP)…",
+   "image": "https://i.brecorder.com/large/2026/09/30022452a640100.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR urged to extend income tax return filing deadline",
+   "url": "https://www.brecorder.com/news/40441873/fbr-urged-to-extend-income-tax-return-filing-deadline",
+   "source": "Business Recorder",
+   "published": "2026-09-30T00:49:24+00:00",
+   "summary": "KARACHI: The Pakistan Chemicals & Dyes Merchants Association (PCDMA) has urged the Federal Board of Revenue (FBR) to extend the deadline for filing Income Tax Returns for the tax period ending September 30, 2026, by one month, citing persistent malfunctioning and instability of the IRIS portal. In a letter addressed to…",
+   "image": "https://i.brecorder.com/large/2026/09/300226145b5a989.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Customs declaration, classification processes: PAC directs officials to conduct performance audit",
+   "url": "https://www.brecorder.com/news/40441877/customs-declaration-classification-processes-pac-directs-officials-to-conduct-performance-audit",
+   "source": "Business Recorder",
+   "published": "2026-09-30T00:49:24+00:00",
+   "summary": "ISLAMABAD: Expressing concern over unresolved recovery issues at the Federal Board of Revenue (FBR), a subcommittee of the Public Accounts Committee (PAC) directed audit officials to conduct a performance audit of Customs declaration and classification processes. The subcommittee, chaired by Syed Naveed Qamar, reviewed…",
+   "image": "https://i.brecorder.com/large/2026/09/30022858472d50f.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Tax returns: Pakistan banks to extend working hours on Sept 30",
    "url": "https://www.brecorder.com/news/40441816/tax-returns-pakistan-banks-to-extend-working-hours-on-sept-30",
@@ -223,12 +301,25 @@
    "domestic": true
   },
   {
-   "title": "Saudi Arabia resumes Yanbu oil loading after pipeline restart",
-   "url": "https://www.dawn.com/news/2033575/saudi-arabia-resumes-yanbu-oil-loading-after-pipeline-restart",
-   "source": "Dawn",
-   "published": "2026-09-29T19:03:27+00:00",
-   "summary": "Saudi Arabia has resumed oil tanker loadings from its Red Sea port of Yanbu after restarting operations on the East-West Pipeline, according to trade sources and shipping data, improving the outlook for oil exports from the Middle East. The resumption of Yanbu loadings, halted earlier this month after a drone attack on…",
-   "image": "https://i.dawn.com/large/2026/09/30000055f5c9f39.webp",
+   "title": "US sanctions 10 over procuring weapons for Iran",
+   "url": "https://www.brecorder.com/news/40441907/us-sanctions-10-over-procuring-weapons-for-iran",
+   "source": "Business Recorder",
+   "published": "2026-09-30T02:16:59+00:00",
+   "summary": "WASHINGTON: The United States has sanctioned 10 individuals and entities, including some based in China, Hong Kong and Pakistan, saying they helped Iran procure weapons and components, the US Treasury Department said Tuesday. The sanctions are part of the Trump administration’s effort to isolate Iran economically and f…",
+   "image": "https://i.brecorder.com/large/2026/09/300716499ac6390.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices settle down 2.5pc",
+   "url": "https://www.brecorder.com/news/40441906/oil-prices-settle-down-25pc",
+   "source": "Business Recorder",
+   "published": "2026-09-30T02:03:01+00:00",
+   "summary": "HOUSTON: Oil prices settled 2.5 percent lower on Tuesday as investors focused on signs of recovering crude exports from the Middle East, although prices headed for monthly gains on lingering concern about supply disruptions during the US-Israeli war on Iran. Brent crude futures closed down USD2.69, or 2.6 percent, at U…",
+   "image": "https://i.brecorder.com/large/2026/09/300703359badf81.webp",
    "topics": [
     "Economy"
    ],
@@ -236,12 +327,12 @@
    "domestic": false
   },
   {
-   "title": "PM Shehbaz inaugurates $3bn Eurobond in London",
-   "url": "https://www.brecorder.com/news/40441822/pm-shehbaz-inaugurates-3bn-eurobond-in-london",
-   "source": "Business Recorder",
-   "published": "2026-09-29T18:44:33+00:00",
-   "summary": "Prime Minister Muhammad Shehbaz Sharif became the first prime minister from Pakistan to open the London Stock Exchange (LSE) trading session, besides formally inaugurating Pakistan’s landmark $3 billion dual-tranche sovereign Eurobond. During his address at the LSE headquarters in Paternoster Square, the prime minister…",
-   "image": "https://i.brecorder.com/large/2026/09/2923414378dfe78.webp",
+   "title": "Saudi Arabia resumes Yanbu oil loading after pipeline restart",
+   "url": "https://www.dawn.com/news/2033575/saudi-arabia-resumes-yanbu-oil-loading-after-pipeline-restart",
+   "source": "Dawn",
+   "published": "2026-09-29T19:03:27+00:00",
+   "summary": "Saudi Arabia has resumed oil tanker loadings from its Red Sea port of Yanbu after restarting operations on the East-West Pipeline, according to trade sources and shipping data, improving the outlook for oil exports from the Middle East. The resumption of Yanbu loadings, halted earlier this month after a drone attack on…",
+   "image": "https://i.dawn.com/large/2026/09/30000055f5c9f39.webp",
    "topics": [
     "Economy"
    ],
@@ -301,51 +392,12 @@
    "domestic": false
   },
   {
-   "title": "India's SP Group arm taps dollar debt to meet another unit's dues",
-   "url": "https://www.brecorder.com/news/40441802/indias-sp-group-arm-taps-dollar-debt-to-meet-another-units-dues",
-   "source": "Business Recorder",
-   "published": "2026-09-29T13:15:48+00:00",
-   "summary": "MUMBAI: An unit of India’s Shapoorji Pallonji Group, Mercury Finance, is raising $125 million through the reissue of a U.S. dollar bond maturing in nearly three years, three sources aware of the matter said on Tuesday. Mercury Finance will raise the funds by reopening its zero-coupon dollar bonds due July 2029, with th…",
-   "image": "https://i.brecorder.com/large/2026/09/291815039c5fd97.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Sun Pharma plans $1 billion local debt sale for loan takeout, sources say",
-   "url": "https://www.brecorder.com/news/40441799/indias-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-29T11:46:36+00:00",
-   "summary": "MUMBAI: India’s Sun Pharmaceutical Industries is planning to raise around 100 billion rupees ($1.04 billion) via a rupee-denominated debt sale to partly fund a bridge loan it took to acquire US healthcare firm Organon & Co., three sources said on Tuesday. Bridge loans are typically short-term loans taken before acquisi…",
-   "image": "https://i.brecorder.com/large/2026/09/29164620294fe19.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian rupee ends nearly flat as traders remain glued to oil moves, RBI caps fall",
    "url": "https://www.brecorder.com/news/40441798/indian-rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall",
    "source": "Business Recorder",
    "published": "2026-09-29T11:35:17+00:00",
    "summary": "MUMBAI: The Indian rupee closed nearly unchanged on Tuesday after hitting a two-month low earlier in the session as crude oil prices continued to dictate the currency’s momentum while likely central bank intervention limited weakness. The Indian rupee had declined 0.2% to 96.1475 in early trading but trimmed losses to …",
    "image": "https://i.brecorder.com/large/2026/09/29163503f504125.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Three debt instruments worth Rs27.8bn listed on PSX in 1QFY27",
-   "url": "https://www.brecorder.com/news/40441792/three-debt-instruments-worth-rs278bn-listed-on-psx-in-1qfy27",
-   "source": "Business Recorder",
-   "published": "2026-09-29T10:35:40+00:00",
-   "summary": "Three new debt instruments worth Rs27.8 billion (approx. $100.34 million) were listed at the Pakistan Stock Exchange’s (PSX) debt market during the first quarter of FY26-27 across banking and corporate issuers. “Faysal Bank Limited listed Rs7 billion in Rated, Unsecured, Subordinated Sukuk (FABLSC); Bank Alfalah Limite…",
-   "image": "https://i.brecorder.com/large/2026/09/29153508ce57abb.webp",
    "topics": [
     "Economy"
    ],
