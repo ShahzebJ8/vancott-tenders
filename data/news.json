@@ -1,22 +1,22 @@
 {
- "generated": "2026-10-01T06:24:08+00:00",
- "count": 62,
- "relevant_count": 28,
- "domestic_count": 18,
+ "generated": "2026-10-01T13:46:00+00:00",
+ "count": 65,
+ "relevant_count": 29,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (19)",
-  "Business Recorder": "ok (19)",
+  "Business Recorder": "ok (20)",
   "The Express Tribune": "ok (12)",
-  "ARY News": "ok (10)"
+  "ARY News": "ok (12)"
  },
  "stories": [
   {
-   "title": "Pakistan explores PNSC container vessel to support exporters",
-   "url": "https://www.brecorder.com/news/40442144/pakistan-explores-pnsc-container-vessel-to-support-exporters",
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40442175/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-01T06:02:16+00:00",
-   "summary": "Pakistan National Shipping Corporation (PNSC) may lease or purchase a container vessel to facilitate Pakistani exporters and reduce shipping costs, provided sufficient cargo volumes can be secured to make the operation commercially viable, Maritime Affairs Minister Muhammad Junaid Anwar Chaudhry said. The development c…",
-   "image": "https://i.brecorder.com/large/2026/10/011101042595ddf.webp",
+   "published": "2026-10-01T12:07:19+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.10, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.11 against the dollar. Internationally, the US dollar held near a two-month high o…",
+   "image": "https://i.brecorder.com/large/2026/10/01154224ce05d91.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,12 @@
    "domestic": true
   },
   {
-   "title": "PM Shehbaz urges exporters to deliver",
-   "url": "https://www.brecorder.com/news/40442133/pm-shehbaz-urges-exporters-to-deliver",
-   "source": "Business Recorder",
-   "published": "2026-10-01T05:46:25+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday said that the government remains committed to achieving export-led, sustainable economic growth following the stabilisation of the economy. In a virtual address at the Pakistan Stock Exchange (PSX) in Karachi, the prime minister criticised some export-oriented industries for re…",
-   "image": "https://i.brecorder.com/large/2026/10/01103731985cb7c.webp",
+   "title": "Consumer inflation eases to 10.3pc in September from 11.1pc in August, official data shows",
+   "url": "https://www.dawn.com/news/2033980/consumer-inflation-eases-to-103pc-in-september-from-111pc-in-august-official-data-shows",
+   "source": "Dawn",
+   "published": "2026-10-01T10:49:11+00:00",
+   "summary": "ISLAMABAD: Consumer inflation eased to 10.3 per cent in September from 11.1pc a month earlier, mainly due to a sharp slowdown in food inflation, the Pakistan Bureau of Statistics said on Thursday. The slight deceleration in the inflation rate, measured by the Consumer Price Index, reversed the sharp increase recorded i…",
+   "image": "https://i.dawn.com/large/2026/10/011523390d2aa02.webp",
    "topics": [
     "Economy"
    ],
@@ -87,45 +87,6 @@
     "Energy & power"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan, China entering new phase of CPEC: PM",
-   "url": "https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm",
-   "source": "Business Recorder",
-   "published": "2026-10-01T01:59:23+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif said on Wednesday that Pakistan and China are entering a new phase of the China-Pakistan Economic Corridor (CPEC), shifting the focus to industrialisation, special economic zones, IT and artificial intelligence, agriculture, and mining and minerals. Speaking at a function in con…",
-   "image": "https://i.brecorder.com/large/2026/10/01065903e22777e.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40441989/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-09-30T16:10:16+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.11, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.12 against the dollar. Internationally, the US dollar stood near this year’s high v…",
-   "image": "https://i.brecorder.com/large/2026/09/301552436a071ba.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "State Bank of India buys nearly 40% of Reliance's $1.35 billion debt sale",
-   "url": "https://www.brecorder.com/news/40441995/state-bank-of-india-buys-nearly-40-of-reliances-135-billion-debt-sale",
-   "source": "Business Recorder",
-   "published": "2026-09-30T11:39:07+00:00",
-   "summary": "MUMBAI: State Bank of India, the country’s largest lender, led the demand for Reliance Industries’ 130-billion-rupee ($1.35 billion) 10-year debt sale completed on Wednesday, according to five sources familiar with the transaction. The state-run bank is estimated to have bought bonds worth nearly 50 billion rupees, or …",
-   "image": "https://i.brecorder.com/large/2026/09/301638538e27901.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -247,6 +208,242 @@
    "domestic": true
   },
   {
+   "title": "Asia rice: Indian rice export prices rise to over one-year high on firm demand, production concerns",
+   "url": "https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns",
+   "source": "Business Recorder",
+   "published": "2026-10-01T12:39:34+00:00",
+   "summary": "Indian rice export prices were at an over one-year high this week, driven by improving demand and concerns over production due to flooding in rice-growing areas after a dry spell. India’s 5% broken parboiled variety was quoted at $378-$384 per ton this week, its highest since July 2025, and up from last week’s $375-$38…",
+   "image": "https://i.brecorder.com/large/2026/10/011739146e4982b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices rise 2% as China suspends fuel exports",
+   "url": "https://www.brecorder.com/news/40442119/oil-prices-rise-2-as-china-suspends-fuel-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-01T12:15:13+00:00",
+   "summary": "LONDON: Oil prices rose around 2% on Thursday after China suspended oil products exports, potentially tightening fuel markets already coping with supply shortages globally, while investors continued to assess renewed diplomatic efforts to end the US-Iran war . The new front-month December Brent crude futures contract t…",
+   "image": "https://i.brecorder.com/large/2026/10/010752595ed5e1a.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US tells France and Germany to release diesel stocks or face US export ban, sources say",
+   "url": "https://www.brecorder.com/news/40442182/us-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-10-01T12:05:43+00:00",
+   "summary": "WASHINGTON/BRUSSELS/PARIS: The Trump administration has told Germany and France to draw down emergency diesel inventories to help to ease global fuel prices or face a potential US diesel export ban, said three people close to the discussions. The warning marks an escalation of pressure on Europe as US President Donald …",
+   "image": "https://i.brecorder.com/large/2026/10/011704208e2b5b6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Global vegetable oil prices seen rising on tighter supply, says analyst Mielke",
+   "url": "https://www.brecorder.com/news/40442177/global-vegetable-oil-prices-seen-rising-on-tighter-supply-says-analyst-mielke",
+   "source": "Business Recorder",
+   "published": "2026-10-01T11:26:53+00:00",
+   "summary": "MUMBAI: Global vegetable oil prices may rise in the coming months and into 2027 on tighter supply as disrupted Black Sea sunflower-oil shipments coincide with declining South American soyoil exports, a leading industry analyst said on Thursday. Sunflower oil shipments from Russia and Ukraine would be around 300,000-350…",
+   "image": "https://i.brecorder.com/large/2026/10/011625415d11091.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm oil falls to 11-week low on weak exports, rising output",
+   "url": "https://www.brecorder.com/news/40442174/palm-oil-falls-to-11-week-low-on-weak-exports-rising-output",
+   "source": "Business Recorder",
+   "published": "2026-10-01T11:12:25+00:00",
+   "summary": "JAKARTA: Malaysian palm oil futures closed at their lowest in 11 weeks on Thursday, pressured by weakness in Chicago soyoil prices and concerns over softer September exports and rising production. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange lost 57 ringgit, or 1.24%,…",
+   "image": "https://i.brecorder.com/large/2026/10/011612150c18c90.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee drops to two-month low as global bond rout deepens, oil jumps",
+   "url": "https://www.brecorder.com/news/40442173/indian-rupee-drops-to-two-month-low-as-global-bond-rout-deepens-oil-jumps",
+   "source": "Business Recorder",
+   "published": "2026-10-01T11:03:15+00:00",
+   "summary": "MUMBAI: The Indian rupee dropped to its weakest level in two months as global bond yields surged to decadal highs and oil prices jumped, deepening pressure on the South Asian currency that was already hurt by foreign portfolio outflows on Thursday. The Indian rupee ended down 0.5% at 96.3150 per dollar, its sharpest si…",
+   "image": "https://i.brecorder.com/large/2026/10/01160256b7c4d7a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan inflation clocks in at 10.3% in September 2026",
+   "url": "https://www.brecorder.com/news/40442129/pakistan-inflation-clocks-in-at-103-in-september-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-01T09:15:50+00:00",
+   "summary": "Pakistan’s headline inflation clocked in at 10.3% on a year-on-year (YoY) basis in September 2026, up from 11.1% recorded in August , as shown by Pakistan Bureau of Statistics (PBS) data on Thursday. The consumer price index (CPI) was recorded at 5.8% in September 2025. On a month-on-month basis, it increased by 1.3% i…",
+   "image": "https://i.brecorder.com/large/2026/10/01095540b92dfd7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s solar boom adds pressure on Chinese-backed coal plants: report",
+   "url": "https://www.brecorder.com/news/40442166/pakistans-solar-boom-adds-pressure-on-chinese-backed-coal-plants-report",
+   "source": "Business Recorder",
+   "published": "2026-10-01T08:14:12+00:00",
+   "summary": "Pakistan’s rapid shift towards solar power is creating a new challenge for the country’s troubled power sector, as cheaper distributed generation reduces demand for grid electricity, strains utilities’ finances and threatens the repayment economics of Chinese-backed coal-fired power plants, reported Bloomberg on Thursd…",
+   "image": "https://i.brecorder.com/large/2026/10/01131311acc94b6.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand weakens ahead of manufacturing survey and car sales data",
+   "url": "https://www.brecorder.com/news/40442164/south-african-rand-weakens-ahead-of-manufacturing-survey-and-car-sales-data",
+   "source": "Business Recorder",
+   "published": "2026-10-01T07:46:01+00:00",
+   "summary": "JOHANNESBURG: The South African rand weakened in early trade on Thursday ahead ​of the release of a local ‌manufacturing purchasing managers’ index (PMI) and vehicle sales data for September. At 0709 GMT the rand ​traded at 16.4875 against the dollar , ​down about 0.3% from its previous ⁠close. An Absa PMI survey is se…",
+   "image": "https://i.brecorder.com/large/2026/10/01124415d6dc852.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX loses 1,332 points in sharp sell-off",
+   "url": "https://tribune.com.pk/story/2632434/psx-loses-1332-points-in-sharp-sell-off",
+   "source": "The Express Tribune",
+   "published": "2026-10-01T06:48:55+00:00",
+   "summary": "Oil surge, inflation and uncertainty over US-Iran situation cloud market outlook",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indonesia January-August coal export volume down 9.33% y/y, data shows",
+   "url": "https://www.brecorder.com/news/40442160/indonesia-january-august-coal-export-volume-down-933-yy-data-shows",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:48:40+00:00",
+   "summary": "JAKARTA: Indonesia exported 227.70 million metric tons of coal from January to August, down 9.33% from the same period last year, statistics bureau data showed on Thursday. The shipments were worth $16.58 billion, 4.31% higher than the corresponding period in 2025. The bureau’s figures are based on reports from the cus…",
+   "image": "https://i.brecorder.com/large/2026/10/01114834a43e075.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korea stocks slip despite stellar exports as oil worries weigh",
+   "url": "https://www.brecorder.com/news/40442158/south-korea-stocks-slip-despite-stellar-exports-as-oil-worries-weigh",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:46:00+00:00",
+   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares slipped on Thursday despite stellar September trade data, as elevated global oil prices and uncertainty over the sustainability of recovering Middle East oil flows clouded risk sentiment. The won weakened, while the benchmark bond yield rose. The be…",
+   "image": "https://i.brecorder.com/large/2026/10/011145488828f6a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Chinese refiners suspend Oct fuel exports, PetroChina cancels cargoes, sources say",
+   "url": "https://www.brecorder.com/news/40442157/chinese-refiners-suspend-oct-fuel-exports-petrochina-cancels-cargoes-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:43:08+00:00",
+   "summary": "SINGAPORE: Chinese refiners have suspended exports of oil products to regions beyond Hong Kong and Macau until further notice from Beijing following the Golden Week holiday that runs until October 7, four people briefed on the matter said on Thursday. As China looks to safeguard domestic supplies, state oil major Petro…",
+   "image": "https://i.brecorder.com/large/2026/10/011142511285154.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indonesia posts $3.55 billion trade surplus in August",
+   "url": "https://www.brecorder.com/news/40442156/indonesia-posts-355-billion-trade-surplus-in-august",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:41:19+00:00",
+   "summary": "JAKARTA: Indonesia booked a surprisingly large trade surplus of $3.55 billion in August, official data showed on Thursday, well above the median forecast for a surplus of around $630 million in a Reuters poll. The August surplus was the widest since September 2025, according to LSEG data. Exports rose 6.72% on a yearly…",
+   "image": "https://i.brecorder.com/large/2026/10/011140451b1d911.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "BOJ debated need for more rate hikes at September meeting, summary shows",
+   "url": "https://www.brecorder.com/news/40442155/boj-debated-need-for-more-rate-hikes-at-september-meeting-summary-shows",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:36:34+00:00",
+   "summary": "TOKYO: Some Bank of Japan policymakers saw the need to accelerate the pace of interest rate hikes or bring them closer to the central bank’s “goal” soon, a summary of opinions at its September meeting showed on Thursday. Most of the opinions cited the need for followthrough of September’s rate hike with further increas…",
+   "image": "https://i.brecorder.com/large/2026/10/01113615755672b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Vietnam extends fuel tax relief measures until end-2026",
+   "url": "https://www.brecorder.com/news/40442154/vietnam-extends-fuel-tax-relief-measures-until-end-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:34:34+00:00",
+   "summary": "HANOI: Vietnam is extending a package of fuel-tax relief measures to the end of 2026, after having introduced them earlier this year to help stabilise the domestic market amid supply concerns due to war in the Middle East. Extending the package would help ensure energy security, stabilise the economy, contain inflation…",
+   "image": "https://i.brecorder.com/large/2026/10/01113407bbfc7d7.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Goldman Sachs pushes Fed rate hike forecast to December",
+   "url": "https://www.brecorder.com/news/40442152/goldman-sachs-pushes-fed-rate-hike-forecast-to-december",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:31:23+00:00",
+   "summary": "Goldman Sachs pushed its forecast for the next US interest rate hike to December after a softer-than-anticipated inflation reading cooled expectations the Federal Reserve would hike rates again in October. The brokerage had previously forecast a 25-basis-point increase in October. “We are pushing back the second hike i…",
+   "image": "https://i.brecorder.com/large/2026/10/011131072340987.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Russia steps up sunflower oil exports to China as war disrupts India trade",
+   "url": "https://www.brecorder.com/news/40442150/russia-steps-up-sunflower-oil-exports-to-china-as-war-disrupts-india-trade",
+   "source": "Business Recorder",
+   "published": "2026-10-01T06:24:43+00:00",
+   "summary": "MUMBAI: Russia’s sunflower oil exports to China are set to double in the new marketing year, but at discounted prices, a leading Russian exporter said on Thursday, as war has damaged the country’s port infrastructure and disrupted shipments to top buyer India. The world’s biggest producer and exporter of sunflower seed…",
+   "image": "https://i.brecorder.com/large/2026/10/011124355d11091.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Aluminium falls to 2-month low on Iran peace hopes, stronger dollar",
    "url": "https://www.brecorder.com/news/40442141/aluminium-falls-to-2-month-low-on-iran-peace-hopes-stronger-dollar",
    "source": "Business Recorder",
@@ -312,45 +509,6 @@
    "domestic": false
   },
   {
-   "title": "Gold inches higher as softer US inflation dims October Fed hike bets",
-   "url": "https://www.brecorder.com/news/40442130/gold-inches-higher-as-softer-us-inflation-dims-october-fed-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-10-01T05:19:54+00:00",
-   "summary": "Gold edged higher on Thursday after a softer-than-expected US inflation report tempered expectations for a Federal Reserve rate hike this month, with markets looking to upcoming jobs data for further policy signals. Spot gold rose 0.5% to $4,175.19 per ounce by 0417 GMT, starting the month on a positive note after a mo…",
-   "image": "https://i.brecorder.com/large/2026/10/01101830f9bff41.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus",
-   "url": "https://www.brecorder.com/news/40442119/oil-dips-as-recovering-gulf-exports-ease-supply-fears-us-iran-diplomacy-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-10-01T05:16:37+00:00",
-   "summary": "NEW DELHI/TOKYO: Oil prices fell 1% on Thursday as recovering crude exports from the Gulf and a surprise rise in US inventories eased supply concerns, while investors weighed renewed US-Iran diplomatic efforts to end their conflict in the Middle East . Brent crude futures fell 1.1% to $96.92 a barrel by 0420 GMT, and U…",
-   "image": "https://i.brecorder.com/large/2026/10/010752595ed5e1a.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying continues, KSE-100 up over 700 points",
-   "url": "https://www.brecorder.com/news/40442128/psx-buying-continues-kse-100-up-over-700-points",
-   "source": "Business Recorder",
-   "published": "2026-10-01T04:48:59+00:00",
-   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 700 points during the opening minutes of trading on Thursday. At 9:35am, the benchmark index was hovering at 170,675.18, up 705.86 points or 0.42%. Buying was observed in key sectors, including automobile assemblers, ce…",
-   "image": "https://i.brecorder.com/large/2026/10/010948460b6589f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
    "url": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
    "source": "Dawn",
@@ -361,45 +519,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to weaken as oil, US yields weigh; fading Fed hike bets offer no relief",
-   "url": "https://www.brecorder.com/news/40442122/indian-rupee-to-weaken-as-oil-us-yields-weigh-fading-fed-hike-bets-offer-no-relief",
-   "source": "Business Recorder",
-   "published": "2026-10-01T03:11:17+00:00",
-   "summary": "MUMBAI: The Indian rupee is poised to drop on Thursday , with higher oil prices and US Treasury yields piling pressure on the ​currency while fading October Federal Reserve rate hike bets offer little ‌relief. The Indian rupee is expected to open in the 95.96 to 95.98 range, per traders, having settled at 95.83 to the …",
-   "image": "https://i.brecorder.com/large/2026/10/010809134f99e53.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asian stocks dip, bonds in focus after torrid September",
-   "url": "https://www.brecorder.com/news/40442121/asian-stocks-dip-bonds-in-focus-after-torrid-september",
-   "source": "Business Recorder",
-   "published": "2026-10-01T03:08:24+00:00",
-   "summary": "SINGAPORE: Asian stocks were subdued on Thursday and global bonds remained under pressure after a brutal September as investors weighed a slower-than-expected rise in US inflation ​in August that lessens the probability of a rate hike later this month. Blockbuster earnings from AI chipmaker Micron failed to lift ‌the f…",
-   "image": "https://i.brecorder.com/large/2026/10/0108040538a6f07.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar gets lift from higher yields",
-   "url": "https://www.brecorder.com/news/40442120/dollar-gets-lift-from-higher-yields",
-   "source": "Business Recorder",
-   "published": "2026-10-01T03:00:31+00:00",
-   "summary": "SINGAPORE: The dollar held near a two-month high on Thursday , supported by ​an extended rise in US Treasury yields partly driven by concerns over persistent global price pressures ‌stemming from the Middle East war. Data showing US inflation rose less than expected in August, along with downward revisions to July’s re…",
-   "image": "https://i.brecorder.com/large/2026/10/01075606e687ea8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -416,19 +535,6 @@
    "domestic": false
   },
   {
-   "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
-   "url": "https://www.brecorder.com/news/40442014/sampp-500-nasdaq-advance-as-soft-inflation-tempers-fed-rate-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-09-30T16:21:12+00:00",
-   "summary": "The Nasdaq jumped more than 1% on Wednesday, leading gains among Wall Street’s main indexes , as a softer-than-anticipated inflation reading buoyed hopes that the Federal Reserve might not hike rates as soon as next month. A Commerce Department report showed the Personal Consumption Expenditures (PCE) price index stood…",
-   "image": "https://i.brecorder.com/large/2026/09/3021205554dde98.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "No more war impact, govt tells IMF",
    "url": "https://tribune.com.pk/story/2632323/no-more-war-impact-govt-tells-imf",
    "source": "The Express Tribune",
@@ -439,84 +545,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Iqbal calls for creating CAREC knowledge hub",
-   "url": "https://tribune.com.pk/story/2632320/iqbal-calls-for-creating-carec-knowledge-hub",
-   "source": "The Express Tribune",
-   "published": "2026-09-30T15:29:35+00:00",
-   "summary": "Region must move from infrastructure to information sharing to tackle challenges",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "RBI's FX forward book tipped to shrink after touching $200 billion",
-   "url": "https://www.brecorder.com/news/40442001/rbis-fx-forward-book-tipped-to-shrink-after-touching-200-billion",
-   "source": "Business Recorder",
-   "published": "2026-09-30T12:42:31+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India’s net forward dollar liabilities ballooned to a record $200 billion in August, per data released on Wednesday, as the central bank absorbed a surge in one-off policy-induced dollar inflows. Forward liabilities rose $63 billion month-on-month in August after hitting a record high of nea…",
-   "image": "https://i.brecorder.com/large/2026/09/301737243f3a488.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lankan shares finish nearly flat after previous session's fall",
-   "url": "https://www.brecorder.com/news/40442000/sri-lankan-shares-finish-nearly-flat-after-previous-sessions-fall",
-   "source": "Business Recorder",
-   "published": "2026-09-30T12:22:54+00:00",
-   "summary": "Sri Lankan shares ended little changed on Wednesday, after falling in the previous session. The CSE All Share index edged down 0.02% at 20,812.93. Sri Lanka’s central bank kept its key policy rate unchanged at 8.75% on Wednesday. Separately, the Colombo Consumer Price Index rose 8% year-on-year in September, following …",
-   "image": "https://i.brecorder.com/large/2026/09/30172224e23738b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India benchmark shares log worst month since March as oil, global rate hikes spark outflows",
-   "url": "https://www.brecorder.com/news/40441987/india-benchmark-shares-log-worst-month-since-march-as-oil-global-rate-hikes-spark-outflows",
-   "source": "Business Recorder",
-   "published": "2026-09-30T10:46:25+00:00",
-   "summary": "Indian equity benchmarks logged their steepest monthly drop since March, while the rupee and the benchmark bond lost ground, as foreign investors fled risky assets after soaring oil prices kept inflation worries centre stage and global central banks hiked interest rates. The US Federal Reserve raised its key interest r…",
-   "image": "https://i.brecorder.com/large/2026/09/301546166301067.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's sunflower oil imports seen up 30% on duty cut, industry official says",
-   "url": "https://www.brecorder.com/news/40441984/indias-sunflower-oil-imports-seen-up-30-on-duty-cut-industry-official-says",
-   "source": "Business Recorder",
-   "published": "2026-09-30T10:38:32+00:00",
-   "summary": "MUMBAI: India’s sunflower oil imports are likely to rise 30% in the 2026/27 marketing year to 3.5 million metric tons, as a cut in import duties has lowered prices and boosted demand, the head of a leading industry body told Reuters on Wednesday. The surge in sunflower oil imports is expected to reduce soyoil purchases…",
-   "image": "https://i.brecorder.com/large/2026/09/30153635af703a8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee lingers around bottom of Asia FX pile as global headwinds deepen",
-   "url": "https://www.brecorder.com/news/40441983/indian-rupee-lingers-around-bottom-of-asia-fx-pile-as-global-headwinds-deepen",
-   "source": "Business Recorder",
-   "published": "2026-09-30T10:29:02+00:00",
-   "summary": "MUMBAI: The Indian rupee was among the worst performers in Asia this quarter and over the last 30 days, hit by worries over elevated crude prices and surging global bond yields that added to headwinds for local assets. The currency declined 0.7% on the month and 1.2% in the July-September quarter, averting steeper loss…",
-   "image": "https://i.brecorder.com/large/2026/09/301528541c0f951.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -593,19 +621,6 @@
    "published": "2026-09-29T13:33:45+00:00",
    "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar on Tuesday appreciated the success of the Prime Minister’s Fuel Relief Scheme , saying that it reflected a “whole of government” approach. The relief scheme for owners of motorcycles, rickshaws and vehicles of up to 800cc was rolled out across the country on Sept 17.…",
    "image": "https://i.dawn.com/large/2026/09/29180821407a81a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FBR notifies procedures for scrutiny of sales tax returns",
-   "url": "https://www.dawn.com/news/2033465/fbr-notifies-procedures-for-scrutiny-of-sales-tax-returns",
-   "source": "Dawn",
-   "published": "2026-09-29T03:48:31+00:00",
-   "summary": "https://www.dawn.com/news/2033425",
-   "image": "https://i.dawn.com/large/2026/09/290846358589a62.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -700,6 +715,45 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FBR busts Rs. 9.41 billion wealth statement fraud; Money laundering case registered",
+   "url": "https://arynews.tv/fbr-busts-rs-9-41-billion-wealth-statement-fraud",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR busts Rs. 9.41 billion wealth statement fraud; Money laundering case registered",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Container vessel may be leased to support exporters if cargo volumes suffice",
+   "url": "https://arynews.tv/container-vessel-may-be-leased-to-support-to-exporters-if-cargo-volumes-suffice",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Container vessel may be leased to support exporters if cargo volumes suffice",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/CONTAINER.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "FBR tax collection reaches Rs3.66tr in July-September 2026",
+   "url": "https://arynews.tv/fbr-tax-collection-reaches-rs3-point-66tr-in-july-september-2026",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR tax collection reaches Rs3.66tr in July-September 2026",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-tax-collection-record.jpg",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
@@ -807,19 +861,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
-   "url": "https://arynews.tv/netlist-seeks-u-s-import-ban-on-micron-chips-used-in-google-nvidia-ai-computing",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Netlist seeks U.S. import ban on Micron chips used in Google, Nvidia AI computing",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Micron.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
