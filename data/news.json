@@ -1,20 +1,33 @@
 {
- "generated": "2026-10-01T13:46:00+00:00",
- "count": 65,
- "relevant_count": 29,
+ "generated": "2026-10-01T19:18:04+00:00",
+ "count": 66,
+ "relevant_count": 28,
  "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (19)",
+  "Dawn": "ok (18)",
   "Business Recorder": "ok (20)",
-  "The Express Tribune": "ok (12)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "ok (12)"
  },
  "stories": [
   {
+   "title": "SBP-held foreign exchange reserves rise $39m to $21.44bn",
+   "url": "https://www.brecorder.com/news/40442201/sbp-held-foreign-exchange-reserves-rise-39m-to-2144bn",
+   "source": "Business Recorder",
+   "published": "2026-10-01T15:39:57+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $39 million during the week ended September 25, 2026, reaching $21.439 billion, according to data released by the central bank on Thursday. The country’s total liquid foreign reserves stood at $26.771 billion as of September 25, compared wi…",
+   "image": "https://i.brecorder.com/large/2026/10/012036386f4254e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40442175/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-01T12:07:19+00:00",
+   "published": "2026-10-01T14:28:45+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.10, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.11 against the dollar. Internationally, the US dollar held near a two-month high o…",
    "image": "https://i.brecorder.com/large/2026/10/01154224ce05d91.webp",
    "topics": [
@@ -182,19 +195,6 @@
    "domestic": true
   },
   {
-   "title": "FPCCI seeks extension in tax returns filing date",
-   "url": "https://www.dawn.com/news/2033423/fpcci-seeks-extension-in-tax-returns-filing-date",
-   "source": "Dawn",
-   "published": "2026-09-29T03:19:09+00:00",
-   "summary": "KARACHI: Federation of Pakistan Chambers of Commerce and Industry (FPCCI) President Atif Ikram Sheikh has formally urged the government to extend the deadline for filing income tax returns to Oct 31 to facilitate trade, industry, and other tax filers. He said this extension is not a concession but a practical necessity…",
-   "image": "https://i.dawn.com/large/2026/09/29081558cd2af7d.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "New rule for transfer of imported vehicles in Punjab",
    "url": "https://arynews.tv/new-rule-for-transfer-of-imported-vehicles-in-punjab",
    "source": "ARY News",
@@ -208,12 +208,38 @@
    "domestic": true
   },
   {
-   "title": "Asia rice: Indian rice export prices rise to over one-year high on firm demand, production concerns",
-   "url": "https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns",
+   "title": "Pakistan eyes B+ sovereign credit rating by Sept 2027: finance minister",
+   "url": "https://www.brecorder.com/news/40442205/pakistan-eyes-b-sovereign-credit-rating-by-sept-2027-finance-minister",
    "source": "Business Recorder",
-   "published": "2026-10-01T12:39:34+00:00",
-   "summary": "Indian rice export prices were at an over one-year high this week, driven by improving demand and concerns over production due to flooding in rice-growing areas after a dry spell. India’s 5% broken parboiled variety was quoted at $378-$384 per ton this week, its highest since July 2025, and up from last week’s $375-$38…",
-   "image": "https://i.brecorder.com/large/2026/10/011739146e4982b.webp",
+   "published": "2026-10-01T17:16:36+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb said on Thursday Pakistan was expected to be upgraded to ‘B+’ sovereign credit rating by first quarter (Jul–Sep) of the next fiscal year 2027-28 by global agencies, adding it was premature to say whether ongoing $7 billion IMF Extended Fund Facility (EFF) would be the country’s last …",
+   "image": "https://i.brecorder.com/large/2026/10/01221106750b922.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan, IMF and politics behind the numbers",
+   "url": "https://www.brecorder.com/news/40442204/pakistan-imf-and-politics-behind-the-numbers",
+   "source": "Business Recorder",
+   "published": "2026-10-01T16:44:08+00:00",
+   "summary": "Pakistan’s relationship with the International Monetary Fund (IMF) is decades old. Pakistan joined the IMF in 1950 and entered its first Stand-By Arrangement in 1958. Since then, the country has entered into 25 IMF arrangements, moving repeatedly between periods of stabilisation, reform and renewed balance-of-payments …",
+   "image": "https://i.brecorder.com/large/2026/10/01214137f8d8704.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices rise $3 as China suspends fuel exports",
+   "url": "https://www.brecorder.com/news/40442119/oil-prices-rise-3-as-china-suspends-fuel-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-01T15:37:56+00:00",
+   "summary": "NEW YORK: Brent benchmark oil prices rose by $3 on Thursday after China suspended oil products exports, potentially tightening fuel markets already coping with supply shortages globally, while investors continued to assess diplomatic efforts to end the US-Israeli war on Iran. The new front-month December Brent crude fu…",
+   "image": "https://i.brecorder.com/large/2026/10/010752595ed5e1a.gif",
    "topics": [
     "Economy"
    ],
@@ -221,12 +247,52 @@
    "domestic": false
   },
   {
-   "title": "Oil prices rise 2% as China suspends fuel exports",
-   "url": "https://www.brecorder.com/news/40442119/oil-prices-rise-2-as-china-suspends-fuel-exports",
+   "title": "Wall Street dips as surging Treasury yields outweigh software gains",
+   "url": "https://www.brecorder.com/news/40442197/wall-street-dips-as-surging-treasury-yields-outweigh-software-gains",
    "source": "Business Recorder",
-   "published": "2026-10-01T12:15:13+00:00",
-   "summary": "LONDON: Oil prices rose around 2% on Thursday after China suspended oil products exports, potentially tightening fuel markets already coping with supply shortages globally, while investors continued to assess renewed diplomatic efforts to end the US-Iran war . The new front-month December Brent crude futures contract t…",
-   "image": "https://i.brecorder.com/large/2026/10/010752595ed5e1a.gif",
+   "published": "2026-10-01T15:09:55+00:00",
+   "summary": "Wall Street’s main indexes slipped on Thursday as a deepening bond selloff drove Treasury yields to multi-decade highs, outweighing gains in software stocks. Although AI enthusiasm continues to power U.S. stocks, soaring Treasury yields are testing investors’ appetite for richly valued shares as inflation and governmen…",
+   "image": "https://i.brecorder.com/large/2026/10/0120091354dde98.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Fashion brand Khaadi plans IPO next month: report",
+   "url": "https://www.brecorder.com/news/40442196/fashion-brand-khaadi-plans-ipo-next-month-report",
+   "source": "Business Recorder",
+   "published": "2026-10-01T14:42:45+00:00",
+   "summary": "Khaadi Pakistan Ltd., a fashion retailer, is planning to launch an initial public offering (IPO) next month to raise funds for expanding its retail outlet network, Bloomberg reported on Thursday. As per the report, the company plans to raise between Rs6.2 billion and Rs8.3 billion. Khaadi is a subsidiary of Weaves Corp…",
+   "image": "https://i.brecorder.com/large/2026/10/0119394950bdc53.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian firms defy stock market slump with record $25 billion half-year equity fundraise",
+   "url": "https://www.brecorder.com/news/40442192/indian-firms-defy-stock-market-slump-with-record-25-billion-half-year-equity-fundraise",
+   "source": "Business Recorder",
+   "published": "2026-10-01T14:01:49+00:00",
+   "summary": "BENGALURU: Indian companies defied a secondary market slump to raise 2.43 trillion rupees ($25.27 billion) in the first half of fiscal 2027, a record for the period, data showed on Thursday, as domestic investors sought fresh opportunities to deploy capital. Not only did equity fundraising jump 75% year-on-year in Apri…",
+   "image": "https://i.brecorder.com/large/2026/10/01190121c16be63.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Asia rice: Indian rice export prices rise to over one-year high on firm demand, production concerns",
+   "url": "https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns",
+   "source": "Business Recorder",
+   "published": "2026-10-01T12:39:34+00:00",
+   "summary": "Indian rice export prices were at an over one-year high this week, driven by improving demand and concerns over production due to flooding in rice-growing areas after a dry spell. India’s 5% broken parboiled variety was quoted at $378-$384 per ton this week, its highest since July 2025, and up from last week’s $375-$38…",
+   "image": "https://i.brecorder.com/large/2026/10/011739146e4982b.webp",
    "topics": [
     "Economy"
    ],
@@ -281,32 +347,6 @@
    "image": "https://i.brecorder.com/large/2026/10/01160256b7c4d7a.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan inflation clocks in at 10.3% in September 2026",
-   "url": "https://www.brecorder.com/news/40442129/pakistan-inflation-clocks-in-at-103-in-september-2026",
-   "source": "Business Recorder",
-   "published": "2026-10-01T09:15:50+00:00",
-   "summary": "Pakistan’s headline inflation clocked in at 10.3% on a year-on-year (YoY) basis in September 2026, up from 11.1% recorded in August , as shown by Pakistan Bureau of Statistics (PBS) data on Thursday. The consumer price index (CPI) was recorded at 5.8% in September 2025. On a month-on-month basis, it increased by 1.3% i…",
-   "image": "https://i.brecorder.com/large/2026/10/01095540b92dfd7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s solar boom adds pressure on Chinese-backed coal plants: report",
-   "url": "https://www.brecorder.com/news/40442166/pakistans-solar-boom-adds-pressure-on-chinese-backed-coal-plants-report",
-   "source": "Business Recorder",
-   "published": "2026-10-01T08:14:12+00:00",
-   "summary": "Pakistan’s rapid shift towards solar power is creating a new challenge for the country’s troubled power sector, as cheaper distributed generation reduces demand for grid electricity, strains utilities’ finances and threatens the repayment economics of Chinese-backed coal-fired power plants, reported Bloomberg on Thursd…",
-   "image": "https://i.brecorder.com/large/2026/10/01131311acc94b6.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -483,32 +523,6 @@
    "domestic": false
   },
   {
-   "title": "Thai baht/US dollar weaker on Thursday",
-   "url": "https://www.brecorder.com/news/40442136/thai-bahtus-dollar-weaker-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-10-01T05:48:14+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Thursday. At 0220 GMT, the baht was 0.16% lower at 33.63 versus the dollar, after trading in a range of 33.600 to 33.710. It ended the previous session at 33.57 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/01104756daabd4a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Banks and miners drag Australian shares lower",
-   "url": "https://www.brecorder.com/news/40442134/banks-and-miners-drag-australian-shares-lower",
-   "source": "Business Recorder",
-   "published": "2026-10-01T05:40:47+00:00",
-   "summary": "Australian shares fell more than 1% on Thursday, with financials and miners leading broad-based losses across all sectors, even as softer-than-expected inflation data released a day earlier eased concerns about further near-term interest rate hikes. The S&P/ASX 200 index lost 1.3% to 8,671.60, as of 0055 GMT. The bench…",
-   "image": "https://i.brecorder.com/large/2026/10/01104029de6ee08.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
    "url": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
    "source": "Dawn",
@@ -522,25 +536,25 @@
    "domestic": false
   },
   {
+   "title": "Oil prices rise 2% as China suspends fuel exports",
+   "url": "https://tribune.com.pk/story/2632389/oil-dips-as-recovering-gulf-exports-ease-supply-fears-us-iran-diplomacy-in-focus",
+   "source": "The Express Tribune",
+   "published": "2026-10-01T00:07:14+00:00",
+   "summary": "Chinese refiners suspend exports of oil products to regions beyond Hong Kong and Macau until further notice",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "FBR extends deadline for filing income tax returns to Oct 15",
    "url": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15",
    "source": "Dawn",
    "published": "2026-09-30T19:44:16+00:00",
    "summary": "The Federal Board of Revenue (FBR) on Wednesday extended the cutoff date for filing income tax returns for 2026 to Oct 15, hours before the deadline was set to expire by the end of Sept 30. The notification posted on the FBR’s X account, said: “The Federal Board of Revenue is pleased to communicate that the date of fil…",
    "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "No more war impact, govt tells IMF",
-   "url": "https://tribune.com.pk/story/2632323/no-more-war-impact-govt-tells-imf",
-   "source": "The Express Tribune",
-   "published": "2026-09-30T15:29:35+00:00",
-   "summary": "Lender urges adjustments in Pakistan's exchange rate, interest policies",
-   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -720,6 +734,45 @@
    "domestic": false
   },
   {
+   "title": "Pakistan opens commercial Import of used vehicles",
+   "url": "https://arynews.tv/pakistan-opens-commercial-import-of-used-vehicles",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan opens commercial Import of used vehicles",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Commercial-import.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stock market sees record rise in new investors",
+   "url": "https://arynews.tv/psx-stock-market-sees-record-rise-in-new-investors",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stock market sees record rise in new investors",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/stock-market.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan inflation surges by 1.27 percent in a month, crosses 10 percent",
+   "url": "https://arynews.tv/pakistan-inflation-surges-by-1-27-percent-in-a-month-crosses-10-percent",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan inflation surges by 1.27 percent in a month, crosses 10 percent",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Inflation.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "FBR busts Rs. 9.41 billion wealth statement fraud; Money laundering case registered",
    "url": "https://arynews.tv/fbr-busts-rs-9-41-billion-wealth-statement-fraud",
    "source": "ARY News",
@@ -818,45 +871,6 @@
    "published": null,
    "summary": "FPCCI demands FBR to extend income tax filing deadline to October 31",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FPCCI.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Income tax filing deadline ends today across Pakistan",
-   "url": "https://arynews.tv/income-tax-filing-deadline-ends-today-across-pakistan",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Income tax filing deadline ends today across Pakistan",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Income-tax-returns-deadline-Pakistan.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Monitoring system mandatory: FBR Details sealing and desealing protocols for Businesses",
-   "url": "https://arynews.tv/monitoring-system-mandatory-fbr-details-sealing-and-desealing-protocols-for-businesses",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Monitoring system mandatory: FBR Details sealing and desealing protocols for Businesses",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FBR.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF ‘calls’ on Pakistan to accelerate energy sector reforms",
-   "url": "https://arynews.tv/imf-calls-on-pakistan-to-accelerate-energy-sector-reforms",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF ‘calls’ on Pakistan to accelerate energy sector reforms",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/IMFPakistan-reforms-energy-sector.jpg",
    "topics": [
     "Budget & spending"
    ],

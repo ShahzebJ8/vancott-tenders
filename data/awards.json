@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T13:45:55+00:00",
+ "generated": "2026-10-01T19:17:59+00:00",
  "count": 694,
  "with_value": 663,
  "with_winner": 262,
@@ -13209,6 +13209,46 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000003895",
+   "tender_no": "TS0000011355E",
+   "reference": "04 to 05/2026-27",
+   "title": "Transmission lines NHA, Royal Plam City GRW Civil Works",
+   "organisation": "Ministry of Energy (Power Division) GSC GEPCO Gujranwala - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "WM Constructor Jv WM Sons Pvt Ltd Lhr, Munir & Co LHR"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-01",
+   "city": "Gujranwala",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003895",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003894",
+   "tender_no": "TS0000009061E",
+   "reference": "01 to 03/2026-27",
+   "title": "Extension of 11kv room , P/F of CCTV Cameras of different G/Stations, Pile foundation DHA-QD Singh line Civil Works",
+   "organisation": "Ministry of Energy (Power Division) GSC GEPCO Gujranwala - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "SKJ Engineering Services Gujranwala & WM Constructor LHR"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-01",
+   "city": "Gujranwala",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003894",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000003892",
    "tender_no": "TS0000013434E",
@@ -52222,46 +52262,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001794",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001793",
-   "tender_no": "TS0000006337E",
-   "reference": "Ref.No.PMDC/Pro/Civil Work/WA",
-   "title": "Tender Notice for Construction of Hospital (Trauma Centre) at PMDC Salt Mines, Warcha Civil Works",
-   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "Kohsar Associates Pakistan Mineral Development Corporation (PMDC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-01",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001793",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001792",
-   "tender_no": "TS0000006258E",
-   "reference": "Ref.No.PMDC/Pro/HO",
-   "title": "Tender Notice for Supply, Installation Testing & Commissioning of Hybrid Solar System For PM Bungalow & Gust House at PMDC Collieries, Sharigh Quetta Civil Goods",
-   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "Al Sudais & Brothers. Pakistan Mineral Development Corporation (PMDC)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-01",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001792",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
