@@ -1,22 +1,22 @@
 {
- "generated": "2026-10-01T00:10:57+00:00",
- "count": 61,
- "relevant_count": 35,
- "domestic_count": 15,
+ "generated": "2026-10-01T06:24:08+00:00",
+ "count": 62,
+ "relevant_count": 28,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (19)",
-  "Business Recorder": "ok (14)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (12)",
-  "ARY News": "ok (11)"
+  "ARY News": "ok (10)"
  },
  "stories": [
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40441989/intra-day-update-rupee-records-gain-against-us-dollar",
+   "title": "Pakistan explores PNSC container vessel to support exporters",
+   "url": "https://www.brecorder.com/news/40442144/pakistan-explores-pnsc-container-vessel-to-support-exporters",
    "source": "Business Recorder",
-   "published": "2026-09-30T16:10:16+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.11, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.12 against the dollar. Internationally, the US dollar stood near this year’s high v…",
-   "image": "https://i.brecorder.com/large/2026/09/301552436a071ba.webp",
+   "published": "2026-10-01T06:02:16+00:00",
+   "summary": "Pakistan National Shipping Corporation (PNSC) may lease or purchase a container vessel to facilitate Pakistani exporters and reduce shipping costs, provided sufficient cargo volumes can be secured to make the operation commercially viable, Maritime Affairs Minister Muhammad Junaid Anwar Chaudhry said. The development c…",
+   "image": "https://i.brecorder.com/large/2026/10/011101042595ddf.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,91 @@
    "domestic": true
   },
   {
-   "title": "Pakistan assembles 18.66m mobile handsets in 8 months of 2026",
-   "url": "https://www.brecorder.com/news/40441993/pakistan-assembles-1866m-mobile-handsets-in-8-months-of-2026",
+   "title": "PM Shehbaz urges exporters to deliver",
+   "url": "https://www.brecorder.com/news/40442133/pm-shehbaz-urges-exporters-to-deliver",
    "source": "Business Recorder",
-   "published": "2026-09-30T11:54:11+00:00",
-   "summary": "ISLAMABAD: The local assembling plants assembled 18.66 million mobile handsets during the first eight months of calendar year 2026 compared to 2.74 million imported commercially. Official data revealed that Pakistan assembled 134,501, 5G enabled mobile handsets during August 2026, compared to 553,079 during 20025. The …",
-   "image": "https://i.brecorder.com/large/2026/09/30164429e431d42.webp",
+   "published": "2026-10-01T05:46:25+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Thursday said that the government remains committed to achieving export-led, sustainable economic growth following the stabilisation of the economy. In a virtual address at the Pakistan Stock Exchange (PSX) in Karachi, the prime minister criticised some export-oriented industries for re…",
+   "image": "https://i.brecorder.com/large/2026/10/01103731985cb7c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Stocks post modest gains on select buying",
+   "url": "https://www.dawn.com/news/2033861/stocks-post-modest-gains-on-select-buying",
+   "source": "Dawn",
+   "published": "2026-10-01T03:52:08+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Wednesday witnessed strong buying interest at attractive valuations, propelling the benchmark KSE-100 index above 171,000 intraday before closing well below the day’s high, posting modest gains and snapping a two-session losing streak. Topline Securities Ltd said the index …",
+   "image": "https://i.dawn.com/large/2026/10/01084937e0921cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR unearths Rs9.41bn wealth fraud",
+   "url": "https://www.dawn.com/news/2033866/fbr-unearths-rs941bn-wealth-fraud",
+   "source": "Dawn",
+   "published": "2026-10-01T02:02:28+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has uncovered a fraud in which taxpayers illegally amended previous wealth statements to declare unexplained assets worth Rs9.41 billion. The FBR said on Wednesday that it has registered a criminal case under the Anti-Money Laundering Act 2010, and is processing further cas…",
+   "image": "https://i.dawn.com/large/2026/10/010807560311f1c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "T-bill yields jump beyond policy rate",
+   "url": "https://www.dawn.com/news/2033864/t-bill-yields-jump-beyond-policy-rate",
+   "source": "Dawn",
+   "published": "2026-10-01T02:02:28+00:00",
+   "summary": "KARACHI: The government on Wednesday raised the cut-off yields on treasury bills by up to 75 basis points, significantly surpassing returns on risk-free papers above the State Bank of Pakistan’s policy rate of 11.5 per cent. In the latest T-bill auction, the government raised profit rates on all tenors, fuelling specul…",
+   "image": "https://i.dawn.com/large/2026/10/01082431fe3d2d5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Revenue surge, subsidy plans sit well with IMF",
+   "url": "https://www.dawn.com/news/2033886/revenue-surge-subsidy-plans-sit-well-with-imf",
+   "source": "Dawn",
+   "published": "2026-10-01T02:01:57+00:00",
+   "summary": "• Country exceeds first-quarter revenue target despite economic pressures • Plan to replace power subsidies with targeted BISP support reviewed ISLAMABAD: Robust revenue collection and preparedness to shift electricity subsidies entirely to the Benazir Income Sup­port Programme (BISP) mechanism have placed Pakistan on …",
+   "image": "https://i.dawn.com/large/2026/10/01073946c7b4952.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan, China entering new phase of CPEC: PM",
+   "url": "https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm",
+   "source": "Business Recorder",
+   "published": "2026-10-01T01:59:23+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif said on Wednesday that Pakistan and China are entering a new phase of the China-Pakistan Economic Corridor (CPEC), shifting the focus to industrialisation, special economic zones, IT and artificial intelligence, agriculture, and mining and minerals. Speaking at a function in con…",
+   "image": "https://i.brecorder.com/large/2026/10/01065903e22777e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40441989/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-09-30T16:10:16+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 277.11, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 277.12 against the dollar. Internationally, the US dollar stood near this year’s high v…",
+   "image": "https://i.brecorder.com/large/2026/09/301552436a071ba.webp",
    "topics": [
     "Economy"
    ],
@@ -142,52 +221,12 @@
    "domestic": true
   },
   {
-   "title": "Stocks drift lower on geopolitical tensions",
-   "url": "https://www.dawn.com/news/2033422/stocks-drift-lower-on-geopolitical-tensions",
-   "source": "Dawn",
-   "published": "2026-09-29T03:37:36+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) opened the week on a bearish note as elevated oil prices, amid a stalemate in US-Iran talks to end the war, continued to push up energy import costs, adding to inflationary pressures and fuelling uncertainty about the economic outlook. Topline Securities Ltd said the KSE-100 i…",
-   "image": "https://i.dawn.com/large/2026/09/29083233558b584.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "FPCCI seeks extension in tax returns filing date",
    "url": "https://www.dawn.com/news/2033423/fpcci-seeks-extension-in-tax-returns-filing-date",
    "source": "Dawn",
    "published": "2026-09-29T03:19:09+00:00",
    "summary": "KARACHI: Federation of Pakistan Chambers of Commerce and Industry (FPCCI) President Atif Ikram Sheikh has formally urged the government to extend the deadline for filing income tax returns to Oct 31 to facilitate trade, industry, and other tax filers. He said this extension is not a concession but a practical necessity…",
    "image": "https://i.dawn.com/large/2026/09/29081558cd2af7d.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt notifies new procurement rules with IMF team in town",
-   "url": "https://www.dawn.com/news/2033401/govt-notifies-new-procurement-rules-with-imf-team-in-town",
-   "source": "Dawn",
-   "published": "2026-09-29T02:31:43+00:00",
-   "summary": "• Changes retain certain exemptions for direct contracting with SOEs despite reservations • IMF delegation meets finance, tax officials amid uncertainty on sovereign wealth fund law ISLAMABAD: As question marks linger over the continuous breach of structural benchmarks regarding the sovereign wealth fund (SWF) law, the…",
-   "image": "https://i.dawn.com/large/2026/09/29073056ab5d3ed.webp",
-   "topics": [
-    "Budget & spending",
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "IMF talks to unlock next $1.2bn set to begin today",
-   "url": "https://www.dawn.com/news/2033147/imf-talks-to-unlock-next-12bn-set-to-begin-today",
-   "source": "Dawn",
-   "published": "2026-09-28T02:22:15+00:00",
-   "summary": "ISLAMABAD: Formal negotiations between the government and a visiting International Monetary Fund (IMF) staff mission for the fourth review of the $7 billion Extended Fund Facility (EFF) and the third review of the Resilience Support Faci­lity (RSF) are expected to begin today (Monday). Official sources said the mission…",
-   "image": "https://i.dawn.com/large/2026/09/28071945dd9a2a2.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -208,12 +247,116 @@
    "domestic": true
   },
   {
-   "title": "FBR extends deadline for filing income tax returns to Oct 15",
-   "url": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15",
+   "title": "Aluminium falls to 2-month low on Iran peace hopes, stronger dollar",
+   "url": "https://www.brecorder.com/news/40442141/aluminium-falls-to-2-month-low-on-iran-peace-hopes-stronger-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:56:43+00:00",
+   "summary": "SINGAPORE: Aluminium fell to its lowest level in more than two months on Thursday, tracking a broader weakness in industrial metals and hopes that supply from the Middle East, a major producer, could improve if tensions ease. Benchmark three-month aluminium on the London Metal Exchange was down 0.74% at $3,146 a metric…",
+   "image": "https://i.brecorder.com/large/2026/10/01105635fbb5ccc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm oil extends falls on weaker soyoil and exports",
+   "url": "https://www.brecorder.com/news/40442138/palm-oil-extends-falls-on-weaker-soyoil-and-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:53:04+00:00",
+   "summary": "JAKARTA: Malaysian palm oil futures fell for a fifth straight session on Thursday, tracking weakness in Chicago soyoil prices and weighed down by soft September exports and rising production. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange lost 19 ringgit, or 0.41%, to 4…",
+   "image": "https://i.brecorder.com/large/2026/10/01105243761ed6a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Japan bond yields rise as US Treasury selloff persists, BOJ outlook in focus",
+   "url": "https://www.brecorder.com/news/40442137/japan-bond-yields-rise-as-us-treasury-selloff-persists-boj-outlook-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:50:44+00:00",
+   "summary": "TOKYO: Japanese government bond yields rose on Thursday, tracking higher US Treasury yields overnight, as investors remained concerned about inflation risks and the future pace of central bank rate hikes. Here are a few details: The benchmark 10-year JGB yield rose 5 basis points (bps) to 3.11%. Yields move inversely t…",
+   "image": "https://i.brecorder.com/large/2026/10/01105032d99874c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Thursday",
+   "url": "https://www.brecorder.com/news/40442136/thai-bahtus-dollar-weaker-on-thursday",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:48:14+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Thursday. At 0220 GMT, the baht was 0.16% lower at 33.63 versus the dollar, after trading in a range of 33.600 to 33.710. It ended the previous session at 33.57 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/01104756daabd4a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Banks and miners drag Australian shares lower",
+   "url": "https://www.brecorder.com/news/40442134/banks-and-miners-drag-australian-shares-lower",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:40:47+00:00",
+   "summary": "Australian shares fell more than 1% on Thursday, with financials and miners leading broad-based losses across all sectors, even as softer-than-expected inflation data released a day earlier eased concerns about further near-term interest rate hikes. The S&P/ASX 200 index lost 1.3% to 8,671.60, as of 0055 GMT. The bench…",
+   "image": "https://i.brecorder.com/large/2026/10/01104029de6ee08.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold inches higher as softer US inflation dims October Fed hike bets",
+   "url": "https://www.brecorder.com/news/40442130/gold-inches-higher-as-softer-us-inflation-dims-october-fed-hike-bets",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:19:54+00:00",
+   "summary": "Gold edged higher on Thursday after a softer-than-expected US inflation report tempered expectations for a Federal Reserve rate hike this month, with markets looking to upcoming jobs data for further policy signals. Spot gold rose 0.5% to $4,175.19 per ounce by 0417 GMT, starting the month on a positive note after a mo…",
+   "image": "https://i.brecorder.com/large/2026/10/01101830f9bff41.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil dips as recovering Gulf exports ease supply fears, US-Iran diplomacy in focus",
+   "url": "https://www.brecorder.com/news/40442119/oil-dips-as-recovering-gulf-exports-ease-supply-fears-us-iran-diplomacy-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-01T05:16:37+00:00",
+   "summary": "NEW DELHI/TOKYO: Oil prices fell 1% on Thursday as recovering crude exports from the Gulf and a surprise rise in US inventories eased supply concerns, while investors weighed renewed US-Iran diplomatic efforts to end their conflict in the Middle East . Brent crude futures fell 1.1% to $96.92 a barrel by 0420 GMT, and U…",
+   "image": "https://i.brecorder.com/large/2026/10/010752595ed5e1a.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying continues, KSE-100 up over 700 points",
+   "url": "https://www.brecorder.com/news/40442128/psx-buying-continues-kse-100-up-over-700-points",
+   "source": "Business Recorder",
+   "published": "2026-10-01T04:48:59+00:00",
+   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 700 points during the opening minutes of trading on Thursday. At 9:35am, the benchmark index was hovering at 170,675.18, up 705.86 points or 0.42%. Buying was observed in key sectors, including automobile assemblers, ce…",
+   "image": "https://i.brecorder.com/large/2026/10/010948460b6589f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
+   "url": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
    "source": "Dawn",
-   "published": "2026-09-30T19:44:16+00:00",
-   "summary": "The Federal Board of Revenue (FBR) on Wednesday extended the cutoff date for filing income tax returns for 2026 to Oct 15, hours before the deadline was set to expire by the end of Sept 30. The notification posted on the FBR’s X account, said: “The Federal Board of Revenue is pleased to communicate that the date of fil…",
-   "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
+   "published": "2026-10-01T03:43:54+00:00",
+   "summary": "https://www.dawn.com/news/2033862",
+   "image": "https://i.dawn.com/large/2026/10/010843298589a62.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -221,12 +364,51 @@
    "domestic": false
   },
   {
-   "title": "FBR extends tax return filing deadline to October 15",
-   "url": "https://www.brecorder.com/news/40442017/fbr-extends-tax-return-filing-deadline-to-october-15",
+   "title": "Indian rupee to weaken as oil, US yields weigh; fading Fed hike bets offer no relief",
+   "url": "https://www.brecorder.com/news/40442122/indian-rupee-to-weaken-as-oil-us-yields-weigh-fading-fed-hike-bets-offer-no-relief",
    "source": "Business Recorder",
-   "published": "2026-09-30T17:38:22+00:00",
-   "summary": "The Federal Board of Revenue (FBR) extended on Wednesday the deadline for filing income tax returns for tax year 2026 from September 30 to October 15. The extension will provide taxpayers additional two weeks to submit their income tax returns. The previous deadline for filing returns was September 30. “In exercise of …",
-   "image": "https://i.brecorder.com/large/2026/09/30221313e9d908e.webp",
+   "published": "2026-10-01T03:11:17+00:00",
+   "summary": "MUMBAI: The Indian rupee is poised to drop on Thursday , with higher oil prices and US Treasury yields piling pressure on the ​currency while fading October Federal Reserve rate hike bets offer little ‌relief. The Indian rupee is expected to open in the 95.96 to 95.98 range, per traders, having settled at 95.83 to the …",
+   "image": "https://i.brecorder.com/large/2026/10/010809134f99e53.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian stocks dip, bonds in focus after torrid September",
+   "url": "https://www.brecorder.com/news/40442121/asian-stocks-dip-bonds-in-focus-after-torrid-september",
+   "source": "Business Recorder",
+   "published": "2026-10-01T03:08:24+00:00",
+   "summary": "SINGAPORE: Asian stocks were subdued on Thursday and global bonds remained under pressure after a brutal September as investors weighed a slower-than-expected rise in US inflation ​in August that lessens the probability of a rate hike later this month. Blockbuster earnings from AI chipmaker Micron failed to lift ‌the f…",
+   "image": "https://i.brecorder.com/large/2026/10/0108040538a6f07.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar gets lift from higher yields",
+   "url": "https://www.brecorder.com/news/40442120/dollar-gets-lift-from-higher-yields",
+   "source": "Business Recorder",
+   "published": "2026-10-01T03:00:31+00:00",
+   "summary": "SINGAPORE: The dollar held near a two-month high on Thursday , supported by ​an extended rise in US Treasury yields partly driven by concerns over persistent global price pressures ‌stemming from the Middle East war. Data showing US inflation rose less than expected in August, along with downward revisions to July’s re…",
+   "image": "https://i.brecorder.com/large/2026/10/01075606e687ea8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "FBR extends deadline for filing income tax returns to Oct 15",
+   "url": "https://www.dawn.com/news/2033760/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-15",
+   "source": "Dawn",
+   "published": "2026-09-30T19:44:16+00:00",
+   "summary": "The Federal Board of Revenue (FBR) on Wednesday extended the cutoff date for filing income tax returns for 2026 to Oct 15, hours before the deadline was set to expire by the end of Sept 30. The notification posted on the FBR’s X account, said: “The Federal Board of Revenue is pleased to communicate that the date of fil…",
+   "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -247,11 +429,11 @@
    "domestic": false
   },
   {
-   "title": "FBR extends income tax returns filing deadline to Oct 15",
-   "url": "https://tribune.com.pk/story/2632315/fbr-extends-income-tax-returns-filing-deadline-to-oct-15",
+   "title": "No more war impact, govt tells IMF",
+   "url": "https://tribune.com.pk/story/2632323/no-more-war-impact-govt-tells-imf",
    "source": "The Express Tribune",
-   "published": "2026-09-30T14:37:41+00:00",
-   "summary": "Notification says date has been extended to Oct 15 in view of requests from various trade bodies, tax bar associations",
+   "published": "2026-09-30T15:29:35+00:00",
+   "summary": "Lender urges adjustments in Pakistan's exchange rate, interest policies",
    "image": null,
    "topics": [
     "Budget & spending"
@@ -260,14 +442,14 @@
    "domestic": false
   },
   {
-   "title": "FBR uncovers Rs9.41bn wealth statement fraud, registers money laundering case",
-   "url": "https://www.brecorder.com/news/40442007/fbr-uncovers-rs941bn-wealth-statement-fraud-registers-money-laundering-case",
-   "source": "Business Recorder",
-   "published": "2026-09-30T14:07:56+00:00",
-   "summary": "The Federal Board of Revenue (FBR) has uncovered a fraud involving the illegal revision of wealth statements to incorporate unexplained assets worth Rs9.41 billion, registering a criminal case under the Anti-Money Laundering Act, 2010. The fraud was detected by the Directorate General of Intelligence and Investigation …",
-   "image": "https://i.brecorder.com/large/2026/09/30190705cd547b2.webp",
+   "title": "Iqbal calls for creating CAREC knowledge hub",
+   "url": "https://tribune.com.pk/story/2632320/iqbal-calls-for-creating-carec-knowledge-hub",
+   "source": "The Express Tribune",
+   "published": "2026-09-30T15:29:35+00:00",
+   "summary": "Region must move from infrastructure to information sharing to tackle challenges",
+   "image": null,
    "topics": [
-    "Budget & spending"
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -296,33 +478,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IGI Holdings acquires Akzo Nobel",
-   "url": "https://www.brecorder.com/news/40441998/igi-holdings-acquires-akzo-nobel",
-   "source": "Business Recorder",
-   "published": "2026-09-30T11:50:48+00:00",
-   "summary": "IGI Investments (Private) Limited, a wholly owned subsidiary of IGI Holdings Limited, has completed the acquisition of a 98.31% stake in Akzo Nobel Pakistan Limited for Rs15.25 billion. IGI Holdings disclosed this in a filing to the Pakistan Stock Exchange (PSX) on Wednesday. “Further to the execution of the Share Purc…",
-   "image": "https://i.brecorder.com/large/2026/09/30165016829580e.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Circular about tax returns extension is fake, FBR clarifies",
-   "url": "https://www.brecorder.com/news/40441996/circular-about-tax-returns-extension-is-fake-fbr-clarifies",
-   "source": "Business Recorder",
-   "published": "2026-09-30T11:43:00+00:00",
-   "summary": "The Federal Board of Revenue (FBR) on Tuesday dismissed as fake a circular circulating on social media regarding the extension of the deadline for filing income tax returns for tax year 2026. “The circular circulating in the media regarding the extension of the date for submitting income tax returns for the tax year 20…",
-   "image": "https://i.brecorder.com/large/2026/09/301642095b5a989.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -365,100 +520,6 @@
    "domestic": false
   },
   {
-   "title": "South African rand edges up ahead of month-end economic data",
-   "url": "https://www.brecorder.com/news/40441975/south-african-rand-edges-up-ahead-of-month-end-economic-data",
-   "source": "Business Recorder",
-   "published": "2026-09-30T07:50:46+00:00",
-   "summary": "JOHANNESBURG: The South African rand edged up in early trade on Wednesday ahead of a ​batch of month-end domestic economic data that ‌could provide fresh signals on the health of Africa’s largest economy. At 0716 GMT the rand traded at 16.3575 ​against the dollar , up roughly 0.3% from its ​previous close. Data from th…",
-   "image": "https://i.brecorder.com/large/2026/09/3012503159803bb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "European shares set for first monthly loss in six as bond yields weigh",
-   "url": "https://www.brecorder.com/news/40441973/european-shares-set-for-first-monthly-loss-in-six-as-bond-yields-weigh",
-   "source": "Business Recorder",
-   "published": "2026-09-30T07:45:01+00:00",
-   "summary": "European shares were headed for their first monthly decline in six on Wednesday as inflation risks stemming from the Middle East war battered bond markets across the globe, driving borrowing costs higher. On the day, the pan-European STOXX 600 was up 0.7% at 642.69 points by 0722 GMT. The index is set to end the month …",
-   "image": "https://i.brecorder.com/large/2026/09/30124453ca24402.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Philippines central bank sees September inflation at 6.4% to 7.4%",
-   "url": "https://www.brecorder.com/news/40441968/philippines-central-bank-sees-september-inflation-at-64-to-74",
-   "source": "Business Recorder",
-   "published": "2026-09-30T07:22:56+00:00",
-   "summary": "MANILA: Philippine inflation was likely to have been within the 6.4% to 7.4% range in September, the central bank said on Wednesday. The central bank said it “will remain vigilant and guided by incoming data, particularly on inflation and growth prospects”. The Philippines’ statistics agency will release official infla…",
-   "image": "https://i.brecorder.com/large/2026/09/30122248ab48342.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka central bank holds key rate at 8.75%",
-   "url": "https://www.brecorder.com/news/40441966/sri-lanka-central-bank-holds-key-rate-at-875",
-   "source": "Business Recorder",
-   "published": "2026-09-30T07:20:16+00:00",
-   "summary": "COLOMBO: Sri Lanka’s central bank kept its key policy rate unchanged at 8.75% on Wednesday ahead of the island nation’s budget in mid-November. The decision was in line with market expectations after Sri Lanka raised its policy rate by a steep 100 basis points in May to steady its currency and protect foreign exchange …",
-   "image": "https://i.brecorder.com/large/2026/09/301219575c9a467.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar stronger on Wednesday",
-   "url": "https://www.brecorder.com/news/40441956/thai-bahtus-dollar-stronger-on-wednesday",
-   "source": "Business Recorder",
-   "published": "2026-09-30T06:30:56+00:00",
-   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Wednesday. At 0221 GMT, the baht was 0.1% higher at 33.52 versus the dollar, after trading in a range of 33.520 to 33.600. It ended the previous session at 33.55 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/09/301130489124c21.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SK Energy seeks Mideast oil for November-to-February loading, sources say",
-   "url": "https://www.brecorder.com/news/40441954/sk-energy-seeks-mideast-oil-for-november-to-february-loading-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-09-30T06:26:41+00:00",
-   "summary": "SINGAPORE: South Korea’s SK Energy has issued a tender seeking Middle Eastern crude for loading from November to February, trade sources said on Wednesday. South Korea’s SK Hynix union approves tentative wage deal with management, source says The company is looking for supplies from Gulf producers including the United …",
-   "image": "https://i.brecorder.com/large/2026/09/30112539f356798.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX surrenders early gains, closes 369 points higher",
-   "url": "https://tribune.com.pk/story/2632231/psx-gains-over-1600-points-as-imf-talks-lift-sentiment",
-   "source": "The Express Tribune",
-   "published": "2026-09-30T03:04:27+00:00",
-   "summary": "KSE-100 settles near 170,000 as IMF talks, bond-market reforms, proposed direct LNG imports fuel investor optimism",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "FPCCI slams govt’s ‘coercive actions’ against industrialists",
    "url": "https://www.dawn.com/news/2033618/fpcci-slams-govts-coercive-actions-against-industrialists",
    "source": "Dawn",
@@ -483,19 +544,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF pushes targeted subsidies",
-   "url": "https://tribune.com.pk/story/2632134/imf-pushes-targeted-subsidies",
-   "source": "The Express Tribune",
-   "published": "2026-09-29T16:14:52+00:00",
-   "summary": "Asks to channel fuel relief via BISP; raises circular debt, SOE reform issues",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -565,20 +613,6 @@
    "domestic": false
   },
   {
-   "title": "Trading Corporation of Pakistan gets offers in wheat tender",
-   "url": "https://www.dawn.com/news/2033424/trading-corporation-of-pakistan-gets-offers-in-wheat-tender",
-   "source": "Dawn",
-   "published": "2026-09-29T03:30:32+00:00",
-   "summary": "HAMBURG: The lowest price offered in a tender from Pakistan to purchase and import 185,000 tonnes of wheat that closed on Monday was believed to be $339.36 a tonne, cost and freight (c&f) included, European traders said in initial assessments. The offer was believed to have been submitted for around 60,000 tonnes by tr…",
-   "image": "https://i.dawn.com/large/2026/09/290821405532133.webp",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "QatarEnergy extends LNG force majeure",
    "url": "https://www.dawn.com/news/2033427/qatarenergy-extends-lng-force-majeure",
    "source": "Dawn",
@@ -628,19 +662,6 @@
     "Procurement"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China to cut tariffs on US farm goods, but list excludes soya beans",
-   "url": "https://www.dawn.com/news/2033263/china-to-cut-tariffs-on-us-farm-goods-but-list-excludes-soya-beans",
-   "source": "Dawn",
-   "published": "2026-09-28T08:37:12+00:00",
-   "summary": "China is set to cut tariffs on a broad range of US agricultural goods, from corn and wheat to meat and dairy, but top import item soybeans were excluded from a tariff-reduction list jointly issued by China’s commerce ministry and the White House. Markets have been waiting for news on Chinese tariff cuts on US farm good…",
-   "image": "https://i.dawn.com/large/2026/09/281332164c365d9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -799,19 +820,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF raises concerns over agricultural income tax targets in Pakistan: sources",
-   "url": "https://arynews.tv/imf-raises-concerns-over-agricultural-income-tax-targets-in-pakistan-sources",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF raises concerns over agricultural income tax targets in Pakistan: sources",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/Pakistan-IMF-gas-debt.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]

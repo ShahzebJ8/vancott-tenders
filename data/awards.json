@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T00:10:51+00:00",
+ "generated": "2026-10-01T06:24:02+00:00",
  "count": 693,
  "with_value": 662,
  "with_winner": 262,
@@ -13191,6 +13191,51 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000003875",
+   "tender_no": "TS0000012428E",
+   "reference": "FCS/NSR/TE/031/26 Misc Hardware Material (Store Stock)",
+   "title": "Misc Hardware Material (Store Stock) Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Procurement Office, Sui Northern Gas Pipelines Limited (SNGPL) Charsada Charsada - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "Riaz Traders Mardan",
+    "Hassan Traders Gujranwala",
+    "Abdullah Traders Gujranwala",
+    "Salaar Traders Gujranwala",
+    "AL Khair Enterprises Multan"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-01",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003875",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003874",
+   "tender_no": "TS0000013655E",
+   "reference": "PCP.1-22/2026-P&#38;D",
+   "title": "Procurement of White Offset Paper 75, 90 & 100 Gsm (Imorted) Blue Box Board, White Art Card, Brown Back Kraft Card and P.S. Plates Printing",
+   "organisation": "Cabinet Division Purchase Department, Printing Corporation of Pakistan Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "A.Z. Enterprises, Lahore",
+    "Ajmal Kamal General Trading (Pvt) Ltd, Islamabad Cabinet Division"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-01",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003874",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003873",
    "tender_no": "TS0000012467E",
    "reference": "GSD (PROC-I)/ 441135 / Services /Oracle Renewal/2026",
@@ -13357,6 +13402,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003863",
+   "tender_no": "TS0000007739E",
+   "reference": "No. 01/03/26/SLA/NTBK/LOG/Re-tender",
+   "title": "Re-tender for Renewal of NetBackup Solution & Support Services for period a three (3) years Services",
+   "organisation": "Directorate General of Immigration & Passports Directorate General of Immigration &#38; Passports Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "Allied Business Machine"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-30",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003863",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003862",
    "tender_no": "TS0000011425E",
    "reference": "T/3166",
@@ -13417,6 +13482,24 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000003858",
+   "tender_no": "TS0000013168E",
+   "reference": "Ref No.PMDC/Pro/Blasting Powder//HO",
+   "title": "Tender Notice for Supply of Blasting Powder and Safety Fuses to All PMDC Salt Projects, Mining",
+   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-30",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003858",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003857",
    "tender_no": "TS0000012886E",
    "reference": "NCB-STG-13",
@@ -13468,6 +13551,26 @@
    "city": "Multan",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003855",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003854",
+   "tender_no": "TS0000012674E",
+   "reference": "REDAMCO/MRC-1/2026",
+   "title": "MRC Procurement Leasing",
+   "organisation": "Pakistan Railways Railway Estate Development &#38; Marketing Company (Pvt) Ltd (REDAMCO) Islamabad - Pakistan",
+   "bid_count": 14,
+   "lowest": [
+    "Jinn Petroleum"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-30",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003854",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -17544,44 +17647,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003628",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003627",
-   "tender_no": "TS0000014231E",
-   "reference": "test",
-   "title": "test Ammunition",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "1 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-09-21",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003627",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003626",
-   "tender_no": "TS0000014225E",
-   "reference": "TN00000054",
-   "title": "testing Ammunition Public Procurement Regulatory Authority (PPRA)",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-09-21",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003626",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -52186,64 +52251,6 @@
    "city": "Peshawar",
    "province": "Khyber Pakhtunkhwa",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001764",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001763",
-   "tender_no": "TS0000002876E",
-   "reference": "Lahore",
-   "title": "IFB for Construction of Protected U-Turn & Closing of Existing U-Turn at NBC&SBC, N-5 for Contract No. (SM-PN-24-05-18) Civil Works",
-   "organisation": "Ministry of Communications National Highway Authority (NHA) Islamabad - Pakistan",
-   "bid_count": 9,
-   "lowest": [
-    "Masood Ahmed"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001763",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001762",
-   "tender_no": "TS0000005467E",
-   "reference": "CE/CIVIL/NGC/28R/2025-26",
-   "title": "Construction of Residential Colony And Allied Facilities at 220/132kV Grid Station NGC Mirpur Khas Civil Works Ministry of Energy (Power Division)",
-   "organisation": "Ministry of Energy (Power Division) National Grid Company of Pakistan (NGC) Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-06-30",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001762",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001761",
-   "tender_no": "TS0000004790E",
-   "reference": "FCS/SDQ/TE/015/26",
-   "title": "CLAY FOR EARTH FILLING Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Al Makkah Enterprises, Lahore."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-06-30",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001761",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
