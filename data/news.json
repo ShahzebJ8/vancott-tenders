@@ -1,22 +1,22 @@
 {
- "generated": "2026-10-02T08:52:01+00:00",
- "count": 62,
- "relevant_count": 27,
- "domestic_count": 20,
+ "generated": "2026-10-02T15:22:08+00:00",
+ "count": 58,
+ "relevant_count": 22,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (19)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (11)",
-  "ARY News": "ok (12)"
+  "ARY News": "ok (9)"
  },
  "stories": [
   {
-   "title": "Fuel imports: USD1bn can be saved by adding 30,000 REEVs annually, experts say",
-   "url": "https://www.brecorder.com/news/40442311/fuel-imports-usd1bn-can-be-saved-by-adding-30000-reevs-annually-experts-say",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40442349/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-02T03:25:57+00:00",
-   "summary": "ISLAMABAD: Auto Industry experts said that Pakistan could save over USD 1 billion in fuel imports over five years by adding 30,000 range-extended electric vehicles (REEVs) annually, highlighting the potential of electric mobility to reduce household transport costs and the country’s dependence on imported petroleum. Th…",
-   "image": "https://i.brecorder.com/large/2026/10/02082549d4b10fa.webp",
+   "published": "2026-10-02T14:05:45+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 277.07, a gain of Re0.03 against the greenback. On Thursday , the Pakistani rupee settled at 277.10 against the dollar. Internationally, the US dollar headed for…",
+   "image": "https://i.brecorder.com/large/2026/10/021622316a071ba.webp",
    "topics": [
     "Economy"
    ],
@@ -24,27 +24,14 @@
    "domestic": true
   },
   {
-   "title": "Textile industry could earn additional USD3bn exports: APTMA",
-   "url": "https://www.brecorder.com/news/40442310/textile-industry-could-earn-additional-usd3bn-exports-aptma",
-   "source": "Business Recorder",
-   "published": "2026-10-02T03:22:10+00:00",
-   "summary": "LAHORE: The newly elected chairman of the All Pakistan Textile Mills Association (APTMA), Asad Shafi, has said the country’s textile industry could earn an additional USD3 billion in exports this year and USD10 billion more over the next two to three years, provided it gets a competitive and predictable business enviro…",
-   "image": "https://i.brecorder.com/large/2026/10/02082142189fe30.webp",
+   "title": "World Bank calls on govt to implement policy actions under $20bn reform partnership",
+   "url": "https://www.dawn.com/news/2034266/world-bank-calls-on-govt-to-implement-policy-actions-under-20bn-reform-partnership",
+   "source": "Dawn",
+   "published": "2026-10-02T13:01:53+00:00",
+   "summary": "ISLAMABAD: The World Bank on Friday called upon the government to expedite implementation of policy actions under its $20 billion economic reform partnership for harmonisation of sales tax, provincial agriculture and property taxes and removing regulatory constraints to achieve higher growth, revenue mobilisation and t…",
+   "image": "https://i.dawn.com/large/2026/10/02172903e80155e.webp",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Online bidding opens for premium vehicle numbers",
-   "url": "https://www.brecorder.com/news/40442304/online-bidding-opens-for-premium-vehicle-numbers",
-   "source": "Business Recorder",
-   "published": "2026-10-02T03:11:05+00:00",
-   "summary": "LAHORE: The Punjab Information Technology Board (PITB) and the Punjab Excise Department have opened online registration for October’s premium vehicle registration number auction, allowing citizens to bid for custom motorcycle, car, and commercial plates via the e-Auction portal through October 31. According to PITB on …",
-   "image": "https://i.brecorder.com/large/2026/10/020811014cb02cb.webp",
-   "topics": [
-    "Procurement"
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -87,32 +74,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Effective devolution key to Sindh's betterment",
-   "url": "https://tribune.com.pk/story/2632506/effective-devolution-key-to-sindhs-betterment",
-   "source": "The Express Tribune",
-   "published": "2026-10-01T16:39:07+00:00",
-   "summary": "Local bodies of entire country need fiscal, administrative powers to improve governance",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40442175/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-01T14:28:45+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.10, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.11 against the dollar. Internationally, the US dollar held near a two-month high o…",
-   "image": "https://i.brecorder.com/large/2026/10/01154224ce05d91.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -261,43 +222,120 @@
    "domestic": true
   },
   {
-   "title": "New rule for transfer of imported vehicles in Punjab",
-   "url": "https://arynews.tv/new-rule-for-transfer-of-imported-vehicles-in-punjab",
-   "source": "ARY News",
-   "published": null,
-   "summary": "New rule for transfer of imported vehicles in Punjab",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Imported-cars.jpg",
+   "title": "UAE stocks fall as US-Iran deadlock weighs",
+   "url": "https://www.brecorder.com/news/40442362/uae-stocks-fall-as-us-iran-deadlock-weighs",
+   "source": "Business Recorder",
+   "published": "2026-10-02T13:52:52+00:00",
+   "summary": "United Arab Emirates stock markets closed lower on Friday as a stalemate in US-Iran negotiations dampened risk appetite and unsettled energy markets. Dubai’s benchmark index fell for a fourth straight session, closing 0.5% lower, with nearly all constituents in negative territory. Emirates NBD, Dubai’s largest lender, …",
+   "image": "https://i.brecorder.com/large/2026/10/02185244d65bbc3.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan calls Houthi attack on Madinah power station a grave provocation",
-   "url": "https://www.brecorder.com/news/40442333/pakistan-calls-houthi-attack-on-madinah-power-station-a-grave-provocation",
-   "source": "Business Recorder",
-   "published": "2026-10-02T07:02:26+00:00",
-   "summary": "Pakistan on Friday condemned the attack by the Houthi militia on the Taibah power distribution station in Madinah. In a statement, Foreign Office Spokesperson Sajjad Haider Khan said this reprehensible attack against civilian infrastructure supplying electricity to the Holy Prophet’s (PBUH) Mosque is a grave provocatio…",
-   "image": "https://i.brecorder.com/large/2026/10/02115602d8bcd1c.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 sheds over 800 points",
-   "url": "https://www.brecorder.com/news/40442322/psx-kse-100-sheds-over-800-points",
+   "title": "PSX: KSE-100 settles nearly 500 points lower",
+   "url": "https://www.brecorder.com/news/40442322/psx-kse-100-settles-nearly-500-points-lower",
    "source": "Business Recorder",
-   "published": "2026-10-02T06:56:38+00:00",
-   "summary": "The benchmark KSE-100 Index slipped in the first half of Friday’s trading session as investors remained cautious amid reports that the US is sending more troops and carriers to the Middle East. At 11:52am, the benchmark index was hovering at 167,817.38, down 819.47 points or 0.49%. Selling was observed in key sectors, …",
+   "published": "2026-10-02T13:51:28+00:00",
+   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX) as investors remained cautious amid reports that the US was sending more troops and carriers to the Middle East, with the benchmark KSE-100 Index closing with a loss of nearly 500 points on Friday. Selling pressure in early trade dragged the b…",
    "image": "https://i.brecorder.com/large/2026/10/02102338b30a4d1.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Fed seen skipping October rate hike as job market cools",
+   "url": "https://www.brecorder.com/news/40442360/fed-seen-skipping-october-rate-hike-as-job-market-cools",
+   "source": "Business Recorder",
+   "published": "2026-10-02T13:41:29+00:00",
+   "summary": "Federal Reserve policymakers on Friday got more reason to wait before raising interest rates again, as government data showed the labor market is cooling more than expected. US employers added just 29,000 jobs last month, the Labor Department reported, less than the 90,000 economists had expected. August payroll gains …",
+   "image": "https://i.brecorder.com/large/2026/10/02183950d353abb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Army commanders warn of decisive action against attempts to create May 9-like situation",
+   "url": "https://www.brecorder.com/news/40442359/army-commanders-warn-of-decisive-action-against-attempts-to-create-may-9-like-situation",
+   "source": "Business Recorder",
+   "published": "2026-10-02T13:25:39+00:00",
+   "summary": "The 277th Corps Commanders’ Conference on Friday underscored the importance of internal stability and resolved that any attempt to create agitation or a situation similar to May 9 incidents, “on any pretext whatsoever,” would be dealt with through decisive action and in accordance with the rule of law, the military’s m…",
+   "image": "https://i.ytimg.com/vi/tGAmMeVIEz0/maxresdefault.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s trade deficit surges 6% YoY to $3.6bn in September 2026",
+   "url": "https://www.brecorder.com/news/40442357/pakistans-trade-deficit-surges-33-yoy-to-29bn-in-november-2025",
+   "source": "Business Recorder",
+   "published": "2026-10-02T11:46:44+00:00",
+   "summary": "Pakistan’s trade deficit marginally increased by over 6% to $3.56 billion in September 2026, as compared to the same month of the previous year, data released by the Pakistan Bureau of Statistics (PBS) showed on Friday. The country’s trade balance, the gap between exports and imports, was recorded at a deficit of $3.35…",
+   "image": "https://i.brecorder.com/large/2025/12/0212384382ab540.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm logs second straight weekly loss, hits lowest closing in 12-weeks",
+   "url": "https://www.brecorder.com/news/40442353/palm-logs-second-straight-weekly-loss-hits-lowest-closing-in-12-weeks",
+   "source": "Business Recorder",
+   "published": "2026-10-02T11:31:20+00:00",
+   "summary": "JAKARTA: Malaysian palm oil futures booked a second straight weekly decline on Friday, with prices falling for a sixth straight session to their lowest closing in 12 weeks, on weak export data and expectations of high inventory. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exc…",
+   "image": "https://i.brecorder.com/large/2026/10/0216310391f0a3b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper crawls higher on softer dollar, but investors wary about demand",
+   "url": "https://www.brecorder.com/news/40442350/copper-crawls-higher-on-softer-dollar-but-investors-wary-about-demand",
+   "source": "Business Recorder",
+   "published": "2026-10-02T11:27:10+00:00",
+   "summary": "LONDON: Copper prices edged higher on Friday, supported by a weaker dollar and supply issues, but gains were modest due to worries about high oil prices hitting demand. Benchmark three-month copper on the London Metal Exchange was up 0.3% at $14,289 a metric ton by 1000 GMT. That marked a decline of 2% since the end of…",
+   "image": "https://i.brecorder.com/large/2026/10/021626510154531.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "World Bank proposes export-finance products for Pakistan’s EXIM Bank",
+   "url": "https://www.brecorder.com/news/40442343/world-bank-proposes-export-finance-products-for-pakistans-exim-bank",
+   "source": "Business Recorder",
+   "published": "2026-10-02T09:19:36+00:00",
+   "summary": "The World Bank has proposed developing export-finance products for the Export-Import Bank of Pakistan (EXIM Bank) to support incremental trade flows, as the government and global lender reviewed measures to boost investment, exports and private-sector growth. The development came during a meeting between Finance Minist…",
+   "image": "https://i.brecorder.com/large/2026/10/02141925d84992f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Aurangzeb reviews economic reforms, trade and investment with World Bank, UK envoy",
+   "url": "https://tribune.com.pk/story/2632609/aurangzeb-reviews-economic-reforms-trade-and-investment-with-world-bank-uk-envoy",
+   "source": "The Express Tribune",
+   "published": "2026-10-02T07:33:11+00:00",
+   "summary": "Meetings focus on growth, jobs, fiscal management, investment, trade and private-sector development",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -333,6 +371,19 @@
    "published": "2026-10-02T05:11:53+00:00",
    "summary": "JAKARTA: Malaysian palm oil futures were on course for a second straight weekly fall on Friday, with prices declining for a sixth straight session to their lowest in 13 weeks, on weak export data and expectations of high inventory. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives …",
    "image": "https://i.brecorder.com/large/2026/10/02101139613023f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX down 481 points on low trading volume",
+   "url": "https://tribune.com.pk/story/2632586/psx-extends-losses-as-middle-east-caution-lingers",
+   "source": "The Express Tribune",
+   "published": "2026-10-02T03:34:50+00:00",
+   "summary": "KSE-100 closes weak at 168,155 amid subdued investor participation",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -402,19 +453,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt decides to map non-compliant shops",
-   "url": "https://tribune.com.pk/story/2632509/govt-decides-to-map-non-compliant-shops",
-   "source": "The Express Tribune",
-   "published": "2026-10-01T16:39:07+00:00",
-   "summary": "Will take punitive action against traders not applying for fixed tax scheme",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -510,58 +548,6 @@
    "domestic": false
   },
   {
-   "title": "Palm oil falls to 11-week low on weak exports, rising output",
-   "url": "https://www.brecorder.com/news/40442174/palm-oil-falls-to-11-week-low-on-weak-exports-rising-output",
-   "source": "Business Recorder",
-   "published": "2026-10-01T11:12:25+00:00",
-   "summary": "JAKARTA: Malaysian palm oil futures closed at their lowest in 11 weeks on Thursday, pressured by weakness in Chicago soyoil prices and concerns over softer September exports and rising production. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exchange lost 57 ringgit, or 1.24%,…",
-   "image": "https://i.brecorder.com/large/2026/10/011612150c18c90.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee drops to two-month low as global bond rout deepens, oil jumps",
-   "url": "https://www.brecorder.com/news/40442173/indian-rupee-drops-to-two-month-low-as-global-bond-rout-deepens-oil-jumps",
-   "source": "Business Recorder",
-   "published": "2026-10-01T11:03:15+00:00",
-   "summary": "MUMBAI: The Indian rupee dropped to its weakest level in two months as global bond yields surged to decadal highs and oil prices jumped, deepening pressure on the South Asian currency that was already hurt by foreign portfolio outflows on Thursday. The Indian rupee ended down 0.5% at 96.3150 per dollar, its sharpest si…",
-   "image": "https://i.brecorder.com/large/2026/10/01160256b7c4d7a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand weakens ahead of manufacturing survey and car sales data",
-   "url": "https://www.brecorder.com/news/40442164/south-african-rand-weakens-ahead-of-manufacturing-survey-and-car-sales-data",
-   "source": "Business Recorder",
-   "published": "2026-10-01T07:46:01+00:00",
-   "summary": "JOHANNESBURG: The South African rand weakened in early trade on Thursday ahead ​of the release of a local ‌manufacturing purchasing managers’ index (PMI) and vehicle sales data for September. At 0709 GMT the rand ​traded at 16.4875 against the dollar , ​down about 0.3% from its previous ⁠close. An Absa PMI survey is se…",
-   "image": "https://i.brecorder.com/large/2026/10/01124415d6dc852.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia January-August coal export volume down 9.33% y/y, data shows",
-   "url": "https://www.brecorder.com/news/40442160/indonesia-january-august-coal-export-volume-down-933-yy-data-shows",
-   "source": "Business Recorder",
-   "published": "2026-10-01T06:48:40+00:00",
-   "summary": "JAKARTA: Indonesia exported 227.70 million metric tons of coal from January to August, down 9.33% from the same period last year, statistics bureau data showed on Thursday. The shipments were worth $16.58 billion, 4.31% higher than the corresponding period in 2025. The bureau’s figures are based on reports from the cus…",
-   "image": "https://i.brecorder.com/large/2026/10/01114834a43e075.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
    "url": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
    "source": "Dawn",
@@ -599,19 +585,6 @@
     "Energy & power"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia resumes Yanbu oil loading after pipeline restart",
-   "url": "https://www.dawn.com/news/2033575/saudi-arabia-resumes-yanbu-oil-loading-after-pipeline-restart",
-   "source": "Dawn",
-   "published": "2026-09-29T19:03:27+00:00",
-   "summary": "Saudi Arabia has resumed oil tanker loadings from its Red Sea port of Yanbu after restarting operations on the East-West Pipeline, according to trade sources and shipping data, improving the outlook for oil exports from the Middle East. The resumption of Yanbu loadings, halted earlier this month after a drone attack on…",
-   "image": "https://i.dawn.com/large/2026/09/30000055f5c9f39.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -678,6 +651,32 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
+   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close lower as KSE-100 falls 481 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PSX-downward-trend-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China oil products’ export suspension to choke supplies in Asia",
+   "url": "https://arynews.tv/china-oil-products-export-suspension-to-choke-supplies-in-asia",
+   "source": "ARY News",
+   "published": null,
+   "summary": "China oil products’ export suspension to choke supplies in Asia",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/China-Oil.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -765,59 +764,6 @@
    "published": null,
    "summary": "FBR extends income tax return filing deadline",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Electricity per unit sales tax rates revised for steel sector",
-   "url": "https://arynews.tv/electricity-per-unit-sales-tax-rates-revised-for-steel-sector",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Electricity per unit sales tax rates revised for steel sector",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Steel.jpg",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks end higher as KSE-100 index gains over 368 points",
-   "url": "https://arynews.tv/psx-stocks-end-higher-as-kse-100-index-gains-over-368-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks end higher as KSE-100 index gains over 368 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-39.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Commercial banks to remain open until 10 pm today for tax return submissions",
-   "url": "https://arynews.tv/commercial-banks-to-remain-open-until-10-pm-today-for-tax-return-submissions",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Commercial banks to remain open until 10 pm today for tax return submissions",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Income-Tax-Returns.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FPCCI demands FBR to extend income tax filing deadline to October 31",
-   "url": "https://arynews.tv/fpcci-demands-fbr-to-extend-income-tax-filing-deadline-to-october-31",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FPCCI demands FBR to extend income tax filing deadline to October 31",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FPCCI.jpg",
    "topics": [
     "Budget & spending"
    ],
