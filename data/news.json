@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-01T23:23:33+00:00",
- "count": 66,
- "relevant_count": 28,
- "domestic_count": 15,
+ "generated": "2026-10-02T02:29:18+00:00",
+ "count": 73,
+ "relevant_count": 31,
+ "domestic_count": 23,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (20)",
@@ -11,14 +11,120 @@
  },
  "stories": [
   {
-   "title": "SBP-held foreign exchange reserves rise $39m to $21.44bn",
-   "url": "https://www.brecorder.com/news/40442201/sbp-held-foreign-exchange-reserves-rise-39m-to-2144bn",
+   "title": "IR Commissioners’ powers taken back: FBR wing to only conduct faceless audits, assessments",
+   "url": "https://www.brecorder.com/news/40442275/ir-commissioners-powers-taken-back-fbr-wing-to-only-conduct-faceless-audits-assessments",
    "source": "Business Recorder",
-   "published": "2026-10-01T15:39:57+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $39 million during the week ended September 25, 2026, reaching $21.439 billion, according to data released by the central bank on Thursday. The country’s total liquid foreign reserves stood at $26.771 billion as of September 25, compared wi…",
-   "image": "https://i.brecorder.com/large/2026/10/012036386f4254e.webp",
+   "published": "2026-10-02T02:12:02+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) Thursday withdrawn discretionary powers of the Commissioners Inland Revenue to unilaterally conduct audit and assessments of taxpayers through direct interactions under section 177 or section 214C and proceedings under section 111 (unexplained income) of the Income Tax Ordi…",
+   "image": "https://i.brecorder.com/large/2026/10/02071155c729028.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "TCP sugar export tender gets no bids",
+   "url": "https://www.brecorder.com/news/40442274/tcp-sugar-export-tender-gets-no-bids",
+   "source": "Business Recorder",
+   "published": "2026-10-02T02:09:09+00:00",
+   "summary": "KARACHI: The sugar export tender floated by the Trading Corporation of Pakistan (TCP) has failed to attract even a single bid, mainly due to the condition of a high minimum reserve price of USD660 per metric ton. The state run grain trader, on the directives of the federal government, on September 6, 2026 issued a tend…",
+   "image": "https://i.brecorder.com/large/2026/10/02070858cac29bc.webp",
+   "topics": [
+    "Procurement",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Poor consumers to get cash via BISP: Govt, IMF agree to make power subsidies more targeted",
+   "url": "https://www.brecorder.com/news/40442272/poor-consumers-to-get-cash-via-bisp-govt-imf-agree-to-make-power-subsidies-more-targeted",
+   "source": "Business Recorder",
+   "published": "2026-10-02T02:06:15+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) and the government are expected to finalise next week a mechanism for replacing tariff-based electricity subsidies for poor consumers with direct cash transfers through the Benazir Income Support Programme (BISP), as part of efforts to make energy subsidies more targeted…",
+   "image": "https://i.brecorder.com/large/2026/10/02070551ccf8603.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FD moves to strengthen public finance management, budgeting",
+   "url": "https://www.brecorder.com/news/40442271/fd-moves-to-strengthen-public-finance-management-budgeting",
+   "source": "Business Recorder",
+   "published": "2026-10-02T02:01:06+00:00",
+   "summary": "ISLAMABAD: The Finance Division has initiated measures to strengthen public finance management, fiscal forecasting, budget execution and performance-based budgeting by bringing in specialised expertise to implement reforms n federal budgetary practices. Official sources said that the initiative envisages strengthening …",
+   "image": "https://i.brecorder.com/large/2026/10/02070058edaecaa.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sept CPI inflation up 10.3pc YoY",
+   "url": "https://www.brecorder.com/news/40442263/sept-cpi-inflation-up-103pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-10-02T01:55:01+00:00",
+   "summary": "ISLAMABAD: The Consumer Price Index-based inflation has registered an increase of 10.3 percent on a year-on-year (YoY) basis in September 2026, as compared to an increase of 5.8 percent in September 2025 and 11.1 percentin the previous month. According to CPI data released here on Thursday by the Pakistan Bureau of Sta…",
+   "image": "https://i.brecorder.com/large/2026/10/02065449b0f482b.webp",
    "topics": [
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Exporters reject blame for structural failures",
+   "url": "https://www.brecorder.com/news/40442261/exporters-reject-blame-for-structural-failures",
+   "source": "Business Recorder",
+   "published": "2026-10-02T01:52:16+00:00",
+   "summary": "KARACHI: The All Pakistan Exporters Associations Forum on Thursday rejected criticism that exporters have failed despite years of government support, saying the country’s export problem lies in high production costs and weak competitiveness rather than product quality. They asked for stable long-term industrial and tra…",
+   "image": "https://i.brecorder.com/large/2026/10/020652049dcda92.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Faceless audits: FBR unveils new procedure",
+   "url": "https://www.brecorder.com/news/40442235/faceless-audits-fbr-unveils-new-procedure",
+   "source": "Business Recorder",
+   "published": "2026-10-02T00:28:38+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has issued a new procedure for conducting faceless audits of taxpayers, defining the functions and responsibilities of the Faceless Audit Unit and its officers. According to a notification issued by the FBR on Thursday, the Faceless Audit Unit shall perform the following fu…",
+   "image": "https://i.brecorder.com/large/2026/10/02035103a92a259.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sindh Cabinet orders wheat releases from 20th, endorses judicial appointments",
+   "url": "https://www.brecorder.com/news/40442242/sindh-cabinet-orders-wheat-releases-from-20th-endorses-judicial-appointments",
+   "source": "Business Recorder",
+   "published": "2026-10-02T00:28:38+00:00",
+   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah on Thursday presided over a meeting of the Provincial Cabinet and approved the extension of the Mir Raza Ali Inquiry Commission, ordered wheat releases from October 20, endorsed important judicial appointments, approved plans for a Mother and Child Hospital in Karachi, …",
+   "image": "https://i.brecorder.com/large/2026/10/0203553745e1ef6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Disruptions in LNG supply to hit industry hard",
+   "url": "https://www.brecorder.com/news/40442254/disruptions-in-lng-supply-to-hit-industry-hard",
+   "source": "Business Recorder",
+   "published": "2026-10-02T00:28:38+00:00",
+   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum (PBIF), Mian Zahid Hussain, has expressed deep concern over the suspension of LNG supply to Pakistan by Qatar until November 5 under the “force majeure” clause. He explained that “force majeure” is a legal provision that relieves parties from fulfil…",
+   "image": "https://i.brecorder.com/large/2026/10/020408558ef0647.webp",
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -208,12 +314,25 @@
    "domestic": true
   },
   {
-   "title": "Pakistan eyes B+ sovereign credit rating by Sept 2027: finance minister",
-   "url": "https://www.brecorder.com/news/40442205/pakistan-eyes-b-sovereign-credit-rating-by-sept-2027-finance-minister",
+   "title": "Chinese refiners suspend October fuel exports",
+   "url": "https://www.brecorder.com/news/40442264/chinese-refiners-suspend-october-fuel-exports",
    "source": "Business Recorder",
-   "published": "2026-10-01T17:16:36+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb said on Thursday Pakistan was expected to be upgraded to ‘B+’ sovereign credit rating by first quarter (Jul–Sep) of the next fiscal year 2027-28 by global agencies, adding it was premature to say whether ongoing $7 billion IMF Extended Fund Facility (EFF) would be the country’s last …",
-   "image": "https://i.brecorder.com/large/2026/10/01221106750b922.webp",
+   "published": "2026-10-02T01:58:46+00:00",
+   "summary": "SINGAPORE: Chinese refiners have suspended oil product exports for October, four people briefed on the matter said, as Beijing looks to preserve domestic stocks, a move that will further crimp war-constrained fuel markets. Beijing restricted fuel exports in March after the outbreak of the Iran war disrupted Middle East…",
+   "image": "https://i.brecorder.com/large/2026/10/02065812d79efe4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "State of the economy",
+   "url": "https://www.brecorder.com/news/40442244/state-of-the-economy",
+   "source": "Business Recorder",
+   "published": "2026-10-02T00:58:32+00:00",
+   "summary": "EDITORIAL: The September Update and Outlook has been uploaded by the Finance Division on its website and presents a mixed bag of achievements and failures – achievements linked to the implementation of the International Monetary Fund (IMF) conditions under the ongoing Extended Fund Facility programme and failures assoc…",
+   "image": "https://i.brecorder.com/large/2026/10/02035729a7dd335.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -221,16 +340,16 @@
    "domestic": false
   },
   {
-   "title": "Pakistan, IMF and politics behind the numbers",
-   "url": "https://www.brecorder.com/news/40442204/pakistan-imf-and-politics-behind-the-numbers",
+   "title": "Energy shock keeps inflation elevated",
+   "url": "https://www.brecorder.com/news/40442252/energy-shock-keeps-inflation-elevated",
    "source": "Business Recorder",
-   "published": "2026-10-01T16:44:08+00:00",
-   "summary": "Pakistan’s relationship with the International Monetary Fund (IMF) is decades old. Pakistan joined the IMF in 1950 and entered its first Stand-By Arrangement in 1958. Since then, the country has entered into 25 IMF arrangements, moving repeatedly between periods of stabilisation, reform and renewed balance-of-payments …",
-   "image": "https://i.brecorder.com/large/2026/10/01214137f8d8704.webp",
+   "published": "2026-10-02T00:28:38+00:00",
+   "summary": "The double-digit inflation spree continues, as inflation remained above 10 percent in five out of the last six months due to the low-base effect, a sharp rise in energy prices, and elevated wheat and other food prices. The reading stood at 10.3 percent in September, compared to 11.1 percent in the previous month and 5.…",
+   "image": "https://i.brecorder.com/large/2026/10/020406539b60ce6.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -260,19 +379,6 @@
    "domestic": false
   },
   {
-   "title": "Fashion brand Khaadi plans IPO next month: report",
-   "url": "https://www.brecorder.com/news/40442196/fashion-brand-khaadi-plans-ipo-next-month-report",
-   "source": "Business Recorder",
-   "published": "2026-10-01T14:42:45+00:00",
-   "summary": "Khaadi Pakistan Ltd., a fashion retailer, is planning to launch an initial public offering (IPO) next month to raise funds for expanding its retail outlet network, Bloomberg reported on Thursday. As per the report, the company plans to raise between Rs6.2 billion and Rs8.3 billion. Khaadi is a subsidiary of Weaves Corp…",
-   "image": "https://i.brecorder.com/large/2026/10/0119394950bdc53.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Indian firms defy stock market slump with record $25 billion half-year equity fundraise",
    "url": "https://www.brecorder.com/news/40442192/indian-firms-defy-stock-market-slump-with-record-25-billion-half-year-equity-fundraise",
    "source": "Business Recorder",
@@ -293,19 +399,6 @@
    "published": "2026-10-01T12:39:34+00:00",
    "summary": "Indian rice export prices were at an over one-year high this week, driven by improving demand and concerns over production due to flooding in rice-growing areas after a dry spell. India’s 5% broken parboiled variety was quoted at $378-$384 per ton this week, its highest since July 2025, and up from last week’s $375-$38…",
    "image": "https://i.brecorder.com/large/2026/10/011739146e4982b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US tells France and Germany to release diesel stocks or face US export ban, sources say",
-   "url": "https://www.brecorder.com/news/40442182/us-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-10-01T12:05:43+00:00",
-   "summary": "WASHINGTON/BRUSSELS/PARIS: The Trump administration has told Germany and France to draw down emergency diesel inventories to help to ease global fuel prices or face a potential US diesel export ban, said three people close to the discussions. The warning marks an escalation of pressure on Europe as US President Donald …",
-   "image": "https://i.brecorder.com/large/2026/10/011704208e2b5b6.webp",
    "topics": [
     "Economy"
    ],
