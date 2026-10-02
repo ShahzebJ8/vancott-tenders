@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T15:22:03+00:00",
+ "generated": "2026-10-02T20:07:33+00:00",
  "count": 697,
  "with_value": 666,
  "with_winner": 263,
@@ -15230,6 +15230,26 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003832",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003831",
+   "tender_no": "TS0000011005E",
+   "reference": "P81868",
+   "title": "Provision and installation of Fire Hydrant System Equipments",
+   "organisation": "Ministry of Finance Collectorate of Customs Enforcement, Hyderabad Hyderabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "P81868"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-29",
+   "city": "Hyderabad",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003831",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -52260,26 +52280,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001854",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001853",
-   "tender_no": "TS0000003540E",
-   "reference": "A (01)/PSEB/2026-08",
-   "title": "Procurement of Web Based Email Marketing Application Services",
-   "organisation": "Ministry of IT and Telecom Pakistan Software Export Board (PSEB) Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Tezhost"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-03",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001853",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

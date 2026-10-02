@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-02T15:22:08+00:00",
- "count": 58,
- "relevant_count": 22,
- "domestic_count": 16,
+ "generated": "2026-10-02T20:07:38+00:00",
+ "count": 56,
+ "relevant_count": 20,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (19)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (11)",
-  "ARY News": "ok (9)"
+  "Dawn": "ok (18)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (10)",
+  "ARY News": "ok (8)"
  },
  "stories": [
   {
@@ -209,17 +209,43 @@
    "domestic": true
   },
   {
-   "title": "FBR integrates blockchain trade verification",
-   "url": "https://www.dawn.com/news/2033654/fbr-integrates-blockchain-trade-verification",
-   "source": "Dawn",
-   "published": "2026-09-30T02:00:38+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has integrated customs administration with ValidAP, the blockchain-based cross-validation platform, to advance secure digital trade and facilitation. ValidAP was developed and hosted by Hong Kong Customs. The integration has been operationalised through Pakistan Single Wind…",
-   "image": "https://i.dawn.com/large/2026/09/300813047c4fd26.webp",
+   "title": "Army commanders warn of decisive action against attempts to create May 9-like situation",
+   "url": "https://www.brecorder.com/news/40442359/army-commanders-warn-of-decisive-action-against-attempts-to-create-may-9-like-situation",
+   "source": "Business Recorder",
+   "published": "2026-10-02T18:01:53+00:00",
+   "summary": "The 277th Corps Commanders’ Conference on Friday underscored the importance of internal stability and resolved that any attempt to create agitation or a situation similar to May 9 incidents, “on any pretext whatsoever,” would be dealt with through decisive action and in accordance with the rule of law, the military’s m…",
+   "image": "https://i.ytimg.com/vi/tGAmMeVIEz0/maxresdefault.jpg",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s trade deficit surges 6% YoY to $3.6bn in September 2026",
+   "url": "https://www.brecorder.com/news/40442357/pakistans-trade-deficit-surges-33-yoy-to-29bn-in-november-2025",
+   "source": "Business Recorder",
+   "published": "2026-10-02T17:47:35+00:00",
+   "summary": "Pakistan’s trade deficit marginally increased by over 6% to $3.56 billion in September 2026, as compared to the same month of the previous year, data released by the Pakistan Bureau of Statistics (PBS) showed on Friday. The country’s trade balance, the gap between exports and imports, was recorded at a deficit of $3.35…",
+   "image": "https://i.brecorder.com/large/2025/12/0212384382ab540.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices drop as Europe agrees to release diesel reserves",
+   "url": "https://www.brecorder.com/news/40442312/oil-prices-drop-as-europe-agrees-to-release-diesel-reserves",
+   "source": "Business Recorder",
+   "published": "2026-10-02T16:41:36+00:00",
+   "summary": "HOUSTON: Oil prices fell $2 after European leaders agreed on Friday to a request by US President Donald Trump to release diesel from their reserves to lower prices and reduce the need to import fuel from America. Brent was down $1.80, or 1.76%, at $100.50 a barrel at 10:49 a.m. CDT (1649 GMT). West Texas Intermediate d…",
+   "image": "https://i.brecorder.com/large/2026/10/02122604f1e152b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "UAE stocks fall as US-Iran deadlock weighs",
@@ -254,32 +280,6 @@
    "published": "2026-10-02T13:41:29+00:00",
    "summary": "Federal Reserve policymakers on Friday got more reason to wait before raising interest rates again, as government data showed the labor market is cooling more than expected. US employers added just 29,000 jobs last month, the Labor Department reported, less than the 90,000 economists had expected. August payroll gains …",
    "image": "https://i.brecorder.com/large/2026/10/02183950d353abb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Army commanders warn of decisive action against attempts to create May 9-like situation",
-   "url": "https://www.brecorder.com/news/40442359/army-commanders-warn-of-decisive-action-against-attempts-to-create-may-9-like-situation",
-   "source": "Business Recorder",
-   "published": "2026-10-02T13:25:39+00:00",
-   "summary": "The 277th Corps Commanders’ Conference on Friday underscored the importance of internal stability and resolved that any attempt to create agitation or a situation similar to May 9 incidents, “on any pretext whatsoever,” would be dealt with through decisive action and in accordance with the rule of law, the military’s m…",
-   "image": "https://i.ytimg.com/vi/tGAmMeVIEz0/maxresdefault.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s trade deficit surges 6% YoY to $3.6bn in September 2026",
-   "url": "https://www.brecorder.com/news/40442357/pakistans-trade-deficit-surges-33-yoy-to-29bn-in-november-2025",
-   "source": "Business Recorder",
-   "published": "2026-10-02T11:46:44+00:00",
-   "summary": "Pakistan’s trade deficit marginally increased by over 6% to $3.56 billion in September 2026, as compared to the same month of the previous year, data released by the Pakistan Bureau of Statistics (PBS) showed on Friday. The country’s trade balance, the gap between exports and imports, was recorded at a deficit of $3.35…",
-   "image": "https://i.brecorder.com/large/2025/12/0212384382ab540.webp",
    "topics": [
     "Economy"
    ],
@@ -440,19 +440,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM for export-led economic growth",
-   "url": "https://tribune.com.pk/story/2632504/pm-for-export-led-economic-growth",
-   "source": "The Express Tribune",
-   "published": "2026-10-01T16:39:07+00:00",
-   "summary": "FinMin emphasises growth will reach 4% in 2027 vs 3.7% last year",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -751,19 +738,6 @@
    "published": null,
    "summary": "FBR tax collection reaches Rs3.66tr in July-September 2026",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-tax-collection-record.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FBR extends income tax return filing deadline",
-   "url": "https://arynews.tv/fbr-extends-income-tax-return-filing-deadline",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR extends income tax return filing deadline",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
    "topics": [
     "Budget & spending"
    ],
