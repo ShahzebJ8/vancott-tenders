@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T03:34:30+00:00",
+ "generated": "2026-10-03T09:28:18+00:00",
  "count": 697,
  "with_value": 666,
  "with_winner": 263,
@@ -13267,6 +13267,26 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000003950",
+   "tender_no": "TS0000012803E",
+   "reference": "PMU-209/26-27",
+   "title": "Procurement of Circuit Breakers Electrical Items",
+   "organisation": "Ministry of Energy (Power Division) Hyderabad Electric Supply Company (HESCO) Hyderabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "Gafoor Engineering Pvt Ltd"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-03",
+   "city": "Hyderabad",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003950",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003949",
    "tender_no": "TS0000004634E",
    "reference": "SSGC/FP/PT/14305",
@@ -13597,6 +13617,24 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003928",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003927",
+   "tender_no": "TS0000012806E",
+   "reference": "P83326",
+   "title": "Purchase of Stationery Stationery",
+   "organisation": "National Accountability Bureau (NAB) NAB Complex Lahore - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-02",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003927",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -52239,47 +52277,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001857",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001856",
-   "tender_no": "TS0000007058E",
-   "reference": "Reference No. PID (1) 9534/25",
-   "title": "EXPRESSION OF INTEREST (EOI) Pre-Qualification of all Electric Vehicle (EV) 3-Wheelers Original Equipment Manufacturers (OEMs) /Assemblers for PAVE Phase-II & Subsequent Phases. Vehicles",
-   "organisation": "Engineering Development Board (EDB) Engineering Development Board (EDB) Islamabad - Pakistan",
-   "bid_count": 8,
-   "lowest": [
-    "05 Engineering Development Board (EDB)"
-   ],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-07-03",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001856",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001854",
-   "tender_no": "TS0000006543E",
-   "reference": "No.6004/73/E-6",
-   "title": "Repair/Maint works at Chhor Cantt Repair/Maintenance",
-   "organisation": "Ministry of Defence Assistant Garrison Engineer (Army) Chhor - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Niaz Muhammad",
-    "Jabir Gantha & Co."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-03",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001854",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

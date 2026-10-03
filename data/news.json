@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-03T03:34:36+00:00",
- "count": 61,
- "relevant_count": 22,
- "domestic_count": 21,
+ "generated": "2026-10-03T09:28:23+00:00",
+ "count": 55,
+ "relevant_count": 18,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (18)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (10)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (6)",
   "ARY News": "ok (8)"
  },
  "stories": [
@@ -101,19 +101,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Sept cement despatches up 7.35pc YoY",
-   "url": "https://www.brecorder.com/news/40442407/sept-cement-despatches-up-735pc-yoy",
-   "source": "Business Recorder",
-   "published": "2026-10-03T00:20:21+00:00",
-   "summary": "LAHORE: Domestic cement despatches registered an increase of 7.35 percent in September 2026, reaching 3.788 million tons compared to 3.529 million tons in the corresponding month of the previous year. According to the data released by the All Pakistan Cement Manufacturers Association, however, export despatches were al…",
-   "image": "https://i.brecorder.com/large/2026/10/030228528b3dbcf.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -289,6 +276,32 @@
    "domestic": true
   },
   {
+   "title": "Oil tankers attacked in Hormuz strait",
+   "url": "https://www.brecorder.com/news/40442472/oil-tankers-attacked-in-hormuz-strait",
+   "source": "Business Recorder",
+   "published": "2026-10-03T08:33:42+00:00",
+   "summary": "TEHRAN: Two oil tankers have been struck by “unidentified projectiles” in the Strait of Hormuz region, a British maritime agency said Friday, in the latest threat to shipping in the waterway. The Hormuz passage, through which a fifth of the world’s oil and LNG passed before the US and Israel launched strikes against Ir…",
+   "image": "https://i.brecorder.com/large/2026/10/031332073ccb267.gif",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Russia strikes another major bridge in Ukraine capital",
+   "url": "https://www.brecorder.com/news/40442470/russia-strikes-another-major-bridge-in-ukraine-capital",
+   "source": "Business Recorder",
+   "published": "2026-10-03T07:56:53+00:00",
+   "summary": "KYIV, Ukraine: A Russian strike targeted a major bridge in Kyiv, its mayor said Saturday, in another attack on Ukrainian infrastructure that has brought traffic chaos to the capital. The attack on the Northern Bridge, which followed a drone alert, came a day after the Southern Bridge was hit in a wave of strikes that c…",
+   "image": "https://i.brecorder.com/large/2026/10/031256313f6f9d7.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Sept LNG shipments through Hormuz hit highest since start of US-Iran war",
    "url": "https://www.brecorder.com/news/40442432/sept-lng-shipments-through-hormuz-hit-highest-since-start-of-us-iran-war",
    "source": "Business Recorder",
@@ -302,29 +315,42 @@
    "domestic": false
   },
   {
-   "title": "Milk them, then cap them",
-   "url": "https://www.brecorder.com/news/40442395/milk-them-then-cap-them",
-   "source": "Business Recorder",
-   "published": "2026-10-03T01:17:25+00:00",
-   "summary": "EDITORIAL: Dairy and livestock farmers demanding a seat at the policy table are asking for something considerably more fundamental than another increase in the official price of milk. Their complaint goes to the economics of producing it. Feed, fodder, electricity, medicines, vaccines, labour and transport all carry co…",
-   "image": "https://i.brecorder.com/large/2026/10/030132484cf270b.webp",
+   "title": "Trade deficit widens to $10.8b in first quarter",
+   "url": "https://tribune.com.pk/story/2632670/trade-deficit-widens-to-108b-in-first-quarter",
+   "source": "The Express Tribune",
+   "published": "2026-10-02T17:24:34+00:00",
+   "summary": "Import growth outpaces encouraging momentum in exports",
+   "image": null,
    "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
   },
   {
-   "title": "Growth forecasts",
-   "url": "https://www.brecorder.com/news/40442394/growth-forecasts",
-   "source": "Business Recorder",
-   "published": "2026-10-03T00:20:21+00:00",
-   "summary": "EDITORIAL: Asian Development Bank has forecast Pakistan’s growth for the ongoing fiscal year at 3.7 percent – 0.3 percent lower than the government forecast for the year at 4 percent and identical to the growth rate (provisional) for 2025-26 as noted on the Pakistan Bureau of Statistics (PBS) website with the size of t…",
-   "image": "https://i.brecorder.com/large/2026/10/030132149380930.webp",
+   "title": "Gold rises despite weekly global losses",
+   "url": "https://tribune.com.pk/story/2632673/gold-rises-despite-weekly-global-losses",
+   "source": "The Express Tribune",
+   "published": "2026-10-02T17:24:34+00:00",
+   "summary": "Gains Rs2,000 to Rs440,636/tola; rupee up 3 paisa to 277.07/$",
+   "image": null,
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX sheds 481 points amid muted participation",
+   "url": "https://tribune.com.pk/story/2632675/psx-sheds-481-points-amid-muted-participation",
+   "source": "The Express Tribune",
+   "published": "2026-10-02T17:24:34+00:00",
+   "summary": "KSE-100 index weighed down by higher crude prices, US-Iran uncertainty",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -406,19 +432,6 @@
    "domestic": false
   },
   {
-   "title": "Aurangzeb reviews economic reforms, trade and investment with World Bank, UK envoy",
-   "url": "https://tribune.com.pk/story/2632609/aurangzeb-reviews-economic-reforms-trade-and-investment-with-world-bank-uk-envoy",
-   "source": "The Express Tribune",
-   "published": "2026-10-02T07:33:11+00:00",
-   "summary": "Meetings focus on growth, jobs, fiscal management, investment, trade and private-sector development",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Japan's Nikkei retreats from 6-week high as investors lock in gains",
    "url": "https://www.brecorder.com/news/40442329/japans-nikkei-retreats-from-6-week-high-as-investors-lock-in-gains",
    "source": "Business Recorder",
@@ -451,19 +464,6 @@
    "published": "2026-10-02T05:11:53+00:00",
    "summary": "JAKARTA: Malaysian palm oil futures were on course for a second straight weekly fall on Friday, with prices declining for a sixth straight session to their lowest in 13 weeks, on weak export data and expectations of high inventory. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives …",
    "image": "https://i.brecorder.com/large/2026/10/02101139613023f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX down 481 points on low trading volume",
-   "url": "https://tribune.com.pk/story/2632586/psx-extends-losses-as-middle-east-caution-lingers",
-   "source": "The Express Tribune",
-   "published": "2026-10-02T03:34:50+00:00",
-   "summary": "KSE-100 closes weak at 168,155 amid subdued investor participation",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -510,37 +510,11 @@
    "domestic": false
   },
   {
-   "title": "Petrol subsidy puts govt, IMF at odds",
-   "url": "https://tribune.com.pk/story/2632503/petrol-subsidy-puts-govt-imf-at-odds",
-   "source": "The Express Tribune",
-   "published": "2026-10-01T16:39:07+00:00",
-   "summary": "Deadlock persists over writing off Rs1.4tr receivables of gas firms",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX loses 1,332 points amid selling pressure",
    "url": "https://tribune.com.pk/story/2632511/psx-loses-1332-points-amid-selling-pressure",
    "source": "The Express Tribune",
    "published": "2026-10-01T16:39:07+00:00",
    "summary": "Oil surge, inflation and US-Iran uncertainty impact market outlook",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Foreign reserves grow to $26.8b",
-   "url": "https://tribune.com.pk/story/2632505/foreign-reserves-grow-to-268b",
-   "source": "The Express Tribune",
-   "published": "2026-10-01T16:39:07+00:00",
-   "summary": "SBP's forex holdings jump $39m; gold falls Rs3,000 per tola",
    "image": null,
    "topics": [
     "Economy"
@@ -602,19 +576,6 @@
    "domestic": false
   },
   {
-   "title": "Global vegetable oil prices seen rising on tighter supply, says analyst Mielke",
-   "url": "https://www.brecorder.com/news/40442177/global-vegetable-oil-prices-seen-rising-on-tighter-supply-says-analyst-mielke",
-   "source": "Business Recorder",
-   "published": "2026-10-01T11:26:53+00:00",
-   "summary": "MUMBAI: Global vegetable oil prices may rise in the coming months and into 2027 on tighter supply as disrupted Black Sea sunflower-oil shipments coincide with declining South American soyoil exports, a leading industry analyst said on Thursday. Sunflower oil shipments from Russia and Ukraine would be around 300,000-350…",
-   "image": "https://i.brecorder.com/large/2026/10/011625415d11091.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
    "url": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
    "source": "Dawn",
@@ -636,46 +597,6 @@
    "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold drops despite global rebound",
-   "url": "https://tribune.com.pk/story/2632136/gold-drops-despite-global-rebound",
-   "source": "The Express Tribune",
-   "published": "2026-09-29T16:14:52+00:00",
-   "summary": "Falls Rs800/tola as Fed rate hike bets persist; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX falls below 170k over regional conflict",
-   "url": "https://tribune.com.pk/story/2632132/psx-falls-below-170k-over-regional-conflict",
-   "source": "The Express Tribune",
-   "published": "2026-09-29T16:14:52+00:00",
-   "summary": "KSE-100 index erases gains, decreases 825 points amid IMF review",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "New PPRA rules retain direct SOE contracting",
-   "url": "https://tribune.com.pk/story/2631949/new-ppra-rules-retain-direct-soe-contracting",
-   "source": "The Express Tribune",
-   "published": "2026-09-28T15:49:33+00:00",
-   "summary": "Govt notifies procurement laws, ignores 40% sub-contracting limit",
-   "image": null,
-   "topics": [
-    "Procurement"
    ],
    "relevant": true,
    "domestic": false
