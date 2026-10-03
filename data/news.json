@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03T18:10:46+00:00",
- "count": 52,
+ "generated": "2026-10-03T21:41:53+00:00",
+ "count": 54,
  "relevant_count": 17,
- "domestic_count": 18,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (16)",
@@ -10,6 +10,19 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "APEAF acknowledges PM’s focus on exports growth",
+   "url": "https://www.brecorder.com/news/40442518/apeaf-acknowledges-pms-focus-on-exports-growth",
+   "source": "Business Recorder",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "KARACHI: The All Pakistan Exporters Associations Forum (APEAF) has clarified its earlier reaction to Prime Minister Shehbaz Sharif’s remarks on the performance of export-oriented industries, saying it recognises the premier’s focus on export growth and believes that continued consultation between the government and ind…",
+   "image": "https://i.brecorder.com/large/2026/10/040130046665384.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Local automakers voice concerns as imports of used cars surge in Sept",
    "url": "https://www.dawn.com/news/2034516/local-automakers-voice-concerns-as-imports-of-used-cars-surge-in-sept",
@@ -24,38 +37,12 @@
    "domestic": true
   },
   {
-   "title": "Customs make historic seizure of Rs5.40bn narcotics",
-   "url": "https://www.brecorder.com/news/40442419/customs-make-historic-seizure-of-rs540bn-narcotics",
-   "source": "Business Recorder",
-   "published": "2026-10-03T02:34:11+00:00",
-   "summary": "ISLAMABAD: The Collectorate of Customs (Enforcement), Islamabad, has made a historic seizure of narcotics of around Rs 5.40 billion including 1,200 kgs of charas and 100 kgs of poppy seeds on M-2 Motorway. Addressing a press conference at the Customs House Islamabad on Friday, Moin ud Din Ahmad Wani Collector of Custom…",
-   "image": "https://i.brecorder.com/large/2026/10/03073357f63d4b3.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Weekly inflation surges 11.53pc",
    "url": "https://www.dawn.com/news/2034341/weekly-inflation-surges-1153pc",
    "source": "Dawn",
    "published": "2026-10-03T02:34:07+00:00",
    "summary": "ISLAMABAD: Short-term inflation surged 11.53 per cent year on year for the week ending Oct 1, mainly due to higher food prices, according to official data released on Friday. The short-term inflation, measured by the Sensitive Price Index (SPI), rose by 0.21pc on a week-on-week basis, reflecting fluctuations in food an…",
    "image": "https://i.dawn.com/large/2026/10/03073348822bb16.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PHMA urges govt to adopt export-friendly policies",
-   "url": "https://www.brecorder.com/news/40442422/phma-urges-govt-to-adopt-export-friendly-policies",
-   "source": "Business Recorder",
-   "published": "2026-10-03T02:07:47+00:00",
-   "summary": "KARACHI: The Pakistan Hosiery Manufacturers & Exporters Association (PHMA) on Friday said that the high manufacturing costs, difficulties in business operations, policy hurdles and an uneven playing field were undermining the competitiveness of the country’s export industry, despite apparel and textile exports rising b…",
-   "image": "https://i.brecorder.com/large/2026/10/03070740e5a283c.webp",
    "topics": [
     "Economy"
    ],
@@ -249,12 +236,25 @@
    "domestic": true
   },
   {
-   "title": "AI and the imitation game",
-   "url": "https://www.brecorder.com/news/40442484/ai-and-the-imitation-game",
+   "title": "PPRA rules: revamped framework",
+   "url": "https://www.brecorder.com/news/40442488/ppra-rules-revamped-framework",
    "source": "Business Recorder",
-   "published": "2026-10-03T15:47:26+00:00",
-   "summary": "“Maria, this is Fauzia. I’m having trouble reaching Ahmed at the moment, so can you please click on the link I’ve sent so that you can wire me 50,000 rupees? It’s urgent!” So sixty-year-old Maria immediately “wires” the money and calls Fauzia a minute later to let her know she’s just wired it, only to find out that her…",
-   "image": "https://i.brecorder.com/large/2026/10/03202014583be14.webp",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "EDITORIAL: The government has notified the Public Procurement Rules 2026 with immediate effect and introduced a revamped framework centred on digital procurement, third-party oversight, tighter transparency requirements, and expanded alternative procurement methods. A strengthened grievance procedure with complaints to…",
+   "image": "https://i.brecorder.com/large/2026/10/04005055d031e60.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Germany may grow twice as fast this year as earlier thought, Bundesbank says",
+   "url": "https://www.brecorder.com/news/40442493/germany-may-grow-twice-as-fast-this-year-as-earlier-thought-bundesbank-says",
+   "source": "Business Recorder",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "FRANKFURT: The German economy could grow around 1percent this year — roughly twice as fast as the most recent projections — driven by robust export demand and government investment, Bundesbank President Joachim Nagel said on Friday. Germany, the world’s third-largest economy, has barely expanded for the past three year…",
+   "image": "https://i.brecorder.com/large/2026/10/040055344a8cdea.webp",
    "topics": [
     "Economy"
    ],
@@ -262,29 +262,56 @@
    "domestic": false
   },
   {
-   "title": "Oil tankers attacked in Hormuz strait",
-   "url": "https://www.brecorder.com/news/40442472/oil-tankers-attacked-in-hormuz-strait",
+   "title": "Vietnam’s quarterly GDP grows fastest in 4 years as exports boom",
+   "url": "https://www.brecorder.com/news/40442498/vietnams-quarterly-gdp-grows-fastest-in-4-years-as-exports-boom",
    "source": "Business Recorder",
-   "published": "2026-10-03T08:33:42+00:00",
-   "summary": "TEHRAN: Two oil tankers have been struck by “unidentified projectiles” in the Strait of Hormuz region, a British maritime agency said Friday, in the latest threat to shipping in the waterway. The Hormuz passage, through which a fifth of the world’s oil and LNG passed before the US and Israel launched strikes against Ir…",
-   "image": "https://i.brecorder.com/large/2026/10/031332073ccb267.gif",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "HANOI: Vietnam’s gross domestic product grew 9.95percent in the third quarter from a year earlier, the fastest quarterly growth since the COVID pandemic, and accelerating from a revised expansion of 8.81percent in the second quarter, government data showed on Saturday. Growth in the July-September quarter was driven by…",
+   "image": "https://i.brecorder.com/large/2026/10/04010226d97ebfc.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
   },
   {
-   "title": "Russia strikes another major bridge in Ukraine capital",
-   "url": "https://www.brecorder.com/news/40442470/russia-strikes-another-major-bridge-in-ukraine-capital",
+   "title": "Sri Lanka central bank holds key rate at 8.75pc as Iran war keeps inflation high",
+   "url": "https://www.brecorder.com/news/40442500/sri-lanka-central-bank-holds-key-rate-at-875pc-as-iran-war-keeps-inflation-high",
    "source": "Business Recorder",
-   "published": "2026-10-03T07:56:53+00:00",
-   "summary": "KYIV, Ukraine: A Russian strike targeted a major bridge in Kyiv, its mayor said Saturday, in another attack on Ukrainian infrastructure that has brought traffic chaos to the capital. The attack on the Northern Bridge, which followed a drone alert, came a day after the Southern Bridge was hit in a wave of strikes that c…",
-   "image": "https://i.brecorder.com/large/2026/10/031256313f6f9d7.webp",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "COLOMBO: Sri Lanka’s central bank kept its key policy rate unchanged at 8.75percent on Wednesday ahead of the budget in mid-November, but warned inflation would remain high in the next six months due to the Iran war. The decision was in line with market expectations after the Central Bank of Sri Lanka had raised its po…",
+   "image": "https://i.brecorder.com/large/2026/10/040103154da42d5.webp",
    "topics": [
-    "Construction & projects"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Fed seen skipping Oct rate hike as job market cools",
+   "url": "https://www.brecorder.com/news/40442501/fed-seen-skipping-oct-rate-hike-as-job-market-cools",
+   "source": "Business Recorder",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "NEW YORK: Federal Reserve policymakers on Friday got more reason to wait before raising interest rates again to fight inflation, after government data showed job gains are slowing and the unemployment rate ticked up. It was the last broad read of the US labour market before November elections that will determine whethe…",
+   "image": "https://i.brecorder.com/large/2026/10/040103516064d8c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US inflation rises less than expected in Aug",
+   "url": "https://www.brecorder.com/news/40442503/us-inflation-rises-less-than-expected-in-aug",
+   "source": "Business Recorder",
+   "published": "2026-10-03T21:23:01+00:00",
+   "summary": "WASHINGTON: US inflation increased less than expected in August, which could see financial markets further reduce the odds of another interest rate increase from the Federal Reserve next month. The Personal Consumption Expenditures Price Index rose 0.3percent last month after a downwardly revised 0.1percent gain in Jul…",
+   "image": "https://i.brecorder.com/large/2026/10/04012110ee8c5a2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {

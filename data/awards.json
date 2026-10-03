@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T18:10:40+00:00",
+ "generated": "2026-10-03T21:41:48+00:00",
  "count": 697,
  "with_value": 666,
  "with_winner": 263,
@@ -15342,6 +15342,26 @@
    "city": "Hyderabad",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003831",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003830",
+   "tender_no": "TS0000011082E",
+   "reference": "P83119",
+   "title": "Transportation of goods and other related services Services",
+   "organisation": "Ministry of Finance Collectorate of Customs Enforcement, Hyderabad Hyderabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Muhammad Shafi Enterprises"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-09-29",
+   "city": "Hyderabad",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003830",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -52257,26 +52277,6 @@
    "city": "Faisalabad",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001863",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001862",
-   "tender_no": "TS0000006810E",
-   "reference": "P36914",
-   "title": "Procurement Of Lineman Life Saving Earthing Chain Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Shah Gee Enterprises"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-04",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001862",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
