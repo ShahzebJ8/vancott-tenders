@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-03T09:28:23+00:00",
- "count": 55,
- "relevant_count": 18,
- "domestic_count": 20,
+ "generated": "2026-10-03T14:27:28+00:00",
+ "count": 51,
+ "relevant_count": 16,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (6)",
-  "ARY News": "ok (8)"
+  "ARY News": "ok (7)"
  },
  "stories": [
   {
@@ -47,33 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Weekly SPI inflation up 0.21pc",
-   "url": "https://www.brecorder.com/news/40442429/weekly-spi-inflation-up-021pc",
-   "source": "Business Recorder",
-   "published": "2026-10-03T01:51:05+00:00",
-   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on October 1 recorded an increase of 0.21 percent owing to a hike in the prices of chicken by 7.25 percent, garlic by 1.85 percent, pulse gram by 1.30 percent, and Liquefied Petroleum Gas (LPG) by 1.17 percent. The SPI data released here on Friday …",
-   "image": "https://i.brecorder.com/large/2026/10/0306502375791e2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan slams Houthi attack on power facility in Madina",
-   "url": "https://www.brecorder.com/news/40442431/pakistan-slams-houthi-attack-on-power-facility-in-madina",
-   "source": "Business Recorder",
-   "published": "2026-10-03T01:47:00+00:00",
-   "summary": "ISLAMABAD: Pakistan strongly condemns the attack by the Houthis on the Taibah power distribution station in Madina on 29th September 2026, the Foreign Office said in a statement on Friday. This reprehensible attack against civilian infrastructure supplying electricity to the Holy Prophet’s (PBUH) Mosque is a grave prov…",
-   "image": "https://i.brecorder.com/large/2026/10/03064651347789e.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -299,19 +272,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Sept LNG shipments through Hormuz hit highest since start of US-Iran war",
-   "url": "https://www.brecorder.com/news/40442432/sept-lng-shipments-through-hormuz-hit-highest-since-start-of-us-iran-war",
-   "source": "Business Recorder",
-   "published": "2026-10-03T01:44:19+00:00",
-   "summary": "SINGAPORE: The number of liquefied natural gas cargoes exiting the Strait of Hormuz rose in September to its highest monthly level since the US-Israeli war on Iran began, data from analytics firms, shows, despite persistent security worries and uncertainty. A total of 19 LNG cargoes were shipped through the key waterwa…",
-   "image": "https://i.brecorder.com/large/2026/10/0306421758ad84d.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -716,19 +676,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR tax collection reaches Rs3.66tr in July-September 2026",
-   "url": "https://arynews.tv/fbr-tax-collection-reaches-rs3-point-66tr-in-july-september-2026",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR tax collection reaches Rs3.66tr in July-September 2026",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-tax-collection-record.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
