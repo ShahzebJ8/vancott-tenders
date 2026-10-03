@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-02T23:59:42+00:00",
- "count": 56,
- "relevant_count": 20,
- "domestic_count": 15,
+ "generated": "2026-10-03T03:34:36+00:00",
+ "count": 61,
+ "relevant_count": 22,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,112 @@
   "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Customs make historic seizure of Rs5.40bn narcotics",
+   "url": "https://www.brecorder.com/news/40442419/customs-make-historic-seizure-of-rs540bn-narcotics",
+   "source": "Business Recorder",
+   "published": "2026-10-03T02:34:11+00:00",
+   "summary": "ISLAMABAD: The Collectorate of Customs (Enforcement), Islamabad, has made a historic seizure of narcotics of around Rs 5.40 billion including 1,200 kgs of charas and 100 kgs of poppy seeds on M-2 Motorway. Addressing a press conference at the Customs House Islamabad on Friday, Moin ud Din Ahmad Wani Collector of Custom…",
+   "image": "https://i.brecorder.com/large/2026/10/03073357f63d4b3.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Weekly inflation surges 11.53pc",
+   "url": "https://www.dawn.com/news/2034341/weekly-inflation-surges-1153pc",
+   "source": "Dawn",
+   "published": "2026-10-03T02:34:07+00:00",
+   "summary": "ISLAMABAD: Short-term inflation surged 11.53 per cent year on year for the week ending Oct 1, mainly due to higher food prices, according to official data released on Friday. The short-term inflation, measured by the Sensitive Price Index (SPI), rose by 0.21pc on a week-on-week basis, reflecting fluctuations in food an…",
+   "image": "https://i.dawn.com/large/2026/10/03073348822bb16.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PHMA urges govt to adopt export-friendly policies",
+   "url": "https://www.brecorder.com/news/40442422/phma-urges-govt-to-adopt-export-friendly-policies",
+   "source": "Business Recorder",
+   "published": "2026-10-03T02:07:47+00:00",
+   "summary": "KARACHI: The Pakistan Hosiery Manufacturers & Exporters Association (PHMA) on Friday said that the high manufacturing costs, difficulties in business operations, policy hurdles and an uneven playing field were undermining the competitiveness of the country’s export industry, despite apparel and textile exports rising b…",
+   "image": "https://i.brecorder.com/large/2026/10/03070740e5a283c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Weekly SPI inflation up 0.21pc",
+   "url": "https://www.brecorder.com/news/40442429/weekly-spi-inflation-up-021pc",
+   "source": "Business Recorder",
+   "published": "2026-10-03T01:51:05+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on October 1 recorded an increase of 0.21 percent owing to a hike in the prices of chicken by 7.25 percent, garlic by 1.85 percent, pulse gram by 1.30 percent, and Liquefied Petroleum Gas (LPG) by 1.17 percent. The SPI data released here on Friday …",
+   "image": "https://i.brecorder.com/large/2026/10/0306502375791e2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan slams Houthi attack on power facility in Madina",
+   "url": "https://www.brecorder.com/news/40442431/pakistan-slams-houthi-attack-on-power-facility-in-madina",
+   "source": "Business Recorder",
+   "published": "2026-10-03T01:47:00+00:00",
+   "summary": "ISLAMABAD: Pakistan strongly condemns the attack by the Houthis on the Taibah power distribution station in Madina on 29th September 2026, the Foreign Office said in a statement on Friday. This reprehensible attack against civilian infrastructure supplying electricity to the Holy Prophet’s (PBUH) Mosque is a grave prov…",
+   "image": "https://i.brecorder.com/large/2026/10/03064651347789e.webp",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Equities extend losses amid low volume",
+   "url": "https://www.dawn.com/news/2034337/equities-extend-losses-amid-low-volume",
+   "source": "Dawn",
+   "published": "2026-10-03T01:26:00+00:00",
+   "summary": "KARACHI: Bears tightened their grip on the stock market on Friday as sluggishness amid geopolitical and economic challenges left equity investors on edge, prompting some to offload positions and pushing the benchmark KSE-100 index below 168,000 intraday. The index settled lower for the second consecutive session. Topli…",
+   "image": "https://i.dawn.com/large/2026/10/03080214aea5919.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Exports increase 11pc amid soaring deficit",
+   "url": "https://www.dawn.com/news/2034340/exports-increase-11pc-amid-soaring-deficit",
+   "source": "Dawn",
+   "published": "2026-10-03T01:25:59+00:00",
+   "summary": "ISLAMABAD: Pakistan’s merchandise exports grew by 10.84 per cent in the first quarter of the current fiscal year (FY27), despite the trade gap widening on the back of rising imports, the Pakistan Bureau of Statistics reported on Friday. In absolute terms, export proceeds stood at $8.43 billion in July-September, up fro…",
+   "image": "https://i.dawn.com/large/2026/10/03073015540a593.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sept cement despatches up 7.35pc YoY",
+   "url": "https://www.brecorder.com/news/40442407/sept-cement-despatches-up-735pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-10-03T00:20:21+00:00",
+   "summary": "LAHORE: Domestic cement despatches registered an increase of 7.35 percent in September 2026, reaching 3.788 million tons compared to 3.529 million tons in the corresponding month of the previous year. According to the data released by the All Pakistan Cement Manufacturers Association, however, export despatches were al…",
+   "image": "https://i.brecorder.com/large/2026/10/030228528b3dbcf.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40442349/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -143,19 +249,6 @@
    "domestic": true
   },
   {
-   "title": "Stakeholders want tax returns date extended",
-   "url": "https://www.dawn.com/news/2033656/stakeholders-want-tax-returns-date-extended",
-   "source": "Dawn",
-   "published": "2026-09-30T02:58:47+00:00",
-   "summary": "ISLAMABAD: As the Federal Board of Revenue (FBR) has reported an overwhelming response, with tax returns filed reaching 5.181 million by Sept 29, trade bodies and professionals are seeking an extension of the deadline, citing delays in the issuance of return forms and heavy online traffic as major hurdles in timely fil…",
-   "image": "https://i.dawn.com/large/2026/09/30075932eaf9205.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "IMF-linked plan to boost local currency bond market unveiled",
    "url": "https://www.dawn.com/news/2033664/imf-linked-plan-to-boost-local-currency-bond-market-unveiled",
    "source": "Dawn",
@@ -196,42 +289,42 @@
    "domestic": true
   },
   {
-   "title": "Index tumbles below 170,000 on uncertainty",
-   "url": "https://www.dawn.com/news/2033652/index-tumbles-below-170000-on-uncertainty",
-   "source": "Dawn",
-   "published": "2026-09-30T02:00:38+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) extended its decline as jittery investors sold off their holdings, pushing the benchmark KSE-100 index below the 170,000-point mark amid growing economic uncertainty. Topline Securities Ltd said the index closed at 169,600.41 points, down 825.22 points or 0.48 per cent, after…",
-   "image": "https://i.dawn.com/large/2026/09/300818522869c0f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Army commanders warn of decisive action against attempts to create May 9-like situation",
-   "url": "https://www.brecorder.com/news/40442359/army-commanders-warn-of-decisive-action-against-attempts-to-create-may-9-like-situation",
+   "title": "Sept LNG shipments through Hormuz hit highest since start of US-Iran war",
+   "url": "https://www.brecorder.com/news/40442432/sept-lng-shipments-through-hormuz-hit-highest-since-start-of-us-iran-war",
    "source": "Business Recorder",
-   "published": "2026-10-02T18:01:53+00:00",
-   "summary": "The 277th Corps Commanders’ Conference on Friday underscored the importance of internal stability and resolved that any attempt to create agitation or a situation similar to May 9 incidents, “on any pretext whatsoever,” would be dealt with through decisive action and in accordance with the rule of law, the military’s m…",
-   "image": "https://i.ytimg.com/vi/tGAmMeVIEz0/maxresdefault.jpg",
+   "published": "2026-10-03T01:44:19+00:00",
+   "summary": "SINGAPORE: The number of liquefied natural gas cargoes exiting the Strait of Hormuz rose in September to its highest monthly level since the US-Israeli war on Iran began, data from analytics firms, shows, despite persistent security worries and uncertainty. A total of 19 LNG cargoes were shipped through the key waterwa…",
+   "image": "https://i.brecorder.com/large/2026/10/0306421758ad84d.webp",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
   },
   {
-   "title": "Pakistan’s trade deficit surges 6% YoY to $3.6bn in September 2026",
-   "url": "https://www.brecorder.com/news/40442357/pakistans-trade-deficit-surges-33-yoy-to-29bn-in-november-2025",
+   "title": "Milk them, then cap them",
+   "url": "https://www.brecorder.com/news/40442395/milk-them-then-cap-them",
    "source": "Business Recorder",
-   "published": "2026-10-02T17:47:35+00:00",
-   "summary": "Pakistan’s trade deficit marginally increased by over 6% to $3.56 billion in September 2026, as compared to the same month of the previous year, data released by the Pakistan Bureau of Statistics (PBS) showed on Friday. The country’s trade balance, the gap between exports and imports, was recorded at a deficit of $3.35…",
-   "image": "https://i.brecorder.com/large/2025/12/0212384382ab540.webp",
+   "published": "2026-10-03T01:17:25+00:00",
+   "summary": "EDITORIAL: Dairy and livestock farmers demanding a seat at the policy table are asking for something considerably more fundamental than another increase in the official price of milk. Their complaint goes to the economics of producing it. Feed, fodder, electricity, medicines, vaccines, labour and transport all carry co…",
+   "image": "https://i.brecorder.com/large/2026/10/030132484cf270b.webp",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Growth forecasts",
+   "url": "https://www.brecorder.com/news/40442394/growth-forecasts",
+   "source": "Business Recorder",
+   "published": "2026-10-03T00:20:21+00:00",
+   "summary": "EDITORIAL: Asian Development Bank has forecast Pakistan’s growth for the ongoing fiscal year at 3.7 percent – 0.3 percent lower than the government forecast for the year at 4 percent and identical to the growth rate (provisional) for 2025-26 as noted on the Pakistan Bureau of Statistics (PBS) website with the size of t…",
+   "image": "https://i.brecorder.com/large/2026/10/030132149380930.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -267,19 +360,6 @@
    "published": "2026-10-02T13:51:28+00:00",
    "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX) as investors remained cautious amid reports that the US was sending more troops and carriers to the Middle East, with the benchmark KSE-100 Index closing with a loss of nearly 500 points on Friday. Selling pressure in early trade dragged the b…",
    "image": "https://i.brecorder.com/large/2026/10/02102338b30a4d1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fed seen skipping October rate hike as job market cools",
-   "url": "https://www.brecorder.com/news/40442360/fed-seen-skipping-october-rate-hike-as-job-market-cools",
-   "source": "Business Recorder",
-   "published": "2026-10-02T13:41:29+00:00",
-   "summary": "Federal Reserve policymakers on Friday got more reason to wait before raising interest rates again, as government data showed the labor market is cooling more than expected. US employers added just 29,000 jobs last month, the Labor Department reported, less than the 90,000 economists had expected. August payroll gains …",
-   "image": "https://i.brecorder.com/large/2026/10/02183950d353abb.webp",
    "topics": [
     "Economy"
    ],
@@ -556,20 +636,6 @@
    "image": "https://i.dawn.com/large/2026/09/301806537c4fd26.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FPCCI slams govt’s ‘coercive actions’ against industrialists",
-   "url": "https://www.dawn.com/news/2033618/fpcci-slams-govts-coercive-actions-against-industrialists",
-   "source": "Dawn",
-   "published": "2026-09-30T02:01:05+00:00",
-   "summary": "HYDERABAD: Leaders of the Federation of Pakistan Chambers of Commerce and Industry (FPCCI) have said that power tariffs will have to be brought at a par with other countries of the region to ensure economic growth and stability. They also criticised coercive measures being taken by the FBR against businessmen and indus…",
-   "image": "https://i.dawn.com/large/2026/09/300943120ad3bbd.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
    ],
    "relevant": true,
    "domestic": false
