@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-03T14:27:28+00:00",
- "count": 51,
- "relevant_count": 16,
+ "generated": "2026-10-03T18:10:46+00:00",
+ "count": 52,
+ "relevant_count": 17,
  "domestic_count": 18,
  "sources": {
   "Dawn": "ok (18)",
@@ -10,6 +10,19 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Local automakers voice concerns as imports of used cars surge in Sept",
+   "url": "https://www.dawn.com/news/2034516/local-automakers-voice-concerns-as-imports-of-used-cars-surge-in-sept",
+   "source": "Dawn",
+   "published": "2026-10-03T17:45:41+00:00",
+   "summary": "ISLAMABAD: Imports of used cars surged in September after easing of regulations, inviting criticism from local manufacturers while importers claim that the move will bring competition in the auto sector. After a brief decline due to the government abolishing the Pers­onal Baggage Scheme and applying restrictions to con…",
+   "image": "https://i.dawn.com/large/2026/10/032204214ae353a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Customs make historic seizure of Rs5.40bn narcotics",
    "url": "https://www.brecorder.com/news/40442419/customs-make-historic-seizure-of-rs540bn-narcotics",
@@ -236,17 +249,17 @@
    "domestic": true
   },
   {
-   "title": "Electricity users face Rs25bn extra fuel cost",
-   "url": "https://www.dawn.com/news/2033658/electricity-users-face-rs25bn-extra-fuel-cost",
-   "source": "Dawn",
-   "published": "2026-09-30T02:00:38+00:00",
-   "summary": "ISLAMABAD: As the government sought to charge consumers an additional Rs25 billion for fuel costs in the October bills, the National Electric Power Regulatory Authority (Nepra) on Tuesday decided to review the incremental tariff package for industry introduced in December last year. At a public hearing conducted by Nep…",
-   "image": "https://i.dawn.com/large/2026/09/3008034451cf175.webp",
+   "title": "AI and the imitation game",
+   "url": "https://www.brecorder.com/news/40442484/ai-and-the-imitation-game",
+   "source": "Business Recorder",
+   "published": "2026-10-03T15:47:26+00:00",
+   "summary": "“Maria, this is Fauzia. I’m having trouble reaching Ahmed at the moment, so can you please click on the link I’ve sent so that you can wire me 50,000 rupees? It’s urgent!” So sixty-year-old Maria immediately “wires” the money and calls Fauzia a minute later to let her know she’s just wired it, only to find out that her…",
+   "image": "https://i.brecorder.com/large/2026/10/03202014583be14.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "Oil tankers attacked in Hormuz strait",
@@ -588,6 +601,19 @@
    "domestic": false
   },
   {
+   "title": "IMF calls for end to sales tax concession on electric vehicles in Pakistan",
+   "url": "https://arynews.tv/imf-calls-for-end-to-sales-tax-concession-on-electric-vehicles-in-pakistan",
+   "source": "ARY News",
+   "published": null,
+   "summary": "IMF calls for end to sales tax concession on electric vehicles in Pakistan",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/EVs.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
    "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
    "source": "ARY News",
@@ -663,19 +689,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Container vessel may be leased to support exporters if cargo volumes suffice",
-   "url": "https://arynews.tv/container-vessel-may-be-leased-to-support-to-exporters-if-cargo-volumes-suffice",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Container vessel may be leased to support exporters if cargo volumes suffice",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/CONTAINER.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
