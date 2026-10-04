@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-04T12:46:51+00:00",
- "count": 48,
- "relevant_count": 15,
+ "generated": "2026-10-04T17:19:52+00:00",
+ "count": 45,
+ "relevant_count": 14,
  "domestic_count": 15,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (6)"
  },
  "stories": [
   {
@@ -241,32 +241,6 @@
    "published": "2026-10-04T03:31:17+00:00",
    "summary": "https://www.dawn.com/news/2034577/analysis-why-lower-inflation-still-feels-expensive",
    "image": "https://i.dawn.com/large/2026/10/0408304489dfdf0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PPRA rules: revamped framework",
-   "url": "https://www.brecorder.com/news/40442488/ppra-rules-revamped-framework",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "EDITORIAL: The government has notified the Public Procurement Rules 2026 with immediate effect and introduced a revamped framework centred on digital procurement, third-party oversight, tighter transparency requirements, and expanded alternative procurement methods. A strengthened grievance procedure with complaints to…",
-   "image": "https://i.brecorder.com/large/2026/10/04005055d031e60.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Germany may grow twice as fast this year as earlier thought, Bundesbank says",
-   "url": "https://www.brecorder.com/news/40442493/germany-may-grow-twice-as-fast-this-year-as-earlier-thought-bundesbank-says",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "FRANKFURT: The German economy could grow around 1percent this year — roughly twice as fast as the most recent projections — driven by robust export demand and government investment, Bundesbank President Joachim Nagel said on Friday. Germany, the world’s third-largest economy, has barely expanded for the past three year…",
-   "image": "https://i.brecorder.com/large/2026/10/040055344a8cdea.webp",
    "topics": [
     "Economy"
    ],
@@ -619,19 +593,6 @@
    "published": null,
    "summary": "PSX: Stock market sees record rise in new investors",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/stock-market.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan inflation surges by 1.27 percent in a month, crosses 10 percent",
-   "url": "https://arynews.tv/pakistan-inflation-surges-by-1-27-percent-in-a-month-crosses-10-percent",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan inflation surges by 1.27 percent in a month, crosses 10 percent",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Inflation.jpg",
    "topics": [
     "Economy"
    ],
