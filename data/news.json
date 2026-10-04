@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-04T17:19:52+00:00",
- "count": 45,
- "relevant_count": 14,
- "domestic_count": 15,
+ "generated": "2026-10-04T20:23:25+00:00",
+ "count": 43,
+ "relevant_count": 13,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (17)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (6)"
@@ -149,32 +149,6 @@
    "published": "2026-10-01T03:52:08+00:00",
    "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Wednesday witnessed strong buying interest at attractive valuations, propelling the benchmark KSE-100 index above 171,000 intraday before closing well below the day’s high, posting modest gains and snapping a two-session losing streak. Topline Securities Ltd said the index …",
    "image": "https://i.dawn.com/large/2026/10/01084937e0921cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR unearths Rs9.41bn wealth fraud",
-   "url": "https://www.dawn.com/news/2033866/fbr-unearths-rs941bn-wealth-fraud",
-   "source": "Dawn",
-   "published": "2026-10-01T02:02:28+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has uncovered a fraud in which taxpayers illegally amended previous wealth statements to declare unexplained assets worth Rs9.41 billion. The FBR said on Wednesday that it has registered a criminal case under the Anti-Money Laundering Act 2010, and is processing further cas…",
-   "image": "https://i.dawn.com/large/2026/10/010807560311f1c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "T-bill yields jump beyond policy rate",
-   "url": "https://www.dawn.com/news/2033864/t-bill-yields-jump-beyond-policy-rate",
-   "source": "Dawn",
-   "published": "2026-10-01T02:02:28+00:00",
-   "summary": "KARACHI: The government on Wednesday raised the cut-off yields on treasury bills by up to 75 basis points, significantly surpassing returns on risk-free papers above the State Bank of Pakistan’s policy rate of 11.5 per cent. In the latest T-bill auction, the government raised profit rates on all tenors, fuelling specul…",
-   "image": "https://i.dawn.com/large/2026/10/01082431fe3d2d5.webp",
    "topics": [
     "Economy"
    ],
