@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-04T06:14:06+00:00",
- "count": 52,
+ "generated": "2026-10-04T12:46:51+00:00",
+ "count": 48,
  "relevant_count": 15,
  "domestic_count": 15,
  "sources": {
@@ -10,19 +10,6 @@
   "ARY News": "ok (7)"
  },
  "stories": [
-  {
-   "title": "APEAF acknowledges PM’s focus on exports growth",
-   "url": "https://www.brecorder.com/news/40442518/apeaf-acknowledges-pms-focus-on-exports-growth",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "KARACHI: The All Pakistan Exporters Associations Forum (APEAF) has clarified its earlier reaction to Prime Minister Shehbaz Sharif’s remarks on the performance of export-oriented industries, saying it recognises the premier’s focus on export growth and believes that continued consultation between the government and ind…",
-   "image": "https://i.brecorder.com/large/2026/10/040130046665384.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
   {
    "title": "Local automakers voice concerns as imports of used cars surge in Sept",
    "url": "https://www.dawn.com/news/2034516/local-automakers-voice-concerns-as-imports-of-used-cars-surge-in-sept",
@@ -209,6 +196,32 @@
    "domestic": true
   },
   {
+   "title": "IMF-Pakistan talks: Islamabad ‘averts’ mini budget risk",
+   "url": "https://arynews.tv/imf-pakistan-talks-islamabad-averts-mini-budget-risk",
+   "source": "ARY News",
+   "published": null,
+   "summary": "IMF-Pakistan talks: Islamabad ‘averts’ mini budget risk",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Pakistan-IMF-mini-budget.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Haunted by grief, Gaza's displaced still wait overseas for return",
+   "url": "https://www.brecorder.com/news/40442587/haunted-by-grief-gazas-displaced-still-wait-overseas-for-return",
+   "source": "Business Recorder",
+   "published": "2026-10-04T07:42:28+00:00",
+   "summary": "CAIRO: Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he ​remains there waiting for enough stability, security and reconstruction in his still devastated homeland to return. Israeli strikes kill six people in Gaza, medics say Hassayna is one of more ‌…",
+   "image": "https://i.brecorder.com/large/2026/10/04124057a1b7d7f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "SBP seen holding tight policy as mid-term inflation target appears out of reach",
    "url": "https://www.dawn.com/news/2034674/sbp-seen-holding-tight-policy-as-mid-term-inflation-target-appears-out-of-reach",
    "source": "Dawn",
@@ -254,59 +267,6 @@
    "published": "2026-10-03T21:23:01+00:00",
    "summary": "FRANKFURT: The German economy could grow around 1percent this year — roughly twice as fast as the most recent projections — driven by robust export demand and government investment, Bundesbank President Joachim Nagel said on Friday. Germany, the world’s third-largest economy, has barely expanded for the past three year…",
    "image": "https://i.brecorder.com/large/2026/10/040055344a8cdea.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Vietnam’s quarterly GDP grows fastest in 4 years as exports boom",
-   "url": "https://www.brecorder.com/news/40442498/vietnams-quarterly-gdp-grows-fastest-in-4-years-as-exports-boom",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "HANOI: Vietnam’s gross domestic product grew 9.95percent in the third quarter from a year earlier, the fastest quarterly growth since the COVID pandemic, and accelerating from a revised expansion of 8.81percent in the second quarter, government data showed on Saturday. Growth in the July-September quarter was driven by…",
-   "image": "https://i.brecorder.com/large/2026/10/04010226d97ebfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka central bank holds key rate at 8.75pc as Iran war keeps inflation high",
-   "url": "https://www.brecorder.com/news/40442500/sri-lanka-central-bank-holds-key-rate-at-875pc-as-iran-war-keeps-inflation-high",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "COLOMBO: Sri Lanka’s central bank kept its key policy rate unchanged at 8.75percent on Wednesday ahead of the budget in mid-November, but warned inflation would remain high in the next six months due to the Iran war. The decision was in line with market expectations after the Central Bank of Sri Lanka had raised its po…",
-   "image": "https://i.brecorder.com/large/2026/10/040103154da42d5.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fed seen skipping Oct rate hike as job market cools",
-   "url": "https://www.brecorder.com/news/40442501/fed-seen-skipping-oct-rate-hike-as-job-market-cools",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "NEW YORK: Federal Reserve policymakers on Friday got more reason to wait before raising interest rates again to fight inflation, after government data showed job gains are slowing and the unemployment rate ticked up. It was the last broad read of the US labour market before November elections that will determine whethe…",
-   "image": "https://i.brecorder.com/large/2026/10/040103516064d8c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US inflation rises less than expected in Aug",
-   "url": "https://www.brecorder.com/news/40442503/us-inflation-rises-less-than-expected-in-aug",
-   "source": "Business Recorder",
-   "published": "2026-10-03T21:23:01+00:00",
-   "summary": "WASHINGTON: US inflation increased less than expected in August, which could see financial markets further reduce the odds of another interest rate increase from the Federal Reserve next month. The Personal Consumption Expenditures Price Index rose 0.3percent last month after a downwardly revised 0.1percent gain in Jul…",
-   "image": "https://i.brecorder.com/large/2026/10/04012110ee8c5a2.webp",
    "topics": [
     "Economy"
    ],
@@ -676,19 +636,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR busts Rs. 9.41 billion wealth statement fraud; Money laundering case registered",
-   "url": "https://arynews.tv/fbr-busts-rs-9-41-billion-wealth-statement-fraud",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR busts Rs. 9.41 billion wealth statement fraud; Money laundering case registered",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
