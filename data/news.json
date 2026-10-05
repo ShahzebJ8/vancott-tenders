@@ -1,61 +1,22 @@
 {
- "generated": "2026-10-05T02:18:36+00:00",
- "count": 53,
- "relevant_count": 17,
- "domestic_count": 22,
+ "generated": "2026-10-05T09:28:40+00:00",
+ "count": 43,
+ "relevant_count": 16,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (8)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (6)"
  },
  "stories": [
   {
-   "title": "Disputed amount under protest not admission of guilt: LHC",
-   "url": "https://www.brecorder.com/news/40442673/disputed-amount-under-protest-not-admission-of-guilt-lhc",
-   "source": "Business Recorder",
-   "published": "2026-10-05T02:03:47+00:00",
-   "summary": "ISLAMABAD: The Lahore High Court (LHC) has ruled that payment of a disputed amount under protest cannot, by itself, be treated as an admission of guilt before the Federal Board of Revenue (FBR). It dismissed the Department’s Sales Tax Reference and confirmed the order passed by the Federal Tax Ombudsman (FTO) in favour…",
-   "image": "https://i.brecorder.com/large/2026/10/050305150ee2157.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt says fully focussed on energy supplies",
-   "url": "https://www.brecorder.com/news/40442676/govt-says-fully-focussed-on-energy-supplies",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:30:17+00:00",
-   "summary": "LAHORE: Federal Minister for Petroleum Ali Pervez Malik on Sunday said that a summary had also been submitted to the federal cabinet to facilitate the import of LPG from abroad so that consumers would not face fuel shortages in case of an emergency. While addressing a public gathering in his constituency Mughalpura and…",
-   "image": "https://i.brecorder.com/large/2026/10/05025947ca5a930.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "APTTA seeks permission to import wood logs with bark",
-   "url": "https://www.brecorder.com/news/40442672/aptta-seeks-permission-to-import-wood-logs-with-bark",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:06+00:00",
-   "summary": "KARACHI: Pakistan’s multibillion-rupee wood industry is facing serious challenges due to regulatory restrictions on wood imports, prompting the wood traders to urge the government to allow the import of wood logs with bark, subject to fumigation upon arrival and controlled debarking under the supervision of the Departm…",
-   "image": "https://i.brecorder.com/large/2026/10/0503074469c4e4f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "EWCA Islamabad Chapter holds tree-plantation drive",
-   "url": "https://www.brecorder.com/news/40442630/ewca-islamabad-chapter-holds-tree-plantation-drive",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:05+00:00",
-   "summary": "ISLAMABAD: The East-West Centre Alumni Association (EWCA) Islamabad Chapter, in collaboration with the International Islamic University Islamabad (IIUI) and Rotary Club Islamabad Metropolitan, organised a tree plantation drive at the university’s Faculty of Environmental Sciences, with more than 150 students participat…",
-   "image": "https://i.brecorder.com/large/2026/10/05034421cc8b852.webp",
+   "title": "The politics of chambers",
+   "url": "https://www.dawn.com/news/2034763/the-politics-of-chambers",
+   "source": "Dawn",
+   "published": "2026-10-05T03:56:55+00:00",
+   "summary": "The new Karachi Chamber of Commerce and Industry (KCCI) leadership, headed by Talat Mahmood, faces the formidable challenge of representing a business community diverse in scale, sectors and ethnicity across one of the world’s largest and densest cities. The task is compounded by Karachi’s deficient infrastructure, civ…",
+   "image": "https://i.dawn.com/large/2026/10/0504310698a5e20.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -63,70 +24,16 @@
    "domestic": true
   },
   {
-   "title": "Farmers advocate for aligning natural, agri potentials with modern standards",
-   "url": "https://www.brecorder.com/news/40442636/farmers-advocate-for-aligning-natural-agri-potentials-with-modern-standards",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:05+00:00",
-   "summary": "PESHAWAR: President Livestock Welfare Association, Khyber Pakhtunkhwa Mohammad Asif Awan has called for aligning national natural and agricultural potentials with modern standards to overcome financial losses amounting to billions of rupees annually. In a statement, he has said that only four percent of milk undergoes …",
-   "image": "https://i.brecorder.com/large/2026/10/0503483092101a4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "1QFY27: KPRA records 24pc increase in collection of STS YoY",
-   "url": "https://www.brecorder.com/news/40442637/1qfy27-kpra-records-24pc-increase-in-collection-of-sts-yoy",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:05+00:00",
-   "summary": "PESHAWAR: Khyber Pakhtunkhwa Revenue Authority (KPRA) recorded a 24 percent growth in Sales Tax on Services (STS) collection during the first three months of the financial year 2026-27, collecting Rs12.66 billion compared to Rs10.2 billion during the corresponding period of the previous financial year. However, the col…",
-   "image": "https://i.brecorder.com/large/2026/10/05034902719a523.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KP govt launches ‘Pink Bus Service’",
-   "url": "https://www.brecorder.com/news/40442638/kp-govt-launches-pink-bus-service",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:05+00:00",
-   "summary": "PESHAWAR: The provincial government of Khyber Pakhtunkhwa has launched new hybrid buses, the Pink Bus Service for women. Similarly, the solarisation of the Chamkani Depot and the newly established Mall of Hayatabad Depot as part of measures to expand and improve Bus Rapid Transit (BRT) services was also inaugurated. A …",
-   "image": "https://i.brecorder.com/large/2026/10/05034942112d70e.webp",
+   "title": "Nuclear power output rises 4pc to record high",
+   "url": "https://www.dawn.com/news/2034850/nuclear-power-output-rises-4pc-to-record-high",
+   "source": "Dawn",
+   "published": "2026-10-05T00:15:19+00:00",
+   "summary": "ISLAMABAD: Pakistan’s nuclear electricity production increased by 3.7 per cent to a record 22.5 terawatt-hours (TWh) in 2025, while solar power generation expanded even faster amid unaffordable overall energy prices. Pakistan’s “nuclear electricity production has increased from 21.7TWh net in 2024 to a new all-time hig…",
+   "image": "https://i.dawn.com/large/2026/10/05082912708ac17.webp",
    "topics": [
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Tarar visits LCCI chief’s residence: ‘All steps being taken to provide business-friendly environment’",
-   "url": "https://www.brecorder.com/news/40442650/tarar-visits-lcci-chiefs-residence-all-steps-being-taken-to-provide-business-friendly-environment",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:05+00:00",
-   "summary": "LAHORE: Federal Minister for Information and Broadcasting Attaullah Tarar has said the government was taking all possible measures to provide a peaceful, stable and business-friendly environment and was working to promote investment, industry, exports and employment. He appreciated the constructive role of the business…",
-   "image": "https://i.brecorder.com/large/2026/10/05045036f8ac91b.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "UBG chief expresses concern over trade deficit",
-   "url": "https://www.brecorder.com/news/40442655/ubg-chief-expresses-concern-over-trade-deficit",
-   "source": "Business Recorder",
-   "published": "2026-10-05T00:09:05+00:00",
-   "summary": "KARACHI: United Business Group (UBG) President Zubair Tufail has expressed concern over Pakistan’s trade deficit reaching $10.8 billion during the first quarter of the current fiscal year. He said that although exports recorded a significant year-on-year increase in September 2026, the rapid growth in imports remains a…",
-   "image": "https://i.brecorder.com/large/2026/10/05043154960efc0.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -183,19 +90,6 @@
    "domestic": true
   },
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40442349/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-02T14:05:45+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 277.07, a gain of Re0.03 against the greenback. On Thursday , the Pakistani rupee settled at 277.10 against the dollar. Internationally, the US dollar headed for…",
-   "image": "https://i.brecorder.com/large/2026/10/021622316a071ba.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "World Bank calls on govt to implement policy actions under $20bn reform partnership",
    "url": "https://www.dawn.com/news/2034266/world-bank-calls-on-govt-to-implement-policy-actions-under-20bn-reform-partnership",
    "source": "Dawn",
@@ -249,46 +143,6 @@
    "domestic": true
   },
   {
-   "title": "Consumer inflation eases to 10.3pc in September from 11.1pc in August, official data shows",
-   "url": "https://www.dawn.com/news/2033980/consumer-inflation-eases-to-103pc-in-september-from-111pc-in-august-official-data-shows",
-   "source": "Dawn",
-   "published": "2026-10-01T10:49:11+00:00",
-   "summary": "ISLAMABAD: Consumer inflation eased to 10.3 per cent in September from 11.1pc a month earlier, mainly due to a sharp slowdown in food inflation, the Pakistan Bureau of Statistics said on Thursday. The slight deceleration in the inflation rate, measured by the Consumer Price Index, reversed the sharp increase recorded i…",
-   "image": "https://i.dawn.com/large/2026/10/011523390d2aa02.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Stocks post modest gains on select buying",
-   "url": "https://www.dawn.com/news/2033861/stocks-post-modest-gains-on-select-buying",
-   "source": "Dawn",
-   "published": "2026-10-01T03:52:08+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) on Wednesday witnessed strong buying interest at attractive valuations, propelling the benchmark KSE-100 index above 171,000 intraday before closing well below the day’s high, posting modest gains and snapping a two-session losing streak. Topline Securities Ltd said the index …",
-   "image": "https://i.dawn.com/large/2026/10/01084937e0921cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Revenue surge, subsidy plans sit well with IMF",
-   "url": "https://www.dawn.com/news/2033886/revenue-surge-subsidy-plans-sit-well-with-imf",
-   "source": "Dawn",
-   "published": "2026-10-01T02:01:57+00:00",
-   "summary": "• Country exceeds first-quarter revenue target despite economic pressures • Plan to replace power subsidies with targeted BISP support reviewed ISLAMABAD: Robust revenue collection and preparedness to shift electricity subsidies entirely to the Benazir Income Sup­port Programme (BISP) mechanism have placed Pakistan on …",
-   "image": "https://i.dawn.com/large/2026/10/01073946c7b4952.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "IMF-Pakistan talks: Islamabad ‘averts’ mini budget risk",
    "url": "https://arynews.tv/imf-pakistan-talks-islamabad-averts-mini-budget-risk",
    "source": "ARY News",
@@ -302,12 +156,39 @@
    "domestic": true
   },
   {
-   "title": "OPEC+ agrees to keep Nov oil output targets steady",
-   "url": "https://www.brecorder.com/news/40442669/opec-agrees-to-keep-nov-oil-output-targets-steady",
+   "title": "Saudi Arabia to cancel Joy Awards, its answer to the Grammys, amid budget cuts, sources say",
+   "url": "https://www.brecorder.com/news/40442712/saudi-arabia-to-cancel-joy-awards-its-answer-to-the-grammys-amid-budget-cuts-sources-say",
    "source": "Business Recorder",
-   "published": "2026-10-05T00:09:06+00:00",
-   "summary": "LONDON/MOSCOW: OPEC+ agreed to keep oil production targets steady for November at a meeting on Sunday, the producer group said, in line with expectations that further output policy adjustments are unlikely until next year. Seven core members of the group comprising the Organization of the Petroleum Exporting Countries …",
-   "image": "https://i.brecorder.com/large/2026/10/050314097351eb8.webp",
+   "published": "2026-10-05T08:09:51+00:00",
+   "summary": "Saudi Arabia is set to cancel next year’s Joy Awards, its star-studded answer to the Oscars or the Grammys, as financial strain and the Iran war hit the country’s nascent entertainment sector, two people with knowledge of the matter said. Held in January, the event ​has become the crown jewel of Riyadh’s annual events …",
+   "image": "https://i.brecorder.com/large/2026/10/05130709ed756e4.gif",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s seafood exports reach $125mn in 1QFY27",
+   "url": "https://www.brecorder.com/news/40442696/pakistans-seafood-exports-reach-125mn-in-1qfy27",
+   "source": "Business Recorder",
+   "published": "2026-10-05T07:40:15+00:00",
+   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry said on Monday that Pakistan’s fish and seafood exports clocked at $125.4 million during the first quarter of the current fiscal year, against $93.28 million during the first quarter of 2025-26. The increase in export earnings underscores the growing …",
+   "image": "https://i.brecorder.com/large/2026/10/051136237f41f61.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares rise as commodity-linked stocks advance",
+   "url": "https://www.brecorder.com/news/40442704/australian-shares-rise-as-commodity-linked-stocks-advance",
+   "source": "Business Recorder",
+   "published": "2026-10-05T07:20:14+00:00",
+   "summary": "Australian shares rose on Monday , supported by gains in mining, financial and energy stocks, while investors continued to assess the outlook for interest rates after the central bank lifted its cash rate to a 15-year high last week. The benchmark S&P/ASX 200 index was 0.5% higher at 8,725.70 points, as of 0031 GMT, af…",
+   "image": "https://i.brecorder.com/large/2026/10/05122006fd9a041.webp",
    "topics": [
     "Economy"
    ],
@@ -315,14 +196,159 @@
    "domestic": false
   },
   {
-   "title": "Iranian minister quits, replaced by oil executive",
-   "url": "https://www.brecorder.com/news/40442671/iranian-minister-quits-replaced-by-oil-executive",
+   "title": "Thai baht/US dollar weaker on Monday",
+   "url": "https://www.brecorder.com/news/40442701/thai-bahtus-dollar-weaker-on-monday",
    "source": "Business Recorder",
-   "published": "2026-10-05T00:09:06+00:00",
-   "summary": "TEHRAN: Iran’s oil minister Mohsen Paknejad has resigned and been replaced by the country’s top oil executive, the president’s office said in a statement on Sunday, amid a blockade on Tehran’s oil exports by the United States. “Following the acceptance of Mohsen Paknejad’s resignation, Hamid Bovard”, the CEO of the Nat…",
-   "image": "https://i.brecorder.com/large/2026/10/05032452aa7ac61.webp",
+   "published": "2026-10-05T06:57:35+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Monday . At 0208 GMT, the baht was 0.22% lower at 33.57 versus the dollar, after trading in a range of 33.550 to 33.610. It ended the previous session at 33.5 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/0511571949ecf56.gif",
    "topics": [
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Middle East crude oil exports exceed pre-war levels but tanker attacks increase",
+   "url": "https://www.brecorder.com/news/40442700/middle-east-crude-oil-exports-exceed-pre-war-levels-but-tanker-attacks-increase",
+   "source": "Business Recorder",
+   "published": "2026-10-05T06:54:14+00:00",
+   "summary": "SINGAPORE: Crude oil exports from the Middle East rose above pre-war levels ​in four of the seven days of the final week of September, shipping data showed on Monday, ‌despite attacks on vessels passing through the Strait of Hormuz . Crude exports from the region exceeded pre-war levels on September 24 and between Sept…",
+   "image": "https://i.brecorder.com/large/2026/10/05115246db0af1c.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil slips as Middle East crude exports rise, G7 to release stocks",
+   "url": "https://www.brecorder.com/news/40442678/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks",
+   "source": "Business Recorder",
+   "published": "2026-10-05T06:36:07+00:00",
+   "summary": "NEW DELHI/SINGAPORE: Oil prices edged lower on Monday as rising Middle East crude exports and a release of oil stocks by the Group of Seven nations boosted supplies, offsetting concerns about further damage to Gulf oil infrastructure amid the US-Israeli war on Iran. Brent crude futures fell 66 cents, or 0.65%, to $101.…",
+   "image": "https://i.brecorder.com/large/2026/10/05075221586532d.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Saudi Arabia unexpectedly cuts November oil prices to Asia to 6-year lows",
+   "url": "https://www.brecorder.com/news/40442694/saudi-arabia-unexpectedly-cuts-november-oil-prices-to-asia-to-6-year-lows",
+   "source": "Business Recorder",
+   "published": "2026-10-05T06:29:44+00:00",
+   "summary": "Saudi Arabia unexpectedly cut its oil prices for sale to Asia in November to six-year lows while raising them for northwest Europe and the Mediterranean, a pricing document showed on Monday. The largest Middle Eastern crude exporter set the November Arab Light crude oil official selling price to Asia at $5 a barrel bel…",
+   "image": "https://i.brecorder.com/large/2026/10/05112819c47b35b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF, Sri Lanka strike staff-level pact on funding of $345 million",
+   "url": "https://www.brecorder.com/news/40442693/imf-sri-lanka-strike-staff-level-pact-on-funding-of-345-million",
+   "source": "Business Recorder",
+   "published": "2026-10-05T06:25:29+00:00",
+   "summary": "The International Monetary Fund said it reached a staff-level agreement with Sri Lanka on the seventh review under its Extended Fund Facility to unlock financing of about $345 million. The island nation, backed by a $2.9-billion programme, is clawing its way out of a 2022 economic upheaval triggered by a severe shortag…",
+   "image": "https://i.brecorder.com/large/2026/10/051125219ee4398.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian central bank likely intervenes to support rupee, traders say",
+   "url": "https://www.brecorder.com/news/40442692/indian-central-bank-likely-intervenes-to-support-rupee-traders-say",
+   "source": "Business Recorder",
+   "published": "2026-10-05T06:21:11+00:00",
+   "summary": "MUMBAI: The Reserve Bank of India likely intervened in the foreign exchange market on Monday to support the rupee, four traders told Reuters , helping the currency withstand pressure coming from a broadly stronger dollar and volatile oil prices. The rupee was at 96.24 per dollar, marginally higher from its close at 96.…",
+   "image": "https://i.brecorder.com/large/2026/10/051121046a88a8c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper ticks up as Fed rate hike bets cool",
+   "url": "https://www.brecorder.com/news/40442691/copper-ticks-up-as-fed-rate-hike-bets-cool",
+   "source": "Business Recorder",
+   "published": "2026-10-05T06:19:30+00:00",
+   "summary": "SINGAPORE: Copper nudged up on Monday , supported by an improving demand outlook after cooling interest rate expectations outweighed pressure from a strong dollar. Benchmark three-month copper on the London Metal Exchange was up 0.19% at $14,286 a metric ton by 0300 GMT. The market is weighing diminishing odds of an Oc…",
+   "image": "https://i.brecorder.com/large/2026/10/05111857df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
+   "url": "https://www.brecorder.com/news/40442682/stocks-upbeat-dollar-wobbles-as-fed-hike-bets-recede",
+   "source": "Business Recorder",
+   "published": "2026-10-05T03:10:03+00:00",
+   "summary": "SINGAPORE: Stocks were off to a strong start on Monday while the dollar edged lower and bonds steadied , as investors trimmed ​bets on an aggressive policy tightening cycle by the Federal Reserve following cooler-than-expected US jobs data. Trading was thin in Asia with holidays ‌in China, South Korea and Australia’s N…",
+   "image": "https://i.brecorder.com/large/2026/10/0508094497e201d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee set for mild relief from dip in oil, fading Fed October hike bets",
+   "url": "https://www.brecorder.com/news/40442681/indian-rupee-set-for-mild-relief-from-dip-in-oil-fading-fed-october-hike-bets",
+   "source": "Business Recorder",
+   "published": "2026-10-05T03:06:10+00:00",
+   "summary": "MUMBAI: The Indian rupee is expected to see some respite on Monday , with softer oil prices and further paring of bets on ​an October Federal Reserve rate hike easing pressure on the currency. The ‌Indian rupee is expected to open in the 96.22-96.26 range, per traders, having settled at 96.3150 to the dollar on Thursda…",
+   "image": "https://i.brecorder.com/large/2026/10/0508034705be41d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar holds firm as French fiscal woes keep euro on back foot",
+   "url": "https://www.brecorder.com/news/40442679/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot",
+   "source": "Business Recorder",
+   "published": "2026-10-05T02:59:44+00:00",
+   "summary": "SINGAPORE: The dollar started the week on a firm footing , hovering near a 17-month high on Monday as ​traders weighed receding odds of a Federal Reserve rate hike this month after soft US jobs data while fiscal ‌worries in France left the euro vulnerable. The euro was at $1.1246, stuck near its lowest level since May …",
+   "image": "https://i.brecorder.com/large/2026/10/0507553491acd86.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "High US interest rates complicate Pakistan's monetary policy",
+   "url": "https://www.dawn.com/news/2034882/high-us-interest-rates-complicate-pakistans-monetary-policy",
+   "source": "Dawn",
+   "published": "2026-10-05T02:45:58+00:00",
+   "summary": "https://www.dawn.com/news/2034772",
+   "image": "https://i.dawn.com/large/2026/10/0507364046739b7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Burdened by the power bill",
+   "url": "https://www.dawn.com/news/2034765/burdened-by-the-power-bill",
+   "source": "Dawn",
+   "published": "2026-10-05T00:15:36+00:00",
+   "summary": "Pakistan’s electricity is expensive not because the grid is poorly run, though it often is, but because the country built a power system for an economy that never arrived, financed it on contracts that force everyone to pay whether or not they use the power, and has spent thirty years pushing the cost forward instead o…",
+   "image": "https://i.dawn.com/large/2026/10/050433431122deb.webp",
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -433,129 +459,12 @@
    "domestic": false
   },
   {
-   "title": "Oil prices drop as Europe agrees to release diesel reserves",
-   "url": "https://www.brecorder.com/news/40442312/oil-prices-drop-as-europe-agrees-to-release-diesel-reserves",
-   "source": "Business Recorder",
-   "published": "2026-10-02T16:41:36+00:00",
-   "summary": "HOUSTON: Oil prices fell $2 after European leaders agreed on Friday to a request by US President Donald Trump to release diesel from their reserves to lower prices and reduce the need to import fuel from America. Brent was down $1.80, or 1.76%, at $100.50 a barrel at 10:49 a.m. CDT (1649 GMT). West Texas Intermediate d…",
-   "image": "https://i.brecorder.com/large/2026/10/02122604f1e152b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "UAE stocks fall as US-Iran deadlock weighs",
    "url": "https://www.brecorder.com/news/40442362/uae-stocks-fall-as-us-iran-deadlock-weighs",
    "source": "Business Recorder",
    "published": "2026-10-02T13:52:52+00:00",
    "summary": "United Arab Emirates stock markets closed lower on Friday as a stalemate in US-Iran negotiations dampened risk appetite and unsettled energy markets. Dubai’s benchmark index fell for a fourth straight session, closing 0.5% lower, with nearly all constituents in negative territory. Emirates NBD, Dubai’s largest lender, …",
    "image": "https://i.brecorder.com/large/2026/10/02185244d65bbc3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 settles nearly 500 points lower",
-   "url": "https://www.brecorder.com/news/40442322/psx-kse-100-settles-nearly-500-points-lower",
-   "source": "Business Recorder",
-   "published": "2026-10-02T13:51:28+00:00",
-   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX) as investors remained cautious amid reports that the US was sending more troops and carriers to the Middle East, with the benchmark KSE-100 Index closing with a loss of nearly 500 points on Friday. Selling pressure in early trade dragged the b…",
-   "image": "https://i.brecorder.com/large/2026/10/02102338b30a4d1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm logs second straight weekly loss, hits lowest closing in 12-weeks",
-   "url": "https://www.brecorder.com/news/40442353/palm-logs-second-straight-weekly-loss-hits-lowest-closing-in-12-weeks",
-   "source": "Business Recorder",
-   "published": "2026-10-02T11:31:20+00:00",
-   "summary": "JAKARTA: Malaysian palm oil futures booked a second straight weekly decline on Friday, with prices falling for a sixth straight session to their lowest closing in 12 weeks, on weak export data and expectations of high inventory. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives Exc…",
-   "image": "https://i.brecorder.com/large/2026/10/0216310391f0a3b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper crawls higher on softer dollar, but investors wary about demand",
-   "url": "https://www.brecorder.com/news/40442350/copper-crawls-higher-on-softer-dollar-but-investors-wary-about-demand",
-   "source": "Business Recorder",
-   "published": "2026-10-02T11:27:10+00:00",
-   "summary": "LONDON: Copper prices edged higher on Friday, supported by a weaker dollar and supply issues, but gains were modest due to worries about high oil prices hitting demand. Benchmark three-month copper on the London Metal Exchange was up 0.3% at $14,289 a metric ton by 1000 GMT. That marked a decline of 2% since the end of…",
-   "image": "https://i.brecorder.com/large/2026/10/021626510154531.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "World Bank proposes export-finance products for Pakistan’s EXIM Bank",
-   "url": "https://www.brecorder.com/news/40442343/world-bank-proposes-export-finance-products-for-pakistans-exim-bank",
-   "source": "Business Recorder",
-   "published": "2026-10-02T09:19:36+00:00",
-   "summary": "The World Bank has proposed developing export-finance products for the Export-Import Bank of Pakistan (EXIM Bank) to support incremental trade flows, as the government and global lender reviewed measures to boost investment, exports and private-sector growth. The development came during a meeting between Finance Minist…",
-   "image": "https://i.brecorder.com/large/2026/10/02141925d84992f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan's Nikkei retreats from 6-week high as investors lock in gains",
-   "url": "https://www.brecorder.com/news/40442329/japans-nikkei-retreats-from-6-week-high-as-investors-lock-in-gains",
-   "source": "Business Recorder",
-   "published": "2026-10-02T05:49:24+00:00",
-   "summary": "TOKYO: Japan’s Nikkei 225 retreated from a 6-week high on Friday as investors locked in gains and turned cautious over the outlook for interest rates, inflation, and geopolitical risks. The benchmark Nikkei 225 slid 0.79% to 68,413.03, still on track for a 3% advance on the week. The broader Topix slipped 0.57% to 4,10…",
-   "image": "https://i.brecorder.com/large/2026/10/02104913e2b4e96.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper up on supply woes but dollar drives worst week since April",
-   "url": "https://www.brecorder.com/news/40442326/copper-up-on-supply-woes-but-dollar-drives-worst-week-since-april",
-   "source": "Business Recorder",
-   "published": "2026-10-02T05:42:34+00:00",
-   "summary": "SINGAPORE: Copper recovered from some of the previous days’ losses on Friday , supported by supply concerns, but earlier declines still set it up to notch its worst weekly fall since April. Benchmark three-month copper on the London Metal Exchange was up 0.32% at $14,289 a metric ton by 0300 GMT. That marked a decline …",
-   "image": "https://i.brecorder.com/large/2026/10/021042180154531.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm hits 13-week low, on track for second straight weekly loss",
-   "url": "https://www.brecorder.com/news/40442320/palm-hits-13-week-low-on-track-for-second-straight-weekly-loss",
-   "source": "Business Recorder",
-   "published": "2026-10-02T05:11:53+00:00",
-   "summary": "JAKARTA: Malaysian palm oil futures were on course for a second straight weekly fall on Friday, with prices declining for a sixth straight session to their lowest in 13 weeks, on weak export data and expectations of high inventory. The benchmark palm oil contract for December delivery on the Bursa Malaysia Derivatives …",
-   "image": "https://i.brecorder.com/large/2026/10/02101139613023f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold slips before US payrolls data, set for second weekly loss",
-   "url": "https://www.brecorder.com/news/40442314/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss",
-   "source": "Business Recorder",
-   "published": "2026-10-02T02:44:30+00:00",
-   "summary": "Gold prices fell on Friday ​and were on track for a second straight weekly decline, pressured by ‌a firmer US dollar and elevated Treasury yields, while investors awaited key US payrolls data for clues on the Federal Reserve’s policy path. Spot gold fell 0.6% to $4,154.78 per ounce by 0205 GMT ​and was down more than 3…",
-   "image": "https://i.brecorder.com/large/2026/10/02074212d829f2b.webp",
    "topics": [
     "Economy"
    ],
@@ -573,45 +482,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar at 17-month high as global bond rout hits euro",
-   "url": "https://www.brecorder.com/news/40442313/dollar-at-17-month-high-as-global-bond-rout-hits-euro",
-   "source": "Business Recorder",
-   "published": "2026-10-02T02:40:07+00:00",
-   "summary": "SINGAPORE: The US dollar headed for its third straight week of gains on Friday , perched at a 17-month high as a bond ​market rout pushed borrowing costs across the globe to multi-decade peaks in the face of inflationary fears over higher oil ‌prices . Investors were reeling from a steep global bond sell-off on Thursda…",
-   "image": "https://i.brecorder.com/large/2026/10/02073840ce05d91.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wall Street dips as surging Treasury yields outweigh software gains",
-   "url": "https://www.brecorder.com/news/40442197/wall-street-dips-as-surging-treasury-yields-outweigh-software-gains",
-   "source": "Business Recorder",
-   "published": "2026-10-01T15:09:55+00:00",
-   "summary": "Wall Street’s main indexes slipped on Thursday as a deepening bond selloff drove Treasury yields to multi-decade highs, outweighing gains in software stocks. Although AI enthusiasm continues to power U.S. stocks, soaring Treasury yields are testing investors’ appetite for richly valued shares as inflation and governmen…",
-   "image": "https://i.brecorder.com/large/2026/10/0120091354dde98.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Higher-than-expected sales tax receipts help FBR exceed quarterly collection targets",
-   "url": "https://www.dawn.com/news/2033926/higher-than-expected-sales-tax-receipts-help-fbr-exceed-quarterly-collection-targets",
-   "source": "Dawn",
-   "published": "2026-10-01T03:43:54+00:00",
-   "summary": "https://www.dawn.com/news/2033862",
-   "image": "https://i.dawn.com/large/2026/10/010843298589a62.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -638,6 +508,32 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Mideast oil exports exceeded pre-Iran war levels: Kpler data",
+   "url": "https://arynews.tv/mideast-oil-exports-exceeded-pre-iran-war-levels-kpler-data",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Mideast oil exports exceeded pre-Iran war levels: Kpler data",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Oil-prices-fall-Iran-war.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks upbeat, dollar rises at euro’s expense",
+   "url": "https://arynews.tv/stocks-upbeat-dollar-rises-at-euros-expense",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Stocks upbeat, dollar rises at euro’s expense",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-upbeat-dollar-rises-at-euro.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -673,32 +569,6 @@
    "published": null,
    "summary": "China oil products’ export suspension to choke supplies in Asia",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/China-Oil.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan opens commercial Import of used vehicles",
-   "url": "https://arynews.tv/pakistan-opens-commercial-import-of-used-vehicles",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan opens commercial Import of used vehicles",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Commercial-import.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stock market sees record rise in new investors",
-   "url": "https://arynews.tv/psx-stock-market-sees-record-rise-in-new-investors",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stock market sees record rise in new investors",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/stock-market.jpg",
    "topics": [
     "Economy"
    ],
