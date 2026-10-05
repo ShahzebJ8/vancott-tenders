@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-04T23:29:38+00:00",
- "count": 43,
- "relevant_count": 13,
- "domestic_count": 13,
+ "generated": "2026-10-05T02:18:36+00:00",
+ "count": 53,
+ "relevant_count": 17,
+ "domestic_count": 22,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (13)",
@@ -10,6 +10,125 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Disputed amount under protest not admission of guilt: LHC",
+   "url": "https://www.brecorder.com/news/40442673/disputed-amount-under-protest-not-admission-of-guilt-lhc",
+   "source": "Business Recorder",
+   "published": "2026-10-05T02:03:47+00:00",
+   "summary": "ISLAMABAD: The Lahore High Court (LHC) has ruled that payment of a disputed amount under protest cannot, by itself, be treated as an admission of guilt before the Federal Board of Revenue (FBR). It dismissed the Department’s Sales Tax Reference and confirmed the order passed by the Federal Tax Ombudsman (FTO) in favour…",
+   "image": "https://i.brecorder.com/large/2026/10/050305150ee2157.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt says fully focussed on energy supplies",
+   "url": "https://www.brecorder.com/news/40442676/govt-says-fully-focussed-on-energy-supplies",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:30:17+00:00",
+   "summary": "LAHORE: Federal Minister for Petroleum Ali Pervez Malik on Sunday said that a summary had also been submitted to the federal cabinet to facilitate the import of LPG from abroad so that consumers would not face fuel shortages in case of an emergency. While addressing a public gathering in his constituency Mughalpura and…",
+   "image": "https://i.brecorder.com/large/2026/10/05025947ca5a930.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "APTTA seeks permission to import wood logs with bark",
+   "url": "https://www.brecorder.com/news/40442672/aptta-seeks-permission-to-import-wood-logs-with-bark",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:06+00:00",
+   "summary": "KARACHI: Pakistan’s multibillion-rupee wood industry is facing serious challenges due to regulatory restrictions on wood imports, prompting the wood traders to urge the government to allow the import of wood logs with bark, subject to fumigation upon arrival and controlled debarking under the supervision of the Departm…",
+   "image": "https://i.brecorder.com/large/2026/10/0503074469c4e4f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "EWCA Islamabad Chapter holds tree-plantation drive",
+   "url": "https://www.brecorder.com/news/40442630/ewca-islamabad-chapter-holds-tree-plantation-drive",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:05+00:00",
+   "summary": "ISLAMABAD: The East-West Centre Alumni Association (EWCA) Islamabad Chapter, in collaboration with the International Islamic University Islamabad (IIUI) and Rotary Club Islamabad Metropolitan, organised a tree plantation drive at the university’s Faculty of Environmental Sciences, with more than 150 students participat…",
+   "image": "https://i.brecorder.com/large/2026/10/05034421cc8b852.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Farmers advocate for aligning natural, agri potentials with modern standards",
+   "url": "https://www.brecorder.com/news/40442636/farmers-advocate-for-aligning-natural-agri-potentials-with-modern-standards",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:05+00:00",
+   "summary": "PESHAWAR: President Livestock Welfare Association, Khyber Pakhtunkhwa Mohammad Asif Awan has called for aligning national natural and agricultural potentials with modern standards to overcome financial losses amounting to billions of rupees annually. In a statement, he has said that only four percent of milk undergoes …",
+   "image": "https://i.brecorder.com/large/2026/10/0503483092101a4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "1QFY27: KPRA records 24pc increase in collection of STS YoY",
+   "url": "https://www.brecorder.com/news/40442637/1qfy27-kpra-records-24pc-increase-in-collection-of-sts-yoy",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:05+00:00",
+   "summary": "PESHAWAR: Khyber Pakhtunkhwa Revenue Authority (KPRA) recorded a 24 percent growth in Sales Tax on Services (STS) collection during the first three months of the financial year 2026-27, collecting Rs12.66 billion compared to Rs10.2 billion during the corresponding period of the previous financial year. However, the col…",
+   "image": "https://i.brecorder.com/large/2026/10/05034902719a523.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KP govt launches ‘Pink Bus Service’",
+   "url": "https://www.brecorder.com/news/40442638/kp-govt-launches-pink-bus-service",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:05+00:00",
+   "summary": "PESHAWAR: The provincial government of Khyber Pakhtunkhwa has launched new hybrid buses, the Pink Bus Service for women. Similarly, the solarisation of the Chamkani Depot and the newly established Mall of Hayatabad Depot as part of measures to expand and improve Bus Rapid Transit (BRT) services was also inaugurated. A …",
+   "image": "https://i.brecorder.com/large/2026/10/05034942112d70e.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Tarar visits LCCI chief’s residence: ‘All steps being taken to provide business-friendly environment’",
+   "url": "https://www.brecorder.com/news/40442650/tarar-visits-lcci-chiefs-residence-all-steps-being-taken-to-provide-business-friendly-environment",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:05+00:00",
+   "summary": "LAHORE: Federal Minister for Information and Broadcasting Attaullah Tarar has said the government was taking all possible measures to provide a peaceful, stable and business-friendly environment and was working to promote investment, industry, exports and employment. He appreciated the constructive role of the business…",
+   "image": "https://i.brecorder.com/large/2026/10/05045036f8ac91b.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "UBG chief expresses concern over trade deficit",
+   "url": "https://www.brecorder.com/news/40442655/ubg-chief-expresses-concern-over-trade-deficit",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:05+00:00",
+   "summary": "KARACHI: United Business Group (UBG) President Zubair Tufail has expressed concern over Pakistan’s trade deficit reaching $10.8 billion during the first quarter of the current fiscal year. He said that although exports recorded a significant year-on-year increase in September 2026, the rapid growth in imports remains a…",
+   "image": "https://i.brecorder.com/large/2026/10/05043154960efc0.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Local automakers voice concerns as imports of used cars surge in Sept",
    "url": "https://www.dawn.com/news/2034516/local-automakers-voice-concerns-as-imports-of-used-cars-surge-in-sept",
@@ -183,16 +302,29 @@
    "domestic": true
   },
   {
-   "title": "Haunted by grief, Gaza's displaced still wait overseas for return",
-   "url": "https://www.brecorder.com/news/40442587/haunted-by-grief-gazas-displaced-still-wait-overseas-for-return",
+   "title": "OPEC+ agrees to keep Nov oil output targets steady",
+   "url": "https://www.brecorder.com/news/40442669/opec-agrees-to-keep-nov-oil-output-targets-steady",
    "source": "Business Recorder",
-   "published": "2026-10-04T07:42:28+00:00",
-   "summary": "CAIRO: Omar al-Hassayna fled Gaza for Cairo after an Israeli airstrike wiped out much of his large family. Three years on, he ​remains there waiting for enough stability, security and reconstruction in his still devastated homeland to return. Israeli strikes kill six people in Gaza, medics say Hassayna is one of more ‌…",
-   "image": "https://i.brecorder.com/large/2026/10/04124057a1b7d7f.webp",
+   "published": "2026-10-05T00:09:06+00:00",
+   "summary": "LONDON/MOSCOW: OPEC+ agreed to keep oil production targets steady for November at a meeting on Sunday, the producer group said, in line with expectations that further output policy adjustments are unlikely until next year. Seven core members of the group comprising the Organization of the Petroleum Exporting Countries …",
+   "image": "https://i.brecorder.com/large/2026/10/050314097351eb8.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Iranian minister quits, replaced by oil executive",
+   "url": "https://www.brecorder.com/news/40442671/iranian-minister-quits-replaced-by-oil-executive",
+   "source": "Business Recorder",
+   "published": "2026-10-05T00:09:06+00:00",
+   "summary": "TEHRAN: Iran’s oil minister Mohsen Paknejad has resigned and been replaced by the country’s top oil executive, the president’s office said in a statement on Sunday, amid a blockade on Tehran’s oil exports by the United States. “Following the acceptance of Mohsen Paknejad’s resignation, Hamid Bovard”, the CEO of the Nat…",
+   "image": "https://i.brecorder.com/large/2026/10/05032452aa7ac61.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
