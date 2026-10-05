@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-05T09:28:34+00:00",
- "count": 699,
- "with_value": 668,
- "with_winner": 264,
+ "generated": "2026-10-05T18:46:47+00:00",
+ "count": 702,
+ "with_value": 670,
+ "with_winner": 266,
  "smd_count": 0,
  "price_history": [
   {
@@ -15,6 +15,44 @@
  ],
  "evaluation_count": 2000,
  "awards": [
+  {
+   "contract_no": "PCN-4950221591",
+   "reference": "7100002758",
+   "title": "Ministry of Energy (Power Division) Procurement of Laptops",
+   "organisation": "MEPCO Multan",
+   "office": "MEPCO Multan",
+   "winner": "Data Distinct Solutions Pvt",
+   "value_text": "Rs. 9,475,025 < Rs. 50 Million",
+   "value_pkr": 9475025,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-10-05",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-4950221591",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0NvbnRyYWN0X0F3YXJkX1Byb2Zvcm1hXzIzMS0yNl9MYXB0b3AucGRm",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-9795375003",
+   "reference": "4082/C",
+   "title": "Federal Board of Revenue (FBR) Cost of Other Stores",
+   "organisation": "Directorate of I&I IR (FBR) Hyd Hyderabad",
+   "office": "Directorate of I&I IR (FBR) Hyd Hyderabad",
+   "winner": "S.Moon Enterprises",
+   "value_text": "Rs. 2,026,000 < Rs. 50 Million",
+   "value_pkr": 2026000,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-10-01",
+   "city": "Hyderabad",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9795375003",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL01pbnV0ZXNfQ09TLnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "contract_no": "PCN-9132631913",
    "reference": "4082/A",
@@ -7603,6 +7641,25 @@
    "matched_terms": []
   },
   {
+   "contract_no": "PCN-2218978089",
+   "reference": null,
+   "title": "Sui Northern Gas Pipelines Limited (SNGPL) MISCELLANEOUS Milk Tea Material ISL/TE/005/2026 National Tender: TS0000010918E",
+   "organisation": "SNGPL REGIONAL DISTRIBUTION OFFICE Islamabad",
+   "office": "SNGPL REGIONAL DISTRIBUTION OFFICE Islamabad",
+   "winner": null,
+   "value_text": "Rs. 755 < Rs. 50 Million",
+   "value_pkr": null,
+   "value_band": "< Rs. 50 Million",
+   "awarded": null,
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-2218978089",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL2NvbnRyYWN0XzFfMy5wZGY=",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "contract_no": "PCN-7294014831",
    "reference": "21/2026-27",
    "title": "Islamabad Electric Supply Company (IESCO) TENDER FOR CARRYING OUT THE WORK TRANSPORTATION, SAFE HANDLING, CARRIAGE ERECTION & CONCRETING OF HT/LT STRUCTURE POLES & PC SPUN POLES, FIXING OF STAY RODS DISTRICT JEHLUM AND DISTRICT GUJRAT IRO CONST. DIVISION IESCO JHELUM (21/2026-27) Khan Wali & Sons Rawalpindi. Khayban-e-Sir Syed Rawalpindi National Tender: TS0000011325E",
@@ -13305,6 +13362,64 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000003968",
+   "tender_no": "TS0000011766E",
+   "reference": "P82456",
+   "title": "Purchase of Uniform and Protective Clothing Clothing/Uniform Ministry of Finance",
+   "organisation": "Ministry of Finance Collectorate of Customs Enforcement Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-10-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003968",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003966",
+   "tender_no": "TS0000012044E",
+   "reference": "EPADS V2 No. P87139",
+   "title": "Supply, Installation and Commissioning of Multiple AC Units Equipments",
+   "organisation": "Ministry of Planning, Development & Special Initiatives National Disaster Risk Management Fund (NDRMF) Islamabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Afzal Corporation"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003966",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003965",
+   "tender_no": "TS0000009082E",
+   "reference": "NPPMCL-ADMIN-2026/27-01",
+   "title": "Expression of interest (EOI) for Appointment of Statutory (External) Auditors Services",
+   "organisation": "Ministry of Energy (Power Division) National Power Parks Management Company Pvt. Ltd. Lahore - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "KPMG Taseer Hadi & Co. Chartered Accountants"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-05",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003965",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000003964",
    "tender_no": "TS0000012827E",
    "reference": "4082/C",
@@ -13320,6 +13435,46 @@
    "city": "Hyderabad",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003964",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003963",
+   "tender_no": "TS0000011490E",
+   "reference": "CUI/Atd/Lab Equipment/05 (2026-2027)P77998",
+   "title": "Tender for Procurement of Digital Oscilloscope & Three-Phase Power Quality Analyzer for Labs Equipments",
+   "organisation": "COMSATS University Islamabad COMSATS University Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "SUFI JEE TECH COMSATS University Islamabad"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003963",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003962",
+   "tender_no": "TS0000013469E",
+   "reference": "P117445",
+   "title": "Purchase and Installation of ACs (2.0 Ton, DC Inverter) for CAEPE Appliances",
+   "organisation": "Higher Education Commission (HEC) International Islamic University, Islamabad Islamabad - Pakistan",
+   "bid_count": 7,
+   "lowest": [
+    "Freeze Point & M/s Eastcom Technologies"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003962",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -14165,6 +14320,26 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003914",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000003913",
+   "tender_no": "TS0000009158E",
+   "reference": "GSU-KO/ 424337/ Steel Racks / 2026-27",
+   "title": "Supply of Steel Racks at PSPC Furniture/Fixture",
+   "organisation": "Ministry of Finance State Bank of Pakistan (BSC) Karachi Office Karachi - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "MM Traders"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-02",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003913",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -52195,125 +52370,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001888",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001887",
-   "tender_no": "TS0000007485E",
-   "reference": "GF/JIAP/2026",
-   "title": "HIRING OF GROUND FEEDING SERVICES FOR PROVIDING MEAL SERVICE PIA TRANSIT, DELAYED & DIVERTED FLIGHT PASSENGERS AT JINNAH INTERNATIONAL AIRPORT, KARACHI Services Aviation Division",
-   "organisation": "Aviation Division Hotel Cell, Pakistan International Airlines JIAP Karachi Karachi - Pakistan",
-   "bid_count": 4,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-07-06",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001887",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001886",
-   "tender_no": "TS0000008295E",
-   "reference": "P51551",
-   "title": "Hiring of Event Management Services for Conference Titled National Conference on Judicial Well Being Miscellaneous",
-   "organisation": "Law and Justice Commission of Pakistan law and justice Commission of Pakistan Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Naveed Event Management (Private) Limited Law and Justice Commission of Pakistan"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-06",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001886",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001877",
-   "tender_no": "TS0000007847E",
-   "reference": "(04/27)",
-   "title": "(04/27) Paper Cover Copper Strip 5x8mm (100,200,400&630kVA) Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Atta Metals Private Limited in lot i, copper house (private) limited in lot ii"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-06",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001877",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001875",
-   "tender_no": "TS0000005342E",
-   "reference": "GS/08/2026",
-   "title": "HIRING OF AIR TRAVEL SERVICES FOR THE BOOKING OF DOMESTIC/ INTERNATIONAL FLIGHTS Services",
-   "organisation": "Ministry of Planning, Development & Special Initiatives Pakistan Institute of Development Economics (PIDE) Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Travel Companion",
-    "Royal Eagle Travel & Tour"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-06",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001875",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001874",
-   "tender_no": "TS0000007837E",
-   "reference": "(02/27)",
-   "title": "(02/27) Paper Cover Copper Strip 3x4mm (25kVA) Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Atta Metals Private Limited"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-06",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001874",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000001873",
-   "tender_no": "TS0000006147E",
-   "reference": "70/2025-26",
-   "title": "TENDER FOR HT/LT STRUCTURES & HT/LT PC/SPUN POLES FOR FIXING OF STAY RODS AND EARTHING OF HT/LT STRUCTURES AND HT/LT PC / SPUN POLES & T/Fs IN DISTRICT ISLAMABAD UNDER THE JURISDICTION OF CONST. DIVISION IESCO ISLAMABAD (70/2025-26) Civil Works",
-   "organisation": "Islamabad Electric Supply Company (IESCO) Islamabad Electric Supply Company (IESCO) Islamabad - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "Aziz Khan & Sons Islamabad"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-06",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000001873",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

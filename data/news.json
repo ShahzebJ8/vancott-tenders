@@ -1,15 +1,55 @@
 {
- "generated": "2026-10-05T09:28:40+00:00",
- "count": 43,
- "relevant_count": 16,
- "domestic_count": 11,
+ "generated": "2026-10-05T18:46:53+00:00",
+ "count": 50,
+ "relevant_count": 17,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (6)"
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40442722/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-05T14:11:29+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 277.06, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.03% in the inter-bank…",
+   "image": "https://i.brecorder.com/large/2026/10/05155222d78480b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Hyderabad airport may resume operations after 13-year hiatus: reports",
+   "url": "https://www.brecorder.com/news/40442733/hyderabad-airport-may-resume-operations-after-13-year-hiatus-reports",
+   "source": "Business Recorder",
+   "published": "2026-10-05T12:47:43+00:00",
+   "summary": "Hyderabad airport is set to reopen for commercial flights after more than a decade, serving as an alternate hub for Karachi, Sukkur, and Nawabshah during bad weather and emergencies, media reports said, citing officials. According to sources within the Pakistan Airports Authority (PAA), work on the proposed project is …",
+   "image": "https://i.brecorder.com/large/2026/10/0517441127bc34d.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "APTMA seeks exemption of EFS imports from Punjab infrastructure cess",
+   "url": "https://www.brecorder.com/news/40442718/aptma-seeks-exemption-of-efs-imports-from-punjab-infrastructure-cess",
+   "source": "Business Recorder",
+   "published": "2026-10-05T10:40:54+00:00",
+   "summary": "The All Pakistan Textile Mills Association (APTMA) has urged the Pakistan Single Window (PSW) to exempt goods imported under the Export Facilitation Scheme (EFS) from Punjab Infrastructure Development Cess, arguing that such imports are already exempt from duties and taxes under the applicable rules. “APTMA wishes to b…",
+   "image": "https://i.brecorder.com/large/2026/10/05154037173499d.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "The politics of chambers",
    "url": "https://www.dawn.com/news/2034763/the-politics-of-chambers",
@@ -130,19 +170,6 @@
    "domestic": true
   },
   {
-   "title": "NA body seeks Rs5,000 wheat support price for Rabi season",
-   "url": "https://www.dawn.com/news/2034136/na-body-seeks-rs5000-wheat-support-price-for-rabi-season",
-   "source": "Dawn",
-   "published": "2026-10-02T02:29:24+00:00",
-   "summary": "ISLAMABAD: A parliamentary committee has recommended the federal government to fix the minimum support price of wheat at Rs5,000 per 40kg or above for the 2026-27 Rabi season, and called for a uniform subsidy mechanism for farmers across the country. The National Assembly Standing Committee on National Food Security an…",
-   "image": "https://i.dawn.com/large/2026/10/020727507bbb072.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "IMF-Pakistan talks: Islamabad ‘averts’ mini budget risk",
    "url": "https://arynews.tv/imf-pakistan-talks-islamabad-averts-mini-budget-risk",
    "source": "ARY News",
@@ -156,16 +183,108 @@
    "domestic": true
   },
   {
-   "title": "Saudi Arabia to cancel Joy Awards, its answer to the Grammys, amid budget cuts, sources say",
-   "url": "https://www.brecorder.com/news/40442712/saudi-arabia-to-cancel-joy-awards-its-answer-to-the-grammys-amid-budget-cuts-sources-say",
+   "title": "East-West oil pipeline pumping halted after new attack: Saudi energy sector source",
+   "url": "https://www.brecorder.com/news/40442740/east-west-oil-pipeline-pumping-halted-after-new-attack-saudi-energy-sector-source",
    "source": "Business Recorder",
-   "published": "2026-10-05T08:09:51+00:00",
-   "summary": "Saudi Arabia is set to cancel next year’s Joy Awards, its star-studded answer to the Oscars or the Grammys, as financial strain and the Iran war hit the country’s nascent entertainment sector, two people with knowledge of the matter said. Held in January, the event ​has become the crown jewel of Riyadh’s annual events …",
-   "image": "https://i.brecorder.com/large/2026/10/05130709ed756e4.gif",
+   "published": "2026-10-05T14:33:25+00:00",
+   "summary": "RIYADH: Oil flows in Saudi Arabia’s East-West pipeline were halted again following a fresh attack on the critical infrastructure, a source working in the kingdom’s energy sector told AFP on Monday. “ The East-West pipeline was attacked again yesterday,” the source told AFP. “A pumping station east of Riyadh in Khurais.…",
+   "image": "https://i.brecorder.com/large/2026/10/05193219f900e82.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 settles nearly 2,300 points lower on political uncertainty, higher oil prices",
+   "url": "https://www.brecorder.com/news/40442684/psx-kse-100-settles-nearly-2300-points-lower-on-political-uncertainty-higher-oil-prices",
+   "source": "Business Recorder",
+   "published": "2026-10-05T14:27:58+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) remained under selling pressure throughout Monday’s session amid escalating geopolitical tensions and increasing political noise at home, with the benchmark KSE-100 Index closing nearly 2,300 points lower. The benchmark index opened near 167,900 and initially moved lower, with brief at…",
+   "image": "https://i.brecorder.com/large/2026/10/050957465a24854.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Industrialists express concern over 15% surge in Pakistan’s trade deficit in 1QFY27",
+   "url": "https://www.brecorder.com/news/40442729/industrialists-express-concern-over-15-surge-in-pakistans-trade-deficit-in-1qfy27",
+   "source": "Business Recorder",
+   "published": "2026-10-05T11:40:23+00:00",
+   "summary": "Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), expressed concern over the widening of Pakistan’s trade deficit during the first quarter of the fiscal year 2026-27 (1QFY27), read a statement on Monday. Responding to the latest official figures released by the Pakistan…",
+   "image": "https://i.brecorder.com/large/2026/10/05164003ecc6f55.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Fitch says Saudi Arabia's 2027 pre-budget statement flags Iran war fiscal pressures",
+   "url": "https://www.brecorder.com/news/40442728/fitch-says-saudi-arabias-2027-pre-budget-statement-flags-iran-war-fiscal-pressures",
+   "source": "Business Recorder",
+   "published": "2026-10-05T11:38:20+00:00",
+   "summary": "Ratings agency Fitch said Saudi Arabia’s 2027 pre-budget statement highlighted the fiscal pressures from the US-Iran war, with the government projecting higher spending and wider budget deficits. Saudi Arabia projected a fiscal deficit of 4.9% of GDP in 2026, above the target set in its 2026 budget but below the 2025 d…",
+   "image": "https://i.brecorder.com/large/2026/10/0516380388462ab.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "What is US EXIM bank and why is Pakistan turning to it now?",
+   "url": "https://www.brecorder.com/news/40442723/what-is-us-exim-bank-and-why-is-pakistan-turning-to-it-now",
+   "source": "Business Recorder",
+   "published": "2026-10-05T11:28:39+00:00",
+   "summary": "Pakistan’s recent talks with the US Export-Import Bank (EXIM) are opening a new channel for financing major projects — from Pakistan International Airlines’ planned Boeing purchases to refinery upgrades and the Reko Diq mining project. But what exactly is US EXIM Bank, why is Pakistan suddenly talking to it, and how do…",
+   "image": "https://i.brecorder.com/large/2026/10/051558327f75e27.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee ends flat, anchored by RBI intervention in face of global strains",
+   "url": "https://www.brecorder.com/news/40442726/indian-rupee-ends-flat-anchored-by-rbi-intervention-in-face-of-global-strains",
+   "source": "Business Recorder",
+   "published": "2026-10-05T11:05:46+00:00",
+   "summary": "MUMBAI: T he Indian rupee ended little changed on Monday, wedged between pressures from a broadly firmer dollar, higher oil prices and likely intervention by the Reserve Bank of India, which kept the currency moored in a thin trading range. The rupee closed at 96.2925 per dollar, barely changed from its close at 96.315…",
+   "image": "https://i.brecorder.com/large/2026/10/05160515eafbdb1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper ticks higher as Fed rate hike bets fade",
+   "url": "https://www.brecorder.com/news/40442725/copper-ticks-higher-as-fed-rate-hike-bets-fade",
+   "source": "Business Recorder",
+   "published": "2026-10-05T11:01:09+00:00",
+   "summary": "Copper rose for a second straight session on Monday, tracking equity markets higher and as fading prospects for a US Federal Reserve rate hike outweighed pressure from a strong dollar. Benchmark three-month copper on the London Metal Exchange was up 0.6% at $14,346 a metric ton as of 0951 GMT. The metal hit a record hi…",
+   "image": "https://i.brecorder.com/large/2026/10/051559557897946.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's sunflower oil imports hit four-year low on Black Sea disruption; palm oil rises",
+   "url": "https://www.brecorder.com/news/40442717/indias-sunflower-oil-imports-hit-four-year-low-on-black-sea-disruption-palm-oil-rises",
+   "source": "Business Recorder",
+   "published": "2026-10-05T10:38:03+00:00",
+   "summary": "MUMBAI: Indian sunflower oil imports fell in September to their lowest level in more than four years after the Ukraine war disrupted shipments, prompting refiners to increase palm oil purchases to their highest level in seven months, five dealers said. Higher palm oil buying by the world’s biggest importer of vegetable…",
+   "image": "https://i.brecorder.com/large/2026/10/051537415d11091.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -219,20 +338,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil slips as Middle East crude exports rise, G7 to release stocks",
-   "url": "https://www.brecorder.com/news/40442678/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks",
-   "source": "Business Recorder",
-   "published": "2026-10-05T06:36:07+00:00",
-   "summary": "NEW DELHI/SINGAPORE: Oil prices edged lower on Monday as rising Middle East crude exports and a release of oil stocks by the Group of Seven nations boosted supplies, offsetting concerns about further damage to Gulf oil infrastructure amid the US-Israeli war on Iran. Brent crude futures fell 66 cents, or 0.65%, to $101.…",
-   "image": "https://i.brecorder.com/large/2026/10/05075221586532d.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -314,26 +419,25 @@
    "domestic": false
   },
   {
-   "title": "Dollar holds firm as French fiscal woes keep euro on back foot",
-   "url": "https://www.brecorder.com/news/40442679/dollar-holds-firm-as-french-fiscal-woes-keep-euro-on-back-foot",
-   "source": "Business Recorder",
-   "published": "2026-10-05T02:59:44+00:00",
-   "summary": "SINGAPORE: The dollar started the week on a firm footing , hovering near a 17-month high on Monday as ​traders weighed receding odds of a Federal Reserve rate hike this month after soft US jobs data while fiscal ‌worries in France left the euro vulnerable. The euro was at $1.1246, stuck near its lowest level since May …",
-   "image": "https://i.brecorder.com/large/2026/10/0507553491acd86.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "High US interest rates complicate Pakistan's monetary policy",
    "url": "https://www.dawn.com/news/2034882/high-us-interest-rates-complicate-pakistans-monetary-policy",
    "source": "Dawn",
    "published": "2026-10-05T02:45:58+00:00",
    "summary": "https://www.dawn.com/news/2034772",
    "image": "https://i.dawn.com/large/2026/10/0507364046739b7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil slips as Middle East crude exports rise, G7 to release stocks",
+   "url": "https://tribune.com.pk/story/2633058/oil-slips-as-middle-east-crude-exports-rise-g7-to-release-stocks",
+   "source": "The Express Tribune",
+   "published": "2026-10-05T01:44:11+00:00",
+   "summary": "Brent crude fell 66 cents, 0.65%, to $101.59 a barrel at 0740 PKT; US WTI at $90.12 a barrel, down 95 ​cents, 1.03%",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -351,6 +455,19 @@
     "Energy & power"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan's last IMF bailout?",
+   "url": "https://tribune.com.pk/story/2632996/pakistans-last-imf-bailout",
+   "source": "The Express Tribune",
+   "published": "2026-10-04T15:47:52+00:00",
+   "summary": "Credible opportunity exists to graduate from cycle of repeated IMF programmes",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -377,33 +494,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt sets bold DISCO sale deadline",
-   "url": "https://tribune.com.pk/story/2632865/govt-sets-bold-disco-sale-deadline",
-   "source": "The Express Tribune",
-   "published": "2026-10-03T19:58:29+00:00",
-   "summary": "Tells IMF nine electricity distributors will be privatised by Dec 2027",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Content creators, influencers seek tax concessions",
-   "url": "https://tribune.com.pk/story/2632868/content-creators-influencers-seek-tax-concessions",
-   "source": "The Express Tribune",
-   "published": "2026-10-03T19:58:29+00:00",
-   "summary": "Digital artists call for fairer regime and review to boost economy",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -459,19 +549,6 @@
    "domestic": false
   },
   {
-   "title": "UAE stocks fall as US-Iran deadlock weighs",
-   "url": "https://www.brecorder.com/news/40442362/uae-stocks-fall-as-us-iran-deadlock-weighs",
-   "source": "Business Recorder",
-   "published": "2026-10-02T13:52:52+00:00",
-   "summary": "United Arab Emirates stock markets closed lower on Friday as a stalemate in US-Iran negotiations dampened risk appetite and unsettled energy markets. Dubai’s benchmark index fell for a fourth straight session, closing 0.5% lower, with nearly all constituents in negative territory. Emirates NBD, Dubai’s largest lender, …",
-   "image": "https://i.brecorder.com/large/2026/10/02185244d65bbc3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Oil jumps 4pc after China suspends fuel exports",
    "url": "https://www.dawn.com/news/2034131/oil-jumps-4pc-after-china-suspends-fuel-exports",
    "source": "Dawn",
@@ -511,6 +588,45 @@
    "domestic": false
   },
   {
+   "title": "Trump to issue order expanding access to tax-exempt diesel fuel, sources say",
+   "url": "https://arynews.tv/trump-to-issue-order-expanding-access-to-tax-exempt-diesel-fuel-sources-say",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Trump to issue order expanding access to tax-exempt diesel fuel, sources say",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/a-truck-stop-in-Dunnigan-California-U.S.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Fish, seafood exports reach $125m in first quarter",
+   "url": "https://arynews.tv/fish-seafood-exports-reach-125m-in-first-quarter",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Fish, seafood exports reach $125m in first quarter",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Fish-export.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close low as KSE-100 index dips over 2,000 points",
+   "url": "https://arynews.tv/psx-stocks-close-low-as-kse-100-index-dips-over-2000-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close low as KSE-100 index dips over 2,000 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Mideast oil exports exceeded pre-Iran war levels: Kpler data",
    "url": "https://arynews.tv/mideast-oil-exports-exceeded-pre-iran-war-levels-kpler-data",
    "source": "ARY News",
@@ -547,32 +663,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close lower as KSE-100 falls 481 points",
-   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-falls-481-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close lower as KSE-100 falls 481 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/PSX-downward-trend-1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China oil products’ export suspension to choke supplies in Asia",
-   "url": "https://arynews.tv/china-oil-products-export-suspension-to-choke-supplies-in-asia",
-   "source": "ARY News",
-   "published": null,
-   "summary": "China oil products’ export suspension to choke supplies in Asia",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/China-Oil.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
