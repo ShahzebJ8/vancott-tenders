@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-05T18:46:53+00:00",
- "count": 50,
- "relevant_count": 17,
+ "generated": "2026-10-06T00:37:48+00:00",
+ "count": 46,
+ "relevant_count": 12,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
@@ -10,6 +10,32 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Faisalabad moves to become first circular city to boost exports",
+   "url": "https://www.brecorder.com/news/40442762/faisalabad-moves-to-become-first-circular-city-to-boost-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-06T00:18:33+00:00",
+   "summary": "FAISALABAD: Practical measures have been initiated to make Faisalabad Pakistan’s first circular city in a bid to meet European Union (EU) compliance requirements and enhance the exports of Pakistani products in international markets. This was stated by Faisalabad Chamber of Commerce and Industry (FCCI) President Arif E…",
+   "image": "https://i.brecorder.com/large/2026/10/060132139fcb5bc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "‘Escalating import bill to exert pressure on forex reserves’",
+   "url": "https://www.brecorder.com/news/40442769/escalating-import-bill-to-exert-pressure-on-forex-reserves",
+   "source": "Business Recorder",
+   "published": "2026-10-06T00:18:33+00:00",
+   "summary": "KARACHI: Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI) has warned that without immediate structural interventions, the continuous pivot to expensive imports to meet domestic demand will further exhaust the national exchequer and trigger a severe balance of payments c…",
+   "image": "https://i.brecorder.com/large/2026/10/06013454760d108.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40442722/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -21,33 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Hyderabad airport may resume operations after 13-year hiatus: reports",
-   "url": "https://www.brecorder.com/news/40442733/hyderabad-airport-may-resume-operations-after-13-year-hiatus-reports",
-   "source": "Business Recorder",
-   "published": "2026-10-05T12:47:43+00:00",
-   "summary": "Hyderabad airport is set to reopen for commercial flights after more than a decade, serving as an alternate hub for Karachi, Sukkur, and Nawabshah during bad weather and emergencies, media reports said, citing officials. According to sources within the Pakistan Airports Authority (PAA), work on the proposed project is …",
-   "image": "https://i.brecorder.com/large/2026/10/0517441127bc34d.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "APTMA seeks exemption of EFS imports from Punjab infrastructure cess",
-   "url": "https://www.brecorder.com/news/40442718/aptma-seeks-exemption-of-efs-imports-from-punjab-infrastructure-cess",
-   "source": "Business Recorder",
-   "published": "2026-10-05T10:40:54+00:00",
-   "summary": "The All Pakistan Textile Mills Association (APTMA) has urged the Pakistan Single Window (PSW) to exempt goods imported under the Export Facilitation Scheme (EFS) from Punjab Infrastructure Development Cess, arguing that such imports are already exempt from duties and taxes under the applicable rules. “APTMA wishes to b…",
-   "image": "https://i.brecorder.com/large/2026/10/05154037173499d.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -183,65 +182,12 @@
    "domestic": true
   },
   {
-   "title": "East-West oil pipeline pumping halted after new attack: Saudi energy sector source",
-   "url": "https://www.brecorder.com/news/40442740/east-west-oil-pipeline-pumping-halted-after-new-attack-saudi-energy-sector-source",
-   "source": "Business Recorder",
-   "published": "2026-10-05T14:33:25+00:00",
-   "summary": "RIYADH: Oil flows in Saudi Arabia’s East-West pipeline were halted again following a fresh attack on the critical infrastructure, a source working in the kingdom’s energy sector told AFP on Monday. “ The East-West pipeline was attacked again yesterday,” the source told AFP. “A pumping station east of Riyadh in Khurais.…",
-   "image": "https://i.brecorder.com/large/2026/10/05193219f900e82.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX: KSE-100 settles nearly 2,300 points lower on political uncertainty, higher oil prices",
    "url": "https://www.brecorder.com/news/40442684/psx-kse-100-settles-nearly-2300-points-lower-on-political-uncertainty-higher-oil-prices",
    "source": "Business Recorder",
    "published": "2026-10-05T14:27:58+00:00",
    "summary": "The Pakistan Stock Exchange (PSX) remained under selling pressure throughout Monday’s session amid escalating geopolitical tensions and increasing political noise at home, with the benchmark KSE-100 Index closing nearly 2,300 points lower. The benchmark index opened near 167,900 and initially moved lower, with brief at…",
    "image": "https://i.brecorder.com/large/2026/10/050957465a24854.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Industrialists express concern over 15% surge in Pakistan’s trade deficit in 1QFY27",
-   "url": "https://www.brecorder.com/news/40442729/industrialists-express-concern-over-15-surge-in-pakistans-trade-deficit-in-1qfy27",
-   "source": "Business Recorder",
-   "published": "2026-10-05T11:40:23+00:00",
-   "summary": "Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), expressed concern over the widening of Pakistan’s trade deficit during the first quarter of the fiscal year 2026-27 (1QFY27), read a statement on Monday. Responding to the latest official figures released by the Pakistan…",
-   "image": "https://i.brecorder.com/large/2026/10/05164003ecc6f55.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fitch says Saudi Arabia's 2027 pre-budget statement flags Iran war fiscal pressures",
-   "url": "https://www.brecorder.com/news/40442728/fitch-says-saudi-arabias-2027-pre-budget-statement-flags-iran-war-fiscal-pressures",
-   "source": "Business Recorder",
-   "published": "2026-10-05T11:38:20+00:00",
-   "summary": "Ratings agency Fitch said Saudi Arabia’s 2027 pre-budget statement highlighted the fiscal pressures from the US-Iran war, with the government projecting higher spending and wider budget deficits. Saudi Arabia projected a fiscal deficit of 4.9% of GDP in 2026, above the target set in its 2026 budget but below the 2025 d…",
-   "image": "https://i.brecorder.com/large/2026/10/0516380388462ab.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "What is US EXIM bank and why is Pakistan turning to it now?",
-   "url": "https://www.brecorder.com/news/40442723/what-is-us-exim-bank-and-why-is-pakistan-turning-to-it-now",
-   "source": "Business Recorder",
-   "published": "2026-10-05T11:28:39+00:00",
-   "summary": "Pakistan’s recent talks with the US Export-Import Bank (EXIM) are opening a new channel for financing major projects — from Pakistan International Airlines’ planned Boeing purchases to refinery upgrades and the Reko Diq mining project. But what exactly is US EXIM Bank, why is Pakistan suddenly talking to it, and how do…",
-   "image": "https://i.brecorder.com/large/2026/10/051558327f75e27.webp",
    "topics": [
     "Economy"
    ],
