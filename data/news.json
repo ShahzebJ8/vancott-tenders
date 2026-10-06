@@ -1,33 +1,20 @@
 {
- "generated": "2026-10-06T14:25:01+00:00",
- "count": 49,
- "relevant_count": 16,
+ "generated": "2026-10-06T19:44:15+00:00",
+ "count": 47,
+ "relevant_count": 15,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (8)"
+  "ARY News": "ok (7)"
  },
  "stories": [
-  {
-   "title": "UN chief praises Pakistan’s role in US-Iran talks, calls trust ‘important’",
-   "url": "https://www.brecorder.com/news/40442885/un-chief-praises-pakistans-role-in-us-iran-talks-calls-trust-important",
-   "source": "Business Recorder",
-   "published": "2026-10-06T11:32:18+00:00",
-   "summary": "United Nations Secretary-General António Guterres on Tuesday praised Pakistan’s role in facilitating dialogue between the United States and Iran, saying the trust placed in Islamabad by both sides reflected Pakistan’s credibility. Speaking at a press conference in Islamabad, Guterres said it was “remarkable” that both …",
-   "image": "https://i.brecorder.com/large/2026/10/0616305085a9482.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
   {
    "title": "Rupee gains against US dollar",
    "url": "https://www.brecorder.com/news/40442901/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-06T11:08:39+00:00",
+   "published": "2026-10-06T14:41:36+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.05, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.06 against the dollar. Internationally, the US dollar extended its blistering rally as…",
    "image": "https://i.brecorder.com/large/2026/10/061524478e8ea40.webp",
    "topics": [
@@ -183,6 +170,58 @@
    "domestic": true
   },
   {
+   "title": "Pakistani rupee gains against US Dollar",
+   "url": "https://arynews.tv/pakistani-rupee-gains-against-us-dollar",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistani rupee gains against US Dollar",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/US-dollar-Pakistani-rupee.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Auto manufacturers urge govt to suspend EDB’s used vehicle import 'relaxation'",
+   "url": "https://www.brecorder.com/news/40442931/auto-manufacturers-urge-govt-to-suspend-edbs-used-vehicle-import-relaxation",
+   "source": "Business Recorder",
+   "published": "2026-10-06T18:11:46+00:00",
+   "summary": "The Pakistan Automotive Manufacturers Association (PAMA) on Tuesday urged the government to suspend implementation of the Engineering Development Board’s (EDB) revised framework for commercial imports of used vehicles, warning it could put domestic manufacturers at a disproportionate disadvantage. In a letter to Advise…",
+   "image": "https://i.brecorder.com/large/2026/10/062310132bb3f92.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan seeks $26bn investment in 35 UNDP-backed projects",
+   "url": "https://www.brecorder.com/news/40442924/pakistan-seeks-26bn-investment-in-35-undp-backed-projects",
+   "source": "Business Recorder",
+   "published": "2026-10-06T17:38:20+00:00",
+   "summary": "Pakistan on Tuesday sought global investment worth $26 billion in 35 projects prepared with the support from the United Nations Development Programme (UNDP), aiming to eliminate poverty, protect the earth, and bring peace and health to all people by the year 2030. “Working with the federal and provincial governments, U…",
+   "image": "https://i.brecorder.com/large/2026/10/062236470a6e0e3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Most Gulf markets slip as geopolitical risks weigh",
+   "url": "https://www.brecorder.com/news/40442920/most-gulf-markets-slip-as-geopolitical-risks-weigh",
+   "source": "Business Recorder",
+   "published": "2026-10-06T14:47:41+00:00",
+   "summary": "Most Gulf stock markets closed lower on Tuesday as investors balanced geopolitical risks tied to US-Iran talks and ongoing Strait of Hormuz disruptions against easing oil supply concerns and stronger risk sentiment. In Qatar, the index fell 0.3%, dragged down by a 0.9% decline in Gulf lender Qatar National Bank . Abu D…",
+   "image": "https://i.brecorder.com/large/2026/10/061947072764eb9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "PSX: buying at bourse, KSE-100 up over 1.5%",
    "url": "https://www.brecorder.com/news/40442862/psx-buying-at-bourse-kse-100-up-over-15",
    "source": "Business Recorder",
@@ -235,20 +274,6 @@
    "domestic": false
   },
   {
-   "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
-   "url": "https://www.brecorder.com/news/40442856/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17-month-low",
-   "source": "Business Recorder",
-   "published": "2026-10-06T09:23:58+00:00",
-   "summary": "SINGAPORE: The euro struggled near a 17-month low on Tuesday, weighed down by political uncertainty ‌and fiscal concerns across the euro zone, while the dollar extended its blistering rally as it rode US Treasury yields higher. The euro ticked slightly lower to $1.1220 in the early Asian session, having slid to its low…",
-   "image": "https://i.brecorder.com/large/2026/10/060811170664866.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "European shares gain as Genmab jumps, bond yields retreat",
    "url": "https://www.brecorder.com/news/40442894/european-shares-gain-as-genmab-jumps-bond-yields-retreat",
    "source": "Business Recorder",
@@ -273,19 +298,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Two Saudi airports targeted on Monday as fighting with Yemen's Houthis escalates",
-   "url": "https://www.brecorder.com/news/40442889/two-saudi-airports-targeted-on-monday-as-fighting-with-yemens-houthis-escalates",
-   "source": "Business Recorder",
-   "published": "2026-10-06T08:18:54+00:00",
-   "summary": "DUBAI: Saudi Arabia’s airports in Jazan and Najran were targeted in two attacks on Monday evening, injuring three people and causing limited damage, the Saudi aviation authority said, as hostilities between the kingdom and Yemen’s Houthis escalated. The attacks came as Saudi-backed Yemeni government forces pressed a ma…",
-   "image": "https://i.brecorder.com/large/2026/10/061318379d2b8c8.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -387,19 +399,6 @@
    "published": "2026-10-06T03:20:02+00:00",
    "summary": "BENGALURU: McDonald’s and KFC supplier HyFun Foods plans to raise up to 20 billion rupees ($207.7 million) in an IPO by ​late 2028, the frozen-foods maker’s CEO said, betting on surging ‌demand from restaurants, retailers and quick-delivery platforms. The Indian firm expects to start preparations for the initial public…",
    "image": "https://i.brecorder.com/large/2026/10/060818084c81a59.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee pressured by US yields, euro-led dollar strength; RBI acts as buffer",
-   "url": "https://www.brecorder.com/news/40442857/indian-rupee-pressured-by-us-yields-euro-led-dollar-strength-rbi-acts-as-buffer",
-   "source": "Business Recorder",
-   "published": "2026-10-06T03:14:05+00:00",
-   "summary": "MUMBAI: The Indian rupee is expected to open mildly weaker on Tuesday , weighed by a rise in long-dated US Treasury yields ​and euro-led dollar strength, while traders expect the central bank ‌to continue smoothing the currency’s decline. The Indian rupee is expected to open in the 96.32-96.34 range, per traders, havin…",
-   "image": "https://i.brecorder.com/large/2026/10/06081237c40d00f.webp",
    "topics": [
     "Economy"
    ],
@@ -621,32 +620,6 @@
    "published": null,
    "summary": "PSX: Stocks close low as KSE-100 index dips over 2,000 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Mideast oil exports exceeded pre-Iran war levels: Kpler data",
-   "url": "https://arynews.tv/mideast-oil-exports-exceeded-pre-iran-war-levels-kpler-data",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Mideast oil exports exceeded pre-Iran war levels: Kpler data",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Oil-prices-fall-Iran-war.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Stocks upbeat, dollar rises at euro’s expense",
-   "url": "https://arynews.tv/stocks-upbeat-dollar-rises-at-euros-expense",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Stocks upbeat, dollar rises at euro’s expense",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-upbeat-dollar-rises-at-euro.jpg",
    "topics": [
     "Economy"
    ],
