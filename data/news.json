@@ -1,15 +1,41 @@
 {
- "generated": "2026-10-06T07:11:47+00:00",
- "count": 47,
- "relevant_count": 15,
- "domestic_count": 12,
+ "generated": "2026-10-06T14:25:01+00:00",
+ "count": 49,
+ "relevant_count": 16,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (8)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "UN chief praises Pakistan’s role in US-Iran talks, calls trust ‘important’",
+   "url": "https://www.brecorder.com/news/40442885/un-chief-praises-pakistans-role-in-us-iran-talks-calls-trust-important",
+   "source": "Business Recorder",
+   "published": "2026-10-06T11:32:18+00:00",
+   "summary": "United Nations Secretary-General António Guterres on Tuesday praised Pakistan’s role in facilitating dialogue between the United States and Iran, saying the trust placed in Islamabad by both sides reflected Pakistan’s credibility. Speaking at a press conference in Islamabad, Guterres said it was “remarkable” that both …",
+   "image": "https://i.brecorder.com/large/2026/10/0616305085a9482.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee gains against US dollar",
+   "url": "https://www.brecorder.com/news/40442901/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-06T11:08:39+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 277.05, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 277.06 against the dollar. Internationally, the US dollar extended its blistering rally as…",
+   "image": "https://i.brecorder.com/large/2026/10/061524478e8ea40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Power sector losses drag state-owned entities' profits",
    "url": "https://www.dawn.com/news/2035050/power-sector-losses-drag-state-owned-entities-profits",
@@ -91,19 +117,6 @@
    "domestic": true
   },
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40442722/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-05T14:11:29+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 277.06, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.03% in the inter-bank…",
-   "image": "https://i.brecorder.com/large/2026/10/05155222d78480b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "The politics of chambers",
    "url": "https://www.dawn.com/news/2034763/the-politics-of-chambers",
    "source": "Dawn",
@@ -156,17 +169,124 @@
    "domestic": true
   },
   {
-   "title": "IMF-Pakistan talks: Islamabad ‘averts’ mini budget risk",
-   "url": "https://arynews.tv/imf-pakistan-talks-islamabad-averts-mini-budget-risk",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF-Pakistan talks: Islamabad ‘averts’ mini budget risk",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Pakistan-IMF-mini-budget.jpg",
+   "title": "Exports increase 11pc amid soaring deficit",
+   "url": "https://www.dawn.com/news/2034340/exports-increase-11pc-amid-soaring-deficit",
+   "source": "Dawn",
+   "published": "2026-10-03T01:25:59+00:00",
+   "summary": "ISLAMABAD: Pakistan’s merchandise exports grew by 10.84 per cent in the first quarter of the current fiscal year (FY27), despite the trade gap widening on the back of rising imports, the Pakistan Bureau of Statistics reported on Friday. In absolute terms, export proceeds stood at $8.43 billion in July-September, up fro…",
+   "image": "https://i.dawn.com/large/2026/10/03073015540a593.webp",
    "topics": [
-    "Budget & spending"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "PSX: buying at bourse, KSE-100 up over 1.5%",
+   "url": "https://www.brecorder.com/news/40442862/psx-buying-at-bourse-kse-100-up-over-15",
+   "source": "Business Recorder",
+   "published": "2026-10-06T14:00:44+00:00",
+   "summary": "Buying returned to the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 2,600 points on Tuesday. The KSE-100 index witnessed a volatile trading session, initially gaining before coming under pressure around mid-day, when it touched an intra-day low of 165,651.67. The benchmark subsequently…",
+   "image": "https://i.brecorder.com/large/2026/10/06100501382593d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper drifts higher on rally in tech stocks and weaker dollar",
+   "url": "https://www.brecorder.com/news/40442913/copper-drifts-higher-on-rally-in-tech-stocks-and-weaker-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-06T12:36:51+00:00",
+   "summary": "LONDON: Copper prices gained for a third straight session on Tuesday, boosted by a rally on stock markets, a weaker dollar, and expectations for firmer demand. Benchmark three-month copper on the London Metal Exchange was up 0.1% at $14,420 a metric ton in official open-outcry trading, having added 1.1% on Monday. “Cop…",
+   "image": "https://i.brecorder.com/large/2026/10/06173620db553d3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "CCP greenlights Fatima Fertilizer’s acquisition of Agritech shares",
+   "url": "https://www.brecorder.com/news/40442907/ccp-greenlights-fatima-fertilizers-acquisition-of-agritech-shares",
+   "source": "Business Recorder",
+   "published": "2026-10-06T11:34:21+00:00",
+   "summary": "The Competition Commission of Pakistan (CCP) has completed its Phase-I competition review and authorised a transaction involving the acquisition of shares in Agritech Limited by Fatima Fertilizer Company Limited. The transaction involved the acquisition of Agritech shares through the Pakistan Stock Exchange in two stag…",
+   "image": "https://i.brecorder.com/large/2026/10/06163245164f2ed.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee hits two-month low on outflows, investors await RBI outcome with hike priced in",
+   "url": "https://www.brecorder.com/news/40442904/indian-rupee-hits-two-month-low-on-outflows-investors-await-rbi-outcome-with-hike-priced-in",
+   "source": "Business Recorder",
+   "published": "2026-10-06T10:53:37+00:00",
+   "summary": "MUMBAI: The Indian rupee declined to its weakest level in over two months on Tuesday, hit by outflows from local equities, while traders turned their focus to the Reserve Bank of India’s monetary policy decision on Wednesday where a hike is widely anticipated. Dollar sales from state-run banks, most likely on behalf of…",
+   "image": "https://i.brecorder.com/large/2026/10/06155328b856875.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
+   "url": "https://www.brecorder.com/news/40442856/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17-month-low",
+   "source": "Business Recorder",
+   "published": "2026-10-06T09:23:58+00:00",
+   "summary": "SINGAPORE: The euro struggled near a 17-month low on Tuesday, weighed down by political uncertainty ‌and fiscal concerns across the euro zone, while the dollar extended its blistering rally as it rode US Treasury yields higher. The euro ticked slightly lower to $1.1220 in the early Asian session, having slid to its low…",
+   "image": "https://i.brecorder.com/large/2026/10/060811170664866.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "European shares gain as Genmab jumps, bond yields retreat",
+   "url": "https://www.brecorder.com/news/40442894/european-shares-gain-as-genmab-jumps-bond-yields-retreat",
+   "source": "Business Recorder",
+   "published": "2026-10-06T08:28:25+00:00",
+   "summary": "European shares rose to near one-week highs on Tuesday , as Genmab led gains in healthcare stocks, while euro zone bond yields took a breather after rallying on fiscal and inflation concerns. The pan-European STOXX 600 index was up 0.8% to 638.41 points by 0727 GMT, poised for a third straight session of gains. Genmab …",
+   "image": "https://i.brecorder.com/large/2026/10/061328121f9d389.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "South African rand holds firm despite stronger dollar and weak metals",
+   "url": "https://www.brecorder.com/news/40442893/south-african-rand-holds-firm-despite-stronger-dollar-and-weak-metals",
+   "source": "Business Recorder",
+   "published": "2026-10-06T08:26:16+00:00",
+   "summary": "JOHANNESBURG: The South African rand was steady early on Tuesday, shrugging off a ​stronger US dollar even as weaker gold ‌and platinum prices weighed on South Africa’s export earnings and terms of trade. At 0651 GMT the rand ​traded at 16.6325 against the dollar , ​little changed from its previous close of ⁠16.6497. T…",
+   "image": "https://i.brecorder.com/large/2026/10/061325044bad1e1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Two Saudi airports targeted on Monday as fighting with Yemen's Houthis escalates",
+   "url": "https://www.brecorder.com/news/40442889/two-saudi-airports-targeted-on-monday-as-fighting-with-yemens-houthis-escalates",
+   "source": "Business Recorder",
+   "published": "2026-10-06T08:18:54+00:00",
+   "summary": "DUBAI: Saudi Arabia’s airports in Jazan and Najran were targeted in two attacks on Monday evening, injuring three people and causing limited damage, the Saudi aviation authority said, as hostilities between the kingdom and Yemen’s Houthis escalated. The attacks came as Saudi-backed Yemeni government forces pressed a ma…",
+   "image": "https://i.brecorder.com/large/2026/10/061318379d2b8c8.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Thai September headline CPI rises 2.82% on year, below forecast",
@@ -261,45 +381,6 @@
    "domestic": false
   },
   {
-   "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports",
-   "url": "https://www.brecorder.com/news/40442853/oil-gains-as-traders-weigh-gulf-tensions-against-strong-mideast-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-06T05:59:17+00:00",
-   "summary": "SINGAPORE: Oil prices made slight gains on Tuesday as security concerns in the Middle East kept a geopolitical risk premium in the market, even as resilient regional crude exports and a G7 emergency stockpile release eased supply concerns. Brent crude futures were up 27 cents, or 0.3%, at $100.59 a barrel at around 033…",
-   "image": "https://i.brecorder.com/large/2026/10/06075528c855fa3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying at bourse, KSE-100 up 600 points",
-   "url": "https://www.brecorder.com/news/40442862/psx-buying-at-bourse-kse-100-up-600-points",
-   "source": "Business Recorder",
-   "published": "2026-10-06T05:06:43+00:00",
-   "summary": "Buying returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 600 points during the opening minutes of trading on Tuesday. At 9:48am, the benchmark index was hovering at 166,521.38, up 654.07 points or 0.39%. Buying was observed in key sectors, including automobile assemblers, ceme…",
-   "image": "https://i.brecorder.com/large/2026/10/06100501382593d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Lotte Chemical Pakistan changes name to Noventra Limited",
-   "url": "https://www.brecorder.com/news/40442861/lotte-chemical-pakistan-changes-name-to-noventra-limited",
-   "source": "Business Recorder",
-   "published": "2026-10-06T04:48:02+00:00",
-   "summary": "Lotte Chemical Pakistan Limited (LOTCHEM) has changed its name to Noventra Limited with effect from October 5. The listed company said in a filing to the Pakistan Stock Exchange on Tuesday. The company said the name change was approved by the Securities and Exchange Commission of Pakistan (SECP), which issued a certifi…",
-   "image": "https://i.brecorder.com/large/2026/10/06094737e5c8756.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "McDonald's supplier HyFun plans $208 million India IPO",
    "url": "https://www.brecorder.com/news/40442859/mcdonalds-supplier-hyfun-plans-208-million-india-ipo",
    "source": "Business Recorder",
@@ -310,19 +391,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Trump expands access to tax-exempt diesel fuel",
-   "url": "https://www.brecorder.com/news/40442858/trump-expands-access-to-tax-exempt-diesel-fuel",
-   "source": "Business Recorder",
-   "published": "2026-10-06T03:17:16+00:00",
-   "summary": "GRAND ISLAND: US President Donald Trump signed an executive order on Monday to expand access to tax-exempt diesel that he unveiled from a rally stage in Nebraska. High diesel prices, which shot to a record of about $6.50 a gallon last month, are ​a risk to Trump ahead of the November 3 midterm US elections in which con…",
-   "image": "https://i.brecorder.com/large/2026/10/06081619ac884f2.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -339,26 +407,12 @@
    "domestic": false
   },
   {
-   "title": "Euro faces political, fiscal reckoning as it hovers near 17-month low",
-   "url": "https://www.brecorder.com/news/40442856/euro-faces-political-fiscal-reckoning-as-it-hovers-near-17-month-low",
-   "source": "Business Recorder",
-   "published": "2026-10-06T03:11:39+00:00",
-   "summary": "SINGAPORE: The euro struggled near a 17-month low on Tuesday, weighed down by political uncertainty ‌and fiscal concerns across the euro zone, while the dollar extended its blistering rally as it rode US Treasury yields higher. The euro ticked slightly lower to $1.1220 in the early Asian session, having slid to its low…",
-   "image": "https://i.brecorder.com/large/2026/10/060811170664866.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold inches lower as firmer dollar, higher yields weigh",
-   "url": "https://www.brecorder.com/news/40442852/gold-inches-lower-as-firmer-dollar-higher-yields-weigh",
-   "source": "Business Recorder",
-   "published": "2026-10-06T02:53:24+00:00",
-   "summary": "Gold eased on ​Tuesday , pressured by a firmer US dollar and rising Treasury yields, though ‌losses were limited by easing expectations of a Federal Reserve interest rate hike this month. Spot gold slipped 0.3% to $4,128.69 per ounce by 0155 GMT. US gold futures were little changed ​at $4,156.00. The dollar held firm, …",
-   "image": "https://i.brecorder.com/large/2026/10/06075149fba7ffe.webp",
+   "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports",
+   "url": "https://tribune.com.pk/story/2633249/oil-gains-as-traders-weigh-gulf-tensions-against-strong-mideast-exports",
+   "source": "The Express Tribune",
+   "published": "2026-10-06T00:48:49+00:00",
+   "summary": "Brent crude futures rise 27 cents, or 0.3%, to $100.59 a barrel",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -379,51 +433,12 @@
    "domestic": false
   },
   {
-   "title": "Fish, seafood exports hit $125m",
-   "url": "https://tribune.com.pk/story/2633171/fish-seafood-exports-hit-125m",
-   "source": "The Express Tribune",
-   "published": "2026-10-05T16:48:40+00:00",
-   "summary": "74% increase in Q1 reflects opening of new global markets including Russia, US",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Gold up Rs1,200, global market flat",
    "url": "https://tribune.com.pk/story/2633170/gold-up-rs1200-global-market-flat",
    "source": "The Express Tribune",
    "published": "2026-10-05T16:48:40+00:00",
    "summary": "Rises to Rs437,536/tola as Fed bets shift; rupee inches up",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee ends flat, anchored by RBI intervention in face of global strains",
-   "url": "https://www.brecorder.com/news/40442726/indian-rupee-ends-flat-anchored-by-rbi-intervention-in-face-of-global-strains",
-   "source": "Business Recorder",
-   "published": "2026-10-05T11:05:46+00:00",
-   "summary": "MUMBAI: T he Indian rupee ended little changed on Monday, wedged between pressures from a broadly firmer dollar, higher oil prices and likely intervention by the Reserve Bank of India, which kept the currency moored in a thin trading range. The rupee closed at 96.2925 per dollar, barely changed from its close at 96.315…",
-   "image": "https://i.brecorder.com/large/2026/10/05160515eafbdb1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper ticks higher as Fed rate hike bets fade",
-   "url": "https://www.brecorder.com/news/40442725/copper-ticks-higher-as-fed-rate-hike-bets-fade",
-   "source": "Business Recorder",
-   "published": "2026-10-05T11:01:09+00:00",
-   "summary": "Copper rose for a second straight session on Monday, tracking equity markets higher and as fading prospects for a US Federal Reserve rate hike outweighed pressure from a strong dollar. Benchmark three-month copper on the London Metal Exchange was up 0.6% at $14,346 a metric ton as of 0951 GMT. The metal hit a record hi…",
-   "image": "https://i.brecorder.com/large/2026/10/051559557897946.webp",
    "topics": [
     "Economy"
    ],
@@ -535,6 +550,32 @@
    "domestic": false
   },
   {
+   "title": "SBP announces new digital system for cheque clearing and settlement",
+   "url": "https://arynews.tv/sbp-announces-new-digital-system-for-cheque-clearing-and-settlement",
+   "source": "ARY News",
+   "published": null,
+   "summary": "SBP announces new digital system for cheque clearing and settlement",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/cheque.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF ‘asks’ Pakistan to end to concessional tax rate on EVs",
+   "url": "https://arynews.tv/imf-asks-pakistan-to-end-to-concessional-tax-rate-on-evs",
+   "source": "ARY News",
+   "published": null,
+   "summary": "IMF ‘asks’ Pakistan to end to concessional tax rate on EVs",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Commercial-import.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Trump signs order to expand access to tax-exempt diesel",
    "url": "https://arynews.tv/trump-signs-order-to-expand-access-to-tax-exempt-diesel",
    "source": "ARY News",
@@ -610,19 +651,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF calls for end to sales tax concession on electric vehicles in Pakistan",
-   "url": "https://arynews.tv/imf-calls-for-end-to-sales-tax-concession-on-electric-vehicles-in-pakistan",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF calls for end to sales tax concession on electric vehicles in Pakistan",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/EVs.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
