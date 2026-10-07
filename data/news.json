@@ -1,15 +1,134 @@
 {
- "generated": "2026-10-06T23:35:58+00:00",
- "count": 47,
- "relevant_count": 15,
- "domestic_count": 13,
+ "generated": "2026-10-07T04:01:12+00:00",
+ "count": 50,
+ "relevant_count": 20,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (16)",
+  "Dawn": "ok (18)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "PSX rebounds 2,593 points on IMF optimism",
+   "url": "https://www.dawn.com/news/2035290/psx-rebounds-2593-points-on-imf-optimism",
+   "source": "Dawn",
+   "published": "2026-10-07T03:38:31+00:00",
+   "summary": "KARACHI: After a sluggish overnight start stemming from regional and political uncertainty, the Pakistan Stock Exchange (PSX) on Tuesday saw strong buying interest at attractive valuations, helping the benchmark KSE-100 index recover from recent lows to above the 168,000 level, apparently supported by expectations of a…",
+   "image": "https://i.dawn.com/large/2026/10/0708341001e04c1.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "92pc of retail transactions are digital: State Bank",
+   "url": "https://www.dawn.com/news/2035291/92pc-of-retail-transactions-are-digital-state-bank",
+   "source": "Dawn",
+   "published": "2026-10-07T03:33:03+00:00",
+   "summary": "KARACHI: Digital channels accounted for 92 per cent of total retail payment transactions in the fiscal year 2025-26, up from 88 per cent in FY25, according to an annual report released by the State Bank on Tuesday. The ‘Annual Report on Payment Systems’ said that out of 14.3 billion transactions conducted through forma…",
+   "image": "https://i.dawn.com/large/2026/10/07083036c5d4edf.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM orders winter gas load plan amid LNG shortages",
+   "url": "https://www.dawn.com/news/2035292/pm-orders-winter-gas-load-plan-amid-lng-shortages",
+   "source": "Dawn",
+   "published": "2026-10-07T03:13:40+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday directed the relevant authorities to prepare a comprehensive plan for gas load management and take all necessary measures to ensure uninterrupted gas imports during the winter season, given the regional situation. The premier issued these instructions while chairing a…",
+   "image": "https://i.dawn.com/large/2026/10/070812528453ee4.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR allows late returns without surcharge",
+   "url": "https://www.dawn.com/news/2035295/fbr-allows-late-returns-without-surcharge",
+   "source": "Dawn",
+   "published": "2026-10-07T03:09:43+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has proposed new rules allowing individuals who file their income tax returns after the due date or extended deadline to be included in the Active Taxpayers’ List (ATL) without paying the prescribed surcharge. The concession, however, will be subject to the condition that t…",
+   "image": "https://i.dawn.com/large/2026/10/070807391cf922c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Appointment, bills: President approves three summaries",
+   "url": "https://www.brecorder.com/news/40443026/appointment-bills-president-approves-three-summaries",
+   "source": "Business Recorder",
+   "published": "2026-10-07T02:19:59+00:00",
+   "summary": "ISLAMABAD: President Asif Ali Zardari has approved three summaries, including the appointment of the Chairman and a member of the Federal Service Tribunal. The approved summaries also include the Pakistan Infrastructure Development and Assets Management Authority Bill, 2026, and the Civil Servants (Amendment) Bill, 202…",
+   "image": "https://i.brecorder.com/large/2026/10/07071952f08d9cb.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan drives regional rise in poverty levels",
+   "url": "https://www.dawn.com/news/2035294/pakistan-drives-regional-rise-in-poverty-levels",
+   "source": "Dawn",
+   "published": "2026-10-07T02:02:22+00:00",
+   "summary": "ISLAMABAD: Projecting Pakistan’s economic growth at 3.8 per cent and fiscal deficit at 3.5pc for the current fiscal year, the World Bank on Tuesday said the country was home to almost half of the extremely poor population in the entire Middle East, North Africa and Afghanistan-Pakistan (Menaap) region. “Menaap is the o…",
+   "image": "https://i.dawn.com/large/2026/10/07081938e46fdb2.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR introduces rules for electronic scrutiny of taxpayers",
+   "url": "https://www.dawn.com/news/2035311/fbr-introduces-rules-for-electronic-scrutiny-of-taxpayers",
+   "source": "Dawn",
+   "published": "2026-10-07T02:01:47+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has begun extending the use of artificial intelligence to scrutinise individual tax returns, enabling its automated system to detect factual and legal mistakes and discrepancies before initiating legal or penal action. The draft rules, titled “38-B Procedure for electronic …",
+   "image": "https://i.dawn.com/large/2026/10/07072552a535616.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "‘Poland is keen to strengthen economic cooperation with Pakistan’",
+   "url": "https://www.brecorder.com/news/40442948/poland-is-keen-to-strengthen-economic-cooperation-with-pakistan",
+   "source": "Business Recorder",
+   "published": "2026-10-07T00:37:01+00:00",
+   "summary": "ISLAMABAD: Tomasz Siemoniak, Minister, Member of the Council of Ministers and Coordinator of Special Services of the Republic of Poland, appreciated Pakistan’s constructive role in promoting regional peace and stability and expressed Poland’s desire to strengthen economic cooperation with Pakistan, with a focus on grea…",
+   "image": "https://i.brecorder.com/large/2026/10/070119530adbfe3.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "TDAP opens ‘International Exhibition of Handmade Carpets’",
+   "url": "https://www.brecorder.com/news/40442950/tdap-opens-international-exhibition-of-handmade-carpets",
+   "source": "Business Recorder",
+   "published": "2026-10-07T00:37:01+00:00",
+   "summary": "LAHORE: Declaring that “every single dollar is extremely valuable for Pakistan,” Trade Development Authority of Pakistan (TDAP) Chief Executive Faiz Ahmed Chadhar inaugurated the 42nd International Exhibition of Handmade Carpets in Lahore on Tuesday, assuring the industry of full government support and promising to res…",
+   "image": "https://i.brecorder.com/large/2026/10/07012134fa81980.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee gains against US dollar",
    "url": "https://www.brecorder.com/news/40442901/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -130,46 +249,6 @@
    "domestic": true
   },
   {
-   "title": "Local automakers voice concerns as imports of used cars surge in Sept",
-   "url": "https://www.dawn.com/news/2034516/local-automakers-voice-concerns-as-imports-of-used-cars-surge-in-sept",
-   "source": "Dawn",
-   "published": "2026-10-03T17:45:41+00:00",
-   "summary": "ISLAMABAD: Imports of used cars surged in September after easing of regulations, inviting criticism from local manufacturers while importers claim that the move will bring competition in the auto sector. After a brief decline due to the government abolishing the Pers­onal Baggage Scheme and applying restrictions to con…",
-   "image": "https://i.dawn.com/large/2026/10/032204214ae353a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Weekly inflation surges 11.53pc",
-   "url": "https://www.dawn.com/news/2034341/weekly-inflation-surges-1153pc",
-   "source": "Dawn",
-   "published": "2026-10-03T02:34:07+00:00",
-   "summary": "ISLAMABAD: Short-term inflation surged 11.53 per cent year on year for the week ending Oct 1, mainly due to higher food prices, according to official data released on Friday. The short-term inflation, measured by the Sensitive Price Index (SPI), rose by 0.21pc on a week-on-week basis, reflecting fluctuations in food an…",
-   "image": "https://i.dawn.com/large/2026/10/03073348822bb16.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Exports increase 11pc amid soaring deficit",
-   "url": "https://www.dawn.com/news/2034340/exports-increase-11pc-amid-soaring-deficit",
-   "source": "Dawn",
-   "published": "2026-10-03T01:25:59+00:00",
-   "summary": "ISLAMABAD: Pakistan’s merchandise exports grew by 10.84 per cent in the first quarter of the current fiscal year (FY27), despite the trade gap widening on the back of rising imports, the Pakistan Bureau of Statistics reported on Friday. In absolute terms, export proceeds stood at $8.43 billion in July-September, up fro…",
-   "image": "https://i.dawn.com/large/2026/10/03073015540a593.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Pakistani rupee gains against US Dollar",
    "url": "https://arynews.tv/pakistani-rupee-gains-against-us-dollar",
    "source": "ARY News",
@@ -183,6 +262,32 @@
    "domestic": true
   },
   {
+   "title": "Power loom sector reels under imports, rising costs",
+   "url": "https://www.dawn.com/news/2035310/power-loom-sector-reels-under-imports-rising-costs",
+   "source": "Dawn",
+   "published": "2026-10-07T02:22:10+00:00",
+   "summary": "Power looms are displayed for sale after closure of businesses in Faisalabad.—Courtesy Council of Loom Owners Association • 100,000 workers lose jobs in Faisalabad amid closure of 40pc units • Loom owners blame cheaper Chinese yarn, grey cloth, finished textile products • Industry body seeks stronger Customs checks to …",
+   "image": "https://i.dawn.com/large/2026/10/070254577ce6240.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar holds losses as markets await Fed minutes, speakers",
+   "url": "https://www.brecorder.com/news/40443050/dollar-holds-losses-as-markets-await-fed-minutes-speakers",
+   "source": "Business Recorder",
+   "published": "2026-10-07T01:47:03+00:00",
+   "summary": "TOKYO: The US dollar remained lower on Wednesday after stress in European bond markets abated ​and as eyes turned to the release of Federal Reserve minutes and speeches by its policymakers for signals on a potential rate ‌hike. The euro surged by the most in seven weeks in the prior session as French bond yields slid a…",
+   "image": "https://i.brecorder.com/large/2026/10/07064421d78480b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Auto manufacturers urge govt to suspend EDB’s used vehicle import 'relaxation'",
    "url": "https://www.brecorder.com/news/40442931/auto-manufacturers-urge-govt-to-suspend-edbs-used-vehicle-import-relaxation",
    "source": "Business Recorder",
@@ -193,19 +298,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan seeks $26bn investment in 35 UNDP-backed projects",
-   "url": "https://www.brecorder.com/news/40442924/pakistan-seeks-26bn-investment-in-35-undp-backed-projects",
-   "source": "Business Recorder",
-   "published": "2026-10-06T17:38:20+00:00",
-   "summary": "Pakistan on Tuesday sought global investment worth $26 billion in 35 projects prepared with the support from the United Nations Development Programme (UNDP), aiming to eliminate poverty, protect the earth, and bring peace and health to all people by the year 2030. “Working with the federal and provincial governments, U…",
-   "image": "https://i.brecorder.com/large/2026/10/062236470a6e0e3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -222,38 +314,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: buying at bourse, KSE-100 up over 1.5%",
-   "url": "https://www.brecorder.com/news/40442862/psx-buying-at-bourse-kse-100-up-over-15",
-   "source": "Business Recorder",
-   "published": "2026-10-06T14:00:44+00:00",
-   "summary": "Buying returned to the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 2,600 points on Tuesday. The KSE-100 index witnessed a volatile trading session, initially gaining before coming under pressure around mid-day, when it touched an intra-day low of 165,651.67. The benchmark subsequently…",
-   "image": "https://i.brecorder.com/large/2026/10/06100501382593d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Copper drifts higher on rally in tech stocks and weaker dollar",
    "url": "https://www.brecorder.com/news/40442913/copper-drifts-higher-on-rally-in-tech-stocks-and-weaker-dollar",
    "source": "Business Recorder",
    "published": "2026-10-06T12:36:51+00:00",
    "summary": "LONDON: Copper prices gained for a third straight session on Tuesday, boosted by a rally on stock markets, a weaker dollar, and expectations for firmer demand. Benchmark three-month copper on the London Metal Exchange was up 0.1% at $14,420 a metric ton in official open-outcry trading, having added 1.1% on Monday. “Cop…",
    "image": "https://i.brecorder.com/large/2026/10/06173620db553d3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "CCP greenlights Fatima Fertilizer’s acquisition of Agritech shares",
-   "url": "https://www.brecorder.com/news/40442907/ccp-greenlights-fatima-fertilizers-acquisition-of-agritech-shares",
-   "source": "Business Recorder",
-   "published": "2026-10-06T11:34:21+00:00",
-   "summary": "The Competition Commission of Pakistan (CCP) has completed its Phase-I competition review and authorised a transaction involving the acquisition of shares in Agritech Limited by Fatima Fertilizer Company Limited. The transaction involved the acquisition of Agritech shares through the Pakistan Stock Exchange in two stag…",
-   "image": "https://i.brecorder.com/large/2026/10/06163245164f2ed.webp",
    "topics": [
     "Economy"
    ],
@@ -393,19 +459,6 @@
    "domestic": false
   },
   {
-   "title": "McDonald's supplier HyFun plans $208 million India IPO",
-   "url": "https://www.brecorder.com/news/40442859/mcdonalds-supplier-hyfun-plans-208-million-india-ipo",
-   "source": "Business Recorder",
-   "published": "2026-10-06T03:20:02+00:00",
-   "summary": "BENGALURU: McDonald’s and KFC supplier HyFun Foods plans to raise up to 20 billion rupees ($207.7 million) in an IPO by ​late 2028, the frozen-foods maker’s CEO said, betting on surging ‌demand from restaurants, retailers and quick-delivery platforms. The Indian firm expects to start preparations for the initial public…",
-   "image": "https://i.brecorder.com/large/2026/10/060818084c81a59.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Oil gains as traders weigh Gulf tensions against strong Mideast exports",
    "url": "https://tribune.com.pk/story/2633249/oil-gains-as-traders-weigh-gulf-tensions-against-strong-mideast-exports",
    "source": "The Express Tribune",
@@ -438,19 +491,6 @@
    "published": "2026-10-05T16:48:40+00:00",
    "summary": "Rises to Rs437,536/tola as Fed bets shift; rupee inches up",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "High US interest rates complicate Pakistan's monetary policy",
-   "url": "https://www.dawn.com/news/2034882/high-us-interest-rates-complicate-pakistans-monetary-policy",
-   "source": "Dawn",
-   "published": "2026-10-05T02:45:58+00:00",
-   "summary": "https://www.dawn.com/news/2034772",
-   "image": "https://i.dawn.com/large/2026/10/0507364046739b7.webp",
    "topics": [
     "Economy"
    ],
