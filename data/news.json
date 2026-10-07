@@ -1,40 +1,39 @@
 {
- "generated": "2026-10-07T10:55:51+00:00",
- "count": 47,
- "relevant_count": 18,
+ "generated": "2026-10-07T17:43:53+00:00",
+ "count": 49,
+ "relevant_count": 16,
  "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (17)",
-  "Business Recorder": "ok (13)",
+  "Dawn": "ok (18)",
+  "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Bahrain's foreign minister arrives in Islamabad for 2-day visit",
+   "url": "https://www.dawn.com/news/2035375/bahrains-foreign-minister-arrives-in-islamabad-for-2-day-visit",
+   "source": "Dawn",
+   "published": "2026-10-07T15:54:01+00:00",
+   "summary": "Bahraini Foreign Minister Abdullatif bin Rashid Al Zayani arrived in Islamabad on Wednesday evening for a two-day visit, where he is expected to co-chair the third session of the Joint Ministerial Commission (JMC), the Foreign Office (FO) said. According to the FO, Al Zayani was received at the airport by Economic Affa…",
+   "image": "https://i.dawn.com/large/2026/10/07205048af1de84.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40443096/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-07T10:53:26+00:00",
+   "published": "2026-10-07T14:28:23+00:00",
    "summary": "The Pakistani rupee extended its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Wednesday. The local unit closed the day at 277.02, a gain of Re0.03 against the greenback. On Tuesday , the Pakistani rupee settled at 277.05 against the dollar. Internationally, the US dollar edged hig…",
    "image": "https://i.brecorder.com/large/2026/10/071552455fe8c29.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "ML-1 should be financed partly through commercialisation of railway land, says PM",
-   "url": "https://www.brecorder.com/news/40443085/ml-1-should-be-financed-partly-through-commercialisation-of-railway-land-says-pm",
-   "source": "Business Recorder",
-   "published": "2026-10-07T08:51:13+00:00",
-   "summary": "Prime Minister Muhammad Shehbaz construction of Main Line-1 (ML-1) should be undertaken on a commercial basis by utilising the identified lands worth billions of rupees of Pakistan Railways. The development came during a review meeting on reforms in Pakistan Railways was held in Islamabad under the chairmanship of PM S…",
-   "image": "https://i.brecorder.com/large/2026/10/0713420799fc53f.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -223,6 +222,111 @@
    "domestic": true
   },
   {
+   "title": "Scientists in Vienna and Beijing create world's first nuclear clocks",
+   "url": "https://www.brecorder.com/news/40443116/scientists-in-vienna-and-beijing-create-worlds-first-nuclear-clocks",
+   "source": "Business Recorder",
+   "published": "2026-10-07T15:24:32+00:00",
+   "summary": "Scientific teams working separately in Vienna and Beijing have developed the world’s first two operating nuclear clocks in what they are calling an important advance in timekeeping that promises wide-ranging practical applications and offers a new tool to investigate fundamental physics. The two devices represent the n…",
+   "image": "https://i.brecorder.com/large/2026/10/07202244e5ae5af.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf bourses retreat as Saudi-Houthi tensions surge",
+   "url": "https://www.brecorder.com/news/40443113/gulf-bourses-retreat-as-saudi-houthi-tensions-surge",
+   "source": "Business Recorder",
+   "published": "2026-10-07T14:50:50+00:00",
+   "summary": "Most Gulf stock markets ended lower on Wednesday as fighting between Yemen’s Houthis and Saudi-backed government forces intensified on several fronts. Yemeni government forces are pushing a major offensive to retake ground lost to weeks of Houthi advances, backed by stepped-up Saudi air strikes. The Houthis struck Aden…",
+   "image": "https://i.brecorder.com/large/2026/10/07194844f3bdfff.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nasdaq, S&P 500 slip from record highs as yields and oil rebound",
+   "url": "https://www.brecorder.com/news/40443112/nasdaq-sampp-500-slip-from-record-highs-as-yields-and-oil-rebound",
+   "source": "Business Recorder",
+   "published": "2026-10-07T14:42:17+00:00",
+   "summary": "The Nasdaq and the S&P 500 eased from record highs on Wednesday as Treasury yields and oil prices rebounded, keeping investors cautious as they awaited the minutes of the Federal Reserve’s September meeting. Sentiment turned more cautious as investors reassessed the outlook for interest rates and energy costs. Brent cr…",
+   "image": "https://i.brecorder.com/large/2026/10/071941540c423c4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India-bound sunflower oil cargoes face cancellation, delays as war disrupts Russian shipments",
+   "url": "https://www.brecorder.com/news/40443106/india-bound-sunflower-oil-cargoes-face-cancellation-delays-as-war-disrupts-russian-shipments",
+   "source": "Business Recorder",
+   "published": "2026-10-07T12:46:27+00:00",
+   "summary": "MUMBAI: A shipment of Russian sunflower oil bound for India was cancelled and other cargoes have been delayed after attacks on Black Sea ports disrupted exports from India’s top supplier, an industry official and trade sources said. A 20,000-ton shipment of Russian sunflower oil bound for India was “washed out” after t…",
+   "image": "https://i.brecorder.com/large/2026/10/07174547536a637.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold down 1% as dollar gains; Fed minutes in focus",
+   "url": "https://www.brecorder.com/news/40443102/gold-down-1-as-dollar-gains-fed-minutes-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-07T12:03:34+00:00",
+   "summary": "Gold prices slid on a stronger US dollar on Wednesday, while investors awaited the minutes of the Federal Reserve’s September meeting to gauge the degree of support among policymakers for further rate hikes. Spot gold fell 1.1% to $4,119.01 per ounce by 1127 GMT. US gold futures for December delivery declined 1% to $4,…",
+   "image": "https://i.brecorder.com/large/2026/10/07170327d905cda.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 gains 120 points after volatile trading",
+   "url": "https://www.brecorder.com/news/40443072/psx-kse-100-gains-120-points-after-volatile-trading",
+   "source": "Business Recorder",
+   "published": "2026-10-07T12:02:00+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session on Wednesday, with the benchmark KSE-100 index swinging both ways before closing slightly higher. The benchmark index initially came under pressure, hitting an intraday low of 168,065.86, before recovering steadily to an intraday high of 169,271.98 d…",
+   "image": "https://i.brecorder.com/large/2026/10/07102815f55ca4b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt plans to raise mortgage finance to 5% of GDP by 2035",
+   "url": "https://www.brecorder.com/news/40443099/govt-plans-to-raise-mortgage-finance-to-5-of-gdp-by-2035",
+   "source": "Business Recorder",
+   "published": "2026-10-07T11:44:00+00:00",
+   "summary": "The government has proposed raising mortgage finance to 5% of gross domestic product (GDP) by 2035 from below 0.5% currently, alongside plans to build 300,000-400,000 housing units annually under a new housing reform framework, the Planning Ministry said on Wednesday. The proposals on housing, construction and real est…",
+   "image": "https://i.brecorder.com/large/2026/10/07164243273b56a.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Copper slips on firmer dollar, supported by supply worries",
+   "url": "https://www.brecorder.com/news/40443097/copper-slips-on-firmer-dollar-supported-by-supply-worries",
+   "source": "Business Recorder",
+   "published": "2026-10-07T11:01:04+00:00",
+   "summary": "LONDON: Copper prices edged lower on Wednesday, undermined by a stronger dollar, but losses were modest due to firm demand and concerns about possible mine disruptions. Benchmark three-month copper on the London Metal Exchange was down 0.1% at $14,405.50 a metric ton by 0950 GMT. LME copper has gained 16% so far this y…",
+   "image": "https://i.brecorder.com/large/2026/10/07160043db553d3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "India bank liquidity surplus likely to decline by financial year-end, RBI Chief says",
    "url": "https://www.brecorder.com/news/40443095/india-bank-liquidity-surplus-likely-to-decline-by-financial-year-end-rbi-chief-says",
    "source": "Business Recorder",
@@ -262,19 +366,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 opens marginally higher, adds nearly 700 points",
-   "url": "https://www.brecorder.com/news/40443072/psx-kse-100-opens-marginally-higher-adds-nearly-700-points",
-   "source": "Business Recorder",
-   "published": "2026-10-07T07:59:03+00:00",
-   "summary": "Buying was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 700 points during trading on Wednesday. At 12:50pm, the benchmark index was hovering at 169,146.95, up 686.85 points or 0.41%. Key sectors saw buying, including automobile assemblers, cement, commercial banks, oil …",
-   "image": "https://i.brecorder.com/large/2026/10/07102815f55ca4b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "AI 'widening economic inequality', IMF chief warns",
    "url": "https://www.dawn.com/news/2035379/ai-widening-economic-inequality-imf-chief-warns",
    "source": "Dawn",
@@ -294,32 +385,6 @@
    "published": "2026-10-07T07:03:30+00:00",
    "summary": "JOHANNESBURG: The South African rand weakened in early trade on Wednesday as a stronger ​US dollar reduced demand for risk-sensitive ‌assets, while concerns over oil supply risks kept investors cautious. At 0635 GMT the rand traded at 16.5850 against ​the dollar , about 0.3% down from ​its previous close. The US dollar…",
    "image": "https://i.brecorder.com/large/2026/10/07120316f2a3ccc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "GEPCO privatisation: Lucky Cement consortium pre-qualified",
-   "url": "https://www.brecorder.com/news/40443076/gepco-privatisation-lucky-cement-consortium-pre-qualified",
-   "source": "Business Recorder",
-   "published": "2026-10-07T05:53:04+00:00",
-   "summary": "A consortium comprising Lucky Cement Limited, Hub Power Holdings Limited, Kohat Cement Company Limited and Metro Ventures (Private) Limited has been pre-qualified to conduct due diligence on Gujranwala Electric Power Company Limited (GEPCO). Lucky Cement, one of the largest cement makers in the country, informed in a f…",
-   "image": "https://i.brecorder.com/large/2026/10/07105121a37aa1b.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "England have put World Cup disappointment behind them, says Tuchel",
-   "url": "https://www.brecorder.com/news/40443073/england-have-put-world-cup-disappointment-behind-them-says-tuchel",
-   "source": "Business Recorder",
-   "published": "2026-10-07T05:34:51+00:00",
-   "summary": "England have moved on from their World Cup semi-final disappointment and taken an important step forward with their ​performances in the Nations League, manager Thomas Tuchel said. After ‌suffering a 3-2 defeat by world champions Spain in their Nations League opener, England responded with home and away wins over the C…",
-   "image": "https://i.brecorder.com/large/2026/10/07103410be77f99.gif",
    "topics": [
     "Economy"
    ],
@@ -392,38 +457,25 @@
    "domestic": false
   },
   {
+   "title": "PSX edges 120 points higher as profit-taking fuels volatility",
+   "url": "https://tribune.com.pk/story/2633469/psx-up-440-points-amid-hopes-of-renewed-govt-pti-dialogue",
+   "source": "The Express Tribune",
+   "published": "2026-10-07T03:01:28+00:00",
+   "summary": "KSE-100 settles at 168,580 as cautious sentiment emerges; oil prices remain above $100 amid Mideast supply risks",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Power loom sector reels under imports, rising costs",
    "url": "https://www.dawn.com/news/2035310/power-loom-sector-reels-under-imports-rising-costs",
    "source": "Dawn",
    "published": "2026-10-07T02:22:10+00:00",
    "summary": "Power looms are displayed for sale after closure of businesses in Faisalabad.—Courtesy Council of Loom Owners Association • 100,000 workers lose jobs in Faisalabad amid closure of 40pc units • Loom owners blame cheaper Chinese yarn, grey cloth, finished textile products • Industry body seeks stronger Customs checks to …",
    "image": "https://i.dawn.com/large/2026/10/070254577ce6240.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar holds losses as markets await Fed minutes, speakers",
-   "url": "https://www.brecorder.com/news/40443050/dollar-holds-losses-as-markets-await-fed-minutes-speakers",
-   "source": "Business Recorder",
-   "published": "2026-10-07T01:47:03+00:00",
-   "summary": "TOKYO: The US dollar remained lower on Wednesday after stress in European bond markets abated ​and as eyes turned to the release of Federal Reserve minutes and speeches by its policymakers for signals on a potential rate ‌hike. The euro surged by the most in seven weeks in the prior session as French bond yields slid a…",
-   "image": "https://i.brecorder.com/large/2026/10/07064421d78480b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Auto manufacturers urge govt to suspend EDB’s used vehicle import 'relaxation'",
-   "url": "https://www.brecorder.com/news/40442931/auto-manufacturers-urge-govt-to-suspend-edbs-used-vehicle-import-relaxation",
-   "source": "Business Recorder",
-   "published": "2026-10-06T18:11:46+00:00",
-   "summary": "The Pakistan Automotive Manufacturers Association (PAMA) on Tuesday urged the government to suspend implementation of the Engineering Development Board’s (EDB) revised framework for commercial imports of used vehicles, warning it could put domestic manufacturers at a disproportionate disadvantage. In a letter to Advise…",
-   "image": "https://i.brecorder.com/large/2026/10/062310132bb3f92.webp",
    "topics": [
     "Economy"
    ],
@@ -441,19 +493,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Handmade carpets to lift exports",
-   "url": "https://tribune.com.pk/story/2633367/handmade-carpets-to-lift-exports",
-   "source": "The Express Tribune",
-   "published": "2026-10-06T16:08:26+00:00",
-   "summary": "Industry asked to move towards innovation, bridge public-private sector gap",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -561,6 +600,19 @@
    "domestic": false
   },
   {
+   "title": "Pakistan’s public debt surges by Rs.5,495bn over one year, SBP data shows",
+   "url": "https://arynews.tv/pakistans-public-debt-surges-by-rs-5495bn-over-one-year-sbp-data-shows",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s public debt surges by Rs.5,495bn over one year, SBP data shows",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Debt.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "IMF-Pakistan talks ‘enter’ final stage",
    "url": "https://arynews.tv/imf-pakistan-talks-enter-final-stage",
    "source": "ARY News",
@@ -593,32 +645,6 @@
    "published": null,
    "summary": "IMF ‘asks’ Pakistan to end to concessional tax rate on EVs",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Commercial-import.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Trump signs order to expand access to tax-exempt diesel",
-   "url": "https://arynews.tv/trump-signs-order-to-expand-access-to-tax-exempt-diesel",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Trump signs order to expand access to tax-exempt diesel",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Donald-Trump.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Trump to issue order expanding access to tax-exempt diesel fuel, sources say",
-   "url": "https://arynews.tv/trump-to-issue-order-expanding-access-to-tax-exempt-diesel-fuel-sources-say",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Trump to issue order expanding access to tax-exempt diesel fuel, sources say",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/a-truck-stop-in-Dunnigan-California-U.S.jpg",
    "topics": [
     "Budget & spending"
    ],
