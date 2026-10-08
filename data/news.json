@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-08T16:49:00+00:00",
- "count": 49,
- "relevant_count": 20,
- "domestic_count": 19,
+ "generated": "2026-10-08T21:50:55+00:00",
+ "count": 46,
+ "relevant_count": 19,
+ "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (18)",
-  "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (8)",
+  "Dawn": "ok (17)",
+  "Business Recorder": "ok (14)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "SBP-held foreign exchange reserves rise $15m to $21.45bn",
-   "url": "https://www.brecorder.com/news/40443301/sbp-held-foreign-exchange-reserves-rise-15m-to-2145bn",
+   "title": "SBP-held foreign exchange reserves rise $15mn to $21.45bn",
+   "url": "https://www.brecorder.com/news/40443301/sbp-held-foreign-exchange-reserves-rise-15mn-to-2145bn",
    "source": "Business Recorder",
-   "published": "2026-10-08T16:29:28+00:00",
+   "published": "2026-10-08T18:12:16+00:00",
    "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $15 million week-on-week to $21.45 billion as of October 2, 2026, the central bank said on Thursday. According to data released by the SBP, the country’s total liquid foreign reserves stood at $26.80 billion during the week ended October 2.…",
    "image": "https://i.brecorder.com/large/2026/10/082117136f4254e.webp",
    "topics": [
@@ -248,19 +248,6 @@
    "domestic": true
   },
   {
-   "title": "PM approves livestock export expansion plan",
-   "url": "https://www.dawn.com/news/2035049/pm-approves-livestock-export-expansion-plan",
-   "source": "Dawn",
-   "published": "2026-10-06T01:59:26+00:00",
-   "summary": "ISLAMABAD: Prime Minister Sheh­baz Sharif on Monday approved a plan to increase livestock exports by importing high-yield breeds, raising them at specialised farms and then exporting them. He also approved restructuring the livestock sector along corporate lines and preparing and implementing reforms with the help of p…",
-   "image": "https://i.dawn.com/large/2026/10/06075012ad17e46.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Lufthansa, Air India suspend flights to Riyadh after Houthi attacks",
    "url": "https://www.brecorder.com/news/40443298/lufthansa-air-india-suspend-flights-to-riyadh-after-houthi-attacks",
    "source": "Business Recorder",
@@ -271,19 +258,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 sheds over 1,100 points on selling pressure",
-   "url": "https://www.brecorder.com/news/40443237/psx-kse-100-sheds-over-1100-points-on-selling-pressure",
-   "source": "Business Recorder",
-   "published": "2026-10-08T14:42:37+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) saw a volatile trading session on Thursday, with the benchmark KSE-100 index shedding over 1,100 points amid profit-taking. The benchmark index initially saw positive momentum, hitting an intra-day high of 169,486.60 before coming under sustained selling pressure through mid-day. A mod…",
-   "image": "https://i.brecorder.com/large/2026/10/0810113645dbc5e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -480,19 +454,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF tranche tied to SOE reforms",
-   "url": "https://tribune.com.pk/story/2633564/imf-tranche-tied-to-soe-reforms",
-   "source": "The Express Tribune",
-   "published": "2026-10-07T16:52:25+00:00",
-   "summary": "Fund seeks amendments to govt companies' law for release of $1b",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
