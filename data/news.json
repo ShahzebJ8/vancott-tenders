@@ -1,15 +1,159 @@
 {
- "generated": "2026-10-07T22:38:56+00:00",
- "count": 48,
- "relevant_count": 15,
- "domestic_count": 15,
+ "generated": "2026-10-08T02:29:30+00:00",
+ "count": 59,
+ "relevant_count": 21,
+ "domestic_count": 26,
  "sources": {
-  "Dawn": "ok (18)",
+  "Dawn": "ok (19)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Pakistan, IMF reach staff-level agreement for $1.2bn tranche",
+   "url": "https://www.dawn.com/news/2035602/pakistan-imf-reach-staff-level-agreement-for-12bn-tranche",
+   "source": "Dawn",
+   "published": "2026-10-08T02:24:27+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) on Thursday reached a staff-level agreement (SLA) with Pakistani authorities on the fourth review under the $7 billion Extended Fund Facility (EFF) and the third review under the $1.4bn Resilience and Sustainability Facility (RSF), qualifying Pakistan to draw about $1.2b…",
+   "image": "https://i.dawn.com/large/2026/10/08071424a3a31cc.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Reliable energy supply sought for export industries",
+   "url": "https://www.brecorder.com/news/40443197/reliable-energy-supply-sought-for-export-industries",
+   "source": "Business Recorder",
+   "published": "2026-10-08T01:55:46+00:00",
+   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum (PBIF) and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan, Chairman of the FPCCI Policy Advisory Board Mian Zahid Hussain urged the government to ensure reliable energy supplies to export industries at competitive …",
+   "image": "https://i.brecorder.com/large/2026/10/080655303f72836.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rs11.56m fines imposed for overcharging, hoarding",
+   "url": "https://www.brecorder.com/news/40443198/rs1156m-fines-imposed-for-overcharging-hoarding",
+   "source": "Business Recorder",
+   "published": "2026-10-08T01:54:09+00:00",
+   "summary": "LAHORE: The Punjab Food Safety and Consumer Protection Department and its price control magistrates conducted 433,511 inspections across Punjab during the last one week in a bid to nab the profiteers, over-chargers and those neglecting displaying official price lists at their business premises. Dr. Kiran Khurshid, Food…",
+   "image": "https://i.brecorder.com/large/2026/10/08065357777bcac.webp",
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Financial inclusion index rises to 59.5: SBP",
+   "url": "https://www.brecorder.com/news/40443221/financial-inclusion-index-rises-to-595-sbp",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:52+00:00",
+   "summary": "KARACHI: Pakistan’s financial inclusion index rose to 59.5 in 2025 from preceding year’s 58.1, reflecting a further expansion in access to and use of formal financial services across the country. The State Bank of Pakistan (SBP) released the results of the Pakistan Financial Inclusion Index (P-FII) for the year 2025. T…",
+   "image": "https://i.brecorder.com/large/2026/10/08045308c491f31.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Power sector: Govt has moved to overhaul regulatory regime: Aurangzeb",
+   "url": "https://www.brecorder.com/news/40443223/power-sector-govt-has-moved-to-overhaul-regulatory-regime-aurangzeb",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:52+00:00",
+   "summary": "ISLAMABAD: The government has moved to overhaul the power sector regulatory regime amid growing solarisation, falling grid demand and mounting legacy capacity obligations, with Finance Minister Muhammad Aurangzeb calling for a market structure that promotes competition, private investment, efficiency and better service…",
+   "image": "https://i.brecorder.com/large/2026/10/080441306c2a0e9.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR imposes new conditions on units seeking tax credit",
+   "url": "https://www.brecorder.com/news/40443224/fbr-imposes-new-conditions-on-units-seeking-tax-credit",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:52+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) on Wednesday imposed new conditions and restrictions on units intended to claim tax credit for integration with the Board’s systems, according to a FBR’s notification. The amount of tax credit allowed for a tax year in which electronic resource is installed, integrated and …",
+   "image": "https://i.brecorder.com/large/2026/10/08053741b76b71f.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Unrecovered VAT can push input cost up by 8.9pc: IMF study",
+   "url": "https://www.brecorder.com/news/40443225/unrecovered-vat-can-push-input-cost-up-by-89pc-imf-study",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:52+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has highlighted significant distortions in tax systems that affect key economic decisions, noting that unrecovered value-added tax (VAT) can raise input costs by up to 8.9 percent. In comparison, corporate taxation can increase the cost of capital by 15-19 percent. Shafi…",
+   "image": "https://i.brecorder.com/large/2026/10/0804322660b8eb8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Mariam Kayani made adviser to IMF ED",
+   "url": "https://www.brecorder.com/news/40443226/mariam-kayani-made-adviser-to-imf-ed",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:52+00:00",
+   "summary": "ISLAMABAD: The government on Wednesday appointed Mariam Kayani, a BPS-20 officer of Pakistan Administrative Service (PAS), as adviser to the executive director (ED) of the International Monetary Fund (IMF) in Washington for three years on deputation. Kayani is currently serving as joint secretary in the Finance Divisio…",
+   "image": "https://i.brecorder.com/large/2026/10/0804213705c1f9d.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan’s pharmaceutical exports hit three-year low of USD319m in FY26",
+   "url": "https://www.brecorder.com/news/40443154/pakistans-pharmaceutical-exports-hit-three-year-low-of-usd319m-in-fy26",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:51+00:00",
+   "summary": "KARACHI: Pakistan Pharmaceutical Manufacturers Association (PPMA) has reported that the country’s medicine exports hit a three-year low of USD319.01 million in the fiscal year ended June 30, 2026 (FY26), recording a sharp 30 percent year-on-year decline. The decline was largely attributed to a halt in the sale of local…",
+   "image": "https://i.brecorder.com/large/2026/10/08014339da81590.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Cotton output boost: Govt must take steps on a war footing: KCA",
+   "url": "https://www.brecorder.com/news/40443155/cotton-output-boost-govt-must-take-steps-on-a-war-footing-kca",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:51+00:00",
+   "summary": "KARACHI: The Karachi Cotton Association (KCA) has urged for immediate measures to boost cotton production aimed at reducing the country’s reliance on costly cotton imports. Addressing a ceremony held to mark World Cotton Day, KCA Chairman Muhammad Atif Shakoor said Pakistan is consistently facing a shortage of cotton a…",
+   "image": "https://i.brecorder.com/large/2026/10/08014708bdfb918.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Desalination plant in Karachi: Delegation of Chinese investors meets Nasir",
+   "url": "https://www.brecorder.com/news/40443157/desalination-plant-in-karachi-delegation-of-chinese-investors-meets-nasir",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:51+00:00",
+   "summary": "KARACHI: Sindh Local Government Minister Syed Nasir Hussain Shah chaired an important meeting with a delegation of Chinese investors, during which detailed discussions were held on investment opportunities in various sectors in Karachi and Sindh, particularly modern firefighting systems and machinery, water-related pro…",
+   "image": "https://i.brecorder.com/large/2026/10/080149577527c26.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Bahrain's foreign minister arrives in Islamabad for 2-day visit",
    "url": "https://www.dawn.com/news/2035375/bahrains-foreign-minister-arrives-in-islamabad-for-2-day-visit",
@@ -209,14 +353,27 @@
    "domestic": true
   },
   {
-   "title": "Scientists in Vienna and Beijing create world's first nuclear clocks",
-   "url": "https://www.brecorder.com/news/40443116/scientists-in-vienna-and-beijing-create-worlds-first-nuclear-clocks",
+   "title": "Retailers must not be allowed to evade taxes",
+   "url": "https://www.brecorder.com/news/40443149/retailers-must-not-be-allowed-to-evade-taxes",
    "source": "Business Recorder",
-   "published": "2026-10-07T15:24:32+00:00",
-   "summary": "Scientific teams working separately in Vienna and Beijing have developed the world’s first two operating nuclear clocks in what they are calling an important advance in timekeeping that promises wide-ranging practical applications and offers a new tool to investigate fundamental physics. The two devices represent the n…",
-   "image": "https://i.brecorder.com/large/2026/10/07202244e5ae5af.webp",
+   "published": "2026-10-08T01:25:11+00:00",
+   "summary": "EDITORIAL: The Federal Board of Revenue’s (FBR’s) decision to begin nationwide mapping of markets and individual shops is a logical next step after the poor response to the government’s Asaan Tax Scheme for retailers as out of 1016 returns filed by retailers under the scheme only 91 are new filers. FBR field officers w…",
+   "image": "https://i.brecorder.com/large/2026/10/08012716749c757.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FESCO region: Electricity conservation campaign launched",
+   "url": "https://www.brecorder.com/news/40443153/fesco-region-electricity-conservation-campaign-launched",
+   "source": "Business Recorder",
+   "published": "2026-10-08T00:42:51+00:00",
+   "summary": "FAISALABAD: On the special directives of Chief Executive Officer (CEO) Faisalabad Electric Supply Company (FESCO) Engr Muhammad Aamer a comprehensive electricity conservation campaign has been launched across all districts of the Faisalabad Electric Supply Company (FESCO) region. The campaign aims to encourage consumer…",
+   "image": "https://i.brecorder.com/large/2026/10/080134326784f93.webp",
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -284,20 +441,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt plans to raise mortgage finance to 5% of GDP by 2035",
-   "url": "https://www.brecorder.com/news/40443099/govt-plans-to-raise-mortgage-finance-to-5-of-gdp-by-2035",
-   "source": "Business Recorder",
-   "published": "2026-10-07T11:44:00+00:00",
-   "summary": "The government has proposed raising mortgage finance to 5% of gross domestic product (GDP) by 2035 from below 0.5% currently, alongside plans to build 300,000-400,000 housing units annually under a new housing reform framework, the Planning Ministry said on Wednesday. The proposals on housing, construction and real est…",
-   "image": "https://i.brecorder.com/large/2026/10/07164243273b56a.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
