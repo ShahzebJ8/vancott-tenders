@@ -1,15 +1,54 @@
 {
- "generated": "2026-10-08T09:21:50+00:00",
- "count": 50,
- "relevant_count": 23,
- "domestic_count": 18,
+ "generated": "2026-10-08T16:49:00+00:00",
+ "count": 49,
+ "relevant_count": 20,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (5)"
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "SBP-held foreign exchange reserves rise $15m to $21.45bn",
+   "url": "https://www.brecorder.com/news/40443301/sbp-held-foreign-exchange-reserves-rise-15m-to-2145bn",
+   "source": "Business Recorder",
+   "published": "2026-10-08T16:29:28+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $15 million week-on-week to $21.45 billion as of October 2, 2026, the central bank said on Thursday. According to data released by the SBP, the country’s total liquid foreign reserves stood at $26.80 billion during the week ended October 2.…",
+   "image": "https://i.brecorder.com/large/2026/10/082117136f4254e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40443272/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-08T13:34:33+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.01, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.02 against the dollar. Internationally, the US dollar held near its highest level …",
+   "image": "https://i.brecorder.com/large/2026/10/08152537e0d7407.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Nepra notifies consumers of Rs1.11 per unit higher fuel costs in Oct billing",
+   "url": "https://www.dawn.com/news/2035673/nepra-notifies-consumers-of-rs111-per-unit-higher-fuel-costs-in-oct-billing",
+   "source": "Dawn",
+   "published": "2026-10-08T10:44:07+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (Nepra) on Thursday notified electricity consumers of an additional burden of Rs16 billion by allowing Rs1.11 per unit in higher fuel costs in October billing. In a notification, Nepra said it had decided that the “positive fuel cost adjustment (FCA) for Augus…",
+   "image": "https://i.dawn.com/large/2026/10/081517496e932c9.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "MSC restores Karachi-Europe shipping link amid exporter concerns over freight costs",
    "url": "https://www.brecorder.com/news/40443247/msc-restores-karachi-europe-shipping-link-amid-exporter-concerns-over-freight-costs",
@@ -222,30 +261,122 @@
    "domestic": true
   },
   {
-   "title": "The politics of chambers",
-   "url": "https://www.dawn.com/news/2034763/the-politics-of-chambers",
-   "source": "Dawn",
-   "published": "2026-10-05T03:56:55+00:00",
-   "summary": "The new Karachi Chamber of Commerce and Industry (KCCI) leadership, headed by Talat Mahmood, faces the formidable challenge of representing a business community diverse in scale, sectors and ethnicity across one of the world’s largest and densest cities. The task is compounded by Karachi’s deficient infrastructure, civ…",
-   "image": "https://i.dawn.com/large/2026/10/0504310698a5e20.webp",
+   "title": "Lufthansa, Air India suspend flights to Riyadh after Houthi attacks",
+   "url": "https://www.brecorder.com/news/40443298/lufthansa-air-india-suspend-flights-to-riyadh-after-houthi-attacks",
+   "source": "Business Recorder",
+   "published": "2026-10-08T15:32:41+00:00",
+   "summary": "Lufthansa Group airlines and Air India will suspend flights to Riyadh, they said on Thursday, as Yemen’s Houthis renewed threats against airlines after claiming an attack on the Saudi capital’s airport. A Lufthansa spokesperson told Reuters the German group’s airlines would suspend flights to Riyadh through October 16 …",
+   "image": "https://i.brecorder.com/large/2026/10/08203227ca3d15d.webp",
    "topics": [
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Pakistani rupee gains against US Dollar",
-   "url": "https://arynews.tv/pakistani-rupee-gains-against-us-dollar",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistani rupee gains against US Dollar",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/US-dollar-Pakistani-rupee.jpg",
+   "title": "PSX: KSE-100 sheds over 1,100 points on selling pressure",
+   "url": "https://www.brecorder.com/news/40443237/psx-kse-100-sheds-over-1100-points-on-selling-pressure",
+   "source": "Business Recorder",
+   "published": "2026-10-08T14:42:37+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) saw a volatile trading session on Thursday, with the benchmark KSE-100 index shedding over 1,100 points amid profit-taking. The benchmark index initially saw positive momentum, hitting an intra-day high of 169,486.60 before coming under sustained selling pressure through mid-day. A mod…",
+   "image": "https://i.brecorder.com/large/2026/10/0810113645dbc5e.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Wall St slips as higher yields and oil prices flag inflation risk",
+   "url": "https://www.brecorder.com/news/40443291/wall-st-slips-as-higher-yields-and-oil-prices-flag-inflation-risk",
+   "source": "Business Recorder",
+   "published": "2026-10-08T14:10:39+00:00",
+   "summary": "US stocks edged lower on Thursday as soaring oil prices and Treasury yields near multi-year highs stoked inflation worries on the cusp of a critical earnings season expected to test recent market gains. Brent crude futures jumped 4.2% to more than $104 a barrel on persistent worries about supply from the Middle East af…",
+   "image": "https://i.brecorder.com/large/2026/10/08191016c3cbba1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Most Gulf bourses end lower as Hormuz attacks hit wartime peak",
+   "url": "https://www.brecorder.com/news/40443290/most-gulf-bourses-end-lower-as-hormuz-attacks-hit-wartime-peak",
+   "source": "Business Recorder",
+   "published": "2026-10-08T14:02:58+00:00",
+   "summary": "Most Gulf stock markets closed lower on Thursday as tanker attacks in the Strait of Hormuz hit a wartime high, deadly strikes on Saudi airports widened the conflict and stalled US-Iran diplomacy offered investors little relief. The latest attack came on Wednesday, when a tanker was hit by multiple projectiles 51 nautic…",
+   "image": "https://i.brecorder.com/large/2026/10/08190037688e054.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Copper gives up gains as strong dollar and oil weigh",
+   "url": "https://www.brecorder.com/news/40443283/copper-gives-up-gains-as-strong-dollar-and-oil-weigh",
+   "source": "Business Recorder",
+   "published": "2026-10-08T13:17:47+00:00",
+   "summary": "LONDON: Copper prices gave up early gains spurred by top consumer China’s return to the market on Thursday, with a strong dollar and rising oil prices offsetting concerns over tight supplies. Benchmark three-month copper on the London Metal Exchange was down 0.4% at $14,415 a metric ton in official open outcry activity…",
+   "image": "https://i.brecorder.com/large/2026/10/08181734841e6c3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature",
+   "url": "https://www.brecorder.com/news/40443280/genre-defying-canadian-poet-anne-carson-wins-2026-nobel-prize-in-literature",
+   "source": "Business Recorder",
+   "published": "2026-10-08T13:02:03+00:00",
+   "summary": "STOCKHOLM: Canadian poet and writer Anne Carson won the 2026 Nobel Prize in Literature “for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature”, the Swedish Academy said on Thursday. “She was very taken by surprise,” said Ingrid Carlbe…",
+   "image": "https://i.brecorder.com/large/2026/10/08180044320a11d.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India rate hike will not stem outflows, leaving central bank in a bind",
+   "url": "https://www.brecorder.com/news/40443278/india-rate-hike-will-not-stem-outflows-leaving-central-bank-in-a-bind",
+   "source": "Business Recorder",
+   "published": "2026-10-08T11:28:59+00:00",
+   "summary": "MUMBAI: India’s first rate hike in four years is unlikely to slow or reverse record high capital outflows, leaving the central bank battling the vicious cycle of a weakening currency and higher inflation in a hostile global environment. The modest hike of 25 basis points, even with signs of more to come, will do little…",
+   "image": "https://i.brecorder.com/large/2026/10/08162759427d20f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "RBI intervention halts rupee's slide to record low, risks linger",
+   "url": "https://www.brecorder.com/news/40443276/rbi-intervention-halts-rupees-slide-to-record-low-risks-linger",
+   "source": "Business Recorder",
+   "published": "2026-10-08T11:19:52+00:00",
+   "summary": "MUMBAI: The Indian rupee was on the defensive on Thursday, pressured by a jump in oil prices and weakness in Asian peers even as likely central bank intervention kept the currency from testing record lows hit five months ago. The Indian rupee ended nearly flat at 96.78 per dollar, within striking distance of its all-ti…",
+   "image": "https://i.brecorder.com/large/2026/10/08161856f66fbf4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus",
+   "url": "https://www.brecorder.com/news/40443274/indias-sensex-slumps-to-32-month-low-on-oil-surge-foreign-exodus",
+   "source": "Business Recorder",
+   "published": "2026-10-08T11:08:30+00:00",
+   "summary": "India’s benchmark Sensex slumped to its lowest in 32 months on Thursday as surging oil prices, rising global bond yields and a weaker rupee heightened inflation concerns, adding to pressure from the central bank’s hawkish rate increase a day earlier. The Nifty 50 fell 1.64% to 22,231.8, and Sensex shed 1.44% to 71,593.…",
+   "image": "https://i.brecorder.com/large/2026/10/08160819a3aee91.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "European shares dip as banks hit over 3-month low, oil prices weigh",
@@ -254,19 +385,6 @@
    "published": "2026-10-08T08:45:46+00:00",
    "summary": "European shares fell on Thursday as banks slid to a more than three-month low, while a fresh bond selloff and elevated oil prices stoked fears that higher inflation could hurt economic growth. The pan-European STOXX 600 index was down 0.9% to 624.24 points, as of 0723 GMT. European banks dropped nearly 2%, with Deutsch…",
    "image": "https://i.brecorder.com/large/2026/10/081345243b57892.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold prices recover from two-month low as dollar rally stalls",
-   "url": "https://www.brecorder.com/news/40443229/gold-prices-recover-from-two-month-low-as-dollar-rally-stalls",
-   "source": "Business Recorder",
-   "published": "2026-10-08T07:51:14+00:00",
-   "summary": "Gold prices edged higher on Thursday as ‌the dollar eased from an 18-month peak, helping bullion recover from a two-month low, while traders weighed the prospect of another US Federal Reserve rate hike this year. Spot gold was up 0.5% at $4,132.66 per ​ounce by 0140 GMT. On Wednesday, bullion prices touched their lowes…",
-   "image": "https://i.brecorder.com/large/2026/10/080743213095e40.webp",
    "topics": [
     "Economy"
    ],
@@ -300,20 +418,6 @@
    "domestic": false
   },
   {
-   "title": "TPL Insurance changes name to JazzSure",
-   "url": "https://www.brecorder.com/news/40443258/tpl-insurance-changes-name-to-jazzsure",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:35:02+00:00",
-   "summary": "TPL Insurance Limited has been renamed JazzSure Insurance Limited effective October 7, after Jazz International Holding Limited, a VEON subsidiary, acquired a 76.33% controlling stake on July 13, the company said. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Thursday.…",
-   "image": "https://i.brecorder.com/large/2026/10/081134327ab288e.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Thai baht/US dollar little changed on Thursday",
    "url": "https://www.brecorder.com/news/40443256/thai-bahtus-dollar-little-changed-on-thursday",
    "source": "Business Recorder",
@@ -324,20 +428,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying continues, KSE-100 up over 500 points amid IMF deal",
-   "url": "https://www.brecorder.com/news/40443237/psx-buying-continues-kse-100-up-over-500-points-amid-imf-deal",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:15:46+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX) as the International Monetary Fund (IMF) staff and Pakistan reached a staff-level agreement (SLA) on the fourth review of the $7-billion Extended Fund Facility (EFF) and the third review of the Resilience and Sustainability Facility (RSF). At 11:10am, th…",
-   "image": "https://i.brecorder.com/large/2026/10/0810113645dbc5e.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -380,64 +470,12 @@
    "domestic": false
   },
   {
-   "title": "Alcaraz, Sinner among stars locked in for Australian Open 1 Point Slam",
-   "url": "https://www.brecorder.com/news/40443244/alcaraz-sinner-among-stars-locked-in-for-australian-open-1-point-slam",
-   "source": "Business Recorder",
-   "published": "2026-10-08T05:47:41+00:00",
-   "summary": "MELBOURNE: Defending Australian Open champion Carlos Alcaraz will headline the popular AO 1 Point Slam alongside Jannik Sinner, Coco Gauff and Naomi Osaka next year as top professionals take on amateurs again for a million-dollar payday ahead of the Grand Slam. The event, part of the Australian Open’s opening week, see…",
-   "image": "https://i.brecorder.com/large/2026/10/08104720df1e43a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan turns to UK for PIA fleet renewal as Airbus, Rolls-Royce options emerge",
-   "url": "https://www.brecorder.com/news/40443242/pakistan-turns-to-uk-for-pia-fleet-renewal-as-airbus-rolls-royce-options-emerge",
-   "source": "Business Recorder",
-   "published": "2026-10-08T05:38:31+00:00",
-   "summary": "Pakistan and the United Kingdom discussed aviation cooperation, including potential Airbus and Rolls-Royce aircraft and engine arrangements for Pakistan International Airlines (PIA), with possible UK export credit support and leasing options to address immediate fleet requirements. The development came as Pakistan and …",
-   "image": "https://i.brecorder.com/large/2026/10/08103801da81b7a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee risks more losses after post-RBI policy slide, higher oil adds to woes",
-   "url": "https://www.brecorder.com/news/40443236/indian-rupee-risks-more-losses-after-post-rbi-policy-slide-higher-oil-adds-to-woes",
-   "source": "Business Recorder",
-   "published": "2026-10-08T03:22:32+00:00",
-   "summary": "MUMBAI: The Indian rupee’s drop after a Reserve Bank of India rate hike and stance change on Wednesday that some economists said was hawkish has ​left the currency vulnerable to further losses, with higher oil ‌prices adding to pressure. The Indian rupee fell 0.4% on Wednesday to 96.7750 per dollar, its weakest level s…",
-   "image": "https://i.brecorder.com/large/2026/10/08082148d54f08e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar edges back from 18-month high after FOMC minutes",
-   "url": "https://www.brecorder.com/news/40443232/dollar-edges-back-from-18-month-high-after-fomc-minutes",
-   "source": "Business Recorder",
-   "published": "2026-10-08T03:03:33+00:00",
-   "summary": "SINGAPORE: The dollar held near its strongest level in a year-and-a-half in subdued trading at the start of the Asian session on ​Thursday, after hawkish minutes from the Federal Open Market Committee signaled policymakers ‌at the US central bank viewed inflation as the biggest risk to their outlook. The dollar index ,…",
-   "image": "https://i.brecorder.com/large/2026/10/0808025225080b3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares poised for muted start, TCS kicks off earnings season",
-   "url": "https://www.brecorder.com/news/40443231/indian-shares-poised-for-muted-start-tcs-kicks-off-earnings-season",
-   "source": "Business Recorder",
-   "published": "2026-10-08T02:59:23+00:00",
-   "summary": "Indian shares were likely to open slightly lower on Thursday , extending losses from the previous session after the central bank delivered a hawkish rate ​hike, while rising oil prices added to inflation worries. Investors will also ‌watch Tata Consultancy Services, India’s biggest software exporter, as it starts the S…",
-   "image": "https://i.brecorder.com/large/2026/10/08075854a3aee91.webp",
+   "title": "PSX down over 1,100 points on oil price surge",
+   "url": "https://tribune.com.pk/story/2633685/psx-reverses-early-gains-as-kse-100-sheds-over-600-points",
+   "source": "The Express Tribune",
+   "published": "2026-10-08T04:22:09+00:00",
+   "summary": "KSE-100 closes at 167,441 points, as Brent crude crosses $104",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -458,65 +496,12 @@
    "domestic": false
   },
   {
-   "title": "GDP share no measure of farm tax",
-   "url": "https://tribune.com.pk/story/2633569/gdp-share-no-measure-of-farm-tax",
-   "source": "The Express Tribune",
-   "published": "2026-10-07T16:52:25+00:00",
-   "summary": "Experts say agricultural revenue is lost across value chain",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Non-compliant traders to face Rs150,000 penalty",
-   "url": "https://tribune.com.pk/story/2633570/non-compliant-traders-to-face-rs150000-penalty",
-   "source": "The Express Tribune",
-   "published": "2026-10-07T16:52:25+00:00",
-   "summary": "FBR plans to apply old law; only 100 new retailers file returns under fixed tax",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Gold falls as global prices hit low",
    "url": "https://tribune.com.pk/story/2633565/gold-falls-as-global-prices-hit-low",
    "source": "The Express Tribune",
    "published": "2026-10-07T16:52:25+00:00",
    "summary": "Loses Rs3,100 to Rs434,436 per tola; rupee inches up to 277.02/$",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gulf bourses retreat as Saudi-Houthi tensions surge",
-   "url": "https://www.brecorder.com/news/40443113/gulf-bourses-retreat-as-saudi-houthi-tensions-surge",
-   "source": "Business Recorder",
-   "published": "2026-10-07T14:50:50+00:00",
-   "summary": "Most Gulf stock markets ended lower on Wednesday as fighting between Yemen’s Houthis and Saudi-backed government forces intensified on several fronts. Yemeni government forces are pushing a major offensive to retake ground lost to weeks of Houthi advances, backed by stepped-up Saudi air strikes. The Houthis struck Aden…",
-   "image": "https://i.brecorder.com/large/2026/10/07194844f3bdfff.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Nasdaq, S&P 500 slip from record highs as yields and oil rebound",
-   "url": "https://www.brecorder.com/news/40443112/nasdaq-sampp-500-slip-from-record-highs-as-yields-and-oil-rebound",
-   "source": "Business Recorder",
-   "published": "2026-10-07T14:42:17+00:00",
-   "summary": "The Nasdaq and the S&P 500 eased from record highs on Wednesday as Treasury yields and oil prices rebounded, keeping investors cautious as they awaited the minutes of the Federal Reserve’s September meeting. Sentiment turned more cautious as investors reassessed the outlook for interest rates and energy costs. Brent cr…",
-   "image": "https://i.brecorder.com/large/2026/10/071941540c423c4.webp",
    "topics": [
     "Economy"
    ],
