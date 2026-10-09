@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-09T15:31:57+00:00",
- "count": 47,
- "relevant_count": 19,
- "domestic_count": 17,
+ "generated": "2026-10-09T20:18:54+00:00",
+ "count": 45,
+ "relevant_count": 18,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (17)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (8)",
-  "ARY News": "ok (3)"
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (4)"
  },
  "stories": [
   {
@@ -47,19 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR proposes expanding tax rules from YouTube to all social media platforms",
-   "url": "https://www.brecorder.com/news/40443442/fbr-proposes-expanding-tax-rules-from-youtube-to-all-social-media-platforms",
-   "source": "Business Recorder",
-   "published": "2026-10-09T08:52:48+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has proposed expanding the scope of income tax rules from YouTube to all social media platforms, potentially bringing a wider range of online content creators and digital platforms within the existing tax framework. The FBR has drafted notifications proposing amendments to …",
-   "image": "https://i.brecorder.com/large/2026/10/0913515284330e2.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -209,19 +196,6 @@
    "domestic": true
   },
   {
-   "title": "92pc of retail transactions are digital: State Bank",
-   "url": "https://www.dawn.com/news/2035291/92pc-of-retail-transactions-are-digital-state-bank",
-   "source": "Dawn",
-   "published": "2026-10-07T03:33:03+00:00",
-   "summary": "KARACHI: Digital channels accounted for 92 per cent of total retail payment transactions in the fiscal year 2025-26, up from 88 per cent in FY25, according to an annual report released by the State Bank on Tuesday. The ‘Annual Report on Payment Systems’ said that out of 14.3 billion transactions conducted through forma…",
-   "image": "https://i.dawn.com/large/2026/10/07083036c5d4edf.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "FBR introduces rules for electronic scrutiny of taxpayers",
    "url": "https://www.dawn.com/news/2035311/fbr-introduces-rules-for-electronic-scrutiny-of-taxpayers",
    "source": "Dawn",
@@ -233,6 +207,33 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Pakistan’s 5mn+ SMEs building on rented land",
+   "url": "https://www.brecorder.com/news/40443471/pakistans-5mn-smes-building-on-rented-land",
+   "source": "Business Recorder",
+   "published": "2026-10-09T18:11:20+00:00",
+   "summary": "Pakistan’s digital economy is growing. Its commerce infrastructure isn’t. Our country’s more than five million small and medium-sized enterprises (SMEs) account for over 90% of businesses and around 40% of gross domestic product (GDP). Their importance to Pakistan’s economy is undeniable. But many of these businesses d…",
+   "image": "https://i.brecorder.com/large/2026/10/092252374732b49.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "RLNG supply constraints: KE warns of 'load management' during peak hours",
+   "url": "https://www.brecorder.com/news/40443470/rlng-supply-constraints-ke-warns-of-load-management-during-peak-hours",
+   "source": "Business Recorder",
+   "published": "2026-10-09T17:41:41+00:00",
+   "summary": "K-Electric (KE) might resort to load management during evening and night peak hours due to nationwide regasified liquefied natural gas (RLNG) supply constraints, the power utility’s spokesperson said on Friday. KE is the primary power utility responsible for electricity generation, transmission, and distribution in Kar…",
+   "image": "https://i.brecorder.com/large/2026/10/092236185eb88b1.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PSX: KSE-100 slips lower, sheds 353 points after early gains fade",
@@ -325,19 +326,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "The cheapest megawatt Pakistan isn't producing",
-   "url": "https://www.brecorder.com/news/40443438/the-cheapest-megawatt-pakistan-isnt-producing",
-   "source": "Business Recorder",
-   "published": "2026-10-09T10:26:17+00:00",
-   "summary": "Pakistan’s energy conversation has, for months, revolved around a single question: who should sell electricity to industry? NEPRA just approved uniform wheeling charges for bulk power consumers, clearing the way for the country’s first competitive 400-megawatt electricity auction. The DISCO privatisation debate rages o…",
-   "image": "https://i.brecorder.com/large/2026/10/091306082c61a6c.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -458,32 +446,6 @@
    "domestic": false
   },
   {
-   "title": "New pricing system may halt petrol import",
-   "url": "https://tribune.com.pk/story/2633777/new-pricing-system-may-halt-petrol-import",
-   "source": "The Express Tribune",
-   "published": "2026-10-08T15:59:02+00:00",
-   "summary": "In letter to secretary, industry says importing OMCs may not be able to recover actual costs",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Reserves edge up to $26.8b",
-   "url": "https://tribune.com.pk/story/2633775/reserves-edge-up-to-268b",
-   "source": "The Express Tribune",
-   "published": "2026-10-08T15:59:02+00:00",
-   "summary": "SBP holdings rise $15m to $21.5b",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX down despite IMF agreement",
    "url": "https://tribune.com.pk/story/2633782/psx-down-despite-imf-agreement",
    "source": "The Express Tribune",
@@ -586,6 +548,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s seafood exports hit record $568mn as ministry pushes shrimp farming expansion",
+   "url": "https://arynews.tv/pakistans-seafood-exports-hit-record-568mn-as-ministry-pushes-shrimp-farming-expansion",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s seafood exports hit record $568mn as ministry pushes shrimp farming expansion",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-09T210702.501.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {

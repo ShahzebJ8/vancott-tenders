@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T15:31:51+00:00",
+ "generated": "2026-10-09T20:18:49+00:00",
  "count": 722,
  "with_value": 690,
  "with_winner": 272,
@@ -13741,6 +13741,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004119",
+   "tender_no": "TS0000013852E",
+   "reference": "GSD (PROC-I)/ P89902 /Renewal/Software/2026",
+   "title": "Acquisition & Renewal of in-use Adobe Software Licenses Info and Comm Tech State Bank of Pakistan (SBP)",
+   "organisation": "State Bank of Pakistan (SBP) State Bank of Pakistan - Karachi Karachi - Pakistan",
+   "bid_count": 5,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-10-09",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004119",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004117",
    "tender_no": "TS0000013504E",
@@ -52845,28 +52863,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002034",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002033",
-   "tender_no": "TS0000007674E",
-   "reference": "FCS/NSR/TE/014/26 Fabrication Material",
-   "title": "Fabrication Material Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Procurement Office, Sui Northern Gas Pipelines Limited (SNGPL) Charsada Charsada - Pakistan",
-   "bid_count": 6,
-   "lowest": [
-    "Hassan Traders Gujranwala",
-    "Prime X Traders Wah Cantt, PK Traders Peshawar, Al Khair Enterprises Multan",
-    "Abdullah Traders Gujranwala, GM & Sons Enterprises Gujranwala"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-14",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002033",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
