@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-08T21:50:55+00:00",
- "count": 46,
- "relevant_count": 19,
- "domestic_count": 18,
+ "generated": "2026-10-09T01:46:01+00:00",
+ "count": 51,
+ "relevant_count": 22,
+ "domestic_count": 25,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (14)",
@@ -11,12 +11,104 @@
  },
  "stories": [
   {
-   "title": "SBP-held foreign exchange reserves rise $15mn to $21.45bn",
-   "url": "https://www.brecorder.com/news/40443301/sbp-held-foreign-exchange-reserves-rise-15mn-to-2145bn",
+   "title": "Foreign income: IRIS drops reduced tax rate option",
+   "url": "https://www.brecorder.com/news/40443380/foreign-income-iris-drops-reduced-tax-rate-option",
    "source": "Business Recorder",
-   "published": "2026-10-08T18:12:16+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $15 million week-on-week to $21.45 billion as of October 2, 2026, the central bank said on Thursday. According to data released by the SBP, the country’s total liquid foreign reserves stood at $26.80 billion during the week ended October 2.…",
-   "image": "https://i.brecorder.com/large/2026/10/082117136f4254e.webp",
+   "published": "2026-10-09T01:25:22+00:00",
+   "summary": "ISLAMABAD: Taxpayers declaring foreign income are facing serious difficulties in filing their income tax returns for tax year 2026, as the Federal Board of Revenue’s (FBR) IRIS portal no longer offers the option to apply reduced tax rates on such income. M. Amayed Ashfaq Tola, President Tola Associates told Business Re…",
+   "image": "https://i.brecorder.com/large/2026/10/09062511a3eaa4c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Share transfers: Foreign investors seeking clarity on FBR exemption certificates",
+   "url": "https://www.brecorder.com/news/40443379/share-transfers-foreign-investors-seeking-clarity-on-fbr-exemption-certificates",
+   "source": "Business Recorder",
+   "published": "2026-10-09T01:23:40+00:00",
+   "summary": "ISLAMABAD: Foreign investors have strongly emphasised the need for a streamlined and time-bound exemption certificate process for foreign investors seeking registration of foreign-held shares acquisitions in Pakistan and cross-border share transactions involving Pakistani assets. The Federal Board of Revenue (FBR) shou…",
+   "image": "https://i.brecorder.com/large/2026/10/09062335feaa4e8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR stops processing advance ruling applications",
+   "url": "https://www.brecorder.com/news/40443377/fbr-stops-processing-advance-ruling-applications",
+   "source": "Business Recorder",
+   "published": "2026-10-09T01:09:15+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has stopped publishing the details of advance rulings issued to the foreign investors since 2018 with growing concerns among non-resident investors over non-processing of advance ruling applications filed with the FBR. Tax experts told Business Recorder that the concerns we…",
+   "image": "https://i.brecorder.com/large/2026/10/090609028db0255.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Finance clarifies nature of Rs10.1trn SOE debt",
+   "url": "https://www.brecorder.com/news/40443376/finance-clarifies-nature-of-rs101trn-soe-debt",
+   "source": "Business Recorder",
+   "published": "2026-10-09T01:07:29+00:00",
+   "summary": "ISLAMABAD: The Ministry of Finance and Revenue on Thursday clarified that the Rs10.1 trillion debt figure reported by the Central Monitoring Unit (CMU) of the State Bank of Pakistan (SBP) represents the consolidated stock of interest-bearing obligations of federal State-Owned Enterprises (SOEs) and should not be constr…",
+   "image": "https://i.brecorder.com/large/2026/10/090607166de870b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "NPMC informed: WPI-based inflation jumps 13.3pc YoY",
+   "url": "https://www.brecorder.com/news/40443374/npmc-informed-wpi-based-inflation-jumps-133pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-10-09T01:01:30+00:00",
+   "summary": "ISLAMABAD: The inflation based on Wholesale Price Index (WPI) jumped 13.3 percent year-on-year, while weekly consumer-price inflation climbed 11.53 percent in the week ended October 1, the National Price Monitoring Committee (NPMC) was informed on Thursday. Major annual increases were recorded in onions, LPG, electrici…",
+   "image": "https://i.brecorder.com/large/2026/10/09060111d7d1a6f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Wattoo highlights close link between water security and climate resilience",
+   "url": "https://www.brecorder.com/news/40443329/wattoo-highlights-close-link-between-water-security-and-climate-resilience",
+   "source": "Business Recorder",
+   "published": "2026-10-09T00:27:58+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Water Resources Muhammad Moeen Wattoo has highlighted the close link between water security, climate resilience and disaster risk reduction, stressing the importance of integrating these priorities into national development planning as Pakistan faces increasing risks from floods, drought…",
+   "image": "https://i.brecorder.com/large/2026/10/090136062cf7729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Import, export of live animals: FBR issues procedure for deferment of duties, taxes",
+   "url": "https://www.brecorder.com/news/40443332/import-export-of-live-animals-fbr-issues-procedure-for-deferment-of-duties-taxes",
+   "source": "Business Recorder",
+   "published": "2026-10-09T00:27:58+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has issued a strict procedure for deferment of duties and taxes on the import of live animals and their subsequent export including export of meat and meat products under the Export Facilitation Scheme (EFS). The FBR has issued SRO 1752(I)/2026 on Thursday to issue draft am…",
+   "image": "https://i.brecorder.com/large/2026/10/090126171225351.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "International Poultry Expo (IPEX) 2026: Adviser highlights benefits, potential of poultry industry",
+   "url": "https://www.brecorder.com/news/40443343/international-poultry-expo-ipex-2026-adviser-highlights-benefits-potential-of-poultry-industry",
+   "source": "Business Recorder",
+   "published": "2026-10-09T00:27:58+00:00",
+   "summary": "LAHORE: Adviser to the Prime Minister for Industries and Production, Haroon Akhtar Khan, has called for a comprehensive export strategy to enable Pakistan’s poultry industry to establish a strong footprint in international markets, saying the sector has the potential to become a major contributor to food security, empl…",
+   "image": "https://i.brecorder.com/large/2026/10/0901440020f3aa6.webp",
    "topics": [
     "Economy"
    ],
@@ -248,16 +340,16 @@
    "domestic": true
   },
   {
-   "title": "Lufthansa, Air India suspend flights to Riyadh after Houthi attacks",
-   "url": "https://www.brecorder.com/news/40443298/lufthansa-air-india-suspend-flights-to-riyadh-after-houthi-attacks",
+   "title": "‘NTU is making efforts to commercialise research, enhance exports’",
+   "url": "https://www.brecorder.com/news/40443324/ntu-is-making-efforts-to-commercialise-research-enhance-exports",
    "source": "Business Recorder",
-   "published": "2026-10-08T15:32:41+00:00",
-   "summary": "Lufthansa Group airlines and Air India will suspend flights to Riyadh, they said on Thursday, as Yemen’s Houthis renewed threats against airlines after claiming an attack on the Saudi capital’s airport. A Lufthansa spokesperson told Reuters the German group’s airlines would suspend flights to Riyadh through October 16 …",
-   "image": "https://i.brecorder.com/large/2026/10/08203227ca3d15d.webp",
+   "published": "2026-10-09T00:27:58+00:00",
+   "summary": "FAISALABAD: National Textile University (NTU) is making serious efforts to commercialise modern research, including technical textiles, resolve industry-related problems and enhance Pakistan’s exports, said NTU Rector Prof Dr Rashid Masood. He was speaking during a meeting with Faisalabad Chamber of Commerce and Indust…",
+   "image": "https://i.brecorder.com/large/2026/10/0901322498d161c.webp",
    "topics": [
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -294,32 +386,6 @@
    "published": "2026-10-08T13:17:47+00:00",
    "summary": "LONDON: Copper prices gave up early gains spurred by top consumer China’s return to the market on Thursday, with a strong dollar and rising oil prices offsetting concerns over tight supplies. Benchmark three-month copper on the London Metal Exchange was down 0.4% at $14,415 a metric ton in official open outcry activity…",
    "image": "https://i.brecorder.com/large/2026/10/08181734841e6c3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature",
-   "url": "https://www.brecorder.com/news/40443280/genre-defying-canadian-poet-anne-carson-wins-2026-nobel-prize-in-literature",
-   "source": "Business Recorder",
-   "published": "2026-10-08T13:02:03+00:00",
-   "summary": "STOCKHOLM: Canadian poet and writer Anne Carson won the 2026 Nobel Prize in Literature “for her bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature”, the Swedish Academy said on Thursday. “She was very taken by surprise,” said Ingrid Carlbe…",
-   "image": "https://i.brecorder.com/large/2026/10/08180044320a11d.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India rate hike will not stem outflows, leaving central bank in a bind",
-   "url": "https://www.brecorder.com/news/40443278/india-rate-hike-will-not-stem-outflows-leaving-central-bank-in-a-bind",
-   "source": "Business Recorder",
-   "published": "2026-10-08T11:28:59+00:00",
-   "summary": "MUMBAI: India’s first rate hike in four years is unlikely to slow or reverse record high capital outflows, leaving the central bank battling the vicious cycle of a weakening currency and higher inflation in a hostile global environment. The modest hike of 25 basis points, even with signs of more to come, will do little…",
-   "image": "https://i.brecorder.com/large/2026/10/08162759427d20f.webp",
    "topics": [
     "Economy"
    ],
