@@ -1,26 +1,65 @@
 {
- "generated": "2026-10-09T08:27:44+00:00",
- "count": 45,
- "relevant_count": 17,
- "domestic_count": 15,
+ "generated": "2026-10-09T15:31:57+00:00",
+ "count": 47,
+ "relevant_count": 19,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
-   "title": "Govt calls for wider export credit protection, financing access for small exporters",
-   "url": "https://www.brecorder.com/news/40443412/govt-calls-for-wider-export-credit-protection-financing-access-for-small-exporters",
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40443453/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-09T05:23:12+00:00",
-   "summary": "Federal Minister for Commerce Jam Kamal Khan has called for wider access to export credit insurance and financing to help Pakistani exporters enter new markets, manage payment risks and expand their businesses, with particular attention to small enterprises and first-time exporters. The minister was speaking during a m…",
-   "image": "https://i.brecorder.com/large/2026/10/09102233b9b4e90.webp",
+   "published": "2026-10-09T15:10:14+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 277.00, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 277.01 against the dollar. The inflow of overseas workers’ remittances into Pakistan stoo…",
+   "image": "https://i.brecorder.com/large/2026/10/09153711d83a4af.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan registers $3.6bn in remittances for September 2026",
+   "url": "https://www.brecorder.com/news/40443463/pakistan-registers-36bn-in-remittances-for-september-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-09T14:37:57+00:00",
+   "summary": "The inflow of overseas workers’ remittances into Pakistan stood at $3.6 billion in September 2026, the State Bank of Pakistan (SBP) data showed on Friday. Remittances showed 12.7% increase on year-on-year basis from $3.2 billion recorded in September 2025. Meanwhile, it recorded a 1.9% decrease on month-on-month basis …",
+   "image": "https://i.brecorder.com/large/2026/10/091918181b1c8d3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation rises to 11.97pc, PBS data shows",
+   "url": "https://www.dawn.com/news/2035917/short-term-inflation-rises-to-1197pc-pbs-data-shows",
+   "source": "Dawn",
+   "published": "2026-10-09T11:43:28+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 11.97 per cent year-on-year in the week ending Oct 8, driven largely by higher food prices , particularly wheat flour, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The Sensitive Price Index (SPI), which tracks short-term inflation, ros…",
+   "image": "https://i.dawn.com/large/2026/10/091615095fad894.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR proposes expanding tax rules from YouTube to all social media platforms",
+   "url": "https://www.brecorder.com/news/40443442/fbr-proposes-expanding-tax-rules-from-youtube-to-all-social-media-platforms",
+   "source": "Business Recorder",
+   "published": "2026-10-09T08:52:48+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has proposed expanding the scope of income tax rules from YouTube to all social media platforms, potentially bringing a wider range of online content creators and digital platforms within the existing tax framework. The FBR has drafted notifications proposing amendments to …",
+   "image": "https://i.brecorder.com/large/2026/10/0913515284330e2.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -183,19 +222,6 @@
    "domestic": true
   },
   {
-   "title": "FBR allows late returns without surcharge",
-   "url": "https://www.dawn.com/news/2035295/fbr-allows-late-returns-without-surcharge",
-   "source": "Dawn",
-   "published": "2026-10-07T03:09:43+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has proposed new rules allowing individuals who file their income tax returns after the due date or extended deadline to be included in the Active Taxpayers’ List (ATL) without paying the prescribed surcharge. The concession, however, will be subject to the condition that t…",
-   "image": "https://i.dawn.com/large/2026/10/070807391cf922c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "FBR introduces rules for electronic scrutiny of taxpayers",
    "url": "https://www.dawn.com/news/2035311/fbr-introduces-rules-for-electronic-scrutiny-of-taxpayers",
    "source": "Dawn",
@@ -209,10 +235,103 @@
    "domestic": true
   },
   {
+   "title": "PSX: KSE-100 slips lower, sheds 353 points after early gains fade",
+   "url": "https://www.brecorder.com/news/40443410/psx-kse-100-slips-lower-sheds-353-points-after-early-gains-fade",
+   "source": "Business Recorder",
+   "published": "2026-10-09T14:54:50+00:00",
+   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), as the KSE-100 index remained under pressure throughout Friday’s session, closing with a loss of over 350 points on Friday. The index opened near the day’s upper levels and initially traded around 168,000, hitting an intra-day high of 168,134…",
+   "image": "https://i.brecorder.com/large/2026/10/09093844e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Jio Platforms targets $106 billion valuation in IPO, sources say",
+   "url": "https://www.brecorder.com/news/40443465/indias-jio-platforms-targets-106-billion-valuation-in-ipo-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-10-09T14:47:21+00:00",
+   "summary": "Indian billionaire Mukesh Ambani’s Jio Platforms is targeting a valuation of 10.3 trillion rupees ($106 billion) in what would be the country’s biggest listing, four bankers on the deal said on Friday. Jio Platforms, which counts Meta and Google among its major foreign investors, is set to price its shares at 1,065 to …",
+   "image": "https://i.brecorder.com/large/2026/10/0919425669dc32a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE stocks end mixed as easing Iran tensions lift Dubai",
+   "url": "https://www.brecorder.com/news/40443462/uae-stocks-end-mixed-as-easing-iran-tensions-lift-dubai",
+   "source": "Business Recorder",
+   "published": "2026-10-09T12:34:45+00:00",
+   "summary": "United Arab Emirates stock markets ended mixed on Friday as geopolitical concerns eased after President Donald Trump said Washington would not launch an attack on Iran before next month’s US midterm congressional elections. Trump said on Thursday that the United States and Iran were holding constructive discussions aim…",
+   "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Palm slips over 1% after no duty waiver but still log weekly gain",
+   "url": "https://www.brecorder.com/news/40443458/palm-slips-over-1-after-no-duty-waiver-but-still-log-weekly-gain",
+   "source": "Business Recorder",
+   "published": "2026-10-09T11:54:13+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures slipped more than 1% on Friday, after the government did not announce an expected export duty waiver in its Budget, though the contract still posted its first weekly gain in three weeks. The benchmark palm oil contract for October delivery on the Bursa Malaysia Derivatives Excha…",
+   "image": "https://i.brecorder.com/large/2026/10/0916532908d48b6.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSO inks SPA with Oman's OQ Trading for petroleum supplies",
+   "url": "https://www.brecorder.com/news/40443457/pso-inks-spa-with-omans-oq-trading-for-petroleum-supplies",
+   "source": "Business Recorder",
+   "published": "2026-10-09T11:21:48+00:00",
+   "summary": "Pakistan State Oil (PSO) has signed a sale and purchase agreement with Oman’s OQ Trading Limited (OQT) for petroleum product supplies under an inter-governmental agreement (IGA) between the two countries. The listed state-owned oil marketing company disclosed the development in a notice to the Pakistan Stock Exchange (…",
+   "image": "https://i.brecorder.com/large/2026/10/091621194fdf9d5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India rupee posts weekly fall despite rate hike amid adverse flows, weak sentiment",
+   "url": "https://www.brecorder.com/news/40443452/india-rupee-posts-weekly-fall-despite-rate-hike-amid-adverse-flows-weak-sentiment",
+   "source": "Business Recorder",
+   "published": "2026-10-09T10:38:47+00:00",
+   "summary": "MUMBAI: The Indian rupee ended flat on Friday but declined in a week in which the Reserve Bank of India delivered its first rate hike in nearly four years that did little to help the Asian currency bogged down by adverse hedging and investment flows. The Indian rupee closed at 96.73 per dollar, barely changed from its …",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Drive fuel-free: Chery Master offers PKR 1.29 Million upfront savings on Tiggo 8 Super Hybrid AWD",
+   "url": "https://www.brecorder.com/news/40443450/drive-fuel-free-chery-master-offers-pkr-129-million-upfront-savings-on-tiggo-8-super-hybrid-awd",
+   "source": "Business Recorder",
+   "published": "2026-10-09T10:29:01+00:00",
+   "summary": "Chery Master Pakistan is giving customers more than just a better way to drive. The Chery Tiggo 8 Super Hybrid is Pakistan’s best-value 7-seater plug-in hybrid SUV, combining AWD capability, six driving modes, premium comfort, advanced technology and strong performance. With the applicable sales tax on PHEVs nearly dou…",
+   "image": "https://i.brecorder.com/large/2026/10/091528359aac69f.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "The cheapest megawatt Pakistan isn't producing",
    "url": "https://www.brecorder.com/news/40443438/the-cheapest-megawatt-pakistan-isnt-producing",
    "source": "Business Recorder",
-   "published": "2026-10-09T08:07:18+00:00",
+   "published": "2026-10-09T10:26:17+00:00",
    "summary": "Pakistan’s energy conversation has, for months, revolved around a single question: who should sell electricity to industry? NEPRA just approved uniform wheeling charges for bulk power consumers, clearing the way for the country’s first competitive 400-megawatt electricity auction. The DISCO privatisation debate rages o…",
    "image": "https://i.brecorder.com/large/2026/10/091306082c61a6c.webp",
    "topics": [
@@ -222,12 +341,25 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 trades flat after early gains fade",
-   "url": "https://www.brecorder.com/news/40443410/psx-kse-100-trades-flat-after-early-gains-fade",
+   "title": "South African rand set to snap four-week losing streak",
+   "url": "https://www.brecorder.com/news/40443444/south-african-rand-set-to-snap-four-week-losing-streak",
    "source": "Business Recorder",
-   "published": "2026-10-09T07:39:25+00:00",
-   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index trading flat during the first half of the trading session on Friday. The index opened higher and hit its day high of 168,134.12, but then came under sustained profit-taking. At 12pm, the benchmark index was ho…",
-   "image": "https://i.brecorder.com/large/2026/10/09093844e48c390.webp",
+   "published": "2026-10-09T09:04:43+00:00",
+   "summary": "JOHANNESBURG: The South African rand was on track to end the week stronger on Friday, snapping ​a four-week losing streak, supported by firmer ‌gold prices and a subdued dollar, while lower oil prices also offered relief to the net energy importer. At 0830 ​GMT the rand traded at 16.5275 against the ​dollar , roughly u…",
+   "image": "https://i.brecorder.com/large/2026/10/091404363805798.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX falls over 350 points in dull trading",
+   "url": "https://tribune.com.pk/story/2633909/psx-falls-over-350-points-in-dull-trading",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T07:39:15+00:00",
+   "summary": "KSE-100 closes at 167,089 points on Friday amid subdued trading activity and mixed sectoral performance",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -326,19 +458,6 @@
    "domestic": false
   },
   {
-   "title": "Gold rises on softer dollar, easing yields; Fed outlook in focus",
-   "url": "https://www.brecorder.com/news/40443403/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-10-09T02:37:57+00:00",
-   "summary": "Gold ​firmed on Friday as a softer US dollar and easing Treasury yields ‌boosted bullion’s appeal, while market players weighed lingering inflation concerns and the outlook for Federal Reserve interest rates. Spot gold rose 0.9% to $4,169.32 per ounce by 0137 GMT after hitting a two-month ​low on Wednesday. US gold fut…",
-   "image": "https://i.brecorder.com/large/2026/10/090720244a9c8e8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "New pricing system may halt petrol import",
    "url": "https://tribune.com.pk/story/2633777/new-pricing-system-may-halt-petrol-import",
    "source": "The Express Tribune",
@@ -357,19 +476,6 @@
    "source": "The Express Tribune",
    "published": "2026-10-08T15:59:02+00:00",
    "summary": "SBP holdings rise $15m to $21.5b",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Direct shipping service to Europe restored",
-   "url": "https://tribune.com.pk/story/2633780/direct-shipping-service-to-europe-restored",
-   "source": "The Express Tribune",
-   "published": "2026-10-08T15:59:02+00:00",
-   "summary": "Dedicated service will cut transit time, logistics costs for exporters",
    "image": null,
    "topics": [
     "Economy"
@@ -398,72 +504,6 @@
    "published": "2026-10-08T15:59:02+00:00",
    "summary": "Letter says SMEs are facing persistent pressure due to high interest rates, energy tariffs and rising taxes",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wall St slips as higher yields and oil prices flag inflation risk",
-   "url": "https://www.brecorder.com/news/40443291/wall-st-slips-as-higher-yields-and-oil-prices-flag-inflation-risk",
-   "source": "Business Recorder",
-   "published": "2026-10-08T14:10:39+00:00",
-   "summary": "US stocks edged lower on Thursday as soaring oil prices and Treasury yields near multi-year highs stoked inflation worries on the cusp of a critical earnings season expected to test recent market gains. Brent crude futures jumped 4.2% to more than $104 a barrel on persistent worries about supply from the Middle East af…",
-   "image": "https://i.brecorder.com/large/2026/10/08191016c3cbba1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Most Gulf bourses end lower as Hormuz attacks hit wartime peak",
-   "url": "https://www.brecorder.com/news/40443290/most-gulf-bourses-end-lower-as-hormuz-attacks-hit-wartime-peak",
-   "source": "Business Recorder",
-   "published": "2026-10-08T14:02:58+00:00",
-   "summary": "Most Gulf stock markets closed lower on Thursday as tanker attacks in the Strait of Hormuz hit a wartime high, deadly strikes on Saudi airports widened the conflict and stalled US-Iran diplomacy offered investors little relief. The latest attack came on Wednesday, when a tanker was hit by multiple projectiles 51 nautic…",
-   "image": "https://i.brecorder.com/large/2026/10/08190037688e054.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Copper gives up gains as strong dollar and oil weigh",
-   "url": "https://www.brecorder.com/news/40443283/copper-gives-up-gains-as-strong-dollar-and-oil-weigh",
-   "source": "Business Recorder",
-   "published": "2026-10-08T13:17:47+00:00",
-   "summary": "LONDON: Copper prices gave up early gains spurred by top consumer China’s return to the market on Thursday, with a strong dollar and rising oil prices offsetting concerns over tight supplies. Benchmark three-month copper on the London Metal Exchange was down 0.4% at $14,415 a metric ton in official open outcry activity…",
-   "image": "https://i.brecorder.com/large/2026/10/08181734841e6c3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI intervention halts rupee's slide to record low, risks linger",
-   "url": "https://www.brecorder.com/news/40443276/rbi-intervention-halts-rupees-slide-to-record-low-risks-linger",
-   "source": "Business Recorder",
-   "published": "2026-10-08T11:19:52+00:00",
-   "summary": "MUMBAI: The Indian rupee was on the defensive on Thursday, pressured by a jump in oil prices and weakness in Asian peers even as likely central bank intervention kept the currency from testing record lows hit five months ago. The Indian rupee ended nearly flat at 96.78 per dollar, within striking distance of its all-ti…",
-   "image": "https://i.brecorder.com/large/2026/10/08161856f66fbf4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus",
-   "url": "https://www.brecorder.com/news/40443274/indias-sensex-slumps-to-32-month-low-on-oil-surge-foreign-exodus",
-   "source": "Business Recorder",
-   "published": "2026-10-08T11:08:30+00:00",
-   "summary": "India’s benchmark Sensex slumped to its lowest in 32 months on Thursday as surging oil prices, rising global bond yields and a weaker rupee heightened inflation concerns, adding to pressure from the central bank’s hawkish rate increase a day earlier. The Nifty 50 fell 1.64% to 22,231.8, and Sensex shed 1.44% to 71,593.…",
-   "image": "https://i.brecorder.com/large/2026/10/08160819a3aee91.webp",
    "topics": [
     "Economy"
    ],
@@ -549,6 +589,19 @@
    "domestic": false
   },
   {
+   "title": "FBR warns of ‘heavy penalties’ for incorrect income tax returns",
+   "url": "https://arynews.tv/fbr-warns-of-heavy-penalties-for-incorrect-income-tax-returns",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR warns of ‘heavy penalties’ for incorrect income tax returns",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "FBR tightens monitoring of key industries to improve tax collection",
    "url": "https://arynews.tv/fbr-tightens-monitoring-of-key-industries-to-improve-tax-collection",
    "source": "ARY News",
@@ -572,32 +625,6 @@
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s public debt surges by Rs.5,495bn over one year, SBP data shows",
-   "url": "https://arynews.tv/pakistans-public-debt-surges-by-rs-5495bn-over-one-year-sbp-data-shows",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan’s public debt surges by Rs.5,495bn over one year, SBP data shows",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Debt.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF-Pakistan talks ‘enter’ final stage",
-   "url": "https://arynews.tv/imf-pakistan-talks-enter-final-stage",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF-Pakistan talks ‘enter’ final stage",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/IMF-2.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
