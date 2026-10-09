@@ -1,61 +1,22 @@
 {
- "generated": "2026-10-09T01:46:01+00:00",
- "count": 51,
- "relevant_count": 22,
- "domestic_count": 25,
+ "generated": "2026-10-09T08:27:44+00:00",
+ "count": 45,
+ "relevant_count": 17,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (7)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "Foreign income: IRIS drops reduced tax rate option",
-   "url": "https://www.brecorder.com/news/40443380/foreign-income-iris-drops-reduced-tax-rate-option",
+   "title": "Govt calls for wider export credit protection, financing access for small exporters",
+   "url": "https://www.brecorder.com/news/40443412/govt-calls-for-wider-export-credit-protection-financing-access-for-small-exporters",
    "source": "Business Recorder",
-   "published": "2026-10-09T01:25:22+00:00",
-   "summary": "ISLAMABAD: Taxpayers declaring foreign income are facing serious difficulties in filing their income tax returns for tax year 2026, as the Federal Board of Revenue’s (FBR) IRIS portal no longer offers the option to apply reduced tax rates on such income. M. Amayed Ashfaq Tola, President Tola Associates told Business Re…",
-   "image": "https://i.brecorder.com/large/2026/10/09062511a3eaa4c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Share transfers: Foreign investors seeking clarity on FBR exemption certificates",
-   "url": "https://www.brecorder.com/news/40443379/share-transfers-foreign-investors-seeking-clarity-on-fbr-exemption-certificates",
-   "source": "Business Recorder",
-   "published": "2026-10-09T01:23:40+00:00",
-   "summary": "ISLAMABAD: Foreign investors have strongly emphasised the need for a streamlined and time-bound exemption certificate process for foreign investors seeking registration of foreign-held shares acquisitions in Pakistan and cross-border share transactions involving Pakistani assets. The Federal Board of Revenue (FBR) shou…",
-   "image": "https://i.brecorder.com/large/2026/10/09062335feaa4e8.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR stops processing advance ruling applications",
-   "url": "https://www.brecorder.com/news/40443377/fbr-stops-processing-advance-ruling-applications",
-   "source": "Business Recorder",
-   "published": "2026-10-09T01:09:15+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has stopped publishing the details of advance rulings issued to the foreign investors since 2018 with growing concerns among non-resident investors over non-processing of advance ruling applications filed with the FBR. Tax experts told Business Recorder that the concerns we…",
-   "image": "https://i.brecorder.com/large/2026/10/090609028db0255.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Finance clarifies nature of Rs10.1trn SOE debt",
-   "url": "https://www.brecorder.com/news/40443376/finance-clarifies-nature-of-rs101trn-soe-debt",
-   "source": "Business Recorder",
-   "published": "2026-10-09T01:07:29+00:00",
-   "summary": "ISLAMABAD: The Ministry of Finance and Revenue on Thursday clarified that the Rs10.1 trillion debt figure reported by the Central Monitoring Unit (CMU) of the State Bank of Pakistan (SBP) represents the consolidated stock of interest-bearing obligations of federal State-Owned Enterprises (SOEs) and should not be constr…",
-   "image": "https://i.brecorder.com/large/2026/10/090607166de870b.webp",
+   "published": "2026-10-09T05:23:12+00:00",
+   "summary": "Federal Minister for Commerce Jam Kamal Khan has called for wider access to export credit insurance and financing to help Pakistani exporters enter new markets, manage payment risks and expand their businesses, with particular attention to small enterprises and first-time exporters. The minister was speaking during a m…",
+   "image": "https://i.brecorder.com/large/2026/10/09102233b9b4e90.webp",
    "topics": [
     "Economy"
    ],
@@ -63,12 +24,12 @@
    "domestic": true
   },
   {
-   "title": "NPMC informed: WPI-based inflation jumps 13.3pc YoY",
-   "url": "https://www.brecorder.com/news/40443374/npmc-informed-wpi-based-inflation-jumps-133pc-yoy",
-   "source": "Business Recorder",
-   "published": "2026-10-09T01:01:30+00:00",
-   "summary": "ISLAMABAD: The inflation based on Wholesale Price Index (WPI) jumped 13.3 percent year-on-year, while weekly consumer-price inflation climbed 11.53 percent in the week ended October 1, the National Price Monitoring Committee (NPMC) was informed on Thursday. Major annual increases were recorded in onions, LPG, electrici…",
-   "image": "https://i.brecorder.com/large/2026/10/09060111d7d1a6f.webp",
+   "title": "Economic Coordination Committee raises duty on tyre, bike parts import",
+   "url": "https://www.dawn.com/news/2035830/economic-coordination-committee-raises-duty-on-tyre-bike-parts-import",
+   "source": "Dawn",
+   "published": "2026-10-09T02:49:40+00:00",
+   "summary": "ISLAMABAD: The government on Thursday increased additional customs duty (ACD) on import of tyres and motorcycle parts produced locally and approved first-loss coverage for small and medium enterprises and small farmers. The decisions were taken at a meeting of the Economic Coordination Committee (ECC) of the cabinet, p…",
+   "image": "https://i.dawn.com/large/2026/10/09073700f791e34.webp",
    "topics": [
     "Economy"
    ],
@@ -76,12 +37,12 @@
    "domestic": true
   },
   {
-   "title": "Wattoo highlights close link between water security and climate resilience",
-   "url": "https://www.brecorder.com/news/40443329/wattoo-highlights-close-link-between-water-security-and-climate-resilience",
-   "source": "Business Recorder",
-   "published": "2026-10-09T00:27:58+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Water Resources Muhammad Moeen Wattoo has highlighted the close link between water security, climate resilience and disaster risk reduction, stressing the importance of integrating these priorities into national development planning as Pakistan faces increasing risks from floods, drought…",
-   "image": "https://i.brecorder.com/large/2026/10/090136062cf7729.webp",
+   "title": "State Bank reserves rise by $15m",
+   "url": "https://www.dawn.com/news/2035823/state-bank-reserves-rise-by-15m",
+   "source": "Dawn",
+   "published": "2026-10-09T02:23:12+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan’s (SBP) foreign exchange reserves rose by $15 million to $21.453 billion during the week ended on Oct 2, reported the central bank on Thursday. The country’s total reserves reached $26.797bn during the week, including $5.343bn held by commercial banks. Published in Dawn, October 9th,…",
+   "image": "https://i.dawn.com/large/2026/10/09072203c5d4edf.webp",
    "topics": [
     "Economy"
    ],
@@ -89,12 +50,12 @@
    "domestic": true
   },
   {
-   "title": "Import, export of live animals: FBR issues procedure for deferment of duties, taxes",
-   "url": "https://www.brecorder.com/news/40443332/import-export-of-live-animals-fbr-issues-procedure-for-deferment-of-duties-taxes",
-   "source": "Business Recorder",
-   "published": "2026-10-09T00:27:58+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has issued a strict procedure for deferment of duties and taxes on the import of live animals and their subsequent export including export of meat and meat products under the Export Facilitation Scheme (EFS). The FBR has issued SRO 1752(I)/2026 on Thursday to issue draft am…",
-   "image": "https://i.brecorder.com/large/2026/10/090126171225351.webp",
+   "title": "Tax-free livestock import scheme launched",
+   "url": "https://www.dawn.com/news/2035829/tax-free-livestock-import-scheme-launched",
+   "source": "Dawn",
+   "published": "2026-10-09T02:04:27+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has issued new rules allowing duty- and tax-free imports of live cattle, sheep, and goats for fattening and subsequent export, either as live animals or as processed meat. The facility is offered under a new scheme to facilitate export-oriented livestock and meat processing…",
+   "image": "https://i.dawn.com/large/2026/10/090733558589a62.webp",
    "topics": [
     "Budget & spending",
     "Economy"
@@ -103,29 +64,30 @@
    "domestic": true
   },
   {
-   "title": "International Poultry Expo (IPEX) 2026: Adviser highlights benefits, potential of poultry industry",
-   "url": "https://www.brecorder.com/news/40443343/international-poultry-expo-ipex-2026-adviser-highlights-benefits-potential-of-poultry-industry",
-   "source": "Business Recorder",
-   "published": "2026-10-09T00:27:58+00:00",
-   "summary": "LAHORE: Adviser to the Prime Minister for Industries and Production, Haroon Akhtar Khan, has called for a comprehensive export strategy to enable Pakistan’s poultry industry to establish a strong footprint in international markets, saying the sector has the potential to become a major contributor to food security, empl…",
-   "image": "https://i.brecorder.com/large/2026/10/0901440020f3aa6.webp",
+   "title": "PSX retreats despite $1.2bn IMF lifeline",
+   "url": "https://www.dawn.com/news/2035822/psx-retreats-despite-12bn-imf-lifeline",
+   "source": "Dawn",
+   "published": "2026-10-09T02:04:27+00:00",
+   "summary": "KARACHI: Amid persistent volatility stemming from regional and political concerns, the Pakistan Stock Exchange (PSX) faltered on Thursday after staging an early rally driven by a staff-level agreement (SLA) between Pakistan and the visiting International Monetary Fund (IMF) staff mission. Strong buying at attractive va…",
+   "image": "https://i.dawn.com/large/2026/10/09071942e0921cc.webp",
    "topics": [
+    "Budget & spending",
     "Economy"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": true
   },
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40443272/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-08T13:34:33+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Thursday. The local unit closed the day at 277.01, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani rupee settled at 277.02 against the dollar. Internationally, the US dollar held near its highest level …",
-   "image": "https://i.brecorder.com/large/2026/10/08152537e0d7407.webp",
+   "title": "Karachi IT Park hits snags again",
+   "url": "https://www.dawn.com/news/2035824/karachi-it-park-hits-snags-again",
+   "source": "Dawn",
+   "published": "2026-10-09T02:04:27+00:00",
+   "summary": "ISLAMABAD: The Karachi IT Park project has faced another delay after two rounds of tendering failed to attract any bids, prompting the Ministry of Information Technology and Telecommunications to adopt a new strategy for awarding the project. According to a report prepared by the ministry, work on the IT Park is now ta…",
+   "image": "https://i.dawn.com/large/2026/10/09072536d4c7168.webp",
    "topics": [
-    "Economy"
+    "Procurement"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": true
   },
   {
@@ -137,19 +99,6 @@
    "image": "https://i.dawn.com/large/2026/10/081517496e932c9.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "MSC restores Karachi-Europe shipping link amid exporter concerns over freight costs",
-   "url": "https://www.brecorder.com/news/40443247/msc-restores-karachi-europe-shipping-link-amid-exporter-concerns-over-freight-costs",
-   "source": "Business Recorder",
-   "published": "2026-10-08T05:54:09+00:00",
-   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry on Thursday said that direct shipping connectivity between Karachi and major European ports had been restored, providing relief to exporters facing longer transit times and increased freight costs due to disruptions on international shipping routes, r…",
-   "image": "https://i.brecorder.com/large/2026/10/0810525330c2abe.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -187,19 +136,6 @@
    "published": "2026-10-08T02:01:13+00:00",
    "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has extended electronic production monitoring to the leather, paper and paperboard sectors, authorising four private vendors to install and operate camera-based monitoring systems across industrial sectors. The move is part of the FBR’s efforts to strengthen sales tax monit…",
    "image": "https://i.dawn.com/large/2026/10/080806588589a62.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan, IMF reach staff-level agreement on $1.2b loan",
-   "url": "https://tribune.com.pk/story/2633649/pakistan-imf-reach-staff-level-agreement-on-12-billion-loan",
-   "source": "The Express Tribune",
-   "published": "2026-10-07T23:18:57+00:00",
-   "summary": "Islamabad agrees to promptly phase out fuel subsidy scheme, and enhance governance of the state-owned companies",
-   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -273,79 +209,195 @@
    "domestic": true
   },
   {
-   "title": "Power sector losses drag state-owned entities' profits",
-   "url": "https://www.dawn.com/news/2035050/power-sector-losses-drag-state-owned-entities-profits",
-   "source": "Dawn",
-   "published": "2026-10-06T02:57:37+00:00",
-   "summary": "ISLAMABAD: The aggregate profitability of the state-owned entities (SOEs) contracted by 30 per cent in the first half of FY26 as their overall performance deteriorated across seven core areas, increasing fiscal and material macroeconomic risks to the sovereign state of Pakistan. According to the July-December 2025 SOEs…",
-   "image": "https://i.dawn.com/large/2026/10/06075504bb41419.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "IMF talks likely to clear way for $1.2bn disbursement",
-   "url": "https://www.dawn.com/news/2035070/imf-talks-likely-to-clear-way-for-12bn-disbursement",
-   "source": "Dawn",
-   "published": "2026-10-06T02:22:58+00:00",
-   "summary": "ISLAMABAD: Pakis­tan’s ongoing talks with a visiting staff mission of the International Monet­ary Fund (IMF) are set to conclude on a positive note later this week, paving the way for the disbursement of about $1.2 billion under two concurrent progra­mmes — the $7bn Exten­ded Fund Facility (EFF) and the $1.4bn Resilien…",
-   "image": "https://i.dawn.com/large/2026/10/06072114fac7dcd.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Stocks tumble below 166,000 on political noise",
-   "url": "https://www.dawn.com/news/2035043/stocks-tumble-below-166000-on-political-noise",
-   "source": "Dawn",
-   "published": "2026-10-06T01:59:26+00:00",
-   "summary": "KARACHI: The start of Pakistan Tehreek-i-Insaf’s much-hyped march, after talks with the government collapsed, rattled the Pakistan Stock Exchange (PSX) on Monday. Amid uncertainty, jittery investors rushed to sell, driving market capitalisation down by a staggering Rs261 billion in a single session. Persistent geopolit…",
-   "image": "https://i.dawn.com/large/2026/10/06084734f81a09d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Govt concedes marginal power tariff surges",
-   "url": "https://www.dawn.com/news/2035047/govt-concedes-marginal-power-tariff-surges",
-   "source": "Dawn",
-   "published": "2026-10-06T01:59:26+00:00",
-   "summary": "ISLAMABAD: After months of reluctance, the Power Division finally conceded on Monday that the marginal power price had significantly incre­ased ‘due to regional war’ and the subsidised rates to a select industrial category had burdened other consumer categories. This came at a public hearing convened by the National El…",
-   "image": "https://i.dawn.com/large/2026/10/06083131978dc65.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Services exports surge 29pc",
-   "url": "https://www.dawn.com/news/2035044/services-exports-surge-29pc",
-   "source": "Dawn",
-   "published": "2026-10-06T01:59:26+00:00",
-   "summary": "ISLAMABAD: Services exports grew by a robust 28.89 per cent year on year in the first two months of 2026-27, largely driven by higher earnings from information technology. According to official data compiled by the Pakistan Bureau of Statistics (PBS), services exports have continued to expand, maintaining uninterrupted…",
-   "image": "https://i.dawn.com/large/2026/10/06081442ec72ad7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "‘NTU is making efforts to commercialise research, enhance exports’",
-   "url": "https://www.brecorder.com/news/40443324/ntu-is-making-efforts-to-commercialise-research-enhance-exports",
+   "title": "The cheapest megawatt Pakistan isn't producing",
+   "url": "https://www.brecorder.com/news/40443438/the-cheapest-megawatt-pakistan-isnt-producing",
    "source": "Business Recorder",
-   "published": "2026-10-09T00:27:58+00:00",
-   "summary": "FAISALABAD: National Textile University (NTU) is making serious efforts to commercialise modern research, including technical textiles, resolve industry-related problems and enhance Pakistan’s exports, said NTU Rector Prof Dr Rashid Masood. He was speaking during a meeting with Faisalabad Chamber of Commerce and Indust…",
-   "image": "https://i.brecorder.com/large/2026/10/0901322498d161c.webp",
+   "published": "2026-10-09T08:07:18+00:00",
+   "summary": "Pakistan’s energy conversation has, for months, revolved around a single question: who should sell electricity to industry? NEPRA just approved uniform wheeling charges for bulk power consumers, clearing the way for the country’s first competitive 400-megawatt electricity auction. The DISCO privatisation debate rages o…",
+   "image": "https://i.brecorder.com/large/2026/10/091306082c61a6c.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 trades flat after early gains fade",
+   "url": "https://www.brecorder.com/news/40443410/psx-kse-100-trades-flat-after-early-gains-fade",
+   "source": "Business Recorder",
+   "published": "2026-10-09T07:39:25+00:00",
+   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index trading flat during the first half of the trading session on Friday. The index opened higher and hit its day high of 168,134.12, but then came under sustained profit-taking. At 12pm, the benchmark index was ho…",
+   "image": "https://i.brecorder.com/large/2026/10/09093844e48c390.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yuan firms as dollar slips, PBOC rejects undervaluation claims amid EU talks",
+   "url": "https://www.brecorder.com/news/40443427/yuan-firms-as-dollar-slips-pboc-rejects-undervaluation-claims-amid-eu-talks",
+   "source": "Business Recorder",
+   "published": "2026-10-09T06:51:25+00:00",
+   "summary": "SHANGHAI: The yuan firmed against the US dollar on Friday as the greenback retreated from an 18-month high, even as China’s central bank rejected claims the currency is undervalued amid trade talks between Beijing and the European Union. The People’s Bank of China on Thursday pushed back against foreign criticism of it…",
+   "image": "https://i.brecorder.com/large/2026/10/09115114483f62f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar stronger on Friday",
+   "url": "https://www.brecorder.com/news/40443426/thai-bahtus-dollar-stronger-on-friday",
+   "source": "Business Recorder",
+   "published": "2026-10-09T06:48:58+00:00",
+   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Friday. At 0206 GMT, the baht was 0.2% higher at 33.58 versus the dollar, after trading in a range of 33.570 to 33.663. It ended the previous session at 33.6425 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/09114848285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US 10-year Treasury yield risks hitting 6% for first time since 2000, Pimco's Ivascyn tells FT",
+   "url": "https://www.brecorder.com/news/40443422/us-10-year-treasury-yield-risks-hitting-6-for-first-time-since-2000-pimcos-ivascyn-tells-ft",
+   "source": "Business Recorder",
+   "published": "2026-10-09T06:40:31+00:00",
+   "summary": "The benchmark 10-year US Treasury yield could rise to 6% for the first time since 2000 as high oil prices fuel inflation concerns and worries over the country’s growing public debt, Dan Ivascyn, Chief Investment Officer at bond fund manager Pimco, told the Financial Times. US Treasury yields are a yardstick for global …",
+   "image": "https://i.brecorder.com/large/2026/10/091140082d7f60b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Poland may need rate hike in November, central banker says",
+   "url": "https://www.brecorder.com/news/40443420/poland-may-need-rate-hike-in-november-central-banker-says",
+   "source": "Business Recorder",
+   "published": "2026-10-09T06:28:04+00:00",
+   "summary": "WARSAW: Polish central banker Ludwik Kotecki said if inflation projections do not show CPI returning close to 2.5% by the end of 2027 or start of 2028, then a 25-basis-point rate hike would be necessary in November, the PAP agency reported on Friday. Currencies and stocks firm, Polish central bank seen on hold Poland’s…",
+   "image": "https://i.brecorder.com/large/2026/10/091127583cd88b9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China to resume October fuel exports after a brief halt, four trade sources say",
+   "url": "https://www.brecorder.com/news/40443419/china-to-resume-october-fuel-exports-after-a-brief-halt-four-trade-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-10-09T06:26:25+00:00",
+   "summary": "SINGAPORE: China is set to resume October refined fuel exports after a brief halt during its Golden Week holiday, a move that will help ease tight global diesel, gasolineand jet fuel markets, four traders familiar with the matter said on Friday. China has approved October exports of the three fuels at around 3.7 millio…",
+   "image": "https://i.brecorder.com/large/2026/10/09112607caaee4f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee strengthens on firm central bank intervention, oil retreat",
+   "url": "https://www.brecorder.com/news/40443413/indian-rupee-strengthens-on-firm-central-bank-intervention-oil-retreat",
+   "source": "Business Recorder",
+   "published": "2026-10-09T05:44:22+00:00",
+   "summary": "MUMBAI: The Indian rupee strengthened modestly on Friday, aided by firm central bank intervention early in the trading session and lower oil prices after US President Donald Trump said he would not attack Iran before next month’s US elections. Brent crude oil prices declined about 1.5%, helping the rupee rise to 96.61 …",
+   "image": "https://i.brecorder.com/large/2026/10/09104343d54f08e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Euro skids toward fifth weekly fall but selling pressure slows",
+   "url": "https://www.brecorder.com/news/40443407/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows",
+   "source": "Business Recorder",
+   "published": "2026-10-09T02:45:27+00:00",
+   "summary": "SINGAPORE: The euro was headed for a fifth straight weekly drop on Friday , though there were ​signs the selling streak was losing momentum as France’s tumbling debt market stabilised and a decline in ‌US yields took some steam out of the dollar’s rally. The common currency had hit a 17-month low of $1.1161 on Monday o…",
+   "image": "https://i.brecorder.com/large/2026/10/09074430e1558e9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises on softer dollar, easing yields; Fed outlook in focus",
+   "url": "https://www.brecorder.com/news/40443403/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-09T02:37:57+00:00",
+   "summary": "Gold ​firmed on Friday as a softer US dollar and easing Treasury yields ‌boosted bullion’s appeal, while market players weighed lingering inflation concerns and the outlook for Federal Reserve interest rates. Spot gold rose 0.9% to $4,169.32 per ounce by 0137 GMT after hitting a two-month ​low on Wednesday. US gold fut…",
+   "image": "https://i.brecorder.com/large/2026/10/090720244a9c8e8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "New pricing system may halt petrol import",
+   "url": "https://tribune.com.pk/story/2633777/new-pricing-system-may-halt-petrol-import",
+   "source": "The Express Tribune",
+   "published": "2026-10-08T15:59:02+00:00",
+   "summary": "In letter to secretary, industry says importing OMCs may not be able to recover actual costs",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Reserves edge up to $26.8b",
+   "url": "https://tribune.com.pk/story/2633775/reserves-edge-up-to-268b",
+   "source": "The Express Tribune",
+   "published": "2026-10-08T15:59:02+00:00",
+   "summary": "SBP holdings rise $15m to $21.5b",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Direct shipping service to Europe restored",
+   "url": "https://tribune.com.pk/story/2633780/direct-shipping-service-to-europe-restored",
+   "source": "The Express Tribune",
+   "published": "2026-10-08T15:59:02+00:00",
+   "summary": "Dedicated service will cut transit time, logistics costs for exporters",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX down despite IMF agreement",
+   "url": "https://tribune.com.pk/story/2633782/psx-down-despite-imf-agreement",
+   "source": "The Express Tribune",
+   "published": "2026-10-08T15:59:02+00:00",
+   "summary": "KSE-100 index sheds 1,138 points after early rally",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Industry seeks long-term SME loans at 2%",
+   "url": "https://tribune.com.pk/story/2633778/industry-seeks-long-term-sme-loans-at-2",
+   "source": "The Express Tribune",
+   "published": "2026-10-08T15:59:02+00:00",
+   "summary": "Letter says SMEs are facing persistent pressure due to high interest rates, energy tariffs and rising taxes",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -419,123 +471,6 @@
    "domestic": false
   },
   {
-   "title": "European shares dip as banks hit over 3-month low, oil prices weigh",
-   "url": "https://www.brecorder.com/news/40443269/european-shares-dip-as-banks-hit-over-3-month-low-oil-prices-weigh",
-   "source": "Business Recorder",
-   "published": "2026-10-08T08:45:46+00:00",
-   "summary": "European shares fell on Thursday as banks slid to a more than three-month low, while a fresh bond selloff and elevated oil prices stoked fears that higher inflation could hurt economic growth. The pan-European STOXX 600 index was down 0.9% to 624.24 points, as of 0723 GMT. European banks dropped nearly 2%, with Deutsch…",
-   "image": "https://i.brecorder.com/large/2026/10/081345243b57892.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korea shares on track for second weekly decline as chipmakers drag",
-   "url": "https://www.brecorder.com/news/40443261/south-korea-shares-on-track-for-second-weekly-decline-as-chipmakers-drag",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:39:44+00:00",
-   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares fell on Thursday and were headed for a second weekly loss in a holiday-shortened week, hurt by weakness in chipmakers and inflation concerns fuelled by higher oil prices. The won firmed, while the benchmark bond yield fell. The benchmark KOSPI was d…",
-   "image": "https://i.brecorder.com/large/2026/10/08113847ab5ce7b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India bonds may weaken mildly after RBI hike; 10-year yield seen near 7.25%",
-   "url": "https://www.brecorder.com/news/40443260/india-bonds-may-weaken-mildly-after-rbi-hike-10-year-yield-seen-near-725",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:37:36+00:00",
-   "summary": "MUMBAI: Indian government bonds may continue to weaken in early deals on Thursday, a day after the central bank raised interest rates for the first time in nearly four years and shifted its stance to suggest that more hikes were likely. The benchmark 6.94% 2036 bond yield may trade in a 7.21%-7.25% band, a trader with …",
-   "image": "https://i.brecorder.com/large/2026/10/081137278030bd0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar little changed on Thursday",
-   "url": "https://www.brecorder.com/news/40443256/thai-bahtus-dollar-little-changed-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:29:48+00:00",
-   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Thursday. At 0214 GMT, the baht was 0.08% higher at 33.60 versus the dollar, after trading in a range of 33.610 to 33.660. It ended the previous session at 33.63 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/08112712285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan steady despite dollar strength during China's Golden Week holiday",
-   "url": "https://www.brecorder.com/news/40443251/yuan-steady-despite-dollar-strength-during-chinas-golden-week-holiday",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:06:32+00:00",
-   "summary": "SHANGHAI: China’s onshore yuan was steady on Thursday as mainland markets reopened after a week-long holiday during which the Chinese currency strengthened offshore despite a strong dollar. The yuan has gained nearly 9% against the dollar since late 2024 in a seven-quarter rising streak buoyed by robust exports and pol…",
-   "image": "https://i.brecorder.com/large/2026/10/08110616046afed.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's central bank likely intervened near open to support rupee, traders say",
-   "url": "https://www.brecorder.com/news/40443249/indias-central-bank-likely-intervened-near-open-to-support-rupee-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-10-08T06:02:04+00:00",
-   "summary": "MUMBAI: The Reserve Bank of India likely sold dollars near the market open on Thursday to support the rupee, four traders said, with the currency within striking distance of its all-time low. The rupee opened stronger at 96.6825 per dollar firmer than market indications of an opening near 96.80, amid signs of RBI inter…",
-   "image": "https://i.brecorder.com/large/2026/10/08105945427d20f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "QatarEnergy offers naphtha for loading inside Hormuz via tender, traders say",
-   "url": "https://www.brecorder.com/news/40443245/qatarenergy-offers-naphtha-for-loading-inside-hormuz-via-tender-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-10-08T05:50:38+00:00",
-   "summary": "NEW DELHI: QatarEnergy has issued a spot tender offering up to 50,000 metric tons of naphtha on a free-on-board basis from Ras Laffan port inside the Strait of Hormuz , multiple traders who participate in the market said on Thursday. The cargo is scheduled to load between October 20 and 25. Bidders can submit quotes by…",
-   "image": "https://i.brecorder.com/large/2026/10/08105024253ac02.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX down over 1,100 points on oil price surge",
-   "url": "https://tribune.com.pk/story/2633685/psx-reverses-early-gains-as-kse-100-sheds-over-600-points",
-   "source": "The Express Tribune",
-   "published": "2026-10-08T04:22:09+00:00",
-   "summary": "KSE-100 closes at 167,441 points, as Brent crude crosses $104",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls as global prices hit low",
-   "url": "https://tribune.com.pk/story/2633565/gold-falls-as-global-prices-hit-low",
-   "source": "The Express Tribune",
-   "published": "2026-10-07T16:52:25+00:00",
-   "summary": "Loses Rs3,100 to Rs434,436 per tola; rupee inches up to 277.02/$",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian central bank hikes rates for first time since 2023",
    "url": "https://www.dawn.com/news/2035423/indian-central-bank-hikes-rates-for-first-time-since-2023",
    "source": "Dawn",
@@ -568,19 +503,6 @@
    "published": "2026-10-07T02:22:10+00:00",
    "summary": "Power looms are displayed for sale after closure of businesses in Faisalabad.—Courtesy Council of Loom Owners Association • 100,000 workers lose jobs in Faisalabad amid closure of 40pc units • Loom owners blame cheaper Chinese yarn, grey cloth, finished textile products • Industry body seeks stronger Customs checks to …",
    "image": "https://i.dawn.com/large/2026/10/070254577ce6240.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold stays firm at Rs437,536 despite global uptick",
-   "url": "https://tribune.com.pk/story/2633368/gold-stays-firm-at-rs437536-despite-global-uptick",
-   "source": "The Express Tribune",
-   "published": "2026-10-06T16:08:26+00:00",
-   "summary": "Faces downside pressure below $4,280; rupee inches up",
-   "image": null,
    "topics": [
     "Economy"
    ],
