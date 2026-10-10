@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-10T12:55:02+00:00",
- "count": 46,
- "relevant_count": 15,
+ "generated": "2026-10-10T17:41:06+00:00",
+ "count": 47,
+ "relevant_count": 18,
  "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "PM Shehbaz orders installation of smart scanners at airports",
+   "url": "https://www.dawn.com/news/2036166/pm-shehbaz-orders-installation-of-smart-scanners-at-airports",
+   "source": "Dawn",
+   "published": "2026-10-10T14:11:27+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Saturday ordered the installation of “smart scanners” at all international airports to facilitate travellers, according to a statement from his office. The premier issued these instructions during a meeting reviewing the customs enforcement in Islamabad, attended by Deputy Pr…",
+   "image": "https://i.dawn.com/large/2026/10/10180916ef1ced9.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Remittances rise 14pc to $10.9bn in July-Sept",
    "url": "https://www.dawn.com/news/2036050/remittances-rise-14pc-to-109bn-in-july-sept",
@@ -48,19 +61,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "APTMA, CAP to work on brand development",
-   "url": "https://www.brecorder.com/news/40443491/aptma-cap-to-work-on-brand-development",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "LAHORE: The All Pakistan Textile Mills Association (APTMA) and the Chainstore Association of Pakistan (CAP) have launched a joint push to replace imported retail merchandise with locally made products and to help Pakistani fashion brands expand into international markets. The effort began on Friday with the first-ever …",
-   "image": "https://i.brecorder.com/large/2026/10/10014620ba610b1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -220,6 +220,32 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Finance minister heads to Bangkok for IMF, World Bank meetings",
+   "url": "https://www.dawn.com/news/2036191/finance-minister-heads-to-bangkok-for-imf-world-bank-meetings",
+   "source": "Dawn",
+   "published": "2026-10-10T16:28:01+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb on Saturday departed for Bangkok for the annual International Monetary Fund (IMF) and World Bank Group meetings. In a statement, the finance ministry said Aurangzeb would lead Pakistan’s delegation to the World Bank Group–IMF annual meetings, scheduled to be held from Oct 12 to 18. T…",
+   "image": "https://i.dawn.com/large/2026/10/1021192215c68d0.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Shehbaz orders end to unnecessary questioning of air passengers by customs officials",
+   "url": "https://www.brecorder.com/news/40443567/shehbaz-orders-end-to-unnecessary-questioning-of-air-passengers-by-customs-officials",
+   "source": "Business Recorder",
+   "published": "2026-10-10T15:45:55+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Saturday directed the immediate installation of smart scanners at all international airports in the country to facilitate passengers and replace outdated baggage-screening procedures. Chairing a meeting to review the customs system, the prime minister instructed authorities to bring in …",
+   "image": "https://i.brecorder.com/large/2026/10/101742242374419.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Pakistan's poultry exports lag despite industry's growth potential, says Aurangzeb",
@@ -504,19 +530,6 @@
    "published": "2026-10-09T05:44:22+00:00",
    "summary": "MUMBAI: The Indian rupee strengthened modestly on Friday, aided by firm central bank intervention early in the trading session and lower oil prices after US President Donald Trump said he would not attack Iran before next month’s US elections. Brent crude oil prices declined about 1.5%, helping the rupee rise to 96.61 …",
    "image": "https://i.brecorder.com/large/2026/10/09104343d54f08e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian central bank hikes rates for first time since 2023",
-   "url": "https://www.dawn.com/news/2035423/indian-central-bank-hikes-rates-for-first-time-since-2023",
-   "source": "Dawn",
-   "published": "2026-10-07T13:01:19+00:00",
-   "summary": "India’s central bank hiked interest rates on Wednesday for the first time since 2023 as the Middle East conflict stoked inflation in Asia’s third-largest economy and battered a weakened rupee. The Reserve Bank of India (RBI) said the benchmark repurchase rate, the level at which it lends to commercial banks, would be r…",
-   "image": "https://i.dawn.com/large/2026/10/07175433f7e9555.webp",
    "topics": [
     "Economy"
    ],
