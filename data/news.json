@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-09T20:18:54+00:00",
- "count": 45,
- "relevant_count": 18,
- "domestic_count": 15,
+ "generated": "2026-10-10T00:15:38+00:00",
+ "count": 49,
+ "relevant_count": 20,
+ "domestic_count": 22,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,98 @@
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "APTMA, CAP to work on brand development",
+   "url": "https://www.brecorder.com/news/40443491/aptma-cap-to-work-on-brand-development",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "LAHORE: The All Pakistan Textile Mills Association (APTMA) and the Chainstore Association of Pakistan (CAP) have launched a joint push to replace imported retail merchandise with locally made products and to help Pakistani fashion brands expand into international markets. The effort began on Friday with the first-ever …",
+   "image": "https://i.brecorder.com/large/2026/10/10014620ba610b1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Solar Pakistan 2026 inaugurated",
+   "url": "https://www.brecorder.com/news/40443495/solar-pakistan-2026-inaugurated",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "KARACHI: Saquib Fayyaz Magoon, Senior Vice President of the Federation of Pakistan Chambers of Commerce and Industry (FPCCI), on Friday inaugurated Solar Pakistan 2026 at the Karachi Expo Centre, calling for greater adoption of alternative energy to reduce costs and strengthen the country’s energy security. The three-d…",
+   "image": "https://i.brecorder.com/large/2026/10/100151208ed2b92.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Misuse of dyes imported under EFS: FBR chairman takes notice of concerns raised by PCDMA",
+   "url": "https://www.brecorder.com/news/40443496/misuse-of-dyes-imported-under-efs-fbr-chairman-takes-notice-of-concerns-raised-by-pcdma",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial has taken notice of concerns raised by the Pakistan Chemicals and Dyes Merchants Association (PCDMA) over the possible misuse and diversion of dyes and chemicals imported under the Export Facilitation Scheme (EFS) to the local market. Following th…",
+   "image": "https://i.brecorder.com/large/2026/10/100151559a01896.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Mian Zahid urges govt to address rising inflation",
+   "url": "https://www.brecorder.com/news/40443497/mian-zahid-urges-govt-to-address-rising-inflation",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum (PBIF) and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board, Mian Zahid Hussain has said that the government must address the fundamental drivers of inflation. High pri…",
+   "image": "https://i.brecorder.com/large/2026/10/100152217aadb8a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Anti-smog steps: Punjab has provided 10,000 subsidised super seeders to farmers: Marriyum",
+   "url": "https://www.brecorder.com/news/40443500/anti-smog-steps-punjab-has-provided-10000-subsidised-super-seeders-to-farmers-marriyum",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "LAHORE: Punjab has provided 10,000 super seeders to farmers at a 60 percent subsidy and converted around 8,000 brick kilns to zigzag technology as part of an integrated strategy to curb air pollution, Senior Provincial Minister Marriyum Aurangzeb said. Addressing at a press conference on anti-smog measures, she said th…",
+   "image": "https://i.brecorder.com/large/2026/10/100157116a8ac91.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Afridi directs officials to expedite work on new hospitals",
+   "url": "https://www.brecorder.com/news/40443503/afridi-directs-officials-to-expedite-work-on-new-hospitals",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "PESHAWAR: Chief Minister Khyber Pakhtunkhwa Muhammad Sohail Afridi has directed the concerned authorities to expedite the establishment of new hospitals included in the Annual Development Programme (ADP) and ensure the timely allocation of funds for ongoing health sector projects on a priority basis. He also directed t…",
+   "image": "https://i.brecorder.com/large/2026/10/100156316cf0894.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PSO signs SPA with Oman’s OQT",
+   "url": "https://www.brecorder.com/news/40443516/pso-signs-spa-with-omans-oqt",
+   "source": "Business Recorder",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "KARACHI: Pakistan State Oil (PSO) has signed a Sale Purchase Agreement (SPA) with OQ Trading Limited (OQT) for the supply of petroleum products, following approval from PSO’s Board of Management and the Federal Cabinet. According to a material disclosure submitted by PSO to the Pakistan Stock Exchange on Friday, the ag…",
+   "image": "https://i.brecorder.com/large/2026/10/1002493695097fb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40443453/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -209,30 +301,29 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s 5mn+ SMEs building on rented land",
-   "url": "https://www.brecorder.com/news/40443471/pakistans-5mn-smes-building-on-rented-land",
+   "title": "Pro-growth policies",
+   "url": "https://www.brecorder.com/news/40443480/pro-growth-policies",
    "source": "Business Recorder",
-   "published": "2026-10-09T18:11:20+00:00",
-   "summary": "Pakistan’s digital economy is growing. Its commerce infrastructure isn’t. Our country’s more than five million small and medium-sized enterprises (SMEs) account for over 90% of businesses and around 40% of gross domestic product (GDP). Their importance to Pakistan’s economy is undeniable. But many of these businesses d…",
-   "image": "https://i.brecorder.com/large/2026/10/092252374732b49.webp",
+   "published": "2026-10-10T00:10:27+00:00",
+   "summary": "EDITORIAL: Prime Minister Shehbaz Sharif has called for a shift from stabilization to pro-growth policies with a focus on exports, productivity, employment and technology. While many may consider his call to be a very tall order yet in economic theory growth can promote exports, productivity and employment; however, th…",
+   "image": "https://i.brecorder.com/large/2026/10/10013003b4c5c23.webp",
    "topics": [
-    "Construction & projects",
     "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
-   "title": "RLNG supply constraints: KE warns of 'load management' during peak hours",
-   "url": "https://www.brecorder.com/news/40443470/rlng-supply-constraints-ke-warns-of-load-management-during-peak-hours",
+   "title": "Pak, Turkish interior ministers vow to bolster ties",
+   "url": "https://www.brecorder.com/news/40443507/pak-turkish-interior-ministers-vow-to-bolster-ties",
    "source": "Business Recorder",
-   "published": "2026-10-09T17:41:41+00:00",
-   "summary": "K-Electric (KE) might resort to load management during evening and night peak hours due to nationwide regasified liquefied natural gas (RLNG) supply constraints, the power utility’s spokesperson said on Friday. KE is the primary power utility responsible for electricity generation, transmission, and distribution in Kar…",
-   "image": "https://i.brecorder.com/large/2026/10/092236185eb88b1.webp",
+   "published": "2026-10-09T23:39:01+00:00",
+   "summary": "ISTANBUL: Federal Interior Minister Mohsin Naqvi arrived in Istanbul on an official visit to Türkiye, where he received a warm welcome at the airport. Naqvi met his Turkish counterpart, Mustafa Çiftçi, at the Turkish Ministry of Interior. Both Interior Ministers reaffirmed their commitment to further strengthening bila…",
+   "image": "https://i.brecorder.com/large/2026/10/100159368d378f6.webp",
    "topics": [
-    "Energy & power"
+    "Construction & projects"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -242,19 +333,6 @@
    "published": "2026-10-09T14:54:50+00:00",
    "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), as the KSE-100 index remained under pressure throughout Friday’s session, closing with a loss of over 350 points on Friday. The index opened near the day’s upper levels and initially traded around 168,000, hitting an intra-day high of 168,134…",
    "image": "https://i.brecorder.com/large/2026/10/09093844e48c390.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Jio Platforms targets $106 billion valuation in IPO, sources say",
-   "url": "https://www.brecorder.com/news/40443465/indias-jio-platforms-targets-106-billion-valuation-in-ipo-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-10-09T14:47:21+00:00",
-   "summary": "Indian billionaire Mukesh Ambani’s Jio Platforms is targeting a valuation of 10.3 trillion rupees ($106 billion) in what would be the country’s biggest listing, four bankers on the deal said on Friday. Jio Platforms, which counts Meta and Google among its major foreign investors, is set to price its shares at 1,065 to …",
-   "image": "https://i.brecorder.com/large/2026/10/0919425669dc32a.webp",
    "topics": [
     "Economy"
    ],
@@ -290,19 +368,6 @@
    "domestic": false
   },
   {
-   "title": "PSO inks SPA with Oman's OQ Trading for petroleum supplies",
-   "url": "https://www.brecorder.com/news/40443457/pso-inks-spa-with-omans-oq-trading-for-petroleum-supplies",
-   "source": "Business Recorder",
-   "published": "2026-10-09T11:21:48+00:00",
-   "summary": "Pakistan State Oil (PSO) has signed a sale and purchase agreement with Oman’s OQ Trading Limited (OQT) for petroleum product supplies under an inter-governmental agreement (IGA) between the two countries. The listed state-owned oil marketing company disclosed the development in a notice to the Pakistan Stock Exchange (…",
-   "image": "https://i.brecorder.com/large/2026/10/091621194fdf9d5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "India rupee posts weekly fall despite rate hike amid adverse flows, weak sentiment",
    "url": "https://www.brecorder.com/news/40443452/india-rupee-posts-weekly-fall-despite-rate-hike-amid-adverse-flows-weak-sentiment",
    "source": "Business Recorder",
@@ -313,19 +378,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Drive fuel-free: Chery Master offers PKR 1.29 Million upfront savings on Tiggo 8 Super Hybrid AWD",
-   "url": "https://www.brecorder.com/news/40443450/drive-fuel-free-chery-master-offers-pkr-129-million-upfront-savings-on-tiggo-8-super-hybrid-awd",
-   "source": "Business Recorder",
-   "published": "2026-10-09T10:29:01+00:00",
-   "summary": "Chery Master Pakistan is giving customers more than just a better way to drive. The Chery Tiggo 8 Super Hybrid is Pakistan’s best-value 7-seater plug-in hybrid SUV, combining AWD capability, six driving modes, premium comfort, advanced technology and strong performance. With the applicable sales tax on PHEVs nearly dou…",
-   "image": "https://i.brecorder.com/large/2026/10/091528359aac69f.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
