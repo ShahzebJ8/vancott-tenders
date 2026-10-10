@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-10T17:41:06+00:00",
- "count": 47,
- "relevant_count": 18,
+ "generated": "2026-10-10T21:07:42+00:00",
+ "count": 46,
+ "relevant_count": 17,
  "domestic_count": 16,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (3)"
  },
  "stories": [
   {
@@ -608,19 +608,6 @@
    "published": null,
    "summary": "FBR warns of ‘heavy penalties’ for incorrect income tax returns",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FBR tightens monitoring of key industries to improve tax collection",
-   "url": "https://arynews.tv/fbr-tightens-monitoring-of-key-industries-to-improve-tax-collection",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR tightens monitoring of key industries to improve tax collection",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
    "topics": [
     "Budget & spending"
    ],
