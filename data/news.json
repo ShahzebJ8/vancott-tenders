@@ -1,15 +1,55 @@
 {
- "generated": "2026-10-10T00:15:38+00:00",
- "count": 49,
- "relevant_count": 20,
- "domestic_count": 22,
+ "generated": "2026-10-10T06:14:52+00:00",
+ "count": 51,
+ "relevant_count": 18,
+ "domestic_count": 21,
  "sources": {
-  "Dawn": "ok (16)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (6)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Remittances rise 14pc to $10.9bn in July-Sept",
+   "url": "https://www.dawn.com/news/2036050/remittances-rise-14pc-to-109bn-in-july-sept",
+   "source": "Dawn",
+   "published": "2026-10-10T02:50:18+00:00",
+   "summary": "• UK records the highest growth among major sources, with inflows rising 19.4pc • Saudi Arabia remains the largest source, contributing $2.686 billion KARACHI: Workers’ remittances increased by 14 per cent in the first quarter of FY27 compared with the same period of the previous fiscal year, according to data released…",
+   "image": "https://i.dawn.com/large/2026/10/100749348efe347.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Nepra clears use-of-system charges for competitive power market",
+   "url": "https://www.dawn.com/news/2036102/nepra-clears-use-of-system-charges-for-competitive-power-market",
+   "source": "Dawn",
+   "published": "2026-10-10T02:04:57+00:00",
+   "summary": "ISLAMABAD: The Nat­ional Electric Power Reg­ulatory Authority (Nepra) on Friday notified use-of-system charges (UoSC) ranging from Rs6.23 to Rs19.62 per unit for bulk power consumers (BPCs) of all distribution companies, including K-Electric, participating in the competitive electricity trading market. Under the Compet…",
+   "image": "https://i.dawn.com/large/2026/10/100703147ecdc1f.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Fuel subsidy beneficiaries cross 10m",
+   "url": "https://www.dawn.com/news/2036074/fuel-subsidy-beneficiaries-cross-10m",
+   "source": "Dawn",
+   "published": "2026-10-09T23:43:17+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday appreciated the collective efforts of the federal and provincial governments and relevant institutions as the number of direct beneficiaries of the government’s fuel subsidy scheme crossed 10 million and announced a national award for the Information and Technology Min…",
+   "image": "https://i.dawn.com/large/2026/10/10073506327927e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "APTMA, CAP to work on brand development",
    "url": "https://www.brecorder.com/news/40443491/aptma-cap-to-work-on-brand-development",
@@ -87,19 +127,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PSO signs SPA with Oman’s OQT",
-   "url": "https://www.brecorder.com/news/40443516/pso-signs-spa-with-omans-oqt",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "KARACHI: Pakistan State Oil (PSO) has signed a Sale Purchase Agreement (SPA) with OQ Trading Limited (OQT) for the supply of petroleum products, following approval from PSO’s Board of Management and the Federal Cabinet. According to a material disclosure submitted by PSO to the Pakistan Stock Exchange on Friday, the ag…",
-   "image": "https://i.brecorder.com/large/2026/10/1002493695097fb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -261,44 +288,30 @@
    "domestic": true
   },
   {
-   "title": "Bahrain's foreign minister arrives in Islamabad for 2-day visit",
-   "url": "https://www.dawn.com/news/2035375/bahrains-foreign-minister-arrives-in-islamabad-for-2-day-visit",
-   "source": "Dawn",
-   "published": "2026-10-07T15:54:01+00:00",
-   "summary": "Bahraini Foreign Minister Abdullatif bin Rashid Al Zayani arrived in Islamabad on Wednesday evening for a two-day visit, where he is expected to co-chair the third session of the Joint Ministerial Commission (JMC), the Foreign Office (FO) said. According to the FO, Al Zayani was received at the airport by Economic Affa…",
-   "image": "https://i.dawn.com/large/2026/10/07205048af1de84.webp",
+   "title": "India central bank takes steps to support rupee, opens dollar window for oil companies",
+   "url": "https://www.brecorder.com/news/40443547/india-central-bank-takes-steps-to-support-rupee-opens-dollar-window-for-oil-companies",
+   "source": "Business Recorder",
+   "published": "2026-10-10T05:16:10+00:00",
+   "summary": "MUMBAI: India’s central bank has announced more measures to support the rupee on Saturday after the currency fell to within striking distance of its record low. The Reserve Bank of India will open a special window to meet the daily dollar requirements of three government oil-marketing companies to ease the pressure on …",
+   "image": "https://i.brecorder.com/large/2026/10/10101600bb6f971.webp",
    "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PSX rebounds 2,593 points on IMF optimism",
-   "url": "https://www.dawn.com/news/2035290/psx-rebounds-2593-points-on-imf-optimism",
-   "source": "Dawn",
-   "published": "2026-10-07T03:38:31+00:00",
-   "summary": "KARACHI: After a sluggish overnight start stemming from regional and political uncertainty, the Pakistan Stock Exchange (PSX) on Tuesday saw strong buying interest at attractive valuations, helping the benchmark KSE-100 index recover from recent lows to above the 168,000 level, apparently supported by expectations of a…",
-   "image": "https://i.dawn.com/large/2026/10/0708341001e04c1.webp",
-   "topics": [
-    "Budget & spending",
     "Economy"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
   },
   {
-   "title": "FBR introduces rules for electronic scrutiny of taxpayers",
-   "url": "https://www.dawn.com/news/2035311/fbr-introduces-rules-for-electronic-scrutiny-of-taxpayers",
+   "title": "Aurangzeb reviews retailers’ tax scheme as trader response falls short",
+   "url": "https://www.dawn.com/news/2036118/aurangzeb-reviews-retailers-tax-scheme-as-trader-response-falls-short",
    "source": "Dawn",
-   "published": "2026-10-07T02:01:47+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has begun extending the use of artificial intelligence to scrutinise individual tax returns, enabling its automated system to detect factual and legal mistakes and discrepancies before initiating legal or penal action. The draft rules, titled “38-B Procedure for electronic …",
-   "image": "https://i.dawn.com/large/2026/10/07072552a535616.webp",
+   "published": "2026-10-10T02:57:17+00:00",
+   "summary": "https://www.dawn.com/news/2036047",
+   "image": "https://i.dawn.com/large/2026/10/10075633cf1ec7a.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "Pro-growth policies",
@@ -324,6 +337,84 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Remittances cool to $3.6b in Sept",
+   "url": "https://tribune.com.pk/story/2633983/remittances-cool-to-36b-in-sept",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T16:20:41+00:00",
+   "summary": "With $10.9b in Jul-Sept, inflows on course for about $43.5b in FY27",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Auto import duties face criticism",
+   "url": "https://tribune.com.pk/story/2633992/auto-import-duties-face-criticism",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T16:20:41+00:00",
+   "summary": "Taxes on vehicle tyres, motorcycle parts clash with trade liberalisation drive",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Staples, fuel keep SPI near 12% YoY",
+   "url": "https://tribune.com.pk/story/2633984/staples-fuel-keep-spi-near-12-yoy",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T16:20:41+00:00",
+   "summary": "Weekly inflation rises 0.57%; flour jumps 5.69%; onions up 100%",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Exporters require wider access to credit insurance",
+   "url": "https://tribune.com.pk/story/2633991/exporters-require-wider-access-to-credit-insurance",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T16:20:41+00:00",
+   "summary": "Jam Kamal asks EXIM Bank to explore cooperation with international export credit agencies",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX extends losses on oil, geopolitical risks",
+   "url": "https://tribune.com.pk/story/2633988/psx-extends-losses-on-oil-geopolitical-risks",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T16:20:41+00:00",
+   "summary": "KSE-100 falls 353 points; rising bond yields add to pressure",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Textile millers target global brand expansion",
+   "url": "https://tribune.com.pk/story/2633989/textile-millers-target-global-brand-expansion",
+   "source": "The Express Tribune",
+   "published": "2026-10-09T16:20:41+00:00",
+   "summary": "Want to push exports up by $3b in next 12 months",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -387,19 +478,6 @@
    "published": "2026-10-09T09:04:43+00:00",
    "summary": "JOHANNESBURG: The South African rand was on track to end the week stronger on Friday, snapping ​a four-week losing streak, supported by firmer ‌gold prices and a subdued dollar, while lower oil prices also offered relief to the net energy importer. At 0830 ​GMT the rand traded at 16.5275 against the ​dollar , roughly u…",
    "image": "https://i.brecorder.com/large/2026/10/091404363805798.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX falls over 350 points in dull trading",
-   "url": "https://tribune.com.pk/story/2633909/psx-falls-over-350-points-in-dull-trading",
-   "source": "The Express Tribune",
-   "published": "2026-10-09T07:39:15+00:00",
-   "summary": "KSE-100 closes at 167,089 points on Friday amid subdued trading activity and mixed sectoral performance",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -498,65 +576,12 @@
    "domestic": false
   },
   {
-   "title": "PSX down despite IMF agreement",
-   "url": "https://tribune.com.pk/story/2633782/psx-down-despite-imf-agreement",
-   "source": "The Express Tribune",
-   "published": "2026-10-08T15:59:02+00:00",
-   "summary": "KSE-100 index sheds 1,138 points after early rally",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Industry seeks long-term SME loans at 2%",
-   "url": "https://tribune.com.pk/story/2633778/industry-seeks-long-term-sme-loans-at-2",
-   "source": "The Express Tribune",
-   "published": "2026-10-08T15:59:02+00:00",
-   "summary": "Letter says SMEs are facing persistent pressure due to high interest rates, energy tariffs and rising taxes",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian central bank hikes rates for first time since 2023",
    "url": "https://www.dawn.com/news/2035423/indian-central-bank-hikes-rates-for-first-time-since-2023",
    "source": "Dawn",
    "published": "2026-10-07T13:01:19+00:00",
    "summary": "India’s central bank hiked interest rates on Wednesday for the first time since 2023 as the Middle East conflict stoked inflation in Asia’s third-largest economy and battered a weakened rupee. The Reserve Bank of India (RBI) said the benchmark repurchase rate, the level at which it lends to commercial banks, would be r…",
    "image": "https://i.dawn.com/large/2026/10/07175433f7e9555.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "AI 'widening economic inequality', IMF chief warns",
-   "url": "https://www.dawn.com/news/2035379/ai-widening-economic-inequality-imf-chief-warns",
-   "source": "Dawn",
-   "published": "2026-10-07T07:48:59+00:00",
-   "summary": "The global AI boom is fast becoming the key driver of economies around the world but the boom is risking wider global inequality by leaving some nations behind, International Monetary Fund (IMF) chief Kristalina Georgieva warned on Wednesday. She also lamented a lack of “decisive action” in heavily indebted advanced na…",
-   "image": "https://i.dawn.com/large/2026/10/07123616c4d575c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Power loom sector reels under imports, rising costs",
-   "url": "https://www.dawn.com/news/2035310/power-loom-sector-reels-under-imports-rising-costs",
-   "source": "Dawn",
-   "published": "2026-10-07T02:22:10+00:00",
-   "summary": "Power looms are displayed for sale after closure of businesses in Faisalabad.—Courtesy Council of Loom Owners Association • 100,000 workers lose jobs in Faisalabad amid closure of 40pc units • Loom owners blame cheaper Chinese yarn, grey cloth, finished textile products • Industry body seeks stronger Customs checks to …",
-   "image": "https://i.dawn.com/large/2026/10/070254577ce6240.webp",
    "topics": [
     "Economy"
    ],
