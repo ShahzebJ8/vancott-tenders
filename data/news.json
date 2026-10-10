@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-10T06:14:52+00:00",
- "count": 51,
- "relevant_count": 18,
- "domestic_count": 21,
+ "generated": "2026-10-10T12:55:02+00:00",
+ "count": 46,
+ "relevant_count": 15,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
@@ -61,72 +61,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Solar Pakistan 2026 inaugurated",
-   "url": "https://www.brecorder.com/news/40443495/solar-pakistan-2026-inaugurated",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "KARACHI: Saquib Fayyaz Magoon, Senior Vice President of the Federation of Pakistan Chambers of Commerce and Industry (FPCCI), on Friday inaugurated Solar Pakistan 2026 at the Karachi Expo Centre, calling for greater adoption of alternative energy to reduce costs and strengthen the country’s energy security. The three-d…",
-   "image": "https://i.brecorder.com/large/2026/10/100151208ed2b92.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Misuse of dyes imported under EFS: FBR chairman takes notice of concerns raised by PCDMA",
-   "url": "https://www.brecorder.com/news/40443496/misuse-of-dyes-imported-under-efs-fbr-chairman-takes-notice-of-concerns-raised-by-pcdma",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial has taken notice of concerns raised by the Pakistan Chemicals and Dyes Merchants Association (PCDMA) over the possible misuse and diversion of dyes and chemicals imported under the Export Facilitation Scheme (EFS) to the local market. Following th…",
-   "image": "https://i.brecorder.com/large/2026/10/100151559a01896.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Mian Zahid urges govt to address rising inflation",
-   "url": "https://www.brecorder.com/news/40443497/mian-zahid-urges-govt-to-address-rising-inflation",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum (PBIF) and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board, Mian Zahid Hussain has said that the government must address the fundamental drivers of inflation. High pri…",
-   "image": "https://i.brecorder.com/large/2026/10/100152217aadb8a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Anti-smog steps: Punjab has provided 10,000 subsidised super seeders to farmers: Marriyum",
-   "url": "https://www.brecorder.com/news/40443500/anti-smog-steps-punjab-has-provided-10000-subsidised-super-seeders-to-farmers-marriyum",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "LAHORE: Punjab has provided 10,000 super seeders to farmers at a 60 percent subsidy and converted around 8,000 brick kilns to zigzag technology as part of an integrated strategy to curb air pollution, Senior Provincial Minister Marriyum Aurangzeb said. Addressing at a press conference on anti-smog measures, she said th…",
-   "image": "https://i.brecorder.com/large/2026/10/100157116a8ac91.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Afridi directs officials to expedite work on new hospitals",
-   "url": "https://www.brecorder.com/news/40443503/afridi-directs-officials-to-expedite-work-on-new-hospitals",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "PESHAWAR: Chief Minister Khyber Pakhtunkhwa Muhammad Sohail Afridi has directed the concerned authorities to expedite the establishment of new hospitals included in the Annual Development Programme (ADP) and ensure the timely allocation of funds for ongoing health sector projects on a priority basis. He also directed t…",
-   "image": "https://i.brecorder.com/large/2026/10/100156316cf0894.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -288,6 +222,33 @@
    "domestic": true
   },
   {
+   "title": "Pakistan's poultry exports lag despite industry's growth potential, says Aurangzeb",
+   "url": "https://www.brecorder.com/news/40443556/pakistans-poultry-exports-lag-despite-industrys-growth-potential-says-aurangzeb",
+   "source": "Business Recorder",
+   "published": "2026-10-10T09:22:25+00:00",
+   "summary": "Pakistan’s poultry industry has significant potential to expand exports but needs improvements in disease management, feed costs and cold-chain logistics to compete in international markets, Finance Minister Muhammad Aurangzeb said. Addressing the 26th International Poultry Exhibition as chief guest at the Expo Centre,…",
+   "image": "https://i.ytimg.com/vi/6WxsVpSer4U/maxresdefault.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "FPCCI says industrial power tariff must fall below 9 cents for all to boost exports",
+   "url": "https://www.brecorder.com/news/40443553/fpcci-says-industrial-power-tariff-must-fall-below-9-cents-for-all-to-boost-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-10T08:19:09+00:00",
+   "summary": "Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), acknowledged the government’s reduction of the industrial electricity tariff from 16 cents to 12 cents per unit over the last two years. He said that a further reduction to below 9 cents, extended to all industrial consu…",
+   "image": "https://i.brecorder.com/large/2026/10/101316384d4c2a9.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "India central bank takes steps to support rupee, opens dollar window for oil companies",
    "url": "https://www.brecorder.com/news/40443547/india-central-bank-takes-steps-to-support-rupee-opens-dollar-window-for-oil-companies",
    "source": "Business Recorder",
@@ -324,19 +285,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pak, Turkish interior ministers vow to bolster ties",
-   "url": "https://www.brecorder.com/news/40443507/pak-turkish-interior-ministers-vow-to-bolster-ties",
-   "source": "Business Recorder",
-   "published": "2026-10-09T23:39:01+00:00",
-   "summary": "ISTANBUL: Federal Interior Minister Mohsin Naqvi arrived in Istanbul on an official visit to Türkiye, where he received a warm welcome at the airport. Naqvi met his Turkish counterpart, Mustafa Çiftçi, at the Turkish Ministry of Interior. Both Interior Ministers reaffirmed their commitment to further strengthening bila…",
-   "image": "https://i.brecorder.com/large/2026/10/100159368d378f6.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -563,19 +511,6 @@
    "domestic": false
   },
   {
-   "title": "Euro skids toward fifth weekly fall but selling pressure slows",
-   "url": "https://www.brecorder.com/news/40443407/euro-skids-toward-fifth-weekly-fall-but-selling-pressure-slows",
-   "source": "Business Recorder",
-   "published": "2026-10-09T02:45:27+00:00",
-   "summary": "SINGAPORE: The euro was headed for a fifth straight weekly drop on Friday , though there were ​signs the selling streak was losing momentum as France’s tumbling debt market stabilised and a decline in ‌US yields took some steam out of the dollar’s rally. The common currency had hit a 17-month low of $1.1161 on Monday o…",
-   "image": "https://i.brecorder.com/large/2026/10/09074430e1558e9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian central bank hikes rates for first time since 2023",
    "url": "https://www.dawn.com/news/2035423/indian-central-bank-hikes-rates-for-first-time-since-2023",
    "source": "Dawn",
@@ -628,6 +563,19 @@
    "domestic": false
   },
   {
+   "title": "FBR stops advance income tax notices to salaried individuals",
+   "url": "https://arynews.tv/fbr-stops-advance-income-tax-notices-to-salaried-individuals",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR stops advance income tax notices to salaried individuals",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan’s seafood exports hit record $568mn as ministry pushes shrimp farming expansion",
    "url": "https://arynews.tv/pakistans-seafood-exports-hit-record-568mn-as-ministry-pushes-shrimp-farming-expansion",
    "source": "ARY News",
@@ -664,19 +612,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Electricity price hiked for one month under fuel price adjustment",
-   "url": "https://arynews.tv/electricity-price-hiked-for-one-month-under-fuel-price-adjustment",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Electricity price hiked for one month under fuel price adjustment",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-1.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
