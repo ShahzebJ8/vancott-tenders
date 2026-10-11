@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-11T13:19:03+00:00",
+ "generated": "2026-10-11T18:19:57+00:00",
  "count": 47,
- "relevant_count": 24,
+ "relevant_count": 26,
  "domestic_count": 17,
  "sources": {
   "Dawn": "ok (18)",
@@ -236,6 +236,32 @@
    "domestic": true
   },
   {
+   "title": "Pakistan, Saudi Arabia, Egypt, Türkiye condemn Houthi attacks on Riyadh airport",
+   "url": "https://www.brecorder.com/news/40443691/pakistan-saudi-arabia-egypt-turkiye-condemn-houthi-attacks-on-riyadh-airport",
+   "source": "Business Recorder",
+   "published": "2026-10-11T17:18:26+00:00",
+   "summary": "Pakistan, Saudi Arabia, Egypt and Türkiye have strongly condemned ongoing Houthi attacks on Saudi Arabia, including strikes targeting King Khalid International Airport in Riyadh that reportedly caused civilian deaths and injuries and damaged civilian infrastructure. In a joint statement issued on Sunday, the four count…",
+   "image": "https://i.brecorder.com/large/2026/10/11221535a18b2da.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
+   "url": "https://www.brecorder.com/news/40443688/saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+   "source": "Business Recorder",
+   "published": "2026-10-11T15:48:07+00:00",
+   "summary": "DUBAI/RIYADH: The Saudi-led coalition in Yemen said an “unidentified projectile” had targeted Riyadh’s international airport on Sunday, causing a fire, hours after the Houthis warned airlines and travellers to stay away from Saudi airports. The coalition also said Saudi air defences had intercepted a cruise missile in …",
+   "image": "https://i.brecorder.com/large/2026/10/11194014c1a126e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports",
    "url": "https://www.brecorder.com/news/40443680/yemens-houthis-renew-warning-to-airlines-travellers-against-using-saudi-airports",
    "source": "Business Recorder",
@@ -299,32 +325,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China issues third batch of 2026 export quotas for low-sulfur fuel oil",
-   "url": "https://www.brecorder.com/news/40443589/china-issues-third-batch-of-2026-export-quotas-for-low-sulfur-fuel-oil",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "SINGAPORE: China has issued its third batch of export quotas for low-sulfur marine fuel oil for 2026, totalling 1.07 million metric tons, according to trade sources and a consultancy. That brings total marine fuel export quota volumes for 2026 to just over 14 million tons, an increase on last year’s quota volumes, whic…",
-   "image": "https://i.brecorder.com/large/2026/10/1100412901dc643.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Norway’s Sept core inflation steady",
-   "url": "https://www.brecorder.com/news/40443590/norways-sept-core-inflation-steady",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "OSLO: Norway’s annual core inflation rate remained at 3.0 percent year-on-year in September, Statistics Norway (SSB) data showed on Friday, supporting expectations that interest rates will stay elevated. The core inflation, which strips out changing energy prices and taxes, was in line with the August reading, and slig…",
-   "image": "https://i.brecorder.com/large/2026/10/11004224fcd631c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
