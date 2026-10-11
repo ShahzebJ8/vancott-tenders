@@ -1,15 +1,55 @@
 {
- "generated": "2026-10-11T00:23:25+00:00",
- "count": 50,
- "relevant_count": 20,
- "domestic_count": 21,
+ "generated": "2026-10-11T06:12:25+00:00",
+ "count": 48,
+ "relevant_count": 25,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (9)",
+  "Dawn": "ok (18)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "Stocks fall as geopolitical uncertainty offsets staff-level agreement with IMF",
+   "url": "https://www.dawn.com/news/2036240/stocks-fall-as-geopolitical-uncertainty-offsets-staff-level-agreement-with-imf",
+   "source": "Dawn",
+   "published": "2026-10-11T02:39:40+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) remained volatile during the outgoing week as escalating geopolitical tensions, elevated international oil prices and rising bond yields offset optimism over Pakistan’s Staff-Level Agreement (SLA) with the International Monetary Fund (IMF). The benchmark KSE-100 index fell 0.6…",
+   "image": "https://i.dawn.com/large/2026/10/110738362869c0f.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "50kg cement bag price rises by Rs201 in a year",
+   "url": "https://www.dawn.com/news/2036243/50kg-cement-bag-price-rises-by-rs201-in-a-year",
+   "source": "Dawn",
+   "published": "2026-10-11T02:33:56+00:00",
+   "summary": "KARACHI: Construction costs have risen as cement manufacturers have increased prices by up to Rs201 per 50kg bag over the past year, according to official data released by the Pakistan Bureau of Statistics (PBS). According to the weekly Sensitive Price Index (SPI) for the week ending Oct 8, the average price of a 50kg …",
+   "image": "https://i.dawn.com/large/2026/10/110732337953068.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KP to launch six-year fiscal reform programme",
+   "url": "https://www.dawn.com/news/2036245/kp-to-launch-six-year-fiscal-reform-programme",
+   "source": "Dawn",
+   "published": "2026-10-11T02:25:15+00:00",
+   "summary": "ISLAMABAD: Khyber Pakhtunkhwa, which remains structurally dependent on federal transfers, will launch a six-year World Bank-supported programme to strengthen its fiscal system and lay the foundation for improved service delivery. The World Bank is expected to approve a $200 million loan from the International Developme…",
+   "image": "https://i.dawn.com/large/2026/10/11072433efdd8db.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Textile industry warns against levy on imports",
    "url": "https://www.brecorder.com/news/40443616/textile-industry-warns-against-levy-on-imports",
@@ -35,45 +75,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "EIB delegation visits WASA Lahore office",
-   "url": "https://www.brecorder.com/news/40443623/eib-delegation-visits-wasa-lahore-office",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "LAHORE: A delegation from the European Investment Bank (EIB) visited the Water and Sanitation Agency (WASA) Lahore head office on Saturday to explore strategic partnerships in urban infrastructure, wastewater management, and sustainable development. WASA Lahore Managing Director Ghufran Ahmed welcomed the delegation, w…",
-   "image": "https://i.brecorder.com/large/2026/10/1101083906bc52c.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FPCCI demands govt bring power tariff below 9 cents per unit",
-   "url": "https://www.brecorder.com/news/40443626/fpcci-demands-govt-bring-power-tariff-below-9-cents-per-unit",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "KARACHI: Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), has acknowledged the government’s reduction of the industrial electricity tariff from 16 cents to 12 cents per unit over the last two years. He said that a further reduction to below 9 cents, extended to all ind…",
-   "image": "https://i.brecorder.com/large/2026/10/1101101636569c1.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Sindh Governor calls on PA Speaker",
-   "url": "https://www.brecorder.com/news/40443628/sindh-governor-calls-on-pa-speaker",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "LAHORE: Governor Sindh Nehal Hashmi on Saturday visited the Punjab Assembly and met Speaker Malik Muhammad Ahmad Khan in his chamber. They discussed the current political situation and national affairs. Both emphasised the importance of strengthening parliamentary institutions, upholding the Constitution and promoting …",
-   "image": "https://i.brecorder.com/large/2026/10/11011246bd83737.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -262,40 +263,54 @@
    "domestic": true
   },
   {
-   "title": "Equities eke out gains in volatile session",
-   "url": "https://www.dawn.com/news/2035518/equities-eke-out-gains-in-volatile-session",
-   "source": "Dawn",
-   "published": "2026-10-08T03:14:50+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) witnessed extreme volatility on Wednesday. It opened in positive territory, extending the previous session’s bullish momentum, but mid-session profit-taking pushed the benchmark KSE-100 index into the red. The index recovered on value-hunting toward the close, ending with a ma…",
-   "image": "https://i.dawn.com/large/2026/10/0808134101e04c1.webp",
+   "title": "Isaias kills four, about 670,000 without power after landfall",
+   "url": "https://www.brecorder.com/news/40443671/isaias-kills-four-about-670000-without-power-after-landfall",
+   "source": "Business Recorder",
+   "published": "2026-10-11T05:41:50+00:00",
+   "summary": "Four people died after Hurricane Isaias made landfall early ‌on Saturday, and about 670,000 residents in Florida, Alabama, Georgia and Mississippi were still without power as the storm weakened to a post-tropical cyclone, according to local authorities and electricity monitoring services. Two of the deaths resulted fro…",
+   "image": "https://i.brecorder.com/large/2026/10/11104056a2bd1be.webp",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "FBR expands electronic production monitoring",
-   "url": "https://www.dawn.com/news/2035519/fbr-expands-electronic-production-monitoring",
-   "source": "Dawn",
-   "published": "2026-10-08T02:01:13+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has extended electronic production monitoring to the leather, paper and paperboard sectors, authorising four private vendors to install and operate camera-based monitoring systems across industrial sectors. The move is part of the FBR’s efforts to strengthen sales tax monit…",
-   "image": "https://i.dawn.com/large/2026/10/080806588589a62.webp",
+   "title": "Middle East war, high debt levels to dominate IMF-World Bank meetings in Bangkok",
+   "url": "https://www.brecorder.com/news/40443667/middle-east-war-high-debt-levels-to-dominate-imf-world-bank-meetings-in-bangkok",
+   "source": "Business Recorder",
+   "published": "2026-10-11T05:16:50+00:00",
+   "summary": "BANGKOK: Finance officials from around the world will gather in Thailand this week under the shadow of a widening war in the Middle East, the biggest energy supply shock ever and rising interest rates that together pose daunting risks to already-sluggish global economic growth. The US-Israeli-led war ​with Iran, now in…",
+   "image": "https://i.brecorder.com/large/2026/10/1110163299ce735.webp",
    "topics": [
-    "Budget & spending"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say",
-   "url": "https://www.brecorder.com/news/40443662/houthi-attack-on-saudi-airport-kills-12-over-300-wounded-authorities-say",
+   "title": "Trump calls for replacing Ukraine's Zelenskiy in tussle over diesel deal with Russia",
+   "url": "https://www.brecorder.com/news/40443665/trump-calls-for-replacing-ukraines-zelenskiy-in-tussle-over-diesel-deal-with-russia",
    "source": "Business Recorder",
-   "published": "2026-10-10T23:03:34+00:00",
-   "summary": "RIYADH: The third attack this week on Riyadh’s international airport on Saturday left at least 12 ​people dead and more than 300 wounded, Saudi authorities said, and the Houthis claimed responsibility for the strike, a major escalation of their ‌campaign against the Saudis. The dead included four Saudis, two people fro…",
-   "image": "https://i.brecorder.com/large/2026/10/11040152ac003d8.webp",
+   "published": "2026-10-11T05:04:45+00:00",
+   "summary": "US President Donald Trump on Saturday called for Ukraine to replace its leader Volodymyr Zelenskiy and railed against Ukraine’s attacks on Russian oil infrastructure, a day after announcing a diesel supply ​deal with Russia that had drawn a sharp rebuke from Zelenskiy. In some of his harshest criticism yet of the White…",
+   "image": "https://i.brecorder.com/large/2026/10/11100218dc325fb.webp",
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "International Monetary Fund borrowers face debt strain",
+   "url": "https://www.dawn.com/news/2036242/international-monetary-fund-borrowers-face-debt-strain",
+   "source": "Dawn",
+   "published": "2026-10-11T02:36:40+00:00",
+   "summary": "WASHINGTON: Nearly half of the countries eligible for concessional financing from the International Monetary Fund (IMF) are either in debt distress or at high risk of it, while their interest payments have quadrupled since 2013, Transparency International (TI) says. In a report released ahead of the IMF and World Bank …",
+   "image": "https://i.dawn.com/large/2026/10/110734369cc4cdd.webp",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
@@ -340,6 +355,72 @@
    "domestic": false
   },
   {
+   "title": "FinMin unaware of IMF fuel subsidy objection",
+   "url": "https://tribune.com.pk/story/2634135/finmin-unaware-of-imf-fuel-subsidy-objection",
+   "source": "The Express Tribune",
+   "published": "2026-10-10T16:16:52+00:00",
+   "summary": "Says targeted petroleum discounts will continue",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Trade, industry denounce wheat price spike",
+   "url": "https://tribune.com.pk/story/2634138/trade-industry-denounce-wheat-price-spike",
+   "source": "The Express Tribune",
+   "published": "2026-10-10T16:16:52+00:00",
+   "summary": "HSATI chief says increase in staple cost will add to inflation burden",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX gives up gains despite IMF deal",
+   "url": "https://tribune.com.pk/story/2634137/psx-gives-up-gains-despite-imf-deal",
+   "source": "The Express Tribune",
+   "published": "2026-10-10T16:16:52+00:00",
+   "summary": "Benchmark KSE-100 index falls 0.6%; geopolitical risks weigh",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India unveils dollar curbs to defend rupee",
+   "url": "https://tribune.com.pk/story/2634139/india-unveils-dollar-curbs-to-defend-rupee",
+   "source": "The Express Tribune",
+   "published": "2026-10-10T16:16:52+00:00",
+   "summary": "RBI redirects state oil firms' dollar purchases, tightens currency hedging rules",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Businesses seek industrial tariff below 9 cents",
+   "url": "https://tribune.com.pk/story/2634134/businesses-seek-industrial-tariff-below-9-cents",
+   "source": "The Express Tribune",
+   "published": "2026-10-10T16:16:52+00:00",
+   "summary": "FPCCI appreciates 12-cent rate, links cheaper power to export growth",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Pakistan's poultry exports lag despite industry's growth potential, says Aurangzeb",
    "url": "https://www.brecorder.com/news/40443556/pakistans-poultry-exports-lag-despite-industrys-growth-potential-says-aurangzeb",
    "source": "Business Recorder",
@@ -366,90 +447,12 @@
    "domestic": false
   },
   {
-   "title": "Remittances cool to $3.6b in Sept",
-   "url": "https://tribune.com.pk/story/2633983/remittances-cool-to-36b-in-sept",
-   "source": "The Express Tribune",
-   "published": "2026-10-09T16:20:41+00:00",
-   "summary": "With $10.9b in Jul-Sept, inflows on course for about $43.5b in FY27",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Auto import duties face criticism",
-   "url": "https://tribune.com.pk/story/2633992/auto-import-duties-face-criticism",
-   "source": "The Express Tribune",
-   "published": "2026-10-09T16:20:41+00:00",
-   "summary": "Taxes on vehicle tyres, motorcycle parts clash with trade liberalisation drive",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Staples, fuel keep SPI near 12% YoY",
-   "url": "https://tribune.com.pk/story/2633984/staples-fuel-keep-spi-near-12-yoy",
-   "source": "The Express Tribune",
-   "published": "2026-10-09T16:20:41+00:00",
-   "summary": "Weekly inflation rises 0.57%; flour jumps 5.69%; onions up 100%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Exporters require wider access to credit insurance",
    "url": "https://tribune.com.pk/story/2633991/exporters-require-wider-access-to-credit-insurance",
    "source": "The Express Tribune",
    "published": "2026-10-09T16:20:41+00:00",
    "summary": "Jam Kamal asks EXIM Bank to explore cooperation with international export credit agencies",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX extends losses on oil, geopolitical risks",
-   "url": "https://tribune.com.pk/story/2633988/psx-extends-losses-on-oil-geopolitical-risks",
-   "source": "The Express Tribune",
-   "published": "2026-10-09T16:20:41+00:00",
-   "summary": "KSE-100 falls 353 points; rising bond yields add to pressure",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Textile millers target global brand expansion",
-   "url": "https://tribune.com.pk/story/2633989/textile-millers-target-global-brand-expansion",
-   "source": "The Express Tribune",
-   "published": "2026-10-09T16:20:41+00:00",
-   "summary": "Want to push exports up by $3b in next 12 months",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 slips lower, sheds 353 points after early gains fade",
-   "url": "https://www.brecorder.com/news/40443410/psx-kse-100-slips-lower-sheds-353-points-after-early-gains-fade",
-   "source": "Business Recorder",
-   "published": "2026-10-09T14:54:50+00:00",
-   "summary": "A volatile trading session was observed at the Pakistan Stock Exchange (PSX), as the KSE-100 index remained under pressure throughout Friday’s session, closing with a loss of over 350 points on Friday. The index opened near the day’s upper levels and initially traded around 168,000, hitting an intra-day high of 168,134…",
-   "image": "https://i.brecorder.com/large/2026/10/09093844e48c390.webp",
    "topics": [
     "Economy"
    ],
@@ -569,32 +572,6 @@
    "published": "2026-10-09T06:26:25+00:00",
    "summary": "SINGAPORE: China is set to resume October refined fuel exports after a brief halt during its Golden Week holiday, a move that will help ease tight global diesel, gasolineand jet fuel markets, four traders familiar with the matter said on Friday. China has approved October exports of the three fuels at around 3.7 millio…",
    "image": "https://i.brecorder.com/large/2026/10/09112607caaee4f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee strengthens on firm central bank intervention, oil retreat",
-   "url": "https://www.brecorder.com/news/40443413/indian-rupee-strengthens-on-firm-central-bank-intervention-oil-retreat",
-   "source": "Business Recorder",
-   "published": "2026-10-09T05:44:22+00:00",
-   "summary": "MUMBAI: The Indian rupee strengthened modestly on Friday, aided by firm central bank intervention early in the trading session and lower oil prices after US President Donald Trump said he would not attack Iran before next month’s US elections. Brent crude oil prices declined about 1.5%, helping the rupee rise to 96.61 …",
-   "image": "https://i.brecorder.com/large/2026/10/09104343d54f08e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Women Chamber aims to boost business growth",
-   "url": "https://tribune.com.pk/story/2632871/women-chamber-aims-to-boost-business-growth",
-   "source": "The Express Tribune",
-   "published": "2026-10-03T19:58:29+00:00",
-   "summary": "Approves new board for strengthening institutional oversight, export promotion",
-   "image": null,
    "topics": [
     "Economy"
    ],
