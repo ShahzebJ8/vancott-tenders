@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-10T21:07:42+00:00",
- "count": 46,
- "relevant_count": 17,
- "domestic_count": 16,
+ "generated": "2026-10-11T00:23:25+00:00",
+ "count": 50,
+ "relevant_count": 20,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,72 @@
   "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "Textile industry warns against levy on imports",
+   "url": "https://www.brecorder.com/news/40443616/textile-industry-warns-against-levy-on-imports",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "LAHORE: Pakistan’s textile industry has warned the Punjab government that a new infrastructure levy on imports will drive up production costs, hurt exports and deter investment in the province. The All Pakistan Textile Mills Association (APTMA) has asked Chief Minister Punjab Maryam Nawaz Sharif to suspend the Punjab I…",
+   "image": "https://i.brecorder.com/large/2026/10/11010134be89554.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rs10bn subsidy agreed: CM orders wheat, flour supply at affordable prices",
+   "url": "https://www.brecorder.com/news/40443617/rs10bn-subsidy-agreed-cm-orders-wheat-flour-supply-at-affordable-prices",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "LAHORE: Expressing strong displeasure over the increase in flour prices, Chief Minister Punjab Maryam Nawaz Sharif directed the authorities concerned to ensure the availability of wheat and flour at affordable prices under all circumstances. The CM convened an emergency video-link meeting to address the issue wherein i…",
+   "image": "https://i.brecorder.com/large/2026/10/1101021480155fd.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "EIB delegation visits WASA Lahore office",
+   "url": "https://www.brecorder.com/news/40443623/eib-delegation-visits-wasa-lahore-office",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "LAHORE: A delegation from the European Investment Bank (EIB) visited the Water and Sanitation Agency (WASA) Lahore head office on Saturday to explore strategic partnerships in urban infrastructure, wastewater management, and sustainable development. WASA Lahore Managing Director Ghufran Ahmed welcomed the delegation, w…",
+   "image": "https://i.brecorder.com/large/2026/10/1101083906bc52c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FPCCI demands govt bring power tariff below 9 cents per unit",
+   "url": "https://www.brecorder.com/news/40443626/fpcci-demands-govt-bring-power-tariff-below-9-cents-per-unit",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "KARACHI: Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), has acknowledged the government’s reduction of the industrial electricity tariff from 16 cents to 12 cents per unit over the last two years. He said that a further reduction to below 9 cents, extended to all ind…",
+   "image": "https://i.brecorder.com/large/2026/10/1101101636569c1.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh Governor calls on PA Speaker",
+   "url": "https://www.brecorder.com/news/40443628/sindh-governor-calls-on-pa-speaker",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "LAHORE: Governor Sindh Nehal Hashmi on Saturday visited the Punjab Assembly and met Speaker Malik Muhammad Ahmad Khan in his chamber. They discussed the current political situation and national affairs. Both emphasised the importance of strengthening parliamentary institutions, upholding the Constitution and promoting …",
+   "image": "https://i.brecorder.com/large/2026/10/11011246bd83737.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM Shehbaz orders installation of smart scanners at airports",
    "url": "https://www.dawn.com/news/2036166/pm-shehbaz-orders-installation-of-smart-scanners-at-airports",
@@ -222,6 +288,45 @@
    "domestic": true
   },
   {
+   "title": "Houthi attack on Saudi airport kills 12, over 300 wounded, authorities say",
+   "url": "https://www.brecorder.com/news/40443662/houthi-attack-on-saudi-airport-kills-12-over-300-wounded-authorities-say",
+   "source": "Business Recorder",
+   "published": "2026-10-10T23:03:34+00:00",
+   "summary": "RIYADH: The third attack this week on Riyadh’s international airport on Saturday left at least 12 ​people dead and more than 300 wounded, Saudi authorities said, and the Houthis claimed responsibility for the strike, a major escalation of their ‌campaign against the Saudis. The dead included four Saudis, two people fro…",
+   "image": "https://i.brecorder.com/large/2026/10/11040152ac003d8.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "China issues third batch of 2026 export quotas for low-sulfur fuel oil",
+   "url": "https://www.brecorder.com/news/40443589/china-issues-third-batch-of-2026-export-quotas-for-low-sulfur-fuel-oil",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "SINGAPORE: China has issued its third batch of export quotas for low-sulfur marine fuel oil for 2026, totalling 1.07 million metric tons, according to trade sources and a consultancy. That brings total marine fuel export quota volumes for 2026 to just over 14 million tons, an increase on last year’s quota volumes, whic…",
+   "image": "https://i.brecorder.com/large/2026/10/1100412901dc643.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Norway’s Sept core inflation steady",
+   "url": "https://www.brecorder.com/news/40443590/norways-sept-core-inflation-steady",
+   "source": "Business Recorder",
+   "published": "2026-10-10T21:21:50+00:00",
+   "summary": "OSLO: Norway’s annual core inflation rate remained at 3.0 percent year-on-year in September, Statistics Norway (SSB) data showed on Friday, supporting expectations that interest rates will stay elevated. The core inflation, which strips out changing energy prices and taxes, was in line with the August reading, and slig…",
+   "image": "https://i.brecorder.com/large/2026/10/11004224fcd631c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Finance minister heads to Bangkok for IMF, World Bank meetings",
    "url": "https://www.dawn.com/news/2036191/finance-minister-heads-to-bangkok-for-imf-world-bank-meetings",
    "source": "Dawn",
@@ -230,19 +335,6 @@
    "image": "https://i.dawn.com/large/2026/10/1021192215c68d0.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Shehbaz orders end to unnecessary questioning of air passengers by customs officials",
-   "url": "https://www.brecorder.com/news/40443567/shehbaz-orders-end-to-unnecessary-questioning-of-air-passengers-by-customs-officials",
-   "source": "Business Recorder",
-   "published": "2026-10-10T15:45:55+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Saturday directed the immediate installation of smart scanners at all international airports in the country to facilitate passengers and replace outdated baggage-screening procedures. Chairing a meeting to review the customs system, the prime minister instructed authorities to bring in …",
-   "image": "https://i.brecorder.com/large/2026/10/101742242374419.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -261,33 +353,6 @@
    "domestic": false
   },
   {
-   "title": "FPCCI says industrial power tariff must fall below 9 cents for all to boost exports",
-   "url": "https://www.brecorder.com/news/40443553/fpcci-says-industrial-power-tariff-must-fall-below-9-cents-for-all-to-boost-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-10T08:19:09+00:00",
-   "summary": "Atif Ikram Sheikh, President of the Federation of Pakistan Chambers of Commerce & Industry (FPCCI), acknowledged the government’s reduction of the industrial electricity tariff from 16 cents to 12 cents per unit over the last two years. He said that a further reduction to below 9 cents, extended to all industrial consu…",
-   "image": "https://i.brecorder.com/large/2026/10/101316384d4c2a9.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India central bank takes steps to support rupee, opens dollar window for oil companies",
-   "url": "https://www.brecorder.com/news/40443547/india-central-bank-takes-steps-to-support-rupee-opens-dollar-window-for-oil-companies",
-   "source": "Business Recorder",
-   "published": "2026-10-10T05:16:10+00:00",
-   "summary": "MUMBAI: India’s central bank has announced more measures to support the rupee on Saturday after the currency fell to within striking distance of its record low. The Reserve Bank of India will open a special window to meet the daily dollar requirements of three government oil-marketing companies to ease the pressure on …",
-   "image": "https://i.brecorder.com/large/2026/10/10101600bb6f971.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Aurangzeb reviews retailers’ tax scheme as trader response falls short",
    "url": "https://www.dawn.com/news/2036118/aurangzeb-reviews-retailers-tax-scheme-as-trader-response-falls-short",
    "source": "Dawn",
@@ -298,19 +363,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pro-growth policies",
-   "url": "https://www.brecorder.com/news/40443480/pro-growth-policies",
-   "source": "Business Recorder",
-   "published": "2026-10-10T00:10:27+00:00",
-   "summary": "EDITORIAL: Prime Minister Shehbaz Sharif has called for a shift from stabilization to pro-growth policies with a focus on exports, productivity, employment and technology. While many may consider his call to be a very tall order yet in economic theory growth can promote exports, productivity and employment; however, th…",
-   "image": "https://i.brecorder.com/large/2026/10/10013003b4c5c23.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
