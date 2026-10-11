@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11T06:12:25+00:00",
- "count": 48,
- "relevant_count": 25,
- "domestic_count": 19,
+ "generated": "2026-10-11T13:19:03+00:00",
+ "count": 47,
+ "relevant_count": 24,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (13)",
@@ -44,33 +44,6 @@
    "published": "2026-10-11T02:25:15+00:00",
    "summary": "ISLAMABAD: Khyber Pakhtunkhwa, which remains structurally dependent on federal transfers, will launch a six-year World Bank-supported programme to strengthen its fiscal system and lay the foundation for improved service delivery. The World Bank is expected to approve a $200 million loan from the International Developme…",
    "image": "https://i.dawn.com/large/2026/10/11072433efdd8db.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Textile industry warns against levy on imports",
-   "url": "https://www.brecorder.com/news/40443616/textile-industry-warns-against-levy-on-imports",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "LAHORE: Pakistan’s textile industry has warned the Punjab government that a new infrastructure levy on imports will drive up production costs, hurt exports and deter investment in the province. The All Pakistan Textile Mills Association (APTMA) has asked Chief Minister Punjab Maryam Nawaz Sharif to suspend the Punjab I…",
-   "image": "https://i.brecorder.com/large/2026/10/11010134be89554.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rs10bn subsidy agreed: CM orders wheat, flour supply at affordable prices",
-   "url": "https://www.brecorder.com/news/40443617/rs10bn-subsidy-agreed-cm-orders-wheat-flour-supply-at-affordable-prices",
-   "source": "Business Recorder",
-   "published": "2026-10-10T21:21:50+00:00",
-   "summary": "LAHORE: Expressing strong displeasure over the increase in flour prices, Chief Minister Punjab Maryam Nawaz Sharif directed the authorities concerned to ensure the availability of wheat and flour at affordable prices under all circumstances. The CM convened an emergency video-link meeting to address the issue wherein i…",
-   "image": "https://i.brecorder.com/large/2026/10/1101021480155fd.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -261,6 +234,19 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports",
+   "url": "https://www.brecorder.com/news/40443680/yemens-houthis-renew-warning-to-airlines-travellers-against-using-saudi-airports",
+   "source": "Business Recorder",
+   "published": "2026-10-11T07:59:35+00:00",
+   "summary": "DUBAI: Yemen’s Houthis ​on Sunday ‌renewed their warning to ​airlines, ​airport workers, and ⁠travellers against ​using Saudi ​airports, saying the warning should ​be ​taken seriously and that ‌the ⁠kingdom “bore responsibility for failed interceptions”, ​a ​ day ⁠after an ​attack on ​Riyadh’s ⁠international airport ki…",
+   "image": "https://i.brecorder.com/large/2026/10/11125816bdb242c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Isaias kills four, about 670,000 without power after landfall",
