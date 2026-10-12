@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-11T22:18:37+00:00",
- "count": 47,
- "relevant_count": 26,
- "domestic_count": 17,
+ "generated": "2026-10-12T01:34:47+00:00",
+ "count": 51,
+ "relevant_count": 28,
+ "domestic_count": 23,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (13)",
@@ -10,6 +10,86 @@
   "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "Peoples Skyview Housing Project: KDA DG orders fast-tracking",
+   "url": "https://www.brecorder.com/news/40443761/peoples-skyview-housing-project-kda-dg-orders-fast-tracking",
+   "source": "Business Recorder",
+   "published": "2026-10-12T01:02:25+00:00",
+   "summary": "KARACHI: Karachi Development Authority’s (KDA) Director General Zain-ul-Abideen Ansari has ordered the acceleration of construction on the Peoples Skyview housing project in Surjani Town, citing delays. He stressed the need for quality, affordable housing. During an inspection, he reviewed construction progress, workma…",
+   "image": "https://i.brecorder.com/large/2026/10/1206021183d3164.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Operational readiness of QRUs: DG EPA Punjab conducts surprise inspection",
+   "url": "https://www.brecorder.com/news/40443760/operational-readiness-of-qrus-dg-epa-punjab-conducts-surprise-inspection",
+   "source": "Business Recorder",
+   "published": "2026-10-12T01:01:53+00:00",
+   "summary": "LAHORE: Director General of the Punjab Environment Protection Agency (EPA), Abdullah Nayyer Sheikh, conducted a surprise visit to inspect the operational readiness of Quick Response Units (QRUs) deployed along motorways to prevent and control crop-residue burning as part of the province’s intensified anti-smog preparat…",
+   "image": "https://i.brecorder.com/large/2026/10/120600113c7b992.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Fresh valuation issued for imported almonds",
+   "url": "https://www.brecorder.com/news/40443745/fresh-valuation-issued-for-imported-almonds",
+   "source": "Business Recorder",
+   "published": "2026-10-11T23:45:11+00:00",
+   "summary": "ISLAMABAD: The Directorate General of Customs Valuation Karachi has issued a fresh valuation ruling for imported almonds, setting customs values ranging from USD1.41 to USD3.81 per kilogram, depending on the type of almond. In this regard, the directorate has issued a Valuation Ruling No. 2111/2026 and superseded Valua…",
+   "image": "https://i.brecorder.com/large/2026/10/120147324b683ab.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PQEPC opposes one-year limit on coal supply deals",
+   "url": "https://www.brecorder.com/news/40443747/pqepc-opposes-one-year-limit-on-coal-supply-deals",
+   "source": "Business Recorder",
+   "published": "2026-10-11T23:45:11+00:00",
+   "summary": "ISLAMABAD: Port Qasim Electric Power Company (PQEPC) has opposed the proposed one-year limit on coal supply agreements, arguing that the restriction could undermine fuel security, disrupt procurement operations and increase risks for coal-fired power plants, sources told Business Recorder . In its comments submitted to…",
+   "image": "https://i.brecorder.com/large/2026/10/1202335612fe71d.webp",
+   "topics": [
+    "Energy & power",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "World Bank proposes USD200m to boost KP tax bases",
+   "url": "https://www.brecorder.com/news/40443758/world-bank-proposes-usd200m-to-boost-kp-tax-bases",
+   "source": "Business Recorder",
+   "published": "2026-10-11T23:45:11+00:00",
+   "summary": "ISLAMABAD: The World Bank has proposed USD 200 million in financing to help Khyber Pakhtunkhwa (KP) broaden its tax base and improve public service delivery, targeting an increase in the province’s own-source tax revenue from Rs64 billion to Rs122 billion in real terms by June 2031. According to the bank’s document, th…",
+   "image": "https://i.brecorder.com/large/2026/10/12044030f5c5aec.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Indigenisation: Power sector urged to exceed 30pc local value addition",
+   "url": "https://www.brecorder.com/news/40443704/indigenisation-power-sector-urged-to-exceed-30pc-local-value-addition",
+   "source": "Business Recorder",
+   "published": "2026-10-11T23:45:10+00:00",
+   "summary": "LAHORE: Pakistan’s power sector must go well beyond 30 percent local value addition if it is serious about indigenization, a senior Ministry of Energy official said at a national workshop hosted by the LUMS Energy Institute (LEI), where stakeholders pushed for a coordinated plan to cut the country’s reliance on importe…",
+   "image": "https://i.brecorder.com/large/2026/10/12011034d3ebbc2.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Stocks fall as geopolitical uncertainty offsets staff-level agreement with IMF",
    "url": "https://www.dawn.com/news/2036240/stocks-fall-as-geopolitical-uncertainty-offsets-staff-level-agreement-with-imf",
@@ -236,55 +316,43 @@
    "domestic": true
   },
   {
-   "title": "Pakistan, Saudi Arabia, Egypt, Türkiye condemn Houthi attacks on Riyadh airport",
-   "url": "https://www.brecorder.com/news/40443691/pakistan-saudi-arabia-egypt-turkiye-condemn-houthi-attacks-on-riyadh-airport",
+   "title": "ME war, high debt levels to dominate IMF-World Bank meetings",
+   "url": "https://www.brecorder.com/news/40443751/me-war-high-debt-levels-to-dominate-imf-world-bank-meetings",
    "source": "Business Recorder",
-   "published": "2026-10-11T17:18:26+00:00",
-   "summary": "Pakistan, Saudi Arabia, Egypt and Türkiye have strongly condemned ongoing Houthi attacks on Saudi Arabia, including strikes targeting King Khalid International Airport in Riyadh that reportedly caused civilian deaths and injuries and damaged civilian infrastructure. In a joint statement issued on Sunday, the four count…",
-   "image": "https://i.brecorder.com/large/2026/10/11221535a18b2da.webp",
+   "published": "2026-10-11T23:45:11+00:00",
+   "summary": "BANGKOK: Finance officials from around the world will gather in Bangkok this week under the shadow of a widening war in the Middle East, the biggest-ever energy supply shock and rising interest rates that together pose daunting risks to already-sluggish global economic growth. The US-Israeli-led war with Iran, now in i…",
+   "image": "https://i.brecorder.com/large/2026/10/1203360376f90f7.webp",
    "topics": [
-    "Construction & projects"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "Saudi-led coalition says new attack at Riyadh airport causes fire, day after strike kills 12",
-   "url": "https://www.brecorder.com/news/40443688/saudi-led-coalition-says-new-attack-at-riyadh-airport-causes-fire-day-after-strike-kills-12",
+   "title": "Haroon, FCCI discuss rising industrial costs",
+   "url": "https://www.brecorder.com/news/40443699/haroon-fcci-discuss-rising-industrial-costs",
    "source": "Business Recorder",
-   "published": "2026-10-11T15:48:07+00:00",
-   "summary": "DUBAI/RIYADH: The Saudi-led coalition in Yemen said an “unidentified projectile” had targeted Riyadh’s international airport on Sunday, causing a fire, hours after the Houthis warned airlines and travellers to stay away from Saudi airports. The coalition also said Saudi air defences had intercepted a cruise missile in …",
-   "image": "https://i.brecorder.com/large/2026/10/11194014c1a126e.webp",
+   "published": "2026-10-11T23:45:10+00:00",
+   "summary": "FAISALABAD: An important meeting was held at the Faisalabad Chamber of Commerce & Industry (FCCI) with Haroon Akhtar Khan, Adviser to the Prime Minister and Federal Minister for Industries and Production. The meeting was attended by Mian Farrukh Iqbal, Chairman, Pakistan Hosiery Manufacturers & Exporters Association (P…",
+   "image": "https://i.brecorder.com/large/2026/10/120107093bcaad6.webp",
    "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Yemen's Houthis renew warning to airlines, travellers against using Saudi airports",
-   "url": "https://www.brecorder.com/news/40443680/yemens-houthis-renew-warning-to-airlines-travellers-against-using-saudi-airports",
-   "source": "Business Recorder",
-   "published": "2026-10-11T07:59:35+00:00",
-   "summary": "DUBAI: Yemen’s Houthis ​on Sunday ‌renewed their warning to ​airlines, ​airport workers, and ⁠travellers against ​using Saudi ​airports, saying the warning should ​be ​taken seriously and that ‌the ⁠kingdom “bore responsibility for failed interceptions”, ​a ​ day ⁠after an ​attack on ​Riyadh’s ⁠international airport ki…",
-   "image": "https://i.brecorder.com/large/2026/10/11125816bdb242c.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Isaias kills four, about 670,000 without power after landfall",
-   "url": "https://www.brecorder.com/news/40443671/isaias-kills-four-about-670000-without-power-after-landfall",
-   "source": "Business Recorder",
-   "published": "2026-10-11T05:41:50+00:00",
-   "summary": "Four people died after Hurricane Isaias made landfall early ‌on Saturday, and about 670,000 residents in Florida, Alabama, Georgia and Mississippi were still without power as the storm weakened to a post-tropical cyclone, according to local authorities and electricity monitoring services. Two of the deaths resulted fro…",
-   "image": "https://i.brecorder.com/large/2026/10/11104056a2bd1be.webp",
-   "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Transporters demand protection from robberies on M-9 Motorway",
+   "url": "https://www.brecorder.com/news/40443709/transporters-demand-protection-from-robberies-on-m-9-motorway",
+   "source": "Business Recorder",
+   "published": "2026-10-11T23:45:10+00:00",
+   "summary": "HYDERABAD: President of the Hyderabad Chamber of Small Traders & Small Industry (HCSTSI) Nadeem Ahmed Siddiqui, Senior Vice President Muhammad Fahad Mian and Vice President Irfan Arbiani have expressed deep concern over armed robberies targeting goods transport drivers within the Jamshoro limits of the M-9 Motorway. Th…",
+   "image": "https://i.brecorder.com/large/2026/10/12011338d6b4945.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -297,19 +365,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Trump calls for replacing Ukraine's Zelenskiy in tussle over diesel deal with Russia",
-   "url": "https://www.brecorder.com/news/40443665/trump-calls-for-replacing-ukraines-zelenskiy-in-tussle-over-diesel-deal-with-russia",
-   "source": "Business Recorder",
-   "published": "2026-10-11T05:04:45+00:00",
-   "summary": "US President Donald Trump on Saturday called for Ukraine to replace its leader Volodymyr Zelenskiy and railed against Ukraine’s attacks on Russian oil infrastructure, a day after announcing a diesel supply ​deal with Russia that had drawn a sharp rebuke from Zelenskiy. In some of his harshest criticism yet of the White…",
-   "image": "https://i.brecorder.com/large/2026/10/11100218dc325fb.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
