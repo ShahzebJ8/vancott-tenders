@@ -1,21 +1,34 @@
 {
- "generated": "2026-10-13T12:55:59+00:00",
- "count": 52,
- "relevant_count": 26,
- "domestic_count": 14,
+ "generated": "2026-10-13T19:47:53+00:00",
+ "count": 49,
+ "relevant_count": 24,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (17)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (6)"
  },
  "stories": [
   {
+   "title": "SBP directs banks to put on hold sugar exports by mills located in Khyber Pakhtunkhwa",
+   "url": "https://www.brecorder.com/news/40444027/sbp-directs-banks-to-put-on-hold-sugar-exports-by-mills-located-in-khyber-pakhtunkhwa",
+   "source": "Business Recorder",
+   "published": "2026-10-13T17:26:09+00:00",
+   "summary": "The State Bank of Pakistan (SBP) directed commercial banks on Tuesday to put sugar exports by the mills located in Khyber Pakhtunkhwa’s (KP) on hold till the provincial administration endorses the overseas sales of the commodity. In a circular titled ‘Revised Instructions - Export of 200,000 MT [Metric Ton] of Sugar’, …",
+   "image": "https://i.brecorder.com/large/2026/10/13221835f1f0166.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40444000/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-13T11:05:18+00:00",
-   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 276.96, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 276.97 against the dollar. Globally, the US dollar held its ground at the start of Asian t…",
+   "published": "2026-10-13T17:14:06+00:00",
+   "summary": "The Pakistani rupee extended its marginal gains against the US dollar in the interbank market on Tuesday. The local unit closed the day at 276.96, a gain of Re0.01 against the greenback. On Monday , the Pakistani rupee settled at 276.97 against the dollar. Pakistan’s inflation rate is projected to rise to 9.9% in 2027,…",
    "image": "https://i.brecorder.com/large/2026/10/131550174dd9834.webp",
    "topics": [
     "Economy"
@@ -156,33 +169,6 @@
    "domestic": true
   },
   {
-   "title": "Remittances rise 14pc to $10.9bn in July-Sept",
-   "url": "https://www.dawn.com/news/2036050/remittances-rise-14pc-to-109bn-in-july-sept",
-   "source": "Dawn",
-   "published": "2026-10-10T02:50:18+00:00",
-   "summary": "• UK records the highest growth among major sources, with inflows rising 19.4pc • Saudi Arabia remains the largest source, contributing $2.686 billion KARACHI: Workers’ remittances increased by 14 per cent in the first quarter of FY27 compared with the same period of the previous fiscal year, according to data released…",
-   "image": "https://i.dawn.com/large/2026/10/100749348efe347.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Nepra clears use-of-system charges for competitive power market",
-   "url": "https://www.dawn.com/news/2036102/nepra-clears-use-of-system-charges-for-competitive-power-market",
-   "source": "Dawn",
-   "published": "2026-10-10T02:04:57+00:00",
-   "summary": "ISLAMABAD: The Nat­ional Electric Power Reg­ulatory Authority (Nepra) on Friday notified use-of-system charges (UoSC) ranging from Rs6.23 to Rs19.62 per unit for bulk power consumers (BPCs) of all distribution companies, including K-Electric, participating in the competitive electricity trading market. Under the Compet…",
-   "image": "https://i.dawn.com/large/2026/10/100703147ecdc1f.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Pakistani rupee edges higher against US dollar",
    "url": "https://arynews.tv/pakistani-rupee-edges-higher-against-us-dollar",
    "source": "ARY News",
@@ -196,16 +182,42 @@
    "domestic": true
   },
   {
-   "title": "Selling continues at PSX, KSE-100 Index closes 348 points lower",
-   "url": "https://www.brecorder.com/news/40443957/selling-continues-at-psx-kse-100-index-closes-348-points-lower",
+   "title": "Textile body urges PM to retain export facilitation scheme for yarns, fabrics",
+   "url": "https://www.brecorder.com/news/40444021/textile-body-urges-pm-to-retain-export-facilitation-scheme-for-yarns-fabrics",
    "source": "Business Recorder",
-   "published": "2026-10-13T12:50:55+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) on Tuesday, with the benchmark KSE-100 Index closing 348 points lower amid bearish sentiment. The KSE-100 Index witnessed some buying in the first half, hitting an intra-day high of 166,070.48. However, selling returned to the bourse, pushing the benchmark…",
-   "image": "https://i.brecorder.com/large/2026/10/13095218563fc9c.webp",
+   "published": "2026-10-13T15:11:28+00:00",
+   "summary": "The Pakistan Textile Council (PTC) has urged Prime Minister Shehbaz Sharif to retain the Export Facilitation Scheme (EFS) for all legitimate export inputs and reject further exclusions of yarns and fabrics, warning that such restrictions could undermine Pakistan’s value-added textile exports. In a letter to the prime m…",
+   "image": "https://i.brecorder.com/large/2026/10/13201026fd23b36.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "FM Aurangzeb vows continued reforms under IMF programme",
+   "url": "https://www.brecorder.com/news/40444019/fm-aurangzeb-vows-continued-reforms-under-imf-programme",
+   "source": "Business Recorder",
+   "published": "2026-10-13T13:49:46+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb reaffirmed on Tuesday Pakistan’s ownership of taxation, energy, state-owned enterprise (SOE) and pension reforms under the IMF-supported programme, stressing that sustained implementation was essential to achieve lasting economic growth and public welfare. The development came as the…",
+   "image": "https://i.brecorder.com/large/2026/10/131843239f189af.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Saudi rebound lifts most Gulf bourses as markets weigh regional risks",
+   "url": "https://www.brecorder.com/news/40444018/saudi-rebound-lifts-most-gulf-bourses-as-markets-weigh-regional-risks",
+   "source": "Business Recorder",
+   "published": "2026-10-13T13:40:44+00:00",
+   "summary": "Most Gulf bourses closed higher on Tuesday, with Saudi Arabia’s benchmark index snapping a four-session losing streak, even as the kingdom extended the closure of Riyadh’s King Khalid International Airport until Saturday. A spokesperson for the Saudi-led coalition said on Tuesday that civilians would soon be warned to …",
+   "image": "https://i.brecorder.com/large/2026/10/131840317a234b6.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -300,12 +312,12 @@
    "domestic": false
   },
   {
-   "title": "Engro Powergen Qadirpur appoints Khurram Abdullah as CEO, Athar Khwaja resigns",
-   "url": "https://www.brecorder.com/news/40443991/engro-powergen-qadirpur-appoints-khurram-abdullah-as-ceo-athar-khwaja-resigns",
-   "source": "Business Recorder",
-   "published": "2026-10-13T09:28:10+00:00",
-   "summary": "Engro Powergen Qadirpur Limited (EPQL), a subsidiary of Engro Energy Limited, on Tuesday has appointed Khurram Abdullah as chief executive officer with effect from October 15, replacing Athar Abrar Khwaja, who has resigned from the role and joined the company’s board as a director. The listed company disclosed the deve…",
-   "image": "https://i.brecorder.com/large/2026/10/13142706fbd8159.webp",
+   "title": "IMF flags risks to global economy from AI market correction, war and debt",
+   "url": "https://tribune.com.pk/story/2634646/imf-flags-risks-to-global-economy-from-ai-market-correction-war-and-debt",
+   "source": "The Express Tribune",
+   "published": "2026-10-13T09:30:27+00:00",
+   "summary": "IMF warned poorer nations hit by the Iran war energy shock may have to cut spending or restructure debt",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -407,19 +419,6 @@
    "domestic": false
   },
   {
-   "title": "Tencent markets dollar, dim sum bonds amid AI spending spree",
-   "url": "https://www.brecorder.com/news/40443967/tencent-markets-dollar-dim-sum-bonds-amid-ai-spending-spree",
-   "source": "Business Recorder",
-   "published": "2026-10-13T06:22:54+00:00",
-   "summary": "HONG KONG: Tencent Holdings is selling US dollar and offshore Chinese yuan, or dim sum, bonds in a deal that could raise at least $4.5 billion as the Chinese technology giant seeks funding amid higher spending on artificial intelligence. The sale comprises 10-year and 20-year US dollar notes and 10-year and 30-year off…",
-   "image": "https://i.brecorder.com/large/2026/10/131122467e6de2a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Copper steadies as dollar strength counters Chile supply worries",
    "url": "https://www.brecorder.com/news/40443966/copper-steadies-as-dollar-strength-counters-chile-supply-worries",
    "source": "Business Recorder",
@@ -440,47 +439,6 @@
    "summary": "HONG KONG: China’s yuan held near its strongest level in three years and nine months on Tuesday, shrugging off a strong dollar as central bank guidance kept the currency steady. The yuan was largely steady at 6.6972 per dollar, hovering near the strongest level since January 16, 2023. The offshore yuan traded at 6.698 …",
    "image": "https://i.brecorder.com/large/2026/10/131119216615b76.webp",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports",
-   "url": "https://www.brecorder.com/news/40443956/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports",
-   "source": "Business Recorder",
-   "published": "2026-10-13T03:25:22+00:00",
-   "summary": "TOKYO: Japan’s NTT Data Group, a unit of ​telecommunications giant NTT, is ‌in the final stages of talks to build a data ​centre in Osaka, western ​Japan, for US AI company ⁠Anthropic, the Nikkei business daily ​reported on Tuesday, citing ​multiple sources. Construction costs could reach up to 1 trillion yen ($6.3 bil…",
-   "image": "https://i.brecorder.com/large/2026/10/130824282d17ad4.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF raises inflation forecast to 9.9%",
-   "url": "https://tribune.com.pk/story/2634539/imf-raises-inflation-forecast-to-99",
-   "source": "The Express Tribune",
-   "published": "2026-10-12T21:33:54+00:00",
-   "summary": "Keeps growth unchanged at 3.5%, suggesting it has not agreed to govt projections",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "LNG imports to cost over $1b in winter",
-   "url": "https://tribune.com.pk/story/2634542/lng-imports-to-cost-over-1b-in-winter",
-   "source": "The Express Tribune",
-   "published": "2026-10-12T21:33:54+00:00",
-   "summary": "Pakistan needs to buy expensive gas from spot market to meet high demand during cool weather",
-   "image": null,
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
@@ -630,6 +588,19 @@
    "domestic": false
   },
   {
+   "title": "PSX: Stocks close lower as KSE-100 index dips over 347 points",
+   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-347-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close lower as KSE-100 index dips over 347 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Gold prices rise in Pakistan as oil and dollar retreat in international market",
    "url": "https://arynews.tv/gold-prices-rise-in-pakistan-as-oil-and-dollar-retreat-in-international-market",
    "source": "ARY News",
@@ -680,19 +651,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR stops advance income tax notices to salaried individuals",
-   "url": "https://arynews.tv/fbr-stops-advance-income-tax-notices-to-salaried-individuals",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR stops advance income tax notices to salaried individuals",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]

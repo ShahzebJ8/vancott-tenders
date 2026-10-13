@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-13T12:55:53+00:00",
- "count": 744,
- "with_value": 710,
+ "generated": "2026-10-13T19:47:47+00:00",
+ "count": 742,
+ "with_value": 709,
  "with_winner": 285,
  "smd_count": 0,
  "price_history": [
@@ -30,44 +30,6 @@
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-2648031156",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0F3YXJkX29mX2NvbnRyYWN0LnBkZg==",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "contract_no": "PCN-4768831574",
-   "reference": "KP-GOODS-2026-015-CON-01",
-   "title": "Public Procurement Regulatory Authority (PPRA) Procurement and Installation of Network Switches and IT Equipment for Government Offices Zawar Khan Blue Area National Tender: TS0000015989E",
-   "organisation": "PPRA Peshawer",
-   "office": "PPRA Peshawer",
-   "winner": null,
-   "value_text": "Rs. 11 < Rs. 50 Million",
-   "value_pkr": null,
-   "value_band": "< Rs. 50 Million",
-   "awarded": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-4768831574",
-   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0tQUkFfMS5wZGY=",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "contract_no": "PCN-8253879225",
-   "reference": "KP-WORKS-2026-004-CON-01",
-   "title": "Public Procurement Regulatory Authority (PPRA) Construction and Rehabilitation of Rural Roads in Khyber Pakhtunkhwa Zawar Khan Blue Area National Tender: TS0000015987E",
-   "organisation": "PPRA Peshawer",
-   "office": "PPRA Peshawer",
-   "winner": null,
-   "value_text": "Rs. 3,875,000 < Rs. 50 Million",
-   "value_pkr": 3875000,
-   "value_band": "< Rs. 50 Million",
-   "awarded": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-8253879225",
-   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0tQUkEucGRm",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -14557,44 +14519,6 @@
    "matched_terms": []
   },
   {
-   "evaluation_no": "EVL00000004193",
-   "tender_no": "TS0000015989E",
-   "reference": "KP-GOODS-2026-015",
-   "title": "Procurement and Installation of Network Switches and IT Equipment for Government Offices Civil Goods",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "5 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004193",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000004192",
-   "tender_no": "TS0000015989E",
-   "reference": "KP-GOODS-2026-015",
-   "title": "Procurement and Installation of Network Switches and IT Equipment for Government Offices Civil Goods Public Procurement Regulatory Authority (PPRA)",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 4,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004192",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
    "evaluation_no": "EVL00000004190",
    "tender_no": "TS0000010591E",
    "reference": "NADRA-HQ-RFB-93/2026",
@@ -14608,26 +14532,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004190",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000004189",
-   "tender_no": "TS0000015987E",
-   "reference": "KP-WORKS-2026-004",
-   "title": "Construction and Rehabilitation of Rural Roads in Khyber Pakhtunkhwa Civil Works",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "5 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004189",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -14682,26 +14586,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004186",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000004185",
-   "tender_no": null,
-   "reference": "KP-FWA-2026-003",
-   "title": "Framework Agreement for Construction, Renovation and Maintenance of Public Health Facilities in Khyber Pakhtunkhwa Civil Works",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "4 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004185",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -14780,46 +14664,6 @@
    "city": "Quetta",
    "province": "Balochistan",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004181",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000004180",
-   "tender_no": "TS0000015957E",
-   "reference": "testing",
-   "title": "test Ammunition",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "1 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004180",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000004179",
-   "tender_no": null,
-   "reference": "testing framework",
-   "title": "testing Ammunition",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "1 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-10-13",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004179",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -15271,26 +15115,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004154",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000004153",
-   "tender_no": "TS0000015468E",
-   "reference": "testing",
-   "title": "testing Ammunition",
-   "organisation": "Public Procurement Regulatory Authority (PPRA) PPRA Peshawer - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "1 Public Procurement Regulatory Authority (PPRA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-10-12",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004153",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -53251,6 +53075,144 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002138",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002137",
+   "tender_no": "TS0000006700E",
+   "reference": "ITB No. GSU-RWP/PROC-FLOOR North/336152/2026/",
+   "title": "Procurement of General Support Services SBP BSC North Cluster Offices ITB No. GSU-RWP/PROC-FLOOR North/336152/2026/ Services Ministry of Finance",
+   "organisation": "Ministry of Finance SBP Rawalpindi - Pakistan",
+   "bid_count": 11,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002137",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002136",
+   "tender_no": "TS0000007606E",
+   "reference": "SSGC/SC/NR/EPADS/14328",
+   "title": "Civil Works Construction of CC Flooring Around The Condensate Pit and Other Areas at CRF Compressor Station at HQ-Shikarpur (as Per BOQ)(Having Valid PEC Certificate Category C-6 Or above Having specialization of CE-10 Category)(Under Single Stage one Envelope Bidding Procedure) (On Complete Package Basis). Services",
+   "organisation": "Ministry of Energy (Petroleum Division) Sui Southern Gas Company Limited (SSGCL) Karachi - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "milestones"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002136",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002135",
+   "tender_no": "TS0000003501E",
+   "reference": "NADRA-HQ-RFB-55/2026",
+   "title": "Procurement of 04x Heavy Duty Scanners Equipments",
+   "organisation": "National Database and Registration Authority (NADRA) NADRA Islamabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Shirazi Trading Pvt Ltd National Database and Registration Authority (NADRA)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002135",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002134",
+   "tender_no": "TS0000004913E",
+   "reference": "VU/25-26/04/888 (DigiSkills 3.0)",
+   "title": "Laptops and Mobile Phones Info and Comm Tech",
+   "organisation": "Higher Education Commission (HEC) Virtual University of Pakistan Lahore - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Riz Technology"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002134",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002133",
+   "tender_no": "TS0000007111E",
+   "reference": "TENDER No. NADRA-RHO LHR-RFB/2026/Auction-1",
+   "title": "AUCTION OF BER ADMIN STORE ITEMS (Furniture & Fixtures) Furniture/Fixture",
+   "organisation": "Ministry of Interior and Narcotics Control NADRA Regional Office Lahore Lahore - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "The Resource Knot"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002133",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002132",
+   "tender_no": "TS0000004512E",
+   "reference": "NADRA-RHO LHR-RFB/2026/Auction-5",
+   "title": "AUCTION OF BER TECHNICAL STORE ITEMS Equipments",
+   "organisation": "Ministry of Interior and Narcotics Control NADRA Regional Office Lahore Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Chaudhary Enterprises (PVT) LTD"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002132",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000002131",
+   "tender_no": "TS0000007424E",
+   "reference": "NADRA-RHO LHR-RFB/2026/Auction-6",
+   "title": "AUCTION OF BER TECHNICAL STORE ITEMS Equipments",
+   "organisation": "Ministry of Interior and Narcotics Control NADRA Regional Office Lahore Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Cool Care"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-07-17",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002131",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
