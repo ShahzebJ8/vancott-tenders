@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-13T19:47:53+00:00",
- "count": 49,
- "relevant_count": 24,
- "domestic_count": 13,
+ "generated": "2026-10-13T23:39:03+00:00",
+ "count": 54,
+ "relevant_count": 28,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
@@ -10,6 +10,98 @@
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Cold-rolled steel coils & sheets: NTC extends anti-dumping duties for 5 more years",
+   "url": "https://www.brecorder.com/news/40444097/cold-rolled-steel-coils-amp-sheets-ntc-extends-anti-dumping-duties-for-5-more-years",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "ISLAMABAD: The National Tariff Commission (NTC) has extended anti-dumping duties on imports of cold-rolled steel coils and sheets originating in or exported from China for another five years, citing the likelihood of continued dumping and material injury to Pakistan’s domestic steel industry if the duties are withdrawn…",
+   "image": "https://i.brecorder.com/large/2026/10/140159380faeffa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP launches ‘BoE 2026’ policy",
+   "url": "https://www.brecorder.com/news/40444100/sbp-launches-boe-2026-policy",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has launched the second edition of its Banking on Equality (BoE) policy that aims to further reduce the gender gap and advance women’s financial inclusion in the country. The BoE 2026 is the reflection of SBP’s commitment to create an enabling environment where women can thrive…",
+   "image": "https://i.brecorder.com/large/2026/10/14024726c1b6804.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Omani FM arrives",
+   "url": "https://www.brecorder.com/news/40444101/omani-fm-arrives",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "ISLAMABAD: Sayyid Badr bin Hamad bin Hamood Albusaidi, Foreign Minister of the Sultanate of Oman, arrived in Islamabad Tuesday on an official visit to Pakistan during 13-14 October 2026. He was received at the airport by Secretary Economic Affairs Division and Additional Secretary (Middle East), Ministry of Foreign Aff…",
+   "image": "https://i.brecorder.com/large/2026/10/14024932239fdbc.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Cashless drive: Govt tightens digital payments oversight, plans tax reforms",
+   "url": "https://www.brecorder.com/news/40444110/cashless-drive-govt-tightens-digital-payments-oversight-plans-tax-reforms",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "ISLAMABAD: The government has decided to tighten the definitions of active digital payment users and merchants and introduce tax policy reforms to accelerate Prime Minister’s Cashless Pakistan initiative, as the number of merchants accepting electronic payments quadrupled in the last fiscal year. Minister of State for …",
+   "image": "https://i.brecorder.com/large/2026/10/140331347fcf1bf.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "IMF projects 3.5pc growth, 9.9pc inflation",
+   "url": "https://www.brecorder.com/news/40444113/imf-projects-35pc-growth-99pc-inflation",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has projected Pakistan’s economic growth at 3.5 percent for fiscal year 2026-27, below the government’s 4 percent target but slightly above the global growth forecast of 3.4 percent, while trailing India’s projected 7 percent growth, while inflation in Pakistan is projec…",
+   "image": "https://i.brecorder.com/large/2026/10/14034841f28816b.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Addressing rising costs, arresting decline: PTEA wants 6-8pc DLTL support tied to 10pc rise in exports",
+   "url": "https://www.brecorder.com/news/40444115/addressing-rising-costs-arresting-decline-ptea-wants-6-8pc-dltl-support-tied-to-10pc-rise-in-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "ISLAMABAD: Pakistan’s textile exporters have sought temporary Drawback of Local Taxes and Levies (DLTL) support of 6-8 percent, linked to a 10 percent increase in exports, as part of a broader package of structural reforms to address rising production costs and arrest the decline in exports. The demand was raised at a …",
+   "image": "https://i.brecorder.com/large/2026/10/14040250666113b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP revises instructions for sugar exports",
+   "url": "https://www.brecorder.com/news/40444117/sbp-revises-instructions-for-sugar-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has revised its instructions for sugar exports, sharing updated province-wise and mill-wise export quotas and directing banks to conduct due diligence on export transactions to verify the bona fides of clients and the underlying transactions in accordance with applicable regula…",
+   "image": "https://i.brecorder.com/large/2026/10/140412364762a15.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "SBP directs banks to put on hold sugar exports by mills located in Khyber Pakhtunkhwa",
    "url": "https://www.brecorder.com/news/40444027/sbp-directs-banks-to-put-on-hold-sugar-exports-by-mills-located-in-khyber-pakhtunkhwa",
@@ -182,12 +274,12 @@
    "domestic": true
   },
   {
-   "title": "Textile body urges PM to retain export facilitation scheme for yarns, fabrics",
-   "url": "https://www.brecorder.com/news/40444021/textile-body-urges-pm-to-retain-export-facilitation-scheme-for-yarns-fabrics",
+   "title": "The Organic Meat Company Limited",
+   "url": "https://www.brecorder.com/news/40444087/the-organic-meat-company-limited",
    "source": "Business Recorder",
-   "published": "2026-10-13T15:11:28+00:00",
-   "summary": "The Pakistan Textile Council (PTC) has urged Prime Minister Shehbaz Sharif to retain the Export Facilitation Scheme (EFS) for all legitimate export inputs and reject further exclusions of yarns and fabrics, warning that such restrictions could undermine Pakistan’s value-added textile exports. In a letter to the prime m…",
-   "image": "https://i.brecorder.com/large/2026/10/13201026fd23b36.webp",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "The Organic Meat Company Limited (PSX: TOMCL) was incorporated in Pakistan as a private limited company in 2010. The company is engaged in the processing and sale of halal meat and allied products. It is also one of the leading exporters of red meat and meat by-products. Middle Eastern countries are the major export ma…",
+   "image": "https://i.brecorder.com/large/2026/10/14015657db0890d.webp",
    "topics": [
     "Economy"
    ],
@@ -195,12 +287,25 @@
    "domestic": false
   },
   {
-   "title": "FM Aurangzeb vows continued reforms under IMF programme",
-   "url": "https://www.brecorder.com/news/40444019/fm-aurangzeb-vows-continued-reforms-under-imf-programme",
+   "title": "Developing nations: Aurangzeb seeks stronger World Bank, IMF support",
+   "url": "https://www.brecorder.com/news/40444114/developing-nations-aurangzeb-seeks-stronger-world-bank-imf-support",
    "source": "Business Recorder",
-   "published": "2026-10-13T13:49:46+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb reaffirmed on Tuesday Pakistan’s ownership of taxation, energy, state-owned enterprise (SOE) and pension reforms under the IMF-supported programme, stressing that sustained implementation was essential to achieve lasting economic growth and public welfare. The development came as the…",
-   "image": "https://i.brecorder.com/large/2026/10/131843239f189af.webp",
+   "published": "2026-10-13T23:31:49+00:00",
+   "summary": "BANGKOK: Federal Finance Minister Muhammad Aurangzeb has called for reforms to the global financial system, warning that trade barriers and climate change are creating additional challenges for developing economies. Addressing the G-24 Central Bank Governors’ meeting in Bangkok as the group’s first vice-chair, Aurangze…",
+   "image": "https://i.brecorder.com/large/2026/10/140358256c2a0e9.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Economic stability alone is not enough",
+   "url": "https://www.brecorder.com/news/40444037/economic-stability-alone-is-not-enough",
+   "source": "Business Recorder",
+   "published": "2026-10-13T23:31:48+00:00",
+   "summary": "EDITORIAL: Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal in a letter to Prime Minister Shehbaz Sharif, leaked to a section of the media, expressed extremely serious reservations on the strategy of achieving fiscal stabilization by compressing development expenditure and borrowing more .…",
+   "image": "https://i.brecorder.com/large/2026/10/140056212f6c956.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -227,45 +332,6 @@
    "published": "2026-10-13T12:07:02+00:00",
    "summary": "MUMBAI: Indian government bonds snapped a four-session falling streak on Tuesday, after the yield rising to a three-year high attracted investors back to the market. A policy rate hike and liquidity withdrawal by the central bank had pushed the benchmark bond yield up by 20 basis points over four sessions. The 6.94% 20…",
    "image": "https://i.brecorder.com/large/2026/10/13170601f0d9fbc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's Adani Enterprises eyes $210 mln fundraise via rupee debt, bankers say",
-   "url": "https://www.brecorder.com/news/40444006/indias-adani-enterprises-eyes-210-mln-fundraise-via-rupee-debt-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-10-13T11:54:27+00:00",
-   "summary": "MUMBAI: The flagship firm of India’s Adani group, Adani Enterprises, plans to raise around 20 billion rupees ($210 million) through the sale of short-duration bonds, two merchant bankers directly aware of the transaction said on Tuesday. “The company would look for an issuance of below five-year maturity, and may aim t…",
-   "image": "https://i.brecorder.com/large/2026/10/131653012c3c673.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's state borrowing costs spike to over six-year high as demand fades",
-   "url": "https://www.brecorder.com/news/40444005/indias-state-borrowing-costs-spike-to-over-six-year-high-as-demand-fades",
-   "source": "Business Recorder",
-   "published": "2026-10-13T11:50:09+00:00",
-   "summary": "MUMBAI: Borrowing costs for the most liquid part of India’s state government bond curve breached the 8% handle for the first time in over six years on Tuesday, according to traders, tracking a sharp spike in central government yields and weakening investor appetite. Indian states raised over 300 billion rupees ($3.15 b…",
-   "image": "https://i.brecorder.com/large/2026/10/131649439e7a859.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's ICICI Life posts key quarterly margin below estimates, shares slide",
-   "url": "https://www.brecorder.com/news/40443999/indias-icici-life-posts-key-quarterly-margin-below-estimates-shares-slide",
-   "source": "Business Recorder",
-   "published": "2026-10-13T10:49:11+00:00",
-   "summary": "BENGALURU: India’s ICICI Life Insurance reported new business margins below expectations on Tuesday, sending shares sliding 3%, while second-quarter profit jumped 25% year-on-year. Its value of new business (VNB), which measures the expected profit from new policies sold, rose 24.7% on-quarter to 7.12 billion rupees. H…",
-   "image": "https://i.brecorder.com/large/2026/10/1315472482fa20b.webp",
    "topics": [
     "Economy"
    ],
