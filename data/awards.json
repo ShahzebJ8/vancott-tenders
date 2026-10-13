@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T23:47:35+00:00",
+ "generated": "2026-10-13T05:13:11+00:00",
  "count": 741,
  "with_value": 709,
  "with_winner": 284,
@@ -14102,6 +14102,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004170",
+   "tender_no": "TS0000007685E",
+   "reference": "FCS/SDQ/TE/026/26",
+   "title": "CLAY FOR EARTH FILLING Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Al Makkah Enterprises, Lahore"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-13",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004170",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004167",
    "tender_no": "TS0000012868E",
@@ -53170,26 +53190,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002088",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002087",
-   "tender_no": "TS0000009468E",
-   "reference": "PLL/IMP/LNGT75",
-   "title": "BID DOCUMENT FOR LNG SPOT TENDER ON A DELIVERED EX SHIP BASIS Petroleum, Oil & Lubricants",
-   "organisation": "Ministry of Energy (Petroleum Division) Pakistan LNG Limited Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "PetroChina Intl"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-15",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002087",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

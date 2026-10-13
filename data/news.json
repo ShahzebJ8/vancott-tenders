@@ -1,15 +1,81 @@
 {
- "generated": "2026-10-12T23:47:41+00:00",
- "count": 51,
- "relevant_count": 24,
- "domestic_count": 14,
+ "generated": "2026-10-13T05:13:16+00:00",
+ "count": 54,
+ "relevant_count": 26,
+ "domestic_count": 17,
  "sources": {
-  "Dawn": "ok (17)",
-  "Business Recorder": "ok (16)",
+  "Dawn": "ok (16)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Governor’s rule in KP rattles stock market",
+   "url": "https://www.dawn.com/news/2036747/governors-rule-in-kp-rattles-stock-market",
+   "source": "Dawn",
+   "published": "2026-10-13T03:56:55+00:00",
+   "summary": "KARACHI: The imposition of governor’s rule and an emergency in PTI-ruled Khyber Pakhtunkhwa further weakened already fragile investor sentiment on Monday. The Pakistan Stock Exchange (PSX) remained under pressure from Middle East tensions, elevated oil and petroleum prices, inflationary pressures and political instabil…",
+   "image": "https://i.dawn.com/large/2026/10/13085434e0921cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "LDPL seeks gas supply for 235MW power plant",
+   "url": "https://www.brecorder.com/news/40443933/ldpl-seeks-gas-supply-for-235mw-power-plant",
+   "source": "Business Recorder",
+   "published": "2026-10-13T01:05:50+00:00",
+   "summary": "ISLAMABAD: Liberty Daharki Power Limited (LDPL) has urged the government to intervene for the immediate restoration of raw gas supplies to its 235-megawatt power plant, warning that its continued shutdown could force the national grid to rely on expensive imported fuels or resort to load-shedding. In a letter to the re…",
+   "image": "https://i.brecorder.com/large/2026/10/130604248c7f7c0.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Automated production monitoring systems: PM sets Dec 31st deadline",
+   "url": "https://www.brecorder.com/news/40443940/automated-production-monitoring-systems-pm-sets-dec-31st-deadline",
+   "source": "Business Recorder",
+   "published": "2026-10-13T00:04:30+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday set December 31 as the deadline for rolling out automated production monitoring systems across manufacturing sectors to plug tax leaks and ensure businesses pay their due share. Chairing a review meeting on Federal Board of Revenue (FBR) reforms, the prime minister cal…",
+   "image": "https://i.brecorder.com/large/2026/10/13040335df116d7.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PPMC applies for power service provider registration",
+   "url": "https://www.brecorder.com/news/40443942/ppmc-applies-for-power-service-provider-registration",
+   "source": "Business Recorder",
+   "published": "2026-10-13T00:04:30+00:00",
+   "summary": "ISLAMABAD: Power Planning and Monitoring Company (PPMC), the policy, strategic and technical arm of the federal government in the power sector, has approached the National Electric Power Regulatory Authority (Nepra) for registration as a provider of electric power services, seeking formal regulatory recognition of its …",
+   "image": "https://i.brecorder.com/large/2026/10/13035107b7e6ed4.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Winter gas load management plan: PD seeks PM-led CCoE’s nod",
+   "url": "https://www.brecorder.com/news/40443943/winter-gas-load-management-plan-pd-seeks-pm-led-ccoes-nod",
+   "source": "Business Recorder",
+   "published": "2026-10-13T00:04:30+00:00",
+   "summary": "ISLAMABAD: The Petroleum Division has sought approval from the Prime Minister-led Cabinet Committee on Energy (CCoE) for the winter gas load management plan for four months (November 2026 to February 2027), under which domestic consumers will receive top priority while supplies to industry, captive power plants, fertil…",
+   "image": "https://i.brecorder.com/large/2026/10/130345123871de6.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM Shehbaz directs FBR to complete digital production monitoring system across major industries by year end",
    "url": "https://www.dawn.com/news/2036676/pm-shehbaz-directs-fbr-to-complete-digital-production-monitoring-system-across-major-industries-by-year-end",
@@ -156,32 +222,6 @@
    "domestic": true
   },
   {
-   "title": "Short-term inflation rises to 11.97pc, PBS data shows",
-   "url": "https://www.dawn.com/news/2035917/short-term-inflation-rises-to-1197pc-pbs-data-shows",
-   "source": "Dawn",
-   "published": "2026-10-09T11:43:28+00:00",
-   "summary": "ISLAMABAD: Short-term inflation rose to 11.97 per cent year-on-year in the week ending Oct 8, driven largely by higher food prices , particularly wheat flour, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The Sensitive Price Index (SPI), which tracks short-term inflation, ros…",
-   "image": "https://i.dawn.com/large/2026/10/091615095fad894.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Economic Coordination Committee raises duty on tyre, bike parts import",
-   "url": "https://www.dawn.com/news/2035830/economic-coordination-committee-raises-duty-on-tyre-bike-parts-import",
-   "source": "Dawn",
-   "published": "2026-10-09T02:49:40+00:00",
-   "summary": "ISLAMABAD: The government on Thursday increased additional customs duty (ACD) on import of tyres and motorcycle parts produced locally and approved first-loss coverage for small and medium enterprises and small farmers. The decisions were taken at a meeting of the Economic Coordination Committee (ECC) of the cabinet, p…",
-   "image": "https://i.dawn.com/large/2026/10/09073700f791e34.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Pakistani rupee edges higher against US dollar",
    "url": "https://arynews.tv/pakistani-rupee-edges-higher-against-us-dollar",
    "source": "ARY News",
@@ -195,16 +235,174 @@
    "domestic": true
   },
   {
-   "title": "Houthis claim attack targeting Riyadh airport with ballistic missile",
-   "url": "https://www.brecorder.com/news/40443839/houthis-claim-attack-targeting-riyadh-airport-with-ballistic-missile",
+   "title": "PSX: buying returns at bourse, KSE-100 up over 900 points",
+   "url": "https://www.brecorder.com/news/40443957/psx-buying-returns-at-bourse-kse-100-up-over-900-points",
    "source": "Business Recorder",
-   "published": "2026-10-12T19:37:58+00:00",
-   "summary": "SANAA: Yemen’s Houthis claimed an attack targeting Riyadh’s international airport on Monday, after a Saudi-led coalition said it had shot down a missile over the capital. Also read: One dead in new attack on Saudi airport, a day after Houthi strike kills 13 “Our armed forces were able to target (King) Khalid Internatio…",
-   "image": "https://i.brecorder.com/large/2026/10/1300370558e9b55.webp",
+   "published": "2026-10-13T04:52:33+00:00",
+   "summary": "Buying returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 900 points during the opening minutes of trading on Tuesday. At 9:40am, the benchmark index was hovering at 166,068.84, up 944.43 points or 0.57%. Buying was observed in key sectors, including automobile assemblers, ceme…",
+   "image": "https://i.brecorder.com/large/2026/10/13095218563fc9c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan and IMF: A universal cure for all diseases",
+   "url": "https://www.brecorder.com/news/40443835/pakistan-and-imf-a-universal-cure-for-all-diseases",
+   "source": "Business Recorder",
+   "published": "2026-10-13T04:00:05+00:00",
+   "summary": "The International Monetary Fund (IMF) staff and Pakistan reached a staff-level agreement on the fourth review of the $7-billion Extended Fund Facility (EFF) and the third review of the Resilience and Sustainability Facility (RSF) last week. The staff-level agreement is subject to approval by the IMF Executive Board. As…",
+   "image": "https://i.brecorder.com/large/2026/10/12224844ffaff36.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports",
+   "url": "https://www.brecorder.com/news/40443956/ntt-data-in-final-talks-to-build-anthropics-first-data-centre-in-japan-nikkei-reports",
+   "source": "Business Recorder",
+   "published": "2026-10-13T03:25:22+00:00",
+   "summary": "TOKYO: Japan’s NTT Data Group, a unit of ​telecommunications giant NTT, is ‌in the final stages of talks to build a data ​centre in Osaka, western ​Japan, for US AI company ⁠Anthropic, the Nikkei business daily ​reported on Tuesday, citing ​multiple sources. Construction costs could reach up to 1 trillion yen ($6.3 bil…",
+   "image": "https://i.brecorder.com/large/2026/10/130824282d17ad4.webp",
    "topics": [
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "AI boom bolstered growth in global trade, benefiting China and India, IMF says",
+   "url": "https://www.brecorder.com/news/40443954/ai-boom-bolstered-growth-in-global-trade-benefiting-china-and-india-imf-says",
+   "source": "Business Recorder",
+   "published": "2026-10-13T03:10:28+00:00",
+   "summary": "BANGKOK: The strong demand for AI has ​bolstered growth in China, ‌India and other Asian countries, outpacing the overall growth in ​global trade, IMF ​chief economist Silvana Tenreyro said ⁠on Tuesday. Global trade would ​have grown at a ​far slower rate without the AI boost, Tenreyro told reporters at ​the annual mee…",
+   "image": "https://i.brecorder.com/large/2026/10/13080849f076441.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to extend recovery, RBI takes more steps to ease pressure",
+   "url": "https://www.brecorder.com/news/40443953/indian-rupee-to-extend-recovery-rbi-takes-more-steps-to-ease-pressure",
+   "source": "Business Recorder",
+   "published": "2026-10-13T03:07:08+00:00",
+   "summary": "MUMBAI: The Indian rupee is set to build on its recovery at Tuesday’s open after the Reserve ​Bank of India announced more measures to alleviate ‌pressure on the currency. The Indian rupee is expected to open in the 95.50 to 95.60 range, per traders, having rallied 1% to settle ​at 95.77 to the dollar on Monday. The ru…",
+   "image": "https://i.brecorder.com/large/2026/10/130805482583ec0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar holds near 18-month high as geopolitical risks rise",
+   "url": "https://www.brecorder.com/news/40443950/dollar-holds-near-18-month-high-as-geopolitical-risks-rise",
+   "source": "Business Recorder",
+   "published": "2026-10-13T02:56:38+00:00",
+   "summary": "SINGAPORE: The dollar held its ground at the start of Asian trading on Tuesday after a holiday for some markets in the US, as ​geopolitical risks rose after renewed attacks on energy infrastructure in the Middle ‌East and Ukraine. The US dollar index , which measures the greenback’s strength against a basket of six cur…",
+   "image": "https://i.brecorder.com/large/2026/10/13075534d78480b.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
+   "url": "https://www.brecorder.com/news/40443949/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds",
+   "source": "Business Recorder",
+   "published": "2026-10-13T02:51:58+00:00",
+   "summary": "BEIJING: Nvidia’s share of China’s market for data-centre AI chips fell to 34% in the first half of 2026 , as US export controls restricted supplies of its products and domestic rivals led by Huawei gained ground, according to an IDC report seen by ​Reuters. Nvidia shipped 678,000 AI accelerators in China from January …",
+   "image": "https://i.brecorder.com/large/2026/10/13075005a1f5b7e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares on track for muted open as inflation strengthens rate-hike concerns",
+   "url": "https://www.brecorder.com/news/40443948/indian-shares-on-track-for-muted-open-as-inflation-strengthens-rate-hike-concerns",
+   "source": "Business Recorder",
+   "published": "2026-10-13T02:49:19+00:00",
+   "summary": "Indian equities were poised for a muted open on Tuesday as investors monitored Middle East tensions and elevated crude oil prices , while a faster-than-expected rise in retail inflation strengthened ​the case for further interest rate hikes. GIFT Nifty futures were at 22,423.5 at ‌7:50 a.m. IST, indicating a muted star…",
+   "image": "https://i.brecorder.com/large/2026/10/13074701e69ab61.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian stocks dive as focus on earnings, geopolitics",
+   "url": "https://www.brecorder.com/news/40443947/asian-stocks-dive-as-focus-on-earnings-geopolitics",
+   "source": "Business Recorder",
+   "published": "2026-10-13T02:46:16+00:00",
+   "summary": "SINGAPORE: Asian equities fell sharply on Tuesday led ​by technology shares as a widening conflict in the Middle East kept oil prices elevated, supporting the dollar ‌ahead of an earnings season that will set the tone for the rest of the year. Energy prices are back driving global markets as investors weigh the geopoli…",
+   "image": "https://i.brecorder.com/large/2026/10/1307453541fe0c7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold eases on firm dollar; spotlight on US inflation data",
+   "url": "https://www.brecorder.com/news/40443945/gold-eases-on-firm-dollar-spotlight-on-us-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-10-13T02:32:53+00:00",
+   "summary": "Gold prices eased on Tuesday ​as the US dollar held firm, while markets focused on upcoming ‌US inflation prints for fresh signals on the Federal Reserve’s interest-rate trajectory. Spot gold fell 0.2% to $4,164.45 per ounce by 0201 GMT after hitting a one-week peak on Monday. US ​gold futures for December delivery fel…",
+   "image": "https://i.brecorder.com/large/2026/10/13073121ed3c2ff.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Riyadh airport to remain shut this week",
+   "url": "https://www.brecorder.com/news/40443932/riyadh-airport-to-remain-shut-this-week",
+   "source": "Business Recorder",
+   "published": "2026-10-13T01:25:13+00:00",
+   "summary": "RIYADH: Authorities have extended the closure of Riyadh’s international airport until Saturday and airlines scrapped flights after continuing attacks by Yemen’s Houthis emptied the skies over Saudi Arabia’s capital. Operations at King Khalid International Airport, Saudi Arabia’s second-busiest airport after Jeddah, wer…",
+   "image": "https://i.brecorder.com/large/2026/10/130625156e0ee5f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Deadly airport attacks: Saudi says resilience tested, vows response",
+   "url": "https://www.brecorder.com/news/40443930/deadly-airport-attacks-saudi-says-resilience-tested-vows-response",
+   "source": "Business Recorder",
+   "published": "2026-10-13T00:50:45+00:00",
+   "summary": "RIYADH: Saudi Arabia’s energy minister on Monday said the country had been tested but would mount a “serious” response after a string of attacks on Riyadh’s international airport by Yemen’s Houthis that left 18 people dead. Lethal airport strikes since last week have rocked the world’s top oil exporter, which is pursui…",
+   "image": "https://i.brecorder.com/large/2026/10/13055024ac003d8.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices rise by nearly USD2",
+   "url": "https://www.brecorder.com/news/40443931/oil-prices-rise-by-nearly-usd2",
+   "source": "Business Recorder",
+   "published": "2026-10-13T00:42:43+00:00",
+   "summary": "NEW YORK/LONDON: Oil prices rose by nearly USD2 a barrel on Monday as attacks on Saudi Arabia outweighed the prospect of increased supplies, even as US President Donald Trump hailed fresh Russian diesel exports and a Russia-Ukraine ceasefire on energy targets. Brent crude futures settled up USD1.93, or 1.8 percent, at …",
+   "image": "https://i.brecorder.com/large/2026/10/13053953981fecd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -214,19 +412,6 @@
    "published": "2026-10-12T16:53:57+00:00",
    "summary": "Britain’s FTSE 100 edged higher on Monday, buoyed by financials and medical equipment stocks as investors looked ahead to crucial US inflation data and UK GDP readings due this week for fresh insight into the economic outlook. The blue-chip FTSE 100 index rose nearly 1% to 10,656.28 points, while the midcap FTSE 250 cl…",
    "image": "https://i.brecorder.com/large/2026/10/12215336988f2d8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Trump defends Russia diesel deal as lawmakers from both parties complain",
-   "url": "https://www.brecorder.com/news/40443832/trump-defends-russia-diesel-deal-as-lawmakers-from-both-parties-complain",
-   "source": "Business Recorder",
-   "published": "2026-10-12T15:46:57+00:00",
-   "summary": "WASHINGTON: President Donald Trump on Monday defended a diesel oil deal he made with Russia as lawmakers from both parties complained the agreement appears to violate US law barring imports of Russian energy until Moscow ends its aggression against Ukraine. Trump said he is taking steps to bring down high fuel prices, …",
-   "image": "https://i.brecorder.com/large/2026/10/1220463448b7e80.webp",
    "topics": [
     "Economy"
    ],
@@ -244,45 +429,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling pressure at bourse, KSE-100 falls nearly 2,000 points amid political volatility",
-   "url": "https://www.brecorder.com/news/40443776/psx-selling-pressure-at-bourse-kse-100-falls-nearly-2000-points-amid-political-volatility",
-   "source": "Business Recorder",
-   "published": "2026-10-12T14:21:12+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a bearish trading session on Monday, with the benchmark KSE-100 Index shedding nearly 2,000 points amid rising political noise on the domestic front. The benchmark KSE-100 Index opened the session and initially surged to an intraday high of 166,988.32, but failed to sustain t…",
-   "image": "https://i.brecorder.com/large/2026/10/120953550b6589f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia faces new missile and drone fire after major attacks on airports",
-   "url": "https://www.brecorder.com/news/40443828/saudi-arabia-faces-new-missile-and-drone-fire-after-major-attacks-on-airports",
-   "source": "Business Recorder",
-   "published": "2026-10-12T14:15:47+00:00",
-   "summary": "RIYADH: Saudi Arabia said it was facing a new barrage of incoming fire on Monday and that Riyadh airport would remain shut for now, days after Saturday’s deadly missile strike on a departure terminal that was claimed by Yemen’s Houthis . Incoming drones and missiles were reported by the government forces in Yemen, thou…",
-   "image": "https://i.brecorder.com/large/2026/10/121915322c98f17.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia eyes raising its pipeline oil export capacity to 10 million bpd, energy minister says",
-   "url": "https://www.brecorder.com/news/40443824/saudi-arabia-eyes-raising-its-pipeline-oil-export-capacity-to-10-million-bpd-energy-minister-says",
-   "source": "Business Recorder",
-   "published": "2026-10-12T12:50:16+00:00",
-   "summary": "DUBAI: Saudi Arabia is looking to expand its pipeline crude export capacity to as much as 10 million barrels per day by repurposing a domestic gas pipeline and investing in its existing East-West network, Energy Minister Prince Abdulaziz bin Salman said on Monday. Saudi Arabia could add up to 1.2 million barrels per da…",
-   "image": "https://i.brecorder.com/large/2026/10/121748593620700.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -309,33 +455,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption",
-   "url": "https://www.brecorder.com/news/40443818/imf-says-ai-investment-keeps-global-growth-around-3-but-brings-massive-disruption",
-   "source": "Business Recorder",
-   "published": "2026-10-12T11:41:08+00:00",
-   "summary": "BANGKOK: Strong investment in AI infrastructure is keeping global growth at around 3% with major benefits for Asia, but also foreshadows a “slow-moving tsunami” that could massively disrupt labor markets, taxation and education, International Monetary Fund Managing Director Kristalina Georgieva said on Monday. The arti…",
-   "image": "https://i.brecorder.com/large/2026/10/121637452ed921b.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Aurangzeb assumes chairmanship of Borrowers’ Platform",
-   "url": "https://www.brecorder.com/news/40443812/aurangzeb-assumes-chairmanship-of-borrowers-platform",
-   "source": "Business Recorder",
-   "published": "2026-10-12T11:36:47+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb accepted the chairmanship of the Governing Council of the Borrowers’ Platform on behalf of Pakistan on the sidelines of the World Bank Group–IMF Annual Meetings 2026 in Bangkok, Thailand. He acknowledged Egypt’s leadership and the contributions of member countries and the secretariat…",
-   "image": "https://i.brecorder.com/large/2026/10/1215540952c1e70.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -417,71 +536,6 @@
    "domestic": false
   },
   {
-   "title": "Yuan holds near 3-1/2-year high against dollar as rate bets ease",
-   "url": "https://www.brecorder.com/news/40443785/yuan-holds-near-3-12-year-high-against-dollar-as-rate-bets-ease",
-   "source": "Business Recorder",
-   "published": "2026-10-12T06:15:24+00:00",
-   "summary": "SHANGHAI: China’s yuan hovered near a 3-1/2-year against the dollar on Monday, as reduced expectations of an October US rate hike lent support, while simmering trade tensions could cloud the outlook. The yuan’s appreciation is also being tamed by China’s widening yield gap with the US, while jitters over Europe’s debt …",
-   "image": "https://i.brecorder.com/large/2026/10/121115024b1bc5d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China stocks fall as higher global yields, geopolitical tensions weigh",
-   "url": "https://www.brecorder.com/news/40443784/china-stocks-fall-as-higher-global-yields-geopolitical-tensions-weigh",
-   "source": "Business Recorder",
-   "published": "2026-10-12T06:13:24+00:00",
-   "summary": "SHANGHAI: China stocks fell on Monday, as Beijing’s supportive gestures failed to steady a sliding market, with investors unsettled by higher global interest rates and rising geopolitical tensions. The US launching probes into technology firms including Luxshare Precision Industry and Foxconn Industrial Internet furthe…",
-   "image": "https://i.brecorder.com/large/2026/10/121112570654312.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "RBI liquidity measures may pressure India bonds; rupee rally to limit losses",
-   "url": "https://www.brecorder.com/news/40443782/rbi-liquidity-measures-may-pressure-india-bonds-rupee-rally-to-limit-losses",
-   "source": "Business Recorder",
-   "published": "2026-10-12T06:06:07+00:00",
-   "summary": "MUMBAI: Indian government bonds could open the week under mild selling pressure after the central bank announced measures to absorb banking-system liquidity, although expectations of a sharp rupee rally may help limit losses. The benchmark 6.94% 2036 bond yield may trade in a 7.26%-7.32% band, a trader with a primary d…",
-   "image": "https://i.brecorder.com/large/2026/10/12110545081e6b8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China holds intensive talks on hybrid, EV trade with EU",
-   "url": "https://www.brecorder.com/news/40443778/china-holds-intensive-talks-on-hybrid-ev-trade-with-eu",
-   "source": "Business Recorder",
-   "published": "2026-10-12T05:47:02+00:00",
-   "summary": "BEIJING: China and the European Union held “intensive consultations” on the trade of hybrid and electric vehicles, as well as efforts to balance economic and trade concerns, the commerce ministry said on Monday. On hybrid vehicles, both sides agreed that the export quota given to China would not be lower than quotas al…",
-   "image": "https://i.brecorder.com/large/2026/10/12104536059952b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold gains on weaker oil, dollar; US inflation data in focus",
-   "url": "https://www.brecorder.com/news/40443775/gold-gains-on-weaker-oil-dollar-us-inflation-data-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-10-12T03:25:42+00:00",
-   "summary": "Gold rose on Monday , supported by a ‌softer dollar and lower oil prices , as investors awaited key US inflation data this week for clues on the Federal Reserve’s next policy move. Spot gold was up 0.3% at $4,206.01 per ounce, as ​of 0253 GMT, after hitting its highest since October 2 earlier in the ​day. US gold futur…",
-   "image": "https://i.brecorder.com/large/2026/10/12082146dabe54b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX plunges nearly 1,965 points amid domestic political clamour",
    "url": "https://tribune.com.pk/story/2634404/k-p-emergency-fuels-psx-sell-off-as-index-drops-over-700-points",
    "source": "The Express Tribune",
@@ -492,19 +546,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom",
-   "url": "https://www.brecorder.com/news/40443769/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom",
-   "source": "Business Recorder",
-   "published": "2026-10-12T02:51:36+00:00",
-   "summary": "TAIPEI: TSMC, the world’s largest manufacturer of advanced AI chips, will likely report a sixth consecutive ‌quarter of record earnings, driven by booming infrastructure spending in the tech sector. Analysts say demand for Taiwan Semiconductor Manufacturing Co’s (TSMC) AI chipmaking capacity, as well as its advanced ch…",
-   "image": "https://i.brecorder.com/large/2026/10/1207495245a3858.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
