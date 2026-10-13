@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-12T17:21:20+00:00",
- "count": 52,
- "relevant_count": 25,
- "domestic_count": 15,
+ "generated": "2026-10-12T23:47:41+00:00",
+ "count": 51,
+ "relevant_count": 24,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (18)",
+  "Dawn": "ok (17)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (9)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "PM Shehbaz directs FBR to complete digital production monitoring system across major industries by year end",
+   "url": "https://www.dawn.com/news/2036676/pm-shehbaz-directs-fbr-to-complete-digital-production-monitoring-system-across-major-industries-by-year-end",
+   "source": "Dawn",
+   "published": "2026-10-12T19:11:33+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday directed the Federal Board of Revenue (FBR) to complete the digital monitoring system of sales production in major industries by the end of December, as part of efforts to narrow the gap between actual and potential tax collection. Chairing a meeting in Islamabad to re…",
+   "image": "https://i.dawn.com/large/2026/10/12231231688c02f.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40443811/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -169,34 +182,6 @@
    "domestic": true
   },
   {
-   "title": "Tax-free livestock import scheme launched",
-   "url": "https://www.dawn.com/news/2035829/tax-free-livestock-import-scheme-launched",
-   "source": "Dawn",
-   "published": "2026-10-09T02:04:27+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has issued new rules allowing duty- and tax-free imports of live cattle, sheep, and goats for fattening and subsequent export, either as live animals or as processed meat. The facility is offered under a new scheme to facilitate export-oriented livestock and meat processing…",
-   "image": "https://i.dawn.com/large/2026/10/090733558589a62.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PSX retreats despite $1.2bn IMF lifeline",
-   "url": "https://www.dawn.com/news/2035822/psx-retreats-despite-12bn-imf-lifeline",
-   "source": "Dawn",
-   "published": "2026-10-09T02:04:27+00:00",
-   "summary": "KARACHI: Amid persistent volatility stemming from regional and political concerns, the Pakistan Stock Exchange (PSX) faltered on Thursday after staging an early rally driven by a staff-level agreement (SLA) between Pakistan and the visiting International Monetary Fund (IMF) staff mission. Strong buying at attractive va…",
-   "image": "https://i.dawn.com/large/2026/10/09071942e0921cc.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Pakistani rupee edges higher against US dollar",
    "url": "https://arynews.tv/pakistani-rupee-edges-higher-against-us-dollar",
    "source": "ARY News",
@@ -208,6 +193,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Houthis claim attack targeting Riyadh airport with ballistic missile",
+   "url": "https://www.brecorder.com/news/40443839/houthis-claim-attack-targeting-riyadh-airport-with-ballistic-missile",
+   "source": "Business Recorder",
+   "published": "2026-10-12T19:37:58+00:00",
+   "summary": "SANAA: Yemen’s Houthis claimed an attack targeting Riyadh’s international airport on Monday, after a Saudi-led coalition said it had shot down a missile over the capital. Also read: One dead in new attack on Saudi airport, a day after Houthi strike kills 13 “Our armed forces were able to target (King) Khalid Internatio…",
+   "image": "https://i.brecorder.com/large/2026/10/1300370558e9b55.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "FTSE 100 ends higher as financial, medical stocks offset crude price hit",
@@ -518,19 +516,6 @@
    "image": null,
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Need for National Tax Court",
-   "url": "https://tribune.com.pk/story/2634305/need-for-national-tax-court",
-   "source": "The Express Tribune",
-   "published": "2026-10-11T16:05:40+00:00",
-   "summary": "Such court should absorb appellate jurisdiction presently fragmented between Inland Revenue and Customs",
-   "image": null,
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
