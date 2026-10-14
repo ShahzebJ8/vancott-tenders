@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-14T09:00:27+00:00",
- "count": 52,
- "relevant_count": 21,
- "domestic_count": 12,
+ "generated": "2026-10-14T14:23:14+00:00",
+ "count": 49,
+ "relevant_count": 19,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (19)",
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40444187/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-14T11:29:18+00:00",
+   "summary": "The Pakistani rupee stretched its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 276.95, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 276.96 against the dollar. Internationally, the US dollar languished on Wednesday as t…",
+   "image": "https://i.brecorder.com/large/2026/10/141615309eb28d9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Nervous selling drags index below 165,000",
    "url": "https://www.dawn.com/news/2037004/nervous-selling-drags-index-below-165000",
@@ -156,6 +169,19 @@
    "domestic": true
   },
   {
+   "title": "K-Electric ends temporary load shedding in Karachi",
+   "url": "https://arynews.tv/k-electric-ends-temporary-load-shedding-in-karachi",
+   "source": "ARY News",
+   "published": null,
+   "summary": "K-Electric ends temporary load shedding in Karachi",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/K-electric-load-shedding.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
    "title": "Pakistani rupee edges higher against US dollar",
    "url": "https://arynews.tv/pakistani-rupee-edges-higher-against-us-dollar",
    "source": "ARY News",
@@ -167,6 +193,98 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Gulf markets mixed; Saudi stocks hardest hit on Aramco attack",
+   "url": "https://www.brecorder.com/news/40444204/gulf-markets-mixed-saudi-stocks-hardest-hit-on-aramco-attack",
+   "source": "Business Recorder",
+   "published": "2026-10-14T13:45:50+00:00",
+   "summary": "Gulf stock markets closed mixed on Wednesday, with Saudi shares leading losses after an attack on Saudi Aramco headquarters deepened fears of an escalating conflict between the kingdom and Yemen’s Houthis. Houthis vowed on Wednesday to continue targeting Saudi airports and oil facilities, a day after a strike that sour…",
+   "image": "https://i.brecorder.com/large/2026/10/14184318a64b6be.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+   "url": "https://www.brecorder.com/news/40444197/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit",
+   "source": "Business Recorder",
+   "published": "2026-10-14T12:55:02+00:00",
+   "summary": "RIYADH/DUBAI: Yemen’s Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi Aramco. Houthis said the threatened locations were legitimate targets and described their attack…",
+   "image": "https://i.brecorder.com/large/2026/10/141732503d581a8.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant",
+   "url": "https://www.brecorder.com/news/40444199/hyundai-motor-india-to-invest-116-billion-to-expand-capacity-at-pune-city-plant",
+   "source": "Business Recorder",
+   "published": "2026-10-14T12:48:56+00:00",
+   "summary": "Hyundai Motor India plans to invest 110 billion rupees ($1.16 billion) in its Pune city plant to scale up the facility’s annual production capacity by nearly 90% by 2030, the automaker said on Wednesday. The move comes a day after parent Hyundai Motor Group said it would invest $15.5 billion in India through 2032, posi…",
+   "image": "https://i.brecorder.com/large/2026/10/141748293cbb417.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper edges to 3-week high as supply concerns mount",
+   "url": "https://www.brecorder.com/news/40444198/copper-edges-to-3-week-high-as-supply-concerns-mount",
+   "source": "Business Recorder",
+   "published": "2026-10-14T12:45:55+00:00",
+   "summary": "Copper climbed to its highest in three weeks on Wednesday, aided by supply concerns in top producer Chile, as investors awaited the release of US inflation data. Benchmark three-month copper on the London Metal Exchange rose 0.4% to $14,630 a metric ton in official open-outcry trading. It earlier rose to $14,695, its h…",
+   "image": "https://i.brecorder.com/large/2026/10/141745441cfe758.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India bonds sink deeper on RBI commentary, inflation concerns",
+   "url": "https://www.brecorder.com/news/40444194/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns",
+   "source": "Business Recorder",
+   "published": "2026-10-14T12:18:28+00:00",
+   "summary": "MUMBAI: Indian government bonds extended losses on Wednesday, driving the 10-year yield to its highest since March 2023, as hawkish remarks from the central bank chief and rising oil-led inflation concerns prompted tradersto further pare their positions. The benchmark 6.94% 2036 bond surged 3.5 basis points to 7.3999%,…",
+   "image": "https://i.brecorder.com/large/2026/10/14171715f0abd40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee extends rise but falters past 95/USD on importer hedging, outflows",
+   "url": "https://www.brecorder.com/news/40444183/indian-rupee-extends-rise-but-falters-past-95usd-on-importer-hedging-outflows",
+   "source": "Business Recorder",
+   "published": "2026-10-14T10:41:20+00:00",
+   "summary": "MUMBAI: The Indian rupee rose for a third consecutive session on Wednesday to hit a more than one-month peak as the central bank followed up tough regulatory measures with hawkish commentary. However, the gains were capped below the 95 per dollar mark as dollar demand linked to importer hedging and portfolio outflows p…",
+   "image": "https://i.brecorder.com/large/2026/10/14154101233fa5a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares end lower as higher oil prices, foreign outflows dent appetite",
+   "url": "https://www.brecorder.com/news/40444182/indian-shares-end-lower-as-higher-oil-prices-foreign-outflows-dent-appetite",
+   "source": "Business Recorder",
+   "published": "2026-10-14T10:37:50+00:00",
+   "summary": "Indian shares closed lower on Wednesday as firmer oil prices and sustained foreign outflows weighed on risk sentiment after a rebound in the previous session, while investors assessed earnings and awaited key US inflation data. The Nifty 50 fell 0.44% to 22,622.70, while the BSE Sensex dipped 0.34% to 72,781.89. Eight …",
+   "image": "https://i.brecorder.com/large/2026/10/14153736e08ac77.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Euro zone bond yields slightly lower; inflation, rate outlook in focus",
@@ -206,45 +324,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "From pilot to policy: how “Digital Eye” helped shape FBR’s production-monitoring framework",
-   "url": "https://www.brecorder.com/news/40444171/from-pilot-to-policy-how-digital-eye-helped-shape-fbrs-production-monitoring-framework",
-   "source": "Business Recorder",
-   "published": "2026-10-14T07:39:38+00:00",
-   "summary": "The Federal Board of Revenue (FBR) is expanding production monitoring across Pakistan’s manufacturing sector, authorising new private technology providers and bringing additional industries within the country’s digital taxcompliance framework. The latest expansion, formalised through SRO 1751 of 2026, includes the leat…",
-   "image": "https://i.brecorder.com/large/2026/10/14123930efa6a55.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PD says no fresh CCI approval needed for DISCO privatisation",
-   "url": "https://www.brecorder.com/news/40444170/pd-says-no-fresh-cci-approval-needed-for-disco-privatisation",
-   "source": "Business Recorder",
-   "published": "2026-10-14T07:38:17+00:00",
-   "summary": "Privatisation Division (PD) has maintained that fresh approval from the Council of Common Interests (CCI) is not required to privatise power distribution companies (DISCOs), citing earlier decisions of the constitutional body and the National Electricity Policy. In a response submitted to a Sub Committee of the Senate’…",
-   "image": "https://i.brecorder.com/large/2026/10/1412374324ae700.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UK finance minister Healey set to pay for budget giveaways without more borrowing, FT reports",
-   "url": "https://www.brecorder.com/news/40444168/uk-finance-minister-healey-set-to-pay-for-budget-giveaways-without-more-borrowing-ft-reports",
-   "source": "Business Recorder",
-   "published": "2026-10-14T07:33:27+00:00",
-   "summary": "UK Finance Minister John Healey is expected to pay for all new giveaways in this month’s budget, including a cost-of-living package, with higher taxes or spending cuts rather than more borrowing, the Financial Times reported on Wednesday. Time ‘to put pressure on Putin’: UK defence minister The October 28 fiscal packag…",
-   "image": "https://i.brecorder.com/large/2026/10/141232550c59ec9.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -358,97 +437,6 @@
    "published": "2026-10-14T06:35:05+00:00",
    "summary": "SHANGHAI: China’s yuan firmed slightly against the dollar on Wednesday as investors parsed a mixed set of domestic inflation readings and braced for US consumer price data due later in the day that could shape the outlook for Federal Reserve policy. Chinese producer prices rose at their fastest pace in more than four y…",
    "image": "https://i.brecorder.com/large/2026/10/14113335026749a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar steadies, markets await jobs data for steer on rates",
-   "url": "https://www.brecorder.com/news/40444149/australian-dollar-steadies-markets-await-jobs-data-for-steer-on-rates",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:13:25+00:00",
-   "summary": "SYDNEY: The Australian and New Zealand dollars looked a little steadier on Wednesday as the greenback’s bull run took a breather, though both were still uncomfortably close to major support levels. The Aussie was a fraction firmer at $0.6987, having bounced almost 0.4% overnight. A break of resistance at $0.6995 would …",
-   "image": "https://i.brecorder.com/large/2026/10/141113101fa13e0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar steady on Wednesday",
-   "url": "https://www.brecorder.com/news/40444148/thai-bahtus-dollar-steady-on-wednesday",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:11:53+00:00",
-   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Wednesday. At 0225 GMT, the baht was 0.03% lower at 33.55 versus the dollar, after trading in a range of 33.550 to 33.610. It ended the previous session at 33.54 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/14111126285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling continues, KSE-100 down nearly 500 points",
-   "url": "https://www.brecorder.com/news/40444143/psx-selling-continues-kse-100-down-nearly-500-points",
-   "source": "Business Recorder",
-   "published": "2026-10-14T05:23:16+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding nearly 500 points during the opening minutes of trading on Wednesday. At 10am, the benchmark index was hovering at 164,293.10, down 483.34 points or 0.29%. Selling was observed in key sectors, including automob…",
-   "image": "https://i.brecorder.com/large/2026/10/14103236575b28b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan expects over 4% growth, diversify financing with Panda bonds, Sukuk: Aurangzeb",
-   "url": "https://www.brecorder.com/news/40444142/pakistan-expects-over-4-growth-diversify-financing-with-panda-bonds-sukuk-aurangzeb",
-   "source": "Business Recorder",
-   "published": "2026-10-14T05:07:06+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb told international investors that Pakistan expects economic growth of 4% or higher this fiscal year, while highlighting fiscal improvements and plans to diversify the country’s financing sources. Aurangzeb participated in the Citi Macro Forum Session and briefed international investo…",
-   "image": "https://i.brecorder.com/large/2026/10/1410044579d281b.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to build on rally after RBI chief reinforces currency support",
-   "url": "https://www.brecorder.com/news/40444141/indian-rupee-to-build-on-rally-after-rbi-chief-reinforces-currency-support",
-   "source": "Business Recorder",
-   "published": "2026-10-14T03:22:53+00:00",
-   "summary": "MUMBAI: The Indian rupee is poised to extend its rally on Wednesday after the central bank’s steps to support the currency were ​reinforced by the governor’s indication that further measures remain an option. The ‌Indian rupee is expected to open in the 95.04-95.12 range, traders said, after settling at 95.28 to the do…",
-   "image": "https://i.brecorder.com/large/2026/10/14082107eaf8f98.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold prices hold firm ahead of US inflation data",
-   "url": "https://www.brecorder.com/news/40444139/gold-prices-hold-firm-ahead-of-us-inflation-data",
-   "source": "Business Recorder",
-   "published": "2026-10-14T03:17:36+00:00",
-   "summary": "Gold prices were little changed on Wednesday as investors braced ‌for US consumer price index data due later in the day to gauge the Federal Reserve’s latest monetary policy stance. Spot gold held steady at $4,159.45 per ounce by 0251 GMT. US gold futures for December ​delivery edged 0.1% higher to $4,182.60. “What we’…",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's exports surge 36.3% y/y in September, imports up 31%",
-   "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31",
-   "source": "Business Recorder",
-   "published": "2026-10-14T03:07:51+00:00",
-   "summary": "BEIJING: China’s exports in ​September soared 36.3% ‌from a year earlier in ​US dollar ​terms, far outpacing forecasts, ⁠while imports ​grew 31%, customs ​data showed on Wednesday. China holds intensive talks on hybrid, EV trade with EU A Reuters poll of ​economists forecast ​that exports rose 25.5% ‌year-on-year, ⁠ver…",
-   "image": "https://i.brecorder.com/large/2026/10/14080646e63b80b.webp",
    "topics": [
     "Economy"
    ],
@@ -574,19 +562,6 @@
    "domestic": false
   },
   {
-   "title": "International Monetary Fund borrowers face debt strain",
-   "url": "https://www.dawn.com/news/2036242/international-monetary-fund-borrowers-face-debt-strain",
-   "source": "Dawn",
-   "published": "2026-10-11T02:36:40+00:00",
-   "summary": "WASHINGTON: Nearly half of the countries eligible for concessional financing from the International Monetary Fund (IMF) are either in debt distress or at high risk of it, while their interest payments have quadrupled since 2013, Transparency International (TI) says. In a report released ahead of the IMF and World Bank …",
-   "image": "https://i.dawn.com/large/2026/10/110734369cc4cdd.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Businesses seek industrial tariff below 9 cents",
    "url": "https://tribune.com.pk/story/2634134/businesses-seek-industrial-tariff-below-9-cents",
    "source": "The Express Tribune",
@@ -676,19 +651,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold prices drop in Pakistan as firm dollar weighs on bullion",
-   "url": "https://arynews.tv/gold-prices-drop-in-pakistan-as-firm-dollar-weighs-on-bullion",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Gold prices drop in Pakistan as firm dollar weighs on bullion",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Gold.jpg.jpeg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
