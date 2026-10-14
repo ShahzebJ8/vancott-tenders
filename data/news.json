@@ -1,22 +1,87 @@
 {
- "generated": "2026-10-13T23:39:03+00:00",
- "count": 54,
- "relevant_count": 28,
- "domestic_count": 20,
+ "generated": "2026-10-14T03:20:17+00:00",
+ "count": 52,
+ "relevant_count": 24,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (16)",
+  "Dawn": "ok (16)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (6)"
  },
  "stories": [
   {
-   "title": "Cold-rolled steel coils & sheets: NTC extends anti-dumping duties for 5 more years",
-   "url": "https://www.brecorder.com/news/40444097/cold-rolled-steel-coils-amp-sheets-ntc-extends-anti-dumping-duties-for-5-more-years",
+   "title": "Quarterly auto sales rise despite sluggish September",
+   "url": "https://www.dawn.com/news/2037009/quarterly-auto-sales-rise-despite-sluggish-september",
+   "source": "Dawn",
+   "published": "2026-10-14T03:03:46+00:00",
+   "summary": "KARACHI: Despite a 12 per cent year-on-year and 3pc month-on-month drop in sales of cars, SUVs, pickups and vans to 15,104 units in September, cumulative sales rose 19pc in 1QFY27 to 50,480 units. Sania Irfan of Topline Securities attributed the decline in total sales to delayed clarity on the HEV/PHEV sales tax policy…",
+   "image": "https://i.dawn.com/large/2026/10/140757422a280c8.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Exporters seek govt support to stem decline",
+   "url": "https://www.dawn.com/news/2037010/exporters-seek-govt-support-to-stem-decline",
+   "source": "Dawn",
+   "published": "2026-10-14T02:55:49+00:00",
+   "summary": "ISLAMABAD: Textile and clothing exporters have urged the government to introduce structural reforms and provide temporary financial support to arrest the sector’s downturn and protect Pakistan’s share in international markets amid mounting global competition. The proposals were laid out at a high-level meeting, chaired…",
+   "image": "https://i.dawn.com/large/2026/10/1407542062bfdd7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistani youth face job crisis",
+   "url": "https://www.dawn.com/news/2037008/pakistani-youth-face-job-crisis",
+   "source": "Dawn",
+   "published": "2026-10-14T02:02:30+00:00",
+   "summary": "ISLAMABAD: Only seven per cent of Pakistan’s youth have access to formal technical and vocational training against the regional average of 22pc, and the World Bank estimates that this skill gap costs Pakistan $31.5 billion annually in lost productivity and unrealised export potential. “How to boost youth employment in …",
+   "image": "https://i.dawn.com/large/2026/10/14081117557f273.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Gulshan town: Construction, rehabilitation of streets under way: Monem",
+   "url": "https://www.brecorder.com/news/40444119/gulshan-town-construction-rehabilitation-of-streets-under-way-monem",
    "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "ISLAMABAD: The National Tariff Commission (NTC) has extended anti-dumping duties on imports of cold-rolled steel coils and sheets originating in or exported from China for another five years, citing the likelihood of continued dumping and material injury to Pakistan’s domestic steel industry if the duties are withdrawn…",
-   "image": "https://i.brecorder.com/large/2026/10/140159380faeffa.webp",
+   "published": "2026-10-14T01:48:50+00:00",
+   "summary": "KARACHI: Jamaat-e-Islami (JI) Karachi chief Monem Zafar has said that construction and rehabilitation work on more than 1,005 streets and roads has begun in Gulshan-e-Iqbal Town under JI’s administration. Speaking at a press conference at the Town Office on Tuesday, alongside JI East District chief Naeem Akhtar and Tow…",
+   "image": "https://i.brecorder.com/large/2026/10/14064827c14f050.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Export-led growth requires business-friendly environment: LCCI",
+   "url": "https://www.brecorder.com/news/40444121/export-led-growth-requires-business-friendly-environment-lcci",
+   "source": "Business Recorder",
+   "published": "2026-10-14T01:43:27+00:00",
+   "summary": "LAHORE: The Lahore Chamber of Commerce and Industry (LCCI) has called for a business-friendly environment, simplified regulations and effective government facilitation to boost exports, accelerate industrial growth and achieve sustainable economic development. LCCI President Ali Hussam Asghar expressed these views whil…",
+   "image": "https://i.brecorder.com/large/2026/10/14064324f8ac91b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "‘PPP chooses to stand with state at cost of its own political interests’",
+   "url": "https://www.brecorder.com/news/40444127/ppp-chooses-to-stand-with-state-at-cost-of-its-own-political-interests",
+   "source": "Business Recorder",
+   "published": "2026-10-14T01:25:13+00:00",
+   "summary": "LAHORE: Pakistan Peoples Party (PPP) Secretary General Hamayoun Khan said on Tuesday that protecting the country and its people was more important than politics, adding that the party had chosen to stand with the state at the cost of its own political interests. Speaking at a press conference at the PPP Secretariat in …",
+   "image": "https://i.brecorder.com/large/2026/10/14062456f9cedda.webp",
    "topics": [
     "Economy"
    ],
@@ -27,7 +92,7 @@
    "title": "SBP launches ‘BoE 2026’ policy",
    "url": "https://www.brecorder.com/news/40444100/sbp-launches-boe-2026-policy",
    "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
+   "published": "2026-10-14T00:36:53+00:00",
    "summary": "KARACHI: The State Bank of Pakistan (SBP) has launched the second edition of its Banking on Equality (BoE) policy that aims to further reduce the gender gap and advance women’s financial inclusion in the country. The BoE 2026 is the reflection of SBP’s commitment to create an enabling environment where women can thrive…",
    "image": "https://i.brecorder.com/large/2026/10/14024726c1b6804.webp",
    "topics": [
@@ -37,65 +102,12 @@
    "domestic": true
   },
   {
-   "title": "Omani FM arrives",
-   "url": "https://www.brecorder.com/news/40444101/omani-fm-arrives",
+   "title": "Cold-rolled steel coils & sheets: NTC extends anti-dumping duties for 5 more years",
+   "url": "https://www.brecorder.com/news/40444097/cold-rolled-steel-coils-amp-sheets-ntc-extends-anti-dumping-duties-for-5-more-years",
    "source": "Business Recorder",
    "published": "2026-10-13T23:31:49+00:00",
-   "summary": "ISLAMABAD: Sayyid Badr bin Hamad bin Hamood Albusaidi, Foreign Minister of the Sultanate of Oman, arrived in Islamabad Tuesday on an official visit to Pakistan during 13-14 October 2026. He was received at the airport by Secretary Economic Affairs Division and Additional Secretary (Middle East), Ministry of Foreign Aff…",
-   "image": "https://i.brecorder.com/large/2026/10/14024932239fdbc.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Cashless drive: Govt tightens digital payments oversight, plans tax reforms",
-   "url": "https://www.brecorder.com/news/40444110/cashless-drive-govt-tightens-digital-payments-oversight-plans-tax-reforms",
-   "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "ISLAMABAD: The government has decided to tighten the definitions of active digital payment users and merchants and introduce tax policy reforms to accelerate Prime Minister’s Cashless Pakistan initiative, as the number of merchants accepting electronic payments quadrupled in the last fiscal year. Minister of State for …",
-   "image": "https://i.brecorder.com/large/2026/10/140331347fcf1bf.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "IMF projects 3.5pc growth, 9.9pc inflation",
-   "url": "https://www.brecorder.com/news/40444113/imf-projects-35pc-growth-99pc-inflation",
-   "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has projected Pakistan’s economic growth at 3.5 percent for fiscal year 2026-27, below the government’s 4 percent target but slightly above the global growth forecast of 3.4 percent, while trailing India’s projected 7 percent growth, while inflation in Pakistan is projec…",
-   "image": "https://i.brecorder.com/large/2026/10/14034841f28816b.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Addressing rising costs, arresting decline: PTEA wants 6-8pc DLTL support tied to 10pc rise in exports",
-   "url": "https://www.brecorder.com/news/40444115/addressing-rising-costs-arresting-decline-ptea-wants-6-8pc-dltl-support-tied-to-10pc-rise-in-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "ISLAMABAD: Pakistan’s textile exporters have sought temporary Drawback of Local Taxes and Levies (DLTL) support of 6-8 percent, linked to a 10 percent increase in exports, as part of a broader package of structural reforms to address rising production costs and arrest the decline in exports. The demand was raised at a …",
-   "image": "https://i.brecorder.com/large/2026/10/14040250666113b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP revises instructions for sugar exports",
-   "url": "https://www.brecorder.com/news/40444117/sbp-revises-instructions-for-sugar-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has revised its instructions for sugar exports, sharing updated province-wise and mill-wise export quotas and directing banks to conduct due diligence on export transactions to verify the bona fides of clients and the underlying transactions in accordance with applicable regula…",
-   "image": "https://i.brecorder.com/large/2026/10/140412364762a15.webp",
+   "summary": "ISLAMABAD: The National Tariff Commission (NTC) has extended anti-dumping duties on imports of cold-rolled steel coils and sheets originating in or exported from China for another five years, citing the likelihood of continued dumping and material injury to Pakistan’s domestic steel industry if the duties are withdrawn…",
+   "image": "https://i.brecorder.com/large/2026/10/140159380faeffa.webp",
    "topics": [
     "Economy"
    ],
@@ -140,19 +152,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan, Ethiopia move to fast-track drug registration for exports",
-   "url": "https://www.brecorder.com/news/40443959/pakistan-ethiopia-move-to-fast-track-drug-registration-for-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-13T05:38:01+00:00",
-   "summary": "Federal Minister for Commerce Jam Kamal Khan called for expediting regulatory approvals for Pakistani pharmaceutical companies seeking access to the Ethiopian market, as Pakistan and Ethiopia discussed expanding bilateral trade, investment and economic cooperation. The discussions took place during a meeting with Ethio…",
-   "image": "https://i.brecorder.com/large/2026/10/1310365912ee355.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -248,19 +247,6 @@
    "domestic": true
   },
   {
-   "title": "PM Shehbaz orders installation of smart scanners at airports",
-   "url": "https://www.dawn.com/news/2036166/pm-shehbaz-orders-installation-of-smart-scanners-at-airports",
-   "source": "Dawn",
-   "published": "2026-10-10T14:11:27+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Saturday ordered the installation of “smart scanners” at all international airports to facilitate travellers, according to a statement from his office. The premier issued these instructions during a meeting reviewing the customs enforcement in Islamabad, attended by Deputy Pr…",
-   "image": "https://i.dawn.com/large/2026/10/10180916ef1ced9.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Pakistani rupee edges higher against US dollar",
    "url": "https://arynews.tv/pakistani-rupee-edges-higher-against-us-dollar",
    "source": "ARY News",
@@ -274,12 +260,12 @@
    "domestic": true
   },
   {
-   "title": "The Organic Meat Company Limited",
-   "url": "https://www.brecorder.com/news/40444087/the-organic-meat-company-limited",
+   "title": "Gold prices hold firm ahead of US inflation data",
+   "url": "https://www.brecorder.com/news/40444139/gold-prices-hold-firm-ahead-of-us-inflation-data",
    "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "The Organic Meat Company Limited (PSX: TOMCL) was incorporated in Pakistan as a private limited company in 2010. The company is engaged in the processing and sale of halal meat and allied products. It is also one of the leading exporters of red meat and meat by-products. Middle Eastern countries are the major export ma…",
-   "image": "https://i.brecorder.com/large/2026/10/14015657db0890d.webp",
+   "published": "2026-10-14T03:17:36+00:00",
+   "summary": "Gold prices were little changed on Wednesday as investors braced ‌for US consumer price index data due later in the day to gauge the Federal Reserve’s latest monetary policy stance. Spot gold held steady at $4,159.45 per ounce by 0251 GMT. US gold futures for December ​delivery edged 0.1% higher to $4,182.60. “What we’…",
+   "image": "https://i.brecorder.com/large/2026/10/14081529c19445e.webp",
    "topics": [
     "Economy"
    ],
@@ -287,12 +273,25 @@
    "domestic": false
   },
   {
-   "title": "Developing nations: Aurangzeb seeks stronger World Bank, IMF support",
-   "url": "https://www.brecorder.com/news/40444114/developing-nations-aurangzeb-seeks-stronger-world-bank-imf-support",
+   "title": "China's exports surge 36.3% y/y in September, imports up 31%",
+   "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31",
    "source": "Business Recorder",
-   "published": "2026-10-13T23:31:49+00:00",
-   "summary": "BANGKOK: Federal Finance Minister Muhammad Aurangzeb has called for reforms to the global financial system, warning that trade barriers and climate change are creating additional challenges for developing economies. Addressing the G-24 Central Bank Governors’ meeting in Bangkok as the group’s first vice-chair, Aurangze…",
-   "image": "https://i.brecorder.com/large/2026/10/140358256c2a0e9.webp",
+   "published": "2026-10-14T03:07:51+00:00",
+   "summary": "BEIJING: China’s exports in ​September soared 36.3% ‌from a year earlier in ​US dollar ​terms, far outpacing forecasts, ⁠while imports ​grew 31%, customs ​data showed on Wednesday. China holds intensive talks on hybrid, EV trade with EU A Reuters poll of ​economists forecast ​that exports rose 25.5% ‌year-on-year, ⁠ver…",
+   "image": "https://i.brecorder.com/large/2026/10/14080646e63b80b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF says higher bond yields underscore urgency of fiscal consolidation",
+   "url": "https://www.brecorder.com/news/40444135/imf-says-higher-bond-yields-underscore-urgency-of-fiscal-consolidation",
+   "source": "Business Recorder",
+   "published": "2026-10-14T03:05:42+00:00",
+   "summary": "BANGKOK: The International Monetary Fund on Wednesday urged advanced economies and others to take urgent action to reduce government ​spending, cut deficits and reduce debt levels, warning that delays would only make the job harder in coming years. Rodrigo Valdes, ‌head of the IMF’s Fiscal Affairs department, said risi…",
+   "image": "https://i.brecorder.com/large/2026/10/140805143ee0822.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -300,16 +299,42 @@
    "domestic": false
   },
   {
-   "title": "Economic stability alone is not enough",
-   "url": "https://www.brecorder.com/news/40444037/economic-stability-alone-is-not-enough",
+   "title": "Dollar languishes as focus turns to CPI, Fed speakers",
+   "url": "https://www.brecorder.com/news/40444131/dollar-languishes-as-focus-turns-to-cpi-fed-speakers",
    "source": "Business Recorder",
-   "published": "2026-10-13T23:31:48+00:00",
-   "summary": "EDITORIAL: Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal in a letter to Prime Minister Shehbaz Sharif, leaked to a section of the media, expressed extremely serious reservations on the strategy of achieving fiscal stabilization by compressing development expenditure and borrowing more .…",
-   "image": "https://i.brecorder.com/large/2026/10/140056212f6c956.webp",
+   "published": "2026-10-14T02:42:20+00:00",
+   "summary": "TOKYO: The dollar languished on Wednesday as traders awaited fresh signals on the timing for interest rate hikes to contend with persistent inflation. The greenback weakened from an 18-month high ​in the previous session as oil prices eased and investors reassessed the AI-fueled rally ‌that has supported demand for US …",
+   "image": "https://i.brecorder.com/large/2026/10/1407405154e7d7b.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asia shares edge up as chip selloff eases; US CPI awaited",
+   "url": "https://www.brecorder.com/news/40444130/asia-shares-edge-up-as-chip-selloff-eases-us-cpi-awaited",
+   "source": "Business Recorder",
+   "published": "2026-10-14T02:38:58+00:00",
+   "summary": "HONG KONG: Asian shares inched higher on Wednesday as those related to artificial intelligence found ​respite after a selloff, while any gain was tempered by elevated oil prices and caution ahead ‌of US inflation data later in the global day. Among firms in the AI supply chain, chipmakers Samsung Electronics and SK Hyn…",
+   "image": "https://i.brecorder.com/large/2026/10/140737093198e32.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "The Organic Meat Company Limited: performance and outlook",
+   "url": "https://www.brecorder.com/news/40444087/the-organic-meat-company-limited-performance-and-outlook",
+   "source": "Business Recorder",
+   "published": "2026-10-14T02:32:24+00:00",
+   "summary": "The Organic Meat Company Limited (PSX: TOMCL) was incorporated in Pakistan as a private limited company in 2010. The company is engaged in the processing and sale of halal meat and allied products. It is also one of the leading exporters of red meat and meat by-products. Middle Eastern countries are the major export ma…",
+   "image": "https://i.brecorder.com/large/2026/10/14015657db0890d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -472,45 +497,6 @@
    "domestic": false
   },
   {
-   "title": "Australia dollar finds some support in RBA hawks, kiwi totters",
-   "url": "https://www.brecorder.com/news/40443969/australia-dollar-finds-some-support-in-rba-hawks-kiwi-totters",
-   "source": "Business Recorder",
-   "published": "2026-10-13T06:25:47+00:00",
-   "summary": "SYDNEY: The Australian dollar flatlined on Tuesday as a selloff in global risk assets offset a hawkish commentary from the country’s central bank, while its New Zealand counterpart touched lows last seen in April 2025. Minutes of the Reserve Bank of Australia’s last policy meeting showed the board was all-in for a quar…",
-   "image": "https://i.brecorder.com/large/2026/10/13112526b212c4f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper steadies as dollar strength counters Chile supply worries",
-   "url": "https://www.brecorder.com/news/40443966/copper-steadies-as-dollar-strength-counters-chile-supply-worries",
-   "source": "Business Recorder",
-   "published": "2026-10-13T06:20:54+00:00",
-   "summary": "Copper prices held nearly steady on Tuesday as a firm US dollar countered support from supply concerns in top producer Chile. Benchmark three-month copper on the London Metal Exchange fell 0.2% to $14,590.50 a metric ton by 0126 GMT, after hitting a two-week high in the previous session. The most-traded copper contract…",
-   "image": "https://i.brecorder.com/large/2026/10/13112041624516a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan holds firm near 2023 highs despite dollar strength",
-   "url": "https://www.brecorder.com/news/40443965/yuan-holds-firm-near-2023-highs-despite-dollar-strength",
-   "source": "Business Recorder",
-   "published": "2026-10-13T06:19:29+00:00",
-   "summary": "HONG KONG: China’s yuan held near its strongest level in three years and nine months on Tuesday, shrugging off a strong dollar as central bank guidance kept the currency steady. The yuan was largely steady at 6.6972 per dollar, hovering near the strongest level since January 16, 2023. The offshore yuan traded at 6.698 …",
-   "image": "https://i.brecorder.com/large/2026/10/131119216615b76.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "BOI vows close coordination with businessmen",
    "url": "https://tribune.com.pk/story/2634545/boi-vows-close-coordination-with-businessmen",
    "source": "The Express Tribune",
@@ -612,19 +598,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Aurangzeb reviews retailers’ tax scheme as trader response falls short",
-   "url": "https://www.dawn.com/news/2036118/aurangzeb-reviews-retailers-tax-scheme-as-trader-response-falls-short",
-   "source": "Dawn",
-   "published": "2026-10-10T02:57:17+00:00",
-   "summary": "https://www.dawn.com/news/2036047",
-   "image": "https://i.dawn.com/large/2026/10/10075633cf1ec7a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
