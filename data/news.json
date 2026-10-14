@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-14T14:23:14+00:00",
- "count": 49,
- "relevant_count": 19,
- "domestic_count": 14,
+ "generated": "2026-10-14T18:51:47+00:00",
+ "count": 47,
+ "relevant_count": 20,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (18)",
+  "Dawn": "ok (13)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40444187/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-14T11:29:18+00:00",
+   "published": "2026-10-14T16:14:22+00:00",
    "summary": "The Pakistani rupee stretched its marginal gains against the US dollar in the interbank market on Wednesday. The local unit closed the day at 276.95, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani rupee settled at 276.96 against the dollar. Internationally, the US dollar languished on Wednesday as t…",
    "image": "https://i.brecorder.com/large/2026/10/141615309eb28d9.webp",
    "topics": [
@@ -129,19 +129,6 @@
    "domestic": true
   },
   {
-   "title": "Rs268bn power tariff burden on consumers opposed",
-   "url": "https://www.dawn.com/news/2036506/rs268bn-power-tariff-burden-on-consumers-opposed",
-   "source": "Dawn",
-   "published": "2026-10-12T03:29:55+00:00",
-   "summary": "• FPCCI urges Nepra to reject inflated, disputed claims; flags previously disallowed, unverified adjustments • Demands detailed written responses, participation in public hearings • Discos claim Rs2.64tr in revenue requirements for CY2027 ISLAMABAD: The Federation of Pakistan Chambers of Commerce and Industry (FPCCI) h…",
-   "image": "https://i.dawn.com/large/2026/10/1208290603a17e6.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Textile makers warn of steep decline in exports from Oct to Dec",
    "url": "https://www.dawn.com/news/2036498/textile-makers-warn-of-steep-decline-in-exports-from-oct-to-dec",
    "source": "Dawn",
@@ -152,20 +139,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Stocks fall as geopolitical uncertainty offsets staff-level agreement with IMF",
-   "url": "https://www.dawn.com/news/2036240/stocks-fall-as-geopolitical-uncertainty-offsets-staff-level-agreement-with-imf",
-   "source": "Dawn",
-   "published": "2026-10-11T02:39:40+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) remained volatile during the outgoing week as escalating geopolitical tensions, elevated international oil prices and rising bond yields offset optimism over Pakistan’s Staff-Level Agreement (SLA) with the International Monetary Fund (IMF). The benchmark KSE-100 index fell 0.6…",
-   "image": "https://i.dawn.com/large/2026/10/110738362869c0f.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -182,17 +155,56 @@
    "domestic": true
   },
   {
-   "title": "Pakistani rupee edges higher against US dollar",
-   "url": "https://arynews.tv/pakistani-rupee-edges-higher-against-us-dollar",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistani rupee edges higher against US dollar",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Dollar.jpg",
+   "title": "US inflation heats up in September; Fed rate hike this month back on table",
+   "url": "https://www.brecorder.com/news/40444215/us-inflation-heats-up-in-september-fed-rate-hike-this-month-back-on-table",
+   "source": "Business Recorder",
+   "published": "2026-10-14T16:47:45+00:00",
+   "summary": "WASHINGTON: US consumer prices accelerated in September as the cost of gasoline surged, dealing another blow to President Donald Trump and his Republican Party ahead of the November 3 midterm elections and putting an interest rate increase later this month back on the radar. The Consumer Price Index report from the Lab…",
+   "image": "https://i.brecorder.com/large/2026/10/1421444157b6666.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "UK stocks close higher as weaker sterling boosts export-heavy sectors",
+   "url": "https://www.brecorder.com/news/40444213/uk-stocks-close-higher-as-weaker-sterling-boosts-export-heavy-sectors",
+   "source": "Business Recorder",
+   "published": "2026-10-14T16:41:06+00:00",
+   "summary": "UK stocks ended higher on Wednesday, supported by a rise in healthcare and consumer staples sectors, which gained on a weaker sterling after data showed US inflation came in hotter than expected. The blue-chip FTSE 100 index closed up 0.7% at 10,724.86 points, while the midcap FTSE 250 edged up 0.1%. Stronger-than-expe…",
+   "image": "https://i.brecorder.com/large/2026/10/14214042ca93215.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
+   "url": "https://www.brecorder.com/news/40444197/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit",
+   "source": "Business Recorder",
+   "published": "2026-10-14T15:42:32+00:00",
+   "summary": "RIYADH/DUBAI: Yemen’s Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi Aramco. Houthis said the threatened locations were legitimate targets and described their attack…",
+   "image": "https://i.brecorder.com/large/2026/10/141732503d581a8.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Aurangzeb discusses targeted fuel subsidies in meeting with senior IMF official",
+   "url": "https://www.dawn.com/news/2037132/aurangzeb-discusses-targeted-fuel-subsidies-in-meeting-with-senior-imf-official",
+   "source": "Dawn",
+   "published": "2026-10-14T15:40:37+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb met International Monetary Fund (IMF) Deputy Managing Director Nigel Clarke in Bangkok on Wednesday, with their discussion covering targeted fuel subsidies among other matters. Aurangzeb “outlined targeted fuel subsidies to protect vulnerable groups and preserve social cohesion” duri…",
+   "image": "https://i.dawn.com/large/2026/10/14192018d10f81a.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Gulf markets mixed; Saudi stocks hardest hit on Aramco attack",
@@ -204,19 +216,6 @@
    "topics": [
     "Construction & projects",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-   "url": "https://www.brecorder.com/news/40444197/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit",
-   "source": "Business Recorder",
-   "published": "2026-10-14T12:55:02+00:00",
-   "summary": "RIYADH/DUBAI: Yemen’s Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi Aramco. Houthis said the threatened locations were legitimate targets and described their attack…",
-   "image": "https://i.brecorder.com/large/2026/10/141732503d581a8.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -418,29 +417,16 @@
    "domestic": false
   },
   {
-   "title": "Australian shares slip on RBA inflation warnings; banks and miners drag",
-   "url": "https://www.brecorder.com/news/40444151/australian-shares-slip-on-rba-inflation-warnings-banks-and-miners-drag",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:37:15+00:00",
-   "summary": "Australian shares fell on Wednesday , weighed down by banks and miners, as hawkish signals in the Reserve Bank of Australia’s meeting minutes added to concerns about persistent inflation. The S&P/ASX 200 index fell 0.6% to 8,731.50 by 0010 GMT, and was set to clock its worst day since October 1. The benchmark ended fla…",
-   "image": "https://i.brecorder.com/large/2026/10/141136053be2d8c.webp",
+   "title": "Aurangzeb says Pakistan’s fiscal deficit falls to 22-year low",
+   "url": "https://tribune.com.pk/story/2634809/aurangzeb-says-pakistans-fiscal-deficit-falls-to-22-year-low",
+   "source": "The Express Tribune",
+   "published": "2026-10-14T05:18:14+00:00",
+   "summary": "Finance minister highlights three consecutive primary surpluses, targets growth of 4% or higher this fiscal year",
+   "image": null,
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan gains as markets weigh China inflation, await US CPI",
-   "url": "https://www.brecorder.com/news/40444150/yuan-gains-as-markets-weigh-china-inflation-await-us-cpi",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:35:05+00:00",
-   "summary": "SHANGHAI: China’s yuan firmed slightly against the dollar on Wednesday as investors parsed a mixed set of domestic inflation readings and braced for US consumer price data due later in the day that could shape the outlook for Federal Reserve policy. Chinese producer prices rose at their fastest pace in more than four y…",
-   "image": "https://i.brecorder.com/large/2026/10/14113335026749a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -494,19 +480,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM urged to reject yarn exclusion from EFS",
-   "url": "https://tribune.com.pk/story/2634685/pm-urged-to-reject-yarn-exclusion-from-efs",
-   "source": "The Express Tribune",
-   "published": "2026-10-13T15:24:42+00:00",
-   "summary": "Textile council seeks protection for inputs, says genuine exporters must not be penalised",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
