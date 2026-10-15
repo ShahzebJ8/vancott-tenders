@@ -1,24 +1,37 @@
 {
- "generated": "2026-10-15T00:46:38+00:00",
- "count": 56,
- "relevant_count": 27,
- "domestic_count": 21,
+ "generated": "2026-10-15T05:34:42+00:00",
+ "count": 47,
+ "relevant_count": 18,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (17)",
+  "Dawn": "ok (11)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "Allocation of functions: PPMC-NGC dispute again lands on power regulator’s table",
-   "url": "https://www.brecorder.com/news/40444308/allocation-of-functions-ppmc-ngc-dispute-again-lands-on-power-regulators-table",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:59:26+00:00",
-   "summary": "ISLAMABAD: A brawl between Power Planning and Monitoring Company (PPMC) officially “unregistered” entity of Power Division and National Grid Company (erstwhile NTDC) over “institutional allocation of distribution related design, standards and specifications and material inspection functions has reportedly again landed …",
-   "image": "https://i.brecorder.com/large/2026/10/1504361197a4b47.webp",
+   "title": "Govt keeps treasury bill returns higher over policy rate",
+   "url": "https://www.dawn.com/news/2037216/govt-keeps-treasury-bill-returns-higher-over-policy-rate",
+   "source": "Dawn",
+   "published": "2026-10-15T03:53:43+00:00",
+   "summary": "KARACHI: The government kept treasury bill rates almost unchanged in an auction held on Wednesday, but the returns on all tenors of T-bills remained higher than the State Bank’s policy rate of 11.5 per cent. This was the last auction of T-bills before announcement of the next monetary policy on Oct 26. The results show…",
+   "image": "https://i.dawn.com/large/2026/10/15085107c5d4edf.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Stocks stage partial recovery amid uncertainty",
+   "url": "https://www.dawn.com/news/2037213/stocks-stage-partial-recovery-amid-uncertainty",
+   "source": "Dawn",
+   "published": "2026-10-15T03:30:53+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Wednesday recovered some losses from the week’s first two sessions amid persistent regional and political tensions. Attractive valuations drew investors back to cherry-pick stocks, pushing the benchmark KSE-100 index above the psychological 165,000 mark after it moved in b…",
+   "image": "https://i.dawn.com/large/2026/10/150829156974106.webp",
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -47,98 +60,6 @@
     "Budget & spending",
     "Energy & power",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Gemstones pilot project: PM expresses displeasure over slow progress",
-   "url": "https://www.brecorder.com/news/40444303/gemstones-pilot-project-pm-expresses-displeasure-over-slow-progress",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:49+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday expressed displeasure over delays in a pilot project to develop the country’s gemstones sector and ordered officials to submit a comprehensive, time-bound action plan next week to accelerate development and boost exports. Chairing a review meeting on measures to dev…",
-   "image": "https://i.brecorder.com/large/2026/10/15034935a82555e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Aurangzeb urges IFIs to align financing terms with improved ratings",
-   "url": "https://www.brecorder.com/news/40444305/aurangzeb-urges-ifis-to-align-financing-terms-with-improved-ratings",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:49+00:00",
-   "summary": "ISLAMABAD: Finance Minister Muhammad Aurangzeb on Wednesday urged international financial institutions to align financing terms with Pakistan’s improved sovereign ratings and expanding access to international capital markets, while reaffirming the government’s commitment to sustained economic reforms, fiscal discipline…",
-   "image": "https://i.brecorder.com/large/2026/10/1504095175e8d58.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Over USD5bn annual exports targeted: AsiaPak seeks govt help for aluminium smelter at PQ",
-   "url": "https://www.brecorder.com/news/40444310/over-usd5bn-annual-exports-targeted-asiapak-seeks-govt-help-for-aluminium-smelter-at-pq",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:49+00:00",
-   "summary": "ISLAMABAD: AsiaPak Investments Limited has sought the government’s support for a proposed export-oriented aluminium smelter in the Port Qasim industrial area, targeting annual exports of more than USD5 billion at full development, alongside a long-term power supply arrangement linked to a conditional waiver of USD90 mi…",
-   "image": "https://i.brecorder.com/large/2026/10/15045122eec94a4.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Aurangzeb speaks of fiscal prudence",
-   "url": "https://www.brecorder.com/news/40444312/aurangzeb-speaks-of-fiscal-prudence",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:49+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue Senator Muhammad Aurangzeb on Wednesday said Pakistan’s fiscal deficit had declined to 2.6 percent of GDP from a peak of 12.5 percent, while tax revenues increased by 40 percent over the past two years. The minister was talking at a penal discussion on “Mitigating Sov…",
-   "image": "https://i.brecorder.com/large/2026/10/15041204898630e.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "NBP wins ‘Sustainable Infrastructure Initiative of the Year – Pakistan’ ABF Award 2026",
-   "url": "https://www.brecorder.com/news/40444226/nbp-wins-sustainable-infrastructure-initiative-of-the-year-pakistan-abf-award-2026",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:48+00:00",
-   "summary": "KARACHI: National Bank of Pakistan (NBP) has been recognized with the “Sustainable Infrastructure Initiative of the Year – Pakistan” award at the Asian Banking & Finance (ABF) Corporate & Investment Banking Awards 2026, for the Bank’s role in structuring and arranging a Rs 850 million syndicated project finance facilit…",
-   "image": "https://i.brecorder.com/large/2026/10/1500385444c8658.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Sale of smart glasses: LHC directs heads of authorities to appear in person",
-   "url": "https://www.brecorder.com/news/40444232/sale-of-smart-glasses-lhc-directs-heads-of-authorities-to-appear-in-person",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:48+00:00",
-   "summary": "ISLAMABAD: The Lahore High Court (LHC) has directed the secretaries of the Commerce and Interior and Narcotics Control divisions, the chairman of the Federal Board of Revenue (FBR), and the Member Customs (Operations) to appear in person on October 15 in a constitutional petition seeking regulatory action against Ray-B…",
-   "image": "https://i.brecorder.com/large/2026/10/15004511fc142ff.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Aviation safety, air navigation systems: PAA signs two agreements",
-   "url": "https://www.brecorder.com/news/40444233/aviation-safety-air-navigation-systems-paa-signs-two-agreements",
-   "source": "Business Recorder",
-   "published": "2026-10-14T23:57:48+00:00",
-   "summary": "ISLAMABAD: The Pakistan Airports Authority (PAA) has signed two agreements to enhance aviation safety and modernise air navigation systems, including the installation of a Rs254 million wind shear alert system at Islamabad International Airport. The PAA said on Wednesday that the advanced system will detect sudden chan…",
-   "image": "https://i.brecorder.com/large/2026/10/1500455941eb3d2.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": true
@@ -249,32 +170,6 @@
    "domestic": true
   },
   {
-   "title": "PM Shehbaz directs FBR to complete digital production monitoring system across major industries by year end",
-   "url": "https://www.dawn.com/news/2036676/pm-shehbaz-directs-fbr-to-complete-digital-production-monitoring-system-across-major-industries-by-year-end",
-   "source": "Dawn",
-   "published": "2026-10-12T19:11:33+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday directed the Federal Board of Revenue (FBR) to complete the digital monitoring system of sales production in major industries by the end of December, as part of efforts to narrow the gap between actual and potential tax collection. Chairing a meeting in Islamabad to re…",
-   "image": "https://i.dawn.com/large/2026/10/12231231688c02f.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Textile makers warn of steep decline in exports from Oct to Dec",
-   "url": "https://www.dawn.com/news/2036498/textile-makers-warn-of-steep-decline-in-exports-from-oct-to-dec",
-   "source": "Dawn",
-   "published": "2026-10-12T02:00:06+00:00",
-   "summary": "• Pakistan Textile Exporters Associ­ation cites weak Western demand, higher freight, rising production costs • Exporters seek 6-8pc Duty Drawback of Local Taxes and Levies support, clearance of outstanding refunds • Industry says announced 4.5pc Export Finance Scheme rate yet to be implemented ISLAMABAD: Textile export…",
-   "image": "https://i.dawn.com/large/2026/10/120747417f57574.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "K-Electric ends temporary load shedding in Karachi",
    "url": "https://arynews.tv/k-electric-ends-temporary-load-shedding-in-karachi",
    "source": "ARY News",
@@ -288,12 +183,25 @@
    "domestic": true
   },
   {
-   "title": "Low-income, vulnerable states: IMF urges members to stock up funds",
-   "url": "https://www.brecorder.com/news/40444302/low-income-vulnerable-states-imf-urges-members-to-stock-up-funds",
+   "title": "PSX: buying continues at bourse, KSE-100 up nearly 300 points",
+   "url": "https://www.brecorder.com/news/40444333/psx-buying-continues-at-bourse-kse-100-up-nearly-300-points",
    "source": "Business Recorder",
-   "published": "2026-10-14T23:57:49+00:00",
-   "summary": "BANGKOK: IMF chief Kristalina Georgieva on Wednesday warned that current economic developments and the rapid advance of AI threaten to deepen the gulf between advanced and developing economies, especially given steep drops in development assistance. Georgieva, the first IMF chief from a developing country, said higher …",
-   "image": "https://i.brecorder.com/large/2026/10/15034201e54b3e0.webp",
+   "published": "2026-10-15T05:08:35+00:00",
+   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 300 points during the opening minutes of trading on Thursday. At 9:55am, the benchmark index was hovering at 165,716.65, up 299.15 points or 0.18%. Buying was observed in key sectors, including automobile assemblers, …",
+   "image": "https://i.brecorder.com/large/2026/10/151008255b0e5ab.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Aurangzeb meets IMF chief, briefs investors on Pakistan’s economy",
+   "url": "https://www.brecorder.com/news/40444332/aurangzeb-meets-imf-chief-briefs-investors-on-pakistans-economy",
+   "source": "Business Recorder",
+   "published": "2026-10-15T04:51:32+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb met International Monetary Fund (IMF) Managing Director Kristalina Georgieva and briefed international investors on Pakistan’s economic stabilisation, fiscal consolidation and efforts to diversify external financing on the sidelines of the IMF-World Bank Annual Meetings 2026 in Bangk…",
+   "image": "https://i.brecorder.com/large/2026/10/15095036aadc610.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -301,12 +209,90 @@
    "domestic": false
   },
   {
-   "title": "IMF growth projection",
-   "url": "https://www.brecorder.com/news/40444238/imf-growth-projection",
+   "title": "Gold rebounds from one-week low as dollar slips",
+   "url": "https://www.brecorder.com/news/40444331/gold-rebounds-from-one-week-low-as-dollar-slips",
    "source": "Business Recorder",
-   "published": "2026-10-14T23:57:48+00:00",
-   "summary": "EDITORIAL: The International Monetary Fund (IMF) in its report titled World Economic Outlook released during the World Bank/IMF annual meeting in Bangkok projected Pakistan’s growth rate for the current year at 3.5 percent, above the global growth rate of 3.4 percent, and lower than the budgeted projection of 4 percent…",
-   "image": "https://i.brecorder.com/large/2026/10/15005131ca03186.webp",
+   "published": "2026-10-15T03:30:36+00:00",
+   "summary": "Gold rose ‌more than 1% on Thursday , rebounding from a one-week low hit in the previous session as the US dollar eased, while investors assessed the likelihood of a Federal Reserve interest rate increase this month ​after a hot inflation report. Spot gold was up 1.3% at $4,158.63 per ounce, as ​of 0257 GMT, after hitt…",
+   "image": "https://i.brecorder.com/large/2026/10/15082720435c946.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF warns of slowing Asian growth, spillover from rising yields",
+   "url": "https://www.brecorder.com/news/40444330/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields",
+   "source": "Business Recorder",
+   "published": "2026-10-15T03:25:15+00:00",
+   "summary": "BANGKOK: The International Monetary Fund on Thursday projected Asia’s economic growth would moderate next year ‌and warned of heightening risks from the Iran war-induced energy shock, a potential correction in the AI boom and spillovers from rising global bond yields. In a report on the outlook for the Asia-Pacific reg…",
+   "image": "https://i.brecorder.com/large/2026/10/15082301474f668.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low",
+   "url": "https://www.brecorder.com/news/40444326/indian-rupee-to-rise-after-us-yields-reverse-inflation-led-spike-fed-hike-bets-remain-low",
+   "source": "Business Recorder",
+   "published": "2026-10-15T03:07:04+00:00",
+   "summary": "MUMBAI: The Indian rupee is likely to rise at the open on Thursday , boosted by the pullback in US Treasury yields after ​an initial rise on sticky inflation data, with traders still pricing ‌in limited chances of a Federal Reserve rate hike in October. The india rupee is expected to open in the 95.02 to 95.06 range, p…",
+   "image": "https://i.brecorder.com/large/2026/10/1508035718c1492.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares set to open lower as hot US inflation raises rate worries",
+   "url": "https://www.brecorder.com/news/40444325/indian-shares-set-to-open-lower-as-hot-us-inflation-raises-rate-worries",
+   "source": "Business Recorder",
+   "published": "2026-10-15T03:02:24+00:00",
+   "summary": "Indian shares are set to open lower on Thursday , tracking Asian peers as a quicker-than-expected increase in US consumer price inflation raised expectations of another rate hike by the Federal ​Reserve this year. Higher US rates make emerging markets such as India less ‌attractive for overseas investors, who have alre…",
+   "image": "https://i.brecorder.com/large/2026/10/150800261edc5fc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
+   "url": "https://www.brecorder.com/news/40444324/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data",
+   "source": "Business Recorder",
+   "published": "2026-10-15T02:59:17+00:00",
+   "summary": "SINGAPORE: Markets started the day on the back foot ‌as trading kicked off in Asia on Thursday , as a quicker-than-expected increase in US consumer price inflation upped expectations for the Federal Reserve to act later this year and pushed stocks lower. MSCI’s broadest index of Asia-Pacific shares outside Japan was do…",
+   "image": "https://i.brecorder.com/large/2026/10/1507574330306cb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
+   "url": "https://www.brecorder.com/news/40444323/dollar-retreats-from-18-month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets",
+   "source": "Business Recorder",
+   "published": "2026-10-15T02:55:27+00:00",
+   "summary": "HONG KONG: The dollar slipped from an 18-month peak on Thursday despite hotter-than-expected inflation ​data, as cautious remarks from Federal Reserve officials and a pullback in Treasury yields led traders ‌to scale back expectations of an October rate hike. Against the dollar, the euro bounced 0.3% from an 18-month l…",
+   "image": "https://i.brecorder.com/large/2026/10/150750516fad0eb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Low-income, vulnerable states: IMF urges members to stock up funds",
+   "url": "https://www.brecorder.com/news/40444302/low-income-vulnerable-states-imf-urges-members-to-stock-up-funds",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "BANGKOK: IMF chief Kristalina Georgieva on Wednesday warned that current economic developments and the rapid advance of AI threaten to deepen the gulf between advanced and developing economies, especially given steep drops in development assistance. Georgieva, the first IMF chief from a developing country, said higher …",
+   "image": "https://i.brecorder.com/large/2026/10/15034201e54b3e0.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -459,84 +445,6 @@
    "domestic": false
   },
   {
-   "title": "IMF's Georgieva says US growth will not be enough to shrink debt",
-   "url": "https://www.brecorder.com/news/40444163/imfs-georgieva-says-us-growth-will-not-be-enough-to-shrink-debt",
-   "source": "Business Recorder",
-   "published": "2026-10-14T07:10:53+00:00",
-   "summary": "BANGKOK: The United States cannot grow its way out of mounting public debt and needs to make other fiscal adjustments to put its debt on a more sustainable path, International Monetary Fund Managing Director Kristalina Georgieva said on Wednesday. Georgieva told reporters at IMF-World Bank annual meetings in Bangkok th…",
-   "image": "https://i.brecorder.com/large/2026/10/141210435b74d62.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "ECB's Lagarde says solution to French debt woes is at home",
-   "url": "https://www.brecorder.com/news/40444162/ecbs-lagarde-says-solution-to-french-debt-woes-is-at-home",
-   "source": "Business Recorder",
-   "published": "2026-10-14T07:08:11+00:00",
-   "summary": "BANGKOK: France should solve its own debt woes through fiscal policy consolidation, European Central Bank President Christine Lagarde said on Wednesday, effectively playing down speculation about an ECB intervention in the bond market. French government bonds have been among the worst hit by a global selloff, with inve…",
-   "image": "https://i.brecorder.com/large/2026/10/14120802ea681d0.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China's crude stocks slump despite slight rise in September import rate",
-   "url": "https://www.brecorder.com/news/40444158/chinas-crude-stocks-slump-despite-slight-rise-in-september-import-rate",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:56:56+00:00",
-   "summary": "BEIJING: China’s September crude oil imports dropped 21.5% from a year earlier, customs data showed, with higher refinery runs and delayed crude arrivals contributing to the biggest monthly draw in the country’s onshore crude inventories in analysts’ records. The world’s biggest oil buyer imported 37.1 million metric t…",
-   "image": "https://i.brecorder.com/large/2026/10/141156312870cb8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's soybean imports fall 7.7% in September from a year earlier",
-   "url": "https://www.brecorder.com/news/40444157/chinas-soybean-imports-fall-77-in-september-from-a-year-earlier",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:52:29+00:00",
-   "summary": "BEIJING: China, the world’s largest soy buyer, imported 11.88 million metric tons of soybeans in September, down 7.7% from the same month last year, data from the General Administration of Customs of China showed. Soybean imports in September fell from 12.87 million tons a year earlier and were down 2.1% from 12.14 mil…",
-   "image": "https://i.brecorder.com/large/2026/10/141152234449e30.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China stocks edge towards one-year low, dragged down by AI hardware share",
-   "url": "https://www.brecorder.com/news/40444156/china-stocks-edge-towards-one-year-low-dragged-down-by-ai-hardware-share",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:50:33+00:00",
-   "summary": "SHANGHAI: Chinese stocks slipped on Wednesday as a selloff in AI-related supply chain shares deepened and as investors digested mixed domestic inflation data, leaving the blue-chip benchmark hovering near a one-year low. The CSI300 Index dropped 0.3% by the lunch break, while the Shanghai Composite Index was flat. Hong…",
-   "image": "https://i.brecorder.com/large/2026/10/141150267cc7ec0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan eyes US energy imports, Boeing aircraft financing",
-   "url": "https://www.brecorder.com/news/40444153/pakistan-eyes-us-energy-imports-boeing-aircraft-financing",
-   "source": "Business Recorder",
-   "published": "2026-10-14T06:47:10+00:00",
-   "summary": "Pakistan has discussed increasing energy imports from the United States to diversify supplies and maintain fuel availability amid rising tensions in the Middle East, alongside financing for Boeing aircraft acquisitions The development came during a meeting between Finance Minister Muhammad Aurangzeb and Ambassador Yon …",
-   "image": "https://i.brecorder.com/large/2026/10/14114529da0241d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Aurangzeb says Pakistan’s fiscal deficit falls to 22-year low",
    "url": "https://tribune.com.pk/story/2634809/aurangzeb-says-pakistans-fiscal-deficit-falls-to-22-year-low",
    "source": "The Express Tribune",
@@ -622,32 +530,6 @@
    "published": "2026-10-13T08:42:20+00:00",
    "summary": "The International Monetary Fund (IMF) warned on Tuesday that while low-income developing countries were dealing with the disproportionate impacts of the Iran war-fuelled energy shock , many had “no choice” but to cut spending or potentially face debt restructuring. Speaking to AFP on the sidelines of the organisation’s…",
    "image": "https://i.dawn.com/large/2026/10/13133245ae47f30.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Americans Hall and Woodford win economics Nobel for stabilisation models",
-   "url": "https://www.dawn.com/news/2036627/americans-hall-and-woodford-win-economics-nobel-for-stabilisation-models",
-   "source": "Dawn",
-   "published": "2026-10-12T11:03:31+00:00",
-   "summary": "Americans Robert Hall and Michael Woodford were awarded the Nobel economics prize on Monday for their work on how monetary and fiscal policy can better stabilise disruptive economic fluctuations. The two were honoured for developing new models for managing recessions and other crises that fail to respond to traditional…",
-   "image": "https://i.dawn.com/large/2026/10/121557327ac3546.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan looking to raise more than $1bn under govt push for privatisation, says finance minister",
-   "url": "https://www.dawn.com/news/2036589/pakistan-looking-to-raise-more-than-1bn-under-govt-push-for-privatisation-says-finance-minister",
-   "source": "Dawn",
-   "published": "2026-10-12T08:08:47+00:00",
-   "summary": "The government is looking to push for the privatisation of five to six entities that could raise upwards of $1 billion, Finance Minister Muhammad Aurangzeb told Reuters on Monday, stating that he expected the economy to grow by more than 4 per cent this fiscal year despite elevated oil prices. Pakistan’s economy is con…",
-   "image": "https://i.dawn.com/large/2026/10/12114748b67d893.webp",
    "topics": [
     "Budget & spending"
    ],

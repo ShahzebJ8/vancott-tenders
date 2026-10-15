@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T00:46:33+00:00",
+ "generated": "2026-10-15T05:34:36+00:00",
  "count": 754,
  "with_value": 721,
  "with_winner": 286,
@@ -14349,6 +14349,44 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004255",
+   "tender_no": "TS0000011376E",
+   "reference": "112/27",
+   "title": "112/27 ENGAGEMENT OF LAW FIRM/ ASSOCIATION OF PERSONS/ PARTERNSHIP ON RETAINER BASIS Services Ministry of Energy (Power Division)",
+   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-10-15",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004255",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004254",
+   "tender_no": "TS0000013855E",
+   "reference": "ED/PROC-HOK/1207526/2026/323",
+   "title": "323-Supply of Distribution Boards, Power Cables, LED lights and Ceiling Fans for Renovation of Ground Floor, SBP Head Office Karachi Electrical Items State Bank of Pakistan (SBP)",
+   "organisation": "State Bank of Pakistan (SBP) SBP BSC Engineering Department HOK Karachi - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-10-15",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004254",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": [
+    "led"
+   ]
+  },
   {
    "evaluation_no": "EVL00000004250",
    "tender_no": "TS0000013660E",
@@ -53399,47 +53437,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002167",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002164",
-   "tender_no": "TS0000007527E",
-   "reference": "WAH/TE/020/2026",
-   "title": "Misc Hardware Material (S/Stock) Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Habib Enterprises, Wah Cantt"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-20",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002164",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002163",
-   "tender_no": "TS0000008086E",
-   "reference": "NCB-S-01/2025-R",
-   "title": "Procurement of Tower type ZM-1 with Stub & Cleats (Complete) and Leg Extensions for ZM-1 Tower Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) Project Management Unit Sukkur - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Siddique Sons Engineering (Pvt.) Ltd; Lahore for Lot-I",
-    "Specialist Group Inc. Lahore for Lot-II"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-20",
-   "city": "Sukkur",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002163",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
