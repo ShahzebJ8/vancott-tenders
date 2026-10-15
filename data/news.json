@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-15T19:22:42+00:00",
- "count": 49,
- "relevant_count": 19,
+ "generated": "2026-10-15T22:37:59+00:00",
+ "count": 50,
+ "relevant_count": 20,
  "domestic_count": 12,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (19)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "ok (4)"
  },
  "stories": [
@@ -229,6 +229,19 @@
    "image": "https://i.brecorder.com/large/2026/10/152002449d0938f.webp",
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FBR extends income tax return filing deadline to Oct 31",
+   "url": "https://tribune.com.pk/story/2635070/fbr-extends-income-tax-return-filing-deadline-to-oct-31",
+   "source": "The Express Tribune",
+   "published": "2026-10-15T13:41:09+00:00",
+   "summary": "FBR grants second extension in a month after trade bodies' requests, giving taxpayers until Oct 31 to file returns",
+   "image": null,
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
