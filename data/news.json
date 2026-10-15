@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-14T22:06:31+00:00",
- "count": 47,
- "relevant_count": 20,
- "domestic_count": 11,
+ "generated": "2026-10-15T00:46:38+00:00",
+ "count": 56,
+ "relevant_count": 27,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,139 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Allocation of functions: PPMC-NGC dispute again lands on power regulator’s table",
+   "url": "https://www.brecorder.com/news/40444308/allocation-of-functions-ppmc-ngc-dispute-again-lands-on-power-regulators-table",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:59:26+00:00",
+   "summary": "ISLAMABAD: A brawl between Power Planning and Monitoring Company (PPMC) officially “unregistered” entity of Power Division and National Grid Company (erstwhile NTDC) over “institutional allocation of distribution related design, standards and specifications and material inspection functions has reportedly again landed …",
+   "image": "https://i.brecorder.com/large/2026/10/1504361197a4b47.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Highest in Asia: Pakistan facing mounting exposure to cyber-enabled financial fraud: report",
+   "url": "https://www.brecorder.com/news/40444294/highest-in-asia-pakistan-facing-mounting-exposure-to-cyber-enabled-financial-fraud-report",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "ISLAMABAD: Pakistan is facing mounting exposure to cyber-enabled financial fraud, with estimated scam losses equivalent to 2.5 percent of gross domestic product (GDP), highlighting growing risks to digital financial services as fraudsters exploit online platforms, telecommunications networks, and payment systems. This …",
+   "image": "https://i.brecorder.com/large/2026/10/150222145ec6ef2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "DISCOs tariffs: Export industries oppose proposed hike",
+   "url": "https://www.brecorder.com/news/40444301/discos-tariffs-export-industries-oppose-proposed-hike",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "ISLAMABAD: Export-oriented industries have strongly opposed proposed increases of 5 to 10 percent in electricity tariffs by power distribution companies (DISCOs), warning that higher energy costs, increased fixed charges and the recovery of historical expenses and utilities’ income tax liabilities from consumers could …",
+   "image": "https://i.brecorder.com/large/2026/10/15033928091229f.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Gemstones pilot project: PM expresses displeasure over slow progress",
+   "url": "https://www.brecorder.com/news/40444303/gemstones-pilot-project-pm-expresses-displeasure-over-slow-progress",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday expressed displeasure over delays in a pilot project to develop the country’s gemstones sector and ordered officials to submit a comprehensive, time-bound action plan next week to accelerate development and boost exports. Chairing a review meeting on measures to dev…",
+   "image": "https://i.brecorder.com/large/2026/10/15034935a82555e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aurangzeb urges IFIs to align financing terms with improved ratings",
+   "url": "https://www.brecorder.com/news/40444305/aurangzeb-urges-ifis-to-align-financing-terms-with-improved-ratings",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "ISLAMABAD: Finance Minister Muhammad Aurangzeb on Wednesday urged international financial institutions to align financing terms with Pakistan’s improved sovereign ratings and expanding access to international capital markets, while reaffirming the government’s commitment to sustained economic reforms, fiscal discipline…",
+   "image": "https://i.brecorder.com/large/2026/10/1504095175e8d58.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Over USD5bn annual exports targeted: AsiaPak seeks govt help for aluminium smelter at PQ",
+   "url": "https://www.brecorder.com/news/40444310/over-usd5bn-annual-exports-targeted-asiapak-seeks-govt-help-for-aluminium-smelter-at-pq",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "ISLAMABAD: AsiaPak Investments Limited has sought the government’s support for a proposed export-oriented aluminium smelter in the Port Qasim industrial area, targeting annual exports of more than USD5 billion at full development, alongside a long-term power supply arrangement linked to a conditional waiver of USD90 mi…",
+   "image": "https://i.brecorder.com/large/2026/10/15045122eec94a4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aurangzeb speaks of fiscal prudence",
+   "url": "https://www.brecorder.com/news/40444312/aurangzeb-speaks-of-fiscal-prudence",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue Senator Muhammad Aurangzeb on Wednesday said Pakistan’s fiscal deficit had declined to 2.6 percent of GDP from a peak of 12.5 percent, while tax revenues increased by 40 percent over the past two years. The minister was talking at a penal discussion on “Mitigating Sov…",
+   "image": "https://i.brecorder.com/large/2026/10/15041204898630e.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "NBP wins ‘Sustainable Infrastructure Initiative of the Year – Pakistan’ ABF Award 2026",
+   "url": "https://www.brecorder.com/news/40444226/nbp-wins-sustainable-infrastructure-initiative-of-the-year-pakistan-abf-award-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:48+00:00",
+   "summary": "KARACHI: National Bank of Pakistan (NBP) has been recognized with the “Sustainable Infrastructure Initiative of the Year – Pakistan” award at the Asian Banking & Finance (ABF) Corporate & Investment Banking Awards 2026, for the Bank’s role in structuring and arranging a Rs 850 million syndicated project finance facilit…",
+   "image": "https://i.brecorder.com/large/2026/10/1500385444c8658.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sale of smart glasses: LHC directs heads of authorities to appear in person",
+   "url": "https://www.brecorder.com/news/40444232/sale-of-smart-glasses-lhc-directs-heads-of-authorities-to-appear-in-person",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:48+00:00",
+   "summary": "ISLAMABAD: The Lahore High Court (LHC) has directed the secretaries of the Commerce and Interior and Narcotics Control divisions, the chairman of the Federal Board of Revenue (FBR), and the Member Customs (Operations) to appear in person on October 15 in a constitutional petition seeking regulatory action against Ray-B…",
+   "image": "https://i.brecorder.com/large/2026/10/15004511fc142ff.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Aviation safety, air navigation systems: PAA signs two agreements",
+   "url": "https://www.brecorder.com/news/40444233/aviation-safety-air-navigation-systems-paa-signs-two-agreements",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:48+00:00",
+   "summary": "ISLAMABAD: The Pakistan Airports Authority (PAA) has signed two agreements to enhance aviation safety and modernise air navigation systems, including the installation of a Rs254 million wind shear alert system at Islamabad International Airport. The PAA said on Wednesday that the advanced system will detect sudden chan…",
+   "image": "https://i.brecorder.com/large/2026/10/1500455941eb3d2.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40444187/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -155,16 +288,29 @@
    "domestic": true
   },
   {
-   "title": "US inflation heats up in September; Fed rate hike this month back on table",
-   "url": "https://www.brecorder.com/news/40444215/us-inflation-heats-up-in-september-fed-rate-hike-this-month-back-on-table",
+   "title": "Low-income, vulnerable states: IMF urges members to stock up funds",
+   "url": "https://www.brecorder.com/news/40444302/low-income-vulnerable-states-imf-urges-members-to-stock-up-funds",
    "source": "Business Recorder",
-   "published": "2026-10-14T16:47:45+00:00",
-   "summary": "WASHINGTON: US consumer prices accelerated in September as the cost of gasoline surged, dealing another blow to President Donald Trump and his Republican Party ahead of the November 3 midterm elections and putting an interest rate increase later this month back on the radar. The Consumer Price Index report from the Lab…",
-   "image": "https://i.brecorder.com/large/2026/10/1421444157b6666.webp",
+   "published": "2026-10-14T23:57:49+00:00",
+   "summary": "BANGKOK: IMF chief Kristalina Georgieva on Wednesday warned that current economic developments and the rapid advance of AI threaten to deepen the gulf between advanced and developing economies, especially given steep drops in development assistance. Georgieva, the first IMF chief from a developing country, said higher …",
+   "image": "https://i.brecorder.com/large/2026/10/15034201e54b3e0.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMF growth projection",
+   "url": "https://www.brecorder.com/news/40444238/imf-growth-projection",
+   "source": "Business Recorder",
+   "published": "2026-10-14T23:57:48+00:00",
+   "summary": "EDITORIAL: The International Monetary Fund (IMF) in its report titled World Economic Outlook released during the World Bank/IMF annual meeting in Bangkok projected Pakistan’s growth rate for the current year at 3.5 percent, above the global growth rate of 3.4 percent, and lower than the budgeted projection of 4 percent…",
+   "image": "https://i.brecorder.com/large/2026/10/15005131ca03186.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -178,19 +324,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yemen's Houthis vow more attacks on Saudi airports, oil facilities after Aramco HQ hit",
-   "url": "https://www.brecorder.com/news/40444197/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit",
-   "source": "Business Recorder",
-   "published": "2026-10-14T15:42:32+00:00",
-   "summary": "RIYADH/DUBAI: Yemen’s Houthis vowed on Wednesday to press on with attacks on airports and oil facilities in Saudi Arabia, a day after a strike that sources said caused extensive damage to the headquarters of oil giant Saudi Aramco. Houthis said the threatened locations were legitimate targets and described their attack…",
-   "image": "https://i.brecorder.com/large/2026/10/141732503d581a8.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -218,19 +351,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Hyundai Motor India to invest $1.16 billion to expand capacity at Pune city plant",
-   "url": "https://www.brecorder.com/news/40444199/hyundai-motor-india-to-invest-116-billion-to-expand-capacity-at-pune-city-plant",
-   "source": "Business Recorder",
-   "published": "2026-10-14T12:48:56+00:00",
-   "summary": "Hyundai Motor India plans to invest 110 billion rupees ($1.16 billion) in its Pune city plant to scale up the facility’s annual production capacity by nearly 90% by 2030, the automaker said on Wednesday. The move comes a day after parent Hyundai Motor Group said it would invest $15.5 billion in India through 2032, posi…",
-   "image": "https://i.brecorder.com/large/2026/10/141748293cbb417.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
