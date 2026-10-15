@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-15T10:19:58+00:00",
- "count": 47,
- "relevant_count": 17,
- "domestic_count": 10,
+ "generated": "2026-10-15T15:16:13+00:00",
+ "count": 49,
+ "relevant_count": 18,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (11)",
-  "Business Recorder": "ok (22)",
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (20)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (3)"
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40444377/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-15T14:41:28+00:00",
+   "summary": "The Pakistani rupee stretched its marginal gains against the US dollar, appreciating 0.01% in the inter-bank market on Thursday. The local unit closed the day at 276.92, a gain of Re0.03 against the greenback. On Wednesday , the Pakistani rupee settled at 276.95 against the dollar. Internationally, the US dollar slippe…",
+   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Govt keeps treasury bill returns higher over policy rate",
    "url": "https://www.dawn.com/news/2037216/govt-keeps-treasury-bill-returns-higher-over-policy-rate",
@@ -140,6 +153,137 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Nasdaq slides to near one-month low as AI rout deepens",
+   "url": "https://www.brecorder.com/news/40444398/nasdaq-slides-to-near-one-month-low-as-ai-rout-deepens",
+   "source": "Business Recorder",
+   "published": "2026-10-15T15:05:12+00:00",
+   "summary": "The Nasdaq fell to near one-month lows on Thursday, weighed by a worsening selloff in AI-linked stocks on fears rising interest rates could impact artificial-intelligence investments and fresh data pointing to building US price pressures. The S&P 500 and the Nasdaq marked their biggest one-day fall since July on Wednes…",
+   "image": "https://i.brecorder.com/large/2026/10/15195608fcf11b6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan, Islamic Development Bank advance $5.6bn cooperation in infrastructure development",
+   "url": "https://www.brecorder.com/news/40444381/pakistan-islamic-development-bank-advance-56bn-cooperation-in-infrastructure-development",
+   "source": "Business Recorder",
+   "published": "2026-10-15T15:03:43+00:00",
+   "summary": "Pakistan and Islamic Development Bank (IsDB) advanced on Thursday $5.6 billion cooperation in infrastructure development, enhanced trade and polio eradication, an official statement read. The development came as Federal Minister for Economic Affairs Ahad Khan Cheema met H.E. Dr. Muhammad Sulaiman Al Jasser, Chairman of…",
+   "image": "https://i.brecorder.com/large/2026/10/152002449d0938f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF",
+   "url": "https://www.dawn.com/news/2037355/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
+   "source": "Dawn",
+   "published": "2026-10-15T14:09:20+00:00",
+   "summary": "India is expected to become the world’s fourth-largest economy by 2027, overtaking Japan, according to International Monetary Fund (IMF) projections that on Thursday laid out the Asian nations’ contrasting trajectories. The IMF said Japan would remain the fourth-largest country by nominal gross domestic product this ye…",
+   "image": "https://i.dawn.com/large/2026/10/15160415981f764.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Asia rice: Indian prices hit more than one-year high; Vietnam rates rise",
+   "url": "https://www.brecorder.com/news/40444389/asia-rice-indian-prices-hit-more-than-one-year-high-vietnam-rates-rise",
+   "source": "Business Recorder",
+   "published": "2026-10-15T12:42:26+00:00",
+   "summary": "Asian rice export prices in key hubs remained firm this week, with Indian rates hitting a more than one-year high on stronger rupee and crop supply concerns, while Vietnamese prices rose to a near two-month high on expectations of stronger demand. India’s 5% broken parboiled variety was quoted at $384-$389 per ton this…",
+   "image": "https://i.brecorder.com/large/2026/10/15174213c2f1172.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nestle India flags food, commodity inflation after profit surges 36%",
+   "url": "https://www.brecorder.com/news/40444385/nestle-india-flags-food-commodity-inflation-after-profit-surges-36",
+   "source": "Business Recorder",
+   "published": "2026-10-15T11:40:54+00:00",
+   "summary": "Nestle India flagged inflation and rising commodity prices as challenges on Thursday after resilient demand for Maggi instant noodles and Nescafe coffee helped drive a 36% jump in its second-quarter profit. Consumption tax cuts and selective price increases have supported sales growth for Indian consumer goods makers, …",
+   "image": "https://i.brecorder.com/large/2026/10/151640437c164bf.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's September merchandise trade deficit widens to $30.21 billion",
+   "url": "https://www.brecorder.com/news/40444380/indias-september-merchandise-trade-deficit-widens-to-3021-billion",
+   "source": "Business Recorder",
+   "published": "2026-10-15T11:03:25+00:00",
+   "summary": "NEW DELHI: India’s merchandise trade deficit widened to $30.21 billion in September from $26.86 billion in the previous month as imports grew faster than exports, government data on Thursday showed. Economists had expected the merchandise trade deficit to amount to $30.4 billion, according to a Reuters poll. Merchandis…",
+   "image": "https://i.brecorder.com/large/2026/10/151603171b1d911.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
+   "url": "https://www.brecorder.com/news/40444378/indias-rbi-has-spent-half-of-140-billion-fx-capital-haul-in-rupee-defence-bankers-estimate",
+   "source": "Business Recorder",
+   "published": "2026-10-15T10:58:19+00:00",
+   "summary": "MUMBAI: India has used up about half of the more than $140 billion it mobilised through special measures to bolster its foreign exchange war chest earlier this year, highlighting pressure on the rupee and the central bank’s determination to turn the tide. The Reserve Bank of India’s spot market dollar sales to support …",
+   "image": "https://i.brecorder.com/large/2026/10/15155732bb6f971.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper hits 10-day low on profit-taking as supply worries ease",
+   "url": "https://www.brecorder.com/news/40444376/copper-hits-10-day-low-on-profit-taking-as-supply-worries-ease",
+   "source": "Business Recorder",
+   "published": "2026-10-15T10:52:41+00:00",
+   "summary": "LONDON: Copper prices eased to their weakest in 10 days on Thursday, hit by profit-taking on reduced worries about supply, a sell-off in AI stocks, along with concerns about rising inflation and interest rates. Benchmark three-month copper on the London Metal Exchange shed 1.2% to $14,314 a metric ton by 1030 GMT after…",
+   "image": "https://i.brecorder.com/large/2026/10/15155225df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm oil slips as weaker rival oils outweigh strong export outlook",
+   "url": "https://www.brecorder.com/news/40444373/palm-oil-slips-as-weaker-rival-oils-outweigh-strong-export-outlook",
+   "source": "Business Recorder",
+   "published": "2026-10-15T10:40:21+00:00",
+   "summary": "JAKARTA: Malaysian palm oil futures eased on Thursday, ending a three-session winning streak, as weaker rival vegetable oils on the Dalian and Chicago markets pressured prices, despite stronger export estimates for the first half of October. The benchmark December palm oil contract on the Bursa Malaysia Derivatives Exc…",
+   "image": "https://i.brecorder.com/large/2026/10/151540078219a15.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee extends winning streak as dollar, oil ease and stocks rally",
+   "url": "https://www.brecorder.com/news/40444370/indian-rupee-extends-winning-streak-as-dollar-oil-ease-and-stocks-rally",
+   "source": "Business Recorder",
+   "published": "2026-10-15T10:27:14+00:00",
+   "summary": "MUMBAI: The Indian rupee strengthened for the fourth straight session on Thursday, aided by a broadly weaker dollar, lower oil prices and a surge in stocks, as well as a likely central bank intervention. The Indian rupee ended 0.1% higher at 95.0550 per dollar. The currency has risen 2% so far this week after coming ne…",
+   "image": "https://i.brecorder.com/large/2026/10/15152654318e886.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan seeks Alibaba cooperation for cashless economy, SME exports",
@@ -327,142 +471,12 @@
    "domestic": false
   },
   {
-   "title": "Malaysian palm oil falls on weaker rival oils, export data eyed",
-   "url": "https://www.brecorder.com/news/40444337/malaysian-palm-oil-falls-on-weaker-rival-oils-export-data-eyed",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:19:58+00:00",
-   "summary": "JAKARTA: Malaysian palm oil futures eased on Thursday, snapping a three-session rally as weaker rival vegetable oils on the Dalian and Chicago markets weighed on prices, while traders awaited export data for fresh demand cues. The benchmark December palm oil contract on the Bursa Malaysia Derivatives Exchange was down …",
-   "image": "https://i.brecorder.com/large/2026/10/15111938c7d44c8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "TSMC reports sixth straight quarter of record profit thanks to AI boom",
-   "url": "https://www.brecorder.com/news/40444335/tsmc-reports-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:11:32+00:00",
-   "summary": "TAIPEI: TSMC, the world’s largest manufacturer of advanced AI chips, reported a sixth consecutive quarter of record earnings on Thursday, driven by booming infrastructure spending in the tech sector. Analysts say demand for Taiwan Semiconductor Manufacturing Co’s (TSMC) AI chipmaking capacity, as well as its advanced c…",
-   "image": "https://i.brecorder.com/large/2026/10/151111060e9d2ce.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying continues at bourse, KSE-100 up over 900 points",
-   "url": "https://www.brecorder.com/news/40444333/psx-buying-continues-at-bourse-kse-100-up-over-900-points",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:04:31+00:00",
-   "summary": "Buying continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 800 points during the opening hours of trading on Thursday. At 11am, the benchmark index was hovering at 166,330.33, up 912.83 points or 0.55%. Key sectors saw buying, including automobile assemblers, commercial banks, …",
-   "image": "https://i.brecorder.com/large/2026/10/151008255b0e5ab.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Aurangzeb meets IMF chief, briefs investors on Pakistan’s economy",
-   "url": "https://www.brecorder.com/news/40444332/aurangzeb-meets-imf-chief-briefs-investors-on-pakistans-economy",
-   "source": "Business Recorder",
-   "published": "2026-10-15T04:51:32+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb met International Monetary Fund (IMF) Managing Director Kristalina Georgieva and briefed international investors on Pakistan’s economic stabilisation, fiscal consolidation and efforts to diversify external financing on the sidelines of the IMF-World Bank Annual Meetings 2026 in Bangk…",
-   "image": "https://i.brecorder.com/large/2026/10/15095036aadc610.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX extends gains as KSE-100 climbs over 1,400 points",
+   "title": "PSX gains 769 points despite profit-taking",
    "url": "https://tribune.com.pk/story/2634990/psx-extends-gains-as-kse-100-climbs-over-1400-points",
    "source": "The Express Tribune",
    "published": "2026-10-15T03:38:42+00:00",
-   "summary": "Trading volume reaches 112.76 million shares, while the value of shares traded stands at Rs6.84 billion",
+   "summary": "KSE-100 reclaims 166,000 level amid broad-based buying",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold rebounds from one-week low as dollar slips",
-   "url": "https://www.brecorder.com/news/40444331/gold-rebounds-from-one-week-low-as-dollar-slips",
-   "source": "Business Recorder",
-   "published": "2026-10-15T03:30:36+00:00",
-   "summary": "Gold rose ‌more than 1% on Thursday , rebounding from a one-week low hit in the previous session as the US dollar eased, while investors assessed the likelihood of a Federal Reserve interest rate increase this month ​after a hot inflation report. Spot gold was up 1.3% at $4,158.63 per ounce, as ​of 0257 GMT, after hitt…",
-   "image": "https://i.brecorder.com/large/2026/10/15082720435c946.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF warns of slowing Asian growth, spillover from rising yields",
-   "url": "https://www.brecorder.com/news/40444330/imf-warns-of-slowing-asian-growth-spillover-from-rising-yields",
-   "source": "Business Recorder",
-   "published": "2026-10-15T03:25:15+00:00",
-   "summary": "BANGKOK: The International Monetary Fund on Thursday projected Asia’s economic growth would moderate next year ‌and warned of heightening risks from the Iran war-induced energy shock, a potential correction in the AI boom and spillovers from rising global bond yields. In a report on the outlook for the Asia-Pacific reg…",
-   "image": "https://i.brecorder.com/large/2026/10/15082301474f668.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to rise after US yields reverse inflation-led spike, Fed hike bets remain low",
-   "url": "https://www.brecorder.com/news/40444326/indian-rupee-to-rise-after-us-yields-reverse-inflation-led-spike-fed-hike-bets-remain-low",
-   "source": "Business Recorder",
-   "published": "2026-10-15T03:07:04+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to rise at the open on Thursday , boosted by the pullback in US Treasury yields after ​an initial rise on sticky inflation data, with traders still pricing ‌in limited chances of a Federal Reserve rate hike in October. The india rupee is expected to open in the 95.02 to 95.06 range, p…",
-   "image": "https://i.brecorder.com/large/2026/10/1508035718c1492.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares set to open lower as hot US inflation raises rate worries",
-   "url": "https://www.brecorder.com/news/40444325/indian-shares-set-to-open-lower-as-hot-us-inflation-raises-rate-worries",
-   "source": "Business Recorder",
-   "published": "2026-10-15T03:02:24+00:00",
-   "summary": "Indian shares are set to open lower on Thursday , tracking Asian peers as a quicker-than-expected increase in US consumer price inflation raised expectations of another rate hike by the Federal ​Reserve this year. Higher US rates make emerging markets such as India less ‌attractive for overseas investors, who have alre…",
-   "image": "https://i.brecorder.com/large/2026/10/150800261edc5fc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asian markets sell off as AI trades crumble after hot US CPI data",
-   "url": "https://www.brecorder.com/news/40444324/asian-markets-sell-off-as-ai-trades-crumble-after-hot-us-cpi-data",
-   "source": "Business Recorder",
-   "published": "2026-10-15T02:59:17+00:00",
-   "summary": "SINGAPORE: Markets started the day on the back foot ‌as trading kicked off in Asia on Thursday , as a quicker-than-expected increase in US consumer price inflation upped expectations for the Federal Reserve to act later this year and pushed stocks lower. MSCI’s broadest index of Asia-Pacific shares outside Japan was do…",
-   "image": "https://i.brecorder.com/large/2026/10/1507574330306cb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets",
-   "url": "https://www.brecorder.com/news/40444323/dollar-retreats-from-18-month-high-despite-hot-cpi-as-fed-officials-temper-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-10-15T02:55:27+00:00",
-   "summary": "HONG KONG: The dollar slipped from an 18-month peak on Thursday despite hotter-than-expected inflation ​data, as cautious remarks from Federal Reserve officials and a pullback in Treasury yields led traders ‌to scale back expectations of an October rate hike. Against the dollar, the euro bounced 0.3% from an 18-month l…",
-   "image": "https://i.brecorder.com/large/2026/10/150750516fad0eb.webp",
    "topics": [
     "Economy"
    ],
@@ -600,6 +614,32 @@
    "domestic": false
   },
   {
+   "title": "PSX: Stocks close higher as KSE-100 index gains over 700 points",
+   "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-700-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close higher as KSE-100 index gains over 700 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Envato.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Finance Minister discusses M6 motorway financing with OPEC fund president",
+   "url": "https://arynews.tv/finance-minister-discusses-m6-motorway-financing-with-opec-fund-president",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Finance Minister discusses M6 motorway financing with OPEC fund president",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/finance-minister-opec-fund.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "IMF warns Gulf economies will not return to pre-war growth soon",
    "url": "https://arynews.tv/imf-warns-gulf-economies-not-return-pre-war-growth-soon",
    "source": "ARY News",
@@ -610,19 +650,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close lower as KSE-100 index dips over 347 points",
-   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-347-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close lower as KSE-100 index dips over 347 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
