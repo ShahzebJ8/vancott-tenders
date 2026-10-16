@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-15T22:37:59+00:00",
+ "generated": "2026-10-16T01:03:03+00:00",
  "count": 50,
- "relevant_count": 20,
- "domestic_count": 12,
+ "relevant_count": 17,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (19)",
@@ -10,6 +10,45 @@
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Camel milk powder manufacturing plant: Punjab agrees to provide land in Faisalabad SEZ",
+   "url": "https://www.brecorder.com/news/40444413/camel-milk-powder-manufacturing-plant-punjab-agrees-to-provide-land-in-faisalabad-sez",
+   "source": "Business Recorder",
+   "published": "2026-10-16T00:31:35+00:00",
+   "summary": "LAHORE: Punjab is set to attract investment in camel milk processing, with the provincial government agreeing to provide four acres of land in Faisalabad’s Special Economic Zone (SEZ) for the establishment of a camel milk powder manufacturing plant by ELC Biotechnology (Pvt) Limited, aimed at exporting the product to S…",
+   "image": "https://i.brecorder.com/large/2026/10/160058315d3a81f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Exporters to participate in Heimtextil trade fair 2027",
+   "url": "https://www.brecorder.com/news/40444418/exporters-to-participate-in-heimtextil-trade-fair-2027",
+   "source": "Business Recorder",
+   "published": "2026-10-16T00:31:35+00:00",
+   "summary": "KARACHI: Heimtextil 2027, the four-day international trade fair for home and contract textiles, will be held in Frankfurt, Germany, from January 12 to 15, 2027, with around 2,900 exhibitors expected from across the world. A record number of Pakistani textile and carpet manufacturers and exporters are also expected to p…",
+   "image": "https://i.brecorder.com/large/2026/10/16012449aaaf1cd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Section 176 notices: IHC sets aside FTO’s findings against tax official",
+   "url": "https://www.brecorder.com/news/40444431/section-176-notices-ihc-sets-aside-ftos-findings-against-tax-official",
+   "source": "Business Recorder",
+   "published": "2026-10-16T00:31:35+00:00",
+   "summary": "ISLAMABAD: The Islamabad High Court (IHC) has set aside the findings of the Federal Tax Ombudsman (FTO) regarding disciplinary action against a tax official who issued notices to taxpayers under Section 176 of the Income Tax Ordinance. In this regard, the IHC has issued a judgment in a W.P.NO.3402 of 2020 (Raashid Mahm…",
+   "image": "https://i.brecorder.com/large/2026/10/16013652c79e621.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "FBR extends deadline for filing income tax returns to Oct 31",
    "url": "https://www.dawn.com/news/2037394/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-31",
@@ -168,43 +207,16 @@
    "domestic": true
   },
   {
-   "title": "FBR further extends tax return filing deadline to October 31",
-   "url": "https://www.brecorder.com/news/40444403/fbr-further-extends-tax-return-filing-deadline-to-october-31",
+   "title": "Export industry challenges: PHMA (North Zone) vows joint efforts",
+   "url": "https://www.brecorder.com/news/40444425/export-industry-challenges-phma-north-zone-vows-joint-efforts",
    "source": "Business Recorder",
-   "published": "2026-10-15T17:38:39+00:00",
-   "summary": "The Federal Board of Revenue (FBR) on Thursday further extended the deadline for filing income tax returns for Tax Year 2026 to October 31, 2026, providing taxpayers additional two weeks to submit their returns. The FBR had previously extended the deadline from September 30 to October 15. “This extension is being grant…",
-   "image": "https://i.brecorder.com/large/2026/10/15215625fb57f30.webp",
+   "published": "2026-10-16T00:31:35+00:00",
+   "summary": "FAISALABAD: The monthly meeting of the Zonal Committee of the Pakistan Hosiery Manufacturers and Exporters Association (PHMA) North Zone was held on October 14, at the PHMA Zonal Office in Faisalabad, under the chairmanship of Mian Farrukh Iqbal. The meeting discussed in detail the challenges facing the hosiery and val…",
+   "image": "https://i.brecorder.com/large/2026/10/16013155e5a283c.webp",
    "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan targets 4% growth in FY27 as reforms gather pace: Aurangzeb",
-   "url": "https://www.brecorder.com/news/40444400/pakistan-targets-4-growth-in-fy27-as-reforms-gather-pace-aurangzeb",
-   "source": "Business Recorder",
-   "published": "2026-10-15T15:49:42+00:00",
-   "summary": "Pakistan expects its economy to grow around 4% in fiscal year 2026-27, supported by a recovery in industry and agriculture, as the government seeks to move beyond macroeconomic stabilisation towards sustainable, investment- and export-led growth, Finance Minister Muhammad Aurangzeb has said. Speaking with Michael Kugel…",
-   "image": "https://i.brecorder.com/large/2026/10/152047351444e0f.webp",
-   "topics": [
-    "Budget & spending",
     "Economy"
    ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF",
-   "url": "https://www.brecorder.com/news/40444401/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
-   "source": "Business Recorder",
-   "published": "2026-10-15T15:44:58+00:00",
-   "summary": "BANGKOK: India is expected to become the world’s fourth-largest economy by 2027, overtaking Japan, according to International Monetary Fund projections that on Thursday laid out the Asian nations’ contrasting trajectories. The IMF said Japan would remain the fourth-largest country by nominal gross domestic product this…",
-   "image": "https://i.brecorder.com/large/2026/10/1520443503d1e2e.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -221,14 +233,14 @@
    "domestic": false
   },
   {
-   "title": "Pakistan, Islamic Development Bank advance $5.6bn cooperation in infrastructure development",
-   "url": "https://www.brecorder.com/news/40444381/pakistan-islamic-development-bank-advance-56bn-cooperation-in-infrastructure-development",
-   "source": "Business Recorder",
-   "published": "2026-10-15T15:03:43+00:00",
-   "summary": "Pakistan and Islamic Development Bank (IsDB) advanced on Thursday $5.6 billion cooperation in infrastructure development, enhanced trade and polio eradication, an official statement read. The development came as Federal Minister for Economic Affairs Ahad Khan Cheema met H.E. Dr. Muhammad Sulaiman Al Jasser, Chairman of…",
-   "image": "https://i.brecorder.com/large/2026/10/152002449d0938f.webp",
+   "title": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF",
+   "url": "https://www.dawn.com/news/2037355/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
+   "source": "Dawn",
+   "published": "2026-10-15T14:09:20+00:00",
+   "summary": "India is expected to become the world’s fourth-largest economy by 2027, overtaking Japan, according to International Monetary Fund (IMF) projections that on Thursday laid out the Asian nations’ contrasting trajectories. The IMF said Japan would remain the fourth-largest country by nominal gross domestic product this ye…",
+   "image": "https://i.dawn.com/large/2026/10/15160415981f764.webp",
    "topics": [
-    "Construction & projects"
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
@@ -257,20 +269,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Nestle India flags food, commodity inflation after profit surges 36%",
-   "url": "https://www.brecorder.com/news/40444385/nestle-india-flags-food-commodity-inflation-after-profit-surges-36",
-   "source": "Business Recorder",
-   "published": "2026-10-15T11:40:54+00:00",
-   "summary": "Nestle India flagged inflation and rising commodity prices as challenges on Thursday after resilient demand for Maggi instant noodles and Nescafe coffee helped drive a 36% jump in its second-quarter profit. Consumption tax cuts and selective price increases have supported sales growth for Indian consumer goods makers, …",
-   "image": "https://i.brecorder.com/large/2026/10/151640437c164bf.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
