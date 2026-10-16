@@ -1,22 +1,48 @@
 {
- "generated": "2026-10-16T10:37:46+00:00",
- "count": 46,
- "relevant_count": 18,
- "domestic_count": 11,
+ "generated": "2026-10-16T15:12:51+00:00",
+ "count": 51,
+ "relevant_count": 17,
+ "domestic_count": 12,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "Pakistan seeks Fitch's assessment for BB sovereign rating",
-   "url": "https://www.brecorder.com/news/40444518/pakistan-seeks-fitchs-assessment-for-bb-sovereign-rating",
+   "title": "Short-term inflation surges to 11.38pc due to costly food",
+   "url": "https://www.dawn.com/news/2037605/short-term-inflation-surges-to-1138pc-due-to-costly-food",
+   "source": "Dawn",
+   "published": "2026-10-16T13:18:16+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 11.38 per cent year-on-year in the week ending October 15, driven largely by higher food prices , according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. Of the 51 essential items monitored during the week, prices of 23 commodities (45.10pc) incr…",
+   "image": "https://i.dawn.com/large/2026/10/16180522d19a554.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan posts $356mn current account deficit in Sept 2026",
+   "url": "https://www.brecorder.com/news/40444553/pakistan-posts-356mn-current-account-deficit-in-sept-2026",
    "source": "Business Recorder",
-   "published": "2026-10-16T05:55:22+00:00",
-   "summary": "Pakistan has sought Fitch Ratings’ assessment of the requirements for progressing towards the BB sovereign rating category. The development came during a meeting between Finance Minister Muhammad Aurangzeb and the Governor of the State Bank of Pakistan (SBP) with Fitch Ratings on the sidelines of the World Bank Group–I…",
-   "image": "https://i.brecorder.com/large/2026/10/16105231349e409.webp",
+   "published": "2026-10-16T12:49:17+00:00",
+   "summary": "Pakistan’s current account posted a deficit of $356 million in September 2026, data released by the State Bank of Pakistan (SBP) showed on Friday. The latest figure follows a deficit of $73 million recorded in August 2026 and a surplus of $133 million in September 2025. The August 2026 deficit was revised down from $98…",
+   "image": "https://i.brecorder.com/large/2026/10/16171255c2da92c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40444540/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-16T10:47:50+00:00",
+   "summary": "The Pakistani rupee stretched its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 276.91, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 276.92 against the dollar. Internationally, the US dollar headed for its first weekly fa…",
+   "image": "https://i.brecorder.com/large/2026/10/161547347cb1bca.webp",
    "topics": [
     "Economy"
    ],
@@ -115,19 +141,6 @@
    "domestic": true
   },
   {
-   "title": "Quarterly auto sales rise despite sluggish September",
-   "url": "https://www.dawn.com/news/2037009/quarterly-auto-sales-rise-despite-sluggish-september",
-   "source": "Dawn",
-   "published": "2026-10-14T03:03:46+00:00",
-   "summary": "KARACHI: Despite a 12 per cent year-on-year and 3pc month-on-month drop in sales of cars, SUVs, pickups and vans to 15,104 units in September, cumulative sales rose 19pc in 1QFY27 to 50,480 units. Sania Irfan of Topline Securities attributed the decline in total sales to delayed clarity on the HEV/PHEV sales tax policy…",
-   "image": "https://i.dawn.com/large/2026/10/140757422a280c8.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Gender gap in financial inclusion narrows",
    "url": "https://www.dawn.com/news/2037006/gender-gap-in-financial-inclusion-narrows",
    "source": "Dawn",
@@ -152,6 +165,150 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Pakistan’s IT exports hit $435mn in September, second-highest ever",
+   "url": "https://www.brecorder.com/news/40444566/pakistans-it-exports-hit-435mn-in-september-second-highest-ever",
+   "source": "Business Recorder",
+   "published": "2026-10-16T14:53:45+00:00",
+   "summary": "Pakistan’s IT and tech exports rose to $435 million in September 2026, the second-highest monthly figure on record, Adviser to the Finance Minister Khurram Schehzad said on Friday. In a post on X, Schehzad said the September total was $2 million below the all-time high of $437 million set in December 2025. Exports grew…",
+   "image": "https://i.brecorder.com/large/2026/10/16195123722c53c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Aurangzeb discusses Sukuk, Panda bonds with Standard Chartered",
+   "url": "https://www.brecorder.com/news/40444564/aurangzeb-discusses-sukuk-panda-bonds-with-standard-chartered",
+   "source": "Business Recorder",
+   "published": "2026-10-16T14:31:08+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb has discussed potential Sukuk issuance, further Panda bonds and other financing options with Standard Chartered Bank (SCB) to support Pakistan’s external financing needs and infrastructure investment. The meeting, held on the sidelines of the World Bank Group-IMF Annual Meetings 2026…",
+   "image": "https://i.brecorder.com/large/2026/10/16192955e076953.webp",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Aggressive RBI measures hand India bonds a ninth weekly loss",
+   "url": "https://www.brecorder.com/news/40444561/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss",
+   "source": "Business Recorder",
+   "published": "2026-10-16T13:45:50+00:00",
+   "summary": "MUMBAI: Indian government bonds nursed losses for a ninth straight week, battered by the Reserve Bank of India’s rupee defence, which has sharpened its tightening bias, clouded the policy outlook and sapped demand for debt. The benchmark 6.94% 2036 bond yield rose around8 basis points this week to 7.3789%, extending it…",
+   "image": "https://i.brecorder.com/large/2026/10/161845269842b40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE stocks track global shares higher",
+   "url": "https://www.brecorder.com/news/40444558/uae-stocks-track-global-shares-higher",
+   "source": "Business Recorder",
+   "published": "2026-10-16T13:36:22+00:00",
+   "summary": "Stock market in the United Arab Emirates closed higher on Friday, in line with global equities, with Dubai outperforming its regional peer as investors assessed geopolitical developments and focused on diplomatic solutions. European stocks — which had been hit less hard by Thursday’s selloff — were mostly higher on Fri…",
+   "image": "https://i.brecorder.com/large/2026/10/16183527a97e147.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper leads base metals higher ahead of LME Week",
+   "url": "https://www.brecorder.com/news/40444557/copper-leads-base-metals-higher-ahead-of-lme-week",
+   "source": "Business Recorder",
+   "published": "2026-10-16T13:31:35+00:00",
+   "summary": "LONDON: Copper prices led other base metals higher on Friday as a weaker dollar offered support, while equity markets stabilised after Thursday’s sharp selloff in technology stocks, improving risk appetite for growth-dependent metals. Benchmark three-month copper on the London Metal Exchange rose 0.9% to $14,480 a metr…",
+   "image": "https://i.brecorder.com/large/2026/10/161831141cfe758.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm oil posts over 3% weekly gains",
+   "url": "https://www.brecorder.com/news/40444555/palm-oil-posts-over-3-weekly-gains",
+   "source": "Business Recorder",
+   "published": "2026-10-16T12:28:20+00:00",
+   "summary": "JAKARTA: Malaysian palm oil futures climbed on Friday, supported by bargain buying and strong export demand as cargo surveyors reported higher shipments in the first half of October. The benchmark palm oil contract for January delivery on the Bursa Malaysia Derivatives Exchange gained 44 ringgit, or 0.93%, to 4,769 rin…",
+   "image": "https://i.brecorder.com/large/2026/10/16172802c7d44c8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Iran ships some LPG, jet fuel despite US blockade, data shows",
+   "url": "https://www.brecorder.com/news/40444551/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows",
+   "source": "Business Recorder",
+   "published": "2026-10-16T12:09:01+00:00",
+   "summary": "DAMASCUS/LONDON: Iran has managed to export some liquefied petroleum gas and jet fuel since July, despite a US naval blockade, shipping intelligence showed and people involved in security said. Tehran has in recent weeks been concealing such cargoes among a growing volume of ship-to-ship transfers by other Gulf produce…",
+   "image": "https://i.brecorder.com/large/2026/10/1617084201613ae.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bajaj Housing Finance posts quarterly profit rise on strong loan growth",
+   "url": "https://www.brecorder.com/news/40444550/bajaj-housing-finance-posts-quarterly-profit-rise-on-strong-loan-growth",
+   "source": "Business Recorder",
+   "published": "2026-10-16T11:55:54+00:00",
+   "summary": "India’s Bajaj Housing Finance reported a 17.7% rise in second-quarter profit on Friday, helped by strong loan growth. The country’s biggest non-bank home loan financier by market value posted a profit of 7.57 billion rupees ($79.72 million) for the three months ended September 30 from 6.43 billion in the year-ago quart…",
+   "image": "https://i.brecorder.com/large/2026/10/16165432217f1cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "NBP inks MoU with PowerChina arm for green financing collaboration",
+   "url": "https://www.brecorder.com/news/40444548/nbp-inks-mou-with-powerchina-arm-for-green-financing-collaboration",
+   "source": "Business Recorder",
+   "published": "2026-10-16T11:46:31+00:00",
+   "summary": "National Bank of Pakistan (NBP) has signed a Memorandum of Understanding (MoU) with PowerChina|Integrity Energy Storage (Shanghai) Technology Co. Ltd. (I²-ESS), a subsidiary of the PowerChina Group, to collaborate on SME, commercial and corporate financing and explore green financing opportunities in renewable energy a…",
+   "image": "https://i.brecorder.com/large/2026/10/16164557854f7d0.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's Yes Bank expects AT1 reinstatement to cut core capital ratio by 250 bps",
+   "url": "https://www.brecorder.com/news/40444546/indias-yes-bank-expects-at1-reinstatement-to-cut-core-capital-ratio-by-250-bps",
+   "source": "Business Recorder",
+   "published": "2026-10-16T11:38:52+00:00",
+   "summary": "India’s Yes Bank said on Friday it expects the reinstatement of its previously written-off additional tier-1 (AT1) bonds to reduce its core capital ratio by about 250 basis points. On Thursday, the country’s top court set aside the bank’s write-off of 84 billion rupees ($883.7 million) in additional tier-1 bonds during…",
+   "image": "https://i.brecorder.com/large/2026/10/16163642ee3d9da.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee posts best week in seven months, fundamentals key for lasting turnaround",
+   "url": "https://www.brecorder.com/news/40444543/indian-rupee-posts-best-week-in-seven-months-fundamentals-key-for-lasting-turnaround",
+   "source": "Business Recorder",
+   "published": "2026-10-16T11:22:12+00:00",
+   "summary": "MUMBAI: The Indian rupee rose 2% this week to post its biggest weekly gain in seven months, buoyed by policy measures aimed at boosting the currency, though analysts reckon a sustained turnaround hinges on an easing of underlying strains. The Indian currency closed at 94.96 per dollar, up 0.1% on the day. It recovered …",
+   "image": "https://i.brecorder.com/large/2026/10/161621434c3ffd2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan discusses reforms with MSCI, Deutsche Bank",
@@ -180,19 +337,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: buying continues. KSE-100 up over 300 points",
-   "url": "https://www.brecorder.com/news/40444524/psx-buying-continues-kse-100-up-over-300-points",
-   "source": "Business Recorder",
-   "published": "2026-10-16T08:30:00+00:00",
-   "summary": "Buying interest was evident at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 300 points during the first half of the trading session on Friday. At 12pm, the benchmark index was hovering at 166,532.86, up 346.70 points or 0.21%. Key sectors saw buying, including automobile assemblers, …",
-   "image": "https://i.brecorder.com/large/2026/10/16113446e48c390.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan to assume IMF, World Bank board chairmanship for first time in over 7 decades",
    "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-imf-world-bank-board-chairmanship-for-first-time-in-over-7-decades",
    "source": "Dawn",
@@ -201,19 +345,6 @@
    "image": "https://i.dawn.com/large/2026/10/16133656b38ac29.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Oil eases, but set for weekly gain on Mideast supply risks",
-   "url": "https://www.brecorder.com/news/40444504/oil-eases-but-set-for-weekly-gain-on-mideast-supply-risks",
-   "source": "Business Recorder",
-   "published": "2026-10-16T07:27:36+00:00",
-   "summary": "BEIJING/SINGAPORE: Oil prices eased on Friday but were heading for weekly gains on uncertainty over Middle East supplies and a larger-than-expected draw from crude stockpiles in the United States. Houthis claim attack targeting Riyadh airport with ballistic missile Brent crude futures fell 50 cents, or 0.47%, to $105.4…",
-   "image": "https://i.brecorder.com/large/2026/10/160734372a8a32c.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -336,11 +467,11 @@
    "domestic": false
   },
   {
-   "title": "PSX edges higher to 166,533 points",
+   "title": "PSX edges 233 points higher to close at 166,419 points",
    "url": "https://tribune.com.pk/story/2635189/psx-edges-higher-to-166533-points",
    "source": "The Express Tribune",
    "published": "2026-10-16T03:56:53+00:00",
-   "summary": "KSE-100 gains 347 points ahead of Friday prayers break",
+   "summary": "KSE-100 Index opened near the previous close of 166,186.16",
    "image": null,
    "topics": [
     "Economy"
@@ -359,19 +490,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to rise as offshore traders cut bearish bets, RBI clarifies hedging rules",
-   "url": "https://www.brecorder.com/news/40444507/indian-rupee-to-rise-as-offshore-traders-cut-bearish-bets-rbi-clarifies-hedging-rules",
-   "source": "Business Recorder",
-   "published": "2026-10-16T02:48:52+00:00",
-   "summary": "MUMBAI: The Indian rupee is poised to rally despite weakness across Asian peers , with offshore traders cutting bets against the Asian ​currency and expectations of continued central bank dollar selling lending ‌support. The Indian rupee is expected to open in the 94.75 to 94.80 range, per traders, having settled at 95…",
-   "image": "https://i.brecorder.com/large/2026/10/160747434f99e53.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -427,19 +545,6 @@
    "domestic": false
   },
   {
-   "title": "Nasdaq slides to near one-month low as AI rout deepens",
-   "url": "https://www.brecorder.com/news/40444398/nasdaq-slides-to-near-one-month-low-as-ai-rout-deepens",
-   "source": "Business Recorder",
-   "published": "2026-10-15T15:05:12+00:00",
-   "summary": "The Nasdaq fell to near one-month lows on Thursday, weighed by a worsening selloff in AI-linked stocks on fears rising interest rates could impact artificial-intelligence investments and fresh data pointing to building US price pressures. The S&P 500 and the Nasdaq marked their biggest one-day fall since July on Wednes…",
-   "image": "https://i.brecorder.com/large/2026/10/15195608fcf11b6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF",
    "url": "https://www.dawn.com/news/2037355/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
    "source": "Dawn",
@@ -450,45 +555,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Asia rice: Indian prices hit more than one-year high; Vietnam rates rise",
-   "url": "https://www.brecorder.com/news/40444389/asia-rice-indian-prices-hit-more-than-one-year-high-vietnam-rates-rise",
-   "source": "Business Recorder",
-   "published": "2026-10-15T12:42:26+00:00",
-   "summary": "Asian rice export prices in key hubs remained firm this week, with Indian rates hitting a more than one-year high on stronger rupee and crop supply concerns, while Vietnamese prices rose to a near two-month high on expectations of stronger demand. India’s 5% broken parboiled variety was quoted at $384-$389 per ton this…",
-   "image": "https://i.brecorder.com/large/2026/10/15174213c2f1172.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's September merchandise trade deficit widens to $30.21 billion",
-   "url": "https://www.brecorder.com/news/40444380/indias-september-merchandise-trade-deficit-widens-to-3021-billion",
-   "source": "Business Recorder",
-   "published": "2026-10-15T11:03:25+00:00",
-   "summary": "NEW DELHI: India’s merchandise trade deficit widened to $30.21 billion in September from $26.86 billion in the previous month as imports grew faster than exports, government data on Thursday showed. Economists had expected the merchandise trade deficit to amount to $30.4 billion, according to a Reuters poll. Merchandis…",
-   "image": "https://i.brecorder.com/large/2026/10/151603171b1d911.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's RBI has spent half of $140 billion FX capital haul in rupee defence, bankers estimate",
-   "url": "https://www.brecorder.com/news/40444378/indias-rbi-has-spent-half-of-140-billion-fx-capital-haul-in-rupee-defence-bankers-estimate",
-   "source": "Business Recorder",
-   "published": "2026-10-15T10:58:19+00:00",
-   "summary": "MUMBAI: India has used up about half of the more than $140 billion it mobilised through special measures to bolster its foreign exchange war chest earlier this year, highlighting pressure on the rupee and the central bank’s determination to turn the tide. The Reserve Bank of India’s spot market dollar sales to support …",
-   "image": "https://i.brecorder.com/large/2026/10/15155732bb6f971.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -544,6 +610,19 @@
    "domestic": false
   },
   {
+   "title": "Gold prices rise in Pakistan as weaker dollar supports global bullion",
+   "url": "https://arynews.tv/gold-prices-rise-in-pakistan-as-weaker-dollar-supports-global-bullion",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Gold prices rise in Pakistan as weaker dollar supports global bullion",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Gold.jpg.jpeg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "FBR reforms should focus on institutional strengthening, says officers’ association",
    "url": "https://arynews.tv/fbr-reforms-should-focus-on-institutional-strengthening-says-officers-association",
    "source": "ARY News",
@@ -591,19 +670,6 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/finance-minister-opec-fund.jpg",
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF warns Gulf economies will not return to pre-war growth soon",
-   "url": "https://arynews.tv/imf-warns-gulf-economies-not-return-pre-war-growth-soon",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF warns Gulf economies will not return to pre-war growth soon",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/IMF-1.jpg",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
