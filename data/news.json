@@ -1,22 +1,22 @@
 {
- "generated": "2026-10-16T01:03:03+00:00",
- "count": 50,
- "relevant_count": 17,
- "domestic_count": 15,
+ "generated": "2026-10-16T10:37:46+00:00",
+ "count": 46,
+ "relevant_count": 18,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (19)",
-  "The Express Tribune": "ok (11)",
-  "ARY News": "ok (4)"
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (9)",
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "Camel milk powder manufacturing plant: Punjab agrees to provide land in Faisalabad SEZ",
-   "url": "https://www.brecorder.com/news/40444413/camel-milk-powder-manufacturing-plant-punjab-agrees-to-provide-land-in-faisalabad-sez",
+   "title": "Pakistan seeks Fitch's assessment for BB sovereign rating",
+   "url": "https://www.brecorder.com/news/40444518/pakistan-seeks-fitchs-assessment-for-bb-sovereign-rating",
    "source": "Business Recorder",
-   "published": "2026-10-16T00:31:35+00:00",
-   "summary": "LAHORE: Punjab is set to attract investment in camel milk processing, with the provincial government agreeing to provide four acres of land in Faisalabad’s Special Economic Zone (SEZ) for the establishment of a camel milk powder manufacturing plant by ELC Biotechnology (Pvt) Limited, aimed at exporting the product to S…",
-   "image": "https://i.brecorder.com/large/2026/10/160058315d3a81f.webp",
+   "published": "2026-10-16T05:55:22+00:00",
+   "summary": "Pakistan has sought Fitch Ratings’ assessment of the requirements for progressing towards the BB sovereign rating category. The development came during a meeting between Finance Minister Muhammad Aurangzeb and the Governor of the State Bank of Pakistan (SBP) with Fitch Ratings on the sidelines of the World Bank Group–I…",
+   "image": "https://i.brecorder.com/large/2026/10/16105231349e409.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,12 @@
    "domestic": true
   },
   {
-   "title": "Exporters to participate in Heimtextil trade fair 2027",
-   "url": "https://www.brecorder.com/news/40444418/exporters-to-participate-in-heimtextil-trade-fair-2027",
-   "source": "Business Recorder",
-   "published": "2026-10-16T00:31:35+00:00",
-   "summary": "KARACHI: Heimtextil 2027, the four-day international trade fair for home and contract textiles, will be held in Frankfurt, Germany, from January 12 to 15, 2027, with around 2,900 exhibitors expected from across the world. A record number of Pakistani textile and carpet manufacturers and exporters are also expected to p…",
-   "image": "https://i.brecorder.com/large/2026/10/16012449aaaf1cd.webp",
+   "title": "State Bank of Pakistan's reserves rise",
+   "url": "https://www.dawn.com/news/2037469/state-bank-of-pakistans-reserves-rise",
+   "source": "Dawn",
+   "published": "2026-10-16T02:27:54+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan’s foreign exchange reserves rose by $16 million to $21.469 billion during the week ended on Oct 9, reported the central bank on Thursday. The SBP has maintained a record-high increase in reserves since inflows of $3bn from the sale of Eurobonds, despite a rising trade deficit. The co…",
+   "image": "https://i.dawn.com/large/2026/10/16072656c5d4edf.webp",
    "topics": [
     "Economy"
    ],
@@ -37,16 +37,16 @@
    "domestic": true
   },
   {
-   "title": "Section 176 notices: IHC sets aside FTO’s findings against tax official",
-   "url": "https://www.brecorder.com/news/40444431/section-176-notices-ihc-sets-aside-ftos-findings-against-tax-official",
-   "source": "Business Recorder",
-   "published": "2026-10-16T00:31:35+00:00",
-   "summary": "ISLAMABAD: The Islamabad High Court (IHC) has set aside the findings of the Federal Tax Ombudsman (FTO) regarding disciplinary action against a tax official who issued notices to taxpayers under Section 176 of the Income Tax Ordinance. In this regard, the IHC has issued a judgment in a W.P.NO.3402 of 2020 (Raashid Mahm…",
-   "image": "https://i.brecorder.com/large/2026/10/16013652c79e621.webp",
+   "title": "Equities extend overnight recovery rally",
+   "url": "https://www.dawn.com/news/2037467/equities-extend-overnight-recovery-rally",
+   "source": "Dawn",
+   "published": "2026-10-16T02:03:26+00:00",
+   "summary": "KARACHI: Shrugging off the prevailing regional and political turmoil, which poses serious risks to macroeconomic stability amid inflationary pressures stemming from elevated oil prices and higher energy costs, the Pakistan Stock Exchange (PSX) on Thursday managed to sustain gains above the 166,000 level as equity inves…",
+   "image": "https://i.dawn.com/large/2026/10/160734082869c0f.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": true
   },
   {
@@ -71,19 +71,6 @@
    "image": "https://i.dawn.com/large/2026/10/15213447978dc65.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40444377/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-15T14:41:28+00:00",
-   "summary": "The Pakistani rupee stretched its marginal gains against the US dollar, appreciating 0.01% in the inter-bank market on Thursday. The local unit closed the day at 276.92, a gain of Re0.03 against the greenback. On Wednesday , the Pakistani rupee settled at 276.95 against the dollar. Internationally, the US dollar slippe…",
-   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -141,19 +128,6 @@
    "domestic": true
   },
   {
-   "title": "Exporters seek govt support to stem decline",
-   "url": "https://www.dawn.com/news/2037010/exporters-seek-govt-support-to-stem-decline",
-   "source": "Dawn",
-   "published": "2026-10-14T02:55:49+00:00",
-   "summary": "ISLAMABAD: Textile and clothing exporters have urged the government to introduce structural reforms and provide temporary financial support to arrest the sector’s downturn and protect Pakistan’s share in international markets amid mounting global competition. The proposals were laid out at a high-level meeting, chaired…",
-   "image": "https://i.dawn.com/large/2026/10/1407542062bfdd7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Gender gap in financial inclusion narrows",
    "url": "https://www.dawn.com/news/2037006/gender-gap-in-financial-inclusion-narrows",
    "source": "Dawn",
@@ -180,39 +154,272 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s growth during FY27 projected at 3.5pc, inflation at 9.9pc: IMF",
-   "url": "https://www.dawn.com/news/2036872/pakistans-growth-during-fy27-projected-at-35pc-inflation-at-99pc-imf",
-   "source": "Dawn",
-   "published": "2026-10-13T11:01:17+00:00",
-   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has projected Pakistan’s economic growth at 3.5 per cent during the current fiscal year and inflation to remain close to double digits for another year, notwithstanding global growth rebounding to 3.4pc. In its flagship World Economic Outlook, released at the launch of t…",
-   "image": "https://i.dawn.com/large/2026/10/13154130ac4f5d1.webp",
+   "title": "Pakistan discusses reforms with MSCI, Deutsche Bank",
+   "url": "https://www.brecorder.com/news/40444539/pakistan-discusses-reforms-with-msci-deutsche-bank",
+   "source": "Business Recorder",
+   "published": "2026-10-16T10:13:44+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb met representatives of Morgan Stanley Capital International (MSCI) and Deutsche Bank on the sidelines of the World Bank Group-IMF Annual Meetings 2026 in Bangkok to discuss Pakistan’s capital market reforms, financing options and investment prospects. At the meeting with MSCI, attend…",
+   "image": "https://i.brecorder.com/large/2026/10/16151316cebd7b2.webp",
    "topics": [
-    "Budget & spending",
-    "Economy"
+    "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "K-Electric ends temporary load shedding in Karachi",
-   "url": "https://arynews.tv/k-electric-ends-temporary-load-shedding-in-karachi",
-   "source": "ARY News",
-   "published": null,
-   "summary": "K-Electric ends temporary load shedding in Karachi",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/K-electric-load-shedding.jpg",
+   "title": "Pakistan to chair World Bank, IMF Boards in 2027",
+   "url": "https://www.brecorder.com/news/40444517/pakistan-to-chair-world-bank-imf-boards-in-2027",
+   "source": "Business Recorder",
+   "published": "2026-10-16T09:56:24+00:00",
+   "summary": "In a key development, Pakistan has been nominated to chair the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) in 2027, the Ministry of Economic Affairs said on Friday, marking the country’s first such appointment since 1953. “Federal Minister for Economic Affairs and Governo…",
+   "image": "https://i.brecorder.com/large/2026/10/16111608867a39d.webp",
    "topics": [
-    "Energy & power"
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying continues. KSE-100 up over 300 points",
+   "url": "https://www.brecorder.com/news/40444524/psx-buying-continues-kse-100-up-over-300-points",
+   "source": "Business Recorder",
+   "published": "2026-10-16T08:30:00+00:00",
+   "summary": "Buying interest was evident at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 300 points during the first half of the trading session on Friday. At 12pm, the benchmark index was hovering at 166,532.86, up 346.70 points or 0.21%. Key sectors saw buying, including automobile assemblers, …",
+   "image": "https://i.brecorder.com/large/2026/10/16113446e48c390.webp",
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Export industry challenges: PHMA (North Zone) vows joint efforts",
-   "url": "https://www.brecorder.com/news/40444425/export-industry-challenges-phma-north-zone-vows-joint-efforts",
+   "title": "Pakistan to assume IMF, World Bank board chairmanship for first time in over 7 decades",
+   "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-imf-world-bank-board-chairmanship-for-first-time-in-over-7-decades",
+   "source": "Dawn",
+   "published": "2026-10-16T08:28:35+00:00",
+   "summary": "Pakistan has been named the incoming chair of the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) for next year, for the first time since 1953, the Ministry of Economic Affairs said on Friday. Federal Minister for Economic Affairs Ahad Khan Cheema, who is also Pakistan’s gove…",
+   "image": "https://i.dawn.com/large/2026/10/16133656b38ac29.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Oil eases, but set for weekly gain on Mideast supply risks",
+   "url": "https://www.brecorder.com/news/40444504/oil-eases-but-set-for-weekly-gain-on-mideast-supply-risks",
    "source": "Business Recorder",
-   "published": "2026-10-16T00:31:35+00:00",
-   "summary": "FAISALABAD: The monthly meeting of the Zonal Committee of the Pakistan Hosiery Manufacturers and Exporters Association (PHMA) North Zone was held on October 14, at the PHMA Zonal Office in Faisalabad, under the chairmanship of Mian Farrukh Iqbal. The meeting discussed in detail the challenges facing the hosiery and val…",
-   "image": "https://i.brecorder.com/large/2026/10/16013155e5a283c.webp",
+   "published": "2026-10-16T07:27:36+00:00",
+   "summary": "BEIJING/SINGAPORE: Oil prices eased on Friday but were heading for weekly gains on uncertainty over Middle East supplies and a larger-than-expected draw from crude stockpiles in the United States. Houthis claim attack targeting Riyadh airport with ballistic missile Brent crude futures fell 50 cents, or 0.47%, to $105.4…",
+   "image": "https://i.brecorder.com/large/2026/10/160734372a8a32c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMF chief Georgieva sounds alarm about AI, cyber risks; urges cooperation",
+   "url": "https://www.brecorder.com/news/40444533/imf-chief-georgieva-sounds-alarm-about-ai-cyber-risks-urges-cooperation",
+   "source": "Business Recorder",
+   "published": "2026-10-16T07:08:28+00:00",
+   "summary": "BANGKOK: The head of the International Monetary Fund on Friday appealed to global financial leaders to cooperate in the face of multiple risks facing the global economy, including high debt levels, rapid advancements in AI and exponentially increasing cyberattacks. IMF’s Georgieva says US growth will not be enough to s…",
+   "image": "https://i.brecorder.com/large/2026/10/16120814cad7001.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan poised to strengthen for a third week in a row on strong exports",
+   "url": "https://www.brecorder.com/news/40444532/chinas-yuan-poised-to-strengthen-for-a-third-week-in-a-row-on-strong-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-16T07:04:28+00:00",
+   "summary": "SHANGHAI: China’s yuan held steady against the dollar on Friday and was poised to strengthen for a third week as robust exports buoy the Chinese currency despite wobbly growth in the domestic economy and rising yields globally. Signaling Beijing’s resistance to rapid yuan appreciation, China’s central bank governor sai…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bank of England's Bailey says second-round inflation pressures look subdued so far",
+   "url": "https://www.brecorder.com/news/40444508/bank-of-englands-bailey-says-second-round-inflation-pressures-look-subdued-so-far",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:54:25+00:00",
+   "summary": "BANGKOK: Soaring energy prices so far appear to be having limited wider effects on British prices, but it is too soon to draw firm conclusions about how strong such second-round effects will be, Bank of England Governor Andrew Bailey said ​on Friday. Most economists now expect the BoE to start raising rates next month,…",
+   "image": "https://i.brecorder.com/large/2026/10/160751076088985.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton",
+   "url": "https://www.brecorder.com/news/40444528/china-sets-2027-import-tariff-rate-quotas-for-wheat-rice-corn-and-cotton",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:47:46+00:00",
+   "summary": "BEIJING: China will maintain its 2027 wheat import tariff-rate quota at 9.64 million metric tons, unchanged from a year earlier, according to a notice issued by the state planner on Friday. Corn hits one-week high on US crop worries, soybeans firm Import tariff-rate quotas for rice, corn and cotton were also kept uncha…",
+   "image": "https://i.brecorder.com/large/2026/10/161147295fad767.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "London copper ticks up but heads for weekly loss",
+   "url": "https://www.brecorder.com/news/40444527/london-copper-ticks-up-but-heads-for-weekly-loss",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:45:36+00:00",
+   "summary": "London copper inched higher on Friday but headed for a weekly loss amid concerns over rising inflation and a selloff in AI-related stocks, while aluminium was on track for a fourth straight weekly decline. Benchmark three-month copper on the London Metal Exchange rose 0.3% to $14,383.50 a metric ton by 0150 GMT but was…",
+   "image": "https://i.brecorder.com/large/2026/10/16114511e03c893.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold gains on softer dollar, but heads for weekly fall",
+   "url": "https://www.brecorder.com/news/40444523/gold-gains-on-softer-dollar-but-heads-for-weekly-fall",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:31:11+00:00",
+   "summary": "Gold edged higher on Friday as the dollar weakened, but the metal was still on track for a small weekly loss as investors weighed signals from the Federal Reserve on interest rates. Spot gold rose 0.2% to $4,177.82 per ounce by 0433 GMT, but was down 0.5% so far in the week. US gold futures for December delivery climbe…",
+   "image": "https://i.brecorder.com/large/2026/10/16113041f929c22.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar hit by dovish rate shift, sinks to one-month low on kiwi",
+   "url": "https://www.brecorder.com/news/40444521/australian-dollar-hit-by-dovish-rate-shift-sinks-to-one-month-low-on-kiwi",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:23:56+00:00",
+   "summary": "SYDNEY: The Australian dollar was on track for steep weekly losses on Friday after soft jobs data prompted markets to scale back wagers on a fifth rate hike this year, sending the currency to a one-month low against the New Zealand dollar. The Aussie slipped 0.1% to $0.6917 after diving 0.7% overnight to a 15-week low …",
+   "image": "https://i.brecorder.com/large/2026/10/16112258ed1edfc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Euro gets much-needed reprieve as AI wobbles rock the dollar",
+   "url": "https://www.brecorder.com/news/40444520/euro-gets-much-needed-reprieve-as-ai-wobbles-rock-the-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:21:24+00:00",
+   "summary": "SINGAPORE: The dollar headed for its first weekly fall in five weeks on Friday , lifting the euro from a 17-month low as wobbles in AI investment and drop in US yields put the brakes on recent gains. AI stocks have cratered this week and the stress spread to parts of the credit market as investors who have crowded in t…",
+   "image": "https://i.brecorder.com/large/2026/10/16112042189f1a3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares hit 5-week high as rate-hike bets ease",
+   "url": "https://www.brecorder.com/news/40444519/australian-shares-hit-5-week-high-as-rate-hike-bets-ease",
+   "source": "Business Recorder",
+   "published": "2026-10-16T06:18:15+00:00",
+   "summary": "Australian shares hit a 5-week high on Friday , led by miners as softer-than-expected labour market data curbed expectations of a near-term interest rate hike and fuelled broad-based buying. The S&P/ASX 200 index was up 1% at 8,809.80 points, as of 0025 GMT, after rising as much as 1.2% earlier in session, its highest …",
+   "image": "https://i.brecorder.com/large/2026/10/161118074448b01.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX edges higher to 166,533 points",
+   "url": "https://tribune.com.pk/story/2635189/psx-edges-higher-to-166533-points",
+   "source": "The Express Tribune",
+   "published": "2026-10-16T03:56:53+00:00",
+   "summary": "KSE-100 gains 347 points ahead of Friday prayers break",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan to chair IMF, World Bank boards in 2027 for first time since 1953",
+   "url": "https://tribune.com.pk/story/2635184/pakistan-to-chair-imf-world-bank-boards-in-2027-for-first-time-since-1953",
+   "source": "The Express Tribune",
+   "published": "2026-10-16T02:57:46+00:00",
+   "summary": "Ahad Cheema says Pakistan will work to amplify voice of developing countries, ensure provision of development finance",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to rise as offshore traders cut bearish bets, RBI clarifies hedging rules",
+   "url": "https://www.brecorder.com/news/40444507/indian-rupee-to-rise-as-offshore-traders-cut-bearish-bets-rbi-clarifies-hedging-rules",
+   "source": "Business Recorder",
+   "published": "2026-10-16T02:48:52+00:00",
+   "summary": "MUMBAI: The Indian rupee is poised to rally despite weakness across Asian peers , with offshore traders cutting bets against the Asian ​currency and expectations of continued central bank dollar selling lending ‌support. The Indian rupee is expected to open in the 94.75 to 94.80 range, per traders, having settled at 95…",
+   "image": "https://i.brecorder.com/large/2026/10/160747434f99e53.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Textile exports rise as exporters warn they could slow down if no corrective measures taken",
+   "url": "https://www.dawn.com/news/2037513/textile-exports-rise-as-exporters-warn-they-could-slow-down-if-no-corrective-measures-taken",
+   "source": "Dawn",
+   "published": "2026-10-16T02:33:27+00:00",
+   "summary": "https://www.dawn.com/news/2037468",
+   "image": "https://i.dawn.com/large/2026/10/16073141645797c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "New tax agency under consideration",
+   "url": "https://tribune.com.pk/story/2635087/new-tax-agency-under-consideration",
+   "source": "The Express Tribune",
+   "published": "2026-10-15T17:01:00+00:00",
+   "summary": "FBR to present overhaul plan on Oct 19; current target being missed by Rs650b",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Duty levied to shield parts makers",
+   "url": "https://tribune.com.pk/story/2635088/duty-levied-to-shield-parts-makers",
+   "source": "The Express Tribune",
+   "published": "2026-10-15T17:01:00+00:00",
+   "summary": "Revenue Division proposes imposition of additional duty to discourage imports",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX tests resistance after sustained recovery",
+   "url": "https://tribune.com.pk/story/2635095/psx-tests-resistance-after-sustained-recovery",
+   "source": "The Express Tribune",
+   "published": "2026-10-15T17:01:00+00:00",
+   "summary": "Extends rally with rise of 769 points as KSE-100 approaches 167,000",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -239,19 +446,6 @@
    "published": "2026-10-15T14:09:20+00:00",
    "summary": "India is expected to become the world’s fourth-largest economy by 2027, overtaking Japan, according to International Monetary Fund (IMF) projections that on Thursday laid out the Asian nations’ contrasting trajectories. The IMF said Japan would remain the fourth-largest country by nominal gross domestic product this ye…",
    "image": "https://i.dawn.com/large/2026/10/15160415981f764.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FBR extends income tax return filing deadline to Oct 31",
-   "url": "https://tribune.com.pk/story/2635070/fbr-extends-income-tax-return-filing-deadline-to-oct-31",
-   "source": "The Express Tribune",
-   "published": "2026-10-15T13:41:09+00:00",
-   "summary": "FBR grants second extension in a month after trade bodies' requests, giving taxpayers until Oct 31 to file returns",
-   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -298,241 +492,6 @@
    "domestic": false
   },
   {
-   "title": "Copper hits 10-day low on profit-taking as supply worries ease",
-   "url": "https://www.brecorder.com/news/40444376/copper-hits-10-day-low-on-profit-taking-as-supply-worries-ease",
-   "source": "Business Recorder",
-   "published": "2026-10-15T10:52:41+00:00",
-   "summary": "LONDON: Copper prices eased to their weakest in 10 days on Thursday, hit by profit-taking on reduced worries about supply, a sell-off in AI stocks, along with concerns about rising inflation and interest rates. Benchmark three-month copper on the London Metal Exchange shed 1.2% to $14,314 a metric ton by 1030 GMT after…",
-   "image": "https://i.brecorder.com/large/2026/10/15155225df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm oil slips as weaker rival oils outweigh strong export outlook",
-   "url": "https://www.brecorder.com/news/40444373/palm-oil-slips-as-weaker-rival-oils-outweigh-strong-export-outlook",
-   "source": "Business Recorder",
-   "published": "2026-10-15T10:40:21+00:00",
-   "summary": "JAKARTA: Malaysian palm oil futures eased on Thursday, ending a three-session winning streak, as weaker rival vegetable oils on the Dalian and Chicago markets pressured prices, despite stronger export estimates for the first half of October. The benchmark December palm oil contract on the Bursa Malaysia Derivatives Exc…",
-   "image": "https://i.brecorder.com/large/2026/10/151540078219a15.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee extends winning streak as dollar, oil ease and stocks rally",
-   "url": "https://www.brecorder.com/news/40444370/indian-rupee-extends-winning-streak-as-dollar-oil-ease-and-stocks-rally",
-   "source": "Business Recorder",
-   "published": "2026-10-15T10:27:14+00:00",
-   "summary": "MUMBAI: The Indian rupee strengthened for the fourth straight session on Thursday, aided by a broadly weaker dollar, lower oil prices and a surge in stocks, as well as a likely central bank intervention. The Indian rupee ended 0.1% higher at 95.0550 per dollar. The currency has risen 2% so far this week after coming ne…",
-   "image": "https://i.brecorder.com/large/2026/10/15152654318e886.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Aurangzeb meets Moody's, seeks stronger sovereign rating",
-   "url": "https://www.brecorder.com/news/40444363/aurangzeb-meets-moodys-seeks-stronger-sovereign-rating",
-   "source": "Business Recorder",
-   "published": "2026-10-15T07:43:06+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb met with Moody’s on the sidelines of the IMF-World Bank meetings in Bangkok to discuss the country’s economic outlook and prospects for a further sovereign rating upgrade, the finance ministry said on Wednesday. According to a statement, discussions covered the recent rating upgrade,…",
-   "image": "https://i.brecorder.com/large/2026/10/151242410c1b43c.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar stronger on Thursday",
-   "url": "https://www.brecorder.com/news/40444361/thai-bahtus-dollar-stronger-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-10-15T07:33:17+00:00",
-   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Thursday . At 0210 GMT, the baht was 0.15% higher at 33.55 versus the dollar, after trading in a range of 33.560 to 33.630. It ended the previous session at 33.6 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/15123306285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar stung as jobs blow slashes chance of rate rise",
-   "url": "https://www.brecorder.com/news/40444360/australian-dollar-stung-as-jobs-blow-slashes-chance-of-rate-rise",
-   "source": "Business Recorder",
-   "published": "2026-10-15T07:31:00+00:00",
-   "summary": "SYDNEY: The Australian dollar swerved lower on Thursday after a surprisingly soft jobs report led investors to scale back wagers on another rise in interest rates, fuelling a much-needed rally in the bond market. The Aussie slid 0.4% to $0.6945, having already peeled away from a top of $0.7014 overnight as the greenbac…",
-   "image": "https://i.brecorder.com/large/2026/10/151230384126469.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan's Nikkei plunges as tech stocks hammered by AI, rate hike worries",
-   "url": "https://www.brecorder.com/news/40444359/japans-nikkei-plunges-as-tech-stocks-hammered-by-ai-rate-hike-worries",
-   "source": "Business Recorder",
-   "published": "2026-10-15T07:28:16+00:00",
-   "summary": "TOKYO: Japan’s Nikkei share average tumbled nearly 5% on Thursday, with tech stocks hit hard by media reports about distressed debt at US cloud-computing provider CoreWeave, while hot US inflation figures sparked fears of higher interest rates. The tech-heavy Nikkei dropped 4.8% to 64,489.06 as of the midday recess, wh…",
-   "image": "https://i.brecorder.com/large/2026/10/151228058daeaf8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF vows continued support for Sri Lanka",
-   "url": "https://www.brecorder.com/news/40444352/imf-vows-continued-support-for-sri-lanka",
-   "source": "Business Recorder",
-   "published": "2026-10-15T07:02:30+00:00",
-   "summary": "Sri Lanka’s macroeconomic situation is “much improved,” with its ​fiscal performance very strong and debt ​restructuring largely complete, Jain-Chandra said in a ⁠press conference during the IMF meetings in ​Bangkok. She also said important improvements were made on ​structural issues, including governance. Earlier thi…",
-   "image": "https://i.brecorder.com/large/2026/10/15120201c2dbca3.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China stocks fall, led by tech, as US inflation stokes Fed fears",
-   "url": "https://www.brecorder.com/news/40444351/china-stocks-fall-led-by-tech-as-us-inflation-stokes-fed-fears",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:59:43+00:00",
-   "summary": "SHANGHAI: China stocks fell on Thursday , tracking broad weakness in global markets, as technology shares led declines after stronger-than-expected US inflation data fueled concerns that interest rates could remain higher for longer. As of the midday break, both the Shanghai Composite index and the blue-chip CSI300 ind…",
-   "image": "https://i.brecorder.com/large/2026/10/15115928cfc2b46.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan gains as Fed rate caution knocks dollar from 18-month high",
-   "url": "https://www.brecorder.com/news/40444350/chinas-yuan-gains-as-fed-rate-caution-knocks-dollar-from-18-month-high",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:57:47+00:00",
-   "summary": "SHANGHAI: China’s yuan inched higher against the dollar on Thursday after the US currency slipped from an 18-month peak as Federal Reserve officials cautioned about chances for a hike in interest rates this month, despite hotter-than-expected inflation data. In the spot market, the onshore yuan was 0.09% higher at 6.69…",
-   "image": "https://i.brecorder.com/large/2026/10/15115655fcc0de6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korea's KOSPI triggers circuit breaker in tech-led selloff",
-   "url": "https://www.brecorder.com/news/40444347/south-koreas-kospi-triggers-circuit-breaker-in-tech-led-selloff",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:46:47+00:00",
-   "summary": "SEOUL: South Korea’s benchmark stock index KOSPI fell 8% on Thursday, triggering a circuit breaker for the first time in 2-1/2 months, as chipmakers tracked a technology-led Wall Street selloff after sticky US inflation data raised bets of further rate hikes. The KOSPI was down 480.76 points at 5,528.05, as of 0338 GMT…",
-   "image": "https://i.brecorder.com/large/2026/10/15114619ab5ce7b.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Azerbaijan says January-September oil output hit 19.9mn tons",
-   "url": "https://www.brecorder.com/news/40444341/azerbaijan-says-january-september-oil-output-hit-199mn-tons",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:29:48+00:00",
-   "summary": "BAKU: Azerbaijan’s oil production in January-September amounted to 19.9 million metric tons, the energy ministry said on Thursday. BP produced 11.8 million tons of oil during that period. Exports of oil with condensate were 15.5 million tons. OPEC+ approves further oil output increase as Hormuz exports start to recover…",
-   "image": "https://i.brecorder.com/large/2026/10/15112935e7bccff.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asian currencies retreat after hot US inflation, South Korean stocks slip 8%",
-   "url": "https://www.brecorder.com/news/40444340/asian-currencies-retreat-after-hot-us-inflation-south-korean-stocks-slip-8",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:27:03+00:00",
-   "summary": "Most emerging Asian currencies weakened on Thursday after hotter-than-expected US inflation fanned expectations of a Federal Reserve rate hike, spooking AI-linked stocks worldwide over higher borrowing costs. The South Korean won fell over 1% to a two-week low of 1,352.84 per dollar, while the Taiwan dollar fell sharpl…",
-   "image": "https://i.brecorder.com/large/2026/10/15112645f461094.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Egypt needs more work on reducing state footprint in economy, IMF says",
-   "url": "https://www.brecorder.com/news/40444339/egypt-needs-more-work-on-reducing-state-footprint-in-economy-imf-says",
-   "source": "Business Recorder",
-   "published": "2026-10-15T06:25:28+00:00",
-   "summary": "BANGKOK: Egypt has made good progress in restoring macroeconomic stability despite a very difficult external environment, but must speed up structural reforms aimed at reducing the footprint of the state in the economy, an IMF official said on Thursday. Taline Koranchelian, deputy director of the IMF’s Middle East and …",
-   "image": "https://i.brecorder.com/large/2026/10/151125053065716.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX gains 769 points despite profit-taking",
-   "url": "https://tribune.com.pk/story/2634990/psx-extends-gains-as-kse-100-climbs-over-1400-points",
-   "source": "The Express Tribune",
-   "published": "2026-10-15T03:38:42+00:00",
-   "summary": "KSE-100 reclaims 166,000 level amid broad-based buying",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls on US inflation fears",
-   "url": "https://tribune.com.pk/story/2634886/gold-falls-on-us-inflation-fears",
-   "source": "The Express Tribune",
-   "published": "2026-10-14T17:19:05+00:00",
-   "summary": "Prices drop Rs3,000/tola locally; rupee edges up to 276.95/$",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PVARA, WB discuss digital infrastructure",
-   "url": "https://tribune.com.pk/story/2634893/pvara-wb-discuss-digital-infrastructure",
-   "source": "The Express Tribune",
-   "published": "2026-10-14T17:19:05+00:00",
-   "summary": "Explore tokenised bonds, capital market, AI-based regulation",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Iqbal sets $100b export target for 2035",
-   "url": "https://tribune.com.pk/story/2634891/iqbal-sets-100b-export-target-for-2035",
-   "source": "The Express Tribune",
-   "published": "2026-10-14T17:19:05+00:00",
-   "summary": "Planning minister says export success requires policy continuity beyond political transitions",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan eyes double-B rating: FinMin",
    "url": "https://tribune.com.pk/story/2634885/pakistan-eyes-double-b-rating-finmin",
    "source": "The Express Tribune",
@@ -559,45 +518,6 @@
    "domestic": false
   },
   {
-   "title": "Profit-taking erases early gains at PSX",
-   "url": "https://tribune.com.pk/story/2634690/profit-taking-erases-early-gains-at-psx",
-   "source": "The Express Tribune",
-   "published": "2026-10-13T15:24:43+00:00",
-   "summary": "KSE-100 index slips below 165,000; auto sales fall 3% month-on-month",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "'No choice': IMF says developing countries must cut spending despite Iran war shock",
-   "url": "https://www.dawn.com/news/2036858/no-choice-imf-says-developing-countries-must-cut-spending-despite-iran-war-shock",
-   "source": "Dawn",
-   "published": "2026-10-13T08:42:20+00:00",
-   "summary": "The International Monetary Fund (IMF) warned on Tuesday that while low-income developing countries were dealing with the disproportionate impacts of the Iran war-fuelled energy shock , many had “no choice” but to cut spending or potentially face debt restructuring. Speaking to AFP on the sidelines of the organisation’s…",
-   "image": "https://i.dawn.com/large/2026/10/13133245ae47f30.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Businesses seek industrial tariff below 9 cents",
-   "url": "https://tribune.com.pk/story/2634134/businesses-seek-industrial-tariff-below-9-cents",
-   "source": "The Express Tribune",
-   "published": "2026-10-10T16:16:52+00:00",
-   "summary": "FPCCI appreciates 12-cent rate, links cheaper power to export growth",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -619,6 +539,32 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "FBR reforms should focus on institutional strengthening, says officers’ association",
+   "url": "https://arynews.tv/fbr-reforms-should-focus-on-institutional-strengthening-says-officers-association",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR reforms should focus on institutional strengthening, says officers’ association",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
+   "url": "https://arynews.tv/pakistan-to-chair-imf-world-bank-boards-of-governors-after-74-years",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/imf-world-bank.jpg",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
