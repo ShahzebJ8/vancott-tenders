@@ -1,79 +1,26 @@
 {
- "generated": "2026-10-17T09:03:23+00:00",
+ "generated": "2026-10-17T12:52:50+00:00",
  "count": 48,
  "relevant_count": 19,
- "domestic_count": 13,
+ "domestic_count": 9,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (7)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "Tax audit, assessment: FBR implements faceless system",
-   "url": "https://www.brecorder.com/news/40444619/tax-audit-assessment-fbr-implements-faceless-system",
+   "title": "Pakistan’s economy in better position to withstand external shocks: SBP governor",
+   "url": "https://www.brecorder.com/news/40444677/pakistans-economy-in-better-position-to-withstand-external-shocks-sbp-governor",
    "source": "Business Recorder",
-   "published": "2026-10-17T01:27:01+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has implemented a comprehensive framework for conducting tax audits, income tax assessments and related income tax and sales tax recovery proceedings against the taxpayers through the National Faceless Centre (NFC) with the help of artificial intelligence from October 15, 2…",
-   "image": "https://i.brecorder.com/large/2026/10/170626498db0255.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan to chair IMF, World Bank boards of governors after 74 years",
-   "url": "https://www.brecorder.com/news/40444618/pakistan-to-chair-imf-world-bank-boards-of-governors-after-74-years",
-   "source": "Business Recorder",
-   "published": "2026-10-17T01:24:31+00:00",
-   "summary": "ISLAMABAD: Pakistan has been named to head the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) in 2027, marking the country’s first return to the position since 1953, the Ministry of Economic Affairs said on Friday. Federal Minister for Economic Affairs Ahad Khan Cheema, who …",
-   "image": "https://i.brecorder.com/large/2026/10/1706242188f30da.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Weekly SPI inflation down 0.04pc",
-   "url": "https://www.brecorder.com/news/40444640/weekly-spi-inflation-down-004pc",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:08+00:00",
-   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on October 16, 2026 recorded a slight reduction of 0.04 percent owing to a reduction in the prices of tomatoes that fell by 23.05percent, onions by 4.90percent, and bananas by 2.59percent. The SPI data released here on Friday by the Pakistan Bureau…",
-   "image": "https://i.brecorder.com/large/2026/10/17034253de00516.webp",
+   "published": "2026-10-17T12:04:52+00:00",
+   "summary": "State Bank of Pakistan (SBP) Governor Jameel Ahmad has told global investors that Pakistan’s macroeconomic conditions have improved, with foreign exchange reserves rising to $21.5 billion and inflation declining sharply, strengthening the economy’s ability to withstand external shocks. Addressing high-level meetings wi…",
+   "image": "https://i.brecorder.com/large/2026/10/171703273248a0a.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Q1 CA deficit soars 16pc YoY on higher imports",
-   "url": "https://www.brecorder.com/news/40444644/q1-ca-deficit-soars-16pc-yoy-on-higher-imports",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:08+00:00",
-   "summary": "KARACHI: The country’s current account deficit widened by 16 percent in the first quarter of this fiscal year, mainly due to a higher goods import bill. The State Bank of Pakistan (SBP) reported on Friday that Pakistan posted a current account deficit of USD 874 million during July-Sep of FY27 compared to USD 755 milli…",
-   "image": "https://i.brecorder.com/large/2026/10/1703044939020cc.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Civil aviation sector: Dar reviews developments, key priorities",
-   "url": "https://www.brecorder.com/news/40444647/civil-aviation-sector-dar-reviews-developments-key-priorities",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:08+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar on Friday chaired a meeting to review developments and key priorities in the civil aviation sector. The meeting focused on evaluating operational frameworks, infrastructure upgrades and measures to enhance air connectivity, with a…",
-   "image": "https://i.brecorder.com/large/2026/10/170302364277e22.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -181,6 +128,59 @@
    "domestic": true
   },
   {
+   "title": "Sri Lanka suffers nationwide electricity blackout",
+   "url": "https://www.brecorder.com/news/40444679/sri-lanka-suffers-nationwide-electricity-blackout",
+   "source": "Business Recorder",
+   "published": "2026-10-17T12:17:06+00:00",
+   "summary": "COLOMBO: Sri Lanka suffered a nationwide electricity blackout on Saturday after the national grid tripped, possibly because solar power generation exceeded consumption, officials said. The country was without grid power for more than two hours, with no clear timeline for when electricity would be restored. State-run El…",
+   "image": "https://i.brecorder.com/large/2026/10/17171504fac7c14.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Attacks on Gulf energy infrastructure 'worrying' for Pakistan’s economic outlook: finance minister",
+   "url": "https://www.brecorder.com/news/40444674/attacks-on-gulf-energy-infrastructure-worrying-for-pakistans-economic-outlook-finance-minister",
+   "source": "Business Recorder",
+   "published": "2026-10-17T11:15:42+00:00",
+   "summary": "BANGKOK, Thailand: Finance Minister Muhammad Aurangzeb on Saturday told AFP the country had so far withstood the shock from skyrocketing energy prices due to the Iran war, but that attacks on infrastructure in Saudi Arabia and other Gulf countries were “worrying” for the country’s longer-term economic outlook. In an in…",
+   "image": "https://i.brecorder.com/large/2026/10/17161440127d7f9.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Aurangzeb holds financing talks with banks, UNDP on sidelines of IMF-World Bank meetings",
+   "url": "https://www.brecorder.com/news/40444668/aurangzeb-holds-financing-talks-with-banks-undp-on-sidelines-of-imf-world-bank-meetings",
+   "source": "Business Recorder",
+   "published": "2026-10-17T09:18:29+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb held talks with three banks and UNDP chief Alexander De Croo on financing and investment on the sidelines of the IMF-World Bank meetings in Bangkok, the finance ministry said Saturday. The minister held separate meetings with delegations from Sharjah Islamic Bank, Abu Dhabi Commercia…",
+   "image": "https://i.brecorder.com/large/2026/10/171409514de6262.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+   "url": "https://www.brecorder.com/news/40444669/anthropics-clark-says-ais-impact-accelerating-quickly-and-could-vastly-boost-us-gdp",
+   "source": "Business Recorder",
+   "published": "2026-10-17T09:16:17+00:00",
+   "summary": "BANGKOK: Rapidly improving artificial intelligence capabilities will bring far faster change across all fields, Anthropic co-founder Jack Clark said on Saturday, with one of the company’s internal economic models forecasting that it could vastly expand US economic output to $44 trillion by 2030. Clark, speaking at IMF …",
+   "image": "https://i.brecorder.com/large/2026/10/171416082d17ad4.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
    "url": "https://www.brecorder.com/news/40444661/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks",
    "source": "Business Recorder",
@@ -233,6 +233,20 @@
    "domestic": false
   },
   {
+   "title": "Attacks on Gulf energy infrastructure pose risks to Pakistan's economic outlook: FinMin Aurangzeb",
+   "url": "https://tribune.com.pk/story/2635357/attacks-on-gulf-energy-infrastructure-pose-risks-to-pakistans-economic-outlook-finmin-aurangzeb",
+   "source": "The Express Tribune",
+   "published": "2026-10-17T03:58:46+00:00",
+   "summary": "Says Pakistan has procured enough energy supplies to last through November, and now planning for winter months",
+   "image": null,
+   "topics": [
+    "Construction & projects",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Iraq says lost USD60bn as Mideast war hits oil exports",
    "url": "https://www.brecorder.com/news/40444631/iraq-says-lost-usd60bn-as-mideast-war-hits-oil-exports",
    "source": "Business Recorder",
@@ -243,19 +257,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US annual budget gap hits nearly USD2trn, largest in 5 years",
-   "url": "https://www.brecorder.com/news/40444642/us-annual-budget-gap-hits-nearly-usd2trn-largest-in-5-years",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:08+00:00",
-   "summary": "WASHINGTON: The US budget deficit rose by USD217 billion to nearly USD2 trillion in the 2026 fiscal year, fuelled in part by tariff refunds and record spending to service the nation’s more than USD40 trillion in debt, marking the largest budget shortfall in five years, Treasury Department figures showed on Friday. Cont…",
-   "image": "https://i.brecorder.com/large/2026/10/17030554a0408c6.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -408,19 +409,6 @@
    "published": "2026-10-16T07:04:28+00:00",
    "summary": "SHANGHAI: China’s yuan held steady against the dollar on Friday and was poised to strengthen for a third week as robust exports buoy the Chinese currency despite wobbly growth in the domestic economy and rising yields globally. Signaling Beijing’s resistance to rapid yuan appreciation, China’s central bank governor sai…",
    "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of England's Bailey says second-round inflation pressures look subdued so far",
-   "url": "https://www.brecorder.com/news/40444508/bank-of-englands-bailey-says-second-round-inflation-pressures-look-subdued-so-far",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:54:25+00:00",
-   "summary": "BANGKOK: Soaring energy prices so far appear to be having limited wider effects on British prices, but it is too soon to draw firm conclusions about how strong such second-round effects will be, Bank of England Governor Andrew Bailey said ​on Friday. Most economists now expect the BoE to start raising rates next month,…",
-   "image": "https://i.brecorder.com/large/2026/10/160751076088985.webp",
    "topics": [
     "Economy"
    ],
@@ -629,6 +617,19 @@
    "published": null,
    "summary": "FBR reforms should focus on institutional strengthening, says officers’ association",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
+   "url": "https://arynews.tv/pakistan-to-chair-imf-world-bank-boards-of-governors-after-74-years",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/imf-world-bank.jpg",
    "topics": [
     "Budget & spending"
    ],
