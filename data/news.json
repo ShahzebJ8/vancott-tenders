@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-17T16:10:42+00:00",
- "count": 47,
+ "generated": "2026-10-17T18:46:49+00:00",
+ "count": 48,
  "relevant_count": 19,
- "domestic_count": 9,
+ "domestic_count": 10,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Pakistan Rice Festival held in Hungary: minister says govt committed to increasing agri, food exports",
+   "url": "https://www.brecorder.com/news/40444687/pakistan-rice-festival-held-in-hungary-minister-says-govt-committed-to-increasing-agri-food-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-17T16:32:48+00:00",
+   "summary": "The Embassy of Pakistan in Hungary hosted the first Pakistan Rice Festival in Budapest, introducing Pakistani basmati rice to Hungarian importers, chefs and food industry professionals, the Ministry of Commerce said on Saturday. The event was organised in collaboration with the ministry and the Trade Development Author…",
+   "image": "https://i.brecorder.com/large/2026/10/172129027d3e622.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan’s economy in better position to withstand external shocks: SBP governor",
    "url": "https://www.brecorder.com/news/40444677/pakistans-economy-in-better-position-to-withstand-external-shocks-sbp-governor",
@@ -128,6 +141,32 @@
    "domestic": true
   },
   {
+   "title": "Pakistan extends ban on Indian aircraft using its airspace until Nov 24",
+   "url": "https://www.brecorder.com/news/40444691/pakistan-extends-ban-on-indian-aircraft-using-its-airspace-until-nov-24",
+   "source": "Business Recorder",
+   "published": "2026-10-17T18:07:07+00:00",
+   "summary": "Pakistan on Saturday extended its ban on the use of its airspace by Indian aircraft until November 24, 2026, at 4:59am, according to an official notice from the Pakistan Airports Authority (PAA). The restriction covers Indian-registered aircraft as well as aircraft owned, operated or leased by Indian airlines or operat…",
+   "image": "https://i.brecorder.com/large/2026/09/161319289f909a5.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "CCP’s Bid-Rigging Detection System featured in Stanford Global Antitrust report",
+   "url": "https://www.brecorder.com/news/40444688/ccps-bid-rigging-detection-system-featured-in-stanford-global-antitrust-report",
+   "source": "Business Recorder",
+   "published": "2026-10-17T16:47:21+00:00",
+   "summary": "Pakistan’s initiative to use artificial intelligence and advanced data analysis to detect cartels in public procurement received international recognition, with the Competition Commission of Pakistan’s Bid-Rigging Detection System (BRDS) featuring in the Computational Antitrust Worldwide: Fifth Cross-Agency Report, pub…",
+   "image": "https://i.brecorder.com/large/2026/10/0707153476c241f.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Sri Lanka suffers nationwide electricity blackout",
    "url": "https://www.brecorder.com/news/40444679/sri-lanka-suffers-nationwide-electricity-blackout",
    "source": "Business Recorder",
@@ -200,32 +239,6 @@
    "published": "2026-10-17T08:18:14+00:00",
    "summary": "BANGKOK: Many delegates to the International Monetary Fund’s steering committee walked out of a meeting on Saturday when Russian Finance Minister Anton Siluanov addressed the group in Russian, three sources familiar with the matter said. Russia’s invasion of Ukraine in February 2022 has roiled the International Monetar…",
    "image": "https://i.brecorder.com/large/2026/10/17131744cb6d217.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMFC chair Al-Jadaan says all members supported chair's statement despite walkout",
-   "url": "https://www.brecorder.com/news/40444660/imfc-chair-al-jadaan-says-all-members-supported-chairs-statement-despite-walkout",
-   "source": "Business Recorder",
-   "published": "2026-10-17T07:53:48+00:00",
-   "summary": "BANGKOK: Saudi Finance Minister Al-Jadaan, who heads the IMF’s steering committee, downplayed the impact of a walkout on Saturday during remarks by Russia’s finance minister, saying he was heartened that all countries ultimately supported his chair’s statement summarizing the meeting. “We came here for a reason, and we…",
-   "image": "https://i.brecorder.com/large/2026/10/171252118047c28.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF's Georgieva says regulators must watch risk from non-banks, cyberattacks and fraud",
-   "url": "https://www.brecorder.com/news/40444659/imfs-georgieva-says-regulators-must-watch-risk-from-non-banks-cyberattacks-and-fraud",
-   "source": "Business Recorder",
-   "published": "2026-10-17T07:46:24+00:00",
-   "summary": "IMF chief Kristalina Georgieva said on Saturday that regulators and supervisors must be alert to risks from non-bank institutions, cyberattacks and fraud. Georgieva told a press conference that the IMF and World Bank’s annual meetings in Bangkok this week were marked by both optimism and worry. Finance minister interac…",
-   "image": "https://i.brecorder.com/large/2026/10/1712454951b8942.webp",
    "topics": [
     "Budget & spending"
    ],
