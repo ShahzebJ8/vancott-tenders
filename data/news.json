@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-17T18:46:49+00:00",
- "count": 48,
+ "generated": "2026-10-17T21:16:43+00:00",
+ "count": 49,
  "relevant_count": 19,
  "domestic_count": 10,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
@@ -582,6 +582,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Cement and steel rates stabilize in Pakistan amid rising inflation",
+   "url": "https://arynews.tv/cement-and-steel-rates-stabilize-in-pakistan-amid-rising-inflation",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Cement and steel rates stabilize in Pakistan amid rising inflation",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-17T203742.941.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
