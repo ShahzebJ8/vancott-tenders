@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-17T04:52:12+00:00",
- "count": 47,
- "relevant_count": 18,
- "domestic_count": 14,
+ "generated": "2026-10-17T09:03:23+00:00",
+ "count": 48,
+ "relevant_count": 19,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
-  "ARY News": "ok (5)"
+  "The Express Tribune": "ok (7)",
+  "ARY News": "ok (4)"
  },
  "stories": [
   {
@@ -72,19 +72,6 @@
    "image": "https://i.brecorder.com/large/2026/10/170302364277e22.webp",
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Punjab PA speaker vows to address businessmen’s concerns",
-   "url": "https://www.brecorder.com/news/40444652/punjab-pa-speaker-vows-to-address-businessmens-concerns",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:08+00:00",
-   "summary": "LAHORE: Speaker Punjab Assembly Malik Ahmad Khan has assured the Lahore Chamber of Commerce and Industry (LCCI) that its concerns and proposals regarding regulatory enforcement, taxation, industrial development and investment facilitation will be taken up with the relevant authorities. “Effective legislation requires c…",
-   "image": "https://i.brecorder.com/large/2026/10/170259557667d23.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -194,6 +181,58 @@
    "domestic": true
   },
   {
+   "title": "IMF members call for more support amid war shocks, 'advanced intelligence' risks",
+   "url": "https://www.brecorder.com/news/40444661/imf-members-call-for-more-support-amid-war-shocks-advanced-intelligence-risks",
+   "source": "Business Recorder",
+   "published": "2026-10-17T08:47:36+00:00",
+   "summary": "BANGKOK: International Monetary Fund member countries called for increasing support to countries that are facing short-term financing challenges caused by negative spillovers from wars and high energy prices, and said economic risks remain tilted to the downside. And while there has been a boost to investment and trade…",
+   "image": "https://i.brecorder.com/large/2026/10/17125540f9500e0.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Delegates walked out of IMF steering committee meeting when Russian official spoke, sources say",
+   "url": "https://www.brecorder.com/news/40444663/delegates-walked-out-of-imf-steering-committee-meeting-when-russian-official-spoke-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-10-17T08:18:14+00:00",
+   "summary": "BANGKOK: Many delegates to the International Monetary Fund’s steering committee walked out of a meeting on Saturday when Russian Finance Minister Anton Siluanov addressed the group in Russian, three sources familiar with the matter said. Russia’s invasion of Ukraine in February 2022 has roiled the International Monetar…",
+   "image": "https://i.brecorder.com/large/2026/10/17131744cb6d217.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMFC chair Al-Jadaan says all members supported chair's statement despite walkout",
+   "url": "https://www.brecorder.com/news/40444660/imfc-chair-al-jadaan-says-all-members-supported-chairs-statement-despite-walkout",
+   "source": "Business Recorder",
+   "published": "2026-10-17T07:53:48+00:00",
+   "summary": "BANGKOK: Saudi Finance Minister Al-Jadaan, who heads the IMF’s steering committee, downplayed the impact of a walkout on Saturday during remarks by Russia’s finance minister, saying he was heartened that all countries ultimately supported his chair’s statement summarizing the meeting. “We came here for a reason, and we…",
+   "image": "https://i.brecorder.com/large/2026/10/171252118047c28.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMF's Georgieva says regulators must watch risk from non-banks, cyberattacks and fraud",
+   "url": "https://www.brecorder.com/news/40444659/imfs-georgieva-says-regulators-must-watch-risk-from-non-banks-cyberattacks-and-fraud",
+   "source": "Business Recorder",
+   "published": "2026-10-17T07:46:24+00:00",
+   "summary": "IMF chief Kristalina Georgieva said on Saturday that regulators and supervisors must be alert to risks from non-bank institutions, cyberattacks and fraud. Georgieva told a press conference that the IMF and World Bank’s annual meetings in Bangkok this week were marked by both optimism and worry. Finance minister interac…",
+   "image": "https://i.brecorder.com/large/2026/10/1712454951b8942.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Iraq says lost USD60bn as Mideast war hits oil exports",
    "url": "https://www.brecorder.com/news/40444631/iraq-says-lost-usd60bn-as-mideast-war-hits-oil-exports",
    "source": "Business Recorder",
@@ -217,6 +256,32 @@
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX edges up amid oil price concerns",
+   "url": "https://tribune.com.pk/story/2635305/psx-edges-up-amid-oil-price-concerns",
+   "source": "The Express Tribune",
+   "published": "2026-10-16T16:15:09+00:00",
+   "summary": "KSE-100 index increases 234 points as geopolitical tensions weigh",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SPI stays in double digits on costly fuel",
+   "url": "https://tribune.com.pk/story/2635304/spi-stays-in-double-digits-on-costly-fuel",
+   "source": "The Express Tribune",
+   "published": "2026-10-16T16:15:09+00:00",
+   "summary": "Short-term inflation holds above 11% YoY, driven by energy shock from regional war",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -441,32 +506,6 @@
    "domestic": false
   },
   {
-   "title": "PSX edges 233 points higher to close at 166,419 points",
-   "url": "https://tribune.com.pk/story/2635189/psx-edges-higher-to-166533-points",
-   "source": "The Express Tribune",
-   "published": "2026-10-16T03:56:53+00:00",
-   "summary": "KSE-100 Index opened near the previous close of 166,186.16",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan to chair IMF, World Bank boards in 2027 for first time since 1953",
-   "url": "https://tribune.com.pk/story/2635184/pakistan-to-chair-imf-world-bank-boards-in-2027-for-first-time-since-1953",
-   "source": "The Express Tribune",
-   "published": "2026-10-16T02:57:46+00:00",
-   "summary": "Ahad Cheema says Pakistan will work to amplify voice of developing countries, ensure provision of development finance",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Textile exports rise as exporters warn they could slow down if no corrective measures taken",
    "url": "https://www.dawn.com/news/2037513/textile-exports-rise-as-exporters-warn-they-could-slow-down-if-no-corrective-measures-taken",
    "source": "Dawn",
@@ -477,19 +516,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "New tax agency under consideration",
-   "url": "https://tribune.com.pk/story/2635087/new-tax-agency-under-consideration",
-   "source": "The Express Tribune",
-   "published": "2026-10-15T17:01:00+00:00",
-   "summary": "FBR to present overhaul plan on Oct 19; current target being missed by Rs650b",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -607,19 +633,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close higher as KSE-100 index gains over 700 points",
-   "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-700-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close higher as KSE-100 index gains over 700 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Envato.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
