@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-16T21:57:48+00:00",
- "count": 49,
- "relevant_count": 16,
- "domestic_count": 11,
+ "generated": "2026-10-17T00:12:21+00:00",
+ "count": 51,
+ "relevant_count": 19,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (17)",
@@ -11,16 +11,82 @@
  },
  "stories": [
   {
-   "title": "Pakistan posts $356mn current account deficit in Sept 2026",
-   "url": "https://www.brecorder.com/news/40444553/pakistan-posts-356mn-current-account-deficit-in-sept-2026",
+   "title": "Weekly SPI inflation down 0.04pc",
+   "url": "https://www.brecorder.com/news/40444640/weekly-spi-inflation-down-004pc",
    "source": "Business Recorder",
-   "published": "2026-10-16T16:40:38+00:00",
-   "summary": "Pakistan’s current account posted a deficit of $356 million in September 2026, data released by the State Bank of Pakistan (SBP) showed on Friday. The latest figure follows a deficit of $73 million recorded in August 2026 and a surplus of $133 million in September 2025. The August 2026 deficit was revised down from $98…",
-   "image": "https://i.brecorder.com/large/2026/10/16171255c2da92c.webp",
+   "published": "2026-10-16T23:52:08+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on October 16, 2026 recorded a slight reduction of 0.04 percent owing to a reduction in the prices of tomatoes that fell by 23.05percent, onions by 4.90percent, and bananas by 2.59percent. The SPI data released here on Friday by the Pakistan Bureau…",
+   "image": "https://i.brecorder.com/large/2026/10/17034253de00516.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Q1 CA deficit soars 16pc YoY on higher imports",
+   "url": "https://www.brecorder.com/news/40444644/q1-ca-deficit-soars-16pc-yoy-on-higher-imports",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:08+00:00",
+   "summary": "KARACHI: The country’s current account deficit widened by 16 percent in the first quarter of this fiscal year, mainly due to a higher goods import bill. The State Bank of Pakistan (SBP) reported on Friday that Pakistan posted a current account deficit of USD 874 million during July-Sep of FY27 compared to USD 755 milli…",
+   "image": "https://i.brecorder.com/large/2026/10/1703044939020cc.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Civil aviation sector: Dar reviews developments, key priorities",
+   "url": "https://www.brecorder.com/news/40444647/civil-aviation-sector-dar-reviews-developments-key-priorities",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:08+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar on Friday chaired a meeting to review developments and key priorities in the civil aviation sector. The meeting focused on evaluating operational frameworks, infrastructure upgrades and measures to enhance air connectivity, with a…",
+   "image": "https://i.brecorder.com/large/2026/10/170302364277e22.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Punjab PA speaker vows to address businessmen’s concerns",
+   "url": "https://www.brecorder.com/news/40444652/punjab-pa-speaker-vows-to-address-businessmens-concerns",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:08+00:00",
+   "summary": "LAHORE: Speaker Punjab Assembly Malik Ahmad Khan has assured the Lahore Chamber of Commerce and Industry (LCCI) that its concerns and proposals regarding regulatory enforcement, taxation, industrial development and investment facilitation will be taken up with the relevant authorities. “Effective legislation requires c…",
+   "image": "https://i.brecorder.com/large/2026/10/170259557667d23.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Efforts under way to increase SME financing: Ihsaan",
+   "url": "https://www.brecorder.com/news/40444580/efforts-under-way-to-increase-sme-financing-ihsaan",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:07+00:00",
+   "summary": "ISLAMABAD: Prime Minister’s Coordinator on Commerce and Industries Rana Ihsaan Afzal Khan has said that efforts were underway to increase Small and Medium Enterprises (SME) financing from Rs1 trillion to Rs2 trillion, while exporters were being supported through concessional financing arrangements involving EXIM Bank a…",
+   "image": "https://i.brecorder.com/large/2026/10/170120069b71148.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Additional structural reforms being considered within FBR: IRSOA",
+   "url": "https://www.brecorder.com/news/40444592/additional-structural-reforms-being-considered-within-fbr-irsoa",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:07+00:00",
+   "summary": "KARACHI: The Inland Revenue Service Officers Association (IRSOA) has expressed serious concern over reports that further structural reforms are being considered within the Federal Board of Revenue (FBR), saying several major reform initiatives are still being implemented. The IRSOA said it fully supports meaningful ref…",
+   "image": "https://i.brecorder.com/large/2026/10/170131381f3a69b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -154,30 +220,42 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s IT exports hit $435mn in September, 'second-highest ever'",
-   "url": "https://www.brecorder.com/news/40444566/pakistans-it-exports-hit-435mn-in-september-second-highest-ever",
+   "title": "US annual budget gap hits nearly USD2trn, largest in 5 years",
+   "url": "https://www.brecorder.com/news/40444642/us-annual-budget-gap-hits-nearly-usd2trn-largest-in-5-years",
    "source": "Business Recorder",
-   "published": "2026-10-16T18:17:32+00:00",
-   "summary": "Pakistan’s IT and tech exports rose to $435 million in September 2026, the second-highest monthly figure on record, Adviser to the Finance Minister Khurram Schehzad said on Friday. In a post on X, Schehzad said the September total was $2 million below the all-time high of $437 million set in December 2025. Exports grew…",
-   "image": "https://i.brecorder.com/large/2026/10/16195123722c53c.webp",
+   "published": "2026-10-16T23:52:08+00:00",
+   "summary": "WASHINGTON: The US budget deficit rose by USD217 billion to nearly USD2 trillion in the 2026 fiscal year, fuelled in part by tariff refunds and record spending to service the nation’s more than USD40 trillion in debt, marking the largest budget shortfall in five years, Treasury Department figures showed on Friday. Cont…",
+   "image": "https://i.brecorder.com/large/2026/10/17030554a0408c6.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Recovery, poverty permitting",
+   "url": "https://www.brecorder.com/news/40444576/recovery-poverty-permitting",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:07+00:00",
+   "summary": "EDITORIAL: The government’s repeated assurances that Pakistan’s economy is improving sound increasingly hollow when measured against the living conditions of its people. The latest United Nations Development Programme figures show that 38.3 percent of Pakistan’s population suffers from multidimensional poverty, facing …",
+   "image": "https://i.brecorder.com/large/2026/10/17011733e648b90.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "A bigger catch, a wider net",
+   "url": "https://www.brecorder.com/news/40444577/a-bigger-catch-a-wider-net",
+   "source": "Business Recorder",
+   "published": "2026-10-16T23:52:07+00:00",
+   "summary": "EDITORIAL: Pakistan’s seafood exports have registered an impressive increase in the first quarter of FY2026-27, offering some welcome encouragement at a time when the economy desperately needs stronger export earnings. According to figures released by the Ministry of Maritime Affairs, export receipts rose 74.40 percent…",
+   "image": "https://i.brecorder.com/large/2026/10/17012141b72e9e2.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Aurangzeb discusses Sukuk, Panda bonds with Standard Chartered",
-   "url": "https://www.brecorder.com/news/40444564/aurangzeb-discusses-sukuk-panda-bonds-with-standard-chartered",
-   "source": "Business Recorder",
-   "published": "2026-10-16T14:31:08+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb has discussed potential Sukuk issuance, further Panda bonds and other financing options with Standard Chartered Bank (SCB) to support Pakistan’s external financing needs and infrastructure investment. The meeting, held on the sidelines of the World Bank Group-IMF Annual Meetings 2026…",
-   "image": "https://i.brecorder.com/large/2026/10/16192955e076953.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -233,51 +311,12 @@
    "domestic": false
   },
   {
-   "title": "Iran ships some LPG, jet fuel despite US blockade, data shows",
-   "url": "https://www.brecorder.com/news/40444551/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows",
-   "source": "Business Recorder",
-   "published": "2026-10-16T12:09:01+00:00",
-   "summary": "DAMASCUS/LONDON: Iran has managed to export some liquefied petroleum gas and jet fuel since July, despite a US naval blockade, shipping intelligence showed and people involved in security said. Tehran has in recent weeks been concealing such cargoes among a growing volume of ship-to-ship transfers by other Gulf produce…",
-   "image": "https://i.brecorder.com/large/2026/10/1617084201613ae.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Bajaj Housing Finance posts quarterly profit rise on strong loan growth",
    "url": "https://www.brecorder.com/news/40444550/bajaj-housing-finance-posts-quarterly-profit-rise-on-strong-loan-growth",
    "source": "Business Recorder",
    "published": "2026-10-16T11:55:54+00:00",
    "summary": "India’s Bajaj Housing Finance reported a 17.7% rise in second-quarter profit on Friday, helped by strong loan growth. The country’s biggest non-bank home loan financier by market value posted a profit of 7.57 billion rupees ($79.72 million) for the three months ended September 30 from 6.43 billion in the year-ago quart…",
    "image": "https://i.brecorder.com/large/2026/10/16165432217f1cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "NBP inks MoU with PowerChina arm for green financing collaboration",
-   "url": "https://www.brecorder.com/news/40444548/nbp-inks-mou-with-powerchina-arm-for-green-financing-collaboration",
-   "source": "Business Recorder",
-   "published": "2026-10-16T11:46:31+00:00",
-   "summary": "National Bank of Pakistan (NBP) has signed a Memorandum of Understanding (MoU) with PowerChina|Integrity Energy Storage (Shanghai) Technology Co. Ltd. (I²-ESS), a subsidiary of the PowerChina Group, to collaborate on SME, commercial and corporate financing and explore green financing opportunities in renewable energy a…",
-   "image": "https://i.brecorder.com/large/2026/10/16164557854f7d0.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India's Yes Bank expects AT1 reinstatement to cut core capital ratio by 250 bps",
-   "url": "https://www.brecorder.com/news/40444546/indias-yes-bank-expects-at1-reinstatement-to-cut-core-capital-ratio-by-250-bps",
-   "source": "Business Recorder",
-   "published": "2026-10-16T11:38:52+00:00",
-   "summary": "India’s Yes Bank said on Friday it expects the reinstatement of its previously written-off additional tier-1 (AT1) bonds to reduce its core capital ratio by about 250 basis points. On Thursday, the country’s top court set aside the bank’s write-off of 84 billion rupees ($883.7 million) in additional tier-1 bonds during…",
-   "image": "https://i.brecorder.com/large/2026/10/16163642ee3d9da.webp",
    "topics": [
     "Economy"
    ],
@@ -295,19 +334,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan discusses reforms with MSCI, Deutsche Bank",
-   "url": "https://www.brecorder.com/news/40444539/pakistan-discusses-reforms-with-msci-deutsche-bank",
-   "source": "Business Recorder",
-   "published": "2026-10-16T10:13:44+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb met representatives of Morgan Stanley Capital International (MSCI) and Deutsche Bank on the sidelines of the World Bank Group-IMF Annual Meetings 2026 in Bangkok to discuss Pakistan’s capital market reforms, financing options and investment prospects. At the meeting with MSCI, attend…",
-   "image": "https://i.brecorder.com/large/2026/10/16151316cebd7b2.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
