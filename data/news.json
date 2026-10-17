@@ -1,15 +1,41 @@
 {
- "generated": "2026-10-17T00:12:21+00:00",
- "count": 51,
- "relevant_count": 19,
- "domestic_count": 16,
+ "generated": "2026-10-17T04:52:12+00:00",
+ "count": 47,
+ "relevant_count": 18,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (11)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Tax audit, assessment: FBR implements faceless system",
+   "url": "https://www.brecorder.com/news/40444619/tax-audit-assessment-fbr-implements-faceless-system",
+   "source": "Business Recorder",
+   "published": "2026-10-17T01:27:01+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has implemented a comprehensive framework for conducting tax audits, income tax assessments and related income tax and sales tax recovery proceedings against the taxpayers through the National Faceless Centre (NFC) with the help of artificial intelligence from October 15, 2…",
+   "image": "https://i.brecorder.com/large/2026/10/170626498db0255.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan to chair IMF, World Bank boards of governors after 74 years",
+   "url": "https://www.brecorder.com/news/40444618/pakistan-to-chair-imf-world-bank-boards-of-governors-after-74-years",
+   "source": "Business Recorder",
+   "published": "2026-10-17T01:24:31+00:00",
+   "summary": "ISLAMABAD: Pakistan has been named to head the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) in 2027, marking the country’s first return to the position since 1953, the Ministry of Economic Affairs said on Friday. Federal Minister for Economic Affairs Ahad Khan Cheema, who …",
+   "image": "https://i.brecorder.com/large/2026/10/1706242188f30da.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Weekly SPI inflation down 0.04pc",
    "url": "https://www.brecorder.com/news/40444640/weekly-spi-inflation-down-004pc",
@@ -57,32 +83,6 @@
    "published": "2026-10-16T23:52:08+00:00",
    "summary": "LAHORE: Speaker Punjab Assembly Malik Ahmad Khan has assured the Lahore Chamber of Commerce and Industry (LCCI) that its concerns and proposals regarding regulatory enforcement, taxation, industrial development and investment facilitation will be taken up with the relevant authorities. “Effective legislation requires c…",
    "image": "https://i.brecorder.com/large/2026/10/170259557667d23.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Efforts under way to increase SME financing: Ihsaan",
-   "url": "https://www.brecorder.com/news/40444580/efforts-under-way-to-increase-sme-financing-ihsaan",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:07+00:00",
-   "summary": "ISLAMABAD: Prime Minister’s Coordinator on Commerce and Industries Rana Ihsaan Afzal Khan has said that efforts were underway to increase Small and Medium Enterprises (SME) financing from Rs1 trillion to Rs2 trillion, while exporters were being supported through concessional financing arrangements involving EXIM Bank a…",
-   "image": "https://i.brecorder.com/large/2026/10/170120069b71148.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Additional structural reforms being considered within FBR: IRSOA",
-   "url": "https://www.brecorder.com/news/40444592/additional-structural-reforms-being-considered-within-fbr-irsoa",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:07+00:00",
-   "summary": "KARACHI: The Inland Revenue Service Officers Association (IRSOA) has expressed serious concern over reports that further structural reforms are being considered within the Federal Board of Revenue (FBR), saying several major reform initiatives are still being implemented. The IRSOA said it fully supports meaningful ref…",
-   "image": "https://i.brecorder.com/large/2026/10/170131381f3a69b.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -194,30 +194,17 @@
    "domestic": true
   },
   {
-   "title": "Nervous selling drags index below 165,000",
-   "url": "https://www.dawn.com/news/2037004/nervous-selling-drags-index-below-165000",
-   "source": "Dawn",
-   "published": "2026-10-14T03:40:18+00:00",
-   "summary": "KARACHI: Amid political turmoil following the imposition of governor’s rule and an emergency in PTI-ruled Khyber Pakh­tunkhwa, equity investors remained unsettled on Tuesday by the uncertain outlook. Economic concerns persisted despite the finance minister’s optimism that GDP growth would exceed four per cent this fisc…",
-   "image": "https://i.dawn.com/large/2026/10/140836212869c0f.webp",
+   "title": "Iraq says lost USD60bn as Mideast war hits oil exports",
+   "url": "https://www.brecorder.com/news/40444631/iraq-says-lost-usd60bn-as-mideast-war-hits-oil-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-17T02:00:42+00:00",
+   "summary": "BAGHDAD: Iraq has lost around USD60 billion during the Middle East war, Foreign Minister Fuad Hussein said on Thursday, with Iran blockading a waterway that is crucial to global energy flows. OPEC member Iraq was producing about four million barrels of oil per day before the conflict, exporting about 3.5 million bpd — …",
+   "image": "https://i.brecorder.com/large/2026/10/1707003124f78b6.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Gender gap in financial inclusion narrows",
-   "url": "https://www.dawn.com/news/2037006/gender-gap-in-financial-inclusion-narrows",
-   "source": "Dawn",
-   "published": "2026-10-14T02:02:30+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) on Tuesday launched the second edition of its Banking on Equality (BoE) Policy, following the previous framework that helped narrow the gender gap in financial inclusion from 39 per cent to 29pc. The first BoE policy, launched in 2021, was Pakistan’s first gender-mainstreaming …",
-   "image": "https://i.dawn.com/large/2026/10/14081436c5d4edf.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "US annual budget gap hits nearly USD2trn, largest in 5 years",
@@ -230,32 +217,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Recovery, poverty permitting",
-   "url": "https://www.brecorder.com/news/40444576/recovery-poverty-permitting",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:07+00:00",
-   "summary": "EDITORIAL: The government’s repeated assurances that Pakistan’s economy is improving sound increasingly hollow when measured against the living conditions of its people. The latest United Nations Development Programme figures show that 38.3 percent of Pakistan’s population suffers from multidimensional poverty, facing …",
-   "image": "https://i.brecorder.com/large/2026/10/17011733e648b90.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "A bigger catch, a wider net",
-   "url": "https://www.brecorder.com/news/40444577/a-bigger-catch-a-wider-net",
-   "source": "Business Recorder",
-   "published": "2026-10-16T23:52:07+00:00",
-   "summary": "EDITORIAL: Pakistan’s seafood exports have registered an impressive increase in the first quarter of FY2026-27, offering some welcome encouragement at a time when the economy desperately needs stronger export earnings. According to figures released by the Ministry of Maritime Affairs, export receipts rose 74.40 percent…",
-   "image": "https://i.brecorder.com/large/2026/10/17012141b72e9e2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -642,19 +603,6 @@
    "published": null,
    "summary": "FBR reforms should focus on institutional strengthening, says officers’ association",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
-   "url": "https://arynews.tv/pakistan-to-chair-imf-world-bank-boards-of-governors-after-74-years",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/imf-world-bank.jpg",
    "topics": [
     "Budget & spending"
    ],
