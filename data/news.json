@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-17T12:52:50+00:00",
- "count": 48,
+ "generated": "2026-10-17T16:10:42+00:00",
+ "count": 47,
  "relevant_count": 19,
  "domestic_count": 9,
  "sources": {
@@ -244,19 +244,6 @@
     "Procurement"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Iraq says lost USD60bn as Mideast war hits oil exports",
-   "url": "https://www.brecorder.com/news/40444631/iraq-says-lost-usd60bn-as-mideast-war-hits-oil-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-17T02:00:42+00:00",
-   "summary": "BAGHDAD: Iraq has lost around USD60 billion during the Middle East war, Foreign Minister Fuad Hussein said on Thursday, with Iran blockading a waterway that is crucial to global energy flows. OPEC member Iraq was producing about four million barrels of oil per day before the conflict, exporting about 3.5 million bpd — …",
-   "image": "https://i.brecorder.com/large/2026/10/1707003124f78b6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
