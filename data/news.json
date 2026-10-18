@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T21:01:19+00:00",
+ "generated": "2026-10-18T22:52:09+00:00",
  "count": 54,
- "relevant_count": 18,
- "domestic_count": 15,
+ "relevant_count": 19,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (18)",
@@ -10,6 +10,59 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "CPEC power projects await Rs498bn dues from CPPA-G",
+   "url": "https://www.brecorder.com/news/40444862/cpec-power-projects-await-rs498bn-dues-from-cppa-g",
+   "source": "Business Recorder",
+   "published": "2026-10-18T21:10:09+00:00",
+   "summary": "ISLAMABAD: Chinese power projects established under the China-Pakistan Economic Corridor (CPEC) framework are reportedly awaiting payments of outstanding dues amounting to Rs498 billion from the Central Power Purchasing Agency-Guarantee (CPPA-G), which is unable to clear the liabilities due to financial constraints, we…",
+   "image": "https://i.brecorder.com/large/2024/07/201643525d4a459.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR team to brief PM on faceless system today",
+   "url": "https://www.brecorder.com/news/40444866/fbr-team-to-brief-pm-on-faceless-system-today",
+   "source": "Business Recorder",
+   "published": "2026-10-18T21:10:09+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) will brief Prime Minister Shehbaz Sharif today (Monday) on implementation status of faceless system on Inland Revenue side, transformation plan and digital measures to reduce tax gap of over one trillion rupees in 18 sectors . Sources told Business Recorder that the FBR Hea…",
+   "image": "https://i.brecorder.com/large/2026/02/070111373918036.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt urged to improve cold storage infrastructure",
+   "url": "https://www.brecorder.com/news/40444876/govt-urged-to-improve-cold-storage-infrastructure",
+   "source": "Business Recorder",
+   "published": "2026-10-18T21:10:09+00:00",
+   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum (PBIF) and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board, Mian Zahid Hussain has urged the government to improve cold-storage infrastructure, accelerate clearance pr…",
+   "image": "https://i.brecorder.com/large/2024/01/65970fc8be2d5.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Tampered Cyprus study visa: FIA offloads passenger at Lahore airport",
+   "url": "https://www.brecorder.com/news/40444879/tampered-cyprus-study-visa-fia-offloads-passenger-at-lahore-airport",
+   "source": "Business Recorder",
+   "published": "2026-10-18T21:10:09+00:00",
+   "summary": "LAHORE: The Federal Investigation Agency (FIA) Immigration officials offloaded a passenger at Allama Iqbal International Airport Lahore for allegedly attempting to travel to Cyprus on a tampered study visa, here on Sunday. According to FIA spokesperson, the passenger, identified as Zain-ul-Abideen was scheduled to trav…",
+   "image": "https://i.brecorder.com/large/2022/05/62786d1f7e60f.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Gulf inflows in domestic bonds",
    "url": "https://www.dawn.com/news/2037907/gulf-inflows-in-domestic-bonds",
@@ -208,12 +261,12 @@
    "domestic": true
   },
   {
-   "title": "Egypt says ready to give Saudi Arabia necessary support amid Houthi conflict",
-   "url": "https://www.brecorder.com/news/40444813/egypt-says-ready-to-give-saudi-arabia-necessary-support-amid-houthi-conflict",
+   "title": "Talal vows support to PHMA for textile sector growth",
+   "url": "https://www.brecorder.com/news/40444853/talal-vows-support-to-phma-for-textile-sector-growth",
    "source": "Business Recorder",
-   "published": "2026-10-18T15:36:20+00:00",
-   "summary": "Egypt is ready to provide Saudi Arabia with the support it needs to defend its security and stability, the presidency said on Sunday, as Yemen’s Houthis intensify their attacks on the world’s largest oil exporter. Egyptian President Abdel Fattah al-Sisi requested an urgent parliament session to authorise the military, …",
-   "image": "https://i.brecorder.com/large/2026/10/172157111c420af.webp",
+   "published": "2026-10-18T21:10:09+00:00",
+   "summary": "FAISALABAD: Talal Chaudhry, Minister of State for Interior, presented a bouquet of flowers to Mian Farrukh Iqbal on his election as Chairman of the Pakistan Hosiery Manufacturers & Exporters Association (PHMA), North Zone and extended his warm congratulations on his election. On the occasion, Talal Chaudhry assured Mia…",
+   "image": "https://i.brecorder.com/large/2026/08/04024509e5a283c.webp",
    "topics": [
     "Economy"
    ],
@@ -221,42 +274,16 @@
    "domestic": false
   },
   {
-   "title": "Turkiye will get some diesel from US-Russia supply deal, energy minister says",
-   "url": "https://www.brecorder.com/news/40444808/turkiye-will-get-some-diesel-from-us-russia-supply-deal-energy-minister-says",
+   "title": "Saudi coalition, Houthis trade strikes as disruption spreads",
+   "url": "https://www.brecorder.com/news/40444870/saudi-coalition-houthis-trade-strikes-as-disruption-spreads",
    "source": "Business Recorder",
-   "published": "2026-10-18T13:23:45+00:00",
-   "summary": "ANKARA: Turkiye will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on Sunday. Bayraktar said the US-Russia diesel supply deal was important in terms of energy security for Turkiye. Ankara relies on Russia for so…",
-   "image": "https://i.brecorder.com/large/2026/10/181823106d53fdc.webp",
+   "published": "2026-10-18T21:10:09+00:00",
+   "summary": "RIYADH: The Saudi-led coalition and Iran-backed Houthis traded strikes Sunday as fighting raged in the intensifying conflict that has disturbed life for residents of the kingdom’s capital Riyadh and war-wracked Yemen. Disruption in the world’s top crude oil exporter has continued to spread as the Houthis keep up their …",
+   "image": "https://i.brecorder.com/large/2026/10/14030326e5f3ed2.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week",
-   "url": "https://www.brecorder.com/news/40444800/zelenskiy-says-russia-attacked-ukrainian-energy-sector-76-times-in-past-week",
-   "source": "Business Recorder",
-   "published": "2026-10-18T08:41:14+00:00",
-   "summary": "Russia has attacked Ukraine’s energy, oil ​and gas sectors ‌dozens of times in the week since ​ US President Donald ​Trump announced a halt ⁠to attacks on ​energy infrastructure, President Volodymyr ​Zelenskiy said on Sunday. “Since the American President announced ​the energy ceasefire ​a week ago, Russia has ‌deliber…",
-   "image": "https://i.brecorder.com/large/2026/10/181339128c9f5c5.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence, state media",
-   "url": "https://www.brecorder.com/news/40444799/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence-state-media",
-   "source": "Business Recorder",
-   "published": "2026-10-18T08:37:51+00:00",
-   "summary": "DUBAI: Iran’s parliament ​approved aerospace ‌industry veteran Mehrdad ​Akhlaqi Ketabchi ​as defence minister ⁠on ​Sunday, ending ​months of interim leadership at ​the ​ministry and placing a ‌former ⁠head of the country’s ​Aerospace ​Industries ⁠Organisation in charge ​of ​its ⁠defence production and procurement ⁠appa…",
-   "image": "https://i.brecorder.com/large/2026/10/18133602506a44c.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -268,32 +295,6 @@
    "image": "https://i.brecorder.com/large/2026/10/181307101adc90c.webp",
    "topics": [
     "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PARCO Gunvor Limited becomes the First OMC in Pakistan to Win a Blue Dragon for Best Campaign of Pakistan at Dragons of Asia 2026",
-   "url": "https://www.brecorder.com/news/40444675/parco-gunvor-limited-becomes-the-first-omc-in-pakistan-to-win-a-blue-dragon-for-best-campaign-of-pakistan-at-dragons-of-asia-2026",
-   "source": "Business Recorder",
-   "published": "2026-10-18T07:00:05+00:00",
-   "summary": "Pakistan, October 2026: PARCO Gunvor Limited secured the Blue Dragon for Best Campaign of Pakistan, alongside a Gold Dragon in the Small Budget Category, for its International Women’s Day campaign, #SplitTheTimeTax . The recognition marks a significant milestone for PARCO Gunvor Limited, highlighting the company’s grow…",
-   "image": "https://i.brecorder.com/large/2026/10/17161842cfa149e.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
-   "url": "https://www.brecorder.com/news/40444781/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions",
-   "source": "Business Recorder",
-   "published": "2026-10-18T04:58:39+00:00",
-   "summary": "The day after waiving sanctions and tariffs related to Russian exports, US President ‌Donald Trump said on Saturday he has yet to announce a final decision on the matter as Secretary of State Marco Rubio said officials want more time to evaluate the situation. Rubio said on Saturday that the president will use up to 60…",
-   "image": "https://i.brecorder.com/large/2026/10/18095812faa73b5.webp",
-   "topics": [
     "Economy"
    ],
    "relevant": false,
