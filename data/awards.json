@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-18T18:18:38+00:00",
- "count": 811,
- "with_value": 777,
+ "generated": "2026-10-18T21:01:13+00:00",
+ "count": 814,
+ "with_value": 780,
  "with_winner": 286,
  "smd_count": 0,
  "price_history": [
@@ -8154,6 +8154,63 @@
    "matched_terms": []
   },
   {
+   "contract_no": "PCN-9600714134",
+   "reference": "FCS/SOA/LP/448/26",
+   "title": "Sui Northern Gas Pipelines Limited (SNGPL) Cement Sadiq Impex Rawalpindi National Tender: TS0000004342E",
+   "organisation": "SNGPL Karak",
+   "office": "SNGPL Karak",
+   "winner": null,
+   "value_text": "Rs. 2,212,677 < Rs. 50 Million",
+   "value_pkr": 2212677,
+   "value_band": "< Rs. 50 Million",
+   "awarded": null,
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9600714134",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL3NhZGlxX2ltcGV4X2xwb180NDgucGRm",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-8446310135",
+   "reference": "FCS/SOA/LP/447/26",
+   "title": "Sui Northern Gas Pipelines Limited (SNGPL) Earth Clay Irtaza Traders Sargodha National Tender: TS0000004277E",
+   "organisation": "SNGPL Karak",
+   "office": "SNGPL Karak",
+   "winner": null,
+   "value_text": "Rs. 2,876,250 < Rs. 50 Million",
+   "value_pkr": 2876250,
+   "value_band": "< Rs. 50 Million",
+   "awarded": null,
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-8446310135",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL2lydGF6YV9scG9fNDQ3LnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-5095247677",
+   "reference": "FCS/SOA/LP/437/26",
+   "title": "Sui Northern Gas Pipelines Limited (SNGPL) Sand & Crush Hassan Traders Gujranawala National Tender: TS0000004275E",
+   "organisation": "SNGPL Karak",
+   "office": "SNGPL Karak",
+   "winner": null,
+   "value_text": "Rs. 2,244,950 < Rs. 50 Million",
+   "value_pkr": 2244950,
+   "value_band": "< Rs. 50 Million",
+   "awarded": null,
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-5095247677",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL2hhc3Nhbl9scG9fNDM3LnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "contract_no": "PCN-1529430643",
    "reference": "FCS/SOA/LP/444/26",
    "title": "Sui Northern Gas Pipelines Limited (SNGPL) Stringing Material GM & Sons Enterprises Gujranwala National Tender: TS0000004340E",
@@ -15432,6 +15489,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004324",
+   "tender_no": "TS0000011433E",
+   "reference": "P82513",
+   "title": "Procurement Notice Services",
+   "organisation": "Faisalabad Electric Supply Company (FESCO) Administration Directorate, HQs FESCO Faisalabad - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Alfalah Insurance Company Limited"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-18",
+   "city": "Faisalabad",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004324",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004323",
    "tender_no": "TS0000009043E",
@@ -54472,26 +54549,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002232",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002231",
-   "tender_no": "TS0000004591E",
-   "reference": "PD GSC GEPCO 30/2025-26 and 31/2025-26",
-   "title": "Survey, preparation of route plan profile and soil investigation of 132KV Transmission lines Services",
-   "organisation": "Ministry of Energy (Power Division) GSC GEPCO Gujranwala - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "WM Sons Pvt Ltd Lhr"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-22",
-   "city": "Gujranwala",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002231",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
