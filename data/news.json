@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-18T11:35:50+00:00",
- "count": 54,
- "relevant_count": 19,
- "domestic_count": 17,
+ "generated": "2026-10-18T15:21:08+00:00",
+ "count": 53,
+ "relevant_count": 18,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (18)",
@@ -104,33 +104,6 @@
    "domestic": true
   },
   {
-   "title": "Dar meets PM AJK",
-   "url": "https://www.brecorder.com/news/40444775/dar-meets-pm-ajk",
-   "source": "Business Recorder",
-   "published": "2026-10-18T01:08:30+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister/Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar met with the Prime Minister of Azad Jammu and Kashmir (AJK) here on Saturday. The two leaders exchanged views on the development of AJK and the importance of sustained efforts to promote economic growth and social progress. They empha…",
-   "image": "https://i.brecorder.com/large/2025/08/68aa21dcd7c05.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Green Line project to be completed this year: Hashmi",
-   "url": "https://www.brecorder.com/news/40444734/green-line-project-to-be-completed-this-year-hashmi",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "KARACHI: Sindh Governor Syed Muhammad Nihal Hashmi on Saturday said the Green Line Bus Rapid Transit (BRT) extension from Numaish Chowrangi to Municipal Park is expected to be completed in the current fiscal year. During a surprise visit to the 1.8-kilometre project, the Governor reviewed construction work and directed…",
-   "image": "https://i.brecorder.com/large/2021/12/61c7902fd6520.jpg",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Pakistan Rice Festival held in Hungary: minister says govt committed to increasing agri, food exports",
    "url": "https://www.brecorder.com/news/40444687/pakistan-rice-festival-held-in-hungary-minister-says-govt-committed-to-increasing-agri-food-exports",
    "source": "Business Recorder",
@@ -149,7 +122,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T15:56:52+00:00",
    "summary": "The Pakistani rupee continued its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 276.91, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 276.92 against the dollar. Internationally, the US dollar headed for its first weekly fa…",
-   "image": "https://i.brecorder.com/large/2026/10/161547347cb1bca.webp",
+   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
    "topics": [
     "Economy"
    ],
@@ -235,6 +208,19 @@
    "domestic": true
   },
   {
+   "title": "Turkiye will get some diesel from US-Russia supply deal, energy minister says",
+   "url": "https://www.brecorder.com/news/40444808/turkiye-will-get-some-diesel-from-us-russia-supply-deal-energy-minister-says",
+   "source": "Business Recorder",
+   "published": "2026-10-18T13:23:45+00:00",
+   "summary": "ANKARA: Turkiye will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on Sunday. Bayraktar said the US-Russia diesel supply deal was important in terms of energy security for Turkiye. Ankara relies on Russia for so…",
+   "image": "https://i.brecorder.com/large/2026/10/181823106d53fdc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week",
    "url": "https://www.brecorder.com/news/40444800/zelenskiy-says-russia-attacked-ukrainian-energy-sector-76-times-in-past-week",
    "source": "Business Recorder",
@@ -280,7 +266,7 @@
    "source": "Business Recorder",
    "published": "2026-10-18T07:00:05+00:00",
    "summary": "Pakistan, October 2026: PARCO Gunvor Limited secured the Blue Dragon for Best Campaign of Pakistan, alongside a Gold Dragon in the Small Budget Category, for its International Women’s Day campaign, #SplitTheTimeTax . The recognition marks a significant milestone for PARCO Gunvor Limited, highlighting the company’s grow…",
-   "image": "https://i.brecorder.com/large/2026/10/17161933cfa149e.webp",
+   "image": "https://i.brecorder.com/large/2026/10/17161842cfa149e.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -372,7 +358,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T13:45:50+00:00",
    "summary": "MUMBAI: Indian government bonds nursed losses for a ninth straight week, battered by the Reserve Bank of India’s rupee defence, which has sharpened its tightening bias, clouded the policy outlook and sapped demand for debt. The benchmark 6.94% 2036 bond yield rose around8 basis points this week to 7.3789%, extending it…",
-   "image": "https://i.brecorder.com/large/2026/10/161845269842b40.webp",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
    "topics": [
     "Economy"
    ],
@@ -385,7 +371,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T13:36:22+00:00",
    "summary": "Stock market in the United Arab Emirates closed higher on Friday, in line with global equities, with Dubai outperforming its regional peer as investors assessed geopolitical developments and focused on diplomatic solutions. European stocks — which had been hit less hard by Thursday’s selloff — were mostly higher on Fri…",
-   "image": "https://i.brecorder.com/large/2026/10/16183527a97e147.webp",
+   "image": "https://i.brecorder.com/large/2025/06/04203646a97e147.jpg",
    "topics": [
     "Economy"
    ],
@@ -398,7 +384,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T13:31:35+00:00",
    "summary": "LONDON: Copper prices led other base metals higher on Friday as a weaker dollar offered support, while equity markets stabilised after Thursday’s sharp selloff in technology stocks, improving risk appetite for growth-dependent metals. Benchmark three-month copper on the London Metal Exchange rose 0.9% to $14,480 a metr…",
-   "image": "https://i.brecorder.com/large/2026/10/161831141cfe758.webp",
+   "image": "https://i.brecorder.com/large/2026/10/141745441cfe758.webp",
    "topics": [
     "Economy"
    ],
@@ -411,7 +397,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T12:28:20+00:00",
    "summary": "JAKARTA: Malaysian palm oil futures climbed on Friday, supported by bargain buying and strong export demand as cargo surveyors reported higher shipments in the first half of October. The benchmark palm oil contract for January delivery on the Bursa Malaysia Derivatives Exchange gained 44 ringgit, or 0.93%, to 4,769 rin…",
-   "image": "https://i.brecorder.com/large/2026/10/16172802c7d44c8.webp",
+   "image": "https://i.brecorder.com/large/2026/10/15111938c7d44c8.webp",
    "topics": [
     "Economy"
    ],
@@ -502,7 +488,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T06:47:46+00:00",
    "summary": "BEIJING: China will maintain its 2027 wheat import tariff-rate quota at 9.64 million metric tons, unchanged from a year earlier, according to a notice issued by the state planner on Friday. Corn hits one-week high on US crop worries, soybeans firm Import tariff-rate quotas for rice, corn and cotton were also kept uncha…",
-   "image": "https://i.brecorder.com/large/2026/10/161147295fad767.gif",
+   "image": "https://i.brecorder.com/large/2026/10/080101055fad767.gif",
    "topics": [
     "Economy"
    ],
@@ -515,7 +501,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T06:45:36+00:00",
    "summary": "London copper inched higher on Friday but headed for a weekly loss amid concerns over rising inflation and a selloff in AI-related stocks, while aluminium was on track for a fourth straight weekly decline. Benchmark three-month copper on the London Metal Exchange rose 0.3% to $14,383.50 a metric ton by 0150 GMT but was…",
-   "image": "https://i.brecorder.com/large/2026/10/16114511e03c893.webp",
+   "image": "https://i.brecorder.com/large/2026/08/28113644e03c893.webp",
    "topics": [
     "Economy"
    ],
@@ -541,7 +527,7 @@
    "source": "Business Recorder",
    "published": "2026-10-16T06:23:56+00:00",
    "summary": "SYDNEY: The Australian dollar was on track for steep weekly losses on Friday after soft jobs data prompted markets to scale back wagers on a fifth rate hike this year, sending the currency to a one-month low against the New Zealand dollar. The Aussie slipped 0.1% to $0.6917 after diving 0.7% overnight to a 15-week low …",
-   "image": "https://i.brecorder.com/large/2026/10/16112258ed1edfc.webp",
+   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
    "topics": [
     "Economy"
    ],
