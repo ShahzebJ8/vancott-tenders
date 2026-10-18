@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-18T06:21:34+00:00",
+ "generated": "2026-10-18T11:35:50+00:00",
  "count": 54,
- "relevant_count": 16,
- "domestic_count": 18,
+ "relevant_count": 19,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (16)",
-  "Business Recorder": "ok (17)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (5)"
  },
@@ -131,19 +131,6 @@
    "domestic": true
   },
   {
-   "title": "Sports event held to promote awareness among women about cancer",
-   "url": "https://www.brecorder.com/news/40444735/sports-event-held-to-promote-awareness-among-women-about-cancer",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "KARACHI: Under the auspices of the Sindh Government’s Department of Sports & Youth Affairs, a Pinktober Sports Gala was organized in Clifton, District South Karachi, to promote awareness among women regarding breast cancer. The event highlighted the importance of women’s health, early diagnosis, and preventive measures…",
-   "image": "https://i.brecorder.com/large/2024/02/65bea2d0c38d8.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Pakistan Rice Festival held in Hungary: minister says govt committed to increasing agri, food exports",
    "url": "https://www.brecorder.com/news/40444687/pakistan-rice-festival-held-in-hungary-minister-says-govt-committed-to-increasing-agri-food-exports",
    "source": "Business Recorder",
@@ -248,51 +235,65 @@
    "domestic": true
   },
   {
+   "title": "Zelenskiy says Russia attacked Ukrainian energy sector 76 times in past week",
+   "url": "https://www.brecorder.com/news/40444800/zelenskiy-says-russia-attacked-ukrainian-energy-sector-76-times-in-past-week",
+   "source": "Business Recorder",
+   "published": "2026-10-18T08:41:14+00:00",
+   "summary": "Russia has attacked Ukraine’s energy, oil ​and gas sectors ‌dozens of times in the week since ​ US President Donald ​Trump announced a halt ⁠to attacks on ​energy infrastructure, President Volodymyr ​Zelenskiy said on Sunday. “Since the American President announced ​the energy ceasefire ​a week ago, Russia has ‌deliber…",
+   "image": "https://i.brecorder.com/large/2026/10/181339128c9f5c5.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Iran's parliament approves Mehrdad Akhlaqi as minister of defence, state media",
+   "url": "https://www.brecorder.com/news/40444799/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence-state-media",
+   "source": "Business Recorder",
+   "published": "2026-10-18T08:37:51+00:00",
+   "summary": "DUBAI: Iran’s parliament ​approved aerospace ‌industry veteran Mehrdad ​Akhlaqi Ketabchi ​as defence minister ⁠on ​Sunday, ending ​months of interim leadership at ​the ​ministry and placing a ‌former ⁠head of the country’s ​Aerospace ​Industries ⁠Organisation in charge ​of ​its ⁠defence production and procurement ⁠appa…",
+   "image": "https://i.brecorder.com/large/2026/10/18133602506a44c.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "China proposes export controls on solar-manufacturing technologies",
+   "url": "https://www.brecorder.com/news/40444795/china-proposes-export-controls-on-solar-manufacturing-technologies",
+   "source": "Business Recorder",
+   "published": "2026-10-18T08:13:36+00:00",
+   "summary": "BEIJING: China has proposed export controls on 12 technologies used to make solar equipment, citing national security concerns, as part ​of a broader revision that also covers AI and biotechnology. The ministry ‌of commerce proposed adding the photovoltaic technologies to China’s export-control list, it said in a state…",
+   "image": "https://i.brecorder.com/large/2026/10/181307101adc90c.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PARCO Gunvor Limited becomes the First OMC in Pakistan to Win a Blue Dragon for Best Campaign of Pakistan at Dragons of Asia 2026",
+   "url": "https://www.brecorder.com/news/40444675/parco-gunvor-limited-becomes-the-first-omc-in-pakistan-to-win-a-blue-dragon-for-best-campaign-of-pakistan-at-dragons-of-asia-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-18T07:00:05+00:00",
+   "summary": "Pakistan, October 2026: PARCO Gunvor Limited secured the Blue Dragon for Best Campaign of Pakistan, alongside a Gold Dragon in the Small Budget Category, for its International Women’s Day campaign, #SplitTheTimeTax . The recognition marks a significant milestone for PARCO Gunvor Limited, highlighting the company’s grow…",
+   "image": "https://i.brecorder.com/large/2026/10/17161933cfa149e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
    "url": "https://www.brecorder.com/news/40444781/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions",
    "source": "Business Recorder",
    "published": "2026-10-18T04:58:39+00:00",
    "summary": "The day after waiving sanctions and tariffs related to Russian exports, US President ‌Donald Trump said on Saturday he has yet to announce a final decision on the matter as Secretary of State Marco Rubio said officials want more time to evaluate the situation. Rubio said on Saturday that the president will use up to 60…",
    "image": "https://i.brecorder.com/large/2026/10/18095812faa73b5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australia employment unexpectedly slides",
-   "url": "https://www.brecorder.com/news/40444742/australia-employment-unexpectedly-slides",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "SYDNEY: Australian employment unexpectedly fell in September, data showed on Thursday, while the unemployment rate held at a five-year high, a soft result that had investors paring back wagers on another hike in interest rates. Markets now imply a nearly 90 percent chance the Reserve Bank of Australia will leave intere…",
-   "image": "https://i.brecorder.com/large/2026/09/2911083455f7075.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India’s goods trade deficit widens",
-   "url": "https://www.brecorder.com/news/40444743/indias-goods-trade-deficit-widens",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "NEW DELHI: India’s merchandise trade deficit widened to USD30.21 billion in September as the rise in imports outpaced that in exports, though a rise in outbound shipments and trade deals could narrow the balance over coming months. The trade gap has widened as Asia’s third-largest economy grapples with a prolonged Iran…",
-   "image": "https://i.brecorder.com/large/2026/08/131839122c623d0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China’s exports blow past forecasts, imports accelerate",
-   "url": "https://www.brecorder.com/news/40444744/chinas-exports-blow-past-forecasts-imports-accelerate",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "BEIJING: China’s export growth topped forecasts in September, with robust overseas demand helping offset weak consumer spending and easing pressure on policymakers to deliver this year’s growth goal. Resilience in goods exports has for a second year defied pressure from Western countries seeking more balanced trade wit…",
-   "image": "https://i.brecorder.com/large/2025/12/08111935c01fb1f.webp",
    "topics": [
     "Economy"
    ],
