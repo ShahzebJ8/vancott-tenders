@@ -1,15 +1,108 @@
 {
- "generated": "2026-10-18T01:25:09+00:00",
- "count": 49,
- "relevant_count": 14,
- "domestic_count": 12,
+ "generated": "2026-10-18T06:21:34+00:00",
+ "count": 54,
+ "relevant_count": 16,
+ "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (11)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (8)",
+  "The Express Tribune": "ok (10)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Gulf inflows in domestic bonds",
+   "url": "https://www.dawn.com/news/2037907/gulf-inflows-in-domestic-bonds",
+   "source": "Dawn",
+   "published": "2026-10-18T02:48:50+00:00",
+   "summary": "KARACHI: Foreign investment in Pakistan’s domestic bonds reached $188 million in the first nine days of October, indicating growing overseas interest and opening an­­other source of dollar inf­lows for the government. Latest State Bank of Pakistan data showed that investors from Gulf countries were taking a particular …",
+   "image": "https://i.dawn.com/large/2025/11/0707565895900c9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Competition Commission of Pakistan deploys AI against bid rigging",
+   "url": "https://www.dawn.com/news/2037909/competition-commission-of-pakistan-deploys-ai-against-bid-rigging",
+   "source": "Dawn",
+   "published": "2026-10-18T02:28:00+00:00",
+   "summary": "ISLAMABAD: The Competition Commission of Pakistan (CCP) has developed an AI-powered system to screen procurement data and flag suspicious bidding patterns for investigation. The Bid-Rigging Detection System (BRDS) can process large volumes of data and help uncover concealed patterns of cartelisation in Pakistan’s publi…",
+   "image": "https://i.dawn.com/large/2026/05/05085628cff1b5e.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt moves to curb LPG hoarding ahead of winter",
+   "url": "https://www.dawn.com/news/2037906/govt-moves-to-curb-lpg-hoarding-ahead-of-winter",
+   "source": "Dawn",
+   "published": "2026-10-18T01:39:42+00:00",
+   "summary": "• Petroleum Division flags irregular lifting of imported LPG from terminals • Ogra asked to ensure supplies at notified prices, particularly in remote areas ISLAMABAD: The government has taken notice of the alleged hoarding of liquefied petroleum gas (LPG) to create an artificial shortage ahead of winter and directed a…",
+   "image": "https://i.dawn.com/large/2026/07/122214180bd111b.webp",
+   "topics": [
+    "Advertising & media",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Economy more shock-resistant, says SBP chief",
+   "url": "https://www.dawn.com/news/2037905/economy-more-shock-resistant-says-sbp-chief",
+   "source": "Dawn",
+   "published": "2026-10-18T01:39:42+00:00",
+   "summary": "KARACHI: State Bank of Pakistan Governor Jameel Ahmad said sustained, prudent macroeconomic policies and structural reforms have made Pakistan’s economy more resilient to domestic and external shocks. The central bank chief highlighted Pakistan’s improving macroeconomic conditions and outlook during meetings with forei…",
+   "image": "https://i.dawn.com/large/2026/09/13084310dabb6b8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Auto loans rise despite sales slump",
+   "url": "https://www.dawn.com/news/2037908/auto-loans-rise-despite-sales-slump",
+   "source": "Dawn",
+   "published": "2026-10-18T01:39:42+00:00",
+   "summary": "KARACHI: Despite a sales slowdown, outstanding car loans rose for the 22nd consecutive month to Rs407 billion in September from Rs393.3bn in August, data released by the State Bank of Pakistan (SBP) showed. Assemblers saw a 12 per cent year-on-year and 3pc month-on-month drop in sales of cars, SUVs, pickups and vans to…",
+   "image": "https://i.dawn.com/large/2026/08/10071653fc3d1e9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PSX extends losses for fourth straight week amid economic uncertainty",
+   "url": "https://www.dawn.com/news/2037903/psx-extends-losses-for-fourth-straight-week-amid-economic-uncertainty",
+   "source": "Dawn",
+   "published": "2026-10-18T01:39:42+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) recorded a fourth consecutive week of declines as domestic political uncertainty and geopolitical tensions weighed on investor sentiment amid inflation concerns and the prospect of an interest rate hike. As a result, the benchmark KSE-100 index fell 0.4 per cent week-on-week, …",
+   "image": "https://i.dawn.com/large/2021/11/618f42c447659.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Food exports surge 25pc in July-Sept",
+   "url": "https://www.dawn.com/news/2037910/food-exports-surge-25pc-in-july-sept",
+   "source": "Dawn",
+   "published": "2026-10-18T01:39:42+00:00",
+   "summary": "ISLAMABAD: Pakistan’s raw food exports surged 25.31 per cent in the first quarter of the current fiscal year, compared with the same period last year, driven largely by higher rice shipments. According to data compiled by the Pakistan Bureau of Statistics, imports of raw food items rose by just 3.44pc in July-September…",
+   "image": "https://i.dawn.com/large/2023/10/6531e0eca80d3.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Dar meets PM AJK",
    "url": "https://www.brecorder.com/news/40444775/dar-meets-pm-ajk",
@@ -155,17 +248,17 @@
    "domestic": true
   },
   {
-   "title": "Stocks stage partial recovery amid uncertainty",
-   "url": "https://www.dawn.com/news/2037213/stocks-stage-partial-recovery-amid-uncertainty",
-   "source": "Dawn",
-   "published": "2026-10-15T03:30:53+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Wednesday recovered some losses from the week’s first two sessions amid persistent regional and political tensions. Attractive valuations drew investors back to cherry-pick stocks, pushing the benchmark KSE-100 index above the psychological 165,000 mark after it moved in b…",
-   "image": "https://i.dawn.com/large/2026/10/150829156974106.webp",
+   "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+   "url": "https://www.brecorder.com/news/40444781/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions",
+   "source": "Business Recorder",
+   "published": "2026-10-18T04:58:39+00:00",
+   "summary": "The day after waiving sanctions and tariffs related to Russian exports, US President ‌Donald Trump said on Saturday he has yet to announce a final decision on the matter as Secretary of State Marco Rubio said officials want more time to evaluate the situation. Rubio said on Saturday that the president will use up to 60…",
+   "image": "https://i.brecorder.com/large/2026/10/18095812faa73b5.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "Australia employment unexpectedly slides",
@@ -207,39 +300,25 @@
    "domestic": false
   },
   {
-   "title": "ASEAN economies need to tackle energy shocks",
-   "url": "https://www.brecorder.com/news/40444748/asean-economies-need-to-tackle-energy-shocks",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "BANGKOK: ASEAN economies should tackle imminent challenges such as energy shocks and inflation, Japan’s Vice Finance Minister for International Affairs Atsushi Mimura said on Wednesday. Fiscal support should be delivered not only in ASEAN but also in Japan, and it should be “targeted, tailored and temporary”, Mimura sa…",
-   "image": "https://i.brecorder.com/large/2026/07/2111235841ae0bd.webp",
+   "title": "No gas queues, no shortage: FinMin",
+   "url": "https://tribune.com.pk/story/2635410/no-gas-queues-no-shortage-finmin",
+   "source": "The Express Tribune",
+   "published": "2026-10-17T16:07:40+00:00",
+   "summary": "Says Pakistan prepared for winter but attacks on Gulf infrastructure worrying",
+   "image": null,
    "topics": [
-    "Budget & spending",
-    "Economy"
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "India’s wholesale inflation quickens",
-   "url": "https://www.brecorder.com/news/40444749/indias-wholesale-inflation-quickens",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "NEW DELHI: India’s wholesale inflation accelerated to 11.39 percent year-on-year in September, government data showed on Wednesday, as oil and food prices increased at a faster pace. The print was higher than the 9.92 percent rise a month ago and economists’ average projection of 10.18 percent in a Reuters poll . Here …",
-   "image": "https://i.brecorder.com/large/2025/12/12174642e9fbf33.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US import prices increase; post largest annual gain in more than four years",
-   "url": "https://www.brecorder.com/news/40444750/us-import-prices-increase-post-largest-annual-gain-in-more-than-four-years",
-   "source": "Business Recorder",
-   "published": "2026-10-17T23:53:26+00:00",
-   "summary": "WASHINGTON: US import prices increased more than expected in September, boosted by higher costs for energy products and a range of other goods, further evidence of rising inflation pressures as the Middle East conflict persists. The report from the Labour Department on Friday followed data this week showing strong incr…",
-   "image": "https://i.brecorder.com/large/2026/07/161038088ddf1cb.gif",
+   "title": "SBP rebuilt reserves without new debt",
+   "url": "https://tribune.com.pk/story/2635411/sbp-rebuilt-reserves-without-new-debt",
+   "source": "The Express Tribune",
+   "published": "2026-10-17T16:07:40+00:00",
+   "summary": "Forward liabilities cut to under $1b from $5.7b; external debt barely rose in three years",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -540,19 +619,6 @@
    "published": "2026-10-14T17:19:05+00:00",
    "summary": "Aurangzeb cites 22-year-low fiscal deficit, three years of primary surpluses",
    "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Aurangzeb discusses targeted fuel subsidies in meeting with senior IMF official",
-   "url": "https://www.dawn.com/news/2037132/aurangzeb-discusses-targeted-fuel-subsidies-in-meeting-with-senior-imf-official",
-   "source": "Dawn",
-   "published": "2026-10-14T15:40:37+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb met International Monetary Fund (IMF) Deputy Managing Director Nigel Clarke in Bangkok on Wednesday, with their discussion covering targeted fuel subsidies among other matters. Aurangzeb “outlined targeted fuel subsidies to protect vulnerable groups and preserve social cohesion” duri…",
-   "image": "https://i.dawn.com/large/2026/10/14192018d10f81a.webp",
    "topics": [
     "Budget & spending"
    ],
