@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-19T18:19:20+00:00",
- "count": 51,
- "relevant_count": 16,
- "domestic_count": 10,
+ "generated": "2026-10-19T22:37:08+00:00",
+ "count": 50,
+ "relevant_count": 17,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (12)",
-  "ARY News": "ok (7)"
+  "The Express Tribune": "ok (11)",
+  "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Third-degree emergency declared as fire engulfs Metroville warehouse in Karachi",
+   "url": "https://www.brecorder.com/news/40444966/third-degree-emergency-declared-as-fire-engulfs-metroville-warehouse-in-karachi",
+   "source": "Business Recorder",
+   "published": "2026-10-19T18:36:57+00:00",
+   "summary": "Firefighters brought a fire under control at a shop beneath a residential building in North Nazimabad on Monday, while a separate blaze at a warehouse near Metroville in the SITE area continued to be battled, Rescue 1122 (Sindh) said. The fire at the shop broke out near Farooq-e-Azam Mosque, prompting the deployment of…",
+   "image": "https://i.brecorder.com/large/2026/10/192336463d6b665.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40444933/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -143,6 +156,19 @@
    "domestic": true
   },
   {
+   "title": "'Call to halt official work': FBR suspends two IRS officers, repatriates two others",
+   "url": "https://www.brecorder.com/news/40444967/call-to-halt-official-work-fbr-suspends-two-irs-officers-repatriates-two-others",
+   "source": "Business Recorder",
+   "published": "2026-10-19T18:28:09+00:00",
+   "summary": "The Federal Board of Revenue (FBR) suspended on Monday two Inland Revenue Service (IRS) officers and repatriated two others to its headquarters for further investigation over an unauthorised press statement and “a call to halt official work”. According to an FBR statement, the suspended officers are in BS-20 and BS-19,…",
+   "image": "https://i.brecorder.com/large/2026/09/1005022387d697b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
    "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets",
    "source": "Business Recorder",
@@ -192,19 +218,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "DG Khan airport to become international by Jan 2028, says Leghari",
-   "url": "https://www.brecorder.com/news/40444936/dg-khan-airport-to-become-international-by-jan-2028-says-leghari",
-   "source": "Business Recorder",
-   "published": "2026-10-19T11:27:35+00:00",
-   "summary": "Federal Minister for Power Division Sardar Awais Ahmed Khan Leghari has said that work to upgrade DG Khan Airport for international flights has begun, with the Rs5.5 billion expansion project to be completed by January 2028. Talking during a visit to the airport, Leghari inspected the runway extension work and reviewed…",
-   "image": "https://i.brecorder.com/large/2026/10/19160240fb238c0.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -455,19 +468,6 @@
    "domestic": false
   },
   {
-   "title": "Solar is our saviour, capacity charge our drain",
-   "url": "https://tribune.com.pk/story/2635596/solar-is-our-saviour-capacity-charge-our-drain",
-   "source": "The Express Tribune",
-   "published": "2026-10-18T16:18:49+00:00",
-   "summary": "Around $40b paid in capacity charges since 2019; pro-seller PPAs need renegotiation",
-   "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX edges up amid oil price concerns",
    "url": "https://tribune.com.pk/story/2635305/psx-edges-up-amid-oil-price-concerns",
    "source": "The Express Tribune",
@@ -656,19 +656,6 @@
    "published": null,
    "summary": "Pakistan aims to raise mineral exports to $8 billion, OGDC report says",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Pakistan-Minerals.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold prices rise in Pakistan as weaker dollar supports global bullion",
-   "url": "https://arynews.tv/gold-prices-rise-in-pakistan-as-weaker-dollar-supports-global-bullion",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Gold prices rise in Pakistan as weaker dollar supports global bullion",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Gold.jpg.jpeg",
    "topics": [
     "Economy"
    ],
