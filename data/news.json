@@ -1,40 +1,26 @@
 {
- "generated": "2026-10-19T05:42:44+00:00",
- "count": 53,
- "relevant_count": 16,
- "domestic_count": 14,
+ "generated": "2026-10-19T12:00:04+00:00",
+ "count": 49,
+ "relevant_count": 17,
+ "domestic_count": 10,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (12)",
+  "Dawn": "ok (13)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "CPEC power projects await Rs498bn dues from CPPA-G",
-   "url": "https://www.brecorder.com/news/40444862/cpec-power-projects-await-rs498bn-dues-from-cppa-g",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40444933/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-18T21:10:09+00:00",
-   "summary": "ISLAMABAD: Chinese power projects established under the China-Pakistan Economic Corridor (CPEC) framework are reportedly awaiting payments of outstanding dues amounting to Rs498 billion from the Central Power Purchasing Agency-Guarantee (CPPA-G), which is unable to clear the liabilities due to financial constraints, we…",
-   "image": "https://i.brecorder.com/large/2024/07/201643525d4a459.jpg",
+   "published": "2026-10-19T11:14:55+00:00",
+   "summary": "The Pakistani rupee continued its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 276.90, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.03% in the interbank…",
+   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
    "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR team to brief PM on faceless system today",
-   "url": "https://www.brecorder.com/news/40444866/fbr-team-to-brief-pm-on-faceless-system-today",
-   "source": "Business Recorder",
-   "published": "2026-10-18T21:10:09+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) will brief Prime Minister Shehbaz Sharif today (Monday) on implementation status of faceless system on Inland Revenue side, transformation plan and digital measures to reduce tax gap of over one trillion rupees in 18 sectors . Sources told Business Recorder that the FBR Hea…",
-   "image": "https://i.brecorder.com/large/2026/02/070111373918036.webp",
-   "topics": [
-    "Budget & spending",
     "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": true
   },
   {
@@ -131,51 +117,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan Rice Festival held in Hungary: minister says govt committed to increasing agri, food exports",
-   "url": "https://www.brecorder.com/news/40444687/pakistan-rice-festival-held-in-hungary-minister-says-govt-committed-to-increasing-agri-food-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-17T16:32:48+00:00",
-   "summary": "The Embassy of Pakistan in Hungary hosted the first Pakistan Rice Festival in Budapest, introducing Pakistani basmati rice to Hungarian importers, chefs and food industry professionals, the Ministry of Commerce said on Saturday. The event was organised in collaboration with the ministry and the Trade Development Author…",
-   "image": "https://i.brecorder.com/large/2026/10/172129027d3e622.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40444540/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-16T15:56:52+00:00",
-   "summary": "The Pakistani rupee continued its marginal gains against the US dollar in the interbank market on Friday. The local unit closed the day at 276.91, a gain of Re0.01 against the greenback. On Thursday , the Pakistani rupee settled at 276.92 against the dollar. Internationally, the US dollar headed for its first weekly fa…",
-   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Short-term inflation surges to 11.38pc due to costly food",
    "url": "https://www.dawn.com/news/2037605/short-term-inflation-surges-to-1138pc-due-to-costly-food",
    "source": "Dawn",
    "published": "2026-10-16T13:18:16+00:00",
    "summary": "ISLAMABAD: Short-term inflation rose to 11.38 per cent year-on-year in the week ending October 15, driven largely by higher food prices , according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. Of the 51 essential items monitored during the week, prices of 23 commodities (45.10pc) incr…",
    "image": "https://i.dawn.com/large/2026/10/16180522d19a554.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "State Bank of Pakistan's reserves rise",
-   "url": "https://www.dawn.com/news/2037469/state-bank-of-pakistans-reserves-rise",
-   "source": "Dawn",
-   "published": "2026-10-16T02:27:54+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan’s foreign exchange reserves rose by $16 million to $21.469 billion during the week ended on Oct 9, reported the central bank on Thursday. The SBP has maintained a record-high increase in reserves since inflows of $3bn from the sale of Eurobonds, despite a rising trade deficit. The co…",
-   "image": "https://i.dawn.com/large/2026/10/07083036c5d4edf.webp",
    "topics": [
     "Economy"
    ],
@@ -196,11 +143,37 @@
    "domestic": true
   },
   {
-   "title": "PSX: KSE-100 falls over 350 points in early trade",
-   "url": "https://www.brecorder.com/news/40444896/psx-kse-100-falls-over-350-points-in-early-trade",
+   "title": "DG Khan airport to become international by Jan 2028, says Leghari",
+   "url": "https://www.brecorder.com/news/40444936/dg-khan-airport-to-become-international-by-jan-2028-says-leghari",
    "source": "Business Recorder",
-   "published": "2026-10-19T05:03:42+00:00",
-   "summary": "Selling sentiment was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding over 350 points during the opening minutes of trading on Monday. At 9:45am, the benchmark index was hovering at 166,059.72, down 359.99 points or 0.22%. Selling was observed in key sectors, including automobil…",
+   "published": "2026-10-19T11:27:35+00:00",
+   "summary": "Federal Minister for Power Division Sardar Awais Ahmed Khan Leghari has said that work to upgrade DG Khan Airport for international flights has begun, with the Rs5.5 billion expansion project to be completed by January 2028. Talking during a visit to the airport, Leghari inspected the runway extension work and reviewed…",
+   "image": "https://i.brecorder.com/large/2026/10/19160240fb238c0.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Marseille official club store looted amid unrest in France",
+   "url": "https://www.brecorder.com/news/40444939/marseille-official-club-store-looted-amid-unrest-in-france",
+   "source": "Business Recorder",
+   "published": "2026-10-19T11:21:26+00:00",
+   "summary": "Olympique de Marseille said their official store on La Canebiere, the city’s historic main avenue, was looted during weekend unrest in France, with the Ligue 1 club on Monday condemning the incident. France had some of its worst unrest in years over the weekend, with thousands of people arrested and shops looted or dam…",
+   "image": "https://i.brecorder.com/large/2026/10/19161915be62c5c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: selling pressure at bourse, KSE-100 settles over 450 points lower",
+   "url": "https://www.brecorder.com/news/40444896/psx-selling-pressure-at-bourse-kse-100-settles-over-450-points-lower",
+   "source": "Business Recorder",
+   "published": "2026-10-19T11:13:02+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed selling pressure on Monday, with the benchmark KSE-100 Index closing in negative territory with a loss of over 450 points. The benchmark index opened on a negative note and declined towards the session low of 165,918.34 before recovering sharply, climbing above 166,400 points…",
    "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
    "topics": [
     "Economy"
@@ -209,12 +182,155 @@
    "domestic": false
   },
   {
-   "title": "Citi Pharma receives CCP nod to acquire Pakheim International",
-   "url": "https://www.brecorder.com/news/40444895/citi-pharma-receives-ccp-nod-to-acquire-pakheim-international",
+   "title": "Indian rupee ends flat as stock slump, importer hedging erodes bounce",
+   "url": "https://www.brecorder.com/news/40444934/indian-rupee-ends-flat-as-stock-slump-importer-hedging-erodes-bounce",
    "source": "Business Recorder",
-   "published": "2026-10-19T04:50:16+00:00",
-   "summary": "Citi Pharma Limited (CPHL) has received regulatory approval for its proposed acquisition of Pakheim International Pharma (Private) Limited. The company disclosed the development in a filing to the Pakistan Stock Exchange on Monday. “CPHL hereby informs its shareholders and the general public that the company has receiv…",
-   "image": "https://i.brecorder.com/large/2023/11/08125240e7eaa14.png",
+   "published": "2026-10-19T10:44:31+00:00",
+   "summary": "MUMBAI: The Indian rupee closed nearly unchanged on Monday, erasing modest early gains after local stocks slumped and importers stepped in to buy dollars over a largely subdued trading session. The Indian rupee hovered between 94.76 and 94.96 through the day before closing the session at 94.9250, nearly flat compared w…",
+   "image": "https://i.brecorder.com/large/2026/10/161621434c3ffd2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s GDP grows 3.65% in FY2026, economy size reaches $450bn: NAC",
+   "url": "https://www.brecorder.com/news/40444924/pakistans-gdp-grows-365-in-fy2026-economy-size-reaches-450bn-nac",
+   "source": "Business Recorder",
+   "published": "2026-10-19T10:00:54+00:00",
+   "summary": "Pakistan has posted a gross domestic product (GDP) growth of 3.65% during FY2026, estimates released by the Pakistan Bureau of Statistics (PBS) on Monday showed. The growth is lower than the 3.70% estimated by the National Accounts Committee (NAC) during the previous meeting, indicating a slower pace of economic expans…",
+   "image": "https://i.brecorder.com/large/2025/10/0815150398bf78f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s big moment: 5 takeaways from IMF-World Bank meetings",
+   "url": "https://www.brecorder.com/news/40444922/pakistans-big-moment-5-takeaways-from-imf-world-bank-meetings",
+   "source": "Business Recorder",
+   "published": "2026-10-19T08:34:34+00:00",
+   "summary": "The 2026 Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group took place in Bangkok, Thailand, from October 12 to 18, 2026, bringing together global leaders, including finance ministers, central bank governors, policymakers, investors and experts from around the world. This year’s annual me…",
+   "image": "https://i.brecorder.com/large/2026/10/19125001e0841fb.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar gains on euro weakness, kiwi waits for inflation data",
+   "url": "https://www.brecorder.com/news/40444910/australian-dollar-gains-on-euro-weakness-kiwi-waits-for-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-10-19T07:17:48+00:00",
+   "summary": "SYDNEY: The Australian dollar gained on Monday , helped by flows out of the euro in the wake of rioting across France, while the kiwi awaited key inflation data that could make or break the case for a third rate hike this month. Economic data from China also surprised on the upside, with the economy growing 4.5% in the…",
+   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dubai Investments plans to float 20% stake in DIP Holding in UAE's first IPO of the year",
+   "url": "https://www.brecorder.com/news/40444907/dubai-investments-plans-to-float-20-stake-in-dip-holding-in-uaes-first-ipo-of-the-year",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:53:33+00:00",
+   "summary": "DUBAI: Dubai Investments plans to float a 20% stake in subsidiary DIP Holding, the owner of the Dubai Investments Park real estate business, in the first initial public offering in the United Arab Emirates this year and one of only a few in the Gulf amid the Iran war. The offer, consisting of 1.74 billion shares, will …",
+   "image": "https://i.brecorder.com/large/2026/10/19115316f815c45.gif",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "China's property investment falls 20.6% y/y in first 9 months",
+   "url": "https://www.brecorder.com/news/40444904/chinas-property-investment-falls-206-yy-in-first-9-months",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:33:08+00:00",
+   "summary": "BEIJING: Property investment in China fell 20.6% in the first nine months from the same period last year, widening from the 19.9% drop in January-August, official data showed on Monday. Property sales by floor area declined 13.2%, following a 12.1% fall in the first eight months. New construction starts measured by flo…",
+   "image": "https://i.brecorder.com/large/2023/11/15100309f551607.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar steady on Monday",
+   "url": "https://www.brecorder.com/news/40444902/thai-bahtus-dollar-steady-on-monday",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:26:11+00:00",
+   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Monday. At 0207 GMT, the baht was 0.03% lower at 33.45 versus the dollar, after trading in a range of 33.410 to 33.500. It ended the previous session at 33.44 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yuan hits 4-year high as strong GDP data tempers need for stimulus",
+   "url": "https://www.brecorder.com/news/40444901/yuan-hits-4-year-high-as-strong-gdp-data-tempers-need-for-stimulus",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:23:26+00:00",
+   "summary": "SHANGHAI: China’s yuan strengthened against the US dollar on Monday to its firmest in more than four years, buoyed by better-than-expected third-quarter economic growth that eased pressure on policymakers to roll out more aggressive stimulus. The economy expanded 4.5% year-on-year in the third quarter, topping forecast…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China stocks inch higher as strong GDP offsets weak AI mood",
+   "url": "https://www.brecorder.com/news/40444900/china-stocks-inch-higher-as-strong-gdp-offsets-weak-ai-mood",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:21:37+00:00",
+   "summary": "SHANGHAI: China stocks edged up on Monday , as an upbeat third-quarter GDP reading countered soft sentiment around AI supply chain names. China’s blue-chip CSI300 Index edged up 0.1% by the lunch break, while the Shanghai Composite Index gained 0.2%. The Hong Kong market is closed for a local holiday and will resume tr…",
+   "image": "https://i.brecorder.com/large/2026/08/21110145cfc2b46.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India bonds to decline on elevated oil, hawkish RBI",
+   "url": "https://www.brecorder.com/news/40444899/india-bonds-to-decline-on-elevated-oil-hawkish-rbi",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:19:13+00:00",
+   "summary": "MUMBAI: Indian government bonds are likely to weaken on Monday, as elevated oil prices stoke inflation worries, adding to pressures from a hawkish central bank and rate-hike expectations. The benchmark 6.94% 2036 bond yield may trade between 7.37% and 7.42%, according to a trader at a primary dealership, after closing …",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "BOJ chief says underlying inflation 'quite close' to price goal",
+   "url": "https://www.brecorder.com/news/40444898/boj-chief-says-underlying-inflation-quite-close-to-price-goal",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:16:05+00:00",
+   "summary": "TOKYO: Bank of Japan Governor Kazuo Ueda said on Monday underlying inflation is “quite close” to the central bank’s 2% target with strong global AI demand adding to inflationary pressure from a tight job market. The remarks came ahead of the central bank’s key policy meeting later this month, where it will release fres…",
+   "image": "https://i.brecorder.com/large/2026/09/19033157d6a16fe.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nikkei slides on US tech selloff, oil-driven rate fears By Rocky Swift",
+   "url": "https://www.brecorder.com/news/40444897/nikkei-slides-on-us-tech-selloff-oil-driven-rate-fears-by-rocky-swift",
+   "source": "Business Recorder",
+   "published": "2026-10-19T06:12:28+00:00",
+   "summary": "TOKYO: Japan’s Nikkei share average tumbled on Monday as a selloff in US technology stocks and rising oil prices fuelled concerns about inflation and higher interest rates. The benchmark Nikkei 225 fell 2.05% to 63,984.45 in early trading. The broader Topix slipped 1.22% to 4,016.34. The decline in Japanese equities fo…",
+   "image": "https://i.brecorder.com/large/2026/08/28115418d251c34.webp",
    "topics": [
     "Economy"
    ],
@@ -261,19 +377,6 @@
    "domestic": false
   },
   {
-   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
-   "url": "https://www.brecorder.com/news/40444883/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies",
-   "source": "Business Recorder",
-   "published": "2026-10-19T02:33:45+00:00",
-   "summary": "SINGAPORE: Oil ‌prices slipped on Monday after US President Donald Trump waived sanctions and tariffs on Russia that may lead to more Russian fuel exports. Brent crude futures fell $1.43, or 1.30%, to $108.43 ​a barrel by 2340 GMT after settling at its highest since May ​19 on Friday. US West Texas Intermediate crude w…",
-   "image": "https://i.brecorder.com/large/2026/10/190728204f6fcf8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Growers end losers in ‘flawed’ wheat market reform",
    "url": "https://www.dawn.com/news/2038230/growers-end-losers-in-flawed-wheat-market-reform",
    "source": "Dawn",
@@ -297,19 +400,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Talal vows support to PHMA for textile sector growth",
-   "url": "https://www.brecorder.com/news/40444853/talal-vows-support-to-phma-for-textile-sector-growth",
-   "source": "Business Recorder",
-   "published": "2026-10-18T21:10:09+00:00",
-   "summary": "FAISALABAD: Talal Chaudhry, Minister of State for Interior, presented a bouquet of flowers to Mian Farrukh Iqbal on his election as Chairman of the Pakistan Hosiery Manufacturers & Exporters Association (PHMA), North Zone and extended his warm congratulations on his election. On the occasion, Talal Chaudhry assured Mia…",
-   "image": "https://i.brecorder.com/large/2026/08/04024509e5a283c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -379,19 +469,6 @@
    "domestic": false
   },
   {
-   "title": "No gas queues, no shortage: FinMin",
-   "url": "https://tribune.com.pk/story/2635410/no-gas-queues-no-shortage-finmin",
-   "source": "The Express Tribune",
-   "published": "2026-10-17T16:07:40+00:00",
-   "summary": "Says Pakistan prepared for winter but attacks on Gulf infrastructure worrying",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX edges up amid oil price concerns",
    "url": "https://tribune.com.pk/story/2635305/psx-edges-up-amid-oil-price-concerns",
    "source": "The Express Tribune",
@@ -418,84 +495,6 @@
    "domestic": false
   },
   {
-   "title": "Aggressive RBI measures hand India bonds a ninth weekly loss",
-   "url": "https://www.brecorder.com/news/40444561/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss",
-   "source": "Business Recorder",
-   "published": "2026-10-16T13:45:50+00:00",
-   "summary": "MUMBAI: Indian government bonds nursed losses for a ninth straight week, battered by the Reserve Bank of India’s rupee defence, which has sharpened its tightening bias, clouded the policy outlook and sapped demand for debt. The benchmark 6.94% 2036 bond yield rose around8 basis points this week to 7.3789%, extending it…",
-   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UAE stocks track global shares higher",
-   "url": "https://www.brecorder.com/news/40444558/uae-stocks-track-global-shares-higher",
-   "source": "Business Recorder",
-   "published": "2026-10-16T13:36:22+00:00",
-   "summary": "Stock market in the United Arab Emirates closed higher on Friday, in line with global equities, with Dubai outperforming its regional peer as investors assessed geopolitical developments and focused on diplomatic solutions. European stocks — which had been hit less hard by Thursday’s selloff — were mostly higher on Fri…",
-   "image": "https://i.brecorder.com/large/2025/06/04203646a97e147.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper leads base metals higher ahead of LME Week",
-   "url": "https://www.brecorder.com/news/40444557/copper-leads-base-metals-higher-ahead-of-lme-week",
-   "source": "Business Recorder",
-   "published": "2026-10-16T13:31:35+00:00",
-   "summary": "LONDON: Copper prices led other base metals higher on Friday as a weaker dollar offered support, while equity markets stabilised after Thursday’s sharp selloff in technology stocks, improving risk appetite for growth-dependent metals. Benchmark three-month copper on the London Metal Exchange rose 0.9% to $14,480 a metr…",
-   "image": "https://i.brecorder.com/large/2026/10/141745441cfe758.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm oil posts over 3% weekly gains",
-   "url": "https://www.brecorder.com/news/40444555/palm-oil-posts-over-3-weekly-gains",
-   "source": "Business Recorder",
-   "published": "2026-10-16T12:28:20+00:00",
-   "summary": "JAKARTA: Malaysian palm oil futures climbed on Friday, supported by bargain buying and strong export demand as cargo surveyors reported higher shipments in the first half of October. The benchmark palm oil contract for January delivery on the Bursa Malaysia Derivatives Exchange gained 44 ringgit, or 0.93%, to 4,769 rin…",
-   "image": "https://i.brecorder.com/large/2026/10/15111938c7d44c8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bajaj Housing Finance posts quarterly profit rise on strong loan growth",
-   "url": "https://www.brecorder.com/news/40444550/bajaj-housing-finance-posts-quarterly-profit-rise-on-strong-loan-growth",
-   "source": "Business Recorder",
-   "published": "2026-10-16T11:55:54+00:00",
-   "summary": "India’s Bajaj Housing Finance reported a 17.7% rise in second-quarter profit on Friday, helped by strong loan growth. The country’s biggest non-bank home loan financier by market value posted a profit of 7.57 billion rupees ($79.72 million) for the three months ended September 30 from 6.43 billion in the year-ago quart…",
-   "image": "https://i.brecorder.com/large/2026/10/16165432217f1cc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee posts best week in seven months, fundamentals key for lasting turnaround",
-   "url": "https://www.brecorder.com/news/40444543/indian-rupee-posts-best-week-in-seven-months-fundamentals-key-for-lasting-turnaround",
-   "source": "Business Recorder",
-   "published": "2026-10-16T11:22:12+00:00",
-   "summary": "MUMBAI: The Indian rupee rose 2% this week to post its biggest weekly gain in seven months, buoyed by policy measures aimed at boosting the currency, though analysts reckon a sustained turnaround hinges on an easing of underlying strains. The Indian currency closed at 94.96 per dollar, up 0.1% on the day. It recovered …",
-   "image": "https://i.brecorder.com/large/2026/10/161621434c3ffd2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan to assume IMF, World Bank board chairmanship for first time in over 7 decades",
    "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-imf-world-bank-board-chairmanship-for-first-time-in-over-7-decades",
    "source": "Dawn",
@@ -506,58 +505,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF chief Georgieva sounds alarm about AI, cyber risks; urges cooperation",
-   "url": "https://www.brecorder.com/news/40444533/imf-chief-georgieva-sounds-alarm-about-ai-cyber-risks-urges-cooperation",
-   "source": "Business Recorder",
-   "published": "2026-10-16T07:08:28+00:00",
-   "summary": "BANGKOK: The head of the International Monetary Fund on Friday appealed to global financial leaders to cooperate in the face of multiple risks facing the global economy, including high debt levels, rapid advancements in AI and exponentially increasing cyberattacks. IMF’s Georgieva says US growth will not be enough to s…",
-   "image": "https://i.brecorder.com/large/2026/10/16120814cad7001.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan poised to strengthen for a third week in a row on strong exports",
-   "url": "https://www.brecorder.com/news/40444532/chinas-yuan-poised-to-strengthen-for-a-third-week-in-a-row-on-strong-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-16T07:04:28+00:00",
-   "summary": "SHANGHAI: China’s yuan held steady against the dollar on Friday and was poised to strengthen for a third week as robust exports buoy the Chinese currency despite wobbly growth in the domestic economy and rising yields globally. Signaling Beijing’s resistance to rapid yuan appreciation, China’s central bank governor sai…",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China sets 2027 import tariff-rate quotas for wheat, rice, corn and cotton",
-   "url": "https://www.brecorder.com/news/40444528/china-sets-2027-import-tariff-rate-quotas-for-wheat-rice-corn-and-cotton",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:47:46+00:00",
-   "summary": "BEIJING: China will maintain its 2027 wheat import tariff-rate quota at 9.64 million metric tons, unchanged from a year earlier, according to a notice issued by the state planner on Friday. Corn hits one-week high on US crop worries, soybeans firm Import tariff-rate quotas for rice, corn and cotton were also kept uncha…",
-   "image": "https://i.brecorder.com/large/2026/10/080101055fad767.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "London copper ticks up but heads for weekly loss",
-   "url": "https://www.brecorder.com/news/40444527/london-copper-ticks-up-but-heads-for-weekly-loss",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:45:36+00:00",
-   "summary": "London copper inched higher on Friday but headed for a weekly loss amid concerns over rising inflation and a selloff in AI-related stocks, while aluminium was on track for a fourth straight weekly decline. Benchmark three-month copper on the London Metal Exchange rose 0.3% to $14,383.50 a metric ton by 0150 GMT but was…",
-   "image": "https://i.brecorder.com/large/2026/08/28113644e03c893.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
