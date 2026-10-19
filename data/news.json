@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-19T00:48:20+00:00",
- "count": 54,
- "relevant_count": 19,
- "domestic_count": 19,
+ "generated": "2026-10-19T05:42:44+00:00",
+ "count": 53,
+ "relevant_count": 16,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (16)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (12)",
   "ARY News": "ok (5)"
  },
  "stories": [
@@ -33,32 +33,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt urged to improve cold storage infrastructure",
-   "url": "https://www.brecorder.com/news/40444876/govt-urged-to-improve-cold-storage-infrastructure",
-   "source": "Business Recorder",
-   "published": "2026-10-18T21:10:09+00:00",
-   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum (PBIF) and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board, Mian Zahid Hussain has urged the government to improve cold-storage infrastructure, accelerate clearance pr…",
-   "image": "https://i.brecorder.com/large/2024/01/65970fc8be2d5.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Tampered Cyprus study visa: FIA offloads passenger at Lahore airport",
-   "url": "https://www.brecorder.com/news/40444879/tampered-cyprus-study-visa-fia-offloads-passenger-at-lahore-airport",
-   "source": "Business Recorder",
-   "published": "2026-10-18T21:10:09+00:00",
-   "summary": "LAHORE: The Federal Investigation Agency (FIA) Immigration officials offloaded a passenger at Allama Iqbal International Airport Lahore for allegedly attempting to travel to Cyprus on a tampered study visa, here on Sunday. According to FIA spokesperson, the passenger, identified as Zain-ul-Abideen was scheduled to trav…",
-   "image": "https://i.brecorder.com/large/2022/05/62786d1f7e60f.jpg",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": true
@@ -222,43 +196,108 @@
    "domestic": true
   },
   {
-   "title": "FBR extends deadline for filing income tax returns to Oct 31",
-   "url": "https://www.dawn.com/news/2037394/fbr-extends-deadline-for-filing-income-tax-returns-to-oct-31",
-   "source": "Dawn",
-   "published": "2026-10-15T18:13:47+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has further extended the date for filing income tax returns for 2026 to Oct 31. The notification, posted on the FBR’s X account, said: “In exercise of the powers conferred under Section 214A of the Income Tax Ordinance, 2001, the Federal Board of Revenue is pleased to furth…",
-   "image": "https://i.dawn.com/large/2026/10/1522424145ed8b2.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Power Division projects Rs2.56 per unit increase in Nov bills, says bigger hike averted due to load management",
-   "url": "https://www.dawn.com/news/2037388/power-division-projects-rs256-per-unit-increase-in-nov-bills-says-bigger-hike-averted-due-to-load-management",
-   "source": "Dawn",
-   "published": "2026-10-15T16:36:49+00:00",
-   "summary": "ISLAMABAD: The Power Division on Thursday projected a Rs2.56 per unit increase in November bills for electricity consumers on account of fuel cost adjustment (FCA) for September, citing the use of expensive fuel for electricity generation. The increase is expected to bring in around Rs33bn for the Power Division, which…",
-   "image": "https://i.dawn.com/large/2026/07/14075542978dc65.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Govt keeps treasury bill returns higher over policy rate",
-   "url": "https://www.dawn.com/news/2037216/govt-keeps-treasury-bill-returns-higher-over-policy-rate",
-   "source": "Dawn",
-   "published": "2026-10-15T03:53:43+00:00",
-   "summary": "KARACHI: The government kept treasury bill rates almost unchanged in an auction held on Wednesday, but the returns on all tenors of T-bills remained higher than the State Bank’s policy rate of 11.5 per cent. This was the last auction of T-bills before announcement of the next monetary policy on Oct 26. The results show…",
-   "image": "https://i.dawn.com/large/2026/10/07083036c5d4edf.webp",
+   "title": "PSX: KSE-100 falls over 350 points in early trade",
+   "url": "https://www.brecorder.com/news/40444896/psx-kse-100-falls-over-350-points-in-early-trade",
+   "source": "Business Recorder",
+   "published": "2026-10-19T05:03:42+00:00",
+   "summary": "Selling sentiment was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding over 350 points during the opening minutes of trading on Monday. At 9:45am, the benchmark index was hovering at 166,059.72, down 359.99 points or 0.22%. Selling was observed in key sectors, including automobil…",
+   "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Citi Pharma receives CCP nod to acquire Pakheim International",
+   "url": "https://www.brecorder.com/news/40444895/citi-pharma-receives-ccp-nod-to-acquire-pakheim-international",
+   "source": "Business Recorder",
+   "published": "2026-10-19T04:50:16+00:00",
+   "summary": "Citi Pharma Limited (CPHL) has received regulatory approval for its proposed acquisition of Pakheim International Pharma (Private) Limited. The company disclosed the development in a filing to the Pakistan Stock Exchange on Monday. “CPHL hereby informs its shareholders and the general public that the company has receiv…",
+   "image": "https://i.brecorder.com/large/2023/11/08125240e7eaa14.png",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold edges higher on softer oil; Fed rate outlook in focus",
+   "url": "https://www.brecorder.com/news/40444893/gold-edges-higher-on-softer-oil-fed-rate-outlook-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-19T03:20:49+00:00",
+   "summary": "Gold prices edged higher on Monday as softer ‌ oil prices offered support , while investors assessed the chances of a Federal Reserve interest rate hike later this year and looked for fresh signals on the US central bank’s policy trajectory. Spot gold ​rose 0.3% to $4,175.60 per ounce by 0259 GMT, while US gold futures…",
+   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee likely pinned near 95 as RBI defence counters oil headwinds",
+   "url": "https://www.brecorder.com/news/40444887/indian-rupee-likely-pinned-near-95-as-rbi-defence-counters-oil-headwinds",
+   "source": "Business Recorder",
+   "published": "2026-10-19T02:51:53+00:00",
+   "summary": "MUMBAI: The Indian rupee is likely to be under pressure from high oil prices at Monday’s open , with the central bank’s dollar sales ​expected to support the currency and keep it near what traders ‌perceive to be the central bank’s soft defence line. The Indian rupee is expected to open in a 94.92 to 94.98 range, per t…",
+   "image": "https://i.brecorder.com/large/2026/10/1907493176890fe.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar firmer, euro weakens as French protests turn violent",
+   "url": "https://www.brecorder.com/news/40444885/dollar-firmer-euro-weakens-as-french-protests-turn-violent",
+   "source": "Business Recorder",
+   "published": "2026-10-19T02:43:20+00:00",
+   "summary": "SINGAPORE: The dollar edged up from near its lowest levels of the month at the start of trading in Asia on Monday as violent protests in France ​put pressure on the euro. The euro fell 0.1% at $1.1225 as trading began in Asia. ‌The biggest weighting in the dollar index , the common currency’s drop helped steady the gre…",
+   "image": "https://i.brecorder.com/large/2026/10/16063402c70ddf7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies",
+   "url": "https://www.brecorder.com/news/40444883/oil-slips-as-trumps-sanction-waiver-may-lead-to-more-russian-fuel-supplies",
+   "source": "Business Recorder",
+   "published": "2026-10-19T02:33:45+00:00",
+   "summary": "SINGAPORE: Oil ‌prices slipped on Monday after US President Donald Trump waived sanctions and tariffs on Russia that may lead to more Russian fuel exports. Brent crude futures fell $1.43, or 1.30%, to $108.43 ​a barrel by 2340 GMT after settling at its highest since May ​19 on Friday. US West Texas Intermediate crude w…",
+   "image": "https://i.brecorder.com/large/2026/10/190728204f6fcf8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Growers end losers in ‘flawed’ wheat market reform",
+   "url": "https://www.dawn.com/news/2038230/growers-end-losers-in-flawed-wheat-market-reform",
+   "source": "Dawn",
+   "published": "2026-10-19T01:50:06+00:00",
+   "summary": "The coming wheat season, the third since the government abandoned the official support price and suspended traditional large-scale public procurement in April 2025, could prove one of the most uncertain for farmers. The government had promised that a more resilient, market-based wheat-trading system would replace the p…",
+   "image": "https://i.dawn.com/large/2021/12/61a997d8f0cdb.jpg",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Tax Asaan Scheme – yet another fiasco",
+   "url": "https://www.dawn.com/news/2038232/tax-asaan-scheme-yet-another-fiasco",
+   "source": "Dawn",
+   "published": "2026-10-19T01:50:06+00:00",
+   "summary": "The poor response to the Fixed Tax Asaan Scheme, the voluntary trader registration, suggests that it is heading for a failure, reminding of the successive schemes that have met a similar fate over the decades while fresh initiatives continue to be introduced without any meaningful assessment of the causes of earlier fi…",
+   "image": "https://i.dawn.com/large/2026/10/19050951b043f5b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Talal vows support to PHMA for textile sector growth",
@@ -274,14 +313,53 @@
    "domestic": false
   },
   {
-   "title": "Saudi coalition, Houthis trade strikes as disruption spreads",
-   "url": "https://www.brecorder.com/news/40444870/saudi-coalition-houthis-trade-strikes-as-disruption-spreads",
-   "source": "Business Recorder",
-   "published": "2026-10-18T21:10:09+00:00",
-   "summary": "RIYADH: The Saudi-led coalition and Iran-backed Houthis traded strikes Sunday as fighting raged in the intensifying conflict that has disturbed life for residents of the kingdom’s capital Riyadh and war-wracked Yemen. Disruption in the world’s top crude oil exporter has continued to spread as the Houthis keep up their …",
-   "image": "https://i.brecorder.com/large/2026/10/14030326e5f3ed2.webp",
+   "title": "Was Pakistan ever an open economy?",
+   "url": "https://tribune.com.pk/story/2635592/was-pakistan-ever-an-open-economy",
+   "source": "The Express Tribune",
+   "published": "2026-10-18T16:18:49+00:00",
+   "summary": "Highest tariff among 70 major exporters; 40% of tariff lines above 15%",
+   "image": null,
    "topics": [
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Hidden cost of street politics",
+   "url": "https://tribune.com.pk/story/2635595/hidden-cost-of-street-politics",
+   "source": "The Express Tribune",
+   "published": "2026-10-18T16:18:49+00:00",
+   "summary": "When protest stretches over a week, cumulative shock shaves 0.2-0.5% off GDP",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Customs duty is not the barrier, GST is",
+   "url": "https://tribune.com.pk/story/2635593/customs-duty-is-not-the-barrier-gst-is",
+   "source": "The Express Tribune",
+   "published": "2026-10-18T16:18:49+00:00",
+   "summary": "Industry admits 18% GST, not tariffs, hands the informal sector its edge, as import-based revenue falls below 40%",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Solar is our saviour, capacity charge our drain",
+   "url": "https://tribune.com.pk/story/2635596/solar-is-our-saviour-capacity-charge-our-drain",
+   "source": "The Express Tribune",
+   "published": "2026-10-18T16:18:49+00:00",
+   "summary": "Around $40b paid in capacity charges since 2019; pro-seller PPAs need renegotiation",
+   "image": null,
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -309,33 +387,6 @@
    "image": null,
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SBP rebuilt reserves without new debt",
-   "url": "https://tribune.com.pk/story/2635411/sbp-rebuilt-reserves-without-new-debt",
-   "source": "The Express Tribune",
-   "published": "2026-10-17T16:07:40+00:00",
-   "summary": "Forward liabilities cut to under $1b from $5.7b; external debt barely rose in three years",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Attacks on Gulf energy infrastructure pose risks to Pakistan's economic outlook: FinMin Aurangzeb",
-   "url": "https://tribune.com.pk/story/2635357/attacks-on-gulf-energy-infrastructure-pose-risks-to-pakistans-economic-outlook-finmin-aurangzeb",
-   "source": "The Express Tribune",
-   "published": "2026-10-17T03:58:46+00:00",
-   "summary": "Says Pakistan has procured enough energy supplies to last through November, and now planning for winter months",
-   "image": null,
-   "topics": [
-    "Construction & projects",
-    "Procurement"
    ],
    "relevant": true,
    "domestic": false
@@ -445,19 +496,6 @@
    "domestic": false
   },
   {
-   "title": "Pakistan to chair World Bank, IMF Boards in 2027",
-   "url": "https://www.brecorder.com/news/40444517/pakistan-to-chair-world-bank-imf-boards-in-2027",
-   "source": "Business Recorder",
-   "published": "2026-10-16T09:56:24+00:00",
-   "summary": "In a key development, Pakistan has been nominated to chair the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) in 2027, the Ministry of Economic Affairs said on Friday, marking the country’s first such appointment since 1953. “Federal Minister for Economic Affairs and Governo…",
-   "image": "https://i.brecorder.com/large/2026/10/16111608867a39d.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Pakistan to assume IMF, World Bank board chairmanship for first time in over 7 decades",
    "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-imf-world-bank-board-chairmanship-for-first-time-in-over-7-decades",
    "source": "Dawn",
@@ -523,58 +561,6 @@
    "domestic": false
   },
   {
-   "title": "Gold gains on softer dollar, but heads for weekly fall",
-   "url": "https://www.brecorder.com/news/40444523/gold-gains-on-softer-dollar-but-heads-for-weekly-fall",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:31:11+00:00",
-   "summary": "Gold edged higher on Friday as the dollar weakened, but the metal was still on track for a small weekly loss as investors weighed signals from the Federal Reserve on interest rates. Spot gold rose 0.2% to $4,177.82 per ounce by 0433 GMT, but was down 0.5% so far in the week. US gold futures for December delivery climbe…",
-   "image": "https://i.brecorder.com/large/2026/10/16113041f929c22.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar hit by dovish rate shift, sinks to one-month low on kiwi",
-   "url": "https://www.brecorder.com/news/40444521/australian-dollar-hit-by-dovish-rate-shift-sinks-to-one-month-low-on-kiwi",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:23:56+00:00",
-   "summary": "SYDNEY: The Australian dollar was on track for steep weekly losses on Friday after soft jobs data prompted markets to scale back wagers on a fifth rate hike this year, sending the currency to a one-month low against the New Zealand dollar. The Aussie slipped 0.1% to $0.6917 after diving 0.7% overnight to a 15-week low …",
-   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Euro gets much-needed reprieve as AI wobbles rock the dollar",
-   "url": "https://www.brecorder.com/news/40444520/euro-gets-much-needed-reprieve-as-ai-wobbles-rock-the-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:21:24+00:00",
-   "summary": "SINGAPORE: The dollar headed for its first weekly fall in five weeks on Friday , lifting the euro from a 17-month low as wobbles in AI investment and drop in US yields put the brakes on recent gains. AI stocks have cratered this week and the stress spread to parts of the credit market as investors who have crowded in t…",
-   "image": "https://i.brecorder.com/large/2026/10/16112042189f1a3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares hit 5-week high as rate-hike bets ease",
-   "url": "https://www.brecorder.com/news/40444519/australian-shares-hit-5-week-high-as-rate-hike-bets-ease",
-   "source": "Business Recorder",
-   "published": "2026-10-16T06:18:15+00:00",
-   "summary": "Australian shares hit a 5-week high on Friday , led by miners as softer-than-expected labour market data curbed expectations of a near-term interest rate hike and fuelled broad-based buying. The S&P/ASX 200 index was up 1% at 8,809.80 points, as of 0025 GMT, after rising as much as 1.2% earlier in session, its highest …",
-   "image": "https://i.brecorder.com/large/2026/10/161118074448b01.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Textile exports rise as exporters warn they could slow down if no corrective measures taken",
    "url": "https://www.dawn.com/news/2037513/textile-exports-rise-as-exporters-warn-they-could-slow-down-if-no-corrective-measures-taken",
    "source": "Dawn",
@@ -602,11 +588,11 @@
   },
   {
    "title": "India expected to overtake Japan as world's 4th largest economy in 2027: IMF",
-   "url": "https://www.dawn.com/news/2037355/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
-   "source": "Dawn",
-   "published": "2026-10-15T14:09:20+00:00",
-   "summary": "India is expected to become the world’s fourth-largest economy by 2027, overtaking Japan, according to International Monetary Fund (IMF) projections that on Thursday laid out the Asian nations’ contrasting trajectories. The IMF said Japan would remain the fourth-largest country by nominal gross domestic product this ye…",
-   "image": "https://i.dawn.com/large/2026/10/15160415981f764.webp",
+   "url": "https://tribune.com.pk/story/2635056/india-expected-to-overtake-japan-as-worlds-4th-largest-economy-in-2027-imf",
+   "source": "The Express Tribune",
+   "published": "2026-10-15T11:46:42+00:00",
+   "summary": "Japan to remain the fourth-largest country by nominal gross domestic product this year",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
