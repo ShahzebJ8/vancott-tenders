@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-19T12:00:04+00:00",
- "count": 49,
- "relevant_count": 17,
+ "generated": "2026-10-19T18:19:20+00:00",
+ "count": 51,
+ "relevant_count": 16,
  "domestic_count": 10,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (11)",
-  "ARY News": "ok (5)"
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (12)",
+  "ARY News": "ok (7)"
  },
  "stories": [
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40444933/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-19T11:14:55+00:00",
+   "published": "2026-10-19T17:20:15+00:00",
    "summary": "The Pakistani rupee continued its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 276.90, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.03% in the interbank…",
    "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
    "topics": [
@@ -143,6 +143,58 @@
    "domestic": true
   },
   {
+   "title": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
+   "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets",
+   "source": "Business Recorder",
+   "published": "2026-10-19T17:02:28+00:00",
+   "summary": "Yemen’s Houthis said on Monday they carried out several attacks against Saudi energy, airport and military targets, including an Aramco site in Yanbu, the Shaybah oilfield, King Khalid International Airport in Riyadh and Abha airport. There was no immediate Saudi confirmation and Reuters could not immediately verify th…",
+   "image": "https://i.brecorder.com/large/2024/01/25192520a7f192b.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Experts urge govt to explore metallurgical coal potential",
+   "url": "https://www.brecorder.com/news/40444958/experts-urge-govt-to-explore-metallurgical-coal-potential",
+   "source": "Business Recorder",
+   "published": "2026-10-19T16:49:33+00:00",
+   "summary": "Experts have urged the government to develop a strategy to tap into the growing global demand for metallurgical coal, a key raw material used in steelmaking. They believe generating suitable indigenous metallurgical coal resources may play an important role in scaling down dependence on imported raw materials, saving f…",
+   "image": "https://i.brecorder.com/large/2022/06/62995156748ea.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: selling pressure at bourse, KSE-100 settles over 450 points lower",
+   "url": "https://www.brecorder.com/news/40444896/psx-selling-pressure-at-bourse-kse-100-settles-over-450-points-lower",
+   "source": "Business Recorder",
+   "published": "2026-10-19T14:08:28+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed selling pressure on Monday, with the benchmark KSE-100 Index closing in negative territory with a loss of over 450 points. The benchmark index opened on a negative note and declined towards the session low of 165,918.34 before recovering sharply, climbing above 166,400 points…",
+   "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf bourses subdued as regional worries weigh",
+   "url": "https://www.brecorder.com/news/40444947/gulf-bourses-subdued-as-regional-worries-weigh",
+   "source": "Business Recorder",
+   "published": "2026-10-19T13:27:21+00:00",
+   "summary": "Major stock markets closed lower on Monday as tensions in the Middle East kept investors on edge, with a tanker blast in the Strait of Hormuz and uncertainty over the waterway’s reopening adding to the caution. An oil tanker caught fire and exploded after striking a naval mine in the southern part of the strait, Iran’s…",
+   "image": "https://i.brecorder.com/large/2026/03/13122415aaf8783.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "DG Khan airport to become international by Jan 2028, says Leghari",
    "url": "https://www.brecorder.com/news/40444936/dg-khan-airport-to-become-international-by-jan-2028-says-leghari",
    "source": "Business Recorder",
@@ -169,19 +221,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: selling pressure at bourse, KSE-100 settles over 450 points lower",
-   "url": "https://www.brecorder.com/news/40444896/psx-selling-pressure-at-bourse-kse-100-settles-over-450-points-lower",
-   "source": "Business Recorder",
-   "published": "2026-10-19T11:13:02+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed selling pressure on Monday, with the benchmark KSE-100 Index closing in negative territory with a loss of over 450 points. The benchmark index opened on a negative note and declined towards the session low of 165,918.34 before recovering sharply, climbing above 166,400 points…",
-   "image": "https://i.brecorder.com/large/2026/09/2210254945dbc5e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian rupee ends flat as stock slump, importer hedging erodes bounce",
    "url": "https://www.brecorder.com/news/40444934/indian-rupee-ends-flat-as-stock-slump-importer-hedging-erodes-bounce",
    "source": "Business Recorder",
@@ -205,19 +244,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s big moment: 5 takeaways from IMF-World Bank meetings",
-   "url": "https://www.brecorder.com/news/40444922/pakistans-big-moment-5-takeaways-from-imf-world-bank-meetings",
-   "source": "Business Recorder",
-   "published": "2026-10-19T08:34:34+00:00",
-   "summary": "The 2026 Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group took place in Bangkok, Thailand, from October 12 to 18, 2026, bringing together global leaders, including finance ministers, central bank governors, policymakers, investors and experts from around the world. This year’s annual me…",
-   "image": "https://i.brecorder.com/large/2026/10/19125001e0841fb.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -351,25 +377,12 @@
    "domestic": false
   },
   {
-   "title": "Indian rupee likely pinned near 95 as RBI defence counters oil headwinds",
-   "url": "https://www.brecorder.com/news/40444887/indian-rupee-likely-pinned-near-95-as-rbi-defence-counters-oil-headwinds",
-   "source": "Business Recorder",
-   "published": "2026-10-19T02:51:53+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to be under pressure from high oil prices at Monday’s open , with the central bank’s dollar sales ​expected to support the currency and keep it near what traders ‌perceive to be the central bank’s soft defence line. The Indian rupee is expected to open in a 94.92 to 94.98 range, per t…",
-   "image": "https://i.brecorder.com/large/2026/10/1907493176890fe.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar firmer, euro weakens as French protests turn violent",
-   "url": "https://www.brecorder.com/news/40444885/dollar-firmer-euro-weakens-as-french-protests-turn-violent",
-   "source": "Business Recorder",
-   "published": "2026-10-19T02:43:20+00:00",
-   "summary": "SINGAPORE: The dollar edged up from near its lowest levels of the month at the start of trading in Asia on Monday as violent protests in France ​put pressure on the euro. The euro fell 0.1% at $1.1225 as trading began in Asia. ‌The biggest weighting in the dollar index , the common currency’s drop helped steady the gre…",
-   "image": "https://i.brecorder.com/large/2026/10/16063402c70ddf7.webp",
+   "title": "PSX slips 454 points as investors struggle to find direction",
+   "url": "https://tribune.com.pk/story/2635686/psx-struggles-to-gain-ground-amid-weak-sentiment",
+   "source": "The Express Tribune",
+   "published": "2026-10-19T02:58:49+00:00",
+   "summary": "KSE-100 Index settles at 165,966 amid lack of positive cues, subdued sentiment",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -450,20 +463,6 @@
    "image": null,
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China proposes export controls on solar-manufacturing technologies",
-   "url": "https://www.brecorder.com/news/40444795/china-proposes-export-controls-on-solar-manufacturing-technologies",
-   "source": "Business Recorder",
-   "published": "2026-10-18T08:13:36+00:00",
-   "summary": "BEIJING: China has proposed export controls on 12 technologies used to make solar equipment, citing national security concerns, as part ​of a broader revision that also covers AI and biotechnology. The ministry ‌of commerce proposed adding the photovoltaic technologies to China’s export-control list, it said in a state…",
-   "image": "https://i.brecorder.com/large/2026/10/181307101adc90c.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -586,6 +585,58 @@
    "domestic": false
   },
   {
+   "title": "Pakistan’s power sector circular debt rises to Rs.1.675 billion",
+   "url": "https://arynews.tv/pakistans-power-sector-circular-debt-rises-to-rs-1-675-billion",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s power sector circular debt rises to Rs.1.675 billion",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Power-sector-1.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "DG Khan airport to become international facility by January 2028",
+   "url": "https://arynews.tv/dg-khan-airport-to-become-international-facility-by-january-2028",
+   "source": "ARY News",
+   "published": null,
+   "summary": "DG Khan airport to become international facility by January 2028",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/DG-Khan-Airport.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close lower as KSE-100 index dips over 453 points",
+   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-453-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close lower as KSE-100 index dips over 453 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dar directs measures to facilitate exports of surplus commodities",
+   "url": "https://arynews.tv/dar-directs-measures-to-facilitate-exports-of-surplus-commodities",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Dar directs measures to facilitate exports of surplus commodities",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/ishaq-dar-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Cement and steel rates stabilize in Pakistan amid rising inflation",
    "url": "https://arynews.tv/cement-and-steel-rates-stabilize-in-pakistan-amid-rising-inflation",
    "source": "ARY News",
@@ -622,32 +673,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR reforms should focus on institutional strengthening, says officers’ association",
-   "url": "https://arynews.tv/fbr-reforms-should-focus-on-institutional-strengthening-says-officers-association",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR reforms should focus on institutional strengthening, says officers’ association",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR-1.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
-   "url": "https://arynews.tv/pakistan-to-chair-imf-world-bank-boards-of-governors-after-74-years",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan to chair IMF, World Bank Boards of Governors after 74 years",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/imf-world-bank.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
