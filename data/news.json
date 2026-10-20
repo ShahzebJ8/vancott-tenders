@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-19T22:37:08+00:00",
- "count": 50,
- "relevant_count": 17,
- "domestic_count": 11,
+ "generated": "2026-10-20T01:33:48+00:00",
+ "count": 52,
+ "relevant_count": 18,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (16)",
@@ -11,14 +11,68 @@
  },
  "stories": [
   {
-   "title": "Third-degree emergency declared as fire engulfs Metroville warehouse in Karachi",
-   "url": "https://www.brecorder.com/news/40444966/third-degree-emergency-declared-as-fire-engulfs-metroville-warehouse-in-karachi",
+   "title": "FBR chief urges exporters to promote local products",
+   "url": "https://www.brecorder.com/news/40445002/fbr-chief-urges-exporters-to-promote-local-products",
    "source": "Business Recorder",
-   "published": "2026-10-19T18:36:57+00:00",
-   "summary": "Firefighters brought a fire under control at a shop beneath a residential building in North Nazimabad on Monday, while a separate blaze at a warehouse near Metroville in the SITE area continued to be battled, Rescue 1122 (Sindh) said. The fire at the shop broke out near Farooq-e-Azam Mosque, prompting the deployment of…",
-   "image": "https://i.brecorder.com/large/2026/10/192336463d6b665.webp",
+   "published": "2026-10-20T00:10:15+00:00",
+   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial has urged exporters to expand the presence of Pakistani products in international markets and make effective use of available resources to increase national exports. He said the FBR would soon hold meetings with major exporters to review their con…",
+   "image": "https://i.brecorder.com/large/2025/01/261653470239008.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Gohar appointed ABAD (North Region) chairman",
+   "url": "https://www.brecorder.com/news/40445012/gohar-appointed-abad-north-region-chairman",
+   "source": "Business Recorder",
+   "published": "2026-10-20T00:10:15+00:00",
+   "summary": "ISLAMABAD: The Association of Builders and Developers of Pakistan (ABAD) has appointed Sultan Gohar, chief executive officer of Lake City Holdings, as chairman of its North Region for a two-year term, expressing hope that his experience and leadership will contribute to the growth of the construction and real estate se…",
+   "image": "https://i.brecorder.com/large/2026/09/290126113e9bb5e.webp",
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "CPPs’ matters: Work to launch investigations is complete: NAB",
+   "url": "https://www.brecorder.com/news/40445036/cpps-matters-work-to-launch-investigations-is-complete-nab",
+   "source": "Business Recorder",
+   "published": "2026-10-20T00:10:15+00:00",
+   "summary": "ISLAMABAD: National Accountability Bureau (NAB) Chairman Lieutenant General Nazir Ahmed Butt (Retd) said on Monday that the bureau had completed preparatory work to launch investigations into matters relating to captive power plants (CPPs), with the results expected to emerge early next year. “The NAB has taken notice …",
+   "image": "https://i.brecorder.com/large/2024/10/671b08977a14c.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Countrywide pen-down strike call: FBR suspends two senior IR officials",
+   "url": "https://www.brecorder.com/news/40445037/countrywide-pen-down-strike-call-fbr-suspends-two-senior-ir-officials",
+   "source": "Business Recorder",
+   "published": "2026-10-20T00:10:15+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has suspended two senior Inland Revenue officials over a countrywide pen-down strike call against the proposed restructuring of the tax machinery. In this regard, the FBR has issued two notifications on Monday. The suspended officials are Commissioner RTO Zone-I Hyderabad N…",
+   "image": "https://i.brecorder.com/large/2026/02/070111373918036.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Suspension, blacklisting of exporters undermining towel exports, says TMA",
+   "url": "https://www.brecorder.com/news/40445040/suspension-blacklisting-of-exporters-undermining-towel-exports-says-tma",
+   "source": "Business Recorder",
+   "published": "2026-10-20T00:10:15+00:00",
+   "summary": "KARACHI: The Towel Manufacturers Association of Pakistan (TMA) has expressed serious concern over the Federal Board of Revenue’s (FBR) issuance of notices and initiation of proceedings for the suspension and blacklisting of exporters under Section 21(2) of the Sales Tax Act, 1990. The Association has warned that such a…",
+   "image": "https://i.brecorder.com/large/2026/01/130159314cda11e.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": true
@@ -156,27 +210,15 @@
    "domestic": true
   },
   {
-   "title": "'Call to halt official work': FBR suspends two IRS officers, repatriates two others",
-   "url": "https://www.brecorder.com/news/40444967/call-to-halt-official-work-fbr-suspends-two-irs-officers-repatriates-two-others",
+   "title": "An unprotected digital frontier",
+   "url": "https://www.brecorder.com/news/40445015/an-unprotected-digital-frontier",
    "source": "Business Recorder",
-   "published": "2026-10-19T18:28:09+00:00",
-   "summary": "The Federal Board of Revenue (FBR) suspended on Monday two Inland Revenue Service (IRS) officers and repatriated two others to its headquarters for further investigation over an unauthorised press statement and “a call to halt official work”. According to an FBR statement, the suspended officers are in BS-20 and BS-19,…",
-   "image": "https://i.brecorder.com/large/2026/09/1005022387d697b.webp",
+   "published": "2026-10-20T00:41:00+00:00",
+   "summary": "EDITORIAL: A new report by the IMF and the World Bank has put a startling figure on the price Pakistan is paying for its digital vulnerabilities, with losses from cyber-enabled financial fraud amounting to an estimated 2.5 percent of GDP, the highest proportion in Asia. It is a damning indictment of a country hurtling …",
+   "image": "https://i.brecorder.com/large/2026/10/20054313e7d4899.webp",
    "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Yemen's Houthis claim attacks on Saudi Aramco site, airports and military targets",
-   "url": "https://www.brecorder.com/news/40444962/yemens-houthis-claim-attacks-on-saudi-aramco-site-airports-and-military-targets",
-   "source": "Business Recorder",
-   "published": "2026-10-19T17:02:28+00:00",
-   "summary": "Yemen’s Houthis said on Monday they carried out several attacks against Saudi energy, airport and military targets, including an Aramco site in Yanbu, the Shaybah oilfield, King Khalid International Airport in Riyadh and Abha airport. There was no immediate Saudi confirmation and Reuters could not immediately verify th…",
-   "image": "https://i.brecorder.com/large/2024/01/25192520a7f192b.gif",
-   "topics": [
-    "Construction & projects"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
@@ -218,19 +260,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Marseille official club store looted amid unrest in France",
-   "url": "https://www.brecorder.com/news/40444939/marseille-official-club-store-looted-amid-unrest-in-france",
-   "source": "Business Recorder",
-   "published": "2026-10-19T11:21:26+00:00",
-   "summary": "Olympique de Marseille said their official store on La Canebiere, the city’s historic main avenue, was looted during weekend unrest in France, with the Ligue 1 club on Monday condemning the incident. France had some of its worst unrest in years over the weekend, with thousands of people arrested and shops looted or dam…",
-   "image": "https://i.brecorder.com/large/2026/10/19161915be62c5c.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
