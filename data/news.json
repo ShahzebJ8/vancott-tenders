@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-20T20:08:26+00:00",
- "count": 49,
- "relevant_count": 21,
- "domestic_count": 13,
+ "generated": "2026-10-20T23:21:28+00:00",
+ "count": 54,
+ "relevant_count": 23,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (18)",
@@ -10,6 +10,99 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "APCDIA calls for competitive automotive market",
+   "url": "https://www.brecorder.com/news/40445230/apcdia-calls-for-competitive-automotive-market",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:59+00:00",
+   "summary": "KARACHI: Chairman All Pakistan Car Dealers & Importers Association (APCDIA) Mian Shoaib Ahmed has called for an end to “discriminatory” policies “favouring a handful of automobile assemblers”, stressing that allowing fair competition through regulated commercial imports of used vehicles would benefit consumers, create …",
+   "image": "https://i.brecorder.com/large/2026/02/102007314b5cbd5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Home-based workers earn as little as Rs50 an hour",
+   "url": "https://www.brecorder.com/news/40445231/home-based-workers-earn-as-little-as-rs50-an-hour",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:59+00:00",
+   "summary": "LAHORE: Home-based workers in Pakistan continue to face severe economic exploitation, with some earning as little as Rs50 an hour despite years of inflation and rising electricity bills, speakers said at an event marking International Home-Based Workers Day. Trade union representatives and grassroots workers highlighte…",
+   "image": "https://i.brecorder.com/large/2026/09/02004603393afa6.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Mayor says new phase of uplift begins in Korangi industrial area",
+   "url": "https://www.brecorder.com/news/40445233/mayor-says-new-phase-of-uplift-begins-in-korangi-industrial-area",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:59+00:00",
+   "summary": "KARACHI: A new phase of development has begun in Korangi Industrial Area, one of Karachi’s major centres of economic and industrial activity. Karachi Mayor Barrister Murtaza Wahab visited the area and performed the groundbreaking of several infrastructure rehabilitation projects, including the construction of a road in…",
+   "image": "https://i.brecorder.com/large/2023/06/6490b7aebcbe6.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "NKATI seeks lower interest rate",
+   "url": "https://www.brecorder.com/news/40445234/nkati-seeks-lower-interest-rate",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:59+00:00",
+   "summary": "KARACHI: President of the North Karachi Association of Trade and Industry (NKATI), Faisal Moez Khan, has urged the government and the State Bank of Pakistan (SBP) not to increase interest rate in the upcoming monetary policy, keeping in view the potential economic repercussions of rising tensions in the Gulf region. He…",
+   "image": "https://i.brecorder.com/large/2022/12/63ac6ad18e54e.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh cabinet takes some key decisions",
+   "url": "https://www.brecorder.com/news/40445182/sindh-cabinet-takes-some-key-decisions",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:58+00:00",
+   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah on Tuesday presided over a provincial Cabinet meeting focused on public healthcare, institutional reforms, revenue mobilization, and post-flood housing reconstruction. The major proposals included a World Bank-supported programme to increase property-tax collection in K…",
+   "image": "https://i.brecorder.com/large/2025/02/04041628af81e3e.jpg",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Green transition toolkit launched for textile sector",
+   "url": "https://www.brecorder.com/news/40445184/green-transition-toolkit-launched-for-textile-sector",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:58+00:00",
+   "summary": "KARACHI: WWF-Pakistan and the State Bank of Pakistan (SBP) have launched the SME Green Transition Toolkit for the Textile Sector, designed to help financial institutions support textile businesses in adopting cleaner, more resource-efficient operations. Developed jointly by SBP’s SME, Housing & Sustainable Finance Depa…",
+   "image": "https://i.brecorder.com/large/2022/10/635d872bb0cf3.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "BRT projects: Sharjeel asks officials to accelerate work",
+   "url": "https://www.brecorder.com/news/40445185/brt-projects-sharjeel-asks-officials-to-accelerate-work",
+   "source": "Business Recorder",
+   "published": "2026-10-20T21:29:58+00:00",
+   "summary": "KARACHI: The Sindh government has directed officials to accelerate construction of the Yellow and Red Bus Rapid Transit (BRT) lines and finalise new routes for double-decker and electric buses expected to arrive next month, as part of efforts to improve Karachi’s public transport network. The directives were issued by …",
+   "image": "https://i.brecorder.com/large/2026/04/04022928f70815e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40445118/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -225,19 +318,6 @@
    "domestic": false
   },
   {
-   "title": "Britain says it will carry out defensive air missions over Saudi Arabia",
-   "url": "https://www.brecorder.com/news/40445122/britain-says-it-will-carry-out-defensive-air-missions-over-saudi-arabia",
-   "source": "Business Recorder",
-   "published": "2026-10-20T13:01:59+00:00",
-   "summary": "LONDON: Britain will fly Royal Air Force Typhoon fighter jets on defensive missions to help protect Saudi cities and critical national infrastructure from Houthi aerial attacks, the Ministry of Defence said on Tuesday. The ministry said the aircraft would operate only in a defensive role and would not conduct offensive…",
-   "image": "https://i.brecorder.com/large/2026/10/201604076b2491a.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "IMF calls for Pakistan to rationalise tax concessions, bring under-taxed sectors into net",
    "url": "https://www.brecorder.com/news/40445082/imf-calls-for-pakistan-to-rationalise-tax-concessions-bring-under-taxed-sectors-into-net",
    "source": "Business Recorder",
@@ -271,19 +351,6 @@
    "published": "2026-10-20T10:45:13+00:00",
    "summary": "LONDON: Copper prices were little changed on Tuesday, trading in a tight range for a third straight session, as uncertainty over potential US import tariffs and concerns about inflation driven by higher oil prices kept risk sentiment subdued. Benchmark three-month copper on the London Metal Exchange was up 0.1% at $14,…",
    "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Kremlin hopes Witkoff can brief Putin soon on latest Ukrainian/European thinking on peace deal",
-   "url": "https://www.brecorder.com/news/40445116/kremlin-hopes-witkoff-can-brief-putin-soon-on-latest-ukrainianeuropean-thinking-on-peace-deal",
-   "source": "Business Recorder",
-   "published": "2026-10-20T10:40:56+00:00",
-   "summary": "MOSCOW: The Kremlin said on Tuesday that it hoped a meeting in Russia between President Vladimir Putin and US special envoy Steve Witkoff could be organised in the near future to discuss the Ukraine peace process and a range of “very important issues.” Witkoff is expected to hold talks in Oslo on Tuesday with Ukrainian…",
-   "image": "https://i.brecorder.com/large/2024/07/081442349e3e85d.gif",
    "topics": [
     "Economy"
    ],
