@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-20T12:01:08+00:00",
- "count": 52,
- "relevant_count": 20,
- "domestic_count": 14,
+ "generated": "2026-10-20T16:26:38+00:00",
+ "count": 51,
+ "relevant_count": 21,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (18)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (9)",
   "ARY News": "ok (7)"
  },
@@ -14,26 +14,13 @@
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40445118/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-20T11:19:03+00:00",
+   "published": "2026-10-20T13:59:57+00:00",
    "summary": "The Pakistani rupee continued its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 276.87, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 276.90 against the dollar. Internationally, the US dollar churned at …",
    "image": "https://i.brecorder.com/large/2026/01/090747276fad0eb.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Muhammad Yousif Kabooro assigned additional charge of Director General Public Relations",
-   "url": "https://www.brecorder.com/news/40445104/muhammad-yousif-kabooro-assigned-additional-charge-of-director-general-public-relations",
-   "source": "Business Recorder",
-   "published": "2026-10-20T07:49:16+00:00",
-   "summary": "The Government of Sindh has assigned the additional charge of Director General Public Relations (DGPR), Information Department, Sindh (BS-20), to Muhammad Yousif Kabooro, who is serving as Director Advertisement (BS-19) in the Directorate of Advertisement, Information Department. According to a notification issued by t…",
-   "image": "https://i.brecorder.com/large/2026/10/20124007a56bc42.webp",
-   "topics": [
-    "Advertising & media"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -198,12 +185,12 @@
    "domestic": true
   },
   {
-   "title": "UK to deploy RAF Typhoon jets to defend Saudi cities from Houthi attacks",
-   "url": "https://www.brecorder.com/news/40445122/uk-to-deploy-raf-typhoon-jets-to-defend-saudi-cities-from-houthi-attacks",
+   "title": "Brent slips in choppy session as investors weigh attacks on ships, Saudi energy",
+   "url": "https://www.brecorder.com/news/40445067/brent-slips-in-choppy-session-as-investors-weigh-attacks-on-ships-saudi-energy",
    "source": "Business Recorder",
-   "published": "2026-10-20T11:05:31+00:00",
-   "summary": "LONDON: Britain will deploy Royal Air Force Typhoon fighter jets on defensive counter-air missions to help protect Saudi cities and critical infrastructure from Houthi aerial attacks, the Ministry of Defence said on Tuesday.",
-   "image": "https://i.brecorder.com/large/2026/10/201604076b2491a.webp",
+   "published": "2026-10-20T15:57:57+00:00",
+   "summary": "HOUSTON: Oil prices slipped from a five-month high during a choppy session on Tuesday as traders priced in Houthi attacks on Saudi infrastructure and reports of vessel attacks in the Gulf. Yemen’s Houthis said on Monday they launched several attacks on Saudi energy, airport and military targets, such as an Aramco site …",
+   "image": "https://i.brecorder.com/large/2026/10/200718392c12d9f.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -214,13 +201,53 @@
    "title": "PSX: selling continues, KSE-100 settles over 800 points lower",
    "url": "https://www.brecorder.com/news/40445084/psx-selling-continues-kse-100-settles-over-800-points-lower",
    "source": "Business Recorder",
-   "published": "2026-10-20T11:05:25+00:00",
-   "summary": "Selling continued at the Pakistan Stock Exchange (PSX) on Tuesday, with the benchmark KSE-100 Index settling with a loss of over 800 points. The benchmark index opened higher, briefly rising towards the session’s intraday high of 166,425.56.56 points before coming under selling pressure. It subsequently moved lower, wi…",
+   "published": "2026-10-20T13:53:02+00:00",
+   "summary": "Selling continued at the Pakistan Stock Exchange (PSX) on Tuesday, with the benchmark KSE-100 Index closing with a loss of over 800 points. The benchmark index opened higher, briefly rising towards the session’s intra-day high of 166,425.56.56 points before coming under selling pressure. It subsequently moved lower, wi…",
    "image": "https://i.brecorder.com/large/2026/10/20045730f55ca4b.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Most Gulf bourses in red after Houthis claim attacks on Saudi energy, airport sites",
+   "url": "https://www.brecorder.com/news/40445127/most-gulf-bourses-in-red-after-houthis-claim-attacks-on-saudi-energy-airport-sites",
+   "source": "Business Recorder",
+   "published": "2026-10-20T13:47:25+00:00",
+   "summary": "Most Gulf stock markets closed lower on Tuesday after Yemen’s Houthis claimed attacks on Saudi energy, airport and military targets on Monday, while Egypt’s index bucked the trend after parliament delayed a vote on authorising military support for Riyadh. The group said it hit an Aramco site in Yanbu, the Shaybah oilfi…",
+   "image": "https://i.brecorder.com/large/2026/10/201845098a1267c.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Britain says it will carry out defensive air missions over Saudi Arabia",
+   "url": "https://www.brecorder.com/news/40445122/britain-says-it-will-carry-out-defensive-air-missions-over-saudi-arabia",
+   "source": "Business Recorder",
+   "published": "2026-10-20T13:01:59+00:00",
+   "summary": "LONDON: Britain will fly Royal Air Force Typhoon fighter jets on defensive missions to help protect Saudi cities and critical national infrastructure from Houthi aerial attacks, the Ministry of Defence said on Tuesday. The ministry said the aircraft would operate only in a defensive role and would not conduct offensive…",
+   "image": "https://i.brecorder.com/large/2026/10/201604076b2491a.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMF calls for Pakistan to rationalise tax concessions, bring under-taxed sectors into net",
+   "url": "https://www.brecorder.com/news/40445082/imf-calls-for-pakistan-to-rationalise-tax-concessions-bring-under-taxed-sectors-into-net",
+   "source": "Business Recorder",
+   "published": "2026-10-20T12:45:13+00:00",
+   "summary": "The International Monetary Fund (IMF) has called on Pakistan to rationalise tax concessions and bring under-taxed sectors into the tax net, saying a fairer and more neutral tax system is critical to improving revenue collection, encouraging compliance and supporting private-sector growth. “Addressing under-taxed sector…",
+   "image": "https://i.ytimg.com/vi/KFpSW6ajQXU/maxresdefault.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -273,19 +300,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Marco Rubio kicks off India visit with trade deal, Russian oil on agenda",
-   "url": "https://www.brecorder.com/news/40445093/marco-rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda",
-   "source": "Business Recorder",
-   "published": "2026-10-20T06:42:57+00:00",
-   "summary": "US Secretary of State Marco Rubio will travel to India on Tuesday, days after President Donald Trump delayed tariffs on US imports from the world’s largest democracy as the two countries seek to finalize a trade deal. During the two-day visit to Mumbai and Jamnagar in western India, Rubio is slated to meet government a…",
-   "image": "https://i.brecorder.com/large/2026/10/201142320cd2449.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -351,32 +365,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF calls for Pakistan to rationalise tax concessions, bring under-taxed sectors into net",
-   "url": "https://www.brecorder.com/news/40445082/imf-calls-for-pakistan-to-rationalise-tax-concessions-bring-under-taxed-sectors-into-net",
-   "source": "Business Recorder",
-   "published": "2026-10-20T06:20:08+00:00",
-   "summary": "The International Monetary Fund (IMF) has called on Pakistan to rationalise tax concessions and bring under-taxed sectors into the tax net, saying a fairer and more neutral tax system is critical to improving revenue collection, encouraging compliance and supporting private-sector growth. “Addressing under-taxed sector…",
-   "image": "https://i.ytimg.com/vi/KFpSW6ajQXU/maxresdefault.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Brent crude holds near five-month high on Middle East tension",
-   "url": "https://www.brecorder.com/news/40445067/brent-crude-holds-near-five-month-high-on-middle-east-tension",
-   "source": "Business Recorder",
-   "published": "2026-10-20T06:08:45+00:00",
-   "summary": "Oil prices advanced on Tuesday , with Brent hovering around a five-month high as traders priced in a geopolitical risk premium from Houthi attacks on Saudi infrastructure and reports of vessel attacks in the Gulf. Brent crude futures climbed 55 cents, or 0.50%, to $110.10 a barrel by 0319 GMT, after rising as high as $…",
-   "image": "https://i.brecorder.com/large/2026/10/200718392c12d9f.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -601,6 +589,19 @@
    "domestic": false
   },
   {
+   "title": "Pakistan approves new auto policy, rejects IMF proposal to raise EV sales tax",
+   "url": "https://arynews.tv/pakistan-approves-new-auto-policy-rejects-imf-proposal-to-raise-ev-sales-tax",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan approves new auto policy, rejects IMF proposal to raise EV sales tax",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Vehicles.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Gold prices fall in Pakistan as rising oil prices fuel inflation concerns",
    "url": "https://arynews.tv/gold-prices-fall-in-pakistan-as-rising-oil-prices-fuel-inflation-concerns",
    "source": "ARY News",
@@ -672,19 +673,6 @@
    "published": null,
    "summary": "Cement and steel rates stabilize in Pakistan amid rising inflation",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-17T203742.941.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan aims to raise mineral exports to $8 billion, OGDC report says",
-   "url": "https://arynews.tv/pakistan-aims-to-raise-mineral-exports-to-8-billion-ogdc-report-says",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan aims to raise mineral exports to $8 billion, OGDC report says",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Pakistan-Minerals.jpg",
    "topics": [
     "Economy"
    ],
