@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-20T16:26:38+00:00",
- "count": 51,
+ "generated": "2026-10-20T20:08:26+00:00",
+ "count": 49,
  "relevant_count": 21,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (19)",
-  "The Express Tribune": "ok (9)",
+  "Business Recorder": "ok (18)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "ok (7)"
  },
  "stories": [
@@ -251,6 +251,20 @@
    "domestic": false
   },
   {
+   "title": "Pakistan committed to fiscal reforms and sustainability, President Zardari tells IMF delegation",
+   "url": "https://tribune.com.pk/story/2635955/pakistan-committed-to-fiscal-reforms-sustainability-president-zardari-tells-imf-delegation",
+   "source": "The Express Tribune",
+   "published": "2026-10-20T12:41:13+00:00",
+   "summary": "Says economy grew to 3.7% in FY25-26, fiscal deficit fell to 2.6% of GDP",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Uncertainty over US tariffs keeps copper trading in a tight range",
    "url": "https://www.brecorder.com/news/40445117/uncertainty-over-us-tariffs-keeps-copper-trading-in-a-tight-range",
    "source": "Business Recorder",
@@ -433,32 +447,6 @@
    "domestic": false
   },
   {
-   "title": "Fourth-quarter growth slows to 2%",
-   "url": "https://tribune.com.pk/story/2635772/fourth-quarter-growth-slows-to-2",
-   "source": "The Express Tribune",
-   "published": "2026-10-19T16:41:41+00:00",
-   "summary": "Industry contracts 4.7%, govt approves $14.8b import data revision to fill gap",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Rs5.5b airport upgrade underway",
-   "url": "https://tribune.com.pk/story/2635777/rs55b-airport-upgrade-underway",
-   "source": "The Express Tribune",
-   "published": "2026-10-19T16:41:41+00:00",
-   "summary": "Completion targeted for Jan 2028; outages limited to feeders with high losses",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Gold flat as international prices slip",
    "url": "https://tribune.com.pk/story/2635774/gold-flat-as-international-prices-slip",
    "source": "The Express Tribune",
@@ -482,19 +470,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gulf bourses subdued as regional worries weigh",
-   "url": "https://www.brecorder.com/news/40444947/gulf-bourses-subdued-as-regional-worries-weigh",
-   "source": "Business Recorder",
-   "published": "2026-10-19T13:27:21+00:00",
-   "summary": "Major stock markets closed lower on Monday as tensions in the Middle East kept investors on edge, with a tanker blast in the Strait of Hormuz and uncertainty over the waterway’s reopening adding to the caution. An oil tanker caught fire and exploded after striking a naval mine in the southern part of the strait, Iran’s…",
-   "image": "https://i.brecorder.com/large/2026/03/13122415aaf8783.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -589,6 +564,33 @@
    "domestic": false
   },
   {
+   "title": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
+   "url": "https://arynews.tv/livestock-sector-records-43pc-increase-in-animal-exports-dr-naila",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan plans to import 18 LNG cargoes for winter gas demand",
+   "url": "https://arynews.tv/pakistan-plans-to-import-18-lng-cargoes-for-winter-gas-demand",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan plans to import 18 LNG cargoes for winter gas demand",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG.jpg",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Pakistan approves new auto policy, rejects IMF proposal to raise EV sales tax",
    "url": "https://arynews.tv/pakistan-approves-new-auto-policy-rejects-imf-proposal-to-raise-ev-sales-tax",
    "source": "ARY News",
@@ -647,32 +649,6 @@
    "published": null,
    "summary": "PSX: Stocks close lower as KSE-100 index dips over 453 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dar directs measures to facilitate exports of surplus commodities",
-   "url": "https://arynews.tv/dar-directs-measures-to-facilitate-exports-of-surplus-commodities",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Dar directs measures to facilitate exports of surplus commodities",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/ishaq-dar-1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Cement and steel rates stabilize in Pakistan amid rising inflation",
-   "url": "https://arynews.tv/cement-and-steel-rates-stabilize-in-pakistan-amid-rising-inflation",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Cement and steel rates stabilize in Pakistan amid rising inflation",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-17T203742.941.jpg",
    "topics": [
     "Economy"
    ],
