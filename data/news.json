@@ -1,15 +1,41 @@
 {
- "generated": "2026-10-20T06:30:43+00:00",
- "count": 53,
- "relevant_count": 22,
- "domestic_count": 16,
+ "generated": "2026-10-20T12:01:08+00:00",
+ "count": 52,
+ "relevant_count": 20,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (10)",
-  "ARY News": "ok (6)"
+  "Business Recorder": "ok (18)",
+  "The Express Tribune": "ok (9)",
+  "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40445118/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-20T11:19:03+00:00",
+   "summary": "The Pakistani rupee continued its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 276.87, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 276.90 against the dollar. Internationally, the US dollar churned at …",
+   "image": "https://i.brecorder.com/large/2026/01/090747276fad0eb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Muhammad Yousif Kabooro assigned additional charge of Director General Public Relations",
+   "url": "https://www.brecorder.com/news/40445104/muhammad-yousif-kabooro-assigned-additional-charge-of-director-general-public-relations",
+   "source": "Business Recorder",
+   "published": "2026-10-20T07:49:16+00:00",
+   "summary": "The Government of Sindh has assigned the additional charge of Director General Public Relations (DGPR), Information Department, Sindh (BS-20), to Muhammad Yousif Kabooro, who is serving as Director Advertisement (BS-19) in the Directorate of Advertisement, Information Department. According to a notification issued by t…",
+   "image": "https://i.brecorder.com/large/2026/10/20124007a56bc42.webp",
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Equities falter below 166,000 amid selling pressure",
    "url": "https://www.dawn.com/news/2038412/equities-falter-below-166000-amid-selling-pressure",
@@ -21,19 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "LCCI assures PRA of support in expanding the tax net",
-   "url": "https://www.brecorder.com/news/40445072/lcci-assures-pra-of-support-in-expanding-the-tax-net",
-   "source": "Business Recorder",
-   "published": "2026-10-20T02:43:11+00:00",
-   "summary": "LAHORE: The Lahore Chamber of Commerce and Industry (LCCI) has assured the Punjab Revenue Authority (PRA) of its full cooperation in promoting business registration and expanding the tax net. The assurance was given during a meeting between an LCCI delegation and PRA Chairman Moazzam Iqbal Sipra where issues faced by f…",
-   "image": "https://i.brecorder.com/large/2025/10/68e07fc04d4c4.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -89,45 +102,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Production suspended: Ghani Chem says inventory available for sales",
-   "url": "https://www.brecorder.com/news/40445064/production-suspended-ghani-chem-says-inventory-available-for-sales",
-   "source": "Business Recorder",
-   "published": "2026-10-20T01:56:33+00:00",
-   "summary": "KARACHI: Ghani Chem World Limited has clarified that it holds sufficient inventory to meet domestic sales requirements despite the suspension of its production activities due to disruptions affecting export orders and maritime routes in the Gulf. In a clarification submitted to the Pakistan Stock Exchange (PSX), the co…",
-   "image": "https://i.brecorder.com/large/2026/10/2006581401c7e8c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "First Africa Diplomatic Economic Conference today",
-   "url": "https://www.brecorder.com/news/40445063/first-africa-diplomatic-economic-conference-today",
-   "source": "Business Recorder",
-   "published": "2026-10-20T01:55:20+00:00",
-   "summary": "KARACHI: The first Africa Diplomatic Economic Conference will be held on Tuesday to promote trade relations between Pakistan and African countries and increase exports. Diplomats from 16 African countries, government officials and representatives of trade organisations will participate in the conference. According to t…",
-   "image": "https://i.brecorder.com/large/2026/10/2007110688fb8b8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40444933/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-19T17:20:15+00:00",
-   "summary": "The Pakistani rupee continued its marginal gains against the US dollar in the interbank market on Monday. The local unit closed the day at 276.90, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.03% in the interbank…",
-   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -224,6 +198,123 @@
    "domestic": true
   },
   {
+   "title": "UK to deploy RAF Typhoon jets to defend Saudi cities from Houthi attacks",
+   "url": "https://www.brecorder.com/news/40445122/uk-to-deploy-raf-typhoon-jets-to-defend-saudi-cities-from-houthi-attacks",
+   "source": "Business Recorder",
+   "published": "2026-10-20T11:05:31+00:00",
+   "summary": "LONDON: Britain will deploy Royal Air Force Typhoon fighter jets on defensive counter-air missions to help protect Saudi cities and critical infrastructure from Houthi aerial attacks, the Ministry of Defence said on Tuesday.",
+   "image": "https://i.brecorder.com/large/2026/10/201604076b2491a.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: selling continues, KSE-100 settles over 800 points lower",
+   "url": "https://www.brecorder.com/news/40445084/psx-selling-continues-kse-100-settles-over-800-points-lower",
+   "source": "Business Recorder",
+   "published": "2026-10-20T11:05:25+00:00",
+   "summary": "Selling continued at the Pakistan Stock Exchange (PSX) on Tuesday, with the benchmark KSE-100 Index settling with a loss of over 800 points. The benchmark index opened higher, briefly rising towards the session’s intraday high of 166,425.56.56 points before coming under selling pressure. It subsequently moved lower, wi…",
+   "image": "https://i.brecorder.com/large/2026/10/20045730f55ca4b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Uncertainty over US tariffs keeps copper trading in a tight range",
+   "url": "https://www.brecorder.com/news/40445117/uncertainty-over-us-tariffs-keeps-copper-trading-in-a-tight-range",
+   "source": "Business Recorder",
+   "published": "2026-10-20T10:45:13+00:00",
+   "summary": "LONDON: Copper prices were little changed on Tuesday, trading in a tight range for a third straight session, as uncertainty over potential US import tariffs and concerns about inflation driven by higher oil prices kept risk sentiment subdued. Benchmark three-month copper on the London Metal Exchange was up 0.1% at $14,…",
+   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Kremlin hopes Witkoff can brief Putin soon on latest Ukrainian/European thinking on peace deal",
+   "url": "https://www.brecorder.com/news/40445116/kremlin-hopes-witkoff-can-brief-putin-soon-on-latest-ukrainianeuropean-thinking-on-peace-deal",
+   "source": "Business Recorder",
+   "published": "2026-10-20T10:40:56+00:00",
+   "summary": "MOSCOW: The Kremlin said on Tuesday that it hoped a meeting in Russia between President Vladimir Putin and US special envoy Steve Witkoff could be organised in the near future to discuss the Ukraine peace process and a range of “very important issues.” Witkoff is expected to hold talks in Oslo on Tuesday with Ukrainian…",
+   "image": "https://i.brecorder.com/large/2024/07/081442349e3e85d.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australia, NZ dollars firm as French fallout pressures euro",
+   "url": "https://www.brecorder.com/news/40445102/australia-nz-dollars-firm-as-french-fallout-pressures-euro",
+   "source": "Business Recorder",
+   "published": "2026-10-20T07:07:54+00:00",
+   "summary": "SYDNEY: The Australian and New Zealand dollars held firm on Tuesday helped by gains on European currencies following riots in France, while investors awaited developments on domestic interest rates. The Aussie was flat at $0.6977, having risen 0.5% overnight and away from a recent 15-week trough of $0.68945. Near-term …",
+   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "ABB says data centre business booming, Q3 figures in line with forecasts",
+   "url": "https://www.brecorder.com/news/40445098/abb-says-data-centre-business-booming-q3-figures-in-line-with-forecasts",
+   "source": "Business Recorder",
+   "published": "2026-10-20T06:53:09+00:00",
+   "summary": "ZURICH: ABB is continuing to see a boom in spending on data centres used to power artificial intelligence, the engineering group said on Tuesday, as it reported its latest earnings. The Swiss company said its operational earnings before interest, tax and amortisation jumped 24% to $2.03 billion in the three months to t…",
+   "image": "https://i.brecorder.com/large/2026/07/16113604b38f467.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Marco Rubio kicks off India visit with trade deal, Russian oil on agenda",
+   "url": "https://www.brecorder.com/news/40445093/marco-rubio-kicks-off-india-visit-with-trade-deal-russian-oil-on-agenda",
+   "source": "Business Recorder",
+   "published": "2026-10-20T06:42:57+00:00",
+   "summary": "US Secretary of State Marco Rubio will travel to India on Tuesday, days after President Donald Trump delayed tariffs on US imports from the world’s largest democracy as the two countries seek to finalize a trade deal. During the two-day visit to Mumbai and Jamnagar in western India, Rubio is slated to meet government a…",
+   "image": "https://i.brecorder.com/large/2026/10/201142320cd2449.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China and Hong Kong shares weaken as stable growth eases stimulus bets",
+   "url": "https://www.brecorder.com/news/40445092/china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets",
+   "source": "Business Recorder",
+   "published": "2026-10-20T06:37:54+00:00",
+   "summary": "HONG KONG: China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened expectations for additional stimulus. China’s blue-chip CSI300 Index dropped 0.5% by the lunch break, while the Shanghai Composite Index was 0…",
+   "image": "https://i.brecorder.com/large/2026/08/21110145cfc2b46.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yuan hits fresh high since 2022 on export growth, stronger guidance",
+   "url": "https://www.brecorder.com/news/40445091/yuan-hits-fresh-high-since-2022-on-export-growth-stronger-guidance",
+   "source": "Business Recorder",
+   "published": "2026-10-20T06:34:20+00:00",
+   "summary": "HONG KONG: China’s yuan hit its highest level in more than four years on Tuesday after the central bank guided the currency stronger, while corporate settlement demand amid robust export growth further underpinned its strength. The yuan rose to as much as 6.6789 per dollar in morning trades, its strongest level since J…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Copper flat as China caution outweighs US stockpiling, Goldman upgrade",
    "url": "https://www.brecorder.com/news/40445090/copper-flat-as-china-caution-outweighs-us-stockpiling-goldman-upgrade",
    "source": "Business Recorder",
@@ -234,19 +325,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Philippines raises $339mn from T-bond offer",
-   "url": "https://www.brecorder.com/news/40445088/philippines-raises-339mn-from-t-bond-offer",
-   "source": "Business Recorder",
-   "published": "2026-10-20T06:24:03+00:00",
-   "summary": "MANILA: Following are the results of the Philippine Bureau of the Treasury’s (BTr) auction of reissued 2031 T-bonds on Tuesday: BTr awards 21.38 billion Philippine pesos ($339.33 million) of the reissued 2031 T-bonds at an average rate of 7.830%, below the 30 billion pesos offer Tenders total 27.58 billion pesos",
-   "image": "https://i.brecorder.com/large/2026/08/28111955af2fa54.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -281,7 +359,7 @@
    "source": "Business Recorder",
    "published": "2026-10-20T06:20:08+00:00",
    "summary": "The International Monetary Fund (IMF) has called on Pakistan to rationalise tax concessions and bring under-taxed sectors into the tax net, saying a fairer and more neutral tax system is critical to improving revenue collection, encouraging compliance and supporting private-sector growth. “Addressing under-taxed sector…",
-   "image": "https://i.brecorder.com/large/2026/10/20112317afe480e.webp",
+   "image": "https://i.ytimg.com/vi/KFpSW6ajQXU/maxresdefault.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -299,19 +377,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 marginally up in opening hours",
-   "url": "https://www.brecorder.com/news/40445084/psx-kse-100-marginally-up-in-opening-hours",
-   "source": "Business Recorder",
-   "published": "2026-10-20T06:04:16+00:00",
-   "summary": "Buying sentiment was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 200 points during the opening hours of trading on Tuesday. At 10:40am, the benchmark index was hovering at 166,126.56, up 160.48 points or 0.10%. Buying was observed in key sectors, including automobile a…",
-   "image": "https://i.brecorder.com/large/2026/10/20045730f55ca4b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -367,19 +432,6 @@
    "domestic": false
   },
   {
-   "title": "Forced loadshedding: ‘New grid stations, additional power transformers needed in Hyderabad’",
-   "url": "https://www.brecorder.com/news/40445065/forced-loadshedding-new-grid-stations-additional-power-transformers-needed-in-hyderabad",
-   "source": "Business Recorder",
-   "published": "2026-10-20T01:59:47+00:00",
-   "summary": "HYDERABAD: According to the HESCO spokesperson, Member of the National Assembly and Member of the Standing Committee on Energy, Syed Waseem Hussain, while speaking during a meeting held at the HESCO Conference Hall about the electricity transmission system, the elimination of forced loadshedding and improved electricit…",
-   "image": "https://i.brecorder.com/large/2025/05/6838e28abaf72.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Experts urge govt to explore metallurgical coal potential",
    "url": "https://www.brecorder.com/news/40444958/experts-urge-govt-to-explore-metallurgical-coal-potential",
    "source": "Business Recorder",
@@ -414,19 +466,6 @@
    "image": null,
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gas deregulation plan heads to PM",
-   "url": "https://tribune.com.pk/story/2635773/gas-deregulation-plan-heads-to-pm",
-   "source": "The Express Tribune",
-   "published": "2026-10-19T16:41:41+00:00",
-   "summary": "Legacy circular debt, cross-subsidies identified as key to viability of restructured entities",
-   "image": null,
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
@@ -468,71 +507,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee ends flat as stock slump, importer hedging erodes bounce",
-   "url": "https://www.brecorder.com/news/40444934/indian-rupee-ends-flat-as-stock-slump-importer-hedging-erodes-bounce",
-   "source": "Business Recorder",
-   "published": "2026-10-19T10:44:31+00:00",
-   "summary": "MUMBAI: The Indian rupee closed nearly unchanged on Monday, erasing modest early gains after local stocks slumped and importers stepped in to buy dollars over a largely subdued trading session. The Indian rupee hovered between 94.76 and 94.96 through the day before closing the session at 94.9250, nearly flat compared w…",
-   "image": "https://i.brecorder.com/large/2026/10/161621434c3ffd2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s GDP grows 3.65% in FY2026, economy size reaches $450bn: NAC",
-   "url": "https://www.brecorder.com/news/40444924/pakistans-gdp-grows-365-in-fy2026-economy-size-reaches-450bn-nac",
-   "source": "Business Recorder",
-   "published": "2026-10-19T10:00:54+00:00",
-   "summary": "Pakistan has posted a gross domestic product (GDP) growth of 3.65% during FY2026, estimates released by the Pakistan Bureau of Statistics (PBS) on Monday showed. The growth is lower than the 3.70% estimated by the National Accounts Committee (NAC) during the previous meeting, indicating a slower pace of economic expans…",
-   "image": "https://i.brecorder.com/large/2025/10/0815150398bf78f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar gains on euro weakness, kiwi waits for inflation data",
-   "url": "https://www.brecorder.com/news/40444910/australian-dollar-gains-on-euro-weakness-kiwi-waits-for-inflation-data",
-   "source": "Business Recorder",
-   "published": "2026-10-19T07:17:48+00:00",
-   "summary": "SYDNEY: The Australian dollar gained on Monday , helped by flows out of the euro in the wake of rioting across France, while the kiwi awaited key inflation data that could make or break the case for a third rate hike this month. Economic data from China also surprised on the upside, with the economy growing 4.5% in the…",
-   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dubai Investments plans to float 20% stake in DIP Holding in UAE's first IPO of the year",
-   "url": "https://www.brecorder.com/news/40444907/dubai-investments-plans-to-float-20-stake-in-dip-holding-in-uaes-first-ipo-of-the-year",
-   "source": "Business Recorder",
-   "published": "2026-10-19T06:53:33+00:00",
-   "summary": "DUBAI: Dubai Investments plans to float a 20% stake in subsidiary DIP Holding, the owner of the Dubai Investments Park real estate business, in the first initial public offering in the United Arab Emirates this year and one of only a few in the Gulf amid the Iran war. The offer, consisting of 1.74 billion shares, will …",
-   "image": "https://i.brecorder.com/large/2026/10/19115316f815c45.gif",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China's property investment falls 20.6% y/y in first 9 months",
-   "url": "https://www.brecorder.com/news/40444904/chinas-property-investment-falls-206-yy-in-first-9-months",
-   "source": "Business Recorder",
-   "published": "2026-10-19T06:33:08+00:00",
-   "summary": "BEIJING: Property investment in China fell 20.6% in the first nine months from the same period last year, widening from the 19.9% drop in January-August, official data showed on Monday. Property sales by floor area declined 13.2%, following a 12.1% fall in the first eight months. New construction starts measured by flo…",
-   "image": "https://i.brecorder.com/large/2023/11/15100309f551607.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -624,6 +598,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gold prices fall in Pakistan as rising oil prices fuel inflation concerns",
+   "url": "https://arynews.tv/gold-prices-fall-in-pakistan-as-rising-oil-prices-fuel-inflation-concerns",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Gold prices fall in Pakistan as rising oil prices fuel inflation concerns",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Gold.jpg.jpeg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
