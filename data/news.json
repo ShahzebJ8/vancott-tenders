@@ -1,20 +1,20 @@
 {
- "generated": "2026-10-21T12:47:28+00:00",
+ "generated": "2026-10-21T17:55:37+00:00",
  "count": 44,
  "relevant_count": 19,
- "domestic_count": 12,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (19)",
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
    "title": "Pakistan rupee extends marginal gain against US dollar",
    "url": "https://www.brecorder.com/news/40445269/pakistan-rupee-extends-marginal-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-21T12:04:56+00:00",
+   "published": "2026-10-21T14:32:58+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.86, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani had rupee settled at 276.87 against the dollar. Internationally, the US dollar remained under pressure …",
    "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
    "topics": [
@@ -158,17 +158,17 @@
    "domestic": true
   },
   {
-   "title": "Economy more shock-resistant, says SBP chief",
-   "url": "https://www.dawn.com/news/2037905/economy-more-shock-resistant-says-sbp-chief",
-   "source": "Dawn",
-   "published": "2026-10-18T01:39:42+00:00",
-   "summary": "KARACHI: State Bank of Pakistan Governor Jameel Ahmad said sustained, prudent macroeconomic policies and structural reforms have made Pakistan’s economy more resilient to domestic and external shocks. The central bank chief highlighted Pakistan’s improving macroeconomic conditions and outlook during meetings with forei…",
-   "image": "https://i.dawn.com/large/2026/07/28080031dabb6b8.webp",
+   "title": "Netflix slides as weak profit, ad outlook intensify investor anxiety",
+   "url": "https://www.brecorder.com/news/40445282/netflix-slides-as-weak-profit-ad-outlook-intensify-investor-anxiety",
+   "source": "Business Recorder",
+   "published": "2026-10-21T13:31:29+00:00",
+   "summary": "Netflix shares dropped 6% in premarket trading on Wednesday after the company cut its full-year advertising forecast and issued a tepid fourth-quarter profit outlook, deepening concerns about slowing viewership and revenue growth. The stock has declined more than 26% this year and, if current losses hold, the streaming…",
+   "image": "https://i.brecorder.com/large/2026/05/12124210369a76f.webp",
    "topics": [
-    "Economy"
+    "Advertising & media"
    ],
-   "relevant": false,
-   "domestic": true
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Oil shock hammers India bonds before policy minutes, 10-year yield at over 3-year high",
@@ -458,20 +458,6 @@
    "domestic": false
   },
   {
-   "title": "Most Gulf bourses in red after Houthis claim attacks on Saudi energy, airport sites",
-   "url": "https://www.brecorder.com/news/40445127/most-gulf-bourses-in-red-after-houthis-claim-attacks-on-saudi-energy-airport-sites",
-   "source": "Business Recorder",
-   "published": "2026-10-20T13:47:25+00:00",
-   "summary": "Most Gulf stock markets closed lower on Tuesday after Yemen’s Houthis claimed attacks on Saudi energy, airport and military targets on Monday, while Egypt’s index bucked the trend after parliament delayed a vote on authorising military support for Riyadh. The group said it hit an Aramco site in Yanbu, the Shaybah oilfi…",
-   "image": "https://i.brecorder.com/large/2026/10/201845098a1267c.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Growers end losers in ‘flawed’ wheat market reform",
    "url": "https://www.dawn.com/news/2038230/growers-end-losers-in-flawed-wheat-market-reform",
    "source": "Dawn",
@@ -534,6 +520,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks rise as KSE-100 gains over 700 Points",
+   "url": "https://arynews.tv/psx-stocks-rise-as-kse-100-gains-over-700-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks rise as KSE-100 gains over 700 Points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-39.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
