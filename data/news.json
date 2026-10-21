@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-21T07:01:08+00:00",
- "count": 50,
+ "generated": "2026-10-21T12:47:28+00:00",
+ "count": 44,
  "relevant_count": 19,
- "domestic_count": 14,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (13)",
   "Business Recorder": "ok (19)",
-  "The Express Tribune": "ok (8)",
-  "ARY News": "ok (7)"
+  "The Express Tribune": "ok (7)",
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Pakistan rupee extends marginal gain against US dollar",
+   "url": "https://www.brecorder.com/news/40445269/pakistan-rupee-extends-marginal-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-21T12:04:56+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.86, a gain of Re0.01 against the greenback. On Tuesday , the Pakistani had rupee settled at 276.87 against the dollar. Internationally, the US dollar remained under pressure …",
+   "image": "https://i.brecorder.com/large/2026/10/151552537cb1bca.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PSX extends losses for second session",
    "url": "https://www.dawn.com/news/2038639/psx-extends-losses-for-second-session",
@@ -56,32 +69,6 @@
    "published": "2026-10-21T02:04:25+00:00",
    "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday approved the draft Auto Policy 2026-31, which aims to increase auto sector exports to $6 billion and boost local production, competitiveness and electric vehicle (EV) adoption. Although the Prime Minister’s Office did not issue an official statement, sources in the fe…",
    "image": "https://i.dawn.com/large/2026/07/201100475e9fb19.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "APCDIA calls for competitive automotive market",
-   "url": "https://www.brecorder.com/news/40445230/apcdia-calls-for-competitive-automotive-market",
-   "source": "Business Recorder",
-   "published": "2026-10-20T21:29:59+00:00",
-   "summary": "KARACHI: Chairman All Pakistan Car Dealers & Importers Association (APCDIA) Mian Shoaib Ahmed has called for an end to “discriminatory” policies “favouring a handful of automobile assemblers”, stressing that allowing fair competition through regulated commercial imports of used vehicles would benefit consumers, create …",
-   "image": "https://i.brecorder.com/large/2026/02/102007314b5cbd5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40445118/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-20T13:59:57+00:00",
-   "summary": "The Pakistani rupee continued its marginal gains against the US dollar, appreciating 0.01% in the interbank market on Tuesday. The local unit closed the day at 276.87, a gain of Re0.03 against the greenback. On Monday , the Pakistani rupee settled at 276.90 against the dollar. Internationally, the US dollar churned at …",
-   "image": "https://i.brecorder.com/large/2026/01/090747276fad0eb.webp",
    "topics": [
     "Economy"
    ],
@@ -184,17 +171,56 @@
    "domestic": true
   },
   {
-   "title": "Auto loans rise despite sales slump",
-   "url": "https://www.dawn.com/news/2037908/auto-loans-rise-despite-sales-slump",
-   "source": "Dawn",
-   "published": "2026-10-18T01:39:42+00:00",
-   "summary": "KARACHI: Despite a sales slowdown, outstanding car loans rose for the 22nd consecutive month to Rs407 billion in September from Rs393.3bn in August, data released by the State Bank of Pakistan (SBP) showed. Assemblers saw a 12 per cent year-on-year and 3pc month-on-month drop in sales of cars, SUVs, pickups and vans to…",
-   "image": "https://i.dawn.com/large/2024/05/22102537fc3d1e9.jpg",
+   "title": "Oil shock hammers India bonds before policy minutes, 10-year yield at over 3-year high",
+   "url": "https://www.brecorder.com/news/40445274/oil-shock-hammers-india-bonds-before-policy-minutes-10-year-yield-at-over-3-year-high",
+   "source": "Business Recorder",
+   "published": "2026-10-21T12:38:54+00:00",
+   "summary": "MUMBAI: Indian government bonds slid on Wednesday, with the benchmark yield hovering near its highest level since March 2023, as elevated oil prices fuelled inflation concerns, while traders awaited minutes of the central bank’s latest policy meeting. The benchmark 6.94% 2036 bond yield ended at 7.4427% after ending at…",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Jio Platforms' IPO-linked inflows boost Indian rupee; elevated oil prices spur caution",
+   "url": "https://www.brecorder.com/news/40445273/jio-platforms-ipo-linked-inflows-boost-indian-rupee-elevated-oil-prices-spur-caution",
+   "source": "Business Recorder",
+   "published": "2026-10-21T12:34:01+00:00",
+   "summary": "MUMBAI: The Indian rupee strengthened sharply on Wednesday, helped along by foreign portfolio inflows linked to Jio Platforms’ IPO while persistently elevated oil prices kept traders cautious about positioning for further gains in the unit. The Indian rupee closed up 0.5% at 94.46 against the dollar after touching a pe…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks rebound as KSE-100 closes with 779 points gain",
+   "url": "https://www.brecorder.com/news/40445247/stocks-rebound-as-kse-100-closes-with-779-points-gain",
+   "source": "Business Recorder",
+   "published": "2026-10-21T11:48:29+00:00",
+   "summary": "Buying interest returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index closing with a gain of 779 points during trading on Wednesday. The KSE-100 started the session positive, hitting an intra-day high of 166,242.43. It was followed by selling pressure that pushed the index to an intra-day low …",
+   "image": "https://i.brecorder.com/large/2026/10/14103236575b28b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
+   "url": "https://www.brecorder.com/news/40445266/us-envoy-witkoff-to-meet-putin-trump-presses-kyiv-to-settle",
+   "source": "Business Recorder",
+   "published": "2026-10-21T09:23:16+00:00",
+   "summary": "OSLO/KYIV/WASHINGTON: US envoy Steve Witkoff will meet Russian President Vladimir Putin on Wednesday after what a US official called “constructive” talks with Ukrainian President Volodymyr Zelenskiy in Norway, as President Donald Trump ​said it was time for Ukraine to end the war. The US official said Ukraine brought f…",
+   "image": "https://i.brecorder.com/large/2026/10/211422491ab4e8f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Thai baht/US dollar steady on Wednesday",
@@ -314,19 +340,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: stocks surge, KSE-100 up over 1,000 points in early trading",
-   "url": "https://www.brecorder.com/news/40445247/psx-stocks-surge-kse-100-up-over-1000-points-in-early-trading",
-   "source": "Business Recorder",
-   "published": "2026-10-21T05:00:46+00:00",
-   "summary": "Buying interest returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,000 points during the opening minutes of trading on Wednesday. At 9:58am, the benchmark index was hovering at 166,176.01, up 1,024.37 points or 0.62%. Buying was observed in key sectors, including automobile a…",
-   "image": "https://i.brecorder.com/large/2026/10/14103236575b28b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "South Korea October 1-20 exports surge 105% on record chip sales",
    "url": "https://www.brecorder.com/news/40445245/south-korea-october-1-20-exports-surge-105-on-record-chip-sales",
    "source": "Business Recorder",
@@ -366,19 +379,6 @@
    "domestic": false
   },
   {
-   "title": "UK employer pay awards edge up to 3.1%, Brightmine says",
-   "url": "https://www.brecorder.com/news/40445241/uk-employer-pay-awards-edge-up-to-31-brightmine-says",
-   "source": "Business Recorder",
-   "published": "2026-10-21T02:45:09+00:00",
-   "summary": "LONDON: Pay settlements by British employers edged up in the three months ​to the end of September ‌but there was little sign of a shift in wage trends, human resources data firm ​Brightmine said on Wednesday. Bank of England’s Bailey says second-round inflation pressures look subdued so far The median ​pay award by em…",
-   "image": "https://i.brecorder.com/large/2026/10/21074427a3140c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Australian AI data centre operator NextDC shares shed 44% on revenue delay",
    "url": "https://www.brecorder.com/news/40445240/australian-ai-data-centre-operator-nextdc-shares-shed-44-on-revenue-delay",
    "source": "Business Recorder",
@@ -415,19 +415,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Mobile industry stagnant at 10%-15% localisation",
-   "url": "https://tribune.com.pk/story/2635990/mobile-industry-stagnant-at-10-15-localisation",
-   "source": "The Express Tribune",
-   "published": "2026-10-20T16:38:07+00:00",
-   "summary": "Prime says imported kits face zero duty while local components face 20% to 30%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -482,32 +469,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Uncertainty over US tariffs keeps copper trading in a tight range",
-   "url": "https://www.brecorder.com/news/40445117/uncertainty-over-us-tariffs-keeps-copper-trading-in-a-tight-range",
-   "source": "Business Recorder",
-   "published": "2026-10-20T10:45:13+00:00",
-   "summary": "LONDON: Copper prices were little changed on Tuesday, trading in a tight range for a third straight session, as uncertainty over potential US import tariffs and concerns about inflation driven by higher oil prices kept risk sentiment subdued. Benchmark three-month copper on the London Metal Exchange was up 0.1% at $14,…",
-   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australia, NZ dollars firm as French fallout pressures euro",
-   "url": "https://www.brecorder.com/news/40445102/australia-nz-dollars-firm-as-french-fallout-pressures-euro",
-   "source": "Business Recorder",
-   "published": "2026-10-20T07:07:54+00:00",
-   "summary": "SYDNEY: The Australian and New Zealand dollars held firm on Tuesday helped by gains on European currencies following riots in France, while investors awaited developments on domestic interest rates. The Aussie was flat at $0.6977, having risen 0.5% overnight and away from a recent 15-week trough of $0.68945. Near-term …",
-   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -622,45 +583,6 @@
    "published": null,
    "summary": "Gold prices fall in Pakistan as rising oil prices fuel inflation concerns",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Gold.jpg.jpeg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s power sector circular debt rises to Rs.1.675 billion",
-   "url": "https://arynews.tv/pakistans-power-sector-circular-debt-rises-to-rs-1-675-billion",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan’s power sector circular debt rises to Rs.1.675 billion",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Power-sector-1.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "DG Khan airport to become international facility by January 2028",
-   "url": "https://arynews.tv/dg-khan-airport-to-become-international-facility-by-january-2028",
-   "source": "ARY News",
-   "published": null,
-   "summary": "DG Khan airport to become international facility by January 2028",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/DG-Khan-Airport.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close lower as KSE-100 index dips over 453 points",
-   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-453-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close lower as KSE-100 index dips over 453 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-1.jpg",
    "topics": [
     "Economy"
    ],
