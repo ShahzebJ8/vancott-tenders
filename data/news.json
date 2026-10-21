@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-21T17:55:37+00:00",
+ "generated": "2026-10-21T21:14:09+00:00",
  "count": 44,
- "relevant_count": 19,
+ "relevant_count": 18,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (12)",
-  "Business Recorder": "ok (18)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Maldives president, CDF Munir stress importance of strengthening defence cooperation",
+   "url": "https://www.dawn.com/news/2038736/maldives-president-cdf-munir-stress-importance-of-strengthening-defence-cooperation",
+   "source": "Dawn",
+   "published": "2026-10-21T19:09:19+00:00",
+   "summary": "Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir and visiting Maldivian President Dr Mohamed Muizzu underscored the importance of strengthening bilateral defence cooperation on Wednesday, state-run Radio Pakistan reported . Muizzu arrived in Islamabad on Tuesday on a three-day visit at…",
+   "image": "https://i.dawn.com/large/2026/10/2123264463749c7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan rupee extends marginal gain against US dollar",
    "url": "https://www.brecorder.com/news/40445269/pakistan-rupee-extends-marginal-gain-against-us-dollar",
@@ -138,20 +151,6 @@
    "image": "https://i.dawn.com/large/2025/10/26090737938513c.webp",
    "topics": [
     "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt moves to curb LPG hoarding ahead of winter",
-   "url": "https://www.dawn.com/news/2037906/govt-moves-to-curb-lpg-hoarding-ahead-of-winter",
-   "source": "Dawn",
-   "published": "2026-10-18T01:39:42+00:00",
-   "summary": "• Petroleum Division flags irregular lifting of imported LPG from terminals • Ogra asked to ensure supplies at notified prices, particularly in remote areas ISLAMABAD: The government has taken notice of the alleged hoarding of liquefied petroleum gas (LPG) to create an artificial shortage ahead of winter and directed a…",
-   "image": "https://i.dawn.com/large/2026/07/122214180bd111b.webp",
-   "topics": [
-    "Advertising & media",
     "Economy"
    ],
    "relevant": true,
@@ -392,19 +391,6 @@
    "domestic": false
   },
   {
-   "title": "Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA",
-   "url": "https://www.brecorder.com/news/40445239/dollar-on-back-foot-as-us-yields-crude-prices-dip-aussie-buoyed-by-hawkish-rba",
-   "source": "Business Recorder",
-   "published": "2026-10-21T02:37:45+00:00",
-   "summary": "TOKYO: The US dollar remained under pressure on Wednesday after slipping to a three-week low in ​the previous session, as a dip in Treasury yields and crude oil prices reduced the currency’s appeal. The ‌Australian dollar hovered close to a three-week high against the greenback with Reserve Bank of Australia Deputy Gov…",
-   "image": "https://i.brecorder.com/large/2026/10/21073510d78ae43.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "IMF flags unfair tax system",
    "url": "https://tribune.com.pk/story/2635984/imf-flags-unfair-tax-system",
    "source": "The Express Tribune",
@@ -520,6 +506,20 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan receives only two Qatari LNG cargoes in October amid sharp drop in imports",
+   "url": "https://arynews.tv/pakistan-receives-only-two-qatari-lng-cargoes-in-october-amid-sharp-drop-in-imports",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan receives only two Qatari LNG cargoes in October amid sharp drop in imports",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG-1.jpg",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
