@@ -1,22 +1,22 @@
 {
- "generated": "2026-10-22T10:28:43+00:00",
- "count": 47,
- "relevant_count": 16,
- "domestic_count": 16,
+ "generated": "2026-10-22T15:32:09+00:00",
+ "count": 51,
+ "relevant_count": 17,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (6)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (6)"
  },
  "stories": [
   {
-   "title": "Pakistan’s Interloop to invest $55mn in dairy-processing plant",
-   "url": "https://www.brecorder.com/news/40445449/pakistans-interloop-to-invest-55mn-in-dairy-processing-plant",
+   "title": "SBP-held forex reserves rise by $19mn to $21.49bn",
+   "url": "https://www.brecorder.com/news/40445473/sbp-held-forex-reserves-rise-by-19mn-to-2149bn",
    "source": "Business Recorder",
-   "published": "2026-10-22T10:15:35+00:00",
-   "summary": "Interloop Holdings, a prominent investment and diversified holding company based in Faisalabad, plans to invest $55 million in a new dairy-processing plant in Faisalabad, Punjab, in partnership with Türkiye’s Rella Gıda, aiming to expand value-added production and support exports, the company’s chairman said on Thursda…",
-   "image": "https://i.brecorder.com/large/2026/10/221514178293882.webp",
+   "published": "2026-10-22T15:21:58+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) rose by $19 million on a weekly basis to $21.49 billion as of October 16, 2026, the central bank said on Thursday. According to data released by the SBP, the country’s total liquid foreign reserves stood at $26.83 billion. Net foreign reserves held by c…",
+   "image": "https://i.brecorder.com/large/2026/10/222021516f4254e.jpg",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,25 @@
    "domestic": true
   },
   {
-   "title": "PM chairs Apex Committee meeting in KP to review security situation: state media",
-   "url": "https://www.brecorder.com/news/40445448/pm-chairs-apex-committee-meeting-in-kp-to-review-security-situation-state-media",
+   "title": "Pakistan rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40445450/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-22T09:49:20+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday chaired an important meeting of the Apex Committee at the Governor House in Khyber Pakhtunkhwa, state media Radio Pakistan reported, citing security sources. The sources said the meeting is being attended by Khyber Pakhtunkhwa Governor Faisal Karim Kundi, federal and provincial…",
-   "image": "https://i.brecorder.com/large/2026/10/2214430994a5086.webp",
+   "published": "2026-10-22T14:36:30+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.85, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani had rupee settled at 276.86 against the dollar. Internationally, a downdraft in the US dollar took a p…",
+   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan’s Interloop to invest $55mn in dairy-processing plant",
+   "url": "https://www.brecorder.com/news/40445449/pakistans-interloop-to-invest-55mn-in-dairy-processing-plant",
+   "source": "Business Recorder",
+   "published": "2026-10-22T10:15:35+00:00",
+   "summary": "Interloop Holdings, a prominent investment and diversified holding company based in Faisalabad, plans to invest $55 million in a new dairy-processing plant in Faisalabad, Punjab, in partnership with Türkiye’s Rella Gıda, aiming to expand value-added production and support exports, the company’s chairman said on Thursda…",
+   "image": "https://i.brecorder.com/large/2026/10/221514178293882.webp",
    "topics": [
     "Economy"
    ],
@@ -223,16 +236,161 @@
    "domestic": true
   },
   {
-   "title": "IMF sees 1.3pc contraction in Pakistan this year due to Iran war",
-   "url": "https://www.dawn.com/news/2038985/imf-sees-13pc-contraction-in-pakistan-this-year-due-to-iran-war",
-   "source": "Dawn",
-   "published": "2026-10-22T09:03:31+00:00",
-   "summary": "The International Monetary Fund (IMF) on Thursday forecast a sharp drop in economic output in Pakistan, the Middle East and North Africa this year due to the US-Israeli-led war against Iran , followed by a rebound to 6.6 per cent growth in 2027, while warning that further energy production disruptions could worsen the …",
-   "image": "https://i.dawn.com/large/2026/01/12072304a3a31cc.webp",
+   "title": "HBL posts 9M’26 profit before tax of Rs115bn",
+   "url": "https://www.brecorder.com/news/40445471/hbl-posts-9m26-profit-before-tax-of-rs115bn",
+   "source": "Business Recorder",
+   "published": "2026-10-22T13:54:40+00:00",
+   "summary": "HBL on Thursday declared a record quarterly profit before tax of Rs41.9 billion for the third quarter of 2026. The Bank’s total profit before tax for nine months ended September 30, 2026, increased to Rs 115 billion while the profit after tax rose to Rs54.1 billion. EPS for 9M’26 increased to Rs36.84. Along with the re…",
+   "image": "https://i.brecorder.com/large/2026/10/221854292de8b01.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMF says Middle East, North Africa and Pakistan GDP to contract 1.3pc in 2026",
+   "url": "https://www.dawn.com/news/2038985/imf-says-middle-east-north-africa-and-pakistan-gdp-to-contract-13pc-in-2026",
+   "source": "Dawn",
+   "published": "2026-10-22T13:07:31+00:00",
+   "summary": "The International Monetary Fund (IMF) on Thursday forecast a sharp drop in economic output in Pakistan, the Middle East and North Africa this year due to the US-Israeli-led war against Iran , followed by a rebound to 6.6 per cent growth in 2027, while warning that further energy production disruptions could worsen the …",
+   "image": "https://i.dawn.com/large/2026/01/12072304a3a31cc.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue",
+   "url": "https://www.brecorder.com/news/40445466/saudi-aramco-tells-staff-to-evacuate-dhahran-as-clashes-with-yemens-houthis-continue",
+   "source": "Business Recorder",
+   "published": "2026-10-22T12:55:37+00:00",
+   "summary": "Saudi state oil company Aramco has told staff to evacuate its headquarters in Dhahran on the Gulf, six people with knowledge of the matter told Reuters on Thursday, as fighting between the world’s largest crude exporter and Yemen’s Houthis intensifies. Clashes between the Houthis and Yemen’s government have raged since…",
+   "image": "https://i.brecorder.com/large/2023/11/65514e961ab59.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asia rice: Indian prices hit more than one-year high on strong rupee, tight supply",
+   "url": "https://www.brecorder.com/news/40445465/asia-rice-indian-prices-hit-more-than-one-year-high-on-strong-rupee-tight-supply",
+   "source": "Business Recorder",
+   "published": "2026-10-22T12:43:02+00:00",
+   "summary": "Indian rice export prices rose further this week to their highest level in more than a year, supported by a stronger rupee and modest demand amid tight supplies. India’s 5% broken parboiled variety was quoted at $387-$392 per ton this week, up from last week’s $384-$389. Indian 5% broken white rice was priced at $389 t…",
+   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 down over 2,000 points amid escalating ME conflict",
+   "url": "https://www.brecorder.com/news/40445417/psx-kse-100-down-over-2000-points-amid-escalating-me-conflict",
+   "source": "Business Recorder",
+   "published": "2026-10-22T12:30:41+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed selling pressure amid concerns over a broader escalation of conflict in the Middle East, with the benchmark KSE-100 Index losing over 2,000 points during trading on Thursday. The benchmark index hit an intra-day high of 166,180.32 in early trade but came under sustained sellin…",
+   "image": "https://i.brecorder.com/large/2026/03/13033704ac8b2df.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's JSW Paints eyes 4, 5-year debt to refinance acquisition-led funding, bankers say",
+   "url": "https://www.brecorder.com/news/40445462/indias-jsw-paints-eyes-4-5-year-debt-to-refinance-acquisition-led-funding-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-10-22T12:27:30+00:00",
+   "summary": "MUMBAI: India’s JSW Paints is likely to raise funds through issuance of bonds maturing in four years and five years and should go ahead with the sale in the next couple of weeks, two merchant bankers with direct knowledge of the matter said on Thursday. The company could look to raise around 30 billion rupees ($316.56 …",
+   "image": "https://i.brecorder.com/large/2026/10/221726410ed2241.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF, OECD warn AI could widen rich-poor country divide",
+   "url": "https://www.brecorder.com/news/40445460/imf-oecd-warn-ai-could-widen-rich-poor-country-divide",
+   "source": "Business Recorder",
+   "published": "2026-10-22T12:20:14+00:00",
+   "summary": "Artificial intelligence could boost global growth, but poorer countries, smaller companies and younger workers risk missing out unless access to power, digital infrastructure and skills improves, according to officials from the IMF and OECD. The warning comes as massive investment in chips and AI infrastructure has hel…",
+   "image": "https://i.brecorder.com/large/2026/10/22171822650018c.webp",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee snaps eight-day rally as oil climbs to highest since May",
+   "url": "https://www.brecorder.com/news/40445458/indian-rupee-snaps-eight-day-rally-as-oil-climbs-to-highest-since-may",
+   "source": "Business Recorder",
+   "published": "2026-10-22T11:59:36+00:00",
+   "summary": "MUMBAI: The Indian rupee snapped an eight-session-long winning streak on Thursday as Brent oil prices climbed to their highest since May on deepening worries about conflict in the Middle East, which hammered global equities as well. The South Asian currency endured a volatile trading session, swinging from its stronges…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares extend losses as high oil prices heighten inflation worries",
+   "url": "https://www.brecorder.com/news/40445457/indian-shares-extend-losses-as-high-oil-prices-heighten-inflation-worries",
+   "source": "Business Recorder",
+   "published": "2026-10-22T11:57:14+00:00",
+   "summary": "Indian shares fell for a third straight session on Thursday, as an escalating Middle East war pushed oil prices higher to $112 per barrel, stoking inflation concerns for the world’s third-largest importer of crude. The benchmark Nifty 50 fell 0.54% to 22,687.65, and the Sensex shed 0.62% to 73,249.39. The broader small…",
+   "image": "https://i.brecorder.com/large/2026/10/1616191208add34.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "LME copper stocks in US climb to 12-year high",
+   "url": "https://www.brecorder.com/news/40445455/lme-copper-stocks-in-us-climb-to-12-year-high",
+   "source": "Business Recorder",
+   "published": "2026-10-22T11:50:56+00:00",
+   "summary": "Copper inventories in London Metal Exchange warehouses in the US have swelled to their highest in 12-1/2 years as metal continues to accumulate in the country ahead of possible import tariffs from the start of next year. Stocks in US LME warehouses — mostly in New Orleans and Baltimore — now stand at 169,475 metric ton…",
+   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sun Pharma misses debt fundraise goal as investors demand higher yields, bankers say",
+   "url": "https://www.brecorder.com/news/40445454/sun-pharma-misses-debt-fundraise-goal-as-investors-demand-higher-yields-bankers-say",
+   "source": "Business Recorder",
+   "published": "2026-10-22T11:43:44+00:00",
+   "summary": "MUMBAI: India’s Sun Pharmaceutical Industries fell short of its targeted debt fundraise as investors continued to demand higher yields, three merchant bankers said on Thursday. The country’s largest drugmaker by market capitalization raised only 78.16 billion rupees ($823.65 million) through the sale of two sets of ove…",
+   "image": "https://i.brecorder.com/large/2026/04/27103612294fe19.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India permits large silver imports despite weak domestic demand",
+   "url": "https://www.brecorder.com/news/40445452/india-permits-large-silver-imports-despite-weak-domestic-demand",
+   "source": "Business Recorder",
+   "published": "2026-10-22T11:31:50+00:00",
+   "summary": "MUMBAI: India has issued permits to import around 6,500 metric tons of silver over the next six months as the world’s biggest consumer of the precious metal seeks to meet festive-season demand, four bullion dealers who received the permits told Reuters. Higher imports by India, which relies on overseas purchases to mee…",
+   "image": "https://i.brecorder.com/large/2026/04/021716387abbdac.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -286,46 +444,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Oil jumps $2 on escalating Middle East tension",
-   "url": "https://www.brecorder.com/news/40445404/oil-jumps-2-on-escalating-middle-east-tension",
-   "source": "Business Recorder",
-   "published": "2026-10-22T07:59:17+00:00",
-   "summary": "SINGAPORE: Oil prices rallied over $2 a barrel on Thursday after more Houthi attacks in Saudi Arabia stoked concerns over a broader escalation of conflict and further disruptions to crude supplies from the world’s key exporting region. Brent crude futures climbed$2.82, or 2.59%, to $111.64 a barrel at 0626 GMT, close t…",
-   "image": "https://i.brecorder.com/large/2026/10/220729214f6fcf8.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF flags rising inflation risks for Pakistan amid Middle East conflict",
-   "url": "https://www.brecorder.com/news/40445438/imf-flags-rising-inflation-risks-for-pakistan-amid-middle-east-conflict",
-   "source": "Business Recorder",
-   "published": "2026-10-22T07:54:44+00:00",
-   "summary": "The International Monetary Fund (IMF), in its latest report , has warned of rising inflationary pressures in Pakistan amid the Middle East conflict, saying the country may need tighter monetary policy if the regional crisis persists and price risks intensify. “In MENAP oil importers, inflationary pressures have risen m…",
-   "image": "https://i.brecorder.com/large/2025/10/16053817877a373.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling at bourse, KSE-100 sheds over 1,400 points",
-   "url": "https://www.brecorder.com/news/40445417/psx-selling-at-bourse-kse-100-sheds-over-1400-points",
-   "source": "Business Recorder",
-   "published": "2026-10-22T07:41:41+00:00",
-   "summary": "Selling pressure was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding over 1,400 points during trading on Thursday. At 12:35pm, the benchmark index was hovering at 164,506.27, down 1,424.71 points or 0.86%. Key sectors saw selling, including automobile assemblers, cement, oil and…",
-   "image": "https://i.brecorder.com/large/2026/03/13033704ac8b2df.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -394,32 +512,6 @@
    "domestic": false
   },
   {
-   "title": "Govt forms committee to review gas levy policy amid exporters' concerns",
-   "url": "https://www.brecorder.com/news/40445420/govt-forms-committee-to-review-gas-levy-policy-amid-exporters-concerns",
-   "source": "Business Recorder",
-   "published": "2026-10-22T06:03:23+00:00",
-   "summary": "The Ministry of Finance has constituted a committee with government and industry representatives to review the levy policy and calculation formula and recommend possible refinements. The development came during a follow-up high-level consultative meeting with leading exporters and senior government officials at the Min…",
-   "image": "https://i.brecorder.com/large/2026/05/16013747ed6649b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee traders weigh Jio IPO flows against oil price risks",
-   "url": "https://www.brecorder.com/news/40445414/indian-rupee-traders-weigh-jio-ipo-flows-against-oil-price-risks",
-   "source": "Business Recorder",
-   "published": "2026-10-22T05:28:40+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to open flat on Thursday , with traders looking to Jio Platforms IPO flows and positioning for ​direction while oil prices remain a risk. The Indian rupee is expected to ‌open in 94.44-94.50 range, per traders, after settling at 94.46 to the dollar on Wednesday. The currency is on an …",
-   "image": "https://i.brecorder.com/large/2026/10/22081420bb0f22e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "IMF forecasts 1.3% contraction in Pakistan, 6.6% growth in 2027",
    "url": "https://tribune.com.pk/story/2636297/imf-forecasts-13-contraction-in-pakistan-66-growth-in-2027",
    "source": "The Express Tribune",
@@ -433,51 +525,12 @@
    "domestic": false
   },
   {
-   "title": "Nestle, Zydus, Abbott face India scrutiny over claims on children's products",
-   "url": "https://www.brecorder.com/news/40445410/nestle-zydus-abbott-face-india-scrutiny-over-claims-on-childrens-products",
-   "source": "Business Recorder",
-   "published": "2026-10-22T02:56:27+00:00",
-   "summary": "BENGALURU: India’s food safety regulator issued notices to Nestle India, Zydus Wellness, Abbott Healthcare and others ​on Wednesday over promotional claims involving products for infants and children ‌that it said breached rules. Nestle India flags food, commodity inflation after profit surges 36% The action comes days…",
-   "image": "https://i.brecorder.com/large/2026/10/22075434d5414ee.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of Korea holds rates as expected after back-to-back hikes",
-   "url": "https://www.brecorder.com/news/40445408/bank-of-korea-holds-rates-as-expected-after-back-to-back-hikes",
-   "source": "Business Recorder",
-   "published": "2026-10-22T02:50:19+00:00",
-   "summary": "SEOUL: The Bank of ​Korea left its ‌benchmark interest rate unchanged at 3.00% ​on Thursday, ​pausing after back-to-back quarter-point ⁠hikes in ​July and August. The ​seven-member monetary policy board at the BOK ​voted to ​keep the seven-day repurchase rate ‌at ⁠3.00%, a decision that was forecast by all ​34 ​analyst…",
-   "image": "https://i.brecorder.com/large/2026/10/22074918022803a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares seen opening lower as high oil prices fuel inflation worries",
-   "url": "https://www.brecorder.com/news/40445407/indian-shares-seen-opening-lower-as-high-oil-prices-fuel-inflation-worries",
-   "source": "Business Recorder",
-   "published": "2026-10-22T02:45:56+00:00",
-   "summary": "Indian shares are expected to open lower on Thursday , extending losses from the previous two sessions, as the escalating Middle East war keeps ​oil above $110 per barrel, stoking inflation concerns. GIFT Nifty futures were ‌at 22,643 at 7:55 a.m. IST (0225 GMT), indicating a negative start for the benchmark Nifty 50 w…",
-   "image": "https://i.brecorder.com/large/2026/10/220743538503e4a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dip in the dollar takes a breather with Fed in focus",
-   "url": "https://www.brecorder.com/news/40445406/dip-in-the-dollar-takes-a-breather-with-fed-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-10-22T02:43:00+00:00",
-   "summary": "SINGAPORE: A downdraft in the dollar took a pause on Thursday as investors began hunkering down ahead of a slew of central bank meetings next week, where hawkish holds are expected on interest rates ​in Japan, the US and Europe. The currency market is long the dollar on the assumption the ‌AI boom keeps the US economy …",
-   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
+   "title": "PSX plunges over 2,000 points as selling pressure mounts",
+   "url": "https://tribune.com.pk/story/2636295/psx-plunges-over-1400-points-as-selling-pressure-mounts",
+   "source": "The Express Tribune",
+   "published": "2026-10-22T03:36:22+00:00",
+   "summary": "Benchmark KSE-100 Index closes at 163,924.32 points",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -551,6 +604,19 @@
    "domestic": false
   },
   {
+   "title": "PSX: Stocks fall as KSE-100 index dips over 2,000 points",
+   "url": "https://arynews.tv/psx-stocks-fall-as-kse-100-index-dips-over-2000-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks fall as KSE-100 index dips over 2,000 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-2.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Pakistan receives only two Qatari LNG cargoes in October amid sharp drop in imports",
    "url": "https://arynews.tv/pakistan-receives-only-two-qatari-lng-cargoes-in-october-amid-sharp-drop-in-imports",
    "source": "ARY News",
@@ -615,19 +681,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold prices fall in Pakistan as rising oil prices fuel inflation concerns",
-   "url": "https://arynews.tv/gold-prices-fall-in-pakistan-as-rising-oil-prices-fuel-inflation-concerns",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Gold prices fall in Pakistan as rising oil prices fuel inflation concerns",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Gold.jpg.jpeg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
