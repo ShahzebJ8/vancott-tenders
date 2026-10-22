@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T00:10:07+00:00",
- "count": 883,
- "with_value": 848,
- "with_winner": 289,
+ "generated": "2026-10-22T05:13:48+00:00",
+ "count": 884,
+ "with_value": 849,
+ "with_winner": 290,
  "smd_count": 0,
  "price_history": [
   {
@@ -315,6 +315,25 @@
    "province": "Khyber Pakhtunkhwa",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9389657596",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL1BQUkFfQ29udHJhY3RfQXdhcmRfUHJvZm9ybWFfMV8xLnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-8506119911",
+   "reference": "D-3586/26",
+   "title": "Sui Northern Gas Pipelines Limited (SNGPL) Air Compressor/ Pressure Booster/ Air Dryer Refrigerator",
+   "organisation": "SNGPL Islamabad",
+   "office": "SNGPL Islamabad",
+   "winner": "Gaircom",
+   "value_text": "Rs. 54,888,450 ≥ Rs. 50 Million",
+   "value_pkr": 54888450,
+   "value_band": null,
+   "awarded": "2026-10-07",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-8506119911",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL1B1cmNoYXNlX09yZGVyX0QtMzU4Ni0yNl9TTkQtMjU5Mi0yNS5wZGY=",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -16801,6 +16820,44 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000004470",
+   "tender_no": "TS0000011646E",
+   "reference": "SSGC/LP/EPADS2/NR/2179272",
+   "title": "SSGC/LP/EPADS2/NR/2179272 (SPARES FOR COMMERCIAL METERS) Miscellaneous",
+   "organisation": "Ministry of Energy (Petroleum Division) Sui Southern Gas Company Ltd. (SSGC) Karachi Head Office Karachi - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Hayat Engineering Works"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-22",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004470",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004468",
+   "tender_no": "TS0000006016E",
+   "reference": "SND-2598/26",
+   "title": "Welding Fittings Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-22",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004468",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000004467",
    "tender_no": "TS0000010428E",
    "reference": "7(2)/TDU/IR/2026",
@@ -18369,6 +18426,26 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004373",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004372",
+   "tender_no": "TS0000011665E",
+   "reference": "P89974",
+   "title": "Procurement of Laboratory Items for FY 2026-27 -CGH Civil Goods",
+   "organisation": "Ministry of Defence Rawalpindi Cantonment Board Rawalpindi - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Nayyab Traders, Diagnostic Medical Associates, HasnainScientific"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-20",
+   "city": "Rawalpindi",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004372",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -55817,62 +55894,6 @@
    "matched_terms": [
     "led"
    ]
-  },
-  {
-   "evaluation_no": "EVL00000002371",
-   "tender_no": "TS0000003290E",
-   "reference": "PID K N0.3125/25",
-   "title": "Rights for Collection of Maintenance Charges from the Visitors of Bagh-e-Quaid-i-Azam, Karachi Services",
-   "organisation": "National Heritage & Culture Division Office of the Resident Engineer, Quaid-i-Mazar Management Board (QMMB). Karachi - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "Affaf Enterprises National Heritage & Culture Division"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-28",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002371",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002370",
-   "tender_no": "TS0000003290E",
-   "reference": "PID K N0.3125/25",
-   "title": "Rights for Collection of Maintenance Charges from the Visitors of Bagh-e-Quaid-i-Azam, Karachi Services National Heritage & Culture Division",
-   "organisation": "National Heritage & Culture Division Office of the Resident Engineer, Quaid-i-Mazar Management Board (QMMB). Karachi - Pakistan",
-   "bid_count": 5,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-07-28",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002370",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002369",
-   "tender_no": "TS0000008904E",
-   "reference": "P54566",
-   "title": "Reconstruction of RCC Coping of BQA Boundary Wall Civil Works",
-   "organisation": "National Heritage & Culture Division Office of the Resident Engineer, Quaid-i-Mazar Management Board (QMMB). Karachi - Pakistan",
-   "bid_count": 6,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-28",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002369",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
   }
  ]
 }
