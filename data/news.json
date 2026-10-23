@@ -1,22 +1,22 @@
 {
- "generated": "2026-10-23T06:18:57+00:00",
- "count": 46,
- "relevant_count": 16,
- "domestic_count": 19,
+ "generated": "2026-10-23T11:58:57+00:00",
+ "count": 45,
+ "relevant_count": 15,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (6)",
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "PCDMA urges SBP for lower policy rate",
-   "url": "https://www.brecorder.com/news/40445574/pcdma-urges-sbp-for-lower-policy-rate",
+   "title": "Pakistan rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40445625/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-23T02:54:19+00:00",
-   "summary": "KARACHI: Pakistan Chemicals & Dyes Merchants Association (PCDMA) Chairman Saleem Mukati has urged State Bank of Pakistan (SBP) Governor Jameel Ahmed to consider reducing the policy rate at the central bank’s Monetary Policy Committee (MPC) meeting expected on October 26, in order to accelerate economic activity and eas…",
-   "image": "https://i.brecorder.com/large/2026/07/29045118a95799f.webp",
+   "published": "2026-10-23T11:31:38+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 276.82, a gain of Re0.03 against the greenback. On Thursday , the Pakistani had rupee settled at 276.85 against the dollar. Internationally, the Japanese yen hit…",
+   "image": "https://i.brecorder.com/large/2026/10/141615309eb28d9.webp",
    "topics": [
     "Economy"
    ],
@@ -24,15 +24,27 @@
    "domestic": true
   },
   {
-   "title": "LCCI urges business-friendly reforms to broaden tax base",
-   "url": "https://www.brecorder.com/news/40445571/lcci-urges-business-friendly-reforms-to-broaden-tax-base",
+   "title": "Pakistan LPG shortage worsens after border closure, traders say",
+   "url": "https://www.brecorder.com/news/40445620/pakistan-lpg-shortage-worsens-after-border-closure-traders-say",
    "source": "Business Recorder",
-   "published": "2026-10-23T02:48:02+00:00",
-   "summary": "LAHORE: Lahore Chamber of Commerce and Industry (LCCI) President Ali Hussam Asghar has called for simplified tax procedures, predictable policies and improved taxpayer facilitation to broaden Pakistan’s tax base, enhance voluntary compliance and improve the tax-to-GDP ratio without placing additional pressure on existi…",
-   "image": "https://i.brecorder.com/large/2026/10/230747465a032d7.webp",
+   "published": "2026-10-23T10:37:34+00:00",
+   "summary": "LAHORE: The closure of two key border crossings between Pakistan and Iran has halted liquefied petroleum gas (LPG) imports into Pakistan, causing shortages and driving up prices, traders said. The Gabd-Rimdan and Taftan crossings were closed on October 17, with Pakistan and Iran giving different reasons for the move. T…",
+   "image": "https://i.brecorder.com/large/2026/08/06062943371c7d5.webp",
    "topics": [
-    "Budget & spending",
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan deploys 1,782 5G sites in 24 cities",
+   "url": "https://www.brecorder.com/news/40445616/pakistan-deploys-1782-5g-sites-in-24-cities",
+   "source": "Business Recorder",
+   "published": "2026-10-23T09:40:07+00:00",
+   "summary": "ISLAMABAD: Pakistan has deployed 1,782 5G sites across 24 cities, with Jazz accounting for more than half of the total infrastructure, while the cheapest locally available 5G-compatible handset costs around Rs36,000, highlighting the affordability challenge for wider adoption of next-generation mobile services. Accordi…",
+   "image": "https://i.brecorder.com/large/2026/07/1620512911db550.webp",
+   "topics": [
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": true
@@ -48,20 +60,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Interloop profit rises 53pc to Rs4.3bn in 1QFY27",
-   "url": "https://www.brecorder.com/news/40445569/interloop-profit-rises-53pc-to-rs43bn-in-1qfy27",
-   "source": "Business Recorder",
-   "published": "2026-10-23T02:39:41+00:00",
-   "summary": "KARACHI: Interloop Limited (ILP) posted a 53 percent year-on-year increase in profit to Rs4.3 billion in the first quarter of FY27, compared with Rs2.8 billion in the same period last year, supported by higher export sales, increased other income and a lower effective tax rate, according to a research report. The compa…",
-   "image": "https://i.brecorder.com/large/2025/06/1811555508e4dcb.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -116,19 +114,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40445450/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-22T14:36:30+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.85, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani had rupee settled at 276.86 against the dollar. Internationally, a downdraft in the US dollar took a p…",
-   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -264,6 +249,97 @@
    "domestic": true
   },
   {
+   "title": "PSX: selling continues, KSE-100 down nearly 1%",
+   "url": "https://www.brecorder.com/news/40445590/psx-selling-continues-kse-100-down-nearly-1",
+   "source": "Business Recorder",
+   "published": "2026-10-23T11:58:52+00:00",
+   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as fighting intensified between the world’s largest crude exporter and Yemen-based Houthis, with the benchmark KSE-100 Index dropping nearly 1% on Friday. The market remained under pressure throughout much of the session. The index opened near the upper en…",
+   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper rebounds as inventories, stock markets stabilise",
+   "url": "https://www.brecorder.com/news/40445629/copper-rebounds-as-inventories-stock-markets-stabilise",
+   "source": "Business Recorder",
+   "published": "2026-10-23T11:10:50+00:00",
+   "summary": "LONDON: Copper prices bounced on Friday after a sharp decline in the previous session as stock markets stabilised and the build-up of inventories slowed. Three-month copper on the London Metal Exchange gained 0.8% to $14,190 a metric ton by 1000 GMT, having slid 1.9% to a five-week low in the previous session. Metals m…",
+   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Surging oil prices drag Indian shares to weekly losses",
+   "url": "https://www.brecorder.com/news/40445622/surging-oil-prices-drag-indian-shares-to-weekly-losses",
+   "source": "Business Recorder",
+   "published": "2026-10-23T10:53:10+00:00",
+   "summary": "Indian shares fell on Friday and logged weekly losses as surging oil prices amid Middle East tensions stoked concerns over inflation and company earnings. The benchmark Nifty 50 fell 0.39% to 22,600, and the Sensex shed 0.17% to 73,123.83. The indexes lost 2.4% and 2.2% this week, respectively, with sentiment dampened …",
+   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee little changed this week as oil-fueled declines wipe out early gains",
+   "url": "https://www.brecorder.com/news/40445624/indian-rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains",
+   "source": "Business Recorder",
+   "published": "2026-10-23T10:52:33+00:00",
+   "summary": "MUMBAI: The Indian rupee weakened for a second straight session on Friday as surging oil prices spurred risk aversion, erasing gains made earlier in the week and leaving the currency little changed, despite easing expectations of further US rate hikes. The Indian rupee opened the session marginally higher at 94.79 agai…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Investors pile into Ambani’s Jio IPO as bids top 13 times",
+   "url": "https://www.brecorder.com/news/40445621/investors-pile-into-ambanis-jio-ipo-as-bids-top-13-times",
+   "source": "Business Recorder",
+   "published": "2026-10-23T10:43:12+00:00",
+   "summary": "NEW DELHI: Subscriptions for India’s biggest stock listing ever surged further on the final day of bidding on Friday, as investors bet on Jio Platforms’.2 billion offering to tap into the nation’s telecom and digital sector. Billionaire Mukesh Ambani’s first initial public offering in two decades is being closely watch…",
+   "image": "https://i.brecorder.com/large/2026/10/21075117fec0c60.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "NBP chief to get Rs9.5mn monthly salary, Rs30mn life insurance, two cars",
+   "url": "https://www.brecorder.com/news/40445612/nbp-chief-to-get-rs95mn-monthly-salary-rs30mn-life-insurance-two-cars",
+   "source": "Business Recorder",
+   "published": "2026-10-23T07:18:09+00:00",
+   "summary": "The shareholders of National Bank of Pakistan (NBP) have approved a compensation package for President and Chief Executive Officer (CEO) Imran Sarwar, effective from the date he assumed office on September 9, 2026. The listed bank informed in a regulatory filing at the Pakistan Stock Exchange (PSX) on Friday. The packa…",
+   "image": "https://i.brecorder.com/large/2026/10/2312162484487c2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Soybeans rise on strong export sales, but harvest keeps weekly loss in view",
+   "url": "https://www.brecorder.com/news/40445602/soybeans-rise-on-strong-export-sales-but-harvest-keeps-weekly-loss-in-view",
+   "source": "Business Recorder",
+   "published": "2026-10-23T06:24:31+00:00",
+   "summary": "BEIJING: Chicago soybeans rose on Friday, supported by strong US export sales, but remained on track for a weekly loss as the Midwest harvest progressed. The most-traded soybean contract on the Chicago Board of Trade (CBOT) rose 0.32% to $12.57 a bushel, as of 0345 GMT, though it was down 0.34% for the week. The US Dep…",
+   "image": "https://i.brecorder.com/large/2026/10/15011629d19057b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "China's yuan holds steady, set for fourth weekly rise",
    "url": "https://www.brecorder.com/news/40445601/chinas-yuan-holds-steady-set-for-fourth-weekly-rise",
    "source": "Business Recorder",
@@ -283,19 +359,6 @@
    "published": "2026-10-23T06:11:32+00:00",
    "summary": "Gold eased on Friday , headed for its steepest weekly decline in over four months as elevated oil prices bolstered higher-for-longer interest rate expectations, while investors awaited next week’s Federal Reserve policy meet. Spot gold eased 0.2% to $4,016.27 per ounce by 0351 GMT, paring losses slightly after touching…",
    "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling continues, KSE-100 down over 1,200 points in early trade",
-   "url": "https://www.brecorder.com/news/40445590/psx-selling-continues-kse-100-down-over-1200-points-in-early-trade",
-   "source": "Business Recorder",
-   "published": "2026-10-23T06:07:52+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as fighting intensified between the world’s largest crude exporter and Yemen-based Houthis, with the benchmark KSE-100 Index shedding over 1,200 points during the opening hours of trading on Friday. At 11am, the benchmark index hovered at 162,683.08, down …",
-   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
    "topics": [
     "Economy"
    ],
@@ -355,6 +418,19 @@
    "domestic": false
   },
   {
+   "title": "PSX slides more than 1,330 points amid Saudi Arabia-Houthi conflict",
+   "url": "https://tribune.com.pk/story/2636488/psx-slides-more-than-1330-points-amid-saudi-arabia-houthi-conflict",
+   "source": "The Express Tribune",
+   "published": "2026-10-23T03:29:56+00:00",
+   "summary": "KSE-100 hits 162,589 by Friday prayers as Brent trades near multi-month highs",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Flight to safety, rising oil put Indian rupee’s recovery to the test",
    "url": "https://www.brecorder.com/news/40445586/flight-to-safety-rising-oil-put-indian-rupees-recovery-to-the-test",
    "source": "Business Recorder",
@@ -374,19 +450,6 @@
    "published": "2026-10-23T02:39:04+00:00",
    "summary": "SHANGHAI/SINGAPORE: The Japanese yen hit its strongest level in more than a month on Friday , buoyed by safe-haven flows due to a fresh ​bout of risk aversion that also sent US Treasury yields sharply lower, pushing the dollar to a nearly three-week ‌trough. The moves in the currency markets were driven by doubts over …",
    "image": "https://i.brecorder.com/large/2026/10/23073450f52f72a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
-   "url": "https://www.brecorder.com/news/40445578/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia",
-   "source": "Business Recorder",
-   "published": "2026-10-23T02:33:58+00:00",
-   "summary": "Oil prices were little changed in early Asian trade on Friday , after rising 4% to a five-month high in the previous session due ​to concern of further energy supply disruption after Houthi attacks ‌on top exporter Saudi Arabia. Brent crude futures was down 21 cents, or 0.2%, at $112.96 a barrel as of 0030 GMT, while U…",
-   "image": "https://i.brecorder.com/large/2026/10/23072809d59ffd8.jpg",
    "topics": [
     "Economy"
    ],
@@ -458,84 +521,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee snaps eight-day rally as oil climbs to highest since May",
-   "url": "https://www.brecorder.com/news/40445458/indian-rupee-snaps-eight-day-rally-as-oil-climbs-to-highest-since-may",
-   "source": "Business Recorder",
-   "published": "2026-10-22T11:59:36+00:00",
-   "summary": "MUMBAI: The Indian rupee snapped an eight-session-long winning streak on Thursday as Brent oil prices climbed to their highest since May on deepening worries about conflict in the Middle East, which hammered global equities as well. The South Asian currency endured a volatile trading session, swinging from its stronges…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares extend losses as high oil prices heighten inflation worries",
-   "url": "https://www.brecorder.com/news/40445457/indian-shares-extend-losses-as-high-oil-prices-heighten-inflation-worries",
-   "source": "Business Recorder",
-   "published": "2026-10-22T11:57:14+00:00",
-   "summary": "Indian shares fell for a third straight session on Thursday, as an escalating Middle East war pushed oil prices higher to $112 per barrel, stoking inflation concerns for the world’s third-largest importer of crude. The benchmark Nifty 50 fell 0.54% to 22,687.65, and the Sensex shed 0.62% to 73,249.39. The broader small…",
-   "image": "https://i.brecorder.com/large/2026/10/1616191208add34.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "LME copper stocks in US climb to 12-year high",
-   "url": "https://www.brecorder.com/news/40445455/lme-copper-stocks-in-us-climb-to-12-year-high",
-   "source": "Business Recorder",
-   "published": "2026-10-22T11:50:56+00:00",
-   "summary": "Copper inventories in London Metal Exchange warehouses in the US have swelled to their highest in 12-1/2 years as metal continues to accumulate in the country ahead of possible import tariffs from the start of next year. Stocks in US LME warehouses — mostly in New Orleans and Baltimore — now stand at 169,475 metric ton…",
-   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India permits large silver imports despite weak domestic demand",
-   "url": "https://www.brecorder.com/news/40445452/india-permits-large-silver-imports-despite-weak-domestic-demand",
-   "source": "Business Recorder",
-   "published": "2026-10-22T11:31:50+00:00",
-   "summary": "MUMBAI: India has issued permits to import around 6,500 metric tons of silver over the next six months as the world’s biggest consumer of the precious metal seeks to meet festive-season demand, four bullion dealers who received the permits told Reuters. Higher imports by India, which relies on overseas purchases to mee…",
-   "image": "https://i.brecorder.com/large/2026/04/021716387abbdac.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Thursday",
-   "url": "https://www.brecorder.com/news/40445443/thai-bahtus-dollar-weaker-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-10-22T08:08:06+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Thursday. At 0155 GMT, the baht was 0.15% lower at 33.61 versus the dollar, after trading in a range of 33.580 to 33.650. It ended the previous session at 33.56 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South Korea's KOCOPIA tenders for about 55,000 tons corn, traders say",
-   "url": "https://www.brecorder.com/news/40445442/south-koreas-kocopia-tenders-for-about-55000-tons-corn-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-10-22T08:05:07+00:00",
-   "summary": "HAMBURG: South Korea’s Korea Corn Processing Industry Association has issued an international tender to purchase about 55,000 metric tons of optional-origin corn, European traders said on Thursday. The deadline for submission of price offers in the tender is also Thursday, October 22. The corn is sought for arrival in …",
-   "image": "https://i.brecorder.com/large/2026/10/22014535e9b6b2d.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
