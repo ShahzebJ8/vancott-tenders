@@ -1,35 +1,22 @@
 {
- "generated": "2026-10-23T01:13:59+00:00",
- "count": 52,
- "relevant_count": 22,
- "domestic_count": 20,
+ "generated": "2026-10-23T06:18:57+00:00",
+ "count": 46,
+ "relevant_count": 16,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (5)"
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (18)",
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (4)"
  },
  "stories": [
   {
-   "title": "FBL earns Rs15.2bn PAT in nine months",
-   "url": "https://www.brecorder.com/news/40445490/fbl-earns-rs152bn-pat-in-nine-months",
+   "title": "PCDMA urges SBP for lower policy rate",
+   "url": "https://www.brecorder.com/news/40445574/pcdma-urges-sbp-for-lower-policy-rate",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "KARACHI: Faysal Bank Limited (FBL) delivered a resilient performance for the nine months ended September 30, 2026, posting Profit Before Tax of Rs 31.3 billion and Profit After Tax of Rs 15.2 billion, translating into earnings per share of Rs 10. The Board has declared a third-quarter cash dividend of Rs 1.5 per share …",
-   "image": "https://i.brecorder.com/large/2023/01/241637138a6e996.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "President visits ‘Saudi-Pak Real Estate Expo’ in Lahore",
-   "url": "https://www.brecorder.com/news/40445495/president-visits-saudi-pak-real-estate-expo-in-lahore",
-   "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "LAHORE: President Asif Ali Zardari visited the Saudi Pakistan Real Estate Expo (SPREX) at Lake City, Lahore, underscoring the importance of strengthening economic cooperation and promoting investment between Pakistan and Saudi Arabia. Upon arrival, the President was received by Governor of Punjab Sardar Saleem Haider K…",
-   "image": "https://i.brecorder.com/large/2024/04/18094623403e78a.gif",
+   "published": "2026-10-23T02:54:19+00:00",
+   "summary": "KARACHI: Pakistan Chemicals & Dyes Merchants Association (PCDMA) Chairman Saleem Mukati has urged State Bank of Pakistan (SBP) Governor Jameel Ahmed to consider reducing the policy rate at the central bank’s Monetary Policy Committee (MPC) meeting expected on October 26, in order to accelerate economic activity and eas…",
+   "image": "https://i.brecorder.com/large/2026/07/29045118a95799f.webp",
    "topics": [
     "Economy"
    ],
@@ -37,25 +24,12 @@
    "domestic": true
   },
   {
-   "title": "Nepra faces dilemma over PQEPCL’s coal procurement extension",
-   "url": "https://www.brecorder.com/news/40445553/nepra-faces-dilemma-over-pqepcls-coal-procurement-extension",
+   "title": "LCCI urges business-friendly reforms to broaden tax base",
+   "url": "https://www.brecorder.com/news/40445571/lcci-urges-business-friendly-reforms-to-broaden-tax-base",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "ISLAMABAD: National Electric Power Regulatory Authority (Nepra) is reportedly facing a difficult situation over coal procurement by Port Qasim Electric Power Company (PQEPCL), as the power producer is seeking a further extension in its interim procurement arrangement despite the availability of more competitive offers …",
-   "image": "https://i.brecorder.com/large/2022/09/633628d196e58.jpg",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PM’s review: MoC to beef up exporters’ proposals",
-   "url": "https://www.brecorder.com/news/40445557/pms-review-moc-to-beef-up-exporters-proposals",
-   "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "ISLAMABAD: The Ministry of Commerce will consolidate exporters’ proposals on energy costs, taxation, regulatory charges and market access into a comprehensive presentation for consideration by the Prime Minister, as the government steps up efforts to address constraints hampering Pakistan’s export competitiveness. The …",
-   "image": "https://i.brecorder.com/large/2024/12/6753a8e07e852.jpg",
+   "published": "2026-10-23T02:48:02+00:00",
+   "summary": "LAHORE: Lahore Chamber of Commerce and Industry (LCCI) President Ali Hussam Asghar has called for simplified tax procedures, predictable policies and improved taxpayer facilitation to broaden Pakistan’s tax base, enhance voluntary compliance and improve the tax-to-GDP ratio without placing additional pressure on existi…",
+   "image": "https://i.brecorder.com/large/2026/10/230747465a032d7.webp",
    "topics": [
     "Budget & spending",
     "Economy"
@@ -64,12 +38,39 @@
    "domestic": true
   },
   {
-   "title": "Airports, banks & insurance cos in the basket: PC working on sell-off of 17 SoEs, including 9 DISCOs",
-   "url": "https://www.brecorder.com/news/40445560/airports-banks-amp-insurance-cos-in-the-basket-pc-working-on-sell-off-of-17-soes-including-9-discos",
+   "title": "State Bank of Pakistan's reserves rise by $19m",
+   "url": "https://www.dawn.com/news/2039180/state-bank-of-pakistans-reserves-rise-by-19m",
+   "source": "Dawn",
+   "published": "2026-10-23T02:43:30+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) foreign exchange reserves rose by $19 million to $21.488 billion during the week ending Oct 16, the central bank reported on Thursday. The country’s total liquid foreign reserves totalled $26.833bn, including $5.344bn held by commercial banks. Published in Dawn, October 23rd, 2…",
+   "image": "https://i.dawn.com/large/2026/10/07083036c5d4edf.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Interloop profit rises 53pc to Rs4.3bn in 1QFY27",
+   "url": "https://www.brecorder.com/news/40445569/interloop-profit-rises-53pc-to-rs43bn-in-1qfy27",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "ISLAMABAD: The Privatisation Commission is working on the privatisation of 17 state-owned enterprises, including nine power distribution companies, as well as the outsourcing three major airports and transactions involving banks and insurance companies. Advisor to the Prime Minister on Privatisation and Chairman of the…",
-   "image": "https://i.brecorder.com/large/2026/05/15031455141bf60.webp",
+   "published": "2026-10-23T02:39:41+00:00",
+   "summary": "KARACHI: Interloop Limited (ILP) posted a 53 percent year-on-year increase in profit to Rs4.3 billion in the first quarter of FY27, compared with Rs2.8 billion in the same period last year, supported by higher export sales, increased other income and a lower effective tax rate, according to a research report. The compa…",
+   "image": "https://i.brecorder.com/large/2025/06/1811555508e4dcb.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt loans turn out to be stimulant for real estate",
+   "url": "https://www.dawn.com/news/2039183/govt-loans-turn-out-to-be-stimulant-for-real-estate",
+   "source": "Dawn",
+   "published": "2026-10-23T02:33:01+00:00",
+   "summary": "KARACHI: Although banks are not ready to extend housing loans to applicants without complete documentation, builders are almost unanimous that the sector had picked up over the last 12 months. According to them, the Prime Minister’s housing scheme, which provides loans of up to Rs10 million on easy instalments, has sti…",
+   "image": "https://i.dawn.com/large/2020/04/5e96a5405211b.jpg",
    "topics": [
     "Construction & projects"
    ],
@@ -77,12 +78,25 @@
    "domestic": true
   },
   {
-   "title": "Sales Tax Rules, 2006 amended: FBR rolls out framework for e-auctions of seized goods",
-   "url": "https://www.brecorder.com/news/40445562/sales-tax-rules-2006-amended-fbr-rolls-out-framework-for-e-auctions-of-seized-goods",
-   "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has introduced a framework for electronic auctions of seized and confiscated goods through amendments to the Sales Tax Rules, 2006, to formalize the disposal process through an online bidding mechanism. The FBR has issued an SRO 1889(I)/2026 to notify “Electronic Auction (E…",
-   "image": "https://i.brecorder.com/large/2020/09/5f52b8c8575a3.jpg",
+   "title": "Middle East tensions dent investor confidence",
+   "url": "https://www.dawn.com/news/2039178/middle-east-tensions-dent-investor-confidence",
+   "source": "Dawn",
+   "published": "2026-10-23T02:05:57+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) failed to sustain its overnight recovery on Thurs­day, as escalating tensions in the Middle East shattered investor confidence, sparking fears of prolonged conflict, surging oil prices and rising inflation that thr­­­­eaten macroeconomic stability. Topline Securities Ltd said…",
+   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Seized goods auction goes digital",
+   "url": "https://www.dawn.com/news/2039181/seized-goods-auction-goes-digital",
+   "source": "Dawn",
+   "published": "2026-10-23T02:05:57+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has introduced an electronic auction system to dispose of seized and confiscated goods, allowing registered bidders to participate online for a minimum registration fee of Rs25,000. The new mechanism allows a 72-hour online bidding period, electronic payment of auction proc…",
+   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
    "topics": [
     "Budget & spending",
     "Procurement"
@@ -91,14 +105,14 @@
    "domestic": true
   },
   {
-   "title": "ME conflict: IMF warns of financial stability risks",
-   "url": "https://www.brecorder.com/news/40445564/me-conflict-imf-warns-of-financial-stability-risks",
-   "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has warned that Pakistan faces renewed inflationary and financial stability risks from the prolonged Middle East conflict, with rising food and energy prices, higher borrowing costs and mounting external financing pressures threatening macroeconomic stability and potenti…",
-   "image": "https://i.brecorder.com/large/2026/03/3001090853c796b.webp",
+   "title": "Govt pushes China for tariff concessions",
+   "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
+   "source": "The Express Tribune",
+   "published": "2026-10-22T16:06:34+00:00",
+   "summary": "Exporters raised the Punjab infrastructure cess",
+   "image": null,
    "topics": [
-    "Budget & spending",
+    "Construction & projects",
     "Economy"
    ],
    "relevant": true,
@@ -250,40 +264,12 @@
    "domestic": true
   },
   {
-   "title": "Industry calls for easier rules as FBR urges export growth",
-   "url": "https://www.dawn.com/news/2038415/industry-calls-for-easier-rules-as-fbr-urges-export-growth",
-   "source": "Dawn",
-   "published": "2026-10-20T01:57:42+00:00",
-   "summary": "KARACHI: Federal Board of Revenue (FBR) Chief Langrial urged exporters to expand the presence of Pakistani products in international markets, as industry leaders raised concerns over complicated regulations, digital invoicing difficulties and the tax burden on already compliant businesses. During a meeting with a deleg…",
-   "image": "https://i.dawn.com/large/2023/03/08075543a535616.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "GDP growth revised down to 3.65pc as country falls short of target",
-   "url": "https://www.dawn.com/news/2038439/gdp-growth-revised-down-to-365pc-as-country-falls-short-of-target",
-   "source": "Dawn",
-   "published": "2026-10-20T01:57:16+00:00",
-   "summary": "• Industrial, services sector slowdown drags down economic growth in FY26 • Per capita income ‘lowest in region’; economy reaches $450.4bn ISLAMABAD: The government on Monday revised the gross domestic product (GDP) growth slightly downward to 3.65 per cent for the outgoing fiscal year (FY26), attributing the adjustmen…",
-   "image": "https://i.dawn.com/large/2025/10/26090737938513c.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Will the policy rate stay put?",
-   "url": "https://www.brecorder.com/news/40445520/will-the-policy-rate-stay-put",
+   "title": "China's yuan holds steady, set for fourth weekly rise",
+   "url": "https://www.brecorder.com/news/40445601/chinas-yuan-holds-steady-set-for-fourth-weekly-rise",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:55:11+00:00",
-   "summary": "EDITORIAL: The Monetary Policy Committee meeting to review the 11.5 percent policy rate is scheduled for 26 October and there are serious concerns that the rate may be raised as inflation remains in double digits due largely to the rise in the international prices of petroleum and products as the Middle East conflict w…",
-   "image": "https://i.brecorder.com/large/2026/04/2906134955ea4b6.webp",
+   "published": "2026-10-23T06:15:10+00:00",
+   "summary": "SHANGHAI: China’s yuan held steady against the dollar on Friday but remained on course for a fourth consecutive weekly rise, as a sharp selloff in the share market weighed on investor sentiment. Investors also stayed cautious ahead of major central bank meetings next week, with the Federal Reserve, Bank of Japan and Eu…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
    "topics": [
     "Economy"
    ],
@@ -291,12 +277,38 @@
    "domestic": false
   },
   {
-   "title": "Hinopak Motors Limited",
-   "url": "https://www.brecorder.com/news/40445486/hinopak-motors-limited",
+   "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
+   "url": "https://www.brecorder.com/news/40445600/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "Hinopak Motors Limited (PSX: HINO) was incorporated as a public limited company in Pakistan in 1986. The company is engaged in the assembly, progressive manufacturing and sale of Hino buses and trucks as well as sale of its spare parts and accessories. HINO is the subsidiary of Hino Motors Limited Japan. The ultimate p…",
-   "image": "https://i.brecorder.com/large/2024/07/220816563211c5b.jpg",
+   "published": "2026-10-23T06:11:32+00:00",
+   "summary": "Gold eased on Friday , headed for its steepest weekly decline in over four months as elevated oil prices bolstered higher-for-longer interest rate expectations, while investors awaited next week’s Federal Reserve policy meet. Spot gold eased 0.2% to $4,016.27 per ounce by 0351 GMT, paring losses slightly after touching…",
+   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: selling continues, KSE-100 down over 1,200 points in early trade",
+   "url": "https://www.brecorder.com/news/40445590/psx-selling-continues-kse-100-down-over-1200-points-in-early-trade",
+   "source": "Business Recorder",
+   "published": "2026-10-23T06:07:52+00:00",
+   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as fighting intensified between the world’s largest crude exporter and Yemen-based Houthis, with the benchmark KSE-100 Index shedding over 1,200 points during the opening hours of trading on Friday. At 11am, the benchmark index hovered at 162,683.08, down …",
+   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China stocks slide as blue chips head for longest weekly losing streak",
+   "url": "https://www.brecorder.com/news/40445598/china-stocks-slide-as-blue-chips-head-for-longest-weekly-losing-streak",
+   "source": "Business Recorder",
+   "published": "2026-10-23T06:07:15+00:00",
+   "summary": "SHANGHAI: China stocks fell on Friday , with the CSI300 index headed for its longest-ever weekly losing run, as a selloff in Wall Street tech shares and a lack of domestic fiscal stimulus weighed on investor sentiment. At the midday break, the benchmark Shanghai composite index fell 1.2%, while the blue-chip CSI300 ind…",
+   "image": "https://i.brecorder.com/large/2021/08/612ea700e446b.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -304,12 +316,12 @@
    "domestic": false
   },
   {
-   "title": "Oil prices hit five-month high",
-   "url": "https://www.brecorder.com/news/40445552/oil-prices-hit-five-month-high",
+   "title": "Singapore's core inflation rate rises to 2% in September, below forecast",
+   "url": "https://www.brecorder.com/news/40445597/singapores-core-inflation-rate-rises-to-2-in-september-below-forecast",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "NEW YORK: Oil prices climbed about 4 percent to a five-month high on Thursday after Houthi attacks in Saudi Arabia stoked concerns of further disruption to energy supplies from the key exporting region. Brent futures rose USD4.35, or 4.0 percent, to settle at USD113.17 a barrel, while US West Texas Intermediate crude r…",
-   "image": "https://i.brecorder.com/large/2024/08/19074912e6c8fcd.gif",
+   "published": "2026-10-23T06:02:25+00:00",
+   "summary": "SINGAPORE: Singapore’s key consumer price gauge rose 2% in September from a year earlier, official data showed on Friday. The core inflation rate, which excludes private road transport and accommodation costs, was lower than the median forecast of 2.3% in a Reuters poll and August’s reading of 2.2%. Singapore’s core in…",
+   "image": "https://i.brecorder.com/large/2023/05/031019227010e18.jpg",
    "topics": [
     "Economy"
    ],
@@ -317,17 +329,108 @@
    "domestic": false
   },
   {
-   "title": "Pakistan GDP to contract 1.3pc in 2026: IMF",
-   "url": "https://www.brecorder.com/news/40445556/pakistan-gdp-to-contract-13pc-in-2026-imf",
+   "title": "BOJ chief Ueda to speak at IMF lecture on November 6",
+   "url": "https://www.brecorder.com/news/40445592/boj-chief-ueda-to-speak-at-imf-lecture-on-november-6",
    "source": "Business Recorder",
-   "published": "2026-10-23T00:47:19+00:00",
-   "summary": "DUBAI: The IMF on Thursday forecast a sharp drop in economic output in the Middle East, North Africa and Pakistan this year due to the Iran war, followed by 6.6 percent growth in 2027, though it warned that further energy production disruptions could worsen the outlook. The International Monetary Fund said the region’s…",
-   "image": "https://i.brecorder.com/large/2026/10/2304364282e866f.webp",
+   "published": "2026-10-23T05:37:38+00:00",
+   "summary": "TOKYO: Bank of Japan Governor Kazuo Ueda is scheduled to speak at the International Monetary Fund’s central banking lecture in Washington on November 6, the central bank said on Friday. After delivering a speech, Ueda will hold a conversation with International Monetary Fund Managing Director Kristalina Georgieva, acco…",
+   "image": "https://i.brecorder.com/large/2026/09/19033157d6a16fe.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s Interloop to expand production with $23.5mn investment",
+   "url": "https://www.brecorder.com/news/40445591/pakistans-interloop-to-expand-production-with-235mn-investment",
+   "source": "Business Recorder",
+   "published": "2026-10-23T05:36:45+00:00",
+   "summary": "Interloop Limited, one of Pakistan’s largest textile exporters, will invest Rs6.5 billion, i.e. approx. $23.5 million, to expand and modernise its apparel and hosiery operations, after its board approved the additional capex. Interloop, recognised among the largest listed companies on the PSX, informed the bourse in a …",
+   "image": "https://i.brecorder.com/large/2024/06/26170040901852f.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Flight to safety, rising oil put Indian rupee’s recovery to the test",
+   "url": "https://www.brecorder.com/news/40445586/flight-to-safety-rising-oil-put-indian-rupees-recovery-to-the-test",
+   "source": "Business Recorder",
+   "published": "2026-10-23T03:09:01+00:00",
+   "summary": "MUMBAI: The Indian rupee’s recent recovery is likely to face headwinds on Friday from a flight to safety that’s weighing ​on risk-sensitive currencies and rising oil prices which threaten to ‌spur increased hedging by importers. The Indian rupee is expected to open at 94.84-94.88 per dollar, according to traders, after…",
+   "image": "https://i.brecorder.com/large/2026/10/23080656020d884.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen shines as AI jitters spur safe-haven rush",
+   "url": "https://www.brecorder.com/news/40445579/yen-shines-as-ai-jitters-spur-safe-haven-rush",
+   "source": "Business Recorder",
+   "published": "2026-10-23T02:39:04+00:00",
+   "summary": "SHANGHAI/SINGAPORE: The Japanese yen hit its strongest level in more than a month on Friday , buoyed by safe-haven flows due to a fresh ​bout of risk aversion that also sent US Treasury yields sharply lower, pushing the dollar to a nearly three-week ‌trough. The moves in the currency markets were driven by doubts over …",
+   "image": "https://i.brecorder.com/large/2026/10/23073450f52f72a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+   "url": "https://www.brecorder.com/news/40445578/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia",
+   "source": "Business Recorder",
+   "published": "2026-10-23T02:33:58+00:00",
+   "summary": "Oil prices were little changed in early Asian trade on Friday , after rising 4% to a five-month high in the previous session due ​to concern of further energy supply disruption after Houthi attacks ‌on top exporter Saudi Arabia. Brent crude futures was down 21 cents, or 0.2%, at $112.96 a barrel as of 0030 GMT, while U…",
+   "image": "https://i.brecorder.com/large/2026/10/23072809d59ffd8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IMF sees weak external position",
+   "url": "https://tribune.com.pk/story/2636387/imf-sees-weak-external-position",
+   "source": "The Express Tribune",
+   "published": "2026-10-22T16:06:34+00:00",
+   "summary": "Estimates financing needs at 22-25% of GDP, CAD at $4.5b against official $2.5b",
+   "image": null,
    "topics": [
     "Budget & spending",
     "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SBP reserves rise $19m to $21.5b",
+   "url": "https://tribune.com.pk/story/2636388/sbp-reserves-rise-19m-to-215b",
+   "source": "The Express Tribune",
+   "published": "2026-10-22T16:06:34+00:00",
+   "summary": "Total stands at $26.8b; gold falls as global prices hit 2-month low",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX falls below 164,000 on oil fears",
+   "url": "https://tribune.com.pk/story/2636396/psx-falls-below-164000-on-oil-fears",
+   "source": "The Express Tribune",
+   "published": "2026-10-22T16:06:34+00:00",
+   "summary": "KSE-100 index sheds over 2,000 points amid geopolitical jitters",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -351,19 +454,6 @@
    "published": "2026-10-22T12:43:02+00:00",
    "summary": "Indian rice export prices rose further this week to their highest level in more than a year, supported by a stronger rupee and modest demand amid tight supplies. India’s 5% broken parboiled variety was quoted at $387-$392 per ton this week, up from last week’s $384-$389. Indian 5% broken white rice was priced at $389 t…",
    "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 down over 2,000 points amid escalating ME conflict",
-   "url": "https://www.brecorder.com/news/40445417/psx-kse-100-down-over-2000-points-amid-escalating-me-conflict",
-   "source": "Business Recorder",
-   "published": "2026-10-22T12:30:41+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) observed selling pressure amid concerns over a broader escalation of conflict in the Middle East, with the benchmark KSE-100 Index losing over 2,000 points during trading on Thursday. The benchmark index hit an intra-day high of 166,180.32 in early trade but came under sustained sellin…",
-   "image": "https://i.brecorder.com/large/2026/03/13033704ac8b2df.webp",
    "topics": [
     "Economy"
    ],
@@ -449,164 +539,6 @@
    "domestic": false
   },
   {
-   "title": "South African rand pressured by rising oil prices as investors weigh budget review",
-   "url": "https://www.brecorder.com/news/40445441/south-african-rand-pressured-by-rising-oil-prices-as-investors-weigh-budget-review",
-   "source": "Business Recorder",
-   "published": "2026-10-22T08:03:10+00:00",
-   "summary": "JOHANNESBURG: The South African rand weakened in early trade on Thursday, pressured by rising oil prices as investors continued to assess the government’s mid-year budget review, which included two months of temporary fuel tax relief. At 0649 GMT the rand traded at 16.45 against the dollar , roughly down 0.5% from its …",
-   "image": "https://i.brecorder.com/large/2026/10/091404363805798.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Audi gets new China leadership to face bruising competition",
-   "url": "https://www.brecorder.com/news/40445440/audi-gets-new-china-leadership-to-face-bruising-competition",
-   "source": "Business Recorder",
-   "published": "2026-10-22T08:01:32+00:00",
-   "summary": "BERLIN: Volkswagen’s premium subsidiary Audi announced a shake-up in its China leadership on Thursday amid tough competition and falling sales in the world’s largest auto market. Jeff Zhang, who most recently served as vice president and CEO of Chinese auto group Chery, will take on the role of Audi China president on …",
-   "image": "https://i.brecorder.com/large/2026/07/24104530c150a49.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "New Zealand dollar steady as inflation miss leaves hawks unruffled",
-   "url": "https://www.brecorder.com/news/40445429/new-zealand-dollar-steady-as-inflation-miss-leaves-hawks-unruffled",
-   "source": "Business Recorder",
-   "published": "2026-10-22T07:01:52+00:00",
-   "summary": "SYDNEY: The New Zealand dollar held its ground on Thursday as inflation data came in a shade under forecasts, but not enough to shake expectations for a rate hike next week, while the Australian dollar hovered near three-week highs. The figures showed consumer prices rose 0.7% in the third quarter, nudging the annual p…",
-   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026",
-   "url": "https://www.brecorder.com/news/40445426/imf-sees-13-contraction-in-middle-east-north-africa-and-pakistan-in-2026",
-   "source": "Business Recorder",
-   "published": "2026-10-22T06:57:46+00:00",
-   "summary": "DUBAI: The IMF on Thursday forecast a sharp drop in economic output in the Middle East, North Africa and Pakistan this year due to the ​US-Israeli-led war against Iran, followed by a rebound to 6.6% growth in ‌2027, while warning that further energy production disruptions could worsen the outlook. The International Mon…",
-   "image": "https://i.brecorder.com/large/2026/10/22115440af6a235.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India bond selloff to continue as RBI policy minutes hint at more rate hikes",
-   "url": "https://www.brecorder.com/news/40445425/india-bond-selloff-to-continue-as-rbi-policy-minutes-hint-at-more-rate-hikes",
-   "source": "Business Recorder",
-   "published": "2026-10-22T06:53:54+00:00",
-   "summary": "MUMBAI: Indian government bonds are likely to weaken further in early deals on Thursday, after minutes of the latest monetary policy meeting showed that members of the rate-setting panel indicated further rate hikes may be needed to curb inflation. The benchmark 6.94% 2036 bond yield may trade between 7.40% and 7.47%, …",
-   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Crude palm oil prices to stay above $1,128 per ton in November, MPOC says",
-   "url": "https://www.brecorder.com/news/40445423/crude-palm-oil-prices-to-stay-above-1128-per-ton-in-november-mpoc-says",
-   "source": "Business Recorder",
-   "published": "2026-10-22T06:21:38+00:00",
-   "summary": "KUALA LUMPUR: Crude palm oil prices are expected to stay above 4,600 ringgit ($1,128) per metric ton in November on stronger export demand, sustained biodiesel consumption and a seasonal decline in production, the Malaysian Palm Oil Council said on Thursday. Output declines were expected to reduce current stock levels,…",
-   "image": "https://i.brecorder.com/large/2026/09/221615240c18c90.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
-   "url": "https://www.brecorder.com/news/40445422/gold-drops-over-1-as-oil-rally-reinforces-higher-for-longer-rate-outlook",
-   "source": "Business Recorder",
-   "published": "2026-10-22T06:17:02+00:00",
-   "summary": "Gold fell more than 1% on Thursday as rising oil prices stoked inflation concerns and reinforced expectations that interest rates could stay higher for longer, while investors awaited next week’s Federal Reserve meeting for clues on the policy outlook. Spot gold slid 1.1% to $4,094.90 per ounce by 0333 GMT, hitting its…",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF forecasts 1.3% contraction in Pakistan, 6.6% growth in 2027",
-   "url": "https://tribune.com.pk/story/2636297/imf-forecasts-13-contraction-in-pakistan-66-growth-in-2027",
-   "source": "The Express Tribune",
-   "published": "2026-10-22T03:46:01+00:00",
-   "summary": "Says outlook remains ​clouded by 'exceptionally high uncertainty'",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX plunges over 2,000 points as selling pressure mounts",
-   "url": "https://tribune.com.pk/story/2636295/psx-plunges-over-1400-points-as-selling-pressure-mounts",
-   "source": "The Express Tribune",
-   "published": "2026-10-22T03:36:22+00:00",
-   "summary": "Benchmark KSE-100 Index closes at 163,924.32 points",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt mulls $2b LNG import decision",
-   "url": "https://tribune.com.pk/story/2636186/govt-mulls-2b-lng-import-decision",
-   "source": "The Express Tribune",
-   "published": "2026-10-21T15:18:28+00:00",
-   "summary": "Ministry warns of supply cuts, unrest; CCOE yet to take up 22-cargo summary",
-   "image": null,
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil-driven inflation fears keep gold subdued",
-   "url": "https://tribune.com.pk/story/2636188/oil-driven-inflation-fears-keep-gold-subdued",
-   "source": "The Express Tribune",
-   "published": "2026-10-21T15:18:28+00:00",
-   "summary": "Safe-haven asset falls Rs900/tola despite global uptick; rupee edges up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls as market awaits breakout",
-   "url": "https://tribune.com.pk/story/2635993/gold-falls-as-market-awaits-breakout",
-   "source": "The Express Tribune",
-   "published": "2026-10-20T16:38:07+00:00",
-   "summary": "Slips Rs3,600/tola over US rate outlook; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -680,20 +612,6 @@
    "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan plans to import 18 LNG cargoes for winter gas demand",
-   "url": "https://arynews.tv/pakistan-plans-to-import-18-lng-cargoes-for-winter-gas-demand",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan plans to import 18 LNG cargoes for winter gas demand",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG.jpg",
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
