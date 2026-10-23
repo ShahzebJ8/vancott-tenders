@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-22T22:39:25+00:00",
- "count": 49,
- "relevant_count": 16,
- "domestic_count": 16,
+ "generated": "2026-10-23T01:13:59+00:00",
+ "count": 52,
+ "relevant_count": 22,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (16)",
@@ -11,16 +11,97 @@
  },
  "stories": [
   {
-   "title": "SBP-held forex reserves rise by $19mn to $21.49bn",
-   "url": "https://www.brecorder.com/news/40445473/sbp-held-forex-reserves-rise-by-19mn-to-2149bn",
+   "title": "FBL earns Rs15.2bn PAT in nine months",
+   "url": "https://www.brecorder.com/news/40445490/fbl-earns-rs152bn-pat-in-nine-months",
    "source": "Business Recorder",
-   "published": "2026-10-22T15:21:58+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) rose by $19 million on a weekly basis to $21.49 billion as of October 16, 2026, the central bank said on Thursday. According to data released by the SBP, the country’s total liquid foreign reserves stood at $26.83 billion. Net foreign reserves held by c…",
-   "image": "https://i.brecorder.com/large/2026/10/222021516f4254e.jpg",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "KARACHI: Faysal Bank Limited (FBL) delivered a resilient performance for the nine months ended September 30, 2026, posting Profit Before Tax of Rs 31.3 billion and Profit After Tax of Rs 15.2 billion, translating into earnings per share of Rs 10. The Board has declared a third-quarter cash dividend of Rs 1.5 per share …",
+   "image": "https://i.brecorder.com/large/2023/01/241637138a6e996.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "President visits ‘Saudi-Pak Real Estate Expo’ in Lahore",
+   "url": "https://www.brecorder.com/news/40445495/president-visits-saudi-pak-real-estate-expo-in-lahore",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "LAHORE: President Asif Ali Zardari visited the Saudi Pakistan Real Estate Expo (SPREX) at Lake City, Lahore, underscoring the importance of strengthening economic cooperation and promoting investment between Pakistan and Saudi Arabia. Upon arrival, the President was received by Governor of Punjab Sardar Saleem Haider K…",
+   "image": "https://i.brecorder.com/large/2024/04/18094623403e78a.gif",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Nepra faces dilemma over PQEPCL’s coal procurement extension",
+   "url": "https://www.brecorder.com/news/40445553/nepra-faces-dilemma-over-pqepcls-coal-procurement-extension",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "ISLAMABAD: National Electric Power Regulatory Authority (Nepra) is reportedly facing a difficult situation over coal procurement by Port Qasim Electric Power Company (PQEPCL), as the power producer is seeking a further extension in its interim procurement arrangement despite the availability of more competitive offers …",
+   "image": "https://i.brecorder.com/large/2022/09/633628d196e58.jpg",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM’s review: MoC to beef up exporters’ proposals",
+   "url": "https://www.brecorder.com/news/40445557/pms-review-moc-to-beef-up-exporters-proposals",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "ISLAMABAD: The Ministry of Commerce will consolidate exporters’ proposals on energy costs, taxation, regulatory charges and market access into a comprehensive presentation for consideration by the Prime Minister, as the government steps up efforts to address constraints hampering Pakistan’s export competitiveness. The …",
+   "image": "https://i.brecorder.com/large/2024/12/6753a8e07e852.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Airports, banks & insurance cos in the basket: PC working on sell-off of 17 SoEs, including 9 DISCOs",
+   "url": "https://www.brecorder.com/news/40445560/airports-banks-amp-insurance-cos-in-the-basket-pc-working-on-sell-off-of-17-soes-including-9-discos",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "ISLAMABAD: The Privatisation Commission is working on the privatisation of 17 state-owned enterprises, including nine power distribution companies, as well as the outsourcing three major airports and transactions involving banks and insurance companies. Advisor to the Prime Minister on Privatisation and Chairman of the…",
+   "image": "https://i.brecorder.com/large/2026/05/15031455141bf60.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sales Tax Rules, 2006 amended: FBR rolls out framework for e-auctions of seized goods",
+   "url": "https://www.brecorder.com/news/40445562/sales-tax-rules-2006-amended-fbr-rolls-out-framework-for-e-auctions-of-seized-goods",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has introduced a framework for electronic auctions of seized and confiscated goods through amendments to the Sales Tax Rules, 2006, to formalize the disposal process through an online bidding mechanism. The FBR has issued an SRO 1889(I)/2026 to notify “Electronic Auction (E…",
+   "image": "https://i.brecorder.com/large/2020/09/5f52b8c8575a3.jpg",
+   "topics": [
+    "Budget & spending",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ME conflict: IMF warns of financial stability risks",
+   "url": "https://www.brecorder.com/news/40445564/me-conflict-imf-warns-of-financial-stability-risks",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has warned that Pakistan faces renewed inflationary and financial stability risks from the prolonged Middle East conflict, with rising food and energy prices, higher borrowing costs and mounting external financing pressures threatening macroeconomic stability and potenti…",
+   "image": "https://i.brecorder.com/large/2026/03/3001090853c796b.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -30,32 +111,6 @@
    "published": "2026-10-22T14:36:30+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.85, a gain of Re0.01 against the greenback. On Wednesday , the Pakistani had rupee settled at 276.86 against the dollar. Internationally, a downdraft in the US dollar took a p…",
    "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan’s Interloop to invest $55mn in dairy-processing plant",
-   "url": "https://www.brecorder.com/news/40445449/pakistans-interloop-to-invest-55mn-in-dairy-processing-plant",
-   "source": "Business Recorder",
-   "published": "2026-10-22T10:15:35+00:00",
-   "summary": "Interloop Holdings, a prominent investment and diversified holding company based in Faisalabad, plans to invest $55 million in a new dairy-processing plant in Faisalabad, Punjab, in partnership with Türkiye’s Rella Gıda, aiming to expand value-added production and support exports, the company’s chairman said on Thursda…",
-   "image": "https://i.brecorder.com/large/2026/10/221514178293882.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "OGDCL initiates hydrocarbon production at Khairpur’s exploratory well",
-   "url": "https://www.brecorder.com/news/40445447/ogdcl-initiates-hydrocarbon-production-at-khairpurs-exploratory-well",
-   "source": "Business Recorder",
-   "published": "2026-10-22T09:32:55+00:00",
-   "summary": "Oil & Gas Development Company Ltd (OGDCL), one of Pakistan’s largest E&P companies, has commenced gas and condensate production from the Bitrism East-1 exploration well in Khairpur, Sindh. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Thursday. The company said the wel…",
-   "image": "https://i.brecorder.com/large/2026/06/230946545b91111.webp",
    "topics": [
     "Economy"
    ],
@@ -223,14 +278,54 @@
    "domestic": true
   },
   {
-   "title": "HBL posts 9M’26 profit before tax of Rs115bn",
-   "url": "https://www.brecorder.com/news/40445471/hbl-posts-9m26-profit-before-tax-of-rs115bn",
+   "title": "Will the policy rate stay put?",
+   "url": "https://www.brecorder.com/news/40445520/will-the-policy-rate-stay-put",
    "source": "Business Recorder",
-   "published": "2026-10-22T13:54:40+00:00",
-   "summary": "HBL on Thursday declared a record quarterly profit before tax of Rs41.9 billion for the third quarter of 2026. The Bank’s total profit before tax for nine months ended September 30, 2026, increased to Rs 115 billion while the profit after tax rose to Rs54.1 billion. EPS for 9M’26 increased to Rs36.84. Along with the re…",
-   "image": "https://i.brecorder.com/large/2026/10/221854292de8b01.webp",
+   "published": "2026-10-23T00:55:11+00:00",
+   "summary": "EDITORIAL: The Monetary Policy Committee meeting to review the 11.5 percent policy rate is scheduled for 26 October and there are serious concerns that the rate may be raised as inflation remains in double digits due largely to the rise in the international prices of petroleum and products as the Middle East conflict w…",
+   "image": "https://i.brecorder.com/large/2026/04/2906134955ea4b6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Hinopak Motors Limited",
+   "url": "https://www.brecorder.com/news/40445486/hinopak-motors-limited",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "Hinopak Motors Limited (PSX: HINO) was incorporated as a public limited company in Pakistan in 1986. The company is engaged in the assembly, progressive manufacturing and sale of Hino buses and trucks as well as sale of its spare parts and accessories. HINO is the subsidiary of Hino Motors Limited Japan. The ultimate p…",
+   "image": "https://i.brecorder.com/large/2024/07/220816563211c5b.jpg",
    "topics": [
     "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices hit five-month high",
+   "url": "https://www.brecorder.com/news/40445552/oil-prices-hit-five-month-high",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "NEW YORK: Oil prices climbed about 4 percent to a five-month high on Thursday after Houthi attacks in Saudi Arabia stoked concerns of further disruption to energy supplies from the key exporting region. Brent futures rose USD4.35, or 4.0 percent, to settle at USD113.17 a barrel, while US West Texas Intermediate crude r…",
+   "image": "https://i.brecorder.com/large/2024/08/19074912e6c8fcd.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan GDP to contract 1.3pc in 2026: IMF",
+   "url": "https://www.brecorder.com/news/40445556/pakistan-gdp-to-contract-13pc-in-2026-imf",
+   "source": "Business Recorder",
+   "published": "2026-10-23T00:47:19+00:00",
+   "summary": "DUBAI: The IMF on Thursday forecast a sharp drop in economic output in the Middle East, North Africa and Pakistan this year due to the Iran war, followed by 6.6 percent growth in 2027, though it warned that further energy production disruptions could worsen the outlook. The International Monetary Fund said the region’s…",
+   "image": "https://i.brecorder.com/large/2026/10/2304364282e866f.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
@@ -247,19 +342,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Aramco tells staff to evacuate Dhahran as clashes with Yemen's Houthis continue",
-   "url": "https://www.brecorder.com/news/40445466/saudi-aramco-tells-staff-to-evacuate-dhahran-as-clashes-with-yemens-houthis-continue",
-   "source": "Business Recorder",
-   "published": "2026-10-22T12:55:37+00:00",
-   "summary": "Saudi state oil company Aramco has told staff to evacuate its headquarters in Dhahran on the Gulf, six people with knowledge of the matter told Reuters on Thursday, as fighting between the world’s largest crude exporter and Yemen’s Houthis intensifies. Clashes between the Houthis and Yemen’s government have raged since…",
-   "image": "https://i.brecorder.com/large/2023/11/65514e961ab59.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -286,33 +368,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's JSW Paints eyes 4, 5-year debt to refinance acquisition-led funding, bankers say",
-   "url": "https://www.brecorder.com/news/40445462/indias-jsw-paints-eyes-4-5-year-debt-to-refinance-acquisition-led-funding-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-10-22T12:27:30+00:00",
-   "summary": "MUMBAI: India’s JSW Paints is likely to raise funds through issuance of bonds maturing in four years and five years and should go ahead with the sale in the next couple of weeks, two merchant bankers with direct knowledge of the matter said on Thursday. The company could look to raise around 30 billion rupees ($316.56 …",
-   "image": "https://i.brecorder.com/large/2026/10/221726410ed2241.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF, OECD warn AI could widen rich-poor country divide",
-   "url": "https://www.brecorder.com/news/40445460/imf-oecd-warn-ai-could-widen-rich-poor-country-divide",
-   "source": "Business Recorder",
-   "published": "2026-10-22T12:20:14+00:00",
-   "summary": "Artificial intelligence could boost global growth, but poorer countries, smaller companies and younger workers risk missing out unless access to power, digital infrastructure and skills improves, according to officials from the IMF and OECD. The warning comes as massive investment in chips and AI infrastructure has hel…",
-   "image": "https://i.brecorder.com/large/2026/10/22171822650018c.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -348,19 +403,6 @@
    "published": "2026-10-22T11:50:56+00:00",
    "summary": "Copper inventories in London Metal Exchange warehouses in the US have swelled to their highest in 12-1/2 years as metal continues to accumulate in the country ahead of possible import tariffs from the start of next year. Stocks in US LME warehouses — mostly in New Orleans and Baltimore — now stand at 169,475 metric ton…",
    "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sun Pharma misses debt fundraise goal as investors demand higher yields, bankers say",
-   "url": "https://www.brecorder.com/news/40445454/sun-pharma-misses-debt-fundraise-goal-as-investors-demand-higher-yields-bankers-say",
-   "source": "Business Recorder",
-   "published": "2026-10-22T11:43:44+00:00",
-   "summary": "MUMBAI: India’s Sun Pharmaceutical Industries fell short of its targeted debt fundraise as investors continued to demand higher yields, three merchant bankers said on Thursday. The country’s largest drugmaker by market capitalization raised only 78.16 billion rupees ($823.65 million) through the sale of two sets of ove…",
-   "image": "https://i.brecorder.com/large/2026/04/27103612294fe19.webp",
    "topics": [
     "Economy"
    ],
