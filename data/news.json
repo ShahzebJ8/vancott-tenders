@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-23T11:58:57+00:00",
+ "generated": "2026-10-23T16:24:40+00:00",
  "count": 45,
  "relevant_count": 15,
  "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
@@ -14,9 +14,22 @@
    "title": "Pakistan rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40445625/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-23T11:31:38+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 276.82, a gain of Re0.03 against the greenback. On Thursday , the Pakistani had rupee settled at 276.85 against the dollar. Internationally, the Japanese yen hit…",
+   "published": "2026-10-23T15:33:31+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 276.82, a gain of Re0.03 against the greenback. On Thursday , the rupee had rupee settled at 276.85 against the dollar. Internationally, the Japanese yen hit its…",
    "image": "https://i.brecorder.com/large/2026/10/141615309eb28d9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rising flour prices fuel weekly inflation",
+   "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+   "source": "Dawn",
+   "published": "2026-10-23T14:50:07+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 11.85 per cent year-on-year in the week ending October 22, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, which comprises 51 items whose prices are collected from 50 markets in 17 cities, …",
+   "image": "https://i.dawn.com/large/2021/10/6177651443834.png",
    "topics": [
     "Economy"
    ],
@@ -236,29 +249,42 @@
    "domestic": true
   },
   {
-   "title": "PM warns against resistance to FBR reforms",
-   "url": "https://www.dawn.com/news/2038414/pm-warns-against-resistance-to-fbr-reforms",
-   "source": "Dawn",
-   "published": "2026-10-20T01:57:42+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday warned tax officers that resistance to the ongoing reforms in the Federal Board of Revenue (FBR) would not be tolerated, directing the authorities to implement proposed measures to minimise the country’s tax gap. The prime minister’s warning came during a weekly briefi…",
-   "image": "https://i.dawn.com/large/2026/04/03220037422be92.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "PSX: selling continues, KSE-100 down nearly 1%",
    "url": "https://www.brecorder.com/news/40445590/psx-selling-continues-kse-100-down-nearly-1",
    "source": "Business Recorder",
-   "published": "2026-10-23T11:58:52+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as fighting intensified between the world’s largest crude exporter and Yemen-based Houthis, with the benchmark KSE-100 Index dropping nearly 1% on Friday. The market remained under pressure throughout much of the session. The index opened near the upper en…",
+   "published": "2026-10-23T13:41:32+00:00",
+   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as fighting intensified between Saudi Arabia and Yemen-based Houthis, with the benchmark KSE-100 Index dropping nearly 1% on Friday. The market remained under pressure throughout much of the session. The index opened near the upper end of its daily range, …",
    "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE shares extend losses on regional conflict fears",
+   "url": "https://www.brecorder.com/news/40445636/uae-shares-extend-losses-on-regional-conflict-fears",
+   "source": "Business Recorder",
+   "published": "2026-10-23T13:17:28+00:00",
+   "summary": "Stock markets in the United Arab Emirates fell on Friday, with Dubai leading the decline driven by losses in financial and real estate shares as Houthi strikes in Saudi heightened fears of a wider regional conflict. Saudi Aramco has told staff to evacuate its Dhahran headquarters and work remotely, six people with know…",
+   "image": "https://i.brecorder.com/large/2026/10/23181714badcb2f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM sets indicative wheat price at Rs4,500 per maund for 2027",
+   "url": "https://www.dawn.com/news/2039263/pm-sets-indicative-wheat-price-at-rs4500-per-maund-for-2027",
+   "source": "Dawn",
+   "published": "2026-10-23T12:50:38+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Friday set the illustrative price for wheat at Rs4,500 per maund for 2027, raising the procurement price set last year by Rs1,000. “In view of the increase in production costs, the price had been raised by Rs1,000 per maund compared to last year,” a statement by the PM’s Office (PMO) sa…",
+   "image": "https://i.dawn.com/large/2024/05/664ab3a3c0056.jpg",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -311,19 +337,6 @@
     "Procurement"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "NBP chief to get Rs9.5mn monthly salary, Rs30mn life insurance, two cars",
-   "url": "https://www.brecorder.com/news/40445612/nbp-chief-to-get-rs95mn-monthly-salary-rs30mn-life-insurance-two-cars",
-   "source": "Business Recorder",
-   "published": "2026-10-23T07:18:09+00:00",
-   "summary": "The shareholders of National Bank of Pakistan (NBP) have approved a compensation package for President and Chief Executive Officer (CEO) Imran Sarwar, effective from the date he assumed office on September 9, 2026. The listed bank informed in a regulatory filing at the Pakistan Stock Exchange (PSX) on Friday. The packa…",
-   "image": "https://i.brecorder.com/large/2026/10/2312162484487c2.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -418,11 +431,11 @@
    "domestic": false
   },
   {
-   "title": "PSX slides more than 1,330 points amid Saudi Arabia-Houthi conflict",
+   "title": "PSX slides over 1,500 points as geopolitical tensions rattle investors",
    "url": "https://tribune.com.pk/story/2636488/psx-slides-more-than-1330-points-amid-saudi-arabia-houthi-conflict",
    "source": "The Express Tribune",
    "published": "2026-10-23T03:29:56+00:00",
-   "summary": "KSE-100 hits 162,589 by Friday prayers as Brent trades near multi-month highs",
+   "summary": "KSE-100 settles at 162,374.88 points with banking, energy, and other sectors contributing to the decline",
    "image": null,
    "topics": [
     "Economy"
@@ -511,19 +524,6 @@
    "domestic": false
   },
   {
-   "title": "Asia rice: Indian prices hit more than one-year high on strong rupee, tight supply",
-   "url": "https://www.brecorder.com/news/40445465/asia-rice-indian-prices-hit-more-than-one-year-high-on-strong-rupee-tight-supply",
-   "source": "Business Recorder",
-   "published": "2026-10-22T12:43:02+00:00",
-   "summary": "Indian rice export prices rose further this week to their highest level in more than a year, supported by a stronger rupee and modest demand amid tight supplies. India’s 5% broken parboiled variety was quoted at $387-$392 per ton this week, up from last week’s $384-$389. Indian 5% broken white rice was priced at $389 t…",
-   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -547,6 +547,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close lower as KSE-100 index falls over 1,500 points",
+   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-falls-over-1500-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close lower as KSE-100 index falls over 1,500 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -583,19 +596,6 @@
    "published": null,
    "summary": "PSX: Stocks rise as KSE-100 gains over 700 Points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-39.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
-   "url": "https://arynews.tv/livestock-sector-records-43pc-increase-in-animal-exports-dr-naila",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Livestock sector records 43pc increase in animal exports: Dr.Naila",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Live-stock.jpg",
    "topics": [
     "Economy"
    ],
