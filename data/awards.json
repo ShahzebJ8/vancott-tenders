@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T16:24:34+00:00",
+ "generated": "2026-10-23T20:05:18+00:00",
  "count": 889,
  "with_value": 853,
  "with_winner": 292,
@@ -16914,6 +16914,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004537",
+   "tender_no": "TS0000013061E",
+   "reference": "Premium-Catering",
+   "title": "PRE-QUALIFICATION FOR PROVISION OF PREMIUM CATERING SERVICES FOR THE PAKISTAN CRICKET BOARD (PCB) FROM SEPTEMBER 2026 TO AUGUST 2029 Miscellaneous",
+   "organisation": "Pakistan Cricket Board Procurement Department Pakistan Cricket Board (PCB) Lahore - Pakistan",
+   "bid_count": 12,
+   "lowest": [
+    "10 Pakistan Cricket Board"
+   ],
+   "sector": null,
+   "evaluation_type": "PQ Evaluation",
+   "advertised": "2026-10-23",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004537",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004536",
    "tender_no": "TS0000015497E",
@@ -55981,27 +56001,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002441",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002440",
-   "tender_no": "TS0000003495E",
-   "reference": "LE-010/26",
-   "title": "Gas Service Tees 3/4\" & 1\" Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Lahore - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Qadir Engineering, Lahore (for item no. 01)",
-    "Osaka Steel, Lahore (for item No. 02)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-07-31",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002440",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

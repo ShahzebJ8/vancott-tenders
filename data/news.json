@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-23T16:24:40+00:00",
+ "generated": "2026-10-23T20:05:23+00:00",
  "count": 45,
- "relevant_count": 15,
- "domestic_count": 18,
+ "relevant_count": 14,
+ "domestic_count": 17,
  "sources": {
-  "Dawn": "ok (16)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Govt approves Karachi Industrial Park as federal special economic zone",
+   "url": "https://www.brecorder.com/news/40445649/govt-approves-karachi-industrial-park-as-federal-special-economic-zone",
+   "source": "Business Recorder",
+   "published": "2026-10-23T17:48:33+00:00",
+   "summary": "The government has approved Karachi Industrial Park (KIP) as a federal Special Economic Zone (SEZ), aiming to attract export-oriented investment, promote technology transfer and generate employment. The approval was granted at the 11th meeting of the Board of Approvals (BOA) for SEZs, chaired by Finance Minister Muhamm…",
+   "image": "https://i.brecorder.com/large/2026/10/23224704e7863e3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40445625/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -47,19 +60,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan deploys 1,782 5G sites in 24 cities",
-   "url": "https://www.brecorder.com/news/40445616/pakistan-deploys-1782-5g-sites-in-24-cities",
-   "source": "Business Recorder",
-   "published": "2026-10-23T09:40:07+00:00",
-   "summary": "ISLAMABAD: Pakistan has deployed 1,782 5G sites across 24 cities, with Jazz accounting for more than half of the total infrastructure, while the cheapest locally available 5G-compatible handset costs around Rs36,000, highlighting the affordability challenge for wider adoption of next-generation mobile services. Accordi…",
-   "image": "https://i.brecorder.com/large/2026/07/1620512911db550.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -197,19 +197,6 @@
    "domestic": true
   },
   {
-   "title": "PSX extends losses for second session",
-   "url": "https://www.dawn.com/news/2038639/psx-extends-losses-for-second-session",
-   "source": "Dawn",
-   "published": "2026-10-21T02:47:49+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) remained under selling pressure for the second straight session on Tuesday, as elevated oil prices stemming from the ongoing Middle East conflict and political instability following the imposition of governor’s rule and emergency in Khyber Pakhtunkhwa continued to fuel uncert…",
-   "image": "https://i.dawn.com/large/2026/06/10081452687da5a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "BYD to rely on imports initially, Hubco says",
    "url": "https://www.dawn.com/news/2038641/byd-to-rely-on-imports-initially-hubco-says",
    "source": "Dawn",
@@ -247,6 +234,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Pakistan’s industrial policy - from ambition to competitiveness",
+   "url": "https://www.brecorder.com/news/40445647/pakistans-industrial-policy-from-ambition-to-competitiveness",
+   "source": "Business Recorder",
+   "published": "2026-10-23T17:05:50+00:00",
+   "summary": "The government’s National Industrial Policy (NIP) presents an important opportunity to strengthen Pakistan’s industrial base, increase exports and create a more competitive business environment. The real test, however, is not whether the country announces ambitious targets or provides relief to industry, but whether Pa…",
+   "image": "https://i.brecorder.com/large/2026/09/0722543426f1923.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PSX: selling continues, KSE-100 down nearly 1%",
