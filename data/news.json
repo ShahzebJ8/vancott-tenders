@@ -1,15 +1,41 @@
 {
- "generated": "2026-10-24T01:51:12+00:00",
- "count": 49,
- "relevant_count": 19,
- "domestic_count": 23,
+ "generated": "2026-10-24T06:53:30+00:00",
+ "count": 45,
+ "relevant_count": 16,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Karachi Industrial Park approved as federal Special Economic Zone",
+   "url": "https://www.dawn.com/news/2039346/karachi-industrial-park-approved-as-federal-special-economic-zone",
+   "source": "Dawn",
+   "published": "2026-10-24T02:42:25+00:00",
+   "summary": "ISLAMABAD: The federal government has approved Karachi Industrial Park (KIP) as a federal Special Economic Zone (SEZ) to attract export-oriented industrial investment, promote technology transfer and value addition, and generate employment. The decision was taken at the 11th meeting of the Board of Approvals for SEZs h…",
+   "image": "https://i.dawn.com/large/2026/10/24074123e15406e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Leghari warns Discos against arbitrary billing",
+   "url": "https://www.dawn.com/news/2039350/leghari-warns-discos-against-arbitrary-billing",
+   "source": "Dawn",
+   "published": "2026-10-24T01:19:32+00:00",
+   "summary": "ISLAMABAD: Energy Minister Sardar Awais Ahmad Khan Leghari has warned electricity distribution companies (Discos) against imposing excessive or unjustified detection bills, saying no arbitrary charges will be levied on consumers. Detection bills are issued by Discos to recover past dues estimated to be unpaid due to sl…",
+   "image": "https://i.dawn.com/large/2026/10/24073051633c6af.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Imported cell phones: FBR allows ST in instalments",
    "url": "https://www.brecorder.com/news/40445709/imported-cell-phones-fbr-allows-st-in-instalments",
@@ -74,45 +100,6 @@
    "topics": [
     "Construction & projects",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Weekly SPI inflation up 0.65pc",
-   "url": "https://www.brecorder.com/news/40445731/weekly-spi-inflation-up-065pc",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:33+00:00",
-   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on October 22, 2026 recorded an increase of 0.65 percent owing to an escalation in the prices of Liquefied Petroleum Gas (LPG), which hiked by 22.44 percent, chicken by 12.2 percent, and onions by 4.19 percent. The SPI data released here on Friday …",
-   "image": "https://i.brecorder.com/large/2026/01/24013406b34893d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "JI launches third phase of its ‘levy protest’",
-   "url": "https://www.brecorder.com/news/40445661/ji-launches-third-phase-of-its-levy-protest",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:32+00:00",
-   "summary": "KARACHI: Jamaat-i-Islami (JI) chief Hafiz Naeem-ur-Rehman on Friday announced the launch of the third phase of the party’s campaign against the petroleum levy, which he called an “extortion tax” with sit-ins and demonstrations at more than 150 locations across the country. “Our clear demand is the abolition of the petr…",
-   "image": "https://i.brecorder.com/large/2025/10/68e57832122cf.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "BankIslami reports Rs3.1bn PAT for nine months",
-   "url": "https://www.brecorder.com/news/40445662/bankislami-reports-rs31bn-pat-for-nine-months",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:32+00:00",
-   "summary": "KARACHI: BankIslami reported a profit after tax (PAT) of PKR 3.1 billion for the nine months ended September 30, 2026. The Bank’s total deposits reached PKR 630.7 billion, reflecting continued customer trust in its banking services. BankIslami’s current accounts have grown by 9.7 percent since December 2025, raising th…",
-   "image": "https://i.brecorder.com/large/2026/08/1015551424fbb1c.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -278,43 +265,44 @@
    "domestic": true
   },
   {
-   "title": "BYD to rely on imports initially, Hubco says",
-   "url": "https://www.dawn.com/news/2038641/byd-to-rely-on-imports-initially-hubco-says",
-   "source": "Dawn",
-   "published": "2026-10-21T02:45:59+00:00",
-   "summary": "KARACHI: Hub Power Company (Hubco) has said that BYD vehicle production will initially rely entirely on imported raw materials and components, with localisation increasing gradually over time. The long-term objective is to localise up to 80 per cent of the vehicle, which should improve cost competitiveness and reduce r…",
-   "image": "https://i.dawn.com/large/2026/01/27080408cdf9704.webp",
+   "title": "Mohmand Dam cost jumps 115%",
+   "url": "https://tribune.com.pk/story/2636615/mohmand-dam-cost-jumps-115",
+   "source": "The Express Tribune",
+   "published": "2026-10-23T15:43:59+00:00",
+   "summary": "CDWP defers decision as Wapda blames rupee devaluation for 51% of increase",
+   "image": null,
    "topics": [
+    "Construction & projects",
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "IMF urges Pakistan to move beyond fiscal targets",
-   "url": "https://www.dawn.com/news/2038645/imf-urges-pakistan-to-move-beyond-fiscal-targets",
-   "source": "Dawn",
-   "published": "2026-10-21T02:04:25+00:00",
-   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has called for Pakistan’s fiscal policy to go beyond achieving primary balance targets and protecting debt sustainability by reinforcing policy credibility, fostering economic recovery and creating space for public investment and social spending to support stronger long-…",
-   "image": "https://i.dawn.com/large/2026/01/12072304a3a31cc.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Draft auto policy sent to cabinet",
-   "url": "https://www.dawn.com/news/2038648/draft-auto-policy-sent-to-cabinet",
-   "source": "Dawn",
-   "published": "2026-10-21T02:04:25+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Tuesday approved the draft Auto Policy 2026-31, which aims to increase auto sector exports to $6 billion and boost local production, competitiveness and electric vehicle (EV) adoption. Although the Prime Minister’s Office did not issue an official statement, sources in the fe…",
-   "image": "https://i.dawn.com/large/2026/07/201100475e9fb19.webp",
+   "title": "'Auto policy puts 1.5m jobs at risk'",
+   "url": "https://tribune.com.pk/story/2636623/auto-policy-puts-15m-jobs-at-risk",
+   "source": "The Express Tribune",
+   "published": "2026-10-23T15:43:59+00:00",
+   "summary": "Parts makers challenge tariff cuts on imports, citing $1.8b import substitution",
+   "image": null,
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "PSX slides towards 162,000 amid ME war",
+   "url": "https://tribune.com.pk/story/2636620/psx-slides-towards-162000-amid-me-war",
+   "source": "The Express Tribune",
+   "published": "2026-10-23T15:43:59+00:00",
+   "summary": "KSE-100 index sheds 1,549 points as US-Iran tensions escalate",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PSX: selling continues, KSE-100 down nearly 1%",
@@ -486,19 +474,6 @@
    "domestic": false
   },
   {
-   "title": "PSX slides over 1,500 points as geopolitical tensions rattle investors",
-   "url": "https://tribune.com.pk/story/2636488/psx-slides-more-than-1330-points-amid-saudi-arabia-houthi-conflict",
-   "source": "The Express Tribune",
-   "published": "2026-10-23T03:29:56+00:00",
-   "summary": "KSE-100 settles at 162,374.88 points with banking, energy, and other sectors contributing to the decline",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Flight to safety, rising oil put Indian rupee’s recovery to the test",
    "url": "https://www.brecorder.com/news/40445586/flight-to-safety-rising-oil-put-indian-rupees-recovery-to-the-test",
    "source": "Business Recorder",
@@ -518,33 +493,6 @@
    "published": "2026-10-23T02:39:04+00:00",
    "summary": "SHANGHAI/SINGAPORE: The Japanese yen hit its strongest level in more than a month on Friday , buoyed by safe-haven flows due to a fresh ​bout of risk aversion that also sent US Treasury yields sharply lower, pushing the dollar to a nearly three-week ‌trough. The moves in the currency markets were driven by doubts over …",
    "image": "https://i.brecorder.com/large/2026/10/23073450f52f72a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF sees weak external position",
-   "url": "https://tribune.com.pk/story/2636387/imf-sees-weak-external-position",
-   "source": "The Express Tribune",
-   "published": "2026-10-22T16:06:34+00:00",
-   "summary": "Estimates financing needs at 22-25% of GDP, CAD at $4.5b against official $2.5b",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SBP reserves rise $19m to $21.5b",
-   "url": "https://tribune.com.pk/story/2636388/sbp-reserves-rise-19m-to-215b",
-   "source": "The Express Tribune",
-   "published": "2026-10-22T16:06:34+00:00",
-   "summary": "Total stands at $26.8b; gold falls as global prices hit 2-month low",
-   "image": null,
    "topics": [
     "Economy"
    ],
