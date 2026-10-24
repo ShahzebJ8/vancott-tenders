@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-24T06:53:30+00:00",
+ "generated": "2026-10-24T11:53:30+00:00",
  "count": 45,
  "relevant_count": 16,
- "domestic_count": 19,
+ "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Aurangzeb rules out consumption-led growth, says tariff reforms will continue",
+   "url": "https://www.dawn.com/news/2039483/aurangzeb-rules-out-consumption-led-growth-says-tariff-reforms-will-continue",
+   "source": "Dawn",
+   "published": "2026-10-24T11:48:58+00:00",
+   "summary": "Finance Minister Muhammad Aurangzeb has ruled out pursuing liquidity-fuelled, consumption-led economic growth, saying Pakistan must prioritise sustainable, export-led expansion and continue with tariff reforms to improve the competitiveness of its industries. Speaking at the Lahore University of Management Sciences (Lu…",
+   "image": "https://i.dawn.com/large/2026/10/24155852139959f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Karachi Industrial Park approved as federal Special Economic Zone",
    "url": "https://www.dawn.com/news/2039346/karachi-industrial-park-approved-as-federal-special-economic-zone",
@@ -73,33 +86,6 @@
    "image": "https://i.brecorder.com/large/2024/12/675a32c57aed4.jpg",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "LPG shortage worsens after supply issues",
-   "url": "https://www.brecorder.com/news/40445724/lpg-shortage-worsens-after-supply-issues",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:33+00:00",
-   "summary": "LAHORE: The shortage of liquefied petroleum gas (LPG) has worsened due to disturbed supplies from Iran, traders said. Pakistan imports about 7,000 metric tons of LPG a day from Iran, according to the Pakistan LPG Association. More than 4,000 tons a day enters through Gabd-Rimdan alone, said Shamsul Haq, former presiden…",
-   "image": "https://i.brecorder.com/large/2024/12/676378e4e4e0b.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Govt approves Karachi Industrial Park as federal SEZ",
-   "url": "https://www.brecorder.com/news/40445729/govt-approves-karachi-industrial-park-as-federal-sez",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:33+00:00",
-   "summary": "ISLAMABAD: The government has approved Karachi Industrial Park as a federal Special Economic Zone (SEZ) and endorsed a framework for government-funded utilities and allied infrastructure in privately established zones, seeking to attract export-oriented investment, reduce industrialisation costs and boost employment. T…",
-   "image": "https://i.brecorder.com/large/2026/10/24043036f5c850d.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
    ],
    "relevant": true,
    "domestic": true
@@ -548,6 +534,19 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Govt likely to introduce mini-budget for new auto policy tax measures",
+   "url": "https://arynews.tv/govt-likely-to-introduce-mini-budget-for-new-auto-policy-tax-measures",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Govt likely to introduce mini-budget for new auto policy tax measures",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Auto-policy.jpg",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
