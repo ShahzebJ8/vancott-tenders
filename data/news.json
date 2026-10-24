@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-24T21:06:34+00:00",
- "count": 42,
- "relevant_count": 15,
- "domestic_count": 15,
+ "generated": "2026-10-24T23:34:58+00:00",
+ "count": 50,
+ "relevant_count": 17,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
@@ -10,6 +10,85 @@
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Customs values for imported carpets revised",
+   "url": "https://www.brecorder.com/news/40445818/customs-values-for-imported-carpets-revised",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "ISLAMABAD: The Directorate General of Customs Valuation Karachi has revised customs values for imported nylon, polyester and polypropylene tufted and woven carpets, as well as needle-punch carpets and artificial turf, setting benchmark values of USD 2.45 per square metre for specified nylon tufted carpets and USD 1.95 …",
+   "image": "https://i.brecorder.com/large/2023/02/63f29427cffc7.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aurangzeb urges building growth on exports, productivity, private-sector investment",
+   "url": "https://www.brecorder.com/news/40445819/aurangzeb-urges-building-growth-on-exports-productivity-private-sector-investment",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "LAHORE: Pakistan must move beyond economic stabilisation and build growth on exports, productivity and private-sector investment if it is to avoid another cycle of crises, Finance Minister Senator Muhammad Aurangzeb said on Saturday. He warned that a return to consumption-led growth could set the recovery back by four …",
+   "image": "https://i.brecorder.com/large/2026/01/230137472c095ee.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "NTC imposes anti-dumping duty of 9.03pc on imports of pharmaceutical material",
+   "url": "https://www.brecorder.com/news/40445821/ntc-imposes-anti-dumping-duty-of-903pc-on-imports-of-pharmaceutical-material",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "ISLAMABAD: The National Tariff Commission (NTC) has imposed a provisional anti-dumping duty of 9.03 percent on imports of pharmaceutical packaging material, Alu Alu Foil, originating in or exported from China for four months, following a preliminary determination that dumped imports have caused material injury to the d…",
+   "image": "https://i.brecorder.com/large/2026/10/140159380faeffa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt plans shifting Discos’ tax burden to consumers",
+   "url": "https://www.brecorder.com/news/40445822/govt-plans-shifting-discos-tax-burden-to-consumers",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "ISLAMABAD: The treatment of income tax liabilities of electricity distribution companies (DISCOs) as a pass-through cost in consumer tariffs has emerged as a major concern for the industrial sector, with industry representatives questioning why electricity consumers should bear the tax burden of distribution companies …",
+   "image": "https://i.brecorder.com/large/2026/07/04021017091229f.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "WAPDA signs Rs133.18bn contract for Diamer-Basha Dam project",
+   "url": "https://www.brecorder.com/news/40445823/wapda-signs-rs13318bn-contract-for-diamer-basha-dam-project",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "LAHORE: The Water and Power Development Authority (WAPDA) has signed a Rs133.18 billion agreement with Power China-IKAN Joint Venture (JV) for the hydro-mechanical works under the Diamer-Basha Dam Project. The agreement for the HM-1 contract was signed at a ceremony held at WAPDA House. CE/PD Diamer-Basha Dam Arif Ali …",
+   "image": "https://i.brecorder.com/large/2026/01/12041956992299f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Customs values of imported stationery raw materials increased",
+   "url": "https://www.brecorder.com/news/40445839/customs-values-of-imported-stationery-raw-materials-increased",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "ISLAMABAD: Based on evidential data and international price increases, Directorate General of Customs Valuation Karachi has raised customs values on the import of 10 different types of raw materials used in stationery items from China and other origins. In this regard, the directorate has issued a valuation ruling numb…",
+   "image": "https://i.brecorder.com/large/2025/12/17011630d23be47.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Aurangzeb rules out consumption-led growth, says tariff reforms will continue",
    "url": "https://www.dawn.com/news/2039483/aurangzeb-rules-out-consumption-led-growth-says-tariff-reforms-will-continue",
@@ -210,6 +289,45 @@
    "domestic": true
   },
   {
+   "title": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
+   "url": "https://www.brecorder.com/news/40445825/3-saudi-airports-oil-facilities-pipeline-targeted-in-past-day-houthis",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "SANAA: Yemen’s Iran-backed Houthis on Saturday said they targeted a range of Saudi assets in the past 24 hours, listing three airports including capital Riyadh’s, two oil facilities, a pipeline and an air base. Military spokesman Yahya Saree said the group targeted “King Khalid International Airport in Riyadh, the capi…",
+   "image": "https://i.brecorder.com/large/2026/07/170511146e98110.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indonesia cuts gas exports to Singapore",
+   "url": "https://www.brecorder.com/news/40445828/indonesia-cuts-gas-exports-to-singapore",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:41+00:00",
+   "summary": "JAKARTA: Indonesia cut exports of natural gas to Singapore on Saturday to prioritise domestic demand, an official said, with the two countries at loggerheads over regional air pollution emanating from wildfires on the vast archipelago. The head of SKK Migas, a state agency supervising the oil and gas sector, told AFP t…",
+   "image": "https://i.brecorder.com/large/2026/04/01034953631472a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian central banker says policy working, but inflation outlook worse",
+   "url": "https://www.brecorder.com/news/40445770/australian-central-banker-says-policy-working-but-inflation-outlook-worse",
+   "source": "Business Recorder",
+   "published": "2026-10-24T21:25:40+00:00",
+   "summary": "SYDNEY: A top Australian central banker on Wednesday said tighter monetary policy was working to slow the economy but the inflation outlook had still worsened, leaving him unsure whether interest rates would need to rise further. Speaking at a Citi conference, Reserve Bank of Australia Deputy Governor Andrew Hauser sai…",
+   "image": "https://i.brecorder.com/large/2021/06/60caefb193a91.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure",
    "url": "https://www.dawn.com/news/2039505/in-berlin-meeting-siemens-affirms-support-for-strengthening-pakistans-healthcare-infrastructure",
    "source": "Dawn",
@@ -218,20 +336,6 @@
    "image": "https://i.dawn.com/large/2026/10/2500343956f234d.webp",
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Govt focused on export-led sustainable growth, private sector facilitation: finance minister",
-   "url": "https://www.brecorder.com/news/40445763/govt-focused-on-export-led-sustainable-growth-private-sector-facilitation-finance-minister",
-   "source": "Business Recorder",
-   "published": "2026-10-24T15:31:26+00:00",
-   "summary": "Federal Minister for Finance and Revenue Muhammad Aurangzeb said on Saturday structural reforms were under way to stabilise Pakistan’s economy, with the government focusing on export-led sustainable growth, improving the tax system, reducing energy costs, and encouraging the private sector. He said IT exports were expe…",
-   "image": "https://i.brecorder.com/large/2026/04/180557585ce6193.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
    ],
    "relevant": true,
    "domestic": false
