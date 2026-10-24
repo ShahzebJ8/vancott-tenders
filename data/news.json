@@ -1,21 +1,21 @@
 {
- "generated": "2026-10-24T11:53:30+00:00",
- "count": 45,
- "relevant_count": 16,
- "domestic_count": 18,
+ "generated": "2026-10-24T15:21:27+00:00",
+ "count": 42,
+ "relevant_count": 15,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (15)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (4)"
  },
  "stories": [
   {
    "title": "Aurangzeb rules out consumption-led growth, says tariff reforms will continue",
    "url": "https://www.dawn.com/news/2039483/aurangzeb-rules-out-consumption-led-growth-says-tariff-reforms-will-continue",
    "source": "Dawn",
-   "published": "2026-10-24T11:48:58+00:00",
-   "summary": "Finance Minister Muhammad Aurangzeb has ruled out pursuing liquidity-fuelled, consumption-led economic growth, saying Pakistan must prioritise sustainable, export-led expansion and continue with tariff reforms to improve the competitiveness of its industries. Speaking at the Lahore University of Management Sciences (Lu…",
+   "published": "2026-10-24T13:07:18+00:00",
+   "summary": "LAHORE: Finance Minister Muhammad Aurangzeb has ruled out pursuing liquidity-fuelled, consumption-led economic growth, saying Pakistan must prioritise sustainable, export-led expansion and continue with tariff reforms to improve the competitiveness of its industries. The finance minister was speaking at the Lahore Univ…",
    "image": "https://i.dawn.com/large/2026/10/24155852139959f.webp",
    "topics": [
     "Economy"
@@ -73,19 +73,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KTBA urges FBR to modify IRIS system",
-   "url": "https://www.brecorder.com/news/40445712/ktba-urges-fbr-to-modify-iris-system",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:33+00:00",
-   "summary": "ISLAMABAD: To facilitate overseas Pakistanis, the Karachi Tax Bar Association (KTBA) has urged the Federal Board of Revenue (FBR) to modify the IRIS system to allow individuals returning to Pakistan after a period of non-residence to enter their appropriate opening wealth balance for Tax Year 2026. In a letter to FBR M…",
-   "image": "https://i.brecorder.com/large/2024/12/675a32c57aed4.jpg",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -473,19 +460,6 @@
    "domestic": false
   },
   {
-   "title": "Yen shines as AI jitters spur safe-haven rush",
-   "url": "https://www.brecorder.com/news/40445579/yen-shines-as-ai-jitters-spur-safe-haven-rush",
-   "source": "Business Recorder",
-   "published": "2026-10-23T02:39:04+00:00",
-   "summary": "SHANGHAI/SINGAPORE: The Japanese yen hit its strongest level in more than a month on Friday , buoyed by safe-haven flows due to a fresh ​bout of risk aversion that also sent US Treasury yields sharply lower, pushing the dollar to a nearly three-week ‌trough. The moves in the currency markets were driven by doubts over …",
-   "image": "https://i.brecorder.com/large/2026/10/23073450f52f72a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX falls below 164,000 on oil fears",
    "url": "https://tribune.com.pk/story/2636396/psx-falls-below-164000-on-oil-fears",
    "source": "The Express Tribune",
@@ -586,19 +560,6 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG-1.jpg",
    "topics": [
     "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks rise as KSE-100 gains over 700 Points",
-   "url": "https://arynews.tv/psx-stocks-rise-as-kse-100-gains-over-700-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks rise as KSE-100 gains over 700 Points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/FotoJet-39.jpg",
-   "topics": [
     "Economy"
    ],
    "relevant": false,
