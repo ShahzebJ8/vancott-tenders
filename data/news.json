@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-24T15:21:27+00:00",
+ "generated": "2026-10-24T18:21:42+00:00",
  "count": 42,
  "relevant_count": 15,
- "domestic_count": 17,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (4)"
@@ -47,34 +47,6 @@
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Imported cell phones: FBR allows ST in instalments",
-   "url": "https://www.brecorder.com/news/40445709/imported-cell-phones-fbr-allows-st-in-instalments",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:33+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has allowed individuals to pay sales tax on imported mobile phone devices in monthly instalments for regularisation through the Device Identification Registration and Blocking System (DIRBS). In this regard, the FBR has issued a Customs General Order (CGO) No 06 of 2026 on …",
-   "image": "https://i.brecorder.com/large/2026/02/070111373918036.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Govt focusing on reforms in FBR, Senate told",
-   "url": "https://www.brecorder.com/news/40445710/govt-focusing-on-reforms-in-fbr-senate-told",
-   "source": "Business Recorder",
-   "published": "2026-10-24T00:32:33+00:00",
-   "summary": "ISLAMABAD: The abolition of Super Tax by the federal government is applicable on the exporters as well as those businesses whose annual income does not exceed 500 million rupees, and Prime Minister Shehbaz Sharif is “especially focusing” on reforms in the Federal Board of Revenue (FBR) and its attached departments, Pak…",
-   "image": "https://i.brecorder.com/large/2025/12/30004314daabf29.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -236,6 +208,33 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure",
+   "url": "https://www.dawn.com/news/2039505/in-berlin-meeting-siemens-affirms-support-for-strengthening-pakistans-healthcare-infrastructure",
+   "source": "Dawn",
+   "published": "2026-10-24T17:53:43+00:00",
+   "summary": "The executive vice president of technology giant Siemens on Saturday met with President Asif Ali Zardari in Berlin and expressed his readiness to enhance support for strengthening existing healthcare infrastructure in Pakistan, the Presidency said. The meeting took place on the third and final day of President Zardari’…",
+   "image": "https://i.dawn.com/large/2026/10/242017047c83783.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Govt focused on export-led sustainable growth, private sector facilitation: finance minister",
+   "url": "https://www.brecorder.com/news/40445763/govt-focused-on-export-led-sustainable-growth-private-sector-facilitation-finance-minister",
+   "source": "Business Recorder",
+   "published": "2026-10-24T15:31:26+00:00",
+   "summary": "Federal Minister for Finance and Revenue Muhammad Aurangzeb said on Saturday structural reforms were under way to stabilise Pakistan’s economy, with the government focusing on export-led sustainable growth, improving the tax system, reducing energy costs, and encouraging the private sector. He said IT exports were expe…",
+   "image": "https://i.brecorder.com/large/2026/04/180557585ce6193.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Mohmand Dam cost jumps 115%",
