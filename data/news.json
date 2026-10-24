@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-23T23:22:38+00:00",
- "count": 45,
- "relevant_count": 14,
- "domestic_count": 17,
+ "generated": "2026-10-24T01:51:12+00:00",
+ "count": 49,
+ "relevant_count": 19,
+ "domestic_count": 23,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
@@ -11,16 +11,110 @@
  },
  "stories": [
   {
-   "title": "Govt approves Karachi Industrial Park as federal special economic zone",
-   "url": "https://www.brecorder.com/news/40445649/govt-approves-karachi-industrial-park-as-federal-special-economic-zone",
+   "title": "Imported cell phones: FBR allows ST in instalments",
+   "url": "https://www.brecorder.com/news/40445709/imported-cell-phones-fbr-allows-st-in-instalments",
    "source": "Business Recorder",
-   "published": "2026-10-23T17:48:33+00:00",
-   "summary": "The government has approved Karachi Industrial Park (KIP) as a federal Special Economic Zone (SEZ), aiming to attract export-oriented investment, promote technology transfer and generate employment. The approval was granted at the 11th meeting of the Board of Approvals (BOA) for SEZs, chaired by Finance Minister Muhamm…",
-   "image": "https://i.brecorder.com/large/2026/10/23224704e7863e3.webp",
+   "published": "2026-10-24T00:32:33+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has allowed individuals to pay sales tax on imported mobile phone devices in monthly instalments for regularisation through the Device Identification Registration and Blocking System (DIRBS). In this regard, the FBR has issued a Customs General Order (CGO) No 06 of 2026 on …",
+   "image": "https://i.brecorder.com/large/2026/02/070111373918036.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt focusing on reforms in FBR, Senate told",
+   "url": "https://www.brecorder.com/news/40445710/govt-focusing-on-reforms-in-fbr-senate-told",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:33+00:00",
+   "summary": "ISLAMABAD: The abolition of Super Tax by the federal government is applicable on the exporters as well as those businesses whose annual income does not exceed 500 million rupees, and Prime Minister Shehbaz Sharif is “especially focusing” on reforms in the Federal Board of Revenue (FBR) and its attached departments, Pak…",
+   "image": "https://i.brecorder.com/large/2025/12/30004314daabf29.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KTBA urges FBR to modify IRIS system",
+   "url": "https://www.brecorder.com/news/40445712/ktba-urges-fbr-to-modify-iris-system",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:33+00:00",
+   "summary": "ISLAMABAD: To facilitate overseas Pakistanis, the Karachi Tax Bar Association (KTBA) has urged the Federal Board of Revenue (FBR) to modify the IRIS system to allow individuals returning to Pakistan after a period of non-residence to enter their appropriate opening wealth balance for Tax Year 2026. In a letter to FBR M…",
+   "image": "https://i.brecorder.com/large/2024/12/675a32c57aed4.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "LPG shortage worsens after supply issues",
+   "url": "https://www.brecorder.com/news/40445724/lpg-shortage-worsens-after-supply-issues",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:33+00:00",
+   "summary": "LAHORE: The shortage of liquefied petroleum gas (LPG) has worsened due to disturbed supplies from Iran, traders said. Pakistan imports about 7,000 metric tons of LPG a day from Iran, according to the Pakistan LPG Association. More than 4,000 tons a day enters through Gabd-Rimdan alone, said Shamsul Haq, former presiden…",
+   "image": "https://i.brecorder.com/large/2024/12/676378e4e4e0b.png",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt approves Karachi Industrial Park as federal SEZ",
+   "url": "https://www.brecorder.com/news/40445729/govt-approves-karachi-industrial-park-as-federal-sez",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:33+00:00",
+   "summary": "ISLAMABAD: The government has approved Karachi Industrial Park as a federal Special Economic Zone (SEZ) and endorsed a framework for government-funded utilities and allied infrastructure in privately established zones, seeking to attract export-oriented investment, reduce industrialisation costs and boost employment. T…",
+   "image": "https://i.brecorder.com/large/2026/10/24043036f5c850d.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Weekly SPI inflation up 0.65pc",
+   "url": "https://www.brecorder.com/news/40445731/weekly-spi-inflation-up-065pc",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:33+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on October 22, 2026 recorded an increase of 0.65 percent owing to an escalation in the prices of Liquefied Petroleum Gas (LPG), which hiked by 22.44 percent, chicken by 12.2 percent, and onions by 4.19 percent. The SPI data released here on Friday …",
+   "image": "https://i.brecorder.com/large/2026/01/24013406b34893d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "JI launches third phase of its ‘levy protest’",
+   "url": "https://www.brecorder.com/news/40445661/ji-launches-third-phase-of-its-levy-protest",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:32+00:00",
+   "summary": "KARACHI: Jamaat-i-Islami (JI) chief Hafiz Naeem-ur-Rehman on Friday announced the launch of the third phase of the party’s campaign against the petroleum levy, which he called an “extortion tax” with sit-ins and demonstrations at more than 150 locations across the country. “Our clear demand is the abolition of the petr…",
+   "image": "https://i.brecorder.com/large/2025/10/68e57832122cf.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "BankIslami reports Rs3.1bn PAT for nine months",
+   "url": "https://www.brecorder.com/news/40445662/bankislami-reports-rs31bn-pat-for-nine-months",
+   "source": "Business Recorder",
+   "published": "2026-10-24T00:32:32+00:00",
+   "summary": "KARACHI: BankIslami reported a profit after tax (PAT) of PKR 3.1 billion for the nine months ended September 30, 2026. The Bank’s total deposits reached PKR 630.7 billion, reflecting continued customer trust in its banking services. BankIslami’s current accounts have grown by 9.7 percent since December 2025, raising th…",
+   "image": "https://i.brecorder.com/large/2026/08/1015551424fbb1c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -43,19 +137,6 @@
    "published": "2026-10-23T14:50:07+00:00",
    "summary": "ISLAMABAD: Short-term inflation rose to 11.85 per cent year-on-year in the week ending October 22, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, which comprises 51 items whose prices are collected from 50 markets in 17 cities, …",
    "image": "https://i.dawn.com/large/2021/10/6177651443834.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan LPG shortage worsens after border closure, traders say",
-   "url": "https://www.brecorder.com/news/40445620/pakistan-lpg-shortage-worsens-after-border-closure-traders-say",
-   "source": "Business Recorder",
-   "published": "2026-10-23T10:37:34+00:00",
-   "summary": "LAHORE: The closure of two key border crossings between Pakistan and Iran has halted liquefied petroleum gas (LPG) imports into Pakistan, causing shortages and driving up prices, traders said. The Gabd-Rimdan and Taftan crossings were closed on October 17, with Pakistan and Iran giving different reasons for the move. T…",
-   "image": "https://i.brecorder.com/large/2026/08/06062943371c7d5.webp",
    "topics": [
     "Economy"
    ],
@@ -236,19 +317,6 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s industrial policy - from ambition to competitiveness",
-   "url": "https://www.brecorder.com/news/40445647/pakistans-industrial-policy-from-ambition-to-competitiveness",
-   "source": "Business Recorder",
-   "published": "2026-10-23T17:05:50+00:00",
-   "summary": "The government’s National Industrial Policy (NIP) presents an important opportunity to strengthen Pakistan’s industrial base, increase exports and create a more competitive business environment. The real test, however, is not whether the country announces ambitious targets or provides relief to industry, but whether Pa…",
-   "image": "https://i.brecorder.com/large/2026/09/0722543426f1923.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX: selling continues, KSE-100 down nearly 1%",
    "url": "https://www.brecorder.com/news/40445590/psx-selling-continues-kse-100-down-nearly-1",
    "source": "Business Recorder",
@@ -324,19 +392,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Investors pile into Ambani’s Jio IPO as bids top 13 times",
-   "url": "https://www.brecorder.com/news/40445621/investors-pile-into-ambanis-jio-ipo-as-bids-top-13-times",
-   "source": "Business Recorder",
-   "published": "2026-10-23T10:43:12+00:00",
-   "summary": "NEW DELHI: Subscriptions for India’s biggest stock listing ever surged further on the final day of bidding on Friday, as investors bet on Jio Platforms’.2 billion offering to tap into the nation’s telecom and digital sector. Billionaire Mukesh Ambani’s first initial public offering in two decades is being closely watch…",
-   "image": "https://i.brecorder.com/large/2026/10/21075117fec0c60.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
