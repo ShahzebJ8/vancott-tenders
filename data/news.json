@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-25T07:17:28+00:00",
- "count": 53,
+ "generated": "2026-10-25T12:45:38+00:00",
+ "count": 54,
  "relevant_count": 18,
- "domestic_count": 22,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (14)",
@@ -113,19 +113,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Customs values of imported stationery raw materials increased",
-   "url": "https://www.brecorder.com/news/40445839/customs-values-of-imported-stationery-raw-materials-increased",
-   "source": "Business Recorder",
-   "published": "2026-10-24T21:25:41+00:00",
-   "summary": "ISLAMABAD: Based on evidential data and international price increases, Directorate General of Customs Valuation Karachi has raised customs values on the import of 10 different types of raw materials used in stationery items from China and other origins. In this regard, the directorate has issued a valuation ruling numb…",
-   "image": "https://i.brecorder.com/large/2025/12/17011630d23be47.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -300,6 +287,32 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Iran denies border closure reports, says trade with Pakistan continues",
+   "url": "https://www.brecorder.com/news/40445863/iran-denies-border-closure-reports-says-trade-with-pakistan-continues",
+   "source": "Business Recorder",
+   "published": "2026-10-25T12:15:28+00:00",
+   "summary": "Iran has denied reports that it has closed its borders to Pakistan, saying there are no restrictions on the export of Iranian goods, including liquefied petroleum gas (LPG), while blaming changes to Pakistan’s import documentation procedures for disrupting cargo shipments. Iranian Ambassador to Pakistan Reza Amiri Mogh…",
+   "image": "https://i.brecorder.com/large/2026/10/25171510cf88b2c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Ship carrying 4,000 tonnes of LPG docks at Port Qasim",
+   "url": "https://www.brecorder.com/news/40445862/ship-carrying-4000-tonnes-of-lpg-docks-at-port-qasim",
+   "source": "Business Recorder",
+   "published": "2026-10-25T11:06:41+00:00",
+   "summary": "A vessel carrying 4,000 metric tons of liquefied petroleum gas (LPG) from Bahrain arrived at Port Qasim on October 24, as Pakistan faces supply shortages and rising prices of the fuel. The vessel, Yellowstone, berthed at 8:42am, and port handling of the imported consignment has begun, the Port Qasim Authority (PQA) sai…",
+   "image": "https://i.brecorder.com/large/2026/10/251518494e244a9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Why exports matter more than remittances",
