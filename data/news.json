@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-25T12:45:38+00:00",
- "count": 54,
- "relevant_count": 18,
- "domestic_count": 21,
+ "generated": "2026-10-25T17:01:34+00:00",
+ "count": 52,
+ "relevant_count": 17,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (17)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (4)"
@@ -261,40 +261,25 @@
    "domestic": true
   },
   {
-   "title": "Export sector warns of losing competitiveness",
-   "url": "https://www.dawn.com/news/2038901/export-sector-warns-of-losing-competitiveness",
-   "source": "Dawn",
-   "published": "2026-10-22T00:41:13+00:00",
-   "summary": "• Commerce minister admits pressure from energy, freight and tax costs • PHMA seeks reinstatement of EFS in its original form ISLAMABAD: As exporters warn of declining competitiveness, Commerce Minister Jam Kamal Khan on Wednesday acknowledged mounting pressures from rising energy, transport and freight costs, higher t…",
-   "image": "https://i.dawn.com/large/2020/05/5ecdda7dcc86a.jpg",
+   "title": "Saudi says Riyadh airport partly reopens despite renewed Houthi threats",
+   "url": "https://www.brecorder.com/news/40445857/saudi-says-riyadh-airport-partly-reopens-despite-renewed-houthi-threats",
+   "source": "Business Recorder",
+   "published": "2026-10-25T14:50:42+00:00",
+   "summary": "Saudi Arabia said its main airport had partially resumed operations at two terminals on Sunday despite renewed threats to target it from Yemen’s Houthis, as the kingdom intercepted another wave of missiles and drones amid continued fighting with the group. The Houthis have continued their daily attacks on the kingdom, …",
+   "image": "https://i.brecorder.com/large/2026/10/25194939a3b86d3.webp",
    "topics": [
-    "Budget & spending",
-    "Economy"
+    "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Draft auto policy revs up hopes for cheaper vehicles",
-   "url": "https://www.dawn.com/news/2038903/draft-auto-policy-revs-up-hopes-for-cheaper-vehicles",
-   "source": "Dawn",
-   "published": "2026-10-22T00:41:13+00:00",
-   "summary": "• PHEVs may see price reductions of over 20pc under proposed tax changes • Petrol, hybrid vehicles may become around 8-10pc cheaper • Parts makers warn rising CBU imports, lower tariffs to hurt local industry KARACHI: The draft Auto Policy 2026-31 could trigger one of the biggest shake-ups in the country’s automobile m…",
-   "image": "https://i.dawn.com/large/2026/07/201100475e9fb19.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "Iran denies border closure reports, says trade with Pakistan continues",
    "url": "https://www.brecorder.com/news/40445863/iran-denies-border-closure-reports-says-trade-with-pakistan-continues",
    "source": "Business Recorder",
-   "published": "2026-10-25T12:15:28+00:00",
+   "published": "2026-10-25T13:46:39+00:00",
    "summary": "Iran has denied reports that it has closed its borders to Pakistan, saying there are no restrictions on the export of Iranian goods, including liquefied petroleum gas (LPG), while blaming changes to Pakistan’s import documentation procedures for disrupting cargo shipments. Iranian Ambassador to Pakistan Reza Amiri Mogh…",
-   "image": "https://i.brecorder.com/large/2026/10/25171510cf88b2c.webp",
+   "image": "https://i.brecorder.com/large/2026/10/251846257f4a3b1.webp",
    "topics": [
     "Economy"
    ],
@@ -338,19 +323,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia cuts gas exports to Singapore",
-   "url": "https://www.brecorder.com/news/40445828/indonesia-cuts-gas-exports-to-singapore",
-   "source": "Business Recorder",
-   "published": "2026-10-24T21:25:41+00:00",
-   "summary": "JAKARTA: Indonesia cut exports of natural gas to Singapore on Saturday to prioritise domestic demand, an official said, with the two countries at loggerheads over regional air pollution emanating from wildfires on the vast archipelago. The head of SKK Migas, a state agency supervising the oil and gas sector, told AFP t…",
-   "image": "https://i.brecorder.com/large/2026/04/01034953631472a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
