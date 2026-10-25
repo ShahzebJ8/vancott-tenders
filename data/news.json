@@ -1,15 +1,54 @@
 {
- "generated": "2026-10-25T01:35:23+00:00",
- "count": 50,
- "relevant_count": 17,
- "domestic_count": 21,
+ "generated": "2026-10-25T07:17:28+00:00",
+ "count": 53,
+ "relevant_count": 18,
+ "domestic_count": 22,
  "sources": {
-  "Dawn": "ok (16)",
+  "Dawn": "ok (17)",
   "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (7)",
+  "The Express Tribune": "ok (10)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "PM's adviser Haroon voices concern over small and medium enterprises loans",
+   "url": "https://www.dawn.com/news/2039573/pms-adviser-haroon-voices-concern-over-small-and-medium-enterprises-loans",
+   "source": "Dawn",
+   "published": "2026-10-25T04:07:25+00:00",
+   "summary": "ISLAMABAD: Adviser to the Prime Minister on Industries and Production Haroon Akhtar Khan on Saturday said banks had failed to extend loans under the Rs2.2 trillion Small and Medium Enterprises (SME) fund. Chairing a consultative session, Mr Khan called on the regulators, including the State Bank of Pakistan (SBP) and t…",
+   "image": "https://i.dawn.com/large/2026/07/2609475177c0562.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan's trade gap with Gulf partners narrows",
+   "url": "https://www.dawn.com/news/2039577/pakistans-trade-gap-with-gulf-partners-narrows",
+   "source": "Dawn",
+   "published": "2026-10-25T04:02:03+00:00",
+   "summary": "ISLAMABAD: Pakistan’s trade deficit with Gulf partner countries narrowed 26.35 per cent to $2.85bn in the first quarter of 2026-27 against $3.87bn a year earlier, largely due to lower imports and moderately higher exports. The steepest declines were 97.46pc and 72.51pc in import payments to Kuwait and Qatar. These two …",
+   "image": "https://i.dawn.com/large/2022/06/62992e1d57f96.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Equities fall 2.4pc as oil prices, geopolitical tensions unsettle investors",
+   "url": "https://www.dawn.com/news/2039568/equities-fall-24pc-as-oil-prices-geopolitical-tensions-unsettle-investors",
+   "source": "Dawn",
+   "published": "2026-10-25T01:19:57+00:00",
+   "summary": "KARACHI: Rising oil prices and persistent geopolitical uncertainty kept the Pakistan Stock Exchange (PSX) under selling pressure during the outgoing week, as investors booked profits ahead of the State Bank of Pakistan’s (SBP) monetary policy announcement on Oct 26. The benchmark KSE-100 index fell 2.4 per cent week-on…",
+   "image": "https://i.dawn.com/large/2026/04/121005148b8e6fe.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Customs values for imported carpets revised",
    "url": "https://www.brecorder.com/news/40445818/customs-values-for-imported-carpets-revised",
@@ -83,6 +122,19 @@
    "published": "2026-10-24T21:25:41+00:00",
    "summary": "ISLAMABAD: Based on evidential data and international price increases, Directorate General of Customs Valuation Karachi has raised customs values on the import of 10 different types of raw materials used in stationery items from China and other origins. In this regard, the directorate has issued a valuation ruling numb…",
    "image": "https://i.brecorder.com/large/2025/12/17011630d23be47.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Task force asks industry for export proposals",
+   "url": "https://tribune.com.pk/story/2636738/task-force-asks-industry-for-export-proposals",
+   "source": "The Express Tribune",
+   "published": "2026-10-24T16:06:42+00:00",
+   "summary": "Leather, sports goods, cutlery and carpets named priority sectors at Islamabad meeting",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -222,32 +274,6 @@
    "domestic": true
   },
   {
-   "title": "Stocks stage mild recovery on selective buying",
-   "url": "https://www.dawn.com/news/2038897/stocks-stage-mild-recovery-on-selective-buying",
-   "source": "Dawn",
-   "published": "2026-10-22T04:09:46+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) posted marginal gains on Wednesday before falling below the 165,000 mark as cautious trading continued amid persistent economic and political uncertainty. Topline Securities Ltd said the KSE-100 index staged a recovery, gaining 779.35 points, or 0.47 per cent, to close at 165…",
-   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Maldives president, CDF Munir stress importance of strengthening defence cooperation",
-   "url": "https://www.dawn.com/news/2038736/maldives-president-cdf-munir-stress-importance-of-strengthening-defence-cooperation",
-   "source": "Dawn",
-   "published": "2026-10-22T03:42:57+00:00",
-   "summary": "Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir and visiting Maldivian President Dr Mohamed Muizzu underscored the importance of strengthening bilateral defence cooperation on Wednesday, state-run Radio Pakistan reported . Muizzu arrived in Islamabad on Tuesday on a three-day visit at…",
-   "image": "https://i.dawn.com/large/2026/10/2123264463749c7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Export sector warns of losing competitiveness",
    "url": "https://www.dawn.com/news/2038901/export-sector-warns-of-losing-competitiveness",
    "source": "Dawn",
@@ -276,17 +302,17 @@
    "domestic": true
   },
   {
-   "title": "Afghan trade halt hits pharma exports",
-   "url": "https://www.dawn.com/news/2038899/afghan-trade-halt-hits-pharma-exports",
+   "title": "Why exports matter more than remittances",
+   "url": "https://www.dawn.com/news/2039641/why-exports-matter-more-than-remittances",
    "source": "Dawn",
-   "published": "2026-10-22T00:41:13+00:00",
-   "summary": "KARACHI: After contracting by 30.26 per cent in FY26, the country’s pharmaceutical exports continued to decline, falling 25.53pc in value in the first quarter of 2026-27. The industry largely attributes the drop to disrupted trade with Afghanistan, once one of the country’s main medicine markets. Pakistan Bureau of Sta…",
-   "image": "https://i.dawn.com/large/2026/10/22021630d9a5fc5.webp",
+   "published": "2026-10-25T04:11:36+00:00",
+   "summary": "https://www.dawn.com/news/2039532",
+   "image": "https://i.dawn.com/large/2024/05/663abf5bc1b42.jpg",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "3 Saudi airports, oil facilities, pipeline targeted in past day: Houthis",
@@ -315,19 +341,6 @@
    "domestic": false
   },
   {
-   "title": "Australian central banker says policy working, but inflation outlook worse",
-   "url": "https://www.brecorder.com/news/40445770/australian-central-banker-says-policy-working-but-inflation-outlook-worse",
-   "source": "Business Recorder",
-   "published": "2026-10-24T21:25:40+00:00",
-   "summary": "SYDNEY: A top Australian central banker on Wednesday said tighter monetary policy was working to slow the economy but the inflation outlook had still worsened, leaving him unsure whether interest rates would need to rise further. Speaking at a Citi conference, Reserve Bank of Australia Deputy Governor Andrew Hauser sai…",
-   "image": "https://i.brecorder.com/large/2021/06/60caefb193a91.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure",
    "url": "https://www.dawn.com/news/2039505/in-berlin-meeting-siemens-affirms-support-for-strengthening-pakistans-healthcare-infrastructure",
    "source": "Dawn",
@@ -341,25 +354,63 @@
    "domestic": false
   },
   {
-   "title": "Mohmand Dam cost jumps 115%",
-   "url": "https://tribune.com.pk/story/2636615/mohmand-dam-cost-jumps-115",
+   "title": "Govt rejects $490m loan over cost",
+   "url": "https://tribune.com.pk/story/2636732/govt-rejects-490m-loan-over-cost",
    "source": "The Express Tribune",
-   "published": "2026-10-23T15:43:59+00:00",
-   "summary": "CDWP defers decision as Wapda blames rupee devaluation for 51% of increase",
+   "published": "2026-10-24T16:06:42+00:00",
+   "summary": "Debt office balked at 8% all-in cost vs 6% target; financing needs hit 20% of GDP",
    "image": null,
    "topics": [
-    "Construction & projects",
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "31,000 consumers denied petrol subsidy",
+   "url": "https://tribune.com.pk/story/2636735/31000-consumers-denied-petrol-subsidy",
+   "source": "The Express Tribune",
+   "published": "2026-10-24T16:06:42+00:00",
+   "summary": "Govt orders audit of fuel stations, rectification of registration errors",
+   "image": null,
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "'Auto policy puts 1.5m jobs at risk'",
-   "url": "https://tribune.com.pk/story/2636623/auto-policy-puts-15m-jobs-at-risk",
+   "title": "'Indian duty-free access threatens GSP Plus edge'",
+   "url": "https://tribune.com.pk/story/2636734/indian-duty-free-access-threatens-gsp-plus-edge",
    "source": "The Express Tribune",
-   "published": "2026-10-23T15:43:59+00:00",
-   "summary": "Parts makers challenge tariff cuts on imports, citing $1.8b import substitution",
+   "published": "2026-10-24T16:06:42+00:00",
+   "summary": "Exporters say EU-India, UK-India trade deals could erode advantage; call for lower costs",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "NHA told to classify projects by viability",
+   "url": "https://tribune.com.pk/story/2636739/nha-told-to-classify-projects-by-viability",
+   "source": "The Express Tribune",
+   "published": "2026-10-24T16:06:42+00:00",
+   "summary": "Cheema says external financing must not cut PSDP allocation, seeks plan with clear timelines",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX down 4,045 points amid ME wars",
+   "url": "https://tribune.com.pk/story/2636740/psx-down-4045-points-amid-me-wars",
+   "source": "The Express Tribune",
+   "published": "2026-10-24T16:06:42+00:00",
+   "summary": "KSE-100 index slides below 163,000 as selling intensifies",
    "image": null,
    "topics": [
     "Economy"
@@ -556,19 +607,6 @@
    "published": "2026-10-23T03:09:01+00:00",
    "summary": "MUMBAI: The Indian rupee’s recent recovery is likely to face headwinds on Friday from a flight to safety that’s weighing ​on risk-sensitive currencies and rising oil prices which threaten to ‌spur increased hedging by importers. The Indian rupee is expected to open at 94.84-94.88 per dollar, according to traders, after…",
    "image": "https://i.brecorder.com/large/2026/10/23080656020d884.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX falls below 164,000 on oil fears",
-   "url": "https://tribune.com.pk/story/2636396/psx-falls-below-164000-on-oil-fears",
-   "source": "The Express Tribune",
-   "published": "2026-10-22T16:06:34+00:00",
-   "summary": "KSE-100 index sheds over 2,000 points amid geopolitical jitters",
-   "image": null,
    "topics": [
     "Economy"
    ],
