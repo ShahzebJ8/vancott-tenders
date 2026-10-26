@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-26T16:56:28+00:00",
- "count": 49,
- "relevant_count": 16,
- "domestic_count": 16,
+ "generated": "2026-10-26T21:22:34+00:00",
+ "count": 48,
+ "relevant_count": 15,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Govt orders review of existing drug pricing formula to ensure medicines are priced fairly",
+   "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly",
+   "source": "Dawn",
+   "published": "2026-10-26T18:59:17+00:00",
+   "summary": "ISLAMABAD: The government on Monday warned that drug prices must not be increased without valid justification and ordered a review of the existing pricing formula to ensure medicines are priced fairly without creating unnecessary hurdles for patients, importers or the pharmaceutical industry. Economic Affairs Minister …",
+   "image": "https://i.dawn.com/large/2026/03/020804269c2cb62.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40445990/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -506,32 +519,6 @@
    "published": "2026-10-25T23:08:24+00:00",
    "summary": "Governor says economic outlook has changed significantly amid rising global commodity prices, geopolitical uncertainty",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Cheaper house loans a growth driver",
-   "url": "https://tribune.com.pk/story/2636898/cheaper-house-loans-a-growth-driver",
-   "source": "The Express Tribune",
-   "published": "2026-10-25T16:11:58+00:00",
-   "summary": "Gap matters as only 18% of approved subsidised financing reaches borrowers",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Why exports matter more than remittances",
-   "url": "https://www.dawn.com/news/2039641/why-exports-matter-more-than-remittances",
-   "source": "Dawn",
-   "published": "2026-10-25T04:11:36+00:00",
-   "summary": "https://www.dawn.com/news/2039532",
-   "image": "https://i.dawn.com/large/2024/05/663abf5bc1b42.jpg",
    "topics": [
     "Economy"
    ],
