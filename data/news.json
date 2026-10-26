@@ -1,21 +1,75 @@
 {
- "generated": "2026-10-26T10:27:00+00:00",
- "count": 42,
+ "generated": "2026-10-26T16:56:28+00:00",
+ "count": 49,
  "relevant_count": 16,
- "domestic_count": 13,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (11)",
-  "ARY News": "ok (3)"
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (10)",
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "Hike or hold: SBP to announce policy rate today",
-   "url": "https://www.brecorder.com/news/40445969/hike-or-hold-sbp-to-announce-policy-rate-today",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40445990/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-26T07:02:06+00:00",
-   "summary": "The Monetary Policy Committee (MPC) of the State Bank of Pakistan (SBP) is scheduled to meet today, i.e. Monday, in its third meeting of the fiscal year 2026-27, to review the key policy rate. At its previous meeting on September 14 , the central bank’s MPC, in line with market expectations, decided to keep the policy …",
+   "published": "2026-10-26T15:58:30+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Monday. The local unit closed the day at 276.81, a gain of Re0.01 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar for another week, appreciating 0.03% i…",
+   "image": "https://i.brecorder.com/large/2025/10/21035542e0fcc76.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Central Development Working Party refers 3 KP infrastructure projects worth Rs100bn to Ecnec",
+   "url": "https://www.dawn.com/news/2039986/central-development-working-party-refers-3-kp-infrastructure-projects-worth-rs100bn-to-ecnec",
+   "source": "Dawn",
+   "published": "2026-10-26T15:47:43+00:00",
+   "summary": "ISLAMABAD: The federal government on Monday cleared three major infrastructure projects worth Rs100 billion in Khyber Pakhtunkhwa, recommending them to the Executive Committee of the National Economic Council (Ecnec) for formal approval. The decision was taken at a meeting of the Central Development Working Party (CDWP…",
+   "image": "https://i.dawn.com/large/2026/10/26202149a8196bf.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Lucky Group, Qatar Energy consortium quits Port Qasim LNG terminal plan over 'policy changes'",
+   "url": "https://www.dawn.com/news/2039968/lucky-group-qatar-energy-consortium-quits-port-qasim-lng-terminal-plan-over-policy-changes",
+   "source": "Dawn",
+   "published": "2026-10-26T14:53:11+00:00",
+   "summary": "ISLAMABAD: Energas, a consortium of the Lucky Group and Qatar Energy, has given up a multi-million-dollar plan to establish a liquefied natural gas (LNG) terminal at Port Qasim, citing fundamental changes to Pakistan’s energy policy, requirements and longstanding unresolved policy and fiscal matters, it emerged on Mond…",
+   "image": "https://i.dawn.com/large/2026/10/261837075d298d8.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Central bank raises policy rate by 50 basis points to 12pc",
+   "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc",
+   "source": "Dawn",
+   "published": "2026-10-26T12:20:14+00:00",
+   "summary": "The State Bank of Pakistan (SBP) on Monday raised the key policy rate by 50 basis points to 12 per cent, its first increase since April as inflation, fuelled by high energy costs due to the Gulf conflict, remained above target. In a statement, the Monetary Policy Committee (MPC) said it had decided to increase the poli…",
+   "image": "https://i.dawn.com/large/2026/10/261654460e81ba3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP hikes policy rate to 12% on inflation, energy price concerns",
+   "url": "https://www.brecorder.com/news/40445969/sbp-hikes-policy-rate-to-12-on-inflation-energy-price-concerns",
+   "source": "Business Recorder",
+   "published": "2026-10-26T11:42:39+00:00",
+   "summary": "The State Bank of Pakistan (SBP) Monetary Policy Committee (MPC) on Monday raised the policy rate by 50 basis points (bps) to 12%, in line with market expectations. The decision was taken at the MPC’s third meeting of fiscal year 2026-27. The latest decision marked the SBP’s first rate hike since June 2026 amid inflati…",
    "image": "https://i.brecorder.com/large/2026/07/281607395b8cb5f.webp",
    "topics": [
     "Budget & spending",
@@ -129,32 +183,6 @@
    "domestic": true
   },
   {
-   "title": "Rising flour prices fuel weekly inflation",
-   "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
-   "source": "Dawn",
-   "published": "2026-10-23T14:50:07+00:00",
-   "summary": "ISLAMABAD: Short-term inflation rose to 11.85 per cent year-on-year in the week ending October 22, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, which comprises 51 items whose prices are collected from 50 markets in 17 cities, …",
-   "image": "https://i.dawn.com/large/2021/10/6177651443834.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Govt loans turn out to be stimulant for real estate",
-   "url": "https://www.dawn.com/news/2039183/govt-loans-turn-out-to-be-stimulant-for-real-estate",
-   "source": "Dawn",
-   "published": "2026-10-23T02:33:01+00:00",
-   "summary": "KARACHI: Although banks are not ready to extend housing loans to applicants without complete documentation, builders are almost unanimous that the sector had picked up over the last 12 months. According to them, the Prime Minister’s housing scheme, which provides loans of up to Rs10 million on easy instalments, has sti…",
-   "image": "https://i.dawn.com/large/2020/04/5e96a5405211b.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Govt pushes China for tariff concessions",
    "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
    "source": "The Express Tribune",
@@ -166,6 +194,19 @@
     "Economy"
    ],
    "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "State Bank of Pakistan raises policy rate to 12%",
+   "url": "https://arynews.tv/state-bank-of-pakistan-raises-policy-rate-to-12",
+   "source": "ARY News",
+   "published": null,
+   "summary": "State Bank of Pakistan raises policy rate to 12%",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/SBP-monetary-policy.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -181,6 +222,112 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Putin to meet Iran's Pezeshkian, Emir of Qatar on Tuesday in Moscow, Kremlin says",
+   "url": "https://www.brecorder.com/news/40446002/putin-to-meet-irans-pezeshkian-emir-of-qatar-on-tuesday-in-moscow-kremlin-says",
+   "source": "Business Recorder",
+   "published": "2026-10-26T15:08:58+00:00",
+   "summary": "MOSCOW: Russian President Vladimir Putin will hold meetings with Iranian President Massoud Pezeshkian and the Emir of Qatar Sheikh Tamim bin Hamad Al Thani in Moscow on Tuesday, the Kremlin said. Putin will meet the two men after hosting leaders of a Gas Exporting Countries Forum in Moscow, the Kremlin aide Yuri Ushako…",
+   "image": "https://i.brecorder.com/large/2026/10/262008201db9954.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Most Gulf bourses rebound on Iran diplomacy hopes; Egypt falls ahead of Saudi defence vote",
+   "url": "https://www.brecorder.com/news/40446000/most-gulf-bourses-rebound-on-iran-diplomacy-hopes-egypt-falls-ahead-of-saudi-defence-vote",
+   "source": "Business Recorder",
+   "published": "2026-10-26T13:50:39+00:00",
+   "summary": "Most Gulf stock markets closed higher on Monday, with Saudi Arabia and Qatar posting their strongest gains in months, as scheduled talks between Iranian leaders and officials from Saudi Arabia, Turkiye and Pakistan raised hopes of easing tensions between the US and Iran. The talks, set to take place in Tehran on Monday…",
+   "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: volatility at bourse, KSE-100 settles with over 650 points gain",
+   "url": "https://www.brecorder.com/news/40445952/psx-volatility-at-bourse-kse-100-settles-with-over-650-points-gain",
+   "source": "Business Recorder",
+   "published": "2026-10-26T13:42:25+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session, with the benchmark KSE-100 Index settling with a gain of over 650 points amid strong late-session buying on Monday. The benchmark index initially came under selling pressure to hit an intraday low of 161,250.06 points. It subsequently recovered, reb…",
+   "image": "https://i.brecorder.com/large/2026/10/261007060efd62b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Saudi Arabia says talks in Tehran aim to prevent escalation",
+   "url": "https://www.brecorder.com/news/40445993/saudi-arabia-says-talks-in-tehran-aim-to-prevent-escalation",
+   "source": "Business Recorder",
+   "published": "2026-10-26T12:26:21+00:00",
+   "summary": "Saudi Arabia, which, along with Pakistan and Türkiye, was set to hold talks with Iranian officials in Tehran on Monday, said it was important to open channels for negotiations. The Saudi foreign ministry said in a statement that the talks in Tehran were aimed at preventing escalation and paving the way to agreement.",
+   "image": "https://i.brecorder.com/large/2026/10/2617244566678e9.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Meta to raise up to $95 billion in equity to fund costly AI expansion",
+   "url": "https://www.brecorder.com/news/40445992/meta-to-raise-up-to-95-billion-in-equity-to-fund-costly-ai-expansion",
+   "source": "Business Recorder",
+   "published": "2026-10-26T11:52:45+00:00",
+   "summary": "Meta Platforms said on Monday it plans to raiseup to $95 billion in equity to fund its costly AI-related expansion of data centers, cloud computing power and other infrastructure. The company launched public offerings of about $35 billion in common stock and convertible preferred stock. It also said it plans to launch …",
+   "image": "https://i.brecorder.com/large/2026/10/2123584322cc51f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Domestic resource trap: When raising revenue shrinks the economy",
+   "url": "https://www.brecorder.com/news/40445991/domestic-resource-trap-when-raising-revenue-shrinks-the-economy",
+   "source": "Business Recorder",
+   "published": "2026-10-26T11:41:43+00:00",
+   "summary": "For decades, a remarkably resilient idea has shaped economic policy across the developing world: before a government can invest, build infrastructure or expand public services, it must first “find the money”. This logic lies at the heart of Domestic Resource Mobilisation (DRM). Governments are urged to raise tax-to-GDP…",
+   "image": "https://i.brecorder.com/large/2026/07/0501134725f44c1.webp",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India approves in principle $22 billion in military purchases",
+   "url": "https://www.brecorder.com/news/40445988/india-approves-in-principle-22-billion-in-military-purchases",
+   "source": "Business Recorder",
+   "published": "2026-10-26T11:23:28+00:00",
+   "summary": "NEW DELHI: India’s Defence Acquisition Council on Monday approved in principle arms and equipment purchases worth 2.12 trillion rupees ($22.27 billion), the defence ministry said in a statement. Approval was given to acquire equipment including very short-range air defence systems, counter-drone systems, surveillance a…",
+   "image": "https://i.brecorder.com/large/2026/04/03090226aaa37d4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares snap losing run as investors assess earnings",
+   "url": "https://www.brecorder.com/news/40445987/indian-shares-snap-losing-run-as-investors-assess-earnings",
+   "source": "Business Recorder",
+   "published": "2026-10-26T10:33:39+00:00",
+   "summary": "Indian shares snapped a four-session falling streak on Monday, aided by a post-earnings rise in key benchmark constituents such as Dr Reddy’s, JSW Steel and Kotak Mahindra Bank. However, inflation concerns driven by Brent crude futures trading around $115 a barrel kept a lid on gains. Investors awaited the Federal Rese…",
+   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Indian rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
@@ -222,19 +369,6 @@
    "domestic": false
   },
   {
-   "title": "Russian forces hit cargo vessel, Ukrainian port infrastructure in Black sea, RIA reports",
-   "url": "https://www.brecorder.com/news/40445962/russian-forces-hit-cargo-vessel-ukrainian-port-infrastructure-in-black-sea-ria-reports",
-   "source": "Business Recorder",
-   "published": "2026-10-26T06:15:12+00:00",
-   "summary": "MOSCOW: The Russian Defence Ministry said on Monday its forces had hit a cargo vessel bound to Ukrainian port of Odesa, state news agency RIA reported on Monday. The ministry said it was transporting military cargo for the Ukrainian military. Russia says it hit a cargo vessel and Ukrainian logistic hubs overnight Russi…",
-   "image": "https://i.brecorder.com/large/2026/10/031332073ccb267.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "India bonds to come under selling pressure at start of new week as oil spike continues",
    "url": "https://www.brecorder.com/news/40445956/india-bonds-to-come-under-selling-pressure-at-start-of-new-week-as-oil-spike-continues",
    "source": "Business Recorder",
@@ -254,19 +388,6 @@
    "published": "2026-10-26T05:45:14+00:00",
    "summary": "BANGKOK: The Thai baht slightly weakened against the US dollar on Monday. At 0218 GMT, the baht was 0.09% lower at 33.77 versus the dollar, after trading in a range of 33.755 to 33.825. It ended the previous session at 33.74 per dollar, as per LSEG data.",
    "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling at bourse, KSE-100 down over 800 points",
-   "url": "https://www.brecorder.com/news/40445952/psx-selling-at-bourse-kse-100-down-over-800-points",
-   "source": "Business Recorder",
-   "published": "2026-10-26T05:36:39+00:00",
-   "summary": "Selling was observed at the Pakistan Stock Exchange (PSX) amid expectations of a policy rate hike by the Monetary Policy Committee, which is expected to meet today, with the benchmark KSE-100 Index shedding over 800 points during the opening minutes of trading on Monday. At 9:50am, the benchmark index was hovering at 1…",
-   "image": "https://i.brecorder.com/large/2026/10/261007060efd62b.jpg",
    "topics": [
     "Economy"
    ],
@@ -366,11 +487,24 @@
    "domestic": false
   },
   {
-   "title": "PSX sheds 715 points as investors brace for policy rate decision",
+   "title": "PSX recovers 664 points after rate-driven sell-off",
    "url": "https://tribune.com.pk/story/2636987/psx-sheds-715-points-as-investors-brace-for-policy-rate-decision",
    "source": "The Express Tribune",
    "published": "2026-10-26T02:51:50+00:00",
-   "summary": "Broad-based selling hits banks, cement, autos and energy stocks",
+   "summary": "KSE-100 Index closes at 163,038.5 points after SBP raises interest rates by 50 basis points",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP hikes policy rate to 12% on Middle East risks",
+   "url": "https://tribune.com.pk/story/2636968/sbp-raises-policy-rate-by-50bps-to-12",
+   "source": "The Express Tribune",
+   "published": "2026-10-25T23:08:24+00:00",
+   "summary": "Governor says economic outlook has changed significantly amid rising global commodity prices, geopolitical uncertainty",
    "image": null,
    "topics": [
     "Economy"
@@ -418,32 +552,6 @@
    "domestic": false
   },
   {
-   "title": "Govt rejects $490m loan over cost",
-   "url": "https://tribune.com.pk/story/2636732/govt-rejects-490m-loan-over-cost",
-   "source": "The Express Tribune",
-   "published": "2026-10-24T16:06:42+00:00",
-   "summary": "Debt office balked at 8% all-in cost vs 6% target; financing needs hit 20% of GDP",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "31,000 consumers denied petrol subsidy",
-   "url": "https://tribune.com.pk/story/2636735/31000-consumers-denied-petrol-subsidy",
-   "source": "The Express Tribune",
-   "published": "2026-10-24T16:06:42+00:00",
-   "summary": "Govt orders audit of fuel stations, rectification of registration errors",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "NHA told to classify projects by viability",
    "url": "https://tribune.com.pk/story/2636739/nha-told-to-classify-projects-by-viability",
    "source": "The Express Tribune",
@@ -483,32 +591,6 @@
    "domestic": false
   },
   {
-   "title": "UAE shares extend losses on regional conflict fears",
-   "url": "https://www.brecorder.com/news/40445636/uae-shares-extend-losses-on-regional-conflict-fears",
-   "source": "Business Recorder",
-   "published": "2026-10-23T13:17:28+00:00",
-   "summary": "Stock markets in the United Arab Emirates fell on Friday, with Dubai leading the decline driven by losses in financial and real estate shares as Houthi strikes in Saudi heightened fears of a wider regional conflict. Saudi Aramco has told staff to evacuate its Dhahran headquarters and work remotely, six people with know…",
-   "image": "https://i.brecorder.com/large/2026/10/23181714badcb2f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM sets indicative wheat price at Rs4,500 per maund for 2027",
-   "url": "https://www.dawn.com/news/2039263/pm-sets-indicative-wheat-price-at-rs4500-per-maund-for-2027",
-   "source": "Dawn",
-   "published": "2026-10-23T12:50:38+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Friday set the illustrative price for wheat at Rs4,500 per maund for 2027, raising the procurement price set last year by Rs1,000. “In view of the increase in production costs, the price had been raised by Rs1,000 per maund compared to last year,” a statement by the PM’s Office (PMO) sa…",
-   "image": "https://i.dawn.com/large/2024/05/664ab3a3c0056.jpg",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -535,6 +617,32 @@
    "domestic": false
   },
   {
+   "title": "Pakistan explores alternative sea routes for LPG imports amid supply issues",
+   "url": "https://arynews.tv/pakistan-explores-alternative-sea-routes-for-lpg-imports-amid-supply-issues",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan explores alternative sea routes for LPG imports amid supply issues",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/LPG-Trump.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close higher as KSE-100 index gains over 600 points",
+   "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-600-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close higher as KSE-100 index gains over 600 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX-3.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Govt likely to introduce mini-budget for new auto policy tax measures",
    "url": "https://arynews.tv/govt-likely-to-introduce-mini-budget-for-new-auto-policy-tax-measures",
    "source": "ARY News",
@@ -545,19 +653,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close lower as KSE-100 index falls over 1,500 points",
-   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-falls-over-1500-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close lower as KSE-100 index falls over 1,500 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
