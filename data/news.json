@@ -1,15 +1,29 @@
 {
- "generated": "2026-10-26T04:26:21+00:00",
- "count": 48,
- "relevant_count": 14,
- "domestic_count": 16,
+ "generated": "2026-10-26T10:27:00+00:00",
+ "count": 42,
+ "relevant_count": 16,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (10)",
-  "ARY News": "ok (4)"
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (11)",
+  "ARY News": "ok (3)"
  },
  "stories": [
+  {
+   "title": "Hike or hold: SBP to announce policy rate today",
+   "url": "https://www.brecorder.com/news/40445969/hike-or-hold-sbp-to-announce-policy-rate-today",
+   "source": "Business Recorder",
+   "published": "2026-10-26T07:02:06+00:00",
+   "summary": "The Monetary Policy Committee (MPC) of the State Bank of Pakistan (SBP) is scheduled to meet today, i.e. Monday, in its third meeting of the fiscal year 2026-27, to review the key policy rate. At its previous meeting on September 14 , the central bank’s MPC, in line with market expectations, decided to keep the policy …",
+   "image": "https://i.brecorder.com/large/2026/07/281607395b8cb5f.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
    "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation",
@@ -21,45 +35,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Targeted power subsidies: PM sets up ministerial body to devise strategy",
-   "url": "https://www.brecorder.com/news/40445942/targeted-power-subsidies-pm-sets-up-ministerial-body-to-devise-strategy",
-   "source": "Business Recorder",
-   "published": "2026-10-25T23:07:34+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif has constituted a high-level ministerial committee, headed by Planning, Development and Special Initiatives Minister Ahsan Iqbal, to formulate a comprehensive strategy for rationalisation of power-sector subsidies and their gradual transition towards a targeted support mechanism…",
-   "image": "https://i.brecorder.com/large/2026/03/26021105b04bce5.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Food insecurity touches 24.35pc of households: PDP",
-   "url": "https://www.brecorder.com/news/40445877/food-insecurity-touches-2435pc-of-households-pdp",
-   "source": "Business Recorder",
-   "published": "2026-10-25T23:07:33+00:00",
-   "summary": "KARACHI: For nearly one in four households in Pakistan, putting adequate food on the table has become a daily struggle, said Pasban Democratic Party PDP chairman Altaf Shakoor here on Sunday. He said poverty and inflation are now biting hard and according to the latest Household Integrated Economic Survey (HIES 2024-25…",
-   "image": "https://i.brecorder.com/large/2026/01/1901251105fa79d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Businesspeople say any hike in policy rate to hit businesses",
-   "url": "https://www.brecorder.com/news/40445896/businesspeople-say-any-hike-in-policy-rate-to-hit-businesses",
-   "source": "Business Recorder",
-   "published": "2026-10-25T23:07:33+00:00",
-   "summary": "PESHAWAR: Members of the business community while highlighting the potential impacts of lowering the key policy rate on economic growth, expressed fear the likely surge in interest rate by the State Bank of Pakistan, would push business and industrial activities to further downward and may also generate high risk of jo…",
-   "image": "https://i.brecorder.com/large/2023/07/64c71546f02bd.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -154,19 +129,6 @@
    "domestic": true
   },
   {
-   "title": "Pakistan rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40445625/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-23T15:33:31+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 276.82, a gain of Re0.03 against the greenback. On Thursday , the rupee had rupee settled at 276.85 against the dollar. Internationally, the Japanese yen hit its…",
-   "image": "https://i.brecorder.com/large/2026/10/141615309eb28d9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Rising flour prices fuel weekly inflation",
    "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
    "source": "Dawn",
@@ -193,19 +155,6 @@
    "domestic": true
   },
   {
-   "title": "Middle East tensions dent investor confidence",
-   "url": "https://www.dawn.com/news/2039178/middle-east-tensions-dent-investor-confidence",
-   "source": "Dawn",
-   "published": "2026-10-23T02:05:57+00:00",
-   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) failed to sustain its overnight recovery on Thurs­day, as escalating tensions in the Middle East shattered investor confidence, sparking fears of prolonged conflict, surging oil prices and rising inflation that thr­­­­eaten macroeconomic stability. Topline Securities Ltd said…",
-   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Govt pushes China for tariff concessions",
    "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
    "source": "The Express Tribune",
@@ -218,6 +167,138 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Pakistan offers Qatar investment in Karachi-Hyderabad Motorway, LNG Fleet",
+   "url": "https://arynews.tv/pakistan-offers-qatar-investment-in-karachi-hyderabad-motorway-lng-fleet",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan offers Qatar investment in Karachi-Hyderabad Motorway, LNG Fleet",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Pakistan-Qatar.jpg",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Indian rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
+   "url": "https://www.brecorder.com/news/40445984/indian-rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite",
+   "source": "Business Recorder",
+   "published": "2026-10-26T10:14:54+00:00",
+   "summary": "MUMBAI: The Indian rupee declined for the third consecutive trading session on Monday as importers stepped up dollar purchases, while elevated oil prices and foreign outflows also weighed on the local currency. The Indian rupee opened little changed against the US dollar, but slipped to end at 95.1850, down 0.3% for th…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Kiwi dollar holds steady ahead of RBNZ, Aussie awaits inflation test",
+   "url": "https://www.brecorder.com/news/40445967/kiwi-dollar-holds-steady-ahead-of-rbnz-aussie-awaits-inflation-test",
+   "source": "Business Recorder",
+   "published": "2026-10-26T06:52:29+00:00",
+   "summary": "SYDNEY: The kiwi dollar was little changed on Monday ahead of a central bank decision widely expected to see interest rates rise for a third time this year, while the Aussie awaited inflation data that could make or break the case for an imminent rate hike. The kiwi was steady at $0.57, after climbing 0.8% last week fo…",
+   "image": "https://i.brecorder.com/large/2026/07/201040430441a47.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares slip as bank losses outweigh mining gains",
+   "url": "https://www.brecorder.com/news/40445966/australian-shares-slip-as-bank-losses-outweigh-mining-gains",
+   "source": "Business Recorder",
+   "published": "2026-10-26T06:49:30+00:00",
+   "summary": "Australian shares fell on Monday , with losses in financials outweighing gains in miners on stronger commodity prices, while investors focused on a key inflation print later this week for clues on the central bank’s next move. The S&P/ASX 200 index fell 0.5% to 8,753.10 as of 0037 GMT, heading for its worst session sin…",
+   "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Russian forces hit cargo vessel, Ukrainian port infrastructure in Black sea, RIA reports",
+   "url": "https://www.brecorder.com/news/40445962/russian-forces-hit-cargo-vessel-ukrainian-port-infrastructure-in-black-sea-ria-reports",
+   "source": "Business Recorder",
+   "published": "2026-10-26T06:15:12+00:00",
+   "summary": "MOSCOW: The Russian Defence Ministry said on Monday its forces had hit a cargo vessel bound to Ukrainian port of Odesa, state news agency RIA reported on Monday. The ministry said it was transporting military cargo for the Ukrainian military. Russia says it hit a cargo vessel and Ukrainian logistic hubs overnight Russi…",
+   "image": "https://i.brecorder.com/large/2026/10/031332073ccb267.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India bonds to come under selling pressure at start of new week as oil spike continues",
+   "url": "https://www.brecorder.com/news/40445956/india-bonds-to-come-under-selling-pressure-at-start-of-new-week-as-oil-spike-continues",
+   "source": "Business Recorder",
+   "published": "2026-10-26T05:48:33+00:00",
+   "summary": "MUMBAI: Indian government bonds could open another week with declines as oil prices stayed elevated, stoking concerns over inflation that may push the central bank into a hawkish posture. The 6.94% 2036 bond yield may trade between 7.45% and 7.50%, according to a trader at a primary dealership, after closing at 7.4740%…",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Monday",
+   "url": "https://www.brecorder.com/news/40445955/thai-bahtus-dollar-weaker-on-monday",
+   "source": "Business Recorder",
+   "published": "2026-10-26T05:45:14+00:00",
+   "summary": "BANGKOK: The Thai baht slightly weakened against the US dollar on Monday. At 0218 GMT, the baht was 0.09% lower at 33.77 versus the dollar, after trading in a range of 33.755 to 33.825. It ended the previous session at 33.74 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: selling at bourse, KSE-100 down over 800 points",
+   "url": "https://www.brecorder.com/news/40445952/psx-selling-at-bourse-kse-100-down-over-800-points",
+   "source": "Business Recorder",
+   "published": "2026-10-26T05:36:39+00:00",
+   "summary": "Selling was observed at the Pakistan Stock Exchange (PSX) amid expectations of a policy rate hike by the Monetary Policy Committee, which is expected to meet today, with the benchmark KSE-100 Index shedding over 800 points during the opening minutes of trading on Monday. At 9:50am, the benchmark index was hovering at 1…",
+   "image": "https://i.brecorder.com/large/2026/10/261007060efd62b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold gains on softer oil prices; Fed decision in focus",
+   "url": "https://www.brecorder.com/news/40445953/gold-gains-on-softer-oil-prices-fed-decision-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-26T05:33:30+00:00",
+   "summary": "Gold prices edged higher on Monday as softer oil prices tempered inflation concerns, while investors awaited the Federal Reserve’s policy decision later this week. Spot gold rose 0.4% to $4,009.87 per ounce by 0342 GMT, after hitting its lowest level since mid-July in the previous session. Bullion posted a 4% weekly fa…",
+   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "How long will Pakistan's economy be ‘indebted’ to expats?",
+   "url": "https://www.dawn.com/news/2039839/how-long-will-pakistans-economy-be-indebted-to-expats",
+   "source": "Dawn",
+   "published": "2026-10-26T04:34:15+00:00",
+   "summary": "Pakistan entered FY2027 with stronger fiscal and external buffers. According to the Finance Division’s monthly Economic Update and Outlook for August 2026, the fiscal deficit narrowed to 2.6 per cent of GDP in FY26, the primary surplus reached 2.9pc, large-scale manufacturing expanded by 4.98pc, and foreign-exchange re…",
+   "image": "https://i.dawn.com/large/2022/12/17095119f0397ab.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "FBR reforms, again?",
@@ -285,12 +366,12 @@
    "domestic": false
   },
   {
-   "title": "Keeping lights on gets pricier by the day",
-   "url": "https://www.brecorder.com/news/40445894/keeping-lights-on-gets-pricier-by-the-day",
-   "source": "Business Recorder",
-   "published": "2026-10-26T01:59:18+00:00",
-   "summary": "Pakistan’s power generation is growing, but the cost of meeting demand is rising much faster. September brought another reminder that the country’s fuel mix is becoming increasingly expensive, with limited RLNG availability pushing more generation onto imported coal and, at the margin, high-speed diesel (HSD). Power ge…",
-   "image": "https://i.brecorder.com/large/2026/01/02065014b154d84.webp",
+   "title": "PSX sheds 715 points as investors brace for policy rate decision",
+   "url": "https://tribune.com.pk/story/2636987/psx-sheds-715-points-as-investors-brace-for-policy-rate-decision",
+   "source": "The Express Tribune",
+   "published": "2026-10-26T02:51:50+00:00",
+   "summary": "Broad-based selling hits banks, cement, autos and energy stocks",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -298,29 +379,16 @@
    "domestic": false
   },
   {
-   "title": "Fixing a broken tax system",
-   "url": "https://www.brecorder.com/news/40445879/fixing-a-broken-tax-system",
-   "source": "Business Recorder",
-   "published": "2026-10-26T01:16:09+00:00",
-   "summary": "EDITORIAL: The IMF’s (International Monetary Fund’s) call for Pakistan to build on its hard-won economic stability by pursuing a fairer, broader and more predictable tax system strikes at the heart of one of the country’s most persistent economic failings: an inequitable tax regime that places a disproportionate burden…",
-   "image": "https://i.brecorder.com/large/2025/05/682bb5400d94b.jpg",
+   "title": "Cheaper house loans a growth driver",
+   "url": "https://tribune.com.pk/story/2636898/cheaper-house-loans-a-growth-driver",
+   "source": "The Express Tribune",
+   "published": "2026-10-25T16:11:58+00:00",
+   "summary": "Gap matters as only 18% of approved subsidised financing reaches borrowers",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Mixed trend in prices of essential food items",
-   "url": "https://www.brecorder.com/news/40445876/mixed-trend-in-prices-of-essential-food-items",
-   "source": "Business Recorder",
-   "published": "2026-10-25T23:07:33+00:00",
-   "summary": "PESHAWAR: Mixed trend in prices of essential food commodities, including vegetable, live chicken/meat, flour, sugar, cooking oil/ghee, and other grocery items was witnessed in the retail market. A weekly market carried out by Business Recorder here on Sunday revealed that almost all important daily use items have touch…",
-   "image": "https://i.brecorder.com/large/2023/09/6507a24aa9a0a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -373,19 +441,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "'Indian duty-free access threatens GSP Plus edge'",
-   "url": "https://tribune.com.pk/story/2636734/indian-duty-free-access-threatens-gsp-plus-edge",
-   "source": "The Express Tribune",
-   "published": "2026-10-24T16:06:42+00:00",
-   "summary": "Exporters say EU-India, UK-India trade deals could erode advantage; call for lower costs",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -454,110 +509,6 @@
    "domestic": false
   },
   {
-   "title": "Copper rebounds as inventories, stock markets stabilise",
-   "url": "https://www.brecorder.com/news/40445629/copper-rebounds-as-inventories-stock-markets-stabilise",
-   "source": "Business Recorder",
-   "published": "2026-10-23T11:10:50+00:00",
-   "summary": "LONDON: Copper prices bounced on Friday after a sharp decline in the previous session as stock markets stabilised and the build-up of inventories slowed. Three-month copper on the London Metal Exchange gained 0.8% to $14,190 a metric ton by 1000 GMT, having slid 1.9% to a five-week low in the previous session. Metals m…",
-   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Surging oil prices drag Indian shares to weekly losses",
-   "url": "https://www.brecorder.com/news/40445622/surging-oil-prices-drag-indian-shares-to-weekly-losses",
-   "source": "Business Recorder",
-   "published": "2026-10-23T10:53:10+00:00",
-   "summary": "Indian shares fell on Friday and logged weekly losses as surging oil prices amid Middle East tensions stoked concerns over inflation and company earnings. The benchmark Nifty 50 fell 0.39% to 22,600, and the Sensex shed 0.17% to 73,123.83. The indexes lost 2.4% and 2.2% this week, respectively, with sentiment dampened …",
-   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee little changed this week as oil-fueled declines wipe out early gains",
-   "url": "https://www.brecorder.com/news/40445624/indian-rupee-little-changed-this-week-as-oil-fueled-declines-wipe-out-early-gains",
-   "source": "Business Recorder",
-   "published": "2026-10-23T10:52:33+00:00",
-   "summary": "MUMBAI: The Indian rupee weakened for a second straight session on Friday as surging oil prices spurred risk aversion, erasing gains made earlier in the week and leaving the currency little changed, despite easing expectations of further US rate hikes. The Indian rupee opened the session marginally higher at 94.79 agai…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Soybeans rise on strong export sales, but harvest keeps weekly loss in view",
-   "url": "https://www.brecorder.com/news/40445602/soybeans-rise-on-strong-export-sales-but-harvest-keeps-weekly-loss-in-view",
-   "source": "Business Recorder",
-   "published": "2026-10-23T06:24:31+00:00",
-   "summary": "BEIJING: Chicago soybeans rose on Friday, supported by strong US export sales, but remained on track for a weekly loss as the Midwest harvest progressed. The most-traded soybean contract on the Chicago Board of Trade (CBOT) rose 0.32% to $12.57 a bushel, as of 0345 GMT, though it was down 0.34% for the week. The US Dep…",
-   "image": "https://i.brecorder.com/large/2026/10/15011629d19057b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan holds steady, set for fourth weekly rise",
-   "url": "https://www.brecorder.com/news/40445601/chinas-yuan-holds-steady-set-for-fourth-weekly-rise",
-   "source": "Business Recorder",
-   "published": "2026-10-23T06:15:10+00:00",
-   "summary": "SHANGHAI: China’s yuan held steady against the dollar on Friday but remained on course for a fourth consecutive weekly rise, as a sharp selloff in the share market weighed on investor sentiment. Investors also stayed cautious ahead of major central bank meetings next week, with the Federal Reserve, Bank of Japan and Eu…",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold heads for steep weekly loss as oil prices fuel Fed rate concerns",
-   "url": "https://www.brecorder.com/news/40445600/gold-heads-for-steep-weekly-loss-as-oil-prices-fuel-fed-rate-concerns",
-   "source": "Business Recorder",
-   "published": "2026-10-23T06:11:32+00:00",
-   "summary": "Gold eased on Friday , headed for its steepest weekly decline in over four months as elevated oil prices bolstered higher-for-longer interest rate expectations, while investors awaited next week’s Federal Reserve policy meet. Spot gold eased 0.2% to $4,016.27 per ounce by 0351 GMT, paring losses slightly after touching…",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China stocks slide as blue chips head for longest weekly losing streak",
-   "url": "https://www.brecorder.com/news/40445598/china-stocks-slide-as-blue-chips-head-for-longest-weekly-losing-streak",
-   "source": "Business Recorder",
-   "published": "2026-10-23T06:07:15+00:00",
-   "summary": "SHANGHAI: China stocks fell on Friday , with the CSI300 index headed for its longest-ever weekly losing run, as a selloff in Wall Street tech shares and a lack of domestic fiscal stimulus weighed on investor sentiment. At the midday break, the benchmark Shanghai composite index fell 1.2%, while the blue-chip CSI300 ind…",
-   "image": "https://i.brecorder.com/large/2021/08/612ea700e446b.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Singapore's core inflation rate rises to 2% in September, below forecast",
-   "url": "https://www.brecorder.com/news/40445597/singapores-core-inflation-rate-rises-to-2-in-september-below-forecast",
-   "source": "Business Recorder",
-   "published": "2026-10-23T06:02:25+00:00",
-   "summary": "SINGAPORE: Singapore’s key consumer price gauge rose 2% in September from a year earlier, official data showed on Friday. The core inflation rate, which excludes private road transport and accommodation costs, was lower than the median forecast of 2.3% in a Reuters poll and August’s reading of 2.2%. Singapore’s core in…",
-   "image": "https://i.brecorder.com/large/2023/05/031019227010e18.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -604,33 +555,6 @@
    "summary": "PSX: Stocks close lower as KSE-100 index falls over 1,500 points",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX.jpg",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks fall as KSE-100 index dips over 2,000 points",
-   "url": "https://arynews.tv/psx-stocks-fall-as-kse-100-index-dips-over-2000-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks fall as KSE-100 index dips over 2,000 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-2.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan receives only two Qatari LNG cargoes in October amid sharp drop in imports",
-   "url": "https://arynews.tv/pakistan-receives-only-two-qatari-lng-cargoes-in-october-amid-sharp-drop-in-imports",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan receives only two Qatari LNG cargoes in October amid sharp drop in imports",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/LNG-1.jpg",
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
