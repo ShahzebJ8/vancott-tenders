@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-26T00:04:18+00:00",
- "count": 49,
- "relevant_count": 15,
- "domestic_count": 17,
+ "generated": "2026-10-26T04:26:21+00:00",
+ "count": 48,
+ "relevant_count": 14,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (10)",
   "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
+   "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation",
+   "source": "Dawn",
+   "published": "2026-10-26T01:06:13+00:00",
+   "summary": "ISLAMABAD: Pakistan and Qatar have reaffirmed their commitment to strengthening bilateral economic ties, exploring new avenues for trade and investment, and expanding cooperation across key sectors, including agriculture, food security, manufacturing, information technology, maritime transport and infrastructure. The c…",
+   "image": "https://i.dawn.com/large/2026/10/2603165688089dc.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Targeted power subsidies: PM sets up ministerial body to devise strategy",
    "url": "https://www.brecorder.com/news/40445942/targeted-power-subsidies-pm-sets-up-ministerial-body-to-devise-strategy",
@@ -167,19 +180,6 @@
    "domestic": true
   },
   {
-   "title": "State Bank of Pakistan's reserves rise by $19m",
-   "url": "https://www.dawn.com/news/2039180/state-bank-of-pakistans-reserves-rise-by-19m",
-   "source": "Dawn",
-   "published": "2026-10-23T02:43:30+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) foreign exchange reserves rose by $19 million to $21.488 billion during the week ending Oct 16, the central bank reported on Thursday. The country’s total liquid foreign reserves totalled $26.833bn, including $5.344bn held by commercial banks. Published in Dawn, October 23rd, 2…",
-   "image": "https://i.dawn.com/large/2026/10/07083036c5d4edf.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Govt loans turn out to be stimulant for real estate",
    "url": "https://www.dawn.com/news/2039183/govt-loans-turn-out-to-be-stimulant-for-real-estate",
    "source": "Dawn",
@@ -206,20 +206,6 @@
    "domestic": true
   },
   {
-   "title": "Seized goods auction goes digital",
-   "url": "https://www.dawn.com/news/2039181/seized-goods-auction-goes-digital",
-   "source": "Dawn",
-   "published": "2026-10-23T02:05:57+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has introduced an electronic auction system to dispose of seized and confiscated goods, allowing registered bidders to participate online for a minimum registration fee of Rs25,000. The new mechanism allows a 72-hour online bidding period, electronic payment of auction proc…",
-   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
-   "topics": [
-    "Budget & spending",
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Govt pushes China for tariff concessions",
    "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
    "source": "The Express Tribune",
@@ -234,12 +220,77 @@
    "domestic": true
   },
   {
-   "title": "Mixed trend in prices of essential food items",
-   "url": "https://www.brecorder.com/news/40445876/mixed-trend-in-prices-of-essential-food-items",
+   "title": "FBR reforms, again?",
+   "url": "https://www.dawn.com/news/2039843/fbr-reforms-again",
+   "source": "Dawn",
+   "published": "2026-10-26T03:25:43+00:00",
+   "summary": "Prime Minister Shehbaz Sharif’s warning against resistance to tax reforms has once again put a spotlight on the efforts to restructure the Federal Board of Revenue (FBR). The warning came after a pen-down strike call by the Inland Revenue Service Officers Association (IRSOA) in opposition to the reforms and subsequent …",
+   "image": "https://i.dawn.com/large/2026/01/01075801c6f8204.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee faces pressure from oil headwinds, lack of inflow support",
+   "url": "https://www.brecorder.com/news/40445947/indian-rupee-faces-pressure-from-oil-headwinds-lack-of-inflow-support",
    "source": "Business Recorder",
-   "published": "2026-10-25T23:07:33+00:00",
-   "summary": "PESHAWAR: Mixed trend in prices of essential food commodities, including vegetable, live chicken/meat, flour, sugar, cooking oil/ghee, and other grocery items was witnessed in the retail market. A weekly market carried out by Business Recorder here on Sunday revealed that almost all important daily use items have touch…",
-   "image": "https://i.brecorder.com/large/2023/09/6507a24aa9a0a.jpg",
+   "published": "2026-10-26T03:09:58+00:00",
+   "summary": "MUMBAI: The Indian rupee is likely to come under pressure at Monday’s open , potentially slipping below the psychological level of 95, ​with an oil price overhang compounded by the likely absence ‌of last week’s supportive flows. The Indian rupee is expected to open in the 95.00-95.04 range, per traders, after settling…",
+   "image": "https://i.brecorder.com/large/2026/10/2608074888f4d3d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares on track for muted open as oil concerns persist, Fed in focus",
+   "url": "https://www.brecorder.com/news/40445946/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-26T03:07:10+00:00",
+   "summary": "Indian shares are expected to open little changed on Monday as sentiment remains subdued over elevated crude oil prices and their ​impact on inflation, with investors also focused on the US ‌Federal Reserve’s policy decision later this week. GIFT Nifty futures were at 22,608 at 7:46 a.m. IST, indicating a muted start f…",
+   "image": "https://i.brecorder.com/large/2026/10/26080427327fd49.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Currency markets subdued ahead of pivotal central bank week",
+   "url": "https://www.brecorder.com/news/40445945/currency-markets-subdued-ahead-of-pivotal-central-bank-week",
+   "source": "Business Recorder",
+   "published": "2026-10-26T03:02:26+00:00",
+   "summary": "HONG KONG: Major currencies traded in tight ranges on Monday to ​begin a busy week of central bank decisions and corporate earnings, while a pullback in oil ‌prices and Treasury yields weighed on the dollar. Oil prices eased , with Brent crude futures down more than 1% at around $115 a barrel after hitting a six-month …",
+   "image": "https://i.brecorder.com/large/2026/10/260758169863995.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks trade cautiously in Asia, Brent off six-month top",
+   "url": "https://www.brecorder.com/news/40445944/stocks-trade-cautiously-in-asia-brent-off-six-month-top",
+   "source": "Business Recorder",
+   "published": "2026-10-26T02:56:11+00:00",
+   "summary": "SYDNEY: Stock markets traded cautiously on Monday as oil eased from six-month highs ahead of a week packed with central bank meetings and corporate earnings that will ​further test investor confidence in the AI boom. Brent oil slipped 1.6% to $114.88 following reports that Qatari mediators were in Tehran on Sunday as p…",
+   "image": "https://i.brecorder.com/large/2026/10/260751129058f48.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Keeping lights on gets pricier by the day",
+   "url": "https://www.brecorder.com/news/40445894/keeping-lights-on-gets-pricier-by-the-day",
+   "source": "Business Recorder",
+   "published": "2026-10-26T01:59:18+00:00",
+   "summary": "Pakistan’s power generation is growing, but the cost of meeting demand is rising much faster. September brought another reminder that the country’s fuel mix is becoming increasingly expensive, with limited RLNG availability pushing more generation onto imported coal and, at the margin, high-speed diesel (HSD). Power ge…",
+   "image": "https://i.brecorder.com/large/2026/01/02065014b154d84.webp",
    "topics": [
     "Economy"
    ],
@@ -250,7 +301,7 @@
    "title": "Fixing a broken tax system",
    "url": "https://www.brecorder.com/news/40445879/fixing-a-broken-tax-system",
    "source": "Business Recorder",
-   "published": "2026-10-25T23:07:33+00:00",
+   "published": "2026-10-26T01:16:09+00:00",
    "summary": "EDITORIAL: The IMF’s (International Monetary Fund’s) call for Pakistan to build on its hard-won economic stability by pursuing a fairer, broader and more predictable tax system strikes at the heart of one of the country’s most persistent economic failings: an inequitable tax regime that places a disproportionate burden…",
    "image": "https://i.brecorder.com/large/2025/05/682bb5400d94b.jpg",
    "topics": [
@@ -260,12 +311,12 @@
    "domestic": false
   },
   {
-   "title": "Keeping lights on gets pricier by the day",
-   "url": "https://www.brecorder.com/news/40445894/keeping-lights-on-gets-pricier-by-the-day",
+   "title": "Mixed trend in prices of essential food items",
+   "url": "https://www.brecorder.com/news/40445876/mixed-trend-in-prices-of-essential-food-items",
    "source": "Business Recorder",
    "published": "2026-10-25T23:07:33+00:00",
-   "summary": "Pakistan’s power generation is growing, but the cost of meeting demand is rising much faster. September brought another reminder that the country’s fuel mix is becoming increasingly expensive, with limited RLNG availability pushing more generation onto imported coal and, at the margin, high-speed diesel (HSD). Power ge…",
-   "image": "https://i.brecorder.com/large/2024/09/1916135762f7b76.png",
+   "summary": "PESHAWAR: Mixed trend in prices of essential food commodities, including vegetable, live chicken/meat, flour, sugar, cooking oil/ghee, and other grocery items was witnessed in the retail market. A weekly market carried out by Business Recorder here on Sunday revealed that almost all important daily use items have touch…",
+   "image": "https://i.brecorder.com/large/2023/09/6507a24aa9a0a.jpg",
    "topics": [
     "Economy"
    ],
@@ -370,19 +421,6 @@
    "published": "2026-10-23T15:43:59+00:00",
    "summary": "KSE-100 index sheds 1,549 points as US-Iran tensions escalate",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling continues, KSE-100 down nearly 1%",
-   "url": "https://www.brecorder.com/news/40445590/psx-selling-continues-kse-100-down-nearly-1",
-   "source": "Business Recorder",
-   "published": "2026-10-23T13:41:32+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX) as fighting intensified between Saudi Arabia and Yemen-based Houthis, with the benchmark KSE-100 Index dropping nearly 1% on Friday. The market remained under pressure throughout much of the session. The index opened near the upper end of its daily range, …",
-   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
    "topics": [
     "Economy"
    ],
@@ -517,59 +555,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "BOJ chief Ueda to speak at IMF lecture on November 6",
-   "url": "https://www.brecorder.com/news/40445592/boj-chief-ueda-to-speak-at-imf-lecture-on-november-6",
-   "source": "Business Recorder",
-   "published": "2026-10-23T05:37:38+00:00",
-   "summary": "TOKYO: Bank of Japan Governor Kazuo Ueda is scheduled to speak at the International Monetary Fund’s central banking lecture in Washington on November 6, the central bank said on Friday. After delivering a speech, Ueda will hold a conversation with International Monetary Fund Managing Director Kristalina Georgieva, acco…",
-   "image": "https://i.brecorder.com/large/2026/09/19033157d6a16fe.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s Interloop to expand production with $23.5mn investment",
-   "url": "https://www.brecorder.com/news/40445591/pakistans-interloop-to-expand-production-with-235mn-investment",
-   "source": "Business Recorder",
-   "published": "2026-10-23T05:36:45+00:00",
-   "summary": "Interloop Limited, one of Pakistan’s largest textile exporters, will invest Rs6.5 billion, i.e. approx. $23.5 million, to expand and modernise its apparel and hosiery operations, after its board approved the additional capex. Interloop, recognised among the largest listed companies on the PSX, informed the bourse in a …",
-   "image": "https://i.brecorder.com/large/2024/06/26170040901852f.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Flight to safety, rising oil put Indian rupee’s recovery to the test",
-   "url": "https://www.brecorder.com/news/40445586/flight-to-safety-rising-oil-put-indian-rupees-recovery-to-the-test",
-   "source": "Business Recorder",
-   "published": "2026-10-23T03:09:01+00:00",
-   "summary": "MUMBAI: The Indian rupee’s recent recovery is likely to face headwinds on Friday from a flight to safety that’s weighing ​on risk-sensitive currencies and rising oil prices which threaten to ‌spur increased hedging by importers. The Indian rupee is expected to open at 94.84-94.88 per dollar, according to traders, after…",
-   "image": "https://i.brecorder.com/large/2026/10/23080656020d884.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMF says Middle East, North Africa and Pakistan GDP to contract 1.3pc in 2026",
-   "url": "https://www.dawn.com/news/2038985/imf-says-middle-east-north-africa-and-pakistan-gdp-to-contract-13pc-in-2026",
-   "source": "Dawn",
-   "published": "2026-10-22T13:07:31+00:00",
-   "summary": "The International Monetary Fund (IMF) on Thursday forecast a sharp drop in economic output in Pakistan, the Middle East and North Africa this year due to the US-Israeli-led war against Iran , followed by a rebound to 6.6 per cent growth in 2027, while warning that further energy production disruptions could worsen the …",
-   "image": "https://i.dawn.com/large/2026/01/12072304a3a31cc.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
