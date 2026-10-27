@@ -1,28 +1,15 @@
 {
- "generated": "2026-10-27T05:59:53+00:00",
- "count": 47,
- "relevant_count": 17,
- "domestic_count": 20,
+ "generated": "2026-10-27T11:34:31+00:00",
+ "count": 37,
+ "relevant_count": 12,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (12)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (10)",
+  "Dawn": "ok (10)",
+  "Business Recorder": "ok (12)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (5)"
  },
  "stories": [
-  {
-   "title": "PSX: buying at bourse, KSE-100 gains over 950 points",
-   "url": "https://www.brecorder.com/news/40446095/psx-buying-at-bourse-kse-100-gains-over-950-points",
-   "source": "Business Recorder",
-   "published": "2026-10-27T05:28:17+00:00",
-   "summary": "Buying was observed at the Pakistan Stock Exchange (PSX) following the State Bank of Pakistan (SBP) decision to raise the policy rate by 50bps , with the benchmark KSE-100 Index gaining over 950 points during the opening minutes of trading on Tuesday. At 10:05am, the benchmark index was hovering at 163,997.54, up 959.0…",
-   "image": "https://i.brecorder.com/large/2026/10/27102301f211cea.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
   {
    "title": "Bank of Punjab earns Rs14.5bn",
    "url": "https://www.dawn.com/news/2040058/bank-of-punjab-earns-rs145bn",
@@ -37,90 +24,12 @@
    "domestic": true
   },
   {
-   "title": "IMF consulted before fixing wheat price, says Rana Tanveer",
-   "url": "https://www.brecorder.com/news/40446068/imf-consulted-before-fixing-wheat-price-says-rana-tanveer",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "ISLAMABAD: The government has taken the International Monetary Fund (IMF) on board before fixing the wheat price at Rs4,500 per maund, Federal Minister for National Food Security and Research Rana Tanveer Hussain said on Monday. Addressing a press conference here on Monday, the minister said the national wheat policy w…",
-   "image": "https://i.brecorder.com/large/2023/10/6519f114398e2.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR sets deadline for textile unit surveillance camera installation",
-   "url": "https://www.brecorder.com/news/40446070/fbr-sets-deadline-for-textile-unit-surveillance-camera-installation",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) on Monday directed all textile spinning units to install video surveillance cameras by November 15, 2026 for monitoring of production, cotton bales and processing of natural, man-made and blended fibres in loose including cotton, polyester, viscose, wool and acrylic. In thi…",
-   "image": "https://i.brecorder.com/large/2025/12/694201a3e79c0.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Petrol price hiked by Rs1.54, HSD’s by 2.16",
-   "url": "https://www.brecorder.com/news/40446071/petrol-price-hiked-by-rs154-hsds-by-216",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "ISLAMABAD: The Oil and Gas Regulatory Authority (OGRA) has announced increase in fuel prices for October 27, driven by rising international market trends and import costs. Petrol has been increased by Rs1.54, bringing the new price to Rs379.25 per litre (up from Rs 377.71). High-Speed Diesel (HSD) has gone up by Rs2.16…",
-   "image": "https://i.brecorder.com/large/2026/09/09055551fb068c1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "IPPs given deadline to restore RTUs",
-   "url": "https://www.brecorder.com/news/40446075/ipps-given-deadline-to-restore-rtus",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "ISLAMABAD: The National Grid Company of Pakistan Limited (NGC) has directed concerned independent power producers (IPPs) and other plant operators to restore remote telemetry units (RTUs), gateways and associated communication links by specified deadlines, as the company seeks to achieve at least 95 percent Supervisory…",
-   "image": "https://i.brecorder.com/large/2024/11/672935b29cbf7.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "CCoSOEs approves key appointments at PSO, other entities",
-   "url": "https://www.brecorder.com/news/40446077/ccosoes-approves-key-appointments-at-pso-other-entities",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "ISLAMABAD: The Cabinet Committee on State-Owned Enterprises (CCoSOEs) has approved key board appointments at Pakistan State Oil (PSO), the Strategic Digital Wallet Company and the Clean Environment Fund Company and deferred a proposal to establish the Pakistan Pharma Export Promotion Council for further consultations. …",
-   "image": "https://i.brecorder.com/large/2026/09/05012707438e4cd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Govt orders review of existing drug pricing formula to ensure medicines are priced fairly",
    "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly",
    "source": "Dawn",
    "published": "2026-10-26T18:59:17+00:00",
    "summary": "ISLAMABAD: The government on Monday warned that drug prices must not be increased without valid justification and ordered a review of the existing pricing formula to ensure medicines are priced fairly without creating unnecessary hurdles for patients, importers or the pharmaceutical industry. Economic Affairs Minister …",
    "image": "https://i.dawn.com/large/2026/03/020804269c2cb62.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40445990/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-26T15:58:30+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Monday. The local unit closed the day at 276.81, a gain of Re0.01 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar for another week, appreciating 0.03% i…",
-   "image": "https://i.brecorder.com/large/2025/10/21035542e0fcc76.webp",
    "topics": [
     "Economy"
    ],
@@ -169,20 +78,6 @@
    "domestic": true
   },
   {
-   "title": "SBP hikes policy rate to 12% on inflation, energy price concerns",
-   "url": "https://www.brecorder.com/news/40445969/sbp-hikes-policy-rate-to-12-on-inflation-energy-price-concerns",
-   "source": "Business Recorder",
-   "published": "2026-10-26T11:42:39+00:00",
-   "summary": "The State Bank of Pakistan (SBP) Monetary Policy Committee (MPC) on Monday raised the policy rate by 50 basis points (bps) to 12%, in line with market expectations. The decision was taken at the MPC’s third meeting of fiscal year 2026-27. The latest decision marked the SBP’s first rate hike since June 2026 amid inflati…",
-   "image": "https://i.brecorder.com/large/2026/07/281607395b8cb5f.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
    "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation",
    "source": "Dawn",
@@ -202,19 +97,6 @@
    "published": "2026-10-25T04:07:25+00:00",
    "summary": "ISLAMABAD: Adviser to the Prime Minister on Industries and Production Haroon Akhtar Khan on Saturday said banks had failed to extend loans under the Rs2.2 trillion Small and Medium Enterprises (SME) fund. Chairing a consultative session, Mr Khan called on the regulators, including the State Bank of Pakistan (SBP) and t…",
    "image": "https://i.dawn.com/large/2026/07/2609475177c0562.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan's trade gap with Gulf partners narrows",
-   "url": "https://www.dawn.com/news/2039577/pakistans-trade-gap-with-gulf-partners-narrows",
-   "source": "Dawn",
-   "published": "2026-10-25T04:02:03+00:00",
-   "summary": "ISLAMABAD: Pakistan’s trade deficit with Gulf partner countries narrowed 26.35 per cent to $2.85bn in the first quarter of 2026-27 against $3.87bn a year earlier, largely due to lower imports and moderately higher exports. The steepest declines were 97.46pc and 72.51pc in import payments to Kuwait and Qatar. These two …",
-   "image": "https://i.dawn.com/large/2022/06/62992e1d57f96.jpg",
    "topics": [
     "Economy"
    ],
@@ -276,6 +158,97 @@
    "domestic": true
   },
   {
+   "title": "Copper climbs on AI rebound, China demand strength",
+   "url": "https://www.brecorder.com/news/40446133/copper-climbs-on-ai-rebound-china-demand-strength",
+   "source": "Business Recorder",
+   "published": "2026-10-27T11:33:05+00:00",
+   "summary": "Copper rose on Tuesday as sentiment around AI stocks recovered and demand strengthened in top consumer China, although higher oil prices and a firmer dollar capped gains. Benchmark three-month copper on the London Metal Exchange was up 0.7% to $14,421.50 per metric ton as of 1030 GMT after ending the previous session l…",
+   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee boxed in range; traders focus on oil, outflows and RBI's defence",
+   "url": "https://www.brecorder.com/news/40446129/indian-rupee-boxed-in-range-traders-focus-on-oil-outflows-and-rbis-defence",
+   "source": "Business Recorder",
+   "published": "2026-10-27T11:13:11+00:00",
+   "summary": "MUMBAI: The Indian rupee seesawed in a narrow range against the dollar on Tuesday before ending little changed, while underlying sentiment remained weak. The Indian rupee ended at 95.1150 per dollar, up less than 0.1% from 95.1850 on Monday. Persistent external pressures from higher oil prices and equity outflows have …",
+   "image": "https://i.brecorder.com/large/2026/10/2608074888f4d3d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold eases on firmer dollar ahead of Fed decision",
+   "url": "https://www.brecorder.com/news/40446116/gold-eases-on-firmer-dollar-ahead-of-fed-decision",
+   "source": "Business Recorder",
+   "published": "2026-10-27T07:35:29+00:00",
+   "summary": "Gold slipped on Tuesday , weighed down by a firmer US dollar , while investors looked ahead to the Federal Reserve’s policy meeting for fresh guidance on the outlook for interest rates. Spot gold eased 0.2% to $4,007.29 per ounce by 0321 GMT, while US gold futures for December delivery dropped 0.5% to $4,019.70. The US…",
+   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "No pressure from US to cut Russian oil imports, Indian oil minister says",
+   "url": "https://www.brecorder.com/news/40446109/no-pressure-from-us-to-cut-russian-oil-imports-indian-oil-minister-says",
+   "source": "Business Recorder",
+   "published": "2026-10-27T06:39:49+00:00",
+   "summary": "GOA: India has faced no pressure from ​the US to reduce its Russian crude ‌imports, oil minister Hardeep Singh Puri said on Tuesday at an industry event. “I never felt anything,” Puri said when ​asked if there has been pressure to ​cut Russian oil imports. Puri said Middle East oil ⁠supplies have been rising as the reg…",
+   "image": "https://i.brecorder.com/large/2026/10/271139300399c8f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korean shares surge on US rally, strong GDP",
+   "url": "https://www.brecorder.com/news/40446105/south-korean-shares-surge-on-us-rally-strong-gdp",
+   "source": "Business Recorder",
+   "published": "2026-10-27T06:17:42+00:00",
+   "summary": "SEOUL: Round-up of South Korean financial markets: South Korean shares rose more than 4% on Tuesday, led by gains in chipmakers on a rally in US AI stocks and strong economic growth data. The benchmark KOSPI was up 240.38 points, or 4.39%, at 5,709.85, as of 0153 GMT. US stocks closed higher on Monday, with the Philade…",
+   "image": "https://i.brecorder.com/large/2024/09/2410065632f72c3.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar stronger on Tuesday",
+   "url": "https://www.brecorder.com/news/40446103/thai-bahtus-dollar-stronger-on-tuesday",
+   "source": "Business Recorder",
+   "published": "2026-10-27T06:11:04+00:00",
+   "summary": "BANGKOK: The Thai baht strengthened slightly against the US dollar on Tuesday. At 0224 GMT, the baht was 0.12% higher at 33.72 versus the dollar, after trading in a range of 33.730 to 33.810. It ended the previous session at 33.76 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yuan holds flat near four-year peak; central bank meetings awaited",
+   "url": "https://www.brecorder.com/news/40446102/yuan-holds-flat-near-four-year-peak-central-bank-meetings-awaited",
+   "source": "Business Recorder",
+   "published": "2026-10-27T06:05:20+00:00",
+   "summary": "HONG KONG: China’s yuan held steady near a four-year high on Tuesday as its central bank slowed the pace of appreciation with weaker guidance, while broader currency markets were little changed ahead of major central bank interest rate decisions. The yuan last traded largely flat at 6.6684 to the dollar, holding near t…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Australia, NZ dollars brace for volatility as rate risk looms",
    "url": "https://www.brecorder.com/news/40446099/australia-nz-dollars-brace-for-volatility-as-rate-risk-looms",
    "source": "Business Recorder",
@@ -295,19 +268,6 @@
    "published": "2026-10-27T05:48:21+00:00",
    "summary": "Australian shares slid on Tuesday as losses in financials outweighed gains in mining stocks, boosted by stronger copper prices, while investors awaited quarterly inflation data for clues on the central bank’s next policy move. The S&P/ASX 200 index fell 0.3% to 8,783.00, as of 0036 GMT. The benchmark gained 0.2% on Mon…",
    "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM committee sets 120-day deadline for shrimp farming roadmap",
-   "url": "https://www.brecorder.com/news/40446096/pm-committee-sets-120-day-deadline-for-shrimp-farming-roadmap",
-   "source": "Business Recorder",
-   "published": "2026-10-27T05:37:00+00:00",
-   "summary": "A sub-committee constituted by the prime minister has set a 120-day deadline to prepare a roadmap for expanding shrimp farming, improving value addition and boosting exports as part of a broader 24-month implementation and review process. Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry chaired a me…",
-   "image": "https://i.brecorder.com/large/2025/10/091458172717176.webp",
    "topics": [
     "Economy"
    ],
@@ -393,19 +353,6 @@
    "domestic": false
   },
   {
-   "title": "Uncertainty subsides over rise in reserves, tax receipts",
-   "url": "https://tribune.com.pk/story/2637077/uncertainty-subsides-over-rise-in-reserves-tax-receipts",
-   "source": "The Express Tribune",
-   "published": "2026-10-26T16:18:44+00:00",
-   "summary": "It comes despite worries about fuel prices, subsidies, IMF talks, says study",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX recovers from policy rate-driven sell-off",
    "url": "https://tribune.com.pk/story/2637079/psx-recovers-from-policy-rate-driven-sell-off",
    "source": "The Express Tribune",
@@ -432,71 +379,6 @@
    "domestic": false
   },
   {
-   "title": "Most Gulf bourses rebound on Iran diplomacy hopes; Egypt falls ahead of Saudi defence vote",
-   "url": "https://www.brecorder.com/news/40446000/most-gulf-bourses-rebound-on-iran-diplomacy-hopes-egypt-falls-ahead-of-saudi-defence-vote",
-   "source": "Business Recorder",
-   "published": "2026-10-26T13:50:39+00:00",
-   "summary": "Most Gulf stock markets closed higher on Monday, with Saudi Arabia and Qatar posting their strongest gains in months, as scheduled talks between Iranian leaders and officials from Saudi Arabia, Turkiye and Pakistan raised hopes of easing tensions between the US and Iran. The talks, set to take place in Tehran on Monday…",
-   "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares snap losing run as investors assess earnings",
-   "url": "https://www.brecorder.com/news/40445987/indian-shares-snap-losing-run-as-investors-assess-earnings",
-   "source": "Business Recorder",
-   "published": "2026-10-26T10:33:39+00:00",
-   "summary": "Indian shares snapped a four-session falling streak on Monday, aided by a post-earnings rise in key benchmark constituents such as Dr Reddy’s, JSW Steel and Kotak Mahindra Bank. However, inflation concerns driven by Brent crude futures trading around $115 a barrel kept a lid on gains. Investors awaited the Federal Rese…",
-   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee weakens for third session as importers step up dollar bids, foreign outflows bite",
-   "url": "https://www.brecorder.com/news/40445984/indian-rupee-weakens-for-third-session-as-importers-step-up-dollar-bids-foreign-outflows-bite",
-   "source": "Business Recorder",
-   "published": "2026-10-26T10:14:54+00:00",
-   "summary": "MUMBAI: The Indian rupee declined for the third consecutive trading session on Monday as importers stepped up dollar purchases, while elevated oil prices and foreign outflows also weighed on the local currency. The Indian rupee opened little changed against the US dollar, but slipped to end at 95.1850, down 0.3% for th…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Kiwi dollar holds steady ahead of RBNZ, Aussie awaits inflation test",
-   "url": "https://www.brecorder.com/news/40445967/kiwi-dollar-holds-steady-ahead-of-rbnz-aussie-awaits-inflation-test",
-   "source": "Business Recorder",
-   "published": "2026-10-26T06:52:29+00:00",
-   "summary": "SYDNEY: The kiwi dollar was little changed on Monday ahead of a central bank decision widely expected to see interest rates rise for a third time this year, while the Aussie awaited inflation data that could make or break the case for an imminent rate hike. The kiwi was steady at $0.57, after climbing 0.8% last week fo…",
-   "image": "https://i.brecorder.com/large/2026/07/201040430441a47.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares slip as bank losses outweigh mining gains",
-   "url": "https://www.brecorder.com/news/40445966/australian-shares-slip-as-bank-losses-outweigh-mining-gains",
-   "source": "Business Recorder",
-   "published": "2026-10-26T06:49:30+00:00",
-   "summary": "Australian shares fell on Monday , with losses in financials outweighing gains in miners on stronger commodity prices, while investors focused on a key inflation print later this week for clues on the central bank’s next move. The S&P/ASX 200 index fell 0.5% to 8,753.10 as of 0037 GMT, heading for its worst session sin…",
-   "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "How long will Pakistan's economy be ‘indebted’ to expats?",
    "url": "https://www.dawn.com/news/2039839/how-long-will-pakistans-economy-be-indebted-to-expats",
    "source": "Dawn",
@@ -506,19 +388,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FBR reforms, again?",
-   "url": "https://www.dawn.com/news/2039843/fbr-reforms-again",
-   "source": "Dawn",
-   "published": "2026-10-26T03:25:43+00:00",
-   "summary": "Prime Minister Shehbaz Sharif’s warning against resistance to tax reforms has once again put a spotlight on the efforts to restructure the Federal Board of Revenue (FBR). The warning came after a pen-down strike call by the Inland Revenue Service Officers Association (IRSOA) in opposition to the reforms and subsequent …",
-   "image": "https://i.dawn.com/large/2026/01/01075801c6f8204.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
