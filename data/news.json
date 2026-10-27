@@ -1,15 +1,67 @@
 {
- "generated": "2026-10-27T11:34:31+00:00",
- "count": 37,
- "relevant_count": 12,
- "domestic_count": 11,
+ "generated": "2026-10-27T16:53:52+00:00",
+ "count": 43,
+ "relevant_count": 14,
+ "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (10)",
-  "Business Recorder": "ok (12)",
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Turning solar boom into a shared resource",
+   "url": "https://www.brecorder.com/news/40446151/turning-solar-boom-into-a-shared-resource",
+   "source": "Business Recorder",
+   "published": "2026-10-27T16:42:37+00:00",
+   "summary": "Imagine a small mud house in Sindh’s Tharparkar. Imagine now a mother switching on a single light after sunset, prodding children for the umpteenth time to finish homework promptly, since the battery storing the power won’t last through the night. Some 1,432 kilometres away, towards the northeast of Tharparkar, is Isla…",
+   "image": "https://i.brecorder.com/large/2026/01/20070354e5572ef.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan rupee extends gain against US dollar",
+   "url": "https://www.brecorder.com/news/40446137/pakistan-rupee-extends-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-27T16:11:47+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Tuesday. The local unit closed the day at 276.80, a gain of Re0.01 against the greenback. On Monday , the rupee had closed at 276.81 against the dollar. Internationally, the dollar index held steady near a one-week high on…",
+   "image": "https://i.brecorder.com/large/2026/05/11070534e2c6966.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "In bid to boost exports, govt sets 120-day deadline for roadmap to expand shrimp farming",
+   "url": "https://www.dawn.com/news/2040236/in-bid-to-boost-exports-govt-sets-120-day-deadline-for-roadmap-to-expand-shrimp-farming",
+   "source": "Dawn",
+   "published": "2026-10-27T16:01:10+00:00",
+   "summary": "ISLAMABAD: A sub-committee constituted by the prime minister has set a 120-day deadline to prepare a roadmap to expand shrimp farming, improve value addition and boost exports. Maritime Affairs Minister Junaid Anwar Chaudhry on Tuesday chaired a meeting of the sub-committee on aquaculture and the shrimp value chain, ac…",
+   "image": "https://i.dawn.com/large/2026/10/271906377453f40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "New private equity policy framework on the horizon to bring over $10bn in investments",
+   "url": "https://www.dawn.com/news/2040219/new-private-equity-policy-framework-on-the-horizon-to-bring-over-10bn-in-investments",
+   "source": "Dawn",
+   "published": "2026-10-27T13:46:46+00:00",
+   "summary": "ISLAMABAD: The government is set to roll out a new private equity policy framework covering enhanced risk portfolios, targeting $10 to $15 billion in tax-neutral investment from domestic and international players in the private equity market. The government aims to finalise the policy framework within the next two week…",
+   "image": "https://i.dawn.com/large/2025/11/07073455454b947.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Bank of Punjab earns Rs14.5bn",
    "url": "https://www.dawn.com/news/2040058/bank-of-punjab-earns-rs145bn",
@@ -158,6 +210,32 @@
    "domestic": true
   },
   {
+   "title": "Iran security chief meets Supreme Leader after talks with Makkah pact countries",
+   "url": "https://www.brecorder.com/news/40446141/iran-security-chief-meets-supreme-leader-after-talks-with-makkah-pact-countries",
+   "source": "Business Recorder",
+   "published": "2026-10-27T12:51:57+00:00",
+   "summary": "DUBAI: Iranian Security Council chief Mohsen Rezaei on Tuesday met Supreme Leader Ayatollah Mojtaba Khamenei, not seen in public since succeeding his slain father in March, a day after holding talks with representatives of Pakistan, Saudi Arabia and Turkiye. State media said Khamenei had stressed the importance of purs…",
+   "image": "https://i.brecorder.com/large/2026/08/30112256ce206d8.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion",
+   "url": "https://www.brecorder.com/news/40446138/meta-eyes-record-975-billion-equity-raise-to-fund-ai-expansion",
+   "source": "Business Recorder",
+   "published": "2026-10-27T12:14:23+00:00",
+   "summary": "Meta Platforms on Tuesday raisedthe planned size of its largest-ever equity offerings to $97.5 billion, as the social media giant taps the public market to aggressively expand its AI infrastructure. The fundraising plan, among the biggest by an AI company, has also drawn interest of up to $5 billion in total from Nvidi…",
+   "image": "https://i.brecorder.com/large/2026/10/2123584322cc51f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Copper climbs on AI rebound, China demand strength",
    "url": "https://www.brecorder.com/news/40446133/copper-climbs-on-ai-rebound-china-demand-strength",
    "source": "Business Recorder",
@@ -190,19 +268,6 @@
    "published": "2026-10-27T07:35:29+00:00",
    "summary": "Gold slipped on Tuesday , weighed down by a firmer US dollar , while investors looked ahead to the Federal Reserve’s policy meeting for fresh guidance on the outlook for interest rates. Spot gold eased 0.2% to $4,007.29 per ounce by 0321 GMT, while US gold futures for December delivery dropped 0.5% to $4,019.70. The US…",
    "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "No pressure from US to cut Russian oil imports, Indian oil minister says",
-   "url": "https://www.brecorder.com/news/40446109/no-pressure-from-us-to-cut-russian-oil-imports-indian-oil-minister-says",
-   "source": "Business Recorder",
-   "published": "2026-10-27T06:39:49+00:00",
-   "summary": "GOA: India has faced no pressure from ​the US to reduce its Russian crude ‌imports, oil minister Hardeep Singh Puri said on Tuesday at an industry event. “I never felt anything,” Puri said when ​asked if there has been pressure to ​cut Russian oil imports. Puri said Middle East oil ⁠supplies have been rising as the reg…",
-   "image": "https://i.brecorder.com/large/2026/10/271139300399c8f.webp",
    "topics": [
     "Economy"
    ],
@@ -455,6 +520,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gold prices fall in Pakistan as US dollar strengthens",
+   "url": "https://arynews.tv/gold-prices-fall-in-pakistan-as-us-dollar-strengthens",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Gold prices fall in Pakistan as US dollar strengthens",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Gold-rates-Pakistan.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
