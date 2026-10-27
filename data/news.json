@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-26T21:22:34+00:00",
- "count": 48,
- "relevant_count": 15,
- "domestic_count": 17,
+ "generated": "2026-10-27T00:44:22+00:00",
+ "count": 54,
+ "relevant_count": 16,
+ "domestic_count": 27,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,137 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "IMF consulted before fixing wheat price, says Rana Tanveer",
+   "url": "https://www.brecorder.com/news/40446068/imf-consulted-before-fixing-wheat-price-says-rana-tanveer",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "ISLAMABAD: The government has taken the International Monetary Fund (IMF) on board before fixing the wheat price at Rs4,500 per maund, Federal Minister for National Food Security and Research Rana Tanveer Hussain said on Monday. Addressing a press conference here on Monday, the minister said the national wheat policy w…",
+   "image": "https://i.brecorder.com/large/2023/10/6519f114398e2.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR sets deadline for textile unit surveillance camera installation",
+   "url": "https://www.brecorder.com/news/40446070/fbr-sets-deadline-for-textile-unit-surveillance-camera-installation",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) on Monday directed all textile spinning units to install video surveillance cameras by November 15, 2026 for monitoring of production, cotton bales and processing of natural, man-made and blended fibres in loose including cotton, polyester, viscose, wool and acrylic. In thi…",
+   "image": "https://i.brecorder.com/large/2025/12/694201a3e79c0.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Petrol price hiked by Rs1.54, HSD’s by 2.16",
+   "url": "https://www.brecorder.com/news/40446071/petrol-price-hiked-by-rs154-hsds-by-216",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "ISLAMABAD: The Oil and Gas Regulatory Authority (OGRA) has announced increase in fuel prices for October 27, driven by rising international market trends and import costs. Petrol has been increased by Rs1.54, bringing the new price to Rs379.25 per litre (up from Rs 377.71). High-Speed Diesel (HSD) has gone up by Rs2.16…",
+   "image": "https://i.brecorder.com/large/2026/09/09055551fb068c1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "IPPs given deadline to restore RTUs",
+   "url": "https://www.brecorder.com/news/40446075/ipps-given-deadline-to-restore-rtus",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "ISLAMABAD: The National Grid Company of Pakistan Limited (NGC) has directed concerned independent power producers (IPPs) and other plant operators to restore remote telemetry units (RTUs), gateways and associated communication links by specified deadlines, as the company seeks to achieve at least 95 percent Supervisory…",
+   "image": "https://i.brecorder.com/large/2024/11/672935b29cbf7.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "CCoSOEs approves key appointments at PSO, other entities",
+   "url": "https://www.brecorder.com/news/40446077/ccosoes-approves-key-appointments-at-pso-other-entities",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "ISLAMABAD: The Cabinet Committee on State-Owned Enterprises (CCoSOEs) has approved key board appointments at Pakistan State Oil (PSO), the Strategic Digital Wallet Company and the Clean Environment Fund Company and deferred a proposal to establish the Pakistan Pharma Export Promotion Council for further consultations. …",
+   "image": "https://i.brecorder.com/large/2026/09/05012707438e4cd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Policy rate up 50bps to 12pc on rising risks",
+   "url": "https://www.brecorder.com/news/40446079/policy-rate-up-50bps-to-12pc-on-rising-risks",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "KARACHI: The Monetary Policy Committee (MPC) of the State Bank of Pakistan (SBP) on Monday raised its key policy rate by 50 basis points (bps) to 12 percent, in line with market expectations, as worsening geopolitical developments clouded the inflation outlook and heightened risks to the external account and economic g…",
+   "image": "https://i.brecorder.com/large/2026/01/27014125316d967.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP revises remittance, forex projections upward",
+   "url": "https://www.brecorder.com/news/40446080/sbp-revises-remittance-forex-projections-upward",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has revised its projections for workers’ remittances and foreign exchange reserves upward, reflecting improved inflows and a stronger external account outlook. Addressing a press conference on the monetary policy decision, SBP Governor Jameel Ahmed said Pakistan’s external acco…",
+   "image": "https://i.brecorder.com/large/2023/06/21113145999a873.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "O/N reverse repo rate fixed at 13.00pc, repo at 11.00pc",
+   "url": "https://www.brecorder.com/news/40446081/on-reverse-repo-rate-fixed-at-1300pc-repo-at-1100pc",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has decided to increase ‘Policy Rate’ (Target Rate) from 11.50 percent to 12.00 percent. According to SBP, with increase in target rate, the SBP Overnight Reverse Repo (Ceiling) rate will be at 13.00 percent, i.e. 100 bps above the SBP Policy Rate. READ ALSO: Businesspeople say…",
+   "image": "https://i.brecorder.com/large/2025/06/1314221185bb995.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "1QFY27: forex reserves surge 52pc YoY",
+   "url": "https://www.brecorder.com/news/40446083/1qfy27-forex-reserves-surge-52pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:25+00:00",
+   "summary": "ISLAMABAD: The Ministry of Finance (MoF) has presented a snapshot of macroeconomic indicators for the first quarter of fiscal year 2026-27, highlighting record foreign exchange reserves, rising exports and investment inflows, but the scorecard lacks key indicators such as imports, inflation, per capita income and pover…",
+   "image": "https://i.brecorder.com/large/2026/10/222021516f4254e.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rate hike to raise working-capital costs: PTEA",
+   "url": "https://www.brecorder.com/news/40446036/rate-hike-to-raise-working-capital-costs-ptea",
+   "source": "Business Recorder",
+   "published": "2026-10-26T23:30:24+00:00",
+   "summary": "FAISALABAD: Textile export industry has expressed grave concern over the State Bank of Pakistan’s decision to raise the policy rate by 50 basis points to 12.0 percent, terming the move a severe blow to an industry already buckling under an unprecedented cost-of-production crisis. In a statement on Monday, Pakistan Text…",
+   "image": "https://i.brecorder.com/large/2026/04/080328193d3a03d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Govt orders review of existing drug pricing formula to ensure medicines are priced fairly",
    "url": "https://www.dawn.com/news/2040010/govt-orders-review-of-existing-drug-pricing-formula-to-ensure-medicines-are-priced-fairly",
@@ -237,12 +368,12 @@
    "domestic": true
   },
   {
-   "title": "Putin to meet Iran's Pezeshkian, Emir of Qatar on Tuesday in Moscow, Kremlin says",
-   "url": "https://www.brecorder.com/news/40446002/putin-to-meet-irans-pezeshkian-emir-of-qatar-on-tuesday-in-moscow-kremlin-says",
+   "title": "Monetary policy: the Faustian bargain",
+   "url": "https://www.brecorder.com/news/40446032/monetary-policy-the-faustian-bargain",
    "source": "Business Recorder",
-   "published": "2026-10-26T15:08:58+00:00",
-   "summary": "MOSCOW: Russian President Vladimir Putin will hold meetings with Iranian President Massoud Pezeshkian and the Emir of Qatar Sheikh Tamim bin Hamad Al Thani in Moscow on Tuesday, the Kremlin said. Putin will meet the two men after hosting leaders of a Gas Exporting Countries Forum in Moscow, the Kremlin aide Yuri Ushako…",
-   "image": "https://i.brecorder.com/large/2026/10/262008201db9954.jpg",
+   "published": "2026-10-26T23:30:24+00:00",
+   "summary": "Pakistan’s central bank has made external stability the organising principle of monetary policy. But with the rupee appreciating in real terms, reserves barely covering three months of imports, and another energy shock unfolding, the institution that rescued the economy from crisis risks becoming captive to the politic…",
+   "image": "https://i.brecorder.com/large/2026/04/2906134955ea4b6.webp",
    "topics": [
     "Economy"
    ],
@@ -269,60 +400,6 @@
    "published": "2026-10-26T13:42:25+00:00",
    "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session, with the benchmark KSE-100 Index settling with a gain of over 650 points amid strong late-session buying on Monday. The benchmark index initially came under selling pressure to hit an intraday low of 161,250.06 points. It subsequently recovered, reb…",
    "image": "https://i.brecorder.com/large/2026/10/261007060efd62b.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia says talks in Tehran aim to prevent escalation",
-   "url": "https://www.brecorder.com/news/40445993/saudi-arabia-says-talks-in-tehran-aim-to-prevent-escalation",
-   "source": "Business Recorder",
-   "published": "2026-10-26T12:26:21+00:00",
-   "summary": "Saudi Arabia, which, along with Pakistan and Türkiye, was set to hold talks with Iranian officials in Tehran on Monday, said it was important to open channels for negotiations. The Saudi foreign ministry said in a statement that the talks in Tehran were aimed at preventing escalation and paving the way to agreement.",
-   "image": "https://i.brecorder.com/large/2026/10/2617244566678e9.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Meta to raise up to $95 billion in equity to fund costly AI expansion",
-   "url": "https://www.brecorder.com/news/40445992/meta-to-raise-up-to-95-billion-in-equity-to-fund-costly-ai-expansion",
-   "source": "Business Recorder",
-   "published": "2026-10-26T11:52:45+00:00",
-   "summary": "Meta Platforms said on Monday it plans to raiseup to $95 billion in equity to fund its costly AI-related expansion of data centers, cloud computing power and other infrastructure. The company launched public offerings of about $35 billion in common stock and convertible preferred stock. It also said it plans to launch …",
-   "image": "https://i.brecorder.com/large/2026/10/2123584322cc51f.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Domestic resource trap: When raising revenue shrinks the economy",
-   "url": "https://www.brecorder.com/news/40445991/domestic-resource-trap-when-raising-revenue-shrinks-the-economy",
-   "source": "Business Recorder",
-   "published": "2026-10-26T11:41:43+00:00",
-   "summary": "For decades, a remarkably resilient idea has shaped economic policy across the developing world: before a government can invest, build infrastructure or expand public services, it must first “find the money”. This logic lies at the heart of Domestic Resource Mobilisation (DRM). Governments are urged to raise tax-to-GDP…",
-   "image": "https://i.brecorder.com/large/2026/07/0501134725f44c1.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India approves in principle $22 billion in military purchases",
-   "url": "https://www.brecorder.com/news/40445988/india-approves-in-principle-22-billion-in-military-purchases",
-   "source": "Business Recorder",
-   "published": "2026-10-26T11:23:28+00:00",
-   "summary": "NEW DELHI: India’s Defence Acquisition Council on Monday approved in principle arms and equipment purchases worth 2.12 trillion rupees ($22.27 billion), the defence ministry said in a statement. Approval was given to acquire equipment including very short-range air defence systems, counter-drone systems, surveillance a…",
-   "image": "https://i.brecorder.com/large/2026/04/03090226aaa37d4.webp",
    "topics": [
     "Economy"
    ],
