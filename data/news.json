@@ -1,22 +1,49 @@
 {
- "generated": "2026-10-27T16:53:52+00:00",
- "count": 43,
- "relevant_count": 14,
- "domestic_count": 15,
+ "generated": "2026-10-27T21:10:35+00:00",
+ "count": 42,
+ "relevant_count": 13,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (12)",
+  "Dawn": "ok (11)",
   "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (9)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Govt to end slab system punishing power consumers crossing 200-unit threshold",
+   "url": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-power-consumers-crossing-200-unit-threshold",
+   "source": "Dawn",
+   "published": "2026-10-27T19:27:57+00:00",
+   "summary": "ISLAMABAD: Power Minister Awais Leghari told the Senate on Tuesday that the government has decided to scrap the electricity slab system that punishes consumers for crossing the 200-unit threshold even by one unit, and to provide targeted subsidy only to those deserving. Under the current mechanism, consumers using up t…",
+   "image": "https://i.dawn.com/large/2024/08/31083821ab515bc.png",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Turning solar boom into a shared resource",
    "url": "https://www.brecorder.com/news/40446151/turning-solar-boom-into-a-shared-resource",
    "source": "Business Recorder",
-   "published": "2026-10-27T16:42:37+00:00",
+   "published": "2026-10-27T17:48:50+00:00",
    "summary": "Imagine a small mud house in Sindh’s Tharparkar. Imagine now a mother switching on a single light after sunset, prodding children for the umpteenth time to finish homework promptly, since the battery storing the power won’t last through the night. Some 1,432 kilometres away, towards the northeast of Tharparkar, is Isla…",
    "image": "https://i.brecorder.com/large/2026/01/20070354e5572ef.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Edison, Pakistan gas buyers face QatarEnergy supply halt until year-end",
+   "url": "https://www.brecorder.com/news/40446154/edison-pakistan-gas-buyers-face-qatarenergy-supply-halt-until-year-end",
+   "source": "Business Recorder",
+   "published": "2026-10-27T17:03:29+00:00",
+   "summary": "MILAN: Edison and some Pakistani clients of QatarEnergy will not receive liquefied natural gas (LNG) from the Gulf supplier until the end of this year, the Italian utility and a market source said on Tuesday. In a message on the platform of Italy’s energy markets manager GME, Edison said QatarEnergy had extended force …",
+   "image": "https://i.brecorder.com/large/2026/09/21115511e77ac1c.webp",
    "topics": [
     "Energy & power"
    ],
@@ -140,19 +167,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PM's adviser Haroon voices concern over small and medium enterprises loans",
-   "url": "https://www.dawn.com/news/2039573/pms-adviser-haroon-voices-concern-over-small-and-medium-enterprises-loans",
-   "source": "Dawn",
-   "published": "2026-10-25T04:07:25+00:00",
-   "summary": "ISLAMABAD: Adviser to the Prime Minister on Industries and Production Haroon Akhtar Khan on Saturday said banks had failed to extend loans under the Rs2.2 trillion Small and Medium Enterprises (SME) fund. Chairing a consultative session, Mr Khan called on the regulators, including the State Bank of Pakistan (SBP) and t…",
-   "image": "https://i.dawn.com/large/2026/07/2609475177c0562.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -458,19 +472,6 @@
    "domestic": false
   },
   {
-   "title": "In Berlin meeting, Siemens affirms support for strengthening Pakistan's healthcare infrastructure",
-   "url": "https://www.dawn.com/news/2039505/in-berlin-meeting-siemens-affirms-support-for-strengthening-pakistans-healthcare-infrastructure",
-   "source": "Dawn",
-   "published": "2026-10-24T17:53:43+00:00",
-   "summary": "The executive vice president of technology giant Siemens on Saturday met with President Asif Ali Zardari in Berlin and expressed his readiness to enhance support for strengthening existing healthcare infrastructure in Pakistan, the Presidency said. The meeting took place on the third and final day of President Zardari’…",
-   "image": "https://i.dawn.com/large/2026/10/2500343956f234d.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "NHA told to classify projects by viability",
    "url": "https://tribune.com.pk/story/2636739/nha-told-to-classify-projects-by-viability",
    "source": "The Express Tribune",
@@ -559,19 +560,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt likely to introduce mini-budget for new auto policy tax measures",
-   "url": "https://arynews.tv/govt-likely-to-introduce-mini-budget-for-new-auto-policy-tax-measures",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Govt likely to introduce mini-budget for new auto policy tax measures",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Auto-policy.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
