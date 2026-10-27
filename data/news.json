@@ -1,15 +1,41 @@
 {
- "generated": "2026-10-27T00:44:22+00:00",
- "count": 54,
- "relevant_count": 16,
- "domestic_count": 27,
+ "generated": "2026-10-27T05:59:53+00:00",
+ "count": 47,
+ "relevant_count": 17,
+ "domestic_count": 20,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (9)",
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (10)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "PSX: buying at bourse, KSE-100 gains over 950 points",
+   "url": "https://www.brecorder.com/news/40446095/psx-buying-at-bourse-kse-100-gains-over-950-points",
+   "source": "Business Recorder",
+   "published": "2026-10-27T05:28:17+00:00",
+   "summary": "Buying was observed at the Pakistan Stock Exchange (PSX) following the State Bank of Pakistan (SBP) decision to raise the policy rate by 50bps , with the benchmark KSE-100 Index gaining over 950 points during the opening minutes of trading on Tuesday. At 10:05am, the benchmark index was hovering at 163,997.54, up 959.0…",
+   "image": "https://i.brecorder.com/large/2026/10/27102301f211cea.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Bank of Punjab earns Rs14.5bn",
+   "url": "https://www.dawn.com/news/2040058/bank-of-punjab-earns-rs145bn",
+   "source": "Dawn",
+   "published": "2026-10-27T04:01:40+00:00",
+   "summary": "LAHORE: The Bank of Punjab (BOP) on Monday reported a 15pc increase in its profit before tax to Rs30.45 billion for the nine months ended Sept 30, 2026. Profit after tax rose 22pc to Rs14.53bn. The results were announced after a meeting of the bank’s board of directors, which reviewed and approved the unaudited financi…",
+   "image": "https://i.dawn.com/large/2024/02/210831562804fb4.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "IMF consulted before fixing wheat price, says Rana Tanveer",
    "url": "https://www.brecorder.com/news/40446068/imf-consulted-before-fixing-wheat-price-says-rana-tanveer",
@@ -69,72 +95,6 @@
    "published": "2026-10-26T23:30:25+00:00",
    "summary": "ISLAMABAD: The Cabinet Committee on State-Owned Enterprises (CCoSOEs) has approved key board appointments at Pakistan State Oil (PSO), the Strategic Digital Wallet Company and the Clean Environment Fund Company and deferred a proposal to establish the Pakistan Pharma Export Promotion Council for further consultations. …",
    "image": "https://i.brecorder.com/large/2026/09/05012707438e4cd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Policy rate up 50bps to 12pc on rising risks",
-   "url": "https://www.brecorder.com/news/40446079/policy-rate-up-50bps-to-12pc-on-rising-risks",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "KARACHI: The Monetary Policy Committee (MPC) of the State Bank of Pakistan (SBP) on Monday raised its key policy rate by 50 basis points (bps) to 12 percent, in line with market expectations, as worsening geopolitical developments clouded the inflation outlook and heightened risks to the external account and economic g…",
-   "image": "https://i.brecorder.com/large/2026/01/27014125316d967.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP revises remittance, forex projections upward",
-   "url": "https://www.brecorder.com/news/40446080/sbp-revises-remittance-forex-projections-upward",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has revised its projections for workers’ remittances and foreign exchange reserves upward, reflecting improved inflows and a stronger external account outlook. Addressing a press conference on the monetary policy decision, SBP Governor Jameel Ahmed said Pakistan’s external acco…",
-   "image": "https://i.brecorder.com/large/2023/06/21113145999a873.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "O/N reverse repo rate fixed at 13.00pc, repo at 11.00pc",
-   "url": "https://www.brecorder.com/news/40446081/on-reverse-repo-rate-fixed-at-1300pc-repo-at-1100pc",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has decided to increase ‘Policy Rate’ (Target Rate) from 11.50 percent to 12.00 percent. According to SBP, with increase in target rate, the SBP Overnight Reverse Repo (Ceiling) rate will be at 13.00 percent, i.e. 100 bps above the SBP Policy Rate. READ ALSO: Businesspeople say…",
-   "image": "https://i.brecorder.com/large/2025/06/1314221185bb995.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "1QFY27: forex reserves surge 52pc YoY",
-   "url": "https://www.brecorder.com/news/40446083/1qfy27-forex-reserves-surge-52pc-yoy",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:25+00:00",
-   "summary": "ISLAMABAD: The Ministry of Finance (MoF) has presented a snapshot of macroeconomic indicators for the first quarter of fiscal year 2026-27, highlighting record foreign exchange reserves, rising exports and investment inflows, but the scorecard lacks key indicators such as imports, inflation, per capita income and pover…",
-   "image": "https://i.brecorder.com/large/2026/10/222021516f4254e.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rate hike to raise working-capital costs: PTEA",
-   "url": "https://www.brecorder.com/news/40446036/rate-hike-to-raise-working-capital-costs-ptea",
-   "source": "Business Recorder",
-   "published": "2026-10-26T23:30:24+00:00",
-   "summary": "FAISALABAD: Textile export industry has expressed grave concern over the State Bank of Pakistan’s decision to raise the policy rate by 50 basis points to 12.0 percent, terming the move a severe blow to an industry already buckling under an unprecedented cost-of-production crisis. In a statement on Monday, Pakistan Text…",
-   "image": "https://i.brecorder.com/large/2026/04/080328193d3a03d.webp",
    "topics": [
     "Economy"
    ],
@@ -262,19 +222,6 @@
    "domestic": true
   },
   {
-   "title": "Equities fall 2.4pc as oil prices, geopolitical tensions unsettle investors",
-   "url": "https://www.dawn.com/news/2039568/equities-fall-24pc-as-oil-prices-geopolitical-tensions-unsettle-investors",
-   "source": "Dawn",
-   "published": "2026-10-25T01:19:57+00:00",
-   "summary": "KARACHI: Rising oil prices and persistent geopolitical uncertainty kept the Pakistan Stock Exchange (PSX) under selling pressure during the outgoing week, as investors booked profits ahead of the State Bank of Pakistan’s (SBP) monetary policy announcement on Oct 26. The benchmark KSE-100 index fell 2.4 per cent week-on…",
-   "image": "https://i.dawn.com/large/2026/04/121005148b8e6fe.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Task force asks industry for export proposals",
    "url": "https://tribune.com.pk/story/2636738/task-force-asks-industry-for-export-proposals",
    "source": "The Express Tribune",
@@ -283,45 +230,6 @@
    "image": null,
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Aurangzeb rules out consumption-led growth, says tariff reforms will continue",
-   "url": "https://www.dawn.com/news/2039483/aurangzeb-rules-out-consumption-led-growth-says-tariff-reforms-will-continue",
-   "source": "Dawn",
-   "published": "2026-10-24T13:07:18+00:00",
-   "summary": "LAHORE: Finance Minister Muhammad Aurangzeb has ruled out pursuing liquidity-fuelled, consumption-led economic growth, saying Pakistan must prioritise sustainable, export-led expansion and continue with tariff reforms to improve the competitiveness of its industries. The finance minister was speaking at the Lahore Univ…",
-   "image": "https://i.dawn.com/large/2026/10/24155852139959f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Karachi Industrial Park approved as federal Special Economic Zone",
-   "url": "https://www.dawn.com/news/2039346/karachi-industrial-park-approved-as-federal-special-economic-zone",
-   "source": "Dawn",
-   "published": "2026-10-24T02:42:25+00:00",
-   "summary": "ISLAMABAD: The federal government has approved Karachi Industrial Park (KIP) as a federal Special Economic Zone (SEZ) to attract export-oriented industrial investment, promote technology transfer and value addition, and generate employment. The decision was taken at the 11th meeting of the Board of Approvals for SEZs h…",
-   "image": "https://i.dawn.com/large/2026/10/24074123e15406e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Leghari warns Discos against arbitrary billing",
-   "url": "https://www.dawn.com/news/2039350/leghari-warns-discos-against-arbitrary-billing",
-   "source": "Dawn",
-   "published": "2026-10-24T01:19:32+00:00",
-   "summary": "ISLAMABAD: Energy Minister Sardar Awais Ahmad Khan Leghari has warned electricity distribution companies (Discos) against imposing excessive or unjustified detection bills, saying no arbitrary charges will be levied on consumers. Detection bills are issued by Discos to recover past dues estimated to be unpaid due to sl…",
-   "image": "https://i.dawn.com/large/2026/10/24073051633c6af.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -368,12 +276,155 @@
    "domestic": true
   },
   {
-   "title": "Monetary policy: the Faustian bargain",
-   "url": "https://www.brecorder.com/news/40446032/monetary-policy-the-faustian-bargain",
+   "title": "Australia, NZ dollars brace for volatility as rate risk looms",
+   "url": "https://www.brecorder.com/news/40446099/australia-nz-dollars-brace-for-volatility-as-rate-risk-looms",
    "source": "Business Recorder",
-   "published": "2026-10-26T23:30:24+00:00",
-   "summary": "Pakistan’s central bank has made external stability the organising principle of monetary policy. But with the rupee appreciating in real terms, reserves barely covering three months of imports, and another energy shock unfolding, the institution that rescued the economy from crisis risks becoming captive to the politic…",
-   "image": "https://i.brecorder.com/large/2026/04/2906134955ea4b6.webp",
+   "published": "2026-10-27T05:53:40+00:00",
+   "summary": "SYDNEY: The Australian and New Zealand dollars flatlined on Tuesday as investors braced for major event risks in both countries that will set the outlook for interest rates in coming months. The Aussie idled at $0.7020, having eased 0.2% overnight after faltering at $0.7040 resistance. Support lies around $0.7005 and $…",
+   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares slip as banks outweigh mining gains; inflation data in focus",
+   "url": "https://www.brecorder.com/news/40446097/australian-shares-slip-as-banks-outweigh-mining-gains-inflation-data-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-27T05:48:21+00:00",
+   "summary": "Australian shares slid on Tuesday as losses in financials outweighed gains in mining stocks, boosted by stronger copper prices, while investors awaited quarterly inflation data for clues on the central bank’s next policy move. The S&P/ASX 200 index fell 0.3% to 8,783.00, as of 0036 GMT. The benchmark gained 0.2% on Mon…",
+   "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM committee sets 120-day deadline for shrimp farming roadmap",
+   "url": "https://www.brecorder.com/news/40446096/pm-committee-sets-120-day-deadline-for-shrimp-farming-roadmap",
+   "source": "Business Recorder",
+   "published": "2026-10-27T05:37:00+00:00",
+   "summary": "A sub-committee constituted by the prime minister has set a 120-day deadline to prepare a roadmap for expanding shrimp farming, improving value addition and boosting exports as part of a broader 24-month implementation and review process. Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry chaired a me…",
+   "image": "https://i.brecorder.com/large/2025/10/091458172717176.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI spending slows",
+   "url": "https://www.brecorder.com/news/40446092/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows",
+   "source": "Business Recorder",
+   "published": "2026-10-27T03:22:11+00:00",
+   "summary": "SEOUL: South Korea’s semiconductor exports could fall by $50 billion to $100 billion compared with earlier ​forecasts if capital spending on artificial intelligence by ‌major US technology firms slows next year, according to central bank data. In a written response submitted to lawmaker ​Ahn Do-geol, the Bank of Korea …",
+   "image": "https://i.brecorder.com/large/2026/10/27081928022803a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee oil-linked losses meet key hurdle, RBI defence in focus",
+   "url": "https://www.brecorder.com/news/40446091/indian-rupee-oil-linked-losses-meet-key-hurdle-rbi-defence-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-10-27T03:18:50+00:00",
+   "summary": "MUMBAI: Rising oil prices continue to weigh on the outlook for the Indian rupee , with traders watching for support near a ​key technical level and the response of the central bank. The ‌Indian rupee is expected to open flat to marginally weaker on Tuesday, having dropped 0.3% in the previous session to 95.1850 to the …",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yen slips ahead of central bank bonanza, dollar firms on tech rebound",
+   "url": "https://www.brecorder.com/news/40446087/yen-slips-ahead-of-central-bank-bonanza-dollar-firms-on-tech-rebound",
+   "source": "Business Recorder",
+   "published": "2026-10-27T03:04:08+00:00",
+   "summary": "SHANGHAI/SINGAPORE: The Japanese yen eased against the US dollar on Tuesday , further eroding last week’s safe-haven gains, underpinned by a risk-on mood and ​a weaker euro ahead of key central bank meetings this week that will influence the global rates outlook. The yen ‌was 0.16% weaker at 157.73 per dollar, inching …",
+   "image": "https://i.brecorder.com/large/2026/10/27075951f52f72a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian stocks surge as Anthropic IPO lifts sentiment ahead of earnings, central banks",
+   "url": "https://www.brecorder.com/news/40446086/asian-stocks-surge-as-anthropic-ipo-lifts-sentiment-ahead-of-earnings-central-banks",
+   "source": "Business Recorder",
+   "published": "2026-10-27T02:58:19+00:00",
+   "summary": "SINGAPORE: Asian stocks surged on Tuesday as AI bellwether Anthropic’s eagerly anticipated IPO filing ​lifted risk appetite ahead of tech earnings that will be a test for the AI trade, and central bank meetings ‌that will influence near-term interest rates. Claude-owner Anthropic disclosed steep loss and red-hot revenu…",
+   "image": "https://i.brecorder.com/large/2026/10/260751129058f48.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP's policy rate hike divides business community",
+   "url": "https://www.dawn.com/news/2040144/sbps-policy-rate-hike-divides-business-community",
+   "source": "Dawn",
+   "published": "2026-10-27T02:42:51+00:00",
+   "summary": "https://www.dawn.com/news/2040065",
+   "image": "https://i.dawn.com/large/2026/01/19164932056c4b5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "$750m borrowed for pensions, PPP",
+   "url": "https://tribune.com.pk/story/2637071/750m-borrowed-for-pensions-ppp",
+   "source": "The Express Tribune",
+   "published": "2026-10-26T16:18:44+00:00",
+   "summary": "Public debt now at 68.3% of GDP with total debt and liabilities reaching Rs100tr",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Uncertainty subsides over rise in reserves, tax receipts",
+   "url": "https://tribune.com.pk/story/2637077/uncertainty-subsides-over-rise-in-reserves-tax-receipts",
+   "source": "The Express Tribune",
+   "published": "2026-10-26T16:18:44+00:00",
+   "summary": "It comes despite worries about fuel prices, subsidies, IMF talks, says study",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX recovers from policy rate-driven sell-off",
+   "url": "https://tribune.com.pk/story/2637079/psx-recovers-from-policy-rate-driven-sell-off",
+   "source": "The Express Tribune",
+   "published": "2026-10-26T16:18:44+00:00",
+   "summary": "Late buying lifts index up by 664 points despite 50bps rate hike",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold prices recover ahead of Fed decision",
+   "url": "https://tribune.com.pk/story/2637073/gold-prices-recover-ahead-of-fed-decision",
+   "source": "The Express Tribune",
+   "published": "2026-10-26T16:18:44+00:00",
+   "summary": "Local bullion gains Rs1,400/tola; rupee inches up vs dollar",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -387,19 +438,6 @@
    "published": "2026-10-26T13:50:39+00:00",
    "summary": "Most Gulf stock markets closed higher on Monday, with Saudi Arabia and Qatar posting their strongest gains in months, as scheduled talks between Iranian leaders and officials from Saudi Arabia, Turkiye and Pakistan raised hopes of easing tensions between the US and Iran. The talks, set to take place in Tehran on Monday…",
    "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: volatility at bourse, KSE-100 settles with over 650 points gain",
-   "url": "https://www.brecorder.com/news/40445952/psx-volatility-at-bourse-kse-100-settles-with-over-650-points-gain",
-   "source": "Business Recorder",
-   "published": "2026-10-26T13:42:25+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session, with the benchmark KSE-100 Index settling with a gain of over 650 points amid strong late-session buying on Monday. The benchmark index initially came under selling pressure to hit an intraday low of 161,250.06 points. It subsequently recovered, reb…",
-   "image": "https://i.brecorder.com/large/2026/10/261007060efd62b.jpg",
    "topics": [
     "Economy"
    ],
@@ -459,45 +497,6 @@
    "domestic": false
   },
   {
-   "title": "India bonds to come under selling pressure at start of new week as oil spike continues",
-   "url": "https://www.brecorder.com/news/40445956/india-bonds-to-come-under-selling-pressure-at-start-of-new-week-as-oil-spike-continues",
-   "source": "Business Recorder",
-   "published": "2026-10-26T05:48:33+00:00",
-   "summary": "MUMBAI: Indian government bonds could open another week with declines as oil prices stayed elevated, stoking concerns over inflation that may push the central bank into a hawkish posture. The 6.94% 2036 bond yield may trade between 7.45% and 7.50%, according to a trader at a primary dealership, after closing at 7.4740%…",
-   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Monday",
-   "url": "https://www.brecorder.com/news/40445955/thai-bahtus-dollar-weaker-on-monday",
-   "source": "Business Recorder",
-   "published": "2026-10-26T05:45:14+00:00",
-   "summary": "BANGKOK: The Thai baht slightly weakened against the US dollar on Monday. At 0218 GMT, the baht was 0.09% lower at 33.77 versus the dollar, after trading in a range of 33.755 to 33.825. It ended the previous session at 33.74 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold gains on softer oil prices; Fed decision in focus",
-   "url": "https://www.brecorder.com/news/40445953/gold-gains-on-softer-oil-prices-fed-decision-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-10-26T05:33:30+00:00",
-   "summary": "Gold prices edged higher on Monday as softer oil prices tempered inflation concerns, while investors awaited the Federal Reserve’s policy decision later this week. Spot gold rose 0.4% to $4,009.87 per ounce by 0342 GMT, after hitting its lowest level since mid-July in the previous session. Bullion posted a 4% weekly fa…",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "How long will Pakistan's economy be ‘indebted’ to expats?",
    "url": "https://www.dawn.com/news/2039839/how-long-will-pakistans-economy-be-indebted-to-expats",
    "source": "Dawn",
@@ -522,84 +521,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee faces pressure from oil headwinds, lack of inflow support",
-   "url": "https://www.brecorder.com/news/40445947/indian-rupee-faces-pressure-from-oil-headwinds-lack-of-inflow-support",
-   "source": "Business Recorder",
-   "published": "2026-10-26T03:09:58+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to come under pressure at Monday’s open , potentially slipping below the psychological level of 95, ​with an oil price overhang compounded by the likely absence ‌of last week’s supportive flows. The Indian rupee is expected to open in the 95.00-95.04 range, per traders, after settling…",
-   "image": "https://i.brecorder.com/large/2026/10/2608074888f4d3d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares on track for muted open as oil concerns persist, Fed in focus",
-   "url": "https://www.brecorder.com/news/40445946/indian-shares-on-track-for-muted-open-as-oil-concerns-persist-fed-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-10-26T03:07:10+00:00",
-   "summary": "Indian shares are expected to open little changed on Monday as sentiment remains subdued over elevated crude oil prices and their ​impact on inflation, with investors also focused on the US ‌Federal Reserve’s policy decision later this week. GIFT Nifty futures were at 22,608 at 7:46 a.m. IST, indicating a muted start f…",
-   "image": "https://i.brecorder.com/large/2026/10/26080427327fd49.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Currency markets subdued ahead of pivotal central bank week",
-   "url": "https://www.brecorder.com/news/40445945/currency-markets-subdued-ahead-of-pivotal-central-bank-week",
-   "source": "Business Recorder",
-   "published": "2026-10-26T03:02:26+00:00",
-   "summary": "HONG KONG: Major currencies traded in tight ranges on Monday to ​begin a busy week of central bank decisions and corporate earnings, while a pullback in oil ‌prices and Treasury yields weighed on the dollar. Oil prices eased , with Brent crude futures down more than 1% at around $115 a barrel after hitting a six-month …",
-   "image": "https://i.brecorder.com/large/2026/10/260758169863995.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Stocks trade cautiously in Asia, Brent off six-month top",
-   "url": "https://www.brecorder.com/news/40445944/stocks-trade-cautiously-in-asia-brent-off-six-month-top",
-   "source": "Business Recorder",
-   "published": "2026-10-26T02:56:11+00:00",
-   "summary": "SYDNEY: Stock markets traded cautiously on Monday as oil eased from six-month highs ahead of a week packed with central bank meetings and corporate earnings that will ​further test investor confidence in the AI boom. Brent oil slipped 1.6% to $114.88 following reports that Qatari mediators were in Tehran on Sunday as p…",
-   "image": "https://i.brecorder.com/large/2026/10/260751129058f48.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX recovers 664 points after rate-driven sell-off",
-   "url": "https://tribune.com.pk/story/2636987/psx-sheds-715-points-as-investors-brace-for-policy-rate-decision",
-   "source": "The Express Tribune",
-   "published": "2026-10-26T02:51:50+00:00",
-   "summary": "KSE-100 Index closes at 163,038.5 points after SBP raises interest rates by 50 basis points",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP hikes policy rate to 12% on Middle East risks",
-   "url": "https://tribune.com.pk/story/2636968/sbp-raises-policy-rate-by-50bps-to-12",
-   "source": "The Express Tribune",
-   "published": "2026-10-25T23:08:24+00:00",
-   "summary": "Governor says economic outlook has changed significantly amid rising global commodity prices, geopolitical uncertainty",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -634,19 +555,6 @@
    "source": "The Express Tribune",
    "published": "2026-10-24T16:06:42+00:00",
    "summary": "KSE-100 index slides below 163,000 as selling intensifies",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX slides towards 162,000 amid ME war",
-   "url": "https://tribune.com.pk/story/2636620/psx-slides-towards-162000-amid-me-war",
-   "source": "The Express Tribune",
-   "published": "2026-10-23T15:43:59+00:00",
-   "summary": "KSE-100 index sheds 1,549 points as US-Iran tensions escalate",
    "image": null,
    "topics": [
     "Economy"
