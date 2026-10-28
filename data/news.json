@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-27T21:10:35+00:00",
- "count": 42,
- "relevant_count": 13,
- "domestic_count": 16,
+ "generated": "2026-10-28T00:42:34+00:00",
+ "count": 47,
+ "relevant_count": 16,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (13)",
@@ -10,6 +10,98 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Power tariff for 200 units to go: New targeted subsidy system being worked out: Leghari",
+   "url": "https://www.brecorder.com/news/40446252/power-tariff-for-200-units-to-go-new-targeted-subsidy-system-being-worked-out-leghari",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:09+00:00",
+   "summary": "ISLAMABAD: The federal government is working on replacing the existing power tariff system, which allows excessive billing for consumers whose power tariff exceeds 200 units, with a new targeted subsidy system to facilitate the deserving power consumers. Power Minister Awais Leghari informed this to the Upper House of …",
+   "image": "https://i.brecorder.com/large/2026/03/2304572947dc6cc.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Business leaders criticise hike in interest rate",
+   "url": "https://www.brecorder.com/news/40446255/business-leaders-criticise-hike-in-interest-rate",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:09+00:00",
+   "summary": "KARACHI: Karachi Chamber of Commerce & Industry (KCCI) President Talat Mahmood has strongly opposed the State Bank of Pakistan’s decision to increase the policy interest rate by 50 basis points, from 11.5 percent to 12 percent, warning that the move will further increase the cost of doing business, discourage private-s…",
+   "image": "https://i.brecorder.com/large/2024/10/671b0ac728e49.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt asked to foster greater economic ties with Malaysia",
+   "url": "https://www.brecorder.com/news/40446259/govt-asked-to-foster-greater-economic-ties-with-malaysia",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:09+00:00",
+   "summary": "KARACHI: Pakistan-Malaysia Friendship Association (PMFA) President Shahid Javed Qureshi has urged the government to review the Malaysia-Pakistan Closer Economic Partnership Agreement (MPCEPA) to improve market access, boost exports and attract investment, saying stronger economic ties with Malaysia could help Pakistan …",
+   "image": "https://i.brecorder.com/large/2024/10/66ff3da94cd83.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "IPAK Group revenue rises 9.2pc in 1QFY27",
+   "url": "https://www.brecorder.com/news/40446262/ipak-group-revenue-rises-92pc-in-1qfy27",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:09+00:00",
+   "summary": "KARACHI: International Packaging Films Limited (IPAK) reported a 9.2 percent year-on-year increase in consolidated revenue to Rs11.13 billion for the first quarter ended September 30, 2026, while profit after tax remained almost unchanged at Rs705 million compared with Rs704 million in the same period last year. Accord…",
+   "image": "https://i.brecorder.com/large/2026/03/050121076f68bc3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PHMA expresses concern over increase in policy rate",
+   "url": "https://www.brecorder.com/news/40446265/phma-expresses-concern-over-increase-in-policy-rate",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:09+00:00",
+   "summary": "FAISALABAD: Mian Farrukh Iqbal, Chairman of the Pakistan Hosiery Manufacturers & Exporters Association (PHMA), North Zone, has expressed serious concern and strong reservations over the State Bank of Pakistan’s decision to increase the policy rate by 50 basis points to 12 percent, warning that the move will adversely a…",
+   "image": "https://i.brecorder.com/large/2024/12/021607027611eed.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "TDAP announces initiatives to boost exports",
+   "url": "https://www.brecorder.com/news/40446267/tdap-announces-initiatives-to-boost-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:09+00:00",
+   "summary": "KARACHI: Secretary Trade Development Authority of Pakistan (TDAP) Sheryar Taj has announced initiatives to boost exports through agricultural value addition, digital trade facilitation, preferential market access and stronger public-private partnerships, stressing that Pakistan must move beyond raw commodity exports to…",
+   "image": "https://i.brecorder.com/large/2024/10/6722b486dc78a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Punjab approves 10 uplift schemes across key sectors",
+   "url": "https://www.brecorder.com/news/40446210/punjab-approves-10-uplift-schemes-across-key-sectors",
+   "source": "Business Recorder",
+   "published": "2026-10-27T23:46:08+00:00",
+   "summary": "LAHORE: The Provincial Development Working Party (PDWP) has approved 10 development schemes covering road infrastructure, industrial development, healthcare, renewable energy and water resources. The approvals were granted at a meeting chaired by Chairman Planning and Development Board Punjab Dr Naeem Rauf where propos…",
+   "image": "https://i.brecorder.com/large/2023/01/63b634a0a9b6f.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Govt to end slab system punishing power consumers crossing 200-unit threshold",
    "url": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-power-consumers-crossing-200-unit-threshold",
@@ -22,32 +114,6 @@
     "Energy & power"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Turning solar boom into a shared resource",
-   "url": "https://www.brecorder.com/news/40446151/turning-solar-boom-into-a-shared-resource",
-   "source": "Business Recorder",
-   "published": "2026-10-27T17:48:50+00:00",
-   "summary": "Imagine a small mud house in Sindh’s Tharparkar. Imagine now a mother switching on a single light after sunset, prodding children for the umpteenth time to finish homework promptly, since the battery storing the power won’t last through the night. Some 1,432 kilometres away, towards the northeast of Tharparkar, is Isla…",
-   "image": "https://i.brecorder.com/large/2026/01/20070354e5572ef.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Edison, Pakistan gas buyers face QatarEnergy supply halt until year-end",
-   "url": "https://www.brecorder.com/news/40446154/edison-pakistan-gas-buyers-face-qatarenergy-supply-halt-until-year-end",
-   "source": "Business Recorder",
-   "published": "2026-10-27T17:03:29+00:00",
-   "summary": "MILAN: Edison and some Pakistani clients of QatarEnergy will not receive liquefied natural gas (LNG) from the Gulf supplier until the end of this year, the Italian utility and a market source said on Tuesday. In a message on the platform of Italy’s energy markets manager GME, Edison said QatarEnergy had extended force …",
-   "image": "https://i.brecorder.com/large/2026/09/21115511e77ac1c.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -224,12 +290,12 @@
    "domestic": true
   },
   {
-   "title": "Iran security chief meets Supreme Leader after talks with Makkah pact countries",
-   "url": "https://www.brecorder.com/news/40446141/iran-security-chief-meets-supreme-leader-after-talks-with-makkah-pact-countries",
+   "title": "SBP’s dollar-buying hunger",
+   "url": "https://www.brecorder.com/news/40446219/sbps-dollar-buying-hunger",
    "source": "Business Recorder",
-   "published": "2026-10-27T12:51:57+00:00",
-   "summary": "DUBAI: Iranian Security Council chief Mohsen Rezaei on Tuesday met Supreme Leader Ayatollah Mojtaba Khamenei, not seen in public since succeeding his slain father in March, a day after holding talks with representatives of Pakistan, Saudi Arabia and Turkiye. State media said Khamenei had stressed the importance of purs…",
-   "image": "https://i.brecorder.com/large/2026/08/30112256ce206d8.gif",
+   "published": "2026-10-27T23:46:08+00:00",
+   "summary": "The hallmark of SBP’s performance over the last four years has been its management of external accounts. SBP’s gross reserves have increased from a low of USD3 billion at the start of 2023 to USD21.5 billion as of now. Additionally, its forward liabilities have declined by almost $4 billion. Thus, the overall improveme…",
+   "image": "https://i.brecorder.com/large/2025/08/689d1b60279b7.jpg",
    "topics": [
     "Economy"
    ],
@@ -237,14 +303,14 @@
    "domestic": false
   },
   {
-   "title": "Meta eyes record $97.5 billion equity raise to fund AI expansion",
-   "url": "https://www.brecorder.com/news/40446138/meta-eyes-record-975-billion-equity-raise-to-fund-ai-expansion",
+   "title": "Engro Polymer & Chemicals Limited: performance and outlook",
+   "url": "https://www.brecorder.com/news/40446220/engro-polymer-amp-chemicals-limited-performance-and-outlook",
    "source": "Business Recorder",
-   "published": "2026-10-27T12:14:23+00:00",
-   "summary": "Meta Platforms on Tuesday raisedthe planned size of its largest-ever equity offerings to $97.5 billion, as the social media giant taps the public market to aggressively expand its AI infrastructure. The fundraising plan, among the biggest by an AI company, has also drawn interest of up to $5 billion in total from Nvidi…",
-   "image": "https://i.brecorder.com/large/2026/10/2123584322cc51f.webp",
+   "published": "2026-10-27T23:46:08+00:00",
+   "summary": "Engro Polymer & Chemicals Limited (PSX: EPCL) was incorporated in Pakistan in 1997. EPCL is a subsidiary of Engro Corporation which is a subsidiary of Dawood Hercules Corporation Limited. The company is engaged in the manufacturing, marketing and selling of Poly Vinyl Chloride (PVC), Caustic Soda, Vinyl Chloride Monome…",
+   "image": "https://i.brecorder.com/large/2023/07/18081831edf80fd.jpg",
    "topics": [
-    "Construction & projects"
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
