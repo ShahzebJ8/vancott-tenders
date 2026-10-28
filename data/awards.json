@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T13:50:56+00:00",
+ "generated": "2026-10-28T19:21:44+00:00",
  "count": 898,
  "with_value": 861,
  "with_winner": 298,
@@ -17085,6 +17085,44 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004640",
+   "tender_no": "TS0000017005E",
+   "reference": "P175578",
+   "title": "HIRING OF VEHICLES WITH DRIVERS FOR EMPLOYEES PICK & DROP SERVICES Services",
+   "organisation": "Trading Corporation of Pakistan (TCP) Trading Corporation of Pakistan (TCP) Karachi - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "M Ayaan 2010 Enterprises Trading Corporation of Pakistan (TCP)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-10-28",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004640",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004638",
+   "tender_no": "TS0000014749E",
+   "reference": "TENDER NOTICE NO. SLIC/GZ/HRA&#38;P/01/2026",
+   "title": "PROCUREMENT OF 60 KVA DIESEL GENERATOR SET Mechanical/Machinery Ministry of Commerce",
+   "organisation": "Ministry of Commerce State Life Insurance Corporation of Pakistan, Gilgit Zone Gilgit - Pakistan",
+   "bid_count": 6,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-10-28",
+   "city": "Gilgit",
+   "province": "Gilgit-Baltistan",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004638",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004637",
    "tender_no": "TS0000012439E",
@@ -56165,45 +56203,6 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002549",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002548",
-   "tender_no": "TS0000009961E",
-   "reference": "P66584",
-   "title": "Procurement/Services hired for Seerat Conference 2026 Miscellaneous Ministry of Religious Affairs & Interfaith Harmony",
-   "organisation": "Ministry of Religious Affairs & Interfaith Harmony Ministry of Religious Affairs &#38; Interfaith Harmony Islamabad - Pakistan",
-   "bid_count": 11,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-08-06",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002548",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002547",
-   "tender_no": "TS0000008503E",
-   "reference": "3104-3108",
-   "title": "Reclamation of Irreparable Damaged Transformer of different capacities Electrical Items",
-   "organisation": "Faisalabad Electric Supply Company (FESCO) Director Material Mangement Faisalabad - Pakistan",
-   "bid_count": 6,
-   "lowest": [
-    "Alpha",
-    "Hajveri"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-06",
-   "city": "Faisalabad",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002547",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

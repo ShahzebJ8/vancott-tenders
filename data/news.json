@@ -1,59 +1,33 @@
 {
- "generated": "2026-10-28T13:51:01+00:00",
- "count": 49,
- "relevant_count": 20,
- "domestic_count": 20,
+ "generated": "2026-10-28T19:21:49+00:00",
+ "count": 51,
+ "relevant_count": 15,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (8)"
+  "ARY News": "ok (9)"
  },
  "stories": [
   {
-   "title": "Pinktober on two wheels: women-led Karachi rally takes breast cancer awareness to the streets",
-   "url": "https://www.brecorder.com/news/40446326/pinktober-on-two-wheels-women-led-karachi-rally-takes-breast-cancer-awareness-to-the-streets",
-   "source": "Business Recorder",
-   "published": "2026-10-28T13:43:21+00:00",
-   "summary": "As Pinktober brings renewed attention to breast cancer awareness, a women-led motorcycle rally took to the streets of Karachi last Sunday, bringing together female riders, organisers and a medical professional to encourage conversations about breast health, early detection, and the importance of prioritising women’s he…",
-   "image": "https://i.brecorder.com/large/2026/10/281839503c44e43.webp",
+   "title": "Consignment of imported wheat arrives at Karachi port",
+   "url": "https://www.dawn.com/news/2040463/consignment-of-imported-wheat-arrives-at-karachi-port",
+   "source": "Dawn",
+   "published": "2026-10-28T17:43:24+00:00",
+   "summary": "KARACHI: Around 51,000 metric tonnes of imported wheat arrived at Karachi Port on Wednesday, according to the Karachi Port Trust (KPT). “The geared vessel MV GOKOVA M, carrying a declared manifest of 51,000 metric tonnes of wheat, was allocated Berths 16 and 17 and arrived at Karachi Port at 1225 hours on Oct 28,” the …",
+   "image": "https://i.dawn.com/large/2026/10/28185329e027f52.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
-   "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
-   "source": "Dawn",
-   "published": "2026-10-28T13:30:48+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday stressed that artificial intelligence (AI) and digitalisation could improve Pakistan’s trade, exports and other areas of development and called for effective implementation of the government’s strategic partnership with global marketing company Alibaba. The premier …",
-   "image": "https://i.dawn.com/large/2026/10/28183600dbd2795.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Govt considering creation of 2 regulatory authorities for construction industry, 3-year liability period for projects",
-   "url": "https://www.dawn.com/news/2040454/govt-considering-creation-of-2-regulatory-authorities-for-construction-industry-3-year-liability-period-for-projects",
-   "source": "Dawn",
-   "published": "2026-10-28T12:44:21+00:00",
-   "summary": "ISLAMABAD: The government is considering establishing up to two regulatory authorities for the construction industry and a three-year defect liability period for major construction projects in the country. Private sector figures in construction and the government, however, differ over the financial size for the applica…",
-   "image": "https://i.dawn.com/large/2026/10/2817213750bbb02.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40446311/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-10-28T11:38:25+00:00",
+   "published": "2026-10-28T15:56:46+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Wednesday. The local unit closed the day at 276.77, a gain of Re0.03 against the greenback. On Tuesday , the rupee had closed at 276.80 against the dollar. Globally, the US dollar held at a two-week hig…",
    "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
    "topics": [
@@ -63,17 +37,55 @@
    "domestic": true
   },
   {
-   "title": "APTMA urges FBR to retain Karachi’s CAU amid clearance delays",
-   "url": "https://www.brecorder.com/news/40446303/aptma-urges-fbr-to-retain-karachis-cau-amid-clearance-delays",
-   "source": "Business Recorder",
-   "published": "2026-10-28T07:47:27+00:00",
-   "summary": "Pakistan’s textile industry has urged the Federal Board of Revenue (FBR) to retain its Central Appraising Unit (CAU) in Karachi and review the faceless customs assessment system, citing longer clearance times, valuation disputes and rising costs for importers. In a letter dated October 27 to FBR Chairman Rashid Mahmood…",
-   "image": "https://i.brecorder.com/large/2026/10/281247102a07deb.jpg",
+   "title": "Govt considering creation of regulatory authority for construction industry",
+   "url": "https://www.dawn.com/news/2040454/govt-considering-creation-of-regulatory-authority-for-construction-industry",
+   "source": "Dawn",
+   "published": "2026-10-28T15:48:58+00:00",
+   "summary": "ISLAMABAD: The government is considering establishing two new bodies — a regulatory authority and a marketing entity — for the construction industry along with a three-year defect liability period for major construction projects in the country. Private sector figures in construction and the government, however, differ …",
+   "image": "https://i.dawn.com/large/2026/10/2817213750bbb02.webp",
    "topics": [
-    "Budget & spending",
-    "Economy"
+    "Construction & projects"
    ],
    "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
+   "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
+   "source": "Dawn",
+   "published": "2026-10-28T15:04:55+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday stressed that artificial intelligence (AI) and digitalisation could improve Pakistan’s trade, exports and other areas of development and called for effective implementation of the government’s strategic partnership with global marketing company Alibaba. The premier …",
+   "image": "https://i.dawn.com/large/2026/10/28183600dbd2795.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pinktober on two wheels: women-led Karachi rally takes breast cancer awareness to the streets",
+   "url": "https://www.brecorder.com/news/40446326/pinktober-on-two-wheels-women-led-karachi-rally-takes-breast-cancer-awareness-to-the-streets",
+   "source": "Business Recorder",
+   "published": "2026-10-28T14:42:13+00:00",
+   "summary": "As Pinktober brings renewed attention to breast cancer awareness, a women-led motorcycle rally took to the streets of Karachi last Sunday, bringing together female riders, organisers and a medical professional to encourage conversations about breast health, early detection, and the importance of prioritising women’s he…",
+   "image": "https://i.brecorder.com/large/2026/10/281839503c44e43.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt directs preparation of 5-year roadmap to boost kinnow exports",
+   "url": "https://www.dawn.com/news/2040466/govt-directs-preparation-of-5-year-roadmap-to-boost-kinnow-exports",
+   "source": "Dawn",
+   "published": "2026-10-28T14:14:16+00:00",
+   "summary": "ISLAMABAD: The government on Wednesday moved to address long-standing bottlenecks hampering Pakistan’s kinnow exports, directing authorities to prepare a five-year roadmap. The proposal was presented at a meeting of a subcommittee constituted on the directives of Prime Minister Shehbaz Sharif and headed by Minister of …",
+   "image": "https://i.dawn.com/large/2021/12/61ad90ee2ab79.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -169,19 +181,6 @@
    "domestic": true
   },
   {
-   "title": "Central Development Working Party refers 3 KP infrastructure projects worth Rs100bn to Ecnec",
-   "url": "https://www.dawn.com/news/2039986/central-development-working-party-refers-3-kp-infrastructure-projects-worth-rs100bn-to-ecnec",
-   "source": "Dawn",
-   "published": "2026-10-26T15:47:43+00:00",
-   "summary": "ISLAMABAD: The federal government on Monday cleared three major infrastructure projects worth Rs100 billion in Khyber Pakhtunkhwa, recommending them to the Executive Committee of the National Economic Council (Ecnec) for formal approval. The decision was taken at a meeting of the Central Development Working Party (CDWP…",
-   "image": "https://i.dawn.com/large/2026/10/26202149a8196bf.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Lucky Group, Qatar Energy consortium quits Port Qasim LNG terminal plan over 'policy changes'",
    "url": "https://www.dawn.com/news/2039968/lucky-group-qatar-energy-consortium-quits-port-qasim-lng-terminal-plan-over-policy-changes",
    "source": "Dawn",
@@ -207,19 +206,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan, Qatar explore new avenues for trade, investment cooperation",
-   "url": "https://www.dawn.com/news/2039815/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation",
-   "source": "Dawn",
-   "published": "2026-10-26T01:06:13+00:00",
-   "summary": "ISLAMABAD: Pakistan and Qatar have reaffirmed their commitment to strengthening bilateral economic ties, exploring new avenues for trade and investment, and expanding cooperation across key sectors, including agriculture, food security, manufacturing, information technology, maritime transport and infrastructure. The c…",
-   "image": "https://i.dawn.com/large/2026/10/2603165688089dc.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -275,6 +261,71 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "Diesel price nears Rs400 as govt adds over a rupee to petrol, HSD rates",
+   "url": "https://www.dawn.com/news/2040479/diesel-price-nears-rs400-as-govt-adds-over-a-rupee-to-petrol-hsd-rates",
+   "source": "Dawn",
+   "published": "2026-10-28T18:18:56+00:00",
+   "summary": "The government on Wednesday raised the price of petrol by Rs1.85 per litre and that of high-speed diesel (HSD) by Rs1.75, pushing the HSD rate to nearly Rs400. Following the revision, petrol will retail at Rs377.91 per litre, while HSD will cost Rs399.82 per litre on Oct 29 (Thursday), according to the Petroleum Divisi…",
+   "image": "https://i.dawn.com/large/2021/09/6156090661d81.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Fed holds rates steady as it awaits 'accumulation of more information'",
+   "url": "https://www.brecorder.com/news/40446339/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information",
+   "source": "Business Recorder",
+   "published": "2026-10-28T18:18:28+00:00",
+   "summary": "WASHINGTON: The Federal Reserve held interest rates steady on Wednesday, as expected, opting to delay any changes to borrowing costs until after next week’s US midterm elections and awaiting further data on the path of inflation. In a 10-2 decision, the US central bank said it would maintain its benchmark interest rate…",
+   "image": "https://i.brecorder.com/large/2024/02/65d7c5e6b1227.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PAMA seeks review of Gift Scheme amid surge in used vehicle imports",
+   "url": "https://www.brecorder.com/news/40446336/pama-seeks-review-of-gift-scheme-amid-surge-in-used-vehicle-imports",
+   "source": "Business Recorder",
+   "published": "2026-10-28T16:54:30+00:00",
+   "summary": "Pakistan Automotive Manufacturers Association (PAMA) has urged the government to review the Gift Scheme for used vehicle imports, warning that its alleged misuse threatens domestic manufacturing, employment and future investment. In a letter to Prime Minister’s Adviser on Industries and Production Haroon Akhtar Khan, P…",
+   "image": "https://i.brecorder.com/large/2026/10/28215405f9ccc74.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Ningbo Green Light Energy to begin trading on PSX from Oct 29",
+   "url": "https://www.brecorder.com/news/40446334/ningbo-green-light-energy-to-begin-trading-on-psx-from-oct-29",
+   "source": "Business Recorder",
+   "published": "2026-10-28T16:13:25+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) on Wednesday announced that shares of Ningbo Green Light Energy Limited would begin trading on its Main Board from Thursday, October 29. In a notice, the PSX shared that the market lot of the company will be 1 share of Rs10/each. “Pakistan Stock Exchange Limited is pleased to notify th…",
+   "image": "https://i.brecorder.com/large/2024/04/6622f3c98f1e8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf equities mixed as Ras Tanura strike unnerves investors",
+   "url": "https://www.brecorder.com/news/40446329/gulf-equities-mixed-as-ras-tanura-strike-unnerves-investors",
+   "source": "Business Recorder",
+   "published": "2026-10-28T14:14:42+00:00",
+   "summary": "Gulf stocks ended mixed on Wednesday as an attack on a refinery in top crude exporter Saudi Arabia rattled investors and renewed concerns that conflict in the Middle East could escalate. Yemen’s Houthis said on Tuesday they had struck the 550,000-barrel-per-day facility, the kingdom’s biggest refinery, with a ballistic…",
+   "image": "https://i.brecorder.com/large/2025/05/301945203636db6.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "PSX: buying continues, KSE-100 gains nearly 1,300 points",
@@ -446,32 +497,6 @@
    "domestic": false
   },
   {
-   "title": "Unilever India posts higher profit on healthy demand",
-   "url": "https://www.brecorder.com/news/40446277/unilever-india-posts-higher-profit-on-healthy-demand",
-   "source": "Business Recorder",
-   "published": "2026-10-28T04:59:08+00:00",
-   "summary": "Consumer goods maker Hindustan Unilever reported a 6% rise in quarterly profit on Wednesday, as healthy demand cushioned the blow from higher raw material costs. The Indian arm of the UK’s Unilever, home to brands such as Pepsodent and Dove, said it made a profit of 28.44 billion rupees ($299.01 million) for the quarte…",
-   "image": "https://i.brecorder.com/large/2026/01/082108150282ac0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold slips on oil-fuelled inflation fears ahead of Fed meeting",
-   "url": "https://www.brecorder.com/news/40446276/gold-slips-on-oil-fuelled-inflation-fears-ahead-of-fed-meeting",
-   "source": "Business Recorder",
-   "published": "2026-10-28T04:56:36+00:00",
-   "summary": "Gold prices ticked lower on Wednesday after the previous session’s climb of about 1%, as higher oil prices stoked inflation fears while investors awaited the Federal Reserve’s policy decision later in the day for clues to the rate outlook. Spot gold was down 0.3% at $4,045.29 per ounce by 0347 GMT. US gold futures for …",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Reg­ula­ted real estate investm­ent trusts growth hinges on transparency, tax reforms, SECP told",
    "url": "https://www.dawn.com/news/2040400/regulated-real-estate-investment-trusts-growth-hinges-on-transparency-tax-reforms-secp-told",
    "source": "Dawn",
@@ -485,16 +510,16 @@
    "domestic": false
   },
   {
-   "title": "REITs held back by tax, valuation gaps",
-   "url": "https://tribune.com.pk/story/2637267/reits-held-back-by-tax-valuation-gaps",
+   "title": "PSX surges past 1,200 points as market sentiment improves",
+   "url": "https://tribune.com.pk/story/2637372/psx-climbs-nearly-400-points-amid-sustained-buying-interest",
    "source": "The Express Tribune",
-   "published": "2026-10-27T15:42:09+00:00",
-   "summary": "SECP session told 29 registered schemes hold Rs173.1b against a $2.04tr global market",
+   "published": "2026-10-28T03:21:34+00:00",
+   "summary": "Late-session buying lifts KSE-100 to 165,736.76 after positive tone in regional markets",
    "image": null,
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -550,20 +575,6 @@
    "domestic": false
   },
   {
-   "title": "How long will Pakistan's economy be ‘indebted’ to expats?",
-   "url": "https://www.dawn.com/news/2039839/how-long-will-pakistans-economy-be-indebted-to-expats",
-   "source": "Dawn",
-   "published": "2026-10-26T04:34:15+00:00",
-   "summary": "Pakistan entered FY2027 with stronger fiscal and external buffers. According to the Finance Division’s monthly Economic Update and Outlook for August 2026, the fiscal deficit narrowed to 2.6 per cent of GDP in FY26, the primary surplus reached 2.9pc, large-scale manufacturing expanded by 4.98pc, and foreign-exchange re…",
-   "image": "https://i.dawn.com/large/2022/12/17095119f0397ab.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -587,6 +598,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close higher as KSE-100 gains 1,270 Points",
+   "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-gains-1270-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close higher as KSE-100 gains 1,270 Points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/stock-market.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
