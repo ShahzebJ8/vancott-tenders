@@ -1,15 +1,81 @@
 {
- "generated": "2026-10-28T06:38:42+00:00",
- "count": 43,
- "relevant_count": 17,
- "domestic_count": 16,
+ "generated": "2026-10-28T13:51:01+00:00",
+ "count": 49,
+ "relevant_count": 20,
+ "domestic_count": 20,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (16)",
+  "Dawn": "ok (16)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (5)"
+  "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Pinktober on two wheels: women-led Karachi rally takes breast cancer awareness to the streets",
+   "url": "https://www.brecorder.com/news/40446326/pinktober-on-two-wheels-women-led-karachi-rally-takes-breast-cancer-awareness-to-the-streets",
+   "source": "Business Recorder",
+   "published": "2026-10-28T13:43:21+00:00",
+   "summary": "As Pinktober brings renewed attention to breast cancer awareness, a women-led motorcycle rally took to the streets of Karachi last Sunday, bringing together female riders, organisers and a medical professional to encourage conversations about breast health, early detection, and the importance of prioritising women’s he…",
+   "image": "https://i.brecorder.com/large/2026/10/281839503c44e43.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
+   "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
+   "source": "Dawn",
+   "published": "2026-10-28T13:30:48+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday stressed that artificial intelligence (AI) and digitalisation could improve Pakistan’s trade, exports and other areas of development and called for effective implementation of the government’s strategic partnership with global marketing company Alibaba. The premier …",
+   "image": "https://i.dawn.com/large/2026/10/28183600dbd2795.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt considering creation of 2 regulatory authorities for construction industry, 3-year liability period for projects",
+   "url": "https://www.dawn.com/news/2040454/govt-considering-creation-of-2-regulatory-authorities-for-construction-industry-3-year-liability-period-for-projects",
+   "source": "Dawn",
+   "published": "2026-10-28T12:44:21+00:00",
+   "summary": "ISLAMABAD: The government is considering establishing up to two regulatory authorities for the construction industry and a three-year defect liability period for major construction projects in the country. Private sector figures in construction and the government, however, differ over the financial size for the applica…",
+   "image": "https://i.dawn.com/large/2026/10/2817213750bbb02.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40446311/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-28T11:38:25+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Wednesday. The local unit closed the day at 276.77, a gain of Re0.03 against the greenback. On Tuesday , the rupee had closed at 276.80 against the dollar. Globally, the US dollar held at a two-week hig…",
+   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "APTMA urges FBR to retain Karachi’s CAU amid clearance delays",
+   "url": "https://www.brecorder.com/news/40446303/aptma-urges-fbr-to-retain-karachis-cau-amid-clearance-delays",
+   "source": "Business Recorder",
+   "published": "2026-10-28T07:47:27+00:00",
+   "summary": "Pakistan’s textile industry has urged the Federal Board of Revenue (FBR) to retain its Central Appraising Unit (CAU) in Karachi and review the faceless customs assessment system, citing longer clearance times, valuation disputes and rising costs for importers. In a letter dated October 27 to FBR Chairman Rashid Mahmood…",
+   "image": "https://i.brecorder.com/large/2026/10/281247102a07deb.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Pakistan Petroleum Ltd earns Rs99bn profit, makes 11 discoveries",
    "url": "https://www.dawn.com/news/2040339/pakistan-petroleum-ltd-earns-rs99bn-profit-makes-11-discoveries",
@@ -37,20 +103,6 @@
    "domestic": true
   },
   {
-   "title": "Power tariff for 200 units to go: New targeted subsidy system being worked out: Leghari",
-   "url": "https://www.brecorder.com/news/40446252/power-tariff-for-200-units-to-go-new-targeted-subsidy-system-being-worked-out-leghari",
-   "source": "Business Recorder",
-   "published": "2026-10-27T23:46:09+00:00",
-   "summary": "ISLAMABAD: The federal government is working on replacing the existing power tariff system, which allows excessive billing for consumers whose power tariff exceeds 200 units, with a new targeted subsidy system to facilitate the deserving power consumers. Power Minister Awais Leghari informed this to the Upper House of …",
-   "image": "https://i.brecorder.com/large/2026/03/2304572947dc6cc.webp",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Govt to end slab system punishing power consumers crossing 200-unit threshold",
    "url": "https://www.dawn.com/news/2040250/govt-to-end-slab-system-punishing-power-consumers-crossing-200-unit-threshold",
    "source": "Dawn",
@@ -62,19 +114,6 @@
     "Energy & power"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan rupee extends gain against US dollar",
-   "url": "https://www.brecorder.com/news/40446137/pakistan-rupee-extends-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-27T16:11:47+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Tuesday. The local unit closed the day at 276.80, a gain of Re0.01 against the greenback. On Monday , the rupee had closed at 276.81 against the dollar. Internationally, the dollar index held steady near a one-week high on…",
-   "image": "https://i.brecorder.com/large/2026/05/11070534e2c6966.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -198,6 +237,19 @@
    "domestic": true
   },
   {
+   "title": "Commerce Minister inaugurates export display centre in Doha to promote Pakistani products",
+   "url": "https://arynews.tv/commerce-minister-inaugurates-export-display-centre-in-doha-to-promote-pakistani-products",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Commerce Minister inaugurates export display centre in Doha to promote Pakistani products",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Jam-Kamal-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
    "title": "State Bank of Pakistan raises policy rate to 12%",
    "url": "https://arynews.tv/state-bank-of-pakistan-raises-policy-rate-to-12",
    "source": "ARY News",
@@ -223,6 +275,84 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "PSX: buying continues, KSE-100 gains nearly 1,300 points",
+   "url": "https://www.brecorder.com/news/40446281/psx-buying-continues-kse-100-gains-nearly-1300-points",
+   "source": "Business Recorder",
+   "published": "2026-10-28T12:51:06+00:00",
+   "summary": "Buying momentum continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index accumulating nearly 1,300 points on Wednesday. The market remained volatile during the session, initially facing selling pressure before recovering in the afternoon. The KSE-100 Index touched an intra-day low of 164,355.82 …",
+   "image": "https://i.brecorder.com/large/2022/05/31175059cc42660.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yemen's Houthis call for immediate evacuation of Aden airport",
+   "url": "https://www.brecorder.com/news/40446318/yemens-houthis-call-for-immediate-evacuation-of-aden-airport",
+   "source": "Business Recorder",
+   "published": "2026-10-28T11:13:45+00:00",
+   "summary": "DUBAI/ADEN: Yemen’s Houthis on Wednesday called on people to evacuate immediately from the international airport in Aden, where the internationally recognised, Yemen government is based. Houthi spokesperson Yahya Saree said in his post on X that the evacuation was due to what he said was the presence there of a Saudi m…",
+   "image": "https://i.brecorder.com/large/2026/08/20200747da2e529.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's industrial output growth slows to 6.7% in September as mining contracts",
+   "url": "https://www.brecorder.com/news/40446317/indias-industrial-output-growth-slows-to-67-in-september-as-mining-contracts",
+   "source": "Business Recorder",
+   "published": "2026-10-28T11:09:20+00:00",
+   "summary": "NEW DELHI: India’s industrial output growth slowed to 6.7% in September, government data showed on Wednesday, as growth in manufacturing and electricity eased, while mining output contracted. The September data was below the 7.3% growth expected by economists in a Reuters poll and a revised 7.8% expansion in August. Ma…",
+   "image": "https://i.brecorder.com/large/2026/09/28161920561bfd3.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Palm ends lower for third session despite strong export demand",
+   "url": "https://www.brecorder.com/news/40446316/palm-ends-lower-for-third-session-despite-strong-export-demand",
+   "source": "Business Recorder",
+   "published": "2026-10-28T11:05:16+00:00",
+   "summary": "KUALA LUMPUR: Malaysian palm oil futures gave up early gains to close lower on Wednesday, their third consecutive daily loss, despite strong export demand ahead of Diwali festive-season buying in India. The benchmark palm oil contract for January delivery on the Bursa Malaysia Derivatives Exchange fell 14 ringgit, or 0…",
+   "image": "https://i.brecorder.com/large/2026/09/221615240c18c90.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Elevated oil prices keep up heat on Indian rupee, traders await cues from Fed",
+   "url": "https://www.brecorder.com/news/40446314/elevated-oil-prices-keep-up-heat-on-indian-rupee-traders-await-cues-from-fed",
+   "source": "Business Recorder",
+   "published": "2026-10-28T10:56:30+00:00",
+   "summary": "MUMBAI: The Indian rupee slipped on Wednesday as oil prices remained on the boil, keeping up pressure on local assets while the central bank likely intervened to contain the currency’s weakness. The Indian rupee closed at 95.2200 per dollar, compared with the previous session’s close of 95.1150. Brent oil prices climbe…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Vietnam raises $619 million in government bond auction, bourse filing says",
+   "url": "https://www.brecorder.com/news/40446298/vietnam-raises-619-million-in-government-bond-auction-bourse-filing-says",
+   "source": "Business Recorder",
+   "published": "2026-10-28T07:12:45+00:00",
+   "summary": "HANOI: Vietnam’s State Treasury raised 16 trillion dong ($619.39 million) in its weekly government bond auction on Wednesday, up from $371 million raised last week. Around 84% of the bonds on offer were sold, compared with 65% last week, according to a Hanoi Stock Exchange filing.",
+   "image": "https://i.brecorder.com/large/2026/09/23112037274869f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Thai baht/US dollar weaker on Wednesday",
@@ -283,19 +413,6 @@
    "published": "2026-10-28T05:08:31+00:00",
    "summary": "HONG KONG: China’s yuan was little changed against the US dollar on Wednesday as traders awaited the Federal Reserve’s policy decision for clues on the near-term interest rate outlook. Markets broadly expect no change in US central bank policy this week, but believe a rate-hike pause will not last for long given inflat…",
    "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: stocks surge, KSE-100 up nearly 400 points",
-   "url": "https://www.brecorder.com/news/40446281/psx-stocks-surge-kse-100-up-nearly-400-points",
-   "source": "Business Recorder",
-   "published": "2026-10-28T05:06:16+00:00",
-   "summary": "Positive momentum was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 400 points during the opening minutes of trading on Wednesday. At 9:35am, the benchmark index was hovering at 164,830.55, up 363.35 points or 0.22%. Buying was observed in key sectors: automobile assembl…",
-   "image": "https://i.brecorder.com/large/2022/05/31175059cc42660.jpg",
    "topics": [
     "Economy"
    ],
@@ -368,45 +485,6 @@
    "domestic": false
   },
   {
-   "title": "Stocks get AI lift, dollar holds steady ahead of Fed decision",
-   "url": "https://www.brecorder.com/news/40446271/stocks-get-ai-lift-dollar-holds-steady-ahead-of-fed-decision",
-   "source": "Business Recorder",
-   "published": "2026-10-28T02:12:35+00:00",
-   "summary": "SINGAPORE: Asia stocks rallied on Wednesday after ​a resurgence in AI enthusiasm ahead of earnings from industry bellwethers later in the US day, while the ‌dollar was perky ahead of a Federal Reserve policy decision . South Korean chipmaker SK Hynix reporting a more than seven-fold rise in quarterly operating profit a…",
-   "image": "https://i.brecorder.com/large/2026/10/280710434ac0a4e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
-   "url": "https://www.brecorder.com/news/40446270/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns",
-   "source": "Business Recorder",
-   "published": "2026-10-28T02:05:46+00:00",
-   "summary": "BEIJING: Oil prices rose on Wednesday after an attack on a refinery in Saudi Arabia , the ​world’s biggest crude exporter, renewed concerns around the ‌risks to supply in the Middle East stemming from the conflict with Iran and its proxies. Brent crude futures rose $1.48, or 1.3%, to $115.36 a ​barrel as of 0140 GMT. U…",
-   "image": "https://i.brecorder.com/large/2026/10/2707484120ec1ba.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar steady ahead of Fed decision, kiwi slumps after RBNZ holds",
-   "url": "https://www.brecorder.com/news/40446269/dollar-steady-ahead-of-fed-decision-kiwi-slumps-after-rbnz-holds",
-   "source": "Business Recorder",
-   "published": "2026-10-28T01:58:20+00:00",
-   "summary": "SINGAPORE: The US dollar held at a two-week high on Wednesday ahead of policy decisions from central ​banks, with the Federal Reserve widely expected to leave its policy interest rate ‌unchanged while signalling the probability of any December move. Most of the dollar’s peers were unmoved ahead of the Fed decision. The…",
-   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "REITs held back by tax, valuation gaps",
    "url": "https://tribune.com.pk/story/2637267/reits-held-back-by-tax-valuation-gaps",
    "source": "The Express Tribune",
@@ -426,32 +504,6 @@
    "published": "2026-10-27T15:42:09+00:00",
    "summary": "Falls Rs1,300/tola; investors await Fed decision; rupee inches up",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper climbs on AI rebound, China demand strength",
-   "url": "https://www.brecorder.com/news/40446133/copper-climbs-on-ai-rebound-china-demand-strength",
-   "source": "Business Recorder",
-   "published": "2026-10-27T11:33:05+00:00",
-   "summary": "Copper rose on Tuesday as sentiment around AI stocks recovered and demand strengthened in top consumer China, although higher oil prices and a firmer dollar capped gains. Benchmark three-month copper on the London Metal Exchange was up 0.7% to $14,421.50 per metric ton as of 1030 GMT after ending the previous session l…",
-   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee boxed in range; traders focus on oil, outflows and RBI's defence",
-   "url": "https://www.brecorder.com/news/40446129/indian-rupee-boxed-in-range-traders-focus-on-oil-outflows-and-rbis-defence",
-   "source": "Business Recorder",
-   "published": "2026-10-27T11:13:11+00:00",
-   "summary": "MUMBAI: The Indian rupee seesawed in a narrow range against the dollar on Tuesday before ending little changed, while underlying sentiment remained weak. The Indian rupee ended at 95.1150 per dollar, up less than 0.1% from 95.1850 on Monday. Persistent external pressures from higher oil prices and equity outflows have …",
-   "image": "https://i.brecorder.com/large/2026/10/2608074888f4d3d.webp",
    "topics": [
     "Economy"
    ],
@@ -533,6 +585,32 @@
    "image": null,
    "topics": [
     "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Wheat, flour prices expected to decline after imported wheat arrives",
+   "url": "https://arynews.tv/wheat-flour-prices-expected-to-decline-after-imported-wheat-arrives",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Wheat, flour prices expected to decline after imported wheat arrives",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Flour-Price.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "What is likely to be in UK finance minister John Healey’s budget?",
+   "url": "https://arynews.tv/what-is-likely-to-be-in-uk-finance-minister-john-healeys-budget",
+   "source": "ARY News",
+   "published": null,
+   "summary": "What is likely to be in UK finance minister John Healey’s budget?",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/John-Healey.jpg",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
