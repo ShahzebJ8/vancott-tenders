@@ -1,15 +1,67 @@
 {
- "generated": "2026-10-29T09:19:35+00:00",
- "count": 54,
+ "generated": "2026-10-29T16:23:16+00:00",
+ "count": 53,
  "relevant_count": 14,
- "domestic_count": 19,
+ "domestic_count": 20,
  "sources": {
   "Dawn": "ok (17)",
   "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (9)"
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "SBP-held foreign exchange reserves rise $33mn to $21.52bn",
+   "url": "https://www.brecorder.com/news/40446522/sbp-held-foreign-exchange-reserves-rise-33mn-to-2152bn",
+   "source": "Business Recorder",
+   "published": "2026-10-29T15:29:50+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $33 million to $21.52 billion during the week ended October 23, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.75 billion as of October 23. According to the SBP’s latest data, net foreign r…",
+   "image": "https://i.brecorder.com/large/2026/10/29192046b2a83aa.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee extends gain against US dollar",
+   "url": "https://www.brecorder.com/news/40446505/rupee-extends-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-29T14:33:54+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.76, a gain of Re0.01 against the greenback. On Wednesday , the rupee had closed at 276.77 against the dollar. Globally, the US dollar steadied on Thursday after the Federal Re…",
+   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan, China sign agreement to operationalise green channel at Sost-Khunjerab border",
+   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
+   "source": "Dawn",
+   "published": "2026-10-29T10:42:26+00:00",
+   "summary": "ISLAMABAD: Pakistan and China have signed an agreement to operationalise a green channel at the Sost-Khunjerab border for agricultural and allied products to facilitate bilateral trade. The agreement was signed online between the customs administrations of the two countries at the Federal Board of Revenue (FBR) on Thur…",
+   "image": "https://i.dawn.com/large/2021/06/60b5c3c1b6742.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM approves Lahore, Karachi airport expansion",
+   "url": "https://www.brecorder.com/news/40446499/pm-approves-lahore-karachi-airport-expansion",
+   "source": "Business Recorder",
+   "published": "2026-10-29T10:15:07+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Lahore and Karachi airports under their master plans, directing that the projects be completed within the stipulated timeframe. The development came during a meeting held in Islamabad under the chairmanship of PM Shehbaz regarding improvement of servic…",
+   "image": "https://i.brecorder.com/large/2026/07/170152505b91a4a.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Lucky Cement approves 3.2 million-tonne capacity expansion at Karachi plant",
    "url": "https://www.brecorder.com/news/40446466/lucky-cement-approves-32-million-tonne-capacity-expansion-at-karachi-plant",
@@ -194,19 +246,6 @@
    "domestic": true
   },
   {
-   "title": "Central bank raises policy rate by 50 basis points to 12pc",
-   "url": "https://www.dawn.com/news/2039956/central-bank-raises-policy-rate-by-50-basis-points-to-12pc",
-   "source": "Dawn",
-   "published": "2026-10-26T12:20:14+00:00",
-   "summary": "The State Bank of Pakistan (SBP) on Monday raised the key policy rate by 50 basis points to 12 per cent, its first increase since April as inflation, fuelled by high energy costs due to the Gulf conflict, remained above target. In a statement, the Monetary Policy Committee (MPC) said it had decided to increase the poli…",
-   "image": "https://i.dawn.com/large/2026/10/261654460e81ba3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Govt pushes China for tariff concessions",
    "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
    "source": "The Express Tribune",
@@ -234,43 +273,94 @@
    "domestic": true
   },
   {
-   "title": "State Bank of Pakistan raises policy rate to 12%",
-   "url": "https://arynews.tv/state-bank-of-pakistan-raises-policy-rate-to-12",
-   "source": "ARY News",
-   "published": null,
-   "summary": "State Bank of Pakistan raises policy rate to 12%",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/SBP-monetary-policy.jpg",
+   "title": "Pakistan’s tyre exports targeted at $150mn in FY27",
+   "url": "https://www.brecorder.com/news/40446523/pakistans-tyre-exports-targeted-at-150mn-in-fy27",
+   "source": "Business Recorder",
+   "published": "2026-10-29T14:55:20+00:00",
+   "summary": "Pakistan’s tyre industry is targeting exports of $150 million in FY2026-27, up from $116 million in FY2025-26 and $35 million in FY2021-22, as the Commerce Ministry has assured the sector of support in addressing market access barriers and expanding overseas sales. At a recent meeting chaired by Commerce Minister Jam K…",
+   "image": "https://i.brecorder.com/large/2026/05/15050829787347a.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Pakistan offers Qatar investment in Karachi-Hyderabad Motorway, LNG Fleet",
-   "url": "https://arynews.tv/pakistan-offers-qatar-investment-in-karachi-hyderabad-motorway-lng-fleet",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan offers Qatar investment in Karachi-Hyderabad Motorway, LNG Fleet",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Pakistan-Qatar.jpg",
+   "title": "Gulf bourses retreat as bank stocks ease on Yemen, Iran war worries",
+   "url": "https://www.brecorder.com/news/40446519/gulf-bourses-retreat-as-bank-stocks-ease-on-yemen-iran-war-worries",
+   "source": "Business Recorder",
+   "published": "2026-10-29T13:41:33+00:00",
+   "summary": "Gulf bourses ended lower on Thursday as bank stocks tumbled, with an escalation of the conflict in Yemen and stalled peace efforts hitting sentiment. Yemen’s Houthis attacked Aden airport on Wednesday, Yemeni government forces said. The group had earlier warned people to evacuate the facility as fighting escalated in t…",
+   "image": "https://i.brecorder.com/large/2026/10/291839303b6e2c3.jpg",
    "topics": [
-    "Construction & projects",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Asia rice: Indian rice prices firm, Vietnam rates climb to near two-year highs",
+   "url": "https://www.brecorder.com/news/40446508/asia-rice-indian-rice-prices-firm-vietnam-rates-climb-to-near-two-year-highs",
+   "source": "Business Recorder",
+   "published": "2026-10-29T11:24:35+00:00",
+   "summary": "Indian rice export prices remained steady this week near their highest level in more than a year, while Vietnam prices climbed to their highest since January 2025 on concerns that supply disruptions could leave exporters struggling to meet new demand. Vietnam’s 5% broken rice was offered at $470-$480 per metric ton on …",
+   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's IndiGo narrows quarterly loss on pricing actions",
+   "url": "https://www.brecorder.com/news/40446504/indias-indigo-narrows-quarterly-loss-on-pricing-actions",
+   "source": "Business Recorder",
+   "published": "2026-10-29T10:47:40+00:00",
+   "summary": "IndiGo parent InterGlobe Aviation on Thursday posted a smaller second-quarter loss as India’s top airline undertook pricing actions to offset rising fuel costs. The company reported a loss of 20.55 billion rupees ($215.73 million) in the quarter ended September 30, CEO Willie Walsh’s first after he took over as the com…",
+   "image": "https://i.brecorder.com/large/2026/10/291547295d76b5f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "QatarEnergy secures 20-year US LNG supply from Woodside amid Hormuz blockade",
+   "url": "https://www.brecorder.com/news/40446503/qatarenergy-secures-20-year-us-lng-supply-from-woodside-amid-hormuz-blockade",
+   "source": "Business Recorder",
+   "published": "2026-10-29T10:38:00+00:00",
+   "summary": "Australia’s Woodside Energy will supply QatarEnergy with LNG from its Louisiana project under a 20-year deal, the companies said on Thursday, as the Hormuz blockade and war damage disrupt output at one of the world’s largest LNG producers. The deal gives QatarEnergy, which has been buying US LNG for its customers, a su…",
+   "image": "https://i.brecorder.com/large/2026/10/08105024253ac02.webp",
+   "topics": [
     "Energy & power"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
   },
   {
-   "title": "PSO profit jump 172% to Rs25.6bn in 1QFY27 despite supply disruptions",
-   "url": "https://www.brecorder.com/news/40446495/pso-profit-jump-172-to-rs256bn-in-1qfy27-despite-supply-disruptions",
+   "title": "Indian shares rise after Fed holds rates steady; earnings-led gains boost optimism",
+   "url": "https://www.brecorder.com/news/40446501/indian-shares-rise-after-fed-holds-rates-steady-earnings-led-gains-boost-optimism",
    "source": "Business Recorder",
-   "published": "2026-10-29T08:35:39+00:00",
-   "summary": "Pakistan State Oil Company Limited (PSO), one of Pakistan’s largest oil marketing companies (OMCs), reported a 172% year-on-year increase in profit after tax to Rs25.56 billion in the first quarter of fiscal year 2027 (FY27), compared to Rs9.39 billion in the same period last year, supported by higher sales volumes and…",
-   "image": "https://i.brecorder.com/large/2026/10/2913312141abbc7.webp",
+   "published": "2026-10-29T10:27:38+00:00",
+   "summary": "Indian shares rose on Thursday, rebounding from a recent drop, as the US Federal Reserve held interest rates steady as expected and upbeat quarterly earnings lifted the benchmark indexes. The benchmark Nifty 50 rose 1.1% to 22,936.75 and the BSE Sensex added 1.2% to 74,151.04. The indexes had lost about 2% each in the …",
+   "image": "https://i.brecorder.com/large/2026/10/23073943b1eaca5.jpg",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee ends flat after hitting two-week low, oil and RBI remain key",
+   "url": "https://www.brecorder.com/news/40446500/indian-rupee-ends-flat-after-hitting-two-week-low-oil-and-rbi-remain-key",
+   "source": "Business Recorder",
+   "published": "2026-10-29T10:23:55+00:00",
+   "summary": "MUMBAI: The Indian rupee rebounded after hitting its weakest level in two weeks and ended nearly unchanged on Thursday, as likely intervention by the central bank and softer oil prices offset dollar demand, traders said. The Indian rupee ended at 95.26 against the dollar, barely changed from its close at 95.22 in the p…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -284,19 +374,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Empathy and purpose drive Los Javis' Oscar hopeful 'La Bola Negra'",
-   "url": "https://www.brecorder.com/news/40446489/empathy-and-purpose-drive-los-javis-oscar-hopeful-la-bola-negra",
-   "source": "Business Recorder",
-   "published": "2026-10-29T07:26:29+00:00",
-   "summary": "LONDON: Spanish filmmakers Javier Calvo and Javier Ambrossi said their sophomore feature “La Bola Negra”, which has emerged as ​an Oscar contender, took them on the journey of their lives and left them with many more ideas they ‌cannot wait to tackle. Industry buzz over a possible Oscar has built for the film since its…",
-   "image": "https://i.brecorder.com/large/2026/10/2912253738c41fb.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -404,38 +481,25 @@
    "domestic": false
   },
   {
+   "title": "PSX extends rally to fourth session, gains 1,456 points",
+   "url": "https://tribune.com.pk/story/2637563/kse-100-index-gains-1136-points-in-intraday-trading-amid-sustained-buying-interest",
+   "source": "The Express Tribune",
+   "published": "2026-10-29T04:06:12+00:00",
+   "summary": "Banks, fertilizers drive benchmark KSE-100 Index up 0.88% to close at 167,193 points",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Indian rupee eyes mild relief with Asian peers buoyed by 'modestly' dovish Fed",
    "url": "https://www.brecorder.com/news/40446461/indian-rupee-eyes-mild-relief-with-asian-peers-buoyed-by-modestly-dovish-fed",
    "source": "Business Recorder",
    "published": "2026-10-29T03:04:24+00:00",
    "summary": "MUMBAI: The Indian rupee is likely to inch higher at Thursday’s open , tracking most Asian currencies after the Federal Reserve’s policy ​decision and Chair Warsh’s subsequent comments were read as modestly dovish by parts of ‌the market. The Indian rupee is expected to open in the 95.14-95.18 range, per traders, havin…",
    "image": "https://i.brecorder.com/large/2026/10/290803552f3ec70.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares set for positive start after Fed holds rates steady; elevated oil weighs",
-   "url": "https://www.brecorder.com/news/40446459/indian-shares-set-for-positive-start-after-fed-holds-rates-steady-elevated-oil-weighs",
-   "source": "Business Recorder",
-   "published": "2026-10-29T02:52:55+00:00",
-   "summary": "Indian shares are expected to open little changed on Thursday after the US Federal Reserve held interest rates steady, as expected, ​while elevated oil prices kept investors cautious. GIFT Nifty futures were ‌at 22,708 as of 7:35 a.m. IST, indicating a muted start for the benchmark Nifty 50, which closed at 22,698.85 o…",
-   "image": "https://i.brecorder.com/large/2026/10/2907504068fe651.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar steady after Fed hold leaves rate path murky",
-   "url": "https://www.brecorder.com/news/40446457/dollar-steady-after-fed-hold-leaves-rate-path-murky",
-   "source": "Business Recorder",
-   "published": "2026-10-29T02:44:30+00:00",
-   "summary": "SHANGHAI/SINGAPORE: The US dollar steadied on Thursday after the Federal Reserve held interest rates as expected while hinting upcoming inflation data would influence future policy moves, leaving investors uncertain ​about the rates outlook. The Fed opted to delay any changes to borrowing costs until after next week’s …",
-   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
    "topics": [
     "Economy"
    ],
@@ -456,50 +520,11 @@
    "domestic": false
   },
   {
-   "title": "Fed holds rates steady as it awaits 'accumulation of more information'",
-   "url": "https://www.brecorder.com/news/40446339/fed-holds-rates-steady-as-it-awaits-accumulation-of-more-information",
-   "source": "Business Recorder",
-   "published": "2026-10-28T18:18:28+00:00",
-   "summary": "WASHINGTON: The Federal Reserve held interest rates steady on Wednesday, as expected, opting to delay any changes to borrowing costs until after next week’s US midterm elections and awaiting further data on the path of inflation. In a 10-2 decision, the US central bank said it would maintain its benchmark interest rate…",
-   "image": "https://i.brecorder.com/large/2024/02/65d7c5e6b1227.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "IMC flags misuse of used car import scheme",
    "url": "https://tribune.com.pk/story/2637472/imc-flags-misuse-of-used-car-import-scheme",
    "source": "The Express Tribune",
    "published": "2026-10-28T16:52:33+00:00",
    "summary": "Seeks clear policy, saying second-hand vehicle trade hurts local industry",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "'More rate hikes may follow'",
-   "url": "https://tribune.com.pk/story/2637474/more-rate-hikes-may-follow",
-   "source": "The Express Tribune",
-   "published": "2026-10-28T16:52:33+00:00",
-   "summary": "Economists warn inflation is projected at 11-13% if oil stays elevated",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Despite shocks, economic data improves",
-   "url": "https://tribune.com.pk/story/2637470/despite-shocks-economic-data-improves",
-   "source": "The Express Tribune",
-   "published": "2026-10-28T16:52:33+00:00",
-   "summary": "SBP governor warns against short-term fixes at expense of long-term stability",
    "image": null,
    "topics": [
     "Economy"
@@ -540,45 +565,6 @@
    "published": "2026-10-28T16:52:33+00:00",
    "summary": "Pakistan exports cement and heavy materials",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gulf equities mixed as Ras Tanura strike unnerves investors",
-   "url": "https://www.brecorder.com/news/40446329/gulf-equities-mixed-as-ras-tanura-strike-unnerves-investors",
-   "source": "Business Recorder",
-   "published": "2026-10-28T14:14:42+00:00",
-   "summary": "Gulf stocks ended mixed on Wednesday as an attack on a refinery in top crude exporter Saudi Arabia rattled investors and renewed concerns that conflict in the Middle East could escalate. Yemen’s Houthis said on Tuesday they had struck the 550,000-barrel-per-day facility, the kingdom’s biggest refinery, with a ballistic…",
-   "image": "https://i.brecorder.com/large/2025/05/301945203636db6.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's industrial output growth slows to 6.7% in September as mining contracts",
-   "url": "https://www.brecorder.com/news/40446317/indias-industrial-output-growth-slows-to-67-in-september-as-mining-contracts",
-   "source": "Business Recorder",
-   "published": "2026-10-28T11:09:20+00:00",
-   "summary": "NEW DELHI: India’s industrial output growth slowed to 6.7% in September, government data showed on Wednesday, as growth in manufacturing and electricity eased, while mining output contracted. The September data was below the 7.3% growth expected by economists in a Reuters poll and a revised 7.8% expansion in August. Ma…",
-   "image": "https://i.brecorder.com/large/2026/09/28161920561bfd3.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Palm ends lower for third session despite strong export demand",
-   "url": "https://www.brecorder.com/news/40446316/palm-ends-lower-for-third-session-despite-strong-export-demand",
-   "source": "Business Recorder",
-   "published": "2026-10-28T11:05:16+00:00",
-   "summary": "KUALA LUMPUR: Malaysian palm oil futures gave up early gains to close lower on Wednesday, their third consecutive daily loss, despite strong export demand ahead of Diwali festive-season buying in India. The benchmark palm oil contract for January delivery on the Bursa Malaysia Derivatives Exchange fell 14 ringgit, or 0…",
-   "image": "https://i.brecorder.com/large/2026/09/221615240c18c90.webp",
    "topics": [
     "Economy"
    ],
