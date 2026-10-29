@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-29T16:23:16+00:00",
- "count": 53,
+ "generated": "2026-10-29T21:22:06+00:00",
+ "count": 56,
  "relevant_count": 14,
- "domestic_count": 20,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (17)",
-  "Business Recorder": "ok (17)",
+  "Dawn": "ok (18)",
+  "Business Recorder": "ok (19)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Rising interest payments, uplift spending strained Pakistan's fiscal position in early FY27: ministry",
+   "url": "https://www.dawn.com/news/2040743/rising-interest-payments-uplift-spending-strained-pakistans-fiscal-position-in-early-fy27-ministry",
+   "source": "Dawn",
+   "published": "2026-10-29T17:52:26+00:00",
+   "summary": "ISLAMABAD: Despite a massive 90 per cent cut in subsidies and higher-than-targeted revenue collection, Pakistan’s fiscal and current account buffers weakened at the beginning of the current fiscal year (FY27) owing to an almost 37pc increase in interest payments coupled with greater development spending. The “overall f…",
+   "image": "https://i.dawn.com/large/2026/10/292132169edbf4b.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "SBP-held foreign exchange reserves rise $33mn to $21.52bn",
    "url": "https://www.brecorder.com/news/40446522/sbp-held-foreign-exchange-reserves-rise-33mn-to-2152bn",
@@ -45,19 +58,6 @@
    "image": "https://i.dawn.com/large/2021/06/60b5c3c1b6742.jpg",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PM approves Lahore, Karachi airport expansion",
-   "url": "https://www.brecorder.com/news/40446499/pm-approves-lahore-karachi-airport-expansion",
-   "source": "Business Recorder",
-   "published": "2026-10-29T10:15:07+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Lahore and Karachi airports under their master plans, directing that the projects be completed within the stipulated timeframe. The development came during a meeting held in Islamabad under the chairmanship of PM Shehbaz regarding improvement of servic…",
-   "image": "https://i.brecorder.com/large/2026/07/170152505b91a4a.webp",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": true
@@ -233,19 +233,6 @@
    "domestic": true
   },
   {
-   "title": "Bank of Punjab earns Rs14.5bn",
-   "url": "https://www.dawn.com/news/2040058/bank-of-punjab-earns-rs145bn",
-   "source": "Dawn",
-   "published": "2026-10-27T04:01:40+00:00",
-   "summary": "LAHORE: The Bank of Punjab (BOP) on Monday reported a 15pc increase in its profit before tax to Rs30.45 billion for the nine months ended Sept 30, 2026. Profit after tax rose 22pc to Rs14.53bn. The results were announced after a meeting of the bank’s board of directors, which reviewed and approved the unaudited financi…",
-   "image": "https://i.dawn.com/large/2024/02/210831562804fb4.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Govt pushes China for tariff concessions",
    "url": "https://tribune.com.pk/story/2636394/govt-pushes-china-for-tariff-concessions",
    "source": "The Express Tribune",
@@ -271,6 +258,60 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "US stocks slide as Google parent's revenue miss revives AI spending jitters",
+   "url": "https://www.dawn.com/news/2040760/us-stocks-slide-as-google-parents-revenue-miss-revives-ai-spending-jitters",
+   "source": "Dawn",
+   "published": "2026-10-29T20:23:37+00:00",
+   "summary": "US stock prices retreated on Thursday, with investors reassessing big tech’s massive AI spending spree as they digested high-profile earnings, crucial inflation data and the US Federal Reserve’s policy decision. All three major US stock indexes were in negative territory, with the Nasdaq dragged sharply lower by tech a…",
+   "image": "https://i.dawn.com/large/2026/10/30012234c51fc1d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "'Pakistan’s battery storage imports hit 4.5GW in first six months of 2026'",
+   "url": "https://www.brecorder.com/news/40446531/pakistans-battery-storage-imports-hit-45gw-in-first-six-months-of-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-29T18:01:35+00:00",
+   "summary": "A Pakistan Solar Association representative has said that the country imported over 4.5 gigawatts (GW) of battery storage equipment in the first six months of 2026 alone - nearly equalling half of the nation’s entire cumulative historical imports of 9.5GW. This surge in energy storage adoption, driven by citizens and i…",
+   "image": "https://i.brecorder.com/large/2026/05/2502073919d37dc.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan inflation reading projected in range of 9.5-10.5% for October 2026",
+   "url": "https://www.brecorder.com/news/40446528/pakistan-inflation-reading-projected-in-range-of-95-105-for-october-2026",
+   "source": "Business Recorder",
+   "published": "2026-10-29T17:32:32+00:00",
+   "summary": "Pakistan’s finance ministry has projected inflation reading in the range of 9.5% to 10.5% for the outgoing month of October 2026 amid elevated energy and food prices in the country in line with global trends, while the domestic economic outlook to remain promising for the ongoing fiscal year 2026-27 (FY27). The inflati…",
+   "image": "https://i.brecorder.com/large/2023/06/64825d5fc2578.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX launches Shariah-compliant trading counter",
+   "url": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter",
+   "source": "Business Recorder",
+   "published": "2026-10-29T16:35:29+00:00",
+   "summary": "Pakistan Stock Exchange (PSX) has launched a Shariah-compliant trading counter following the Securities and Exchange Commission of Pakistan’s (SECP) approval of the Shariah Trading Counter Regulations, providing investors with a dedicated platform for Islamic investments. The counter, launched on October 29, offers ret…",
+   "image": "https://i.brecorder.com/large/2026/10/29213502b0f9dac.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan’s tyre exports targeted at $150mn in FY27",
@@ -320,6 +361,19 @@
    "image": "https://i.brecorder.com/large/2026/10/291547295d76b5f.webp",
    "topics": [
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "QatarEnergy buys US, other LNG to hedge future Hormuz disruptions",
+   "url": "https://tribune.com.pk/story/2637606/qatarenergy-buys-us-other-lng-to-hedge-future-hormuz-disruptions",
+   "source": "The Express Tribune",
+   "published": "2026-10-29T10:45:34+00:00",
+   "summary": "Strategy uses QatarEnergy's trading arm and 200-tanker fleet to hedge against future Hormuz disruption",
+   "image": null,
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -494,38 +548,12 @@
    "domestic": false
   },
   {
-   "title": "Indian rupee eyes mild relief with Asian peers buoyed by 'modestly' dovish Fed",
-   "url": "https://www.brecorder.com/news/40446461/indian-rupee-eyes-mild-relief-with-asian-peers-buoyed-by-modestly-dovish-fed",
-   "source": "Business Recorder",
-   "published": "2026-10-29T03:04:24+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to inch higher at Thursday’s open , tracking most Asian currencies after the Federal Reserve’s policy ​decision and Chair Warsh’s subsequent comments were read as modestly dovish by parts of ‌the market. The Indian rupee is expected to open in the 95.14-95.18 range, per traders, havin…",
-   "image": "https://i.brecorder.com/large/2026/10/290803552f3ec70.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Diesel price nears Rs400 as govt adds over a rupee to petrol, HSD rates",
    "url": "https://www.dawn.com/news/2040479/diesel-price-nears-rs400-as-govt-adds-over-a-rupee-to-petrol-hsd-rates",
    "source": "Dawn",
    "published": "2026-10-28T18:18:56+00:00",
    "summary": "The government on Wednesday raised the price of petrol by Rs1.85 per litre and that of high-speed diesel (HSD) by Rs1.75, pushing the HSD rate to nearly Rs400. Following the revision, petrol will retail at Rs377.91 per litre, while HSD will cost Rs399.82 per litre on Oct 29 (Thursday), according to the Petroleum Divisi…",
    "image": "https://i.dawn.com/large/2021/09/6156090661d81.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IMC flags misuse of used car import scheme",
-   "url": "https://tribune.com.pk/story/2637472/imc-flags-misuse-of-used-car-import-scheme",
-   "source": "The Express Tribune",
-   "published": "2026-10-28T16:52:33+00:00",
-   "summary": "Seeks clear policy, saying second-hand vehicle trade hurts local industry",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -624,6 +652,32 @@
    "domestic": false
   },
   {
+   "title": "Pakistan Stock Exchange launches ‘Shariah-Compliant’ trading counter",
+   "url": "https://arynews.tv/pakistan-stock-exchange-launches-shariah-compliant-trading-counter",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan Stock Exchange launches ‘Shariah-Compliant’ trading counter",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-today.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s exports rise 7.7 percent to $8.5 billion in first quarter",
+   "url": "https://arynews.tv/pakistans-exports-rise-7-7-percent-to-8-5-billion-in-first-quarter",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s exports rise 7.7 percent to $8.5 billion in first quarter",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Export.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "PSX: Stocks close higher as KSE-100 gains 1,270 Points",
    "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-gains-1270-points",
    "source": "ARY News",
@@ -682,19 +736,6 @@
    "published": null,
    "summary": "Pakistan explores alternative sea routes for LPG imports amid supply issues",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/LPG-Trump.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close higher as KSE-100 index gains over 600 points",
-   "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-index-gains-over-600-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close higher as KSE-100 index gains over 600 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX-3.jpg",
    "topics": [
     "Economy"
    ],
