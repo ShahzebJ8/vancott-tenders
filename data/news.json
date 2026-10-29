@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-28T23:27:58+00:00",
- "count": 51,
- "relevant_count": 15,
- "domestic_count": 19,
+ "generated": "2026-10-29T02:41:42+00:00",
+ "count": 58,
+ "relevant_count": 16,
+ "domestic_count": 28,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,136 @@
   "ARY News": "ok (9)"
  },
  "stories": [
+  {
+   "title": "Coal procurement: NEPRA unlikely to grant another extension to PQEPCL",
+   "url": "https://www.brecorder.com/news/40446431/coal-procurement-nepra-unlikely-to-grant-another-extension-to-pqepcl",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (NEPRA) is unlikely to grant another extension to Port Qasim Electric Power Company Limited (PQEPCL) for coal procurement under an interim arrangement, despite the company’s reported efforts to persuade the regulator’s officials, sources said. The development …",
+   "image": "https://i.brecorder.com/large/2022/09/633628d196e58.jpg",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP doubles MCR for banks",
+   "url": "https://www.brecorder.com/news/40446432/sbp-doubles-mcr-for-banks",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has announced a 100 percent increase in the Minimum Capital Requirement (MCR) for new and existing banks operating in Pakistan, citing rising operating costs associated with establishing and running financial institutions on a sustainable basis. The SBP has increased the MCR fo…",
+   "image": "https://i.brecorder.com/large/2026/05/1503390297289d4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP revises instructions on sugar export",
+   "url": "https://www.brecorder.com/news/40446435/sbp-revises-instructions-on-sugar-export",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has issued revised instructions for the export of 200,000 metric tons of sugar. According to the SBP, the Ministry of National Food Security & Research (MNFS&R), vide its Office Memorandum No. 19(12)/EXPORT/PED/API-0004 dated October 25, 2026, has confirmed that the Government …",
+   "image": "https://i.brecorder.com/large/2023/01/63d8483c894f6.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP rolls out financing framework for SEs and SFs",
+   "url": "https://www.brecorder.com/news/40446436/sbp-rolls-out-financing-framework-for-ses-and-sfs",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has introduced a financing framework for Small Enterprises (SEs) and Small Farmers (SFs) under wholesale and agency arrangements to further improve their access to credit under the government’s Risk Coverage Facility. The banks may provide financing to SEs and SFs through whole…",
+   "image": "https://i.brecorder.com/large/2025/12/2204431792101a4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Dar reaffirms commitment to boost exports",
+   "url": "https://www.brecorder.com/news/40446439/dar-reaffirms-commitment-to-boost-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar on Wednesday chaired an inter-ministerial meeting to discuss ways to boost Pakistan’s exports. The meeting focused on promoting international trade and market access, with detailed discussions on various aspects including human ri…",
+   "image": "https://i.brecorder.com/large/2024/10/6712e35c3b90c.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Expansion of trade, investment discussed with German envoy",
+   "url": "https://www.brecorder.com/news/40446441/expansion-of-trade-investment-discussed-with-german-envoy",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "ISLAMABAD: Pakistan and Germany have discussed ways to expand trade and investment, address export-related challenges in the context of GSP+ scheme to facilitate Pakistan’s access to European markets. The Pakistan–Germany Parliamentary Friendship Group (PFG), led by its Convener, Syed Ghulam Mustafa Shah, Deputy Speake…",
+   "image": "https://i.brecorder.com/large/2026/10/290406339fea089.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PAMA seeks review of Gift Scheme to prevent its misuse",
+   "url": "https://www.brecorder.com/news/40446448/pama-seeks-review-of-gift-scheme-to-prevent-its-misuse",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "LAHORE: Pakistan Automotive Manufacturers Association (PAMA) has requested the Ministry of Commerce to undertake an immediate review of the Gift Scheme and introduce appropriate safeguards to prevent its misuse. “We further request that the Government reassess policies that encourage excessive imports of used vehicles …",
+   "image": "https://i.brecorder.com/large/2026/10/08020028404b9b8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PHMA concerned over SBP's decision to raise policy rate",
+   "url": "https://www.brecorder.com/news/40446452/phma-concerned-over-sbps-decision-to-raise-policy-rate",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "LAHORE: The Pakistan Hosiery Manufacturers and Exporters Association (PHMA) has expressed serious concern over the State Bank of Pakistan’s decision to raise the policy rate by 50 basis points to 12 percent. The association warned that higher borrowing costs will further erode the competitiveness of the country’s expor…",
+   "image": "https://i.brecorder.com/large/2024/09/66f60644de14a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "APTMA praises PM, Dar: USD1bn improvement in net textile exports under EFS reforms",
+   "url": "https://www.brecorder.com/news/40446454/aptma-praises-pm-dar-usd1bn-improvement-in-net-textile-exports-under-efs-reforms",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "LAHORE: All Pakistan Textile Mills Association (APTMA) has congratulated Prime Minister Shehbaz Sharif, Deputy Prime Minister Ishaq Dar, Minister for Finance Muhammad Aurangzeb, Minister for Commerce Jam Kamal Khan, Minister for Planning Ahsan Iqbal, SAPM Industries Haroon Akhtar Khan, Minister of State for Finance Bil…",
+   "image": "https://i.brecorder.com/large/2026/10/02082142189fe30.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Wattoo, Wapda chief visit Diamer-Basha Dam, Dasu HPP",
+   "url": "https://www.brecorder.com/news/40446354/wattoo-wapda-chief-visit-diamer-basha-dam-dasu-hpp",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:09+00:00",
+   "summary": "LAHORE: The Federal Minister for Water Resources Mian Muhammad Moeen Wattoo, accompanied by Chairman Wapda Lieutenant General Muhammad Saeed (Retd) on Wednesday visited Diamer Basha Dam and Dasu Hydropower Project to review construction progress and witnessed the major construction sites at both projects. According to …",
+   "image": "https://i.brecorder.com/large/2021/09/6135509805152.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Consignment of imported wheat arrives at Karachi port",
    "url": "https://www.dawn.com/news/2040463/consignment-of-imported-wheat-arrives-at-karachi-port",
@@ -56,19 +186,6 @@
    "published": "2026-10-28T15:04:55+00:00",
    "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday stressed that artificial intelligence (AI) and digitalisation could improve Pakistan’s trade, exports and other areas of development and called for effective implementation of the government’s strategic partnership with global marketing company Alibaba. The premier …",
    "image": "https://i.dawn.com/large/2026/10/28183600dbd2795.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pinktober on two wheels: women-led Karachi rally takes breast cancer awareness to the streets",
-   "url": "https://www.brecorder.com/news/40446326/pinktober-on-two-wheels-women-led-karachi-rally-takes-breast-cancer-awareness-to-the-streets",
-   "source": "Business Recorder",
-   "published": "2026-10-28T14:42:13+00:00",
-   "summary": "As Pinktober brings renewed attention to breast cancer awareness, a women-led motorcycle rally took to the streets of Karachi last Sunday, bringing together female riders, organisers and a medical professional to encourage conversations about breast health, early detection, and the importance of prioritising women’s he…",
-   "image": "https://i.brecorder.com/large/2026/10/281839503c44e43.webp",
    "topics": [
     "Economy"
    ],
@@ -263,6 +380,19 @@
    "domestic": true
   },
   {
+   "title": "Fed leaves rates unchanged",
+   "url": "https://www.brecorder.com/news/40446433/fed-leaves-rates-unchanged",
+   "source": "Business Recorder",
+   "published": "2026-10-28T23:31:10+00:00",
+   "summary": "WASHINGTON: The Federal Reserve held interest rates steady on Wednesday, as expected, opting to delay any changes to borrowing costs until after next week’s US midterm elections and awaiting further data on the path of inflation. In a 10-2 decision, the US central bank said it would maintain its benchmark interest rate…",
+   "image": "https://i.brecorder.com/large/2026/03/19004316ddb412b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Diesel price nears Rs400 as govt adds over a rupee to petrol, HSD rates",
    "url": "https://www.dawn.com/news/2040479/diesel-price-nears-rs400-as-govt-adds-over-a-rupee-to-petrol-hsd-rates",
    "source": "Dawn",
@@ -282,32 +412,6 @@
    "published": "2026-10-28T18:18:28+00:00",
    "summary": "WASHINGTON: The Federal Reserve held interest rates steady on Wednesday, as expected, opting to delay any changes to borrowing costs until after next week’s US midterm elections and awaiting further data on the path of inflation. In a 10-2 decision, the US central bank said it would maintain its benchmark interest rate…",
    "image": "https://i.brecorder.com/large/2024/02/65d7c5e6b1227.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PAMA seeks review of Gift Scheme amid surge in used vehicle imports",
-   "url": "https://www.brecorder.com/news/40446336/pama-seeks-review-of-gift-scheme-amid-surge-in-used-vehicle-imports",
-   "source": "Business Recorder",
-   "published": "2026-10-28T16:54:30+00:00",
-   "summary": "Pakistan Automotive Manufacturers Association (PAMA) has urged the government to review the Gift Scheme for used vehicle imports, warning that its alleged misuse threatens domestic manufacturing, employment and future investment. In a letter to Prime Minister’s Adviser on Industries and Production Haroon Akhtar Khan, P…",
-   "image": "https://i.brecorder.com/large/2026/10/28215405f9ccc74.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Ningbo Green Light Energy to begin trading on PSX from Oct 29",
-   "url": "https://www.brecorder.com/news/40446334/ningbo-green-light-energy-to-begin-trading-on-psx-from-oct-29",
-   "source": "Business Recorder",
-   "published": "2026-10-28T16:13:25+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) on Wednesday announced that shares of Ningbo Green Light Energy Limited would begin trading on its Main Board from Thursday, October 29. In a notice, the PSX shared that the market lot of the company will be 1 share of Rs10/each. “Pakistan Stock Exchange Limited is pleased to notify th…",
-   "image": "https://i.brecorder.com/large/2024/04/6622f3c98f1e8.jpg",
    "topics": [
     "Economy"
    ],
@@ -338,19 +442,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yemen's Houthis call for immediate evacuation of Aden airport",
-   "url": "https://www.brecorder.com/news/40446318/yemens-houthis-call-for-immediate-evacuation-of-aden-airport",
-   "source": "Business Recorder",
-   "published": "2026-10-28T11:13:45+00:00",
-   "summary": "DUBAI/ADEN: Yemen’s Houthis on Wednesday called on people to evacuate immediately from the international airport in Aden, where the internationally recognised, Yemen government is based. Houthi spokesperson Yahya Saree said in his post on X that the evacuation was due to what he said was the presence there of a Saudi m…",
-   "image": "https://i.brecorder.com/large/2026/08/20200747da2e529.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
