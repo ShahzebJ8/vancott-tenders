@@ -1,15 +1,80 @@
 {
- "generated": "2026-10-30T07:33:21+00:00",
- "count": 52,
- "relevant_count": 18,
- "domestic_count": 16,
+ "generated": "2026-10-30T14:32:41+00:00",
+ "count": 58,
+ "relevant_count": 19,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (18)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (9)",
-  "ARY News": "ok (8)"
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (10)",
+  "ARY News": "ok (10)"
  },
  "stories": [
+  {
+   "title": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
+   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "source": "Dawn",
+   "published": "2026-10-30T11:39:36+00:00",
+   "summary": "ISLAMABAD: Pakistan and Saudi Arabia agreed on Friday to strengthen strategic cooperation in oil storage, refinery upgrades, crude oil and liquefied petroleum gas (LPG) procurement, and the minerals sector to promote bilateral economic ties, according to a statement issued by the Petroleum Division. Saudi Arabia also a…",
+   "image": "https://i.dawn.com/large/2026/10/30154303e49dfc8.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan's fintech AdalFi plans PSX IPO next month: report",
+   "url": "https://www.brecorder.com/news/40446678/pakistans-fintech-adalfi-plans-psx-ipo-next-month-report",
+   "source": "Business Recorder",
+   "published": "2026-10-30T11:22:10+00:00",
+   "summary": "AdalFi is a Pakistani digital lending platform and a subsidiary of Techlogix, is planning an initial public offering (IPO) next month to expand its Islamic and small-business loans services, the digital lending platform. According to Bloomberg , the company plans to raise as much as Rs652 million ($2.35 million) by iss…",
+   "image": "https://i.brecorder.com/large/2023/02/16123418044e2ff.png",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40446685/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-30T11:14:49+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.75, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.76 against the dollar. Globally, the yen was steady on Friday ahead of the Bank ​of Japan’s…",
+   "image": "https://i.brecorder.com/large/2024/10/672284e0bff78.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation rises to 11.32pc in last week of October, driven by perishable food prices",
+   "url": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices",
+   "source": "Dawn",
+   "published": "2026-10-30T10:35:33+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 11.32 per cent year-on-year in the week ending October 29, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items whose prices are collected from 50 markets in 17 cities,…",
+   "image": "https://i.dawn.com/large/2026/06/30210352ac4f5d1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan targets 50pc local value addition in mobile phone manufacturing",
+   "url": "https://www.brecorder.com/news/40446680/pakistan-targets-50pc-local-value-addition-in-mobile-phone-manufacturing",
+   "source": "Business Recorder",
+   "published": "2026-10-30T09:33:09+00:00",
+   "summary": "ISLAMABAD: Pakistan is targeting up to 50 percent domestic value addition in mobile device manufacturing under a new policy being formulated by the government, aimed at shifting the industry from import-dependent assembly towards local component manufacturing and higher-value industrial production. According to an offi…",
+   "image": "https://i.brecorder.com/large/2026/09/30164429e431d42.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan State Oil profit jumps to Rs25.56bn",
    "url": "https://www.dawn.com/news/2040851/pakistan-state-oil-profit-jumps-to-rs2556bn",
@@ -19,19 +84,6 @@
    "image": "https://i.dawn.com/large/2026/07/2107173921391f0.webp",
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Sindh CM, Chinese CG discuss finalising G2G agreements",
-   "url": "https://www.brecorder.com/news/40446641/sindh-cm-chinese-cg-discuss-finalising-g2g-agreements",
-   "source": "Business Recorder",
-   "published": "2026-10-30T03:19:05+00:00",
-   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah and Chinese Acting Consul General Feng Deheng, on Thursday, discussed bilateral cooperation, investment opportunities, modern technology, agriculture, urban security, and infrastructure development in Sindh. The meeting, held at CM House, focused particularly on finalis…",
-   "image": "https://i.brecorder.com/large/2024/12/6758e5dcd9a93.jpg",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": true
@@ -70,19 +122,6 @@
    "published": "2026-10-29T16:20:44+00:00",
    "summary": "Fast-track path replaces seven-year process as Punjab farmers shift to sugarcane and maize",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee extends gain against US dollar",
-   "url": "https://www.brecorder.com/news/40446505/rupee-extends-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-29T14:33:54+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.76, a gain of Re0.01 against the greenback. On Wednesday , the rupee had closed at 276.77 against the dollar. Globally, the US dollar steadied on Thursday after the Federal Re…",
-   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
    "topics": [
     "Economy"
    ],
@@ -155,19 +194,6 @@
    "domestic": true
   },
   {
-   "title": "Govt considering creation of regulatory authority for construction industry",
-   "url": "https://www.dawn.com/news/2040454/govt-considering-creation-of-regulatory-authority-for-construction-industry",
-   "source": "Dawn",
-   "published": "2026-10-28T15:48:58+00:00",
-   "summary": "ISLAMABAD: The government is considering establishing two new bodies — a regulatory authority and a marketing entity — for the construction industry along with a three-year defect liability period for major construction projects in the country. Private sector figures in construction and the government, however, differ …",
-   "image": "https://i.dawn.com/large/2026/10/2817213750bbb02.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
    "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
    "source": "Dawn",
@@ -218,6 +244,125 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "PSX: KSE-100 ends in red after late sell-off",
+   "url": "https://www.brecorder.com/news/40446658/psx-kse-100-ends-in-red-after-late-sell-off",
+   "source": "Business Recorder",
+   "published": "2026-10-30T14:01:45+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile session on Friday, with the benchmark KSE-100 Index reversing early gains to close in negative territory as selling pressure intensified in the second half of trading. The benchmark initially experienced sharp fluctuations, dropping from higher levels before recove…",
+   "image": "https://i.brecorder.com/large/2026/08/2410042018ee607.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's FX reserves dip for seventh straight week to hit over two-month low",
+   "url": "https://www.brecorder.com/news/40446698/indias-fx-reserves-dip-for-seventh-straight-week-to-hit-over-two-month-low",
+   "source": "Business Recorder",
+   "published": "2026-10-30T13:23:40+00:00",
+   "summary": "MUMBAI: India’s FX reserves fell to a more than two-month low of $719.75 billion as of the week ended October 23, marking their seventh straight week of declines and reflecting the central bank’s absorption of oil-linked dollar demand and market interventions. Week-on-week, the reserves were down by $1.27 billion, driv…",
+   "image": "https://i.brecorder.com/large/2026/08/221416476a88a8c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE shares decline on weak earnings and regional tensions",
+   "url": "https://www.brecorder.com/news/40446696/uae-shares-decline-on-weak-earnings-and-regional-tensions",
+   "source": "Business Recorder",
+   "published": "2026-10-30T12:23:29+00:00",
+   "summary": "Stock markets in the United Arab Emirates declined on Friday as soft corporate earnings and increasing regional tensions dampened investor sentiment. Yemen’s Houthis attacked Saudi oil facilities and airports, while tankers were reportedly hit in the Strait of Hormuz. The US military’s senior officer overseeing the Mid…",
+   "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian broadcaster Zee’s profit falls as FIFA-related costs weigh",
+   "url": "https://www.brecorder.com/news/40446693/indian-broadcaster-zees-profit-falls-as-fifa-related-costs-weigh",
+   "source": "Business Recorder",
+   "published": "2026-10-30T11:45:14+00:00",
+   "summary": "India’s Zee Entertainment Enterprises reported a 38% drop in quarterly profit on Friday, as costs related to the FIFA World Cup broadcast and other initiatives offset gains from subscription growth. The broadcaster’s consolidated profit fell to 478 million rupees ($5 million) for the July-September period, from 765 mil…",
+   "image": "https://i.brecorder.com/large/2026/05/19190154327d869.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lanka's key inflation index up 8.3% year-on-year in October",
+   "url": "https://www.brecorder.com/news/40446687/sri-lankas-key-inflation-index-up-83-year-on-year-in-october",
+   "source": "Business Recorder",
+   "published": "2026-10-30T11:11:02+00:00",
+   "summary": "Sri Lanka’s Colombo Consumer Price Index rose 8.3% year-on-year in October, after an 8% rise last month, the Statistics Department said on Friday. The index, a leading indicator for broader national prices, tracks inflation in Sri Lanka’s capital. Food inflation rose to 8.8% in October, from 8.7% year-on-year last mont…",
+   "image": "https://i.brecorder.com/large/2026/10/301610302831b1b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's April-September fiscal deficit at 42.1% of 2026/27 target",
+   "url": "https://www.brecorder.com/news/40446684/indias-april-september-fiscal-deficit-at-421-of-202627-target",
+   "source": "Business Recorder",
+   "published": "2026-10-30T10:53:16+00:00",
+   "summary": "NEW DELHI: India’s fiscal deficit in the months of April to September stood at 7.15 trillion rupees ($75.24 billion), or 42.1% of the target for the financial year ending March, government data showed on Friday. The deficit in the same period last year stood at 5.7 trillion rupees. Net tax receipts for April to Septemb…",
+   "image": "https://i.brecorder.com/large/2026/10/011140451b1d911.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee posts best month in eight on RBI measures to curb dollar demand",
+   "url": "https://www.brecorder.com/news/40446683/indian-rupee-posts-best-month-in-eight-on-rbi-measures-to-curb-dollar-demand",
+   "source": "Business Recorder",
+   "published": "2026-10-30T10:48:58+00:00",
+   "summary": "MUMBAI: The Indian rupee strengthened on Friday to post its best monthly gain since February, bolstered by policy measures to support the currency by curbing dollar demand even as elevated oil prices and persistent portfolio outflows keep up pressure on the unit. The Indian rupee closed at 94.95 per dollar, up from its…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IT, earnings, tax-cut hopes power Indian shares to monthly gains",
+   "url": "https://www.brecorder.com/news/40446682/it-earnings-tax-cut-hopes-power-indian-shares-to-monthly-gains",
+   "source": "Business Recorder",
+   "published": "2026-10-30T10:45:10+00:00",
+   "summary": "Indian shares snapped a two-month losing streak in October, lifted by IT stocks, resilient earnings and hopes of capital-tax relief, though a surge in crude prices due to lingering Middle East tensions capped gains. On Friday, the benchmark Nifty 50 added 0.51% to 23,053.1, while the Sensex rose 0.42% to 74,459.53. For…",
+   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan offers tax-free oil storage facilities to KSA",
+   "url": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
+   "source": "Business Recorder",
+   "published": "2026-10-30T09:36:03+00:00",
+   "summary": "In a bid to attract foreign investment, Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to establish commercial oil reserves in the country without local tax liabilities. The development came during a meeting between Federal Minister for Petroleum Ali Pervaiz Malik and the new Ambassador of S…",
+   "image": "https://i.brecorder.com/large/2026/10/301423268e293f4.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "Australian dollar stumbles as AI trade sputters, kiwi steadies after rate rout",
@@ -285,12 +430,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: selling returns at bourse, KSE-100 down over 200 points",
-   "url": "https://www.brecorder.com/news/40446658/psx-selling-returns-at-bourse-kse-100-down-over-200-points",
-   "source": "Business Recorder",
-   "published": "2026-10-30T05:06:35+00:00",
-   "summary": "Selling was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index losing over 200 points during the opening minutes of trading on Friday. At 9:50am, the benchmark index was hovering at 166,957.17, down 236.26 points or 0.14%. Selling was observed in key sectors, including automobile assemblers…",
-   "image": "https://i.brecorder.com/large/2026/08/2410042018ee607.webp",
+   "title": "PSX snaps four-day rally, sheds 784 points on profit-taking",
+   "url": "https://tribune.com.pk/story/2637754/psx-gains-over-1130-points-despite-early-session-volatility",
+   "source": "The Express Tribune",
+   "published": "2026-10-30T04:51:17+00:00",
+   "summary": "KSE-100 closes at 166,409 points as Brent nears $118 a barrel",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -389,47 +534,6 @@
    "domestic": false
   },
   {
-   "title": "'Pakistan’s battery storage imports hit 4.5GW in first six months of 2026'",
-   "url": "https://www.brecorder.com/news/40446531/pakistans-battery-storage-imports-hit-45gw-in-first-six-months-of-2026",
-   "source": "Business Recorder",
-   "published": "2026-10-29T18:01:35+00:00",
-   "summary": "A Pakistan Solar Association representative has said that the country imported over 4.5 gigawatts (GW) of battery storage equipment in the first six months of 2026 alone - nearly equalling half of the nation’s entire cumulative historical imports of 9.5GW. This surge in energy storage adoption, driven by citizens and i…",
-   "image": "https://i.brecorder.com/large/2026/05/2502073919d37dc.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan inflation reading projected in range of 9.5-10.5% for October 2026",
-   "url": "https://www.brecorder.com/news/40446528/pakistan-inflation-reading-projected-in-range-of-95-105-for-october-2026",
-   "source": "Business Recorder",
-   "published": "2026-10-29T17:32:32+00:00",
-   "summary": "Pakistan’s finance ministry has projected inflation reading in the range of 9.5% to 10.5% for the outgoing month of October 2026 amid elevated energy and food prices in the country in line with global trends, while the domestic economic outlook to remain promising for the ongoing fiscal year 2026-27 (FY27). The inflati…",
-   "image": "https://i.brecorder.com/large/2023/06/64825d5fc2578.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX launches Shariah-compliant trading counter",
-   "url": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter",
-   "source": "Business Recorder",
-   "published": "2026-10-29T16:35:29+00:00",
-   "summary": "Pakistan Stock Exchange (PSX) has launched a Shariah-compliant trading counter following the Securities and Exchange Commission of Pakistan’s (SECP) approval of the Shariah Trading Counter Regulations, providing investors with a dedicated platform for Islamic investments. The counter, launched on October 29, offers ret…",
-   "image": "https://i.brecorder.com/large/2026/10/29213502b0f9dac.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "SBP reserves rise $33m to $21.52b",
    "url": "https://tribune.com.pk/story/2637649/sbp-reserves-rise-33m-to-2152b",
    "source": "The Express Tribune",
@@ -467,45 +571,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s tyre exports targeted at $150mn in FY27",
-   "url": "https://www.brecorder.com/news/40446523/pakistans-tyre-exports-targeted-at-150mn-in-fy27",
-   "source": "Business Recorder",
-   "published": "2026-10-29T14:55:20+00:00",
-   "summary": "Pakistan’s tyre industry is targeting exports of $150 million in FY2026-27, up from $116 million in FY2025-26 and $35 million in FY2021-22, as the Commerce Ministry has assured the sector of support in addressing market access barriers and expanding overseas sales. At a recent meeting chaired by Commerce Minister Jam K…",
-   "image": "https://i.brecorder.com/large/2026/05/15050829787347a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gulf bourses retreat as bank stocks ease on Yemen, Iran war worries",
-   "url": "https://www.brecorder.com/news/40446519/gulf-bourses-retreat-as-bank-stocks-ease-on-yemen-iran-war-worries",
-   "source": "Business Recorder",
-   "published": "2026-10-29T13:41:33+00:00",
-   "summary": "Gulf bourses ended lower on Thursday as bank stocks tumbled, with an escalation of the conflict in Yemen and stalled peace efforts hitting sentiment. Yemen’s Houthis attacked Aden airport on Wednesday, Yemeni government forces said. The group had earlier warned people to evacuate the facility as fighting escalated in t…",
-   "image": "https://i.brecorder.com/large/2026/10/291839303b6e2c3.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Asia rice: Indian rice prices firm, Vietnam rates climb to near two-year highs",
-   "url": "https://www.brecorder.com/news/40446508/asia-rice-indian-rice-prices-firm-vietnam-rates-climb-to-near-two-year-highs",
-   "source": "Business Recorder",
-   "published": "2026-10-29T11:24:35+00:00",
-   "summary": "Indian rice export prices remained steady this week near their highest level in more than a year, while Vietnam prices climbed to their highest since January 2025 on concerns that supply disruptions could leave exporters struggling to meet new demand. Vietnam’s 5% broken rice was offered at $470-$480 per metric ton on …",
-   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -561,19 +626,6 @@
    "domestic": false
   },
   {
-   "title": "Reg­ula­ted real estate investm­ent trusts growth hinges on transparency, tax reforms, SECP told",
-   "url": "https://www.dawn.com/news/2040400/regulated-real-estate-investment-trusts-growth-hinges-on-transparency-tax-reforms-secp-told",
-   "source": "Dawn",
-   "published": "2026-10-28T03:59:59+00:00",
-   "summary": "https://www.dawn.com/news/2040335",
-   "image": "https://i.dawn.com/large/2026/10/280859111d56223.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -597,6 +649,45 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan lifts restriction on importing used cars over five years old",
+   "url": "https://arynews.tv/pakistan-lifts-restriction-on-importing-used-cars-over-five-years-old",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan lifts restriction on importing used cars over five years old",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Imported-cars.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stocks close lower as KSE-100 index dips over 700 points",
+   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-700-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stocks close lower as KSE-100 index dips over 700 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Weekly inflation drops 0.35% in Pakistan: PBS",
+   "url": "https://arynews.tv/weekly-inflation-drops-0-35-in-pakistan-pbs",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Weekly inflation drops 0.35% in Pakistan: PBS",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Inflation-Pakistasn.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -675,19 +766,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold prices fall in Pakistan as US dollar strengthens",
-   "url": "https://arynews.tv/gold-prices-fall-in-pakistan-as-us-dollar-strengthens",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Gold prices fall in Pakistan as US dollar strengthens",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Gold-rates-Pakistan.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
