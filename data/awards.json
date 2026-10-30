@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-30T14:32:34+00:00",
- "count": 908,
- "with_value": 869,
+ "generated": "2026-10-30T19:40:40+00:00",
+ "count": 910,
+ "with_value": 871,
  "with_winner": 306,
  "smd_count": 0,
  "price_history": [
@@ -15,6 +15,25 @@
  ],
  "evaluation_count": 2000,
  "awards": [
+  {
+   "contract_no": "PCN-2016954515",
+   "reference": null,
+   "title": "Trading Corporation of Pakistan (TCP) Procurement of Miscellaneous Items for Urgent Operational Requirements M. Ayan 2010 Enterprises, Tender: TS0000016849E",
+   "organisation": "Trading Corporation of Pakistan (TCP) Karachi",
+   "office": "Trading Corporation of Pakistan (TCP) Karachi",
+   "winner": null,
+   "value_text": "Rs. 1,149,880 < Rs. 50 Million",
+   "value_pkr": 1149880,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-10-30",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-2016954515",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL2xldHRlci1vZi1hd2FyZC1Mb0EtUDE3MTkxOC00NTkxMzA4MDM2LnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "contract_no": "PCN-3337981276",
    "reference": "T-2376-B/26/MK \"Supply of Security Adhesive Tape\"",
@@ -30,6 +49,25 @@
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-3337981276",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0F3YXJkX29mX2NvbnRyYWN0X0xQLVQtMjM3Ni1CX1BPXzI3NTMxLnBkZg==",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-7219622794",
+   "reference": null,
+   "title": "Trading Corporation of Pakistan (TCP) HIRING OF VEHICLES WITH DRIVERS FOR EMPLOYEES PICK & DROP SERVICES M. Ayan 2010 Enterprises, Tender: TS0000017005E",
+   "organisation": "Trading Corporation of Pakistan (TCP) Karachi",
+   "office": "Trading Corporation of Pakistan (TCP) Karachi",
+   "winner": null,
+   "value_text": "Rs. 1,710,000 < Rs. 50 Million",
+   "value_pkr": 1710000,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-10-28",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-7219622794",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL2xldHRlci1vZi1hd2FyZC1Mb0EtUDE3NTU3OC00NTkxMzA2MzI2XzJfMS5wZGY=",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

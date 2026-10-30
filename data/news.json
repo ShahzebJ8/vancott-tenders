@@ -1,15 +1,28 @@
 {
- "generated": "2026-10-30T14:32:41+00:00",
- "count": 58,
- "relevant_count": 19,
- "domestic_count": 18,
+ "generated": "2026-10-30T19:40:45+00:00",
+ "count": 53,
+ "relevant_count": 16,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (18)",
-  "Business Recorder": "ok (15)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (10)",
-  "ARY News": "ok (10)"
+  "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40446685/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-10-30T15:24:17+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.75, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.76 against the dollar. Globally, the dollar index, which measures the US currency against a…",
+   "image": "https://i.brecorder.com/large/2024/10/672284e0bff78.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
    "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
@@ -24,51 +37,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan's fintech AdalFi plans PSX IPO next month: report",
-   "url": "https://www.brecorder.com/news/40446678/pakistans-fintech-adalfi-plans-psx-ipo-next-month-report",
-   "source": "Business Recorder",
-   "published": "2026-10-30T11:22:10+00:00",
-   "summary": "AdalFi is a Pakistani digital lending platform and a subsidiary of Techlogix, is planning an initial public offering (IPO) next month to expand its Islamic and small-business loans services, the digital lending platform. According to Bloomberg , the company plans to raise as much as Rs652 million ($2.35 million) by iss…",
-   "image": "https://i.brecorder.com/large/2023/02/16123418044e2ff.png",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40446685/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-30T11:14:49+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.75, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.76 against the dollar. Globally, the yen was steady on Friday ahead of the Bank ​of Japan’s…",
-   "image": "https://i.brecorder.com/large/2024/10/672284e0bff78.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Short-term inflation rises to 11.32pc in last week of October, driven by perishable food prices",
    "url": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices",
    "source": "Dawn",
    "published": "2026-10-30T10:35:33+00:00",
    "summary": "ISLAMABAD: Short-term inflation rose to 11.32 per cent year-on-year in the week ending October 29, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items whose prices are collected from 50 markets in 17 cities,…",
    "image": "https://i.dawn.com/large/2026/06/30210352ac4f5d1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan targets 50pc local value addition in mobile phone manufacturing",
-   "url": "https://www.brecorder.com/news/40446680/pakistan-targets-50pc-local-value-addition-in-mobile-phone-manufacturing",
-   "source": "Business Recorder",
-   "published": "2026-10-30T09:33:09+00:00",
-   "summary": "ISLAMABAD: Pakistan is targeting up to 50 percent domestic value addition in mobile device manufacturing under a new policy being formulated by the government, aimed at shifting the industry from import-dependent assembly towards local component manufacturing and higher-value industrial production. According to an offi…",
-   "image": "https://i.brecorder.com/large/2026/09/30164429e431d42.webp",
    "topics": [
     "Economy"
    ],
@@ -181,19 +155,6 @@
    "domestic": true
   },
   {
-   "title": "Consignment of imported wheat arrives at Karachi port",
-   "url": "https://www.dawn.com/news/2040463/consignment-of-imported-wheat-arrives-at-karachi-port",
-   "source": "Dawn",
-   "published": "2026-10-28T17:43:24+00:00",
-   "summary": "KARACHI: Around 51,000 metric tonnes of imported wheat arrived at Karachi Port on Wednesday, according to the Karachi Port Trust (KPT). “The geared vessel MV GOKOVA M, carrying a declared manifest of 51,000 metric tonnes of wheat, was allocated Berths 16 and 17 and arrived at Karachi Port at 1225 hours on Oct 28,” the …",
-   "image": "https://i.dawn.com/large/2026/10/28185329e027f52.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
    "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
    "source": "Dawn",
@@ -207,43 +168,43 @@
    "domestic": true
   },
   {
-   "title": "Govt directs preparation of 5-year roadmap to boost kinnow exports",
-   "url": "https://www.dawn.com/news/2040466/govt-directs-preparation-of-5-year-roadmap-to-boost-kinnow-exports",
-   "source": "Dawn",
-   "published": "2026-10-28T14:14:16+00:00",
-   "summary": "ISLAMABAD: The government on Wednesday moved to address long-standing bottlenecks hampering Pakistan’s kinnow exports, directing authorities to prepare a five-year roadmap. The proposal was presented at a meeting of a subcommittee constituted on the directives of Prime Minister Shehbaz Sharif and headed by Minister of …",
-   "image": "https://i.dawn.com/large/2021/12/61ad90ee2ab79.jpg",
+   "title": "Pakistan’s halal food exports hold $50bn potential, experts say",
+   "url": "https://www.brecorder.com/news/40446711/pakistans-halal-food-exports-hold-50bn-potential-experts-say",
+   "source": "Business Recorder",
+   "published": "2026-10-30T18:03:49+00:00",
+   "summary": "Pakistan has potential to generate $40-50 billion in halal exports by mobilising over 100,000 local companies to produce value-added, internationally certified products and expand into markets across Central Asia, Africa and Eastern Europe, according to industry stakeholders and experts. “Despite being the second-large…",
+   "image": "https://i.brecorder.com/large/2022/09/631e539eaeeb5.jpg",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Pakistan Petroleum Ltd earns Rs99bn profit, makes 11 discoveries",
-   "url": "https://www.dawn.com/news/2040339/pakistan-petroleum-ltd-earns-rs99bn-profit-makes-11-discoveries",
-   "source": "Dawn",
-   "published": "2026-10-28T03:52:10+00:00",
-   "summary": "KARACHI: Pakistan Petroleum Ltd (PPL) posted profit after tax of Rs99 billion and recorded its highest-ever collections of Rs284bn in FY26. This was disclosed at PPL’s 75th annual general meeting on Tuesday, attended by a large number of shareholders who approved the financial statements for FY26 along with the auditor…",
-   "image": "https://i.dawn.com/large/2026/08/17175748a4cd8b3.webp",
+   "title": "Pakistan offers tax-free oil storage facilities to KSA",
+   "url": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
+   "source": "Business Recorder",
+   "published": "2026-10-30T15:55:56+00:00",
+   "summary": "In a bid to attract foreign investment, Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to establish commercial oil reserves in the country without local tax liabilities. The development came during a meeting between Federal Minister for Petroleum Ali Pervaiz Malik and the new Ambassador of S…",
+   "image": "https://i.brecorder.com/large/2026/10/301423268e293f4.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Commerce Minister inaugurates export display centre in Doha to promote Pakistani products",
-   "url": "https://arynews.tv/commerce-minister-inaugurates-export-display-centre-in-doha-to-promote-pakistani-products",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Commerce Minister inaugurates export display centre in Doha to promote Pakistani products",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Jam-Kamal-1.jpg",
+   "title": "Fed's Barkin says US central bank's direction 'straightforward,' the question is pace, SiriusXM reports",
+   "url": "https://www.brecorder.com/news/40446706/feds-barkin-says-us-central-banks-direction-straightforward-the-question-is-pace-siriusxm-reports",
+   "source": "Business Recorder",
+   "published": "2026-10-30T15:15:07+00:00",
+   "summary": "WASHINGTON: Richmond Federal Reserve President Tom Barkin said on Friday that with high inflation and the economy solid, the path of US monetary policy was “straightforward,” but with an open question about the pace of any future rate increases. “Inflation’s high, demand is solid, unemployment is relatively low. So I t…",
+   "image": "https://i.brecorder.com/large/2026/03/19004316ddb412b.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "PSX: KSE-100 ends in red after late sell-off",
@@ -345,19 +306,6 @@
    "published": "2026-10-30T10:45:10+00:00",
    "summary": "Indian shares snapped a two-month losing streak in October, lifted by IT stocks, resilient earnings and hopes of capital-tax relief, though a surge in crude prices due to lingering Middle East tensions capped gains. On Friday, the benchmark Nifty 50 added 0.51% to 23,053.1, while the Sensex rose 0.42% to 74,459.53. For…",
    "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan offers tax-free oil storage facilities to KSA",
-   "url": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
-   "source": "Business Recorder",
-   "published": "2026-10-30T09:36:03+00:00",
-   "summary": "In a bid to attract foreign investment, Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to establish commercial oil reserves in the country without local tax liabilities. The development came during a meeting between Federal Minister for Petroleum Ali Pervaiz Malik and the new Ambassador of S…",
-   "image": "https://i.brecorder.com/large/2026/10/301423268e293f4.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -652,6 +600,19 @@
    "domestic": false
   },
   {
+   "title": "Dollar closes at Rs 276.75 against PKR on weekend as SBP releases forex rates",
+   "url": "https://arynews.tv/dollar-closes-at-rs-276-75-against-pkr-on-weekend-as-sbp-releases-forex-rates",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Dollar closes at Rs 276.75 against PKR on weekend as SBP releases forex rates",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Dollar.jpg.jpeg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Pakistan lifts restriction on importing used cars over five years old",
    "url": "https://arynews.tv/pakistan-lifts-restriction-on-importing-used-cars-over-five-years-old",
    "source": "ARY News",
@@ -740,32 +701,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wheat, flour prices expected to decline after imported wheat arrives",
-   "url": "https://arynews.tv/wheat-flour-prices-expected-to-decline-after-imported-wheat-arrives",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Wheat, flour prices expected to decline after imported wheat arrives",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Flour-Price.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "What is likely to be in UK finance minister John Healey’s budget?",
-   "url": "https://arynews.tv/what-is-likely-to-be-in-uk-finance-minister-john-healeys-budget",
-   "source": "ARY News",
-   "published": null,
-   "summary": "What is likely to be in UK finance minister John Healey’s budget?",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/John-Healey.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
