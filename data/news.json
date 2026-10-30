@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-29T21:22:06+00:00",
- "count": 56,
- "relevant_count": 14,
- "domestic_count": 19,
+ "generated": "2026-10-30T01:17:54+00:00",
+ "count": 65,
+ "relevant_count": 18,
+ "domestic_count": 31,
  "sources": {
   "Dawn": "ok (18)",
   "Business Recorder": "ok (19)",
@@ -10,6 +10,178 @@
   "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Govt rules out additional fuel conservation measures",
+   "url": "https://www.brecorder.com/news/40446610/govt-rules-out-additional-fuel-conservation-measures",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: The government on Thursday ruled out additional fuel conservation measures, telling the National Assembly that the country had petrol stocks sufficient for 22 days and diesel reserves for 30 days, with supplies being closely monitored and imports planned to prevent shortages. In a written reply to a question…",
+   "image": "https://i.brecorder.com/large/2026/10/3004060737c4e7c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Investment in govt securities: Proposal to transfer EDF money to bank account approved",
+   "url": "https://www.brecorder.com/news/40446612/investment-in-govt-securities-proposal-to-transfer-edf-money-to-bank-account-approved",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: The government has approved a proposal allowing the Export Development Fund (EDF) Board to transfer funds from its Public/Treasury Account to a commercial bank account for onward investment in government securities, as the suspension of the Export Development Surcharge (EDS) has halted a major source of the …",
+   "image": "https://i.brecorder.com/large/2023/07/20124455b02415d.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PM approves expansion of Lahore, Karachi airports",
+   "url": "https://www.brecorder.com/news/40446613/pm-approves-expansion-of-lahore-karachi-airports",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday approved expansion plans for Karachi and Lahore airports, directing authorities to complete the projects within stipulated timelines and ensure international standards without compromising on quality. Chairing a meeting on airport expansion and passenger facilities, …",
+   "image": "https://i.brecorder.com/large/2025/12/07142203f8ba1df.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP launches SMEConnect to simplify financing",
+   "url": "https://www.brecorder.com/news/40446614/sbp-launches-smeconnect-to-simplify-financing",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has launched “SMEConnect,” a centralised digital portal to facilitate Small and Medium Enterprises (SMEs) in accessing financing from banks and Development Finance Institutions (DFIs), as part of its efforts to develop an SME-friendly financial ecosystem. The portal aims to str…",
+   "image": "https://i.brecorder.com/large/2026/10/300508295a8f65e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sost-Khunjerab border: Pakistan, China sign deal to operationalise green channel",
+   "url": "https://www.brecorder.com/news/40446615/sost-khunjerab-border-pakistan-china-sign-deal-to-operationalise-green-channel",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: An online signing ceremony for the operationalisation of the Green Channel at the Sost-Khunjerab Border for agricultural and allied products was held Thursday at the Federal Board of Revenue (FBR) Headquarters, Islamabad, between the customs administrations of Pakistan and China, marking an important step to…",
+   "image": "https://i.brecorder.com/large/2023/10/653318b4d82a2.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FD’s update: Oct inflation projected to stay elevated at 9.5-10.5pc",
+   "url": "https://www.brecorder.com/news/40446616/fds-update-oct-inflation-projected-to-stay-elevated-at-95-105pc",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: Inflation is projected to remain elevated at 9.5-10.5 percent in October 2026 - attributed to persistent geopolitical tensions, recurring conflict in the Gulf region, volatile oil prices, trade disruptions and elevated global inflation - is considered as a downside risk for the economy, the Finance Division …",
+   "image": "https://i.brecorder.com/large/2026/09/0203483676ae7a6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt plans expanding export schemes for SMEs: Kayani",
+   "url": "https://www.brecorder.com/news/40446617/govt-plans-expanding-export-schemes-for-smes-kayani",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: The government is considering expanding export credit insurance, risk-sharing mechanisms and access to export financing for small and medium-sized enterprises (SMEs) to help them overcome high business costs, regulatory hurdles and barriers to international markets, Minister of State for Finance Bilal Azhar …",
+   "image": "https://i.brecorder.com/large/2026/05/1503222818d4144.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Textile, leather, other products: FBR revises duty drawback rates on exports",
+   "url": "https://www.brecorder.com/news/40446620/textile-leather-other-products-fbr-revises-duty-drawback-rates-on-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:52+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has revised duty drawback rates on the export of textile products, leather items, engineering goods and other miscellaneous products. In this regard, the FBR has issued four notifications here on Thursday. The new duty drawback rates would be applicable from October 27, 202…",
+   "image": "https://i.brecorder.com/large/2026/09/11053241e672913.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PSX launches Shariah-compliant trading counter",
+   "url": "https://www.brecorder.com/news/40446545/psx-launches-shariah-compliant-trading-counter",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:51+00:00",
+   "summary": "KARACHI: Pakistan Stock Exchange (PSX) today launched its Shariah-Compliant Trading Counter after the Securities and Exchange Commission of Pakistan (SECP) approved the Shariah Trading Counter Regulations. Retail and institutional investors now have a dedicated end-to-end ecosystem for Islamic investing. The launch was…",
+   "image": "https://i.brecorder.com/large/2024/11/672ea57af312f.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "NBP reports Rs48.9bn profit after tax for 9M’26",
+   "url": "https://www.brecorder.com/news/40446567/nbp-reports-rs489bn-profit-after-tax-for-9m26",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:51+00:00",
+   "summary": "KARACHI: The Board of Directors of National Bank of Pakistan (“NBP” or “the Bank”) met to approve the Bank’s interim condensed financial statements for the nine-month period ended September 30, 2026. Operating amid a lower interest-rate environment and following an exceptionally strong comparative 9M period, the Bank r…",
+   "image": "https://i.brecorder.com/large/2026/02/25104010a0b1d1e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Electricity supply to southwestern Balochistan: Pakistan owes USD12m to Iran’s power co, NA told",
+   "url": "https://www.brecorder.com/news/40446571/electricity-supply-to-southwestern-balochistan-pakistan-owes-usd12m-to-irans-power-co-na-told",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:51+00:00",
+   "summary": "ISLAMABAD: The National Assembly was informed on Thursday that Pakistan currently owes around USD12 million to Iran’s state-owned power utility, Tavanir, for electricity imported to supply parts of southwestern Balochistan. In a written reply, Energy Minister Awais Leghari said Pakistan imports up to 204 megawatts (MW)…",
+   "image": "https://i.brecorder.com/large/2022/04/62535a9d53be5.jpg",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Clean energy transition: Call for consumer-centred approach",
+   "url": "https://www.brecorder.com/news/40446572/clean-energy-transition-call-for-consumer-centred-approach",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:51+00:00",
+   "summary": "ISLAMABAD: TheNetwork for Consumer Protection has called for a consumer-centred approach to Pakistan’s clean energy transition, emphasizing affordable energy, effective public participation in regulatory decisions, reliable solar equipment and stronger consumer protection mechanisms. The call was made at a one-day semi…",
+   "image": "https://i.brecorder.com/large/2026/10/30041531caf2da3.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP reviews",
+   "url": "https://www.brecorder.com/news/40446582/sbp-reviews",
+   "source": "Business Recorder",
+   "published": "2026-10-30T00:43:51+00:00",
+   "summary": "EDITORIAL: The State Bank of Pakistan (SBP) has increased the Minimum Capital Requirement (MCR) for new and existing banks operating in Pakistan by 100 percent. The reason cited by the SBP is the rising operating costs associated with establishing and running financial institutions on a sustainable basis. The MCR is a …",
+   "image": "https://i.brecorder.com/large/2025/05/682a68aeb410b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rising interest payments, uplift spending strained Pakistan's fiscal position in early FY27: ministry",
    "url": "https://www.dawn.com/news/2040743/rising-interest-payments-uplift-spending-strained-pakistans-fiscal-position-in-early-fy27-ministry",
@@ -21,19 +193,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SBP-held foreign exchange reserves rise $33mn to $21.52bn",
-   "url": "https://www.brecorder.com/news/40446522/sbp-held-foreign-exchange-reserves-rise-33mn-to-2152bn",
-   "source": "Business Recorder",
-   "published": "2026-10-29T15:29:50+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $33 million to $21.52 billion during the week ended October 23, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.75 billion as of October 23. According to the SBP’s latest data, net foreign r…",
-   "image": "https://i.brecorder.com/large/2026/10/29192046b2a83aa.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -301,19 +460,6 @@
    "domestic": false
   },
   {
-   "title": "PSX launches Shariah-compliant trading counter",
-   "url": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter",
-   "source": "Business Recorder",
-   "published": "2026-10-29T16:35:29+00:00",
-   "summary": "Pakistan Stock Exchange (PSX) has launched a Shariah-compliant trading counter following the Securities and Exchange Commission of Pakistan’s (SECP) approval of the Shariah Trading Counter Regulations, providing investors with a dedicated platform for Islamic investments. The counter, launched on October 29, offers ret…",
-   "image": "https://i.brecorder.com/large/2026/10/29213502b0f9dac.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan’s tyre exports targeted at $150mn in FY27",
    "url": "https://www.brecorder.com/news/40446523/pakistans-tyre-exports-targeted-at-150mn-in-fy27",
    "source": "Business Recorder",
@@ -353,38 +499,12 @@
    "domestic": false
   },
   {
-   "title": "India's IndiGo narrows quarterly loss on pricing actions",
-   "url": "https://www.brecorder.com/news/40446504/indias-indigo-narrows-quarterly-loss-on-pricing-actions",
-   "source": "Business Recorder",
-   "published": "2026-10-29T10:47:40+00:00",
-   "summary": "IndiGo parent InterGlobe Aviation on Thursday posted a smaller second-quarter loss as India’s top airline undertook pricing actions to offset rising fuel costs. The company reported a loss of 20.55 billion rupees ($215.73 million) in the quarter ended September 30, CEO Willie Walsh’s first after he took over as the com…",
-   "image": "https://i.brecorder.com/large/2026/10/291547295d76b5f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "QatarEnergy buys US, other LNG to hedge future Hormuz disruptions",
    "url": "https://tribune.com.pk/story/2637606/qatarenergy-buys-us-other-lng-to-hedge-future-hormuz-disruptions",
    "source": "The Express Tribune",
    "published": "2026-10-29T10:45:34+00:00",
    "summary": "Strategy uses QatarEnergy's trading arm and 200-tanker fleet to hedge against future Hormuz disruption",
    "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "QatarEnergy secures 20-year US LNG supply from Woodside amid Hormuz blockade",
-   "url": "https://www.brecorder.com/news/40446503/qatarenergy-secures-20-year-us-lng-supply-from-woodside-amid-hormuz-blockade",
-   "source": "Business Recorder",
-   "published": "2026-10-29T10:38:00+00:00",
-   "summary": "Australia’s Woodside Energy will supply QatarEnergy with LNG from its Louisiana project under a 20-year deal, the companies said on Thursday, as the Hormuz blockade and war damage disrupt output at one of the world’s largest LNG producers. The deal gives QatarEnergy, which has been buying US LNG for its customers, a su…",
-   "image": "https://i.brecorder.com/large/2026/10/08105024253ac02.webp",
    "topics": [
     "Energy & power"
    ],
