@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-30T19:40:45+00:00",
- "count": 53,
+ "generated": "2026-10-30T23:31:12+00:00",
+ "count": 52,
  "relevant_count": 16,
  "domestic_count": 12,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "ok (8)"
  },
  "stories": [
@@ -475,19 +475,6 @@
    "published": "2026-10-29T20:23:37+00:00",
    "summary": "US stock prices retreated on Thursday, with investors reassessing big tech’s massive AI spending spree as they digested high-profile earnings, crucial inflation data and the US Federal Reserve’s policy decision. All three major US stock indexes were in negative territory, with the Nasdaq dragged sharply lower by tech a…",
    "image": "https://i.dawn.com/large/2026/10/30012234c51fc1d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP reserves rise $33m to $21.52b",
-   "url": "https://tribune.com.pk/story/2637649/sbp-reserves-rise-33m-to-2152b",
-   "source": "The Express Tribune",
-   "published": "2026-10-29T16:20:44+00:00",
-   "summary": "Total holdings stand at $26.75b; gold unchanged locally as global prices fall",
-   "image": null,
    "topics": [
     "Economy"
    ],
