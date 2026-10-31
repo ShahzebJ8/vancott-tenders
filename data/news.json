@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-31T19:31:57+00:00",
- "count": 55,
- "relevant_count": 19,
- "domestic_count": 18,
+ "generated": "2026-10-31T22:46:45+00:00",
+ "count": 59,
+ "relevant_count": 21,
+ "domestic_count": 23,
  "sources": {
   "Dawn": "ok (16)",
   "Business Recorder": "ok (16)",
@@ -10,6 +10,124 @@
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "Value of imported tyres, tubes: SC sets aside SHC verdict",
+   "url": "https://www.brecorder.com/news/40446877/value-of-imported-tyres-tubes-sc-sets-aside-shc-verdict",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:10+00:00",
+   "summary": "ISLAMABAD: The Supreme Court set aside the Sindh High Court (SHC) judgment relating to the determination of the value of imported consignments of tyres and tubes to be used for cars and trucks. A three-member bench, headed by Chief Justice Yahya Afridi and comprising Justice Irfan Saadat Khan and Justice Aqeel Ahmed Ab…",
+   "image": "https://i.brecorder.com/large/2026/11/0101381920e6020.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Cardiac care: EP services now available at SICVD TM Khan",
+   "url": "https://www.brecorder.com/news/40446842/cardiac-care-ep-services-now-available-at-sicvd-tm-khan",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "KARACHI: The Sindh Institute of Cardiovascular Diseases (SICVD) has inaugurated expanded Cardiac Electrophysiology (EP) services at SICVD Tando Muhammad Khan, marking an important advancement in the diagnosis and treatment of heart rhythm disorders for patients in the district and surrounding areas. The expanded servic…",
+   "image": "https://i.brecorder.com/large/2026/11/01004719836a21d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "LHC clarifies ST default surcharge calculation period",
+   "url": "https://www.brecorder.com/news/40446844/lhc-clarifies-st-default-surcharge-calculation-period",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "LAHORE: The Lahore High Court (LHJC) has held that the period for calculation of default surcharge on the sales tax deposited after the prescribed dates of payment, commences from the sixteenth day following the applicable due date of the relevant tax period and not from the sixteenth day following the end of the tax p…",
+   "image": "https://i.brecorder.com/large/2024/10/6705f62cadca0.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "LESCO replaces 501 meters with AMI meters",
+   "url": "https://www.brecorder.com/news/40446854/lesco-replaces-501-meters-with-ami-meters",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "LAHORE: The Lahore Electric Supply Company (LESCO) has replaced 501 conventional electricity meters with Advanced Metering Infrastructure (AMI) meters on federal and provincial government power connections, as part of its drive to modernise electricity metering and ensure transparent billing. According to the LESCO aut…",
+   "image": "https://i.brecorder.com/large/2025/02/13080745e26ec9c.jpg",
+   "topics": [
+    "Construction & projects",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Neela Gumbad will improve historical character of area: DG PWCA",
+   "url": "https://www.brecorder.com/news/40446855/neela-gumbad-will-improve-historical-character-of-area-dg-pwca",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "LAHORE: Punjab Walled Cities and Heritage Areas Authority (PWCA) Director General Najmussaqib has said that the Neela Gumbad project is an important initiative aimed at improving the urban landscape while preserving the historical character of the area. He expressed these views during his visit to the project site on S…",
+   "image": "https://i.brecorder.com/large/2023/12/656e394e5f16a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Urban property tax base expansion: WB board approves USD150m for Sindh PREP",
+   "url": "https://www.brecorder.com/news/40446857/urban-property-tax-base-expansion-wb-board-approves-usd150m-for-sindh-prep",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "ISLAMABAD: The World Bank Group’s Board of Executive Directors has approved USD150 million in financing for the Sindh Property Revenues Enhancement Program (Sindh PREP), under which the provincial government plans to expand the recorded urban property tax base more than fivefold — from around 397,375 to 2.15 million pr…",
+   "image": "https://i.brecorder.com/large/2023/11/10215232650ec55.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Tax Assan Scheme: 222 new filers take the total to 1,945 by Oct 31st: FBR",
+   "url": "https://www.brecorder.com/news/40446859/tax-assan-scheme-222-new-filers-take-the-total-to-1945-by-oct-31st-fbr",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "ISLAMABAD: A total of 222 new shopkeepers filed their income tax returns with tax payment of Rs9.25 million under the Special Tax Scheme for Small Shopkeepers, taking the total filers to 1,945 by October 31, 2026. According to the data compiled by the Federal Board of Revenue (FBR) on Saturday, the number of existing r…",
+   "image": "https://i.brecorder.com/large/2025/02/03062538ec9f068.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Kayani for strengthening SME financing to boost exports",
+   "url": "https://www.brecorder.com/news/40446861/kayani-for-strengthening-sme-financing-to-boost-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "ISLAMABAD: The government has noted the under-utilisation of the dedicated financing facility for small and medium enterprises (SMEs), prompting the Finance Division to seek coordinated measures to improve exporters’ access to financing, technology, and international markets to boost Pakistan’s exports. Minister of Sta…",
+   "image": "https://i.brecorder.com/large/2025/10/21035542e0fcc76.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Punjab PA calls for forensic audit of Lesco billing",
+   "url": "https://www.brecorder.com/news/40446862/punjab-pa-calls-for-forensic-audit-of-lesco-billing",
+   "source": "Business Recorder",
+   "published": "2026-10-31T21:31:09+00:00",
+   "summary": "ISLAMABAD: A joint committee of the Punjab Provincial Assembly has called for a comprehensive forensic audit of electricity billing by Lahore Electric Supply Company (Lesco), fixing responsibility for alleged over-billing and manipulation of consumer records, and introducing an independent mechanism to investigate comp…",
+   "image": "https://i.brecorder.com/large/2026/01/1800314485151c4.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "CM Maryam launches Rs2 trillion PIVOT initiative to boost industry, exports",
    "url": "https://www.dawn.com/news/2041052/cm-maryam-launches-rs2-trillion-pivot-initiative-to-boost-industry-exports",
@@ -43,58 +161,6 @@
    "published": "2026-10-31T02:38:47+00:00",
    "summary": "• Policy seeks to shift LPG imports and price-setting from Ogra to SOEs • State-owned enterprises to introduce import-parity pricing based on Saudi Aramco rates and actual import costs ISLAMABAD: Amid soaring prices following supply disruptions, Prime Minister Shehbaz Sharif has constituted an eight-member ministerial …",
    "image": "https://i.dawn.com/large/2024/11/161650004033933.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "765kV transmission line under Dasu hydropower project: World Bank’s Inspection Panel to examine complaints",
-   "url": "https://www.brecorder.com/news/40446778/765kv-transmission-line-under-dasu-hydropower-project-world-banks-inspection-panel-to-examine-complaints",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:01+00:00",
-   "summary": "ISLAMABAD: The World Bank’s independent Inspection Panel will visit Pakistan from November 2-10, 2026, to examine complaints by 15 individuals from two villages in Punjab over alleged inadequate compensation, massive devaluation of ancestral land and safety risks associated with the construction of over USD 700 million…",
-   "image": "https://i.brecorder.com/large/2025/12/0406224792485d1.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KSA offered to set up oil reserves",
-   "url": "https://www.brecorder.com/news/40446780/ksa-offered-to-set-up-oil-reserves",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:01+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Petroleum Ali Pervaiz Malik said Saudi companies could establish commercial oil reserves in Pakistan without incurring local tax liabilities, offering an opportunity to diversify maritime transit risks associated with the Strait of Hormuz and Bab el-Mandeb. He said the move would facilit…",
-   "image": "https://i.brecorder.com/large/2026/10/31052636d81172e.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "ABHI Microfinance Bank plans to raise billions thru IPO",
-   "url": "https://www.brecorder.com/news/40446781/abhi-microfinance-bank-plans-to-raise-billions-thru-ipo",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:01+00:00",
-   "summary": "KARACHI: ABHI Microfinance Bank planned to raise between Rs 2 billion to Rs 3 billion through an initial public offering (IPO) of 132 million ordinary shares on the Pakistan Stock Exchange (PSX), with a floor price of Rs15 per share. According to details disclosed to the PSX, the book-building process will take place o…",
-   "image": "https://i.brecorder.com/large/2026/09/220132587409396.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Experts see USD50bn potential in Halal exports",
-   "url": "https://www.brecorder.com/news/40446783/experts-see-usd50bn-potential-in-halal-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:01+00:00",
-   "summary": "KARACHI: Pakistan can unlock USD40-50 billion in Halal exports by shifting from raw material exports to value-added, certified products, speakers said at an exclusive media roundtable for Pakistan Halal Forum 2026 held at a local hotel. The roundtable, held as a pre-event press briefing for the upcoming Pakistan Halal …",
-   "image": "https://i.brecorder.com/large/2022/09/631e539eaeeb5.jpg",
    "topics": [
     "Economy"
    ],
@@ -244,19 +310,6 @@
    ],
    "relevant": false,
    "domestic": true
-  },
-  {
-   "title": "Pakistan, KSA push for early GCC free trade agreement",
-   "url": "https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement",
-   "source": "Business Recorder",
-   "published": "2026-10-31T17:33:13+00:00",
-   "summary": "Pakistan is seeking to strengthen its trade ties with Saudi Arabia through the early signing of a proposed Pakistan-GCC Free Trade Agreement, which is expected to provide greater market access and create new opportunities for exporters. The development came during a meeting between the newly appointed Ambassador of the…",
-   "image": "https://i.brecorder.com/large/2026/10/3111082761e6ee6.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
   },
   {
    "title": "Pakistan’s halal food exports hold $50bn potential, experts say",
