@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-30T23:31:12+00:00",
- "count": 52,
- "relevant_count": 16,
- "domestic_count": 12,
+ "generated": "2026-10-31T02:42:31+00:00",
+ "count": 63,
+ "relevant_count": 22,
+ "domestic_count": 26,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (16)",
@@ -10,6 +10,188 @@
   "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "OGDCL reports 53pc profit surge in 1QFY27 YoY",
+   "url": "https://www.brecorder.com/news/40446731/ogdcl-reports-53pc-profit-surge-in-1qfy27-yoy",
+   "source": "Business Recorder",
+   "published": "2026-10-31T02:24:07+00:00",
+   "summary": "ISLAMABAD: Forced production curtailments by the Sui Northern Gas Pipelines Limited (SNGPL) and UPL continued to drag down the Oil and Gas Development Company Limited’s (OGDCL) in the first quarter of fiscal year 2026-27 output. The restrictions slashed average daily net production by 1,254 barrels of crude oil, 94 mmc…",
+   "image": "https://i.brecorder.com/large/2022/09/633122bd1bfb4.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "765kV transmission line under Dasu hydropower project: World Bank’s Inspection Panel to examine complaints",
+   "url": "https://www.brecorder.com/news/40446778/765kv-transmission-line-under-dasu-hydropower-project-world-banks-inspection-panel-to-examine-complaints",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:01+00:00",
+   "summary": "ISLAMABAD: The World Bank’s independent Inspection Panel will visit Pakistan from November 2-10, 2026, to examine complaints by 15 individuals from two villages in Punjab over alleged inadequate compensation, massive devaluation of ancestral land and safety risks associated with the construction of over USD 700 million…",
+   "image": "https://i.brecorder.com/large/2025/12/0406224792485d1.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KSA offered to set up oil reserves",
+   "url": "https://www.brecorder.com/news/40446780/ksa-offered-to-set-up-oil-reserves",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:01+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Petroleum Ali Pervaiz Malik said Saudi companies could establish commercial oil reserves in Pakistan without incurring local tax liabilities, offering an opportunity to diversify maritime transit risks associated with the Strait of Hormuz and Bab el-Mandeb. He said the move would facilit…",
+   "image": "https://i.brecorder.com/large/2026/10/31052636d81172e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ABHI Microfinance Bank plans to raise billions thru IPO",
+   "url": "https://www.brecorder.com/news/40446781/abhi-microfinance-bank-plans-to-raise-billions-thru-ipo",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:01+00:00",
+   "summary": "KARACHI: ABHI Microfinance Bank planned to raise between Rs 2 billion to Rs 3 billion through an initial public offering (IPO) of 132 million ordinary shares on the Pakistan Stock Exchange (PSX), with a floor price of Rs15 per share. According to details disclosed to the PSX, the book-building process will take place o…",
+   "image": "https://i.brecorder.com/large/2026/09/220132587409396.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Experts see USD50bn potential in Halal exports",
+   "url": "https://www.brecorder.com/news/40446783/experts-see-usd50bn-potential-in-halal-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:01+00:00",
+   "summary": "KARACHI: Pakistan can unlock USD40-50 billion in Halal exports by shifting from raw material exports to value-added, certified products, speakers said at an exclusive media roundtable for Pakistan Halal Forum 2026 held at a local hotel. The roundtable, held as a pre-event press briefing for the upcoming Pakistan Halal …",
+   "image": "https://i.brecorder.com/large/2022/09/631e539eaeeb5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "‘Maritime economy to play vital role for decreasing anxiety in economy’",
+   "url": "https://www.brecorder.com/news/40446786/maritime-economy-to-play-vital-role-for-decreasing-anxiety-in-economy",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:01+00:00",
+   "summary": "KARACHI: “During these economic resilience days, our maritime economy is set to play a vital role for decreasing the anxiety in economy and waive off the shortfalls of the national economy, as such said Ateeq Ur Rehman (economic and financial analyst). Incorporating Maritime in the national economy is of utmost importa…",
+   "image": "https://i.brecorder.com/large/2025/11/691b9ab1518f8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SMEDA, Alibaba to train 10,000 SMEs for global exports",
+   "url": "https://www.brecorder.com/news/40446790/smeda-alibaba-to-train-10000-smes-for-global-exports",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:01+00:00",
+   "summary": "LAHORE: The Small and Medium Enterprises Development Authority (SMEDA), in collaboration with global e-commerce platform Alibaba.com, will train 10,000 Pakistani small and medium enterprises (SMEs) and facilitate the onboarding of up to 2,000 eligible businesses to the international B2B platform, offering them financia…",
+   "image": "https://i.brecorder.com/large/2026/01/26074808914e759.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Punjab CM launches first ‘PIVOT’ programme",
+   "url": "https://www.brecorder.com/news/40446732/punjab-cm-launches-first-pivot-programme",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "LAHORE: Chief Minister Punjab Maryam Nawaz Sharif has launched the province’s first Punjab Innovation for Value, Opportunity and Transformation (PIVOT) programme, along with the STEP portal, as part of a three-year economic transformation plan aimed at boosting investment, exports and employment. The programme envisage…",
+   "image": "https://i.brecorder.com/large/2025/04/1001551836f7093.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Values of imported artificial flowers, plants, trees revised",
+   "url": "https://www.brecorder.com/news/40446733/values-of-imported-artificial-flowers-plants-trees-revised",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "ISLAMABAD: Directorate General of Customs Valuation Karachi has revised customs values on the import of artificial flowers, plants and trees from China. According to a valuation ruling issued by the directorate, since, the existing Valuation Ruling was 6 years old and the value of subject goods had changed in the local…",
+   "image": "https://i.brecorder.com/large/2026/04/05012941ce0d9d0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Singapore hails Pakistan’s Gulf peace efforts",
+   "url": "https://www.brecorder.com/news/40446734/singapore-hails-pakistans-gulf-peace-efforts",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "ISLAMABAD: Singapore on Friday threw its weight behind Pakistan’s diplomatic efforts to ease tensions in the Gulf, describing its role as “unique, very constructive and valuable”, as the two countries agreed to expand bilateral trade, investment and co-operation across a range of sectors. Speaking at a joint press conf…",
+   "image": "https://i.brecorder.com/large/2026/10/3017384216191bc.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Work on Karachi uplift accelerated, says Sharjeel",
+   "url": "https://www.brecorder.com/news/40446738/work-on-karachi-uplift-accelerated-says-sharjeel",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "KARACHI: The Sindh government is accelerating major infrastructure and transport projects in Karachi, including the Port Qasim–M-9 Motorway link road, Red and Yellow Line Bus Rapid Transit (BRT) projects and the proposed Karachi Port–Qayyumabad elevated expressway, Senior Minister Sharjeel Inam Memon said here in a sta…",
+   "image": "https://i.brecorder.com/large/2026/04/04022928f70815e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP governor speaks about increased financing for SMEs",
+   "url": "https://www.brecorder.com/news/40446743/sbp-governor-speaks-about-increased-financing-for-smes",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "LAHORE: State Bank of Pakistan (SBP) Governor Jameel Ahmad has said that a significant increase in financing for small and medium enterprises (SMEs) is among the government’s key economic priorities while agriculture, housing and exports are also receiving special attention. Addressing at the Lahore Chamber of Commerce…",
+   "image": "https://i.brecorder.com/large/2026/02/09113931a47f519.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KPT handles 118,104 MT of cargo",
+   "url": "https://www.brecorder.com/news/40446748/kpt-handles-118104-mt-of-cargo",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "KARACHI: Karachi Port Trust (KPT) handled 118,104 metric tonnes of cargo on October 30. According to KPT, the total volume comprised 74,474 tonnes of import cargo and 43,630 tonnes of export cargo. The break-up included 81,102 tonnes of containerised cargo, 12,478 tonnes of bulk cargo and 13,547 tonnes of liquid cargo.…",
+   "image": "https://i.brecorder.com/large/2025/07/68684653960bf.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "MoH&W, FGEHA witness administrative shake-up",
+   "url": "https://www.brecorder.com/news/40446750/mohampw-fgeha-witness-administrative-shake-up",
+   "source": "Business Recorder",
+   "published": "2026-10-31T00:33:00+00:00",
+   "summary": "ISLAMABAD: The Ministry of Housing and Works and its subsidiary department, the Federal Government Employees Housing Authority (FGEHA), have witnessed a major administrative shake-up, with the federal government ordering the transfer of the Secretary Housing and Works and the Director General of FGEHA, while placing a …",
+   "image": "https://i.brecorder.com/large/2023/09/650e2bf38ac13.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40446685/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -168,6 +350,19 @@
    "domestic": true
   },
   {
+   "title": "Taxing the courts",
+   "url": "https://www.brecorder.com/news/40446720/taxing-the-courts",
+   "source": "Business Recorder",
+   "published": "2026-10-31T01:38:00+00:00",
+   "summary": "EDITORIAL: Driven by overlapping jurisdictions, prolonged litigation, and conflicting interpretations, Pakistan’s tax disputes are now so entangled that the proposal for a National Tax Court deserves serious consideration. The Law and Justice Commission’s proposal for a Commercial Court of Pakistan as a specialized fed…",
+   "image": "https://i.brecorder.com/large/2026/01/2005410921cc949.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan’s halal food exports hold $50bn potential, experts say",
    "url": "https://www.brecorder.com/news/40446711/pakistans-halal-food-exports-hold-50bn-potential-experts-say",
    "source": "Business Recorder",
@@ -191,19 +386,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Fed's Barkin says US central bank's direction 'straightforward,' the question is pace, SiriusXM reports",
-   "url": "https://www.brecorder.com/news/40446706/feds-barkin-says-us-central-banks-direction-straightforward-the-question-is-pace-siriusxm-reports",
-   "source": "Business Recorder",
-   "published": "2026-10-30T15:15:07+00:00",
-   "summary": "WASHINGTON: Richmond Federal Reserve President Tom Barkin said on Friday that with high inflation and the economy solid, the path of US monetary policy was “straightforward,” but with an open question about the pace of any future rate increases. “Inflation’s high, demand is solid, unemployment is relatively low. So I t…",
-   "image": "https://i.brecorder.com/large/2026/03/19004316ddb412b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -241,46 +423,6 @@
    "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
    "topics": [
     "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian broadcaster Zee’s profit falls as FIFA-related costs weigh",
-   "url": "https://www.brecorder.com/news/40446693/indian-broadcaster-zees-profit-falls-as-fifa-related-costs-weigh",
-   "source": "Business Recorder",
-   "published": "2026-10-30T11:45:14+00:00",
-   "summary": "India’s Zee Entertainment Enterprises reported a 38% drop in quarterly profit on Friday, as costs related to the FIFA World Cup broadcast and other initiatives offset gains from subscription growth. The broadcaster’s consolidated profit fell to 478 million rupees ($5 million) for the July-September period, from 765 mil…",
-   "image": "https://i.brecorder.com/large/2026/05/19190154327d869.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka's key inflation index up 8.3% year-on-year in October",
-   "url": "https://www.brecorder.com/news/40446687/sri-lankas-key-inflation-index-up-83-year-on-year-in-october",
-   "source": "Business Recorder",
-   "published": "2026-10-30T11:11:02+00:00",
-   "summary": "Sri Lanka’s Colombo Consumer Price Index rose 8.3% year-on-year in October, after an 8% rise last month, the Statistics Department said on Friday. The index, a leading indicator for broader national prices, tracks inflation in Sri Lanka’s capital. Food inflation rose to 8.8% in October, from 8.7% year-on-year last mont…",
-   "image": "https://i.brecorder.com/large/2026/10/301610302831b1b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's April-September fiscal deficit at 42.1% of 2026/27 target",
-   "url": "https://www.brecorder.com/news/40446684/indias-april-september-fiscal-deficit-at-421-of-202627-target",
-   "source": "Business Recorder",
-   "published": "2026-10-30T10:53:16+00:00",
-   "summary": "NEW DELHI: India’s fiscal deficit in the months of April to September stood at 7.15 trillion rupees ($75.24 billion), or 42.1% of the target for the financial year ending March, government data showed on Friday. The deficit in the same period last year stood at 5.7 trillion rupees. Net tax receipts for April to Septemb…",
-   "image": "https://i.brecorder.com/large/2026/10/011140451b1d911.webp",
-   "topics": [
-    "Budget & spending",
     "Economy"
    ],
    "relevant": true,
