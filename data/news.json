@@ -1,15 +1,54 @@
 {
- "generated": "2026-10-31T02:42:31+00:00",
- "count": 63,
- "relevant_count": 22,
- "domestic_count": 26,
+ "generated": "2026-10-31T09:17:16+00:00",
+ "count": 65,
+ "relevant_count": 23,
+ "domestic_count": 25,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (17)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (9)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "CM Maryam launches Rs2 trillion PIVOT initiative to boost industry, exports",
+   "url": "https://www.dawn.com/news/2041052/cm-maryam-launches-rs2-trillion-pivot-initiative-to-boost-industry-exports",
+   "source": "Dawn",
+   "published": "2026-10-31T04:27:23+00:00",
+   "summary": "LAHORE: Chief Minister Maryam Nawaz on Friday officially launched the Punjab Innovation for Value, Opportunity and Transformation (PIVOT) Plan 2026-29 – around Rs2 trillion economic strategy aimed at positioning Punjab as an export-led industrial hub. The roadmap targets $6.8 billion in incremental exports, 162,000 new…",
+   "image": "https://i.dawn.com/large/2026/10/310926245539339.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Oil and Gas Development Company Ltd profit surges to Rs58.5bn",
+   "url": "https://www.dawn.com/news/2041091/oil-and-gas-development-company-ltd-profit-surges-to-rs585bn",
+   "source": "Dawn",
+   "published": "2026-10-31T02:49:55+00:00",
+   "summary": "ISLAMABAD: Oil and Gas Development Company Ltd (OGDCL) on Friday announced that its profit after tax surged 52.7 per cent to Rs58.5 billion in the first quarter of 2026-27, supported by elevated international prices and higher oil and gas output. As a consequence, the board of directors of the country’s largest explora…",
+   "image": "https://i.dawn.com/large/2026/10/31074923d21e180.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM Shehbaz forms body to review proposed LPG policy reforms",
+   "url": "https://www.dawn.com/news/2041093/pm-shehbaz-forms-body-to-review-proposed-lpg-policy-reforms",
+   "source": "Dawn",
+   "published": "2026-10-31T02:38:47+00:00",
+   "summary": "• Policy seeks to shift LPG imports and price-setting from Ogra to SOEs • State-owned enterprises to introduce import-parity pricing based on Saudi Aramco rates and actual import costs ISLAMABAD: Amid soaring prices following supply disruptions, Prime Minister Shehbaz Sharif has constituted an eight-member ministerial …",
+   "image": "https://i.dawn.com/large/2024/11/161650004033933.png",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "OGDCL reports 53pc profit surge in 1QFY27 YoY",
    "url": "https://www.brecorder.com/news/40446731/ogdcl-reports-53pc-profit-surge-in-1qfy27-yoy",
@@ -154,42 +193,29 @@
    "domestic": true
   },
   {
-   "title": "SBP governor speaks about increased financing for SMEs",
-   "url": "https://www.brecorder.com/news/40446743/sbp-governor-speaks-about-increased-financing-for-smes",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "LAHORE: State Bank of Pakistan (SBP) Governor Jameel Ahmad has said that a significant increase in financing for small and medium enterprises (SMEs) is among the government’s key economic priorities while agriculture, housing and exports are also receiving special attention. Addressing at the Lahore Chamber of Commerce…",
-   "image": "https://i.brecorder.com/large/2026/02/09113931a47f519.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "KPT handles 118,104 MT of cargo",
-   "url": "https://www.brecorder.com/news/40446748/kpt-handles-118104-mt-of-cargo",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "KARACHI: Karachi Port Trust (KPT) handled 118,104 metric tonnes of cargo on October 30. According to KPT, the total volume comprised 74,474 tonnes of import cargo and 43,630 tonnes of export cargo. The break-up included 81,102 tonnes of containerised cargo, 12,478 tonnes of bulk cargo and 13,547 tonnes of liquid cargo.…",
-   "image": "https://i.brecorder.com/large/2025/07/68684653960bf.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "MoH&W, FGEHA witness administrative shake-up",
-   "url": "https://www.brecorder.com/news/40446750/mohampw-fgeha-witness-administrative-shake-up",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "ISLAMABAD: The Ministry of Housing and Works and its subsidiary department, the Federal Government Employees Housing Authority (FGEHA), have witnessed a major administrative shake-up, with the federal government ordering the transfer of the Secretary Housing and Works and the Director General of FGEHA, while placing a …",
-   "image": "https://i.brecorder.com/large/2023/09/650e2bf38ac13.jpg",
+   "title": "Tyre makers face electronic surveillance",
+   "url": "https://www.dawn.com/news/2041092/tyre-makers-face-electronic-surveillance",
+   "source": "Dawn",
+   "published": "2026-10-30T23:19:30+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) on Friday directed all registered tyre manufacturers to install electronic production monitoring systems by Nov 30 to ensure real-time production recording and data transmission to the tax authorities. The tyre industry is the latest sector brought under the electronic prod…",
+   "image": "https://i.dawn.com/large/2026/04/300913568176e77.webp",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM orders completion of 100MW solar power project in GB",
+   "url": "https://www.dawn.com/news/2041022/pm-orders-completion-of-100mw-solar-power-project-in-gb",
+   "source": "Dawn",
+   "published": "2026-10-30T23:18:59+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday directed relevant authorities for timely completion of development projects in Gilgit-Baltistan (GB) including 100MW Solar Power Project. The premier gave these directives while presiding over a meeting to review progress on development projects in GB. Chief Minister G…",
+   "image": "https://i.dawn.com/large/2026/06/16112429e7aed33.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -298,19 +324,6 @@
    "domestic": true
   },
   {
-   "title": "PSX extends recovery for third straight session",
-   "url": "https://www.dawn.com/news/2040567/psx-extends-recovery-for-third-straight-session",
-   "source": "Dawn",
-   "published": "2026-10-29T03:45:21+00:00",
-   "summary": "KARACHI: Despite ele­vated oil prices and the State Bank’s interest rate hike to curb inflation, the Pakistan Stock Exchange (PSX) extended its recovery rally for a third strai­ght session on Wednesday. The benchmark KSE-100 index climbed above 166,000 intraday before profit-taking at higher levels pared some gains. It…",
-   "image": "https://i.dawn.com/large/2026/04/121005148b8e6fe.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Fundamentals improve despite shocks: SBP chief",
    "url": "https://www.dawn.com/news/2040568/fundamentals-improve-despite-shocks-sbp-chief",
    "source": "Dawn",
@@ -324,30 +337,30 @@
    "domestic": true
   },
   {
-   "title": "Rs20 billion capital limit set for banks",
-   "url": "https://www.dawn.com/news/2040572/rs20-billion-capital-limit-set-for-banks",
-   "source": "Dawn",
-   "published": "2026-10-29T02:02:15+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has increased the Minim­­um Capital Requirements (MCR) for all local and foreign banks. In a circular issued on Wednesday, the central bank said it had decided to raise the MCR for new and existing banks, foreign bank branches and DFIs, citing higher operating costs associated …",
-   "image": "https://i.dawn.com/large/2025/02/060946517c3b1b5.jpg",
+   "title": "Pakistan, KSA push for early GCC free trade agreement",
+   "url": "https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement",
+   "source": "Business Recorder",
+   "published": "2026-10-31T06:04:17+00:00",
+   "summary": "Pakistan is seeking to strengthen its trade ties with Saudi Arabia through the early signing of a proposed Pakistan-GCC Free Trade Agreement, which is expected to provide greater market access and create new opportunities for exporters. The development came during a meeting between the newly appointed Ambassador of the…",
+   "image": "https://i.brecorder.com/large/2026/10/3111082761e6ee6.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Secret to country's development lies in AI and digitisation, PM Shehbaz stresses",
-   "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
-   "source": "Dawn",
-   "published": "2026-10-28T15:04:55+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday stressed that artificial intelligence (AI) and digitalisation could improve Pakistan’s trade, exports and other areas of development and called for effective implementation of the government’s strategic partnership with global marketing company Alibaba. The premier …",
-   "image": "https://i.dawn.com/large/2026/10/28183600dbd2795.webp",
+   "title": "India extends duty-free cotton imports by two months to ease domestic prices",
+   "url": "https://www.brecorder.com/news/40446792/india-extends-duty-free-cotton-imports-by-two-months-to-ease-domestic-prices",
+   "source": "Business Recorder",
+   "published": "2026-10-31T05:01:29+00:00",
+   "summary": "MUMBAI: India has extended duty-free cotton imports by two months until the end of December, the government said, a move that could lower costs for textile mills, ease domestic prices and boost shipments from the US, Brazil and Australia. India, the world’s second-largest cotton producer after China, waived the 11% imp…",
+   "image": "https://i.brecorder.com/large/2026/01/1416081777c8831.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "Taxing the courts",
@@ -386,6 +399,33 @@
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gold hits one-year low globally",
+   "url": "https://tribune.com.pk/story/2637858/gold-hits-one-year-low-globally",
+   "source": "The Express Tribune",
+   "published": "2026-10-30T15:25:43+00:00",
+   "summary": "Tech worries weigh on metals, slips below $4,000 overseas; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Energy, food keep SPI in double digits",
+   "url": "https://tribune.com.pk/story/2637857/energy-food-keep-spi-in-double-digits",
+   "source": "The Express Tribune",
+   "published": "2026-10-30T15:25:43+00:00",
+   "summary": "Inflation rises as LPG price jumps 107%, electricity 52%, petrol 44% and wheat flour 35%",
+   "image": null,
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -569,19 +609,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Yen steady before BOJ, AI jitters drive Treasury rally, weigh on dollar",
-   "url": "https://www.brecorder.com/news/40446649/yen-steady-before-boj-ai-jitters-drive-treasury-rally-weigh-on-dollar",
-   "source": "Business Recorder",
-   "published": "2026-10-30T02:54:41+00:00",
-   "summary": "HONG KONG: The yen was steady on Friday ahead of the Bank ​of Japan’s policy decision, while the dollar tracked Treasury yields lower as a fresh wave of selling in ‌AI shares triggered a flight to safety. The BOJ is set to keep interest rates on hold at 1.25% in a widely anticipated move despite elevated inflation pres…",
-   "image": "https://i.brecorder.com/large/2026/10/3007510577ce29e.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
