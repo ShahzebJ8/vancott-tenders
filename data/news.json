@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-31T09:17:16+00:00",
- "count": 65,
- "relevant_count": 23,
- "domestic_count": 25,
+ "generated": "2026-10-31T15:32:16+00:00",
+ "count": 56,
+ "relevant_count": 19,
+ "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (17)",
+  "Dawn": "ok (16)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (11)",
-  "ARY News": "ok (8)"
+  "ARY News": "ok (7)"
  },
  "stories": [
   {
@@ -47,19 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "OGDCL reports 53pc profit surge in 1QFY27 YoY",
-   "url": "https://www.brecorder.com/news/40446731/ogdcl-reports-53pc-profit-surge-in-1qfy27-yoy",
-   "source": "Business Recorder",
-   "published": "2026-10-31T02:24:07+00:00",
-   "summary": "ISLAMABAD: Forced production curtailments by the Sui Northern Gas Pipelines Limited (SNGPL) and UPL continued to drag down the Oil and Gas Development Company Limited’s (OGDCL) in the first quarter of fiscal year 2026-27 output. The restrictions slashed average daily net production by 1,254 barrels of crude oil, 94 mmc…",
-   "image": "https://i.brecorder.com/large/2022/09/633122bd1bfb4.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -125,71 +112,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SMEDA, Alibaba to train 10,000 SMEs for global exports",
-   "url": "https://www.brecorder.com/news/40446790/smeda-alibaba-to-train-10000-smes-for-global-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:01+00:00",
-   "summary": "LAHORE: The Small and Medium Enterprises Development Authority (SMEDA), in collaboration with global e-commerce platform Alibaba.com, will train 10,000 Pakistani small and medium enterprises (SMEs) and facilitate the onboarding of up to 2,000 eligible businesses to the international B2B platform, offering them financia…",
-   "image": "https://i.brecorder.com/large/2026/01/26074808914e759.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Punjab CM launches first ‘PIVOT’ programme",
-   "url": "https://www.brecorder.com/news/40446732/punjab-cm-launches-first-pivot-programme",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "LAHORE: Chief Minister Punjab Maryam Nawaz Sharif has launched the province’s first Punjab Innovation for Value, Opportunity and Transformation (PIVOT) programme, along with the STEP portal, as part of a three-year economic transformation plan aimed at boosting investment, exports and employment. The programme envisage…",
-   "image": "https://i.brecorder.com/large/2025/04/1001551836f7093.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Values of imported artificial flowers, plants, trees revised",
-   "url": "https://www.brecorder.com/news/40446733/values-of-imported-artificial-flowers-plants-trees-revised",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "ISLAMABAD: Directorate General of Customs Valuation Karachi has revised customs values on the import of artificial flowers, plants and trees from China. According to a valuation ruling issued by the directorate, since, the existing Valuation Ruling was 6 years old and the value of subject goods had changed in the local…",
-   "image": "https://i.brecorder.com/large/2026/04/05012941ce0d9d0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Singapore hails Pakistan’s Gulf peace efforts",
-   "url": "https://www.brecorder.com/news/40446734/singapore-hails-pakistans-gulf-peace-efforts",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "ISLAMABAD: Singapore on Friday threw its weight behind Pakistan’s diplomatic efforts to ease tensions in the Gulf, describing its role as “unique, very constructive and valuable”, as the two countries agreed to expand bilateral trade, investment and co-operation across a range of sectors. Speaking at a joint press conf…",
-   "image": "https://i.brecorder.com/large/2026/10/3017384216191bc.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Work on Karachi uplift accelerated, says Sharjeel",
-   "url": "https://www.brecorder.com/news/40446738/work-on-karachi-uplift-accelerated-says-sharjeel",
-   "source": "Business Recorder",
-   "published": "2026-10-31T00:33:00+00:00",
-   "summary": "KARACHI: The Sindh government is accelerating major infrastructure and transport projects in Karachi, including the Port Qasim–M-9 Motorway link road, Red and Yellow Line Bus Rapid Transit (BRT) projects and the proposed Karachi Port–Qayyumabad elevated expressway, Senior Minister Sharjeel Inam Memon said here in a sta…",
-   "image": "https://i.brecorder.com/large/2026/04/04022928f70815e.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -337,6 +259,19 @@
    "domestic": true
   },
   {
+   "title": "Pakistan’s halal food exports hold $50bn potential, experts say",
+   "url": "https://www.brecorder.com/news/40446711/pakistans-halal-food-exports-hold-50bn-potential-experts-say",
+   "source": "Business Recorder",
+   "published": "2026-10-31T13:09:58+00:00",
+   "summary": "Pakistan has potential to generate $40-50 billion in halal exports by mobilising over 100,000 local companies to produce value-added, internationally certified products and expand into markets across Central Asia, Africa and Eastern Europe, according to industry stakeholders and experts. “Despite being the second-large…",
+   "image": "https://i.brecorder.com/large/2022/09/631e539eaeeb5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Pakistan, KSA push for early GCC free trade agreement",
    "url": "https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement",
    "source": "Business Recorder",
@@ -356,32 +291,6 @@
    "published": "2026-10-31T05:01:29+00:00",
    "summary": "MUMBAI: India has extended duty-free cotton imports by two months until the end of December, the government said, a move that could lower costs for textile mills, ease domestic prices and boost shipments from the US, Brazil and Australia. India, the world’s second-largest cotton producer after China, waived the 11% imp…",
    "image": "https://i.brecorder.com/large/2026/01/1416081777c8831.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Taxing the courts",
-   "url": "https://www.brecorder.com/news/40446720/taxing-the-courts",
-   "source": "Business Recorder",
-   "published": "2026-10-31T01:38:00+00:00",
-   "summary": "EDITORIAL: Driven by overlapping jurisdictions, prolonged litigation, and conflicting interpretations, Pakistan’s tax disputes are now so entangled that the proposal for a National Tax Court deserves serious consideration. The Law and Justice Commission’s proposal for a Commercial Court of Pakistan as a specialized fed…",
-   "image": "https://i.brecorder.com/large/2026/01/2005410921cc949.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s halal food exports hold $50bn potential, experts say",
-   "url": "https://www.brecorder.com/news/40446711/pakistans-halal-food-exports-hold-50bn-potential-experts-say",
-   "source": "Business Recorder",
-   "published": "2026-10-30T18:03:49+00:00",
-   "summary": "Pakistan has potential to generate $40-50 billion in halal exports by mobilising over 100,000 local companies to produce value-added, internationally certified products and expand into markets across Central Asia, Africa and Eastern Europe, according to industry stakeholders and experts. “Despite being the second-large…",
-   "image": "https://i.brecorder.com/large/2022/09/631e539eaeeb5.jpg",
    "topics": [
     "Economy"
    ],
@@ -678,19 +587,6 @@
    "domestic": false
   },
   {
-   "title": "Diesel price nears Rs400 as govt adds over a rupee to petrol, HSD rates",
-   "url": "https://www.dawn.com/news/2040479/diesel-price-nears-rs400-as-govt-adds-over-a-rupee-to-petrol-hsd-rates",
-   "source": "Dawn",
-   "published": "2026-10-28T18:18:56+00:00",
-   "summary": "The government on Wednesday raised the price of petrol by Rs1.85 per litre and that of high-speed diesel (HSD) by Rs1.75, pushing the HSD rate to nearly Rs400. Following the revision, petrol will retail at Rs377.91 per litre, while HSD will cost Rs399.82 per litre on Oct 29 (Thursday), according to the Petroleum Divisi…",
-   "image": "https://i.dawn.com/large/2021/09/6156090661d81.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Gold jumps ahead of US Fed policy decision",
    "url": "https://tribune.com.pk/story/2637475/gold-jumps-ahead-of-us-fed-policy-decision",
    "source": "The Express Tribune",
@@ -840,19 +736,6 @@
    "published": null,
    "summary": "Pakistan’s exports rise 7.7 percent to $8.5 billion in first quarter",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Export.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close higher as KSE-100 gains 1,270 Points",
-   "url": "https://arynews.tv/psx-stocks-close-higher-as-kse-100-gains-1270-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close higher as KSE-100 gains 1,270 Points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/stock-market.jpg",
    "topics": [
     "Economy"
    ],
