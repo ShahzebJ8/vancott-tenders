@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-01T15:46:59+00:00",
- "count": 43,
+ "generated": "2026-11-01T20:10:38+00:00",
+ "count": 42,
  "relevant_count": 14,
- "domestic_count": 17,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (14)",
@@ -60,19 +60,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Value of imported tyres, tubes: SC sets aside SHC verdict",
-   "url": "https://www.brecorder.com/news/40446877/value-of-imported-tyres-tubes-sc-sets-aside-shc-verdict",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:10+00:00",
-   "summary": "ISLAMABAD: The Supreme Court set aside the Sindh High Court (SHC) judgment relating to the determination of the value of imported consignments of tyres and tubes to be used for cars and trucks. A three-member bench, headed by Chief Justice Yahya Afridi and comprising Justice Irfan Saadat Khan and Justice Aqeel Ahmed Ab…",
-   "image": "https://i.brecorder.com/large/2026/11/0101381920e6020.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
