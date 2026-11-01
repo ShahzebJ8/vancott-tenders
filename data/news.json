@@ -1,15 +1,67 @@
 {
- "generated": "2026-11-01T01:52:22+00:00",
- "count": 59,
- "relevant_count": 21,
- "domestic_count": 23,
+ "generated": "2026-11-01T08:41:41+00:00",
+ "count": 46,
+ "relevant_count": 15,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (16)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (11)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "ok (7)"
  },
  "stories": [
+  {
+   "title": "PSX sheds 3,560 points amid panic selling in jittery October",
+   "url": "https://www.dawn.com/news/2041330/psx-sheds-3560-points-amid-panic-selling-in-jittery-october",
+   "source": "Dawn",
+   "published": "2026-11-01T01:27:33+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) ended October in negative territory amid persistent tensions in the Middle East and domestic political uncertainty following the imposition of emergency and governor’s rule in Khyber Pakhtunkhwa, further undermining investor confidence amid economic uncertainty. The benchmark …",
+   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "State Bank eyes open banking ecosystem",
+   "url": "https://www.dawn.com/news/2041333/state-bank-eyes-open-banking-ecosystem",
+   "source": "Dawn",
+   "published": "2026-11-01T01:27:33+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has released the draft Open Banking Regulations for public consultation, aiming to foster innovation, enhance competition, and expand access to efficient, customer-centric digital financial services in Pakistan. “Customer data obtained under these regulations will be stored and…",
+   "image": "https://i.dawn.com/large/2024/04/301728308dcd508.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Four-month revenue target missed by Rs96bn",
+   "url": "https://www.dawn.com/news/2041335/four-month-revenue-target-missed-by-rs96bn",
+   "source": "Dawn",
+   "published": "2026-11-01T01:27:33+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) announced on Saturday that it had collected Rs4.089 trillion during the first four months (July-October) of the current fiscal year (FY27), falling short of its target of Rs4.185 trillion by Rs96 billion. The shortfall was attributed mainly to negative growth in income tax …",
+   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FPCCI seeks FBR Karachi desk expansion",
+   "url": "https://www.dawn.com/news/2041332/fpcci-seeks-fbr-karachi-desk-expansion",
+   "source": "Dawn",
+   "published": "2026-11-01T01:27:33+00:00",
+   "summary": "HYDERABAD: The Federation of Pakistan Chambers of Commerce and Industry (FPCCI) has welcomed a dedicated Federal Board of Revenue (FBR) operations desk in Karachi to address taxpayer concerns, while urging the immediate integration of Hyderabad and Sukkur’s Regional Tax Offices into the system. In a statement issued on…",
+   "image": "https://i.dawn.com/large/2023/04/11094534c7d2b47.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Value of imported tyres, tubes: SC sets aside SHC verdict",
    "url": "https://www.brecorder.com/news/40446877/value-of-imported-tyres-tubes-sc-sets-aside-shc-verdict",
@@ -50,39 +102,12 @@
    "domestic": true
   },
   {
-   "title": "LESCO replaces 501 meters with AMI meters",
-   "url": "https://www.brecorder.com/news/40446854/lesco-replaces-501-meters-with-ami-meters",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "LAHORE: The Lahore Electric Supply Company (LESCO) has replaced 501 conventional electricity meters with Advanced Metering Infrastructure (AMI) meters on federal and provincial government power connections, as part of its drive to modernise electricity metering and ensure transparent billing. According to the LESCO aut…",
-   "image": "https://i.brecorder.com/large/2025/02/13080745e26ec9c.jpg",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Neela Gumbad will improve historical character of area: DG PWCA",
-   "url": "https://www.brecorder.com/news/40446855/neela-gumbad-will-improve-historical-character-of-area-dg-pwca",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "LAHORE: Punjab Walled Cities and Heritage Areas Authority (PWCA) Director General Najmussaqib has said that the Neela Gumbad project is an important initiative aimed at improving the urban landscape while preserving the historical character of the area. He expressed these views during his visit to the project site on S…",
-   "image": "https://i.brecorder.com/large/2023/12/656e394e5f16a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Urban property tax base expansion: WB board approves USD150m for Sindh PREP",
-   "url": "https://www.brecorder.com/news/40446857/urban-property-tax-base-expansion-wb-board-approves-usd150m-for-sindh-prep",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "ISLAMABAD: The World Bank Group’s Board of Executive Directors has approved USD150 million in financing for the Sindh Property Revenues Enhancement Program (Sindh PREP), under which the provincial government plans to expand the recorded urban property tax base more than fivefold — from around 397,375 to 2.15 million pr…",
-   "image": "https://i.brecorder.com/large/2023/11/10215232650ec55.jpg",
+   "title": "WB okays $150m for raising revenue",
+   "url": "https://tribune.com.pk/story/2637980/wb-okays-150m-for-raising-revenue",
+   "source": "The Express Tribune",
+   "published": "2026-10-31T16:10:25+00:00",
+   "summary": "Funding to help Sindh enhance property tax receipts, improve municipal services",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -90,40 +115,14 @@
    "domestic": true
   },
   {
-   "title": "Tax Assan Scheme: 222 new filers take the total to 1,945 by Oct 31st: FBR",
-   "url": "https://www.brecorder.com/news/40446859/tax-assan-scheme-222-new-filers-take-the-total-to-1945-by-oct-31st-fbr",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "ISLAMABAD: A total of 222 new shopkeepers filed their income tax returns with tax payment of Rs9.25 million under the Special Tax Scheme for Small Shopkeepers, taking the total filers to 1,945 by October 31, 2026. According to the data compiled by the Federal Board of Revenue (FBR) on Saturday, the number of existing r…",
-   "image": "https://i.brecorder.com/large/2025/02/03062538ec9f068.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Kayani for strengthening SME financing to boost exports",
-   "url": "https://www.brecorder.com/news/40446861/kayani-for-strengthening-sme-financing-to-boost-exports",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "ISLAMABAD: The government has noted the under-utilisation of the dedicated financing facility for small and medium enterprises (SMEs), prompting the Finance Division to seek coordinated measures to improve exporters’ access to financing, technology, and international markets to boost Pakistan’s exports. Minister of Sta…",
-   "image": "https://i.brecorder.com/large/2025/10/21035542e0fcc76.webp",
+   "title": "Chinese park courts Pakistani pine nuts, rice",
+   "url": "https://tribune.com.pk/story/2637982/chinese-park-courts-pakistani-pine-nuts-rice",
+   "source": "The Express Tribune",
+   "published": "2026-10-31T16:10:25+00:00",
+   "summary": "Hulunbuir e-commerce hub offers beef processing expertise as boiled beef exports hit $14.52m",
+   "image": null,
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Punjab PA calls for forensic audit of Lesco billing",
-   "url": "https://www.brecorder.com/news/40446862/punjab-pa-calls-for-forensic-audit-of-lesco-billing",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "ISLAMABAD: A joint committee of the Punjab Provincial Assembly has called for a comprehensive forensic audit of electricity billing by Lahore Electric Supply Company (Lesco), fixing responsibility for alleged over-billing and manipulation of consumer records, and introducing an independent mechanism to investigate comp…",
-   "image": "https://i.brecorder.com/large/2026/01/1800314485151c4.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -246,33 +245,6 @@
    "domestic": true
   },
   {
-   "title": "Duty drawback rates revised",
-   "url": "https://www.dawn.com/news/2040848/duty-drawback-rates-revised",
-   "source": "Dawn",
-   "published": "2026-10-30T01:58:30+00:00",
-   "summary": "ISLAMABAD: The Fed­­eral Board of Reve­nue has revised duty drawback rates on exports of textile, leather and engineering products. The FBR notified the new rates through three different notifications. The rates were revised to rationalise tariffs in the last budget. The duty drawback rates on exports of textile and al…",
-   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rising interest payments, uplift spending strained Pakistan's fiscal position in early FY27: ministry",
-   "url": "https://www.dawn.com/news/2040743/rising-interest-payments-uplift-spending-strained-pakistans-fiscal-position-in-early-fy27-ministry",
-   "source": "Dawn",
-   "published": "2026-10-29T17:52:26+00:00",
-   "summary": "ISLAMABAD: Despite a massive 90 per cent cut in subsidies and higher-than-targeted revenue collection, Pakistan’s fiscal and current account buffers weakened at the beginning of the current fiscal year (FY27) owing to an almost 37pc increase in interest payments coupled with greater development spending. The “overall f…",
-   "image": "https://i.dawn.com/large/2026/10/292132169edbf4b.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Imported cotton seed to get 12-month approval",
    "url": "https://tribune.com.pk/story/2637656/imported-cotton-seed-to-get-12-month-approval",
    "source": "The Express Tribune",
@@ -286,30 +258,57 @@
    "domestic": true
   },
   {
-   "title": "Pakistan, China sign agreement to operationalise green channel at Sost-Khunjerab border",
-   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
-   "source": "Dawn",
-   "published": "2026-10-29T10:42:26+00:00",
-   "summary": "ISLAMABAD: Pakistan and China have signed an agreement to operationalise a green channel at the Sost-Khunjerab border for agricultural and allied products to facilitate bilateral trade. The agreement was signed online between the customs administrations of the two countries at the Federal Board of Revenue (FBR) on Thur…",
-   "image": "https://i.dawn.com/large/2021/06/60b5c3c1b6742.jpg",
+   "title": "India's October net goods and services tax collection rises 25.6% year-on-year",
+   "url": "https://www.brecorder.com/news/40446905/indias-october-net-goods-and-services-tax-collection-rises-256-year-on-year",
+   "source": "Business Recorder",
+   "published": "2026-11-01T07:44:58+00:00",
+   "summary": "NEW DELHI: India ​collected 2.03 ‌trillion rupees ($21.40 billion) as ​net goods ​and services tax ⁠in October, ​an increase ​of 25.6% year-on-year, according to ​a government ​statement on Sunday. IT, earnings, tax-cut hopes power Indian shares to monthly gains Gross ‌October ⁠goods and services tax collection stood ​…",
+   "image": "https://i.brecorder.com/large/2026/11/011244410273536.jpg",
    "topics": [
-    "Budget & spending"
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Fundamentals improve despite shocks: SBP chief",
-   "url": "https://www.dawn.com/news/2040568/fundamentals-improve-despite-shocks-sbp-chief",
+   "title": "Consumer goods companies in Pakistan report improved sales amid rising inflation",
+   "url": "https://www.dawn.com/news/2041360/consumer-goods-companies-in-pakistan-report-improved-sales-amid-rising-inflation",
    "source": "Dawn",
-   "published": "2026-10-29T02:02:15+00:00",
-   "summary": "KARACHI: The country’s economic fundamentals have significantly improved despite severe global and regional shocks, said State Bank of Pakistan Governor Jameel Ahmad on Wednesday. Addressing the annual convocation of the Ins­ti­tute of Cost and Mana­ge­ment Accountants of Pakis­tan, Mr Ahmad said that although challeng…",
-   "image": "https://i.dawn.com/large/2026/01/19164932056c4b5.webp",
+   "published": "2026-11-01T05:32:28+00:00",
+   "summary": "https://www.dawn.com/news/2041336/consumer-firms-defy-economic-headwinds",
+   "image": "https://i.dawn.com/large/2026/11/01085350aaeb56e.jpg",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "South Korea exports nearly double in October on AI investment boom",
+   "url": "https://www.brecorder.com/news/40446894/south-korea-exports-nearly-double-in-october-on-ai-investment-boom",
+   "source": "Business Recorder",
+   "published": "2026-11-01T04:56:31+00:00",
+   "summary": "SEOUL: South Korea’s exports nearly doubled in October, the ​sharpest jump in more than 50 years, as robust global demand for ‌AI investment boosted shipments of the country’s chips, government data showed on Sunday. Exports from Asia’s fourth-largest economy, a bellwether for global trade, rose 93.7% from the same mon…",
+   "image": "https://i.brecorder.com/large/2026/11/0109552257d7371.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX sheds 3,560 points in October",
+   "url": "https://tribune.com.pk/story/2637987/psx-sheds-3560-points-in-october",
+   "source": "The Express Tribune",
+   "published": "2026-10-31T16:10:25+00:00",
+   "summary": "Geopolitical uncertainty, foreign portfolio outflows drag KSE-100 down",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan’s halal food exports hold $50bn potential, experts say",
@@ -348,46 +347,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold hits one-year low globally",
-   "url": "https://tribune.com.pk/story/2637858/gold-hits-one-year-low-globally",
-   "source": "The Express Tribune",
-   "published": "2026-10-30T15:25:43+00:00",
-   "summary": "Tech worries weigh on metals, slips below $4,000 overseas; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Energy, food keep SPI in double digits",
-   "url": "https://tribune.com.pk/story/2637857/energy-food-keep-spi-in-double-digits",
-   "source": "The Express Tribune",
-   "published": "2026-10-30T15:25:43+00:00",
-   "summary": "Inflation rises as LPG price jumps 107%, electricity 52%, petrol 44% and wheat flour 35%",
-   "image": null,
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 ends in red after late sell-off",
-   "url": "https://www.brecorder.com/news/40446658/psx-kse-100-ends-in-red-after-late-sell-off",
-   "source": "Business Recorder",
-   "published": "2026-10-30T14:01:45+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile session on Friday, with the benchmark KSE-100 Index reversing early gains to close in negative territory as selling pressure intensified in the second half of trading. The benchmark initially experienced sharp fluctuations, dropping from higher levels before recove…",
-   "image": "https://i.brecorder.com/large/2026/08/2410042018ee607.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -483,84 +442,6 @@
    "domestic": false
   },
   {
-   "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
-   "url": "https://www.brecorder.com/news/40446661/gold-slips-as-higher-oil-us-inflation-data-bolster-fed-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-10-30T05:42:53+00:00",
-   "summary": "Gold prices slipped on Friday as higher oil prices and robust US inflation data strengthened the case for another Federal Reserve interest rate hike later this year. Spot gold was down 0.5% at $4,000.54 per ounce by 0511 GMT, while US gold futures for December delivery dropped 0.5% to $4,010.10. Bullion was on track fo…",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wheat heads for ninth weekly loss despite US export boost",
-   "url": "https://www.brecorder.com/news/40446660/wheat-heads-for-ninth-weekly-loss-despite-us-export-boost",
-   "source": "Business Recorder",
-   "published": "2026-10-30T05:40:15+00:00",
-   "summary": "Chicago wheat futures rose for a second day on Friday as strong demand for US grain and reports that China could buy from the United States arrested a decline that pushed prices earlier in the week to their lowest in almost four months. Corn futures edged lower and soybeans rose slightly, but both were heading for week…",
-   "image": "https://i.brecorder.com/large/2025/01/29013310fd53c59.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX snaps four-day rally, sheds 784 points on profit-taking",
-   "url": "https://tribune.com.pk/story/2637754/psx-gains-over-1130-points-despite-early-session-volatility",
-   "source": "The Express Tribune",
-   "published": "2026-10-30T04:51:17+00:00",
-   "summary": "KSE-100 closes at 166,409 points as Brent nears $118 a barrel",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Subsidy is not a dirty word: Pakistan should give the poor a ramp, not just a floor",
-   "url": "https://www.dawn.com/news/2040922/subsidy-is-not-a-dirty-word-pakistan-should-give-the-poor-a-ramp-not-just-a-floor",
-   "source": "Dawn",
-   "published": "2026-10-30T04:00:42+00:00",
-   "summary": "https://www.dawn.com/news/2040901/quintessential-capitalism",
-   "image": "https://i.dawn.com/large/2025/03/67e21f1c1c08e.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India rupee to benefit from dollar retreat, plunging US yields; oil surge tempers impact",
-   "url": "https://www.brecorder.com/news/40446654/india-rupee-to-benefit-from-dollar-retreat-plunging-us-yields-oil-surge-tempers-impact",
-   "source": "Business Recorder",
-   "published": "2026-10-30T03:17:38+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to draw support from a retreat in the dollar and a plunge in US Treasury ​yields at Friday’s open, although another surge in oil prices ‌could still weigh on the currency. The India rupee is expected to open flat to marginally higher, per traders, having settled at 95.26 to the dollar…",
-   "image": "https://i.brecorder.com/large/2026/10/3008152388f4d3d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Appian in talks with EBRD, others, on critical minerals funds",
-   "url": "https://www.brecorder.com/news/40446652/appian-in-talks-with-ebrd-others-on-critical-minerals-funds",
-   "source": "Business Recorder",
-   "published": "2026-10-30T03:07:15+00:00",
-   "summary": "SYDNEY: Appian Capital Advisory, a London-based private equity ​firm, is in talks with the European Bank for Reconstruction and Development (EBRD) and others for funds ‌to invest in critical minerals projects, an executive at the firm told Reuters. Discussions around a potential transaction were confirmed by an EBRD sp…",
-   "image": "https://i.brecorder.com/large/2025/05/1310493183b324f.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Uploading order to FBR’s IRIS portal alone not valid delivery, rules LHC",
    "url": "https://www.dawn.com/news/2040917/uploading-order-to-fbrs-iris-portal-alone-not-valid-delivery-rules-lhc",
    "source": "Dawn",
@@ -597,59 +478,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX extends recovery for fourth session",
-   "url": "https://tribune.com.pk/story/2637655/psx-extends-recovery-for-fourth-session",
-   "source": "The Express Tribune",
-   "published": "2026-10-29T16:20:44+00:00",
-   "summary": "KSE-100 rises 0.88% as fertiliser firms, banks lift index to multi-week high",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Small units to get access to export finance",
-   "url": "https://tribune.com.pk/story/2637651/small-units-to-get-access-to-export-finance",
-   "source": "The Express Tribune",
-   "published": "2026-10-29T16:20:44+00:00",
-   "summary": "Exporting SMEs from diverse sectors highlighted different challenges such as regulatory and taxation matters",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Gold jumps ahead of US Fed policy decision",
-   "url": "https://tribune.com.pk/story/2637475/gold-jumps-ahead-of-us-fed-policy-decision",
-   "source": "The Express Tribune",
-   "published": "2026-10-28T16:52:33+00:00",
-   "summary": "Local prices rise Rs3,500/tola; rupee remains on upward trajectory",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Three-year defect liability ordered",
-   "url": "https://tribune.com.pk/story/2637476/three-year-defect-liability-ordered",
-   "source": "The Express Tribune",
-   "published": "2026-10-28T16:52:33+00:00",
-   "summary": "PPRA directed to phase in rule for smaller projects, CIDA Bill structure goes back to consultation",
-   "image": null,
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
