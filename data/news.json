@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-01T08:41:41+00:00",
- "count": 46,
- "relevant_count": 15,
- "domestic_count": 19,
+ "generated": "2026-11-01T15:46:59+00:00",
+ "count": 43,
+ "relevant_count": 14,
+ "domestic_count": 17,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (13)",
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (7)"
+  "ARY News": "ok (6)"
  },
  "stories": [
   {
@@ -73,32 +73,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Cardiac care: EP services now available at SICVD TM Khan",
-   "url": "https://www.brecorder.com/news/40446842/cardiac-care-ep-services-now-available-at-sicvd-tm-khan",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "KARACHI: The Sindh Institute of Cardiovascular Diseases (SICVD) has inaugurated expanded Cardiac Electrophysiology (EP) services at SICVD Tando Muhammad Khan, marking an important advancement in the diagnosis and treatment of heart rhythm disorders for patients in the district and surrounding areas. The expanded servic…",
-   "image": "https://i.brecorder.com/large/2026/11/01004719836a21d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "LHC clarifies ST default surcharge calculation period",
-   "url": "https://www.brecorder.com/news/40446844/lhc-clarifies-st-default-surcharge-calculation-period",
-   "source": "Business Recorder",
-   "published": "2026-10-31T21:31:09+00:00",
-   "summary": "LAHORE: The Lahore High Court (LHJC) has held that the period for calculation of default surcharge on the sales tax deposited after the prescribed dates of payment, commences from the sixteenth day following the applicable due date of the relevant tax period and not from the sixteenth day following the end of the tax p…",
-   "image": "https://i.brecorder.com/large/2024/10/6705f62cadca0.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -256,6 +230,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+   "url": "https://www.brecorder.com/news/40446913/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027",
+   "source": "Business Recorder",
+   "published": "2026-11-01T13:59:27+00:00",
+   "summary": "LONDON/MOSCOW: OPEC+ oil-producing countries kept December production targets steady on Sunday, confirming expectations that more policy adjustments will not occur until next year, as the group continues to struggle with export disruptions from the Iran war. Seven core OPEC+ members — Saudi Arabia, Russia, Iraq, Kuwait…",
+   "image": "https://i.brecorder.com/large/2026/11/011514370dff587.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "India's October net goods and services tax collection rises 25.6% year-on-year",
@@ -468,19 +455,6 @@
    "domestic": false
   },
   {
-   "title": "US stocks slide as Google parent's revenue miss revives AI spending jitters",
-   "url": "https://www.dawn.com/news/2040760/us-stocks-slide-as-google-parents-revenue-miss-revives-ai-spending-jitters",
-   "source": "Dawn",
-   "published": "2026-10-29T20:23:37+00:00",
-   "summary": "US stock prices retreated on Thursday, with investors reassessing big tech’s massive AI spending spree as they digested high-profile earnings, crucial inflation data and the US Federal Reserve’s policy decision. All three major US stock indexes were in negative territory, with the Nasdaq dragged sharply lower by tech a…",
-   "image": "https://i.dawn.com/large/2026/10/30012234c51fc1d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Sri Lanka trade gap at $450m to $90m",
    "url": "https://tribune.com.pk/story/2637473/sri-lanka-trade-gap-at-450m-to-90m",
    "source": "The Express Tribune",
@@ -591,19 +565,6 @@
    "published": null,
    "summary": "Pakistan Stock Exchange launches ‘Shariah-Compliant’ trading counter",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/PSX-today.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s exports rise 7.7 percent to $8.5 billion in first quarter",
-   "url": "https://arynews.tv/pakistans-exports-rise-7-7-percent-to-8-5-billion-in-first-quarter",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan’s exports rise 7.7 percent to $8.5 billion in first quarter",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Export.jpg",
    "topics": [
     "Economy"
    ],
