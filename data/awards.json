@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T23:48:25+00:00",
+ "generated": "2026-11-02T04:04:35+00:00",
  "count": 910,
  "with_value": 871,
  "with_winner": 306,
@@ -17313,6 +17313,84 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004735",
+   "tender_no": "TS0000015514E",
+   "reference": "FFW10206",
+   "title": "Purchase of Other Misc. Items 2026-27 Miscellaneous",
+   "organisation": "Ministry of National Health Services, Regulation & Coordination Federal General Hospital Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "Ideal Star (Private) Limited, U&U Innovative Business"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-02",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004735",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004734",
+   "tender_no": "TS0000015515E",
+   "reference": "FFW10081",
+   "title": "Purchase of Stationery Items 2026-27 Stationery",
+   "organisation": "Ministry of National Health Services, Regulation & Coordination Federal General Hospital Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "The Solution Traders, U&U Innovative Business"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-02",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004734",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004731",
+   "tender_no": "TS0000006104E",
+   "reference": "LET/174/25",
+   "title": "TRACTOR ACCESSORIES Miscellaneous Sui Northern Gas Pipelines Limited (SNGPL)",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Lahore - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-02",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004731",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004730",
+   "tender_no": "TS0000007185E",
+   "reference": "No. E/CS-2(214)/2026, P-33947",
+   "title": "REPAIR AND MAINTENANCE OF KPT BUNGALOW NO. CK-01 AT KEAMARI Repair/Maintenance",
+   "organisation": "Ministry of Maritime Affairs Karachi Port Trust Karachi - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Mr. Allahbux Kalwer"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-02",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004730",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004728",
    "tender_no": "TS0000013445E",
@@ -56362,84 +56440,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002639",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002637",
-   "tender_no": "TS0000007297E",
-   "reference": "A (01)/PSEB/2026-09",
-   "title": "THE PROVISIONING OF HUMAN RESOURCE FOR OUTSOURCED SERVICES OF PSEB Services Ministry of IT and Telecom",
-   "organisation": "Ministry of IT and Telecom Pakistan Software Export Board (PSEB) Islamabad - Pakistan",
-   "bid_count": 6,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-08-10",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002637",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002636",
-   "tender_no": "TS0000008836E",
-   "reference": "Tender No. 290",
-   "title": "Iron Scrap, ACSR Rail Dismt. Cond. Miscellaneous",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 7,
-   "lowest": [
-    "Vega Consultants Pvt Ltd."
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002636",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002635",
-   "tender_no": "TS0000008835E",
-   "reference": "Tender No. 289",
-   "title": "ACSR Rail Dismt. Cond. & Iron Scrap Miscellaneous",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Lot # 01 = M/s Bismillah Metal impex (Pvt) Ltd, Lot # 02 = Mr. Daniyal Latif"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002635",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002634",
-   "tender_no": "TS0000008829E",
-   "reference": "Tender No. 287",
-   "title": "ACSR Lynx Dismt Cond. & Iron Scrap Miscellaneous",
-   "organisation": "Lahore Electric Supply Company (LESCO) LESCO Lahore - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Bismillah Metal impex (Pvt) Ltd"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002634",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

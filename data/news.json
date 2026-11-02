@@ -1,15 +1,54 @@
 {
- "generated": "2026-11-01T23:48:31+00:00",
- "count": 42,
- "relevant_count": 14,
- "domestic_count": 16,
+ "generated": "2026-11-02T04:04:40+00:00",
+ "count": 48,
+ "relevant_count": 16,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (14)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (6)"
  },
  "stories": [
+  {
+   "title": "Petrol pricing changes may cause refineries Rs49/litre loss",
+   "url": "https://www.brecorder.com/news/40446992/petrol-pricing-changes-may-cause-refineries-rs49litre-loss",
+   "source": "Business Recorder",
+   "published": "2026-11-02T00:16:57+00:00",
+   "summary": "ISLAMABAD: The government’s latest changes to the pricing mechanism of Motor Spirit (MS/petrol) are likely to impose an estimated financial loss of Rs49 per litre on domestic refineries, raising serious concerns about the viability of multibillion-dollar refinery upgradation projects involving an estimated investment o…",
+   "image": "https://i.brecorder.com/large/2026/06/1223130633063f6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR marks senior citizen pensioner’s tax status as ‘In-Active’",
+   "url": "https://www.brecorder.com/news/40446925/fbr-marks-senior-citizen-pensioners-tax-status-as-in-active",
+   "source": "Business Recorder",
+   "published": "2026-11-02T00:01:43+00:00",
+   "summary": "ISLAMABAD: A senior citizen taxpayer deriving income from bahbood/pensioner certificate was declared “In-Active” on November 1, 2026 by the Federal Board of Revenue (FBR) forcing the taxpayer to approach the forum of Federal Tax Ombudsman (FTO) for justice. The Federal Tax Ombudsman (FTO) has been asked to take cogniza…",
+   "image": "https://i.brecorder.com/large/2025/01/20062202132a6f4.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Railways plans modernising Drigh Road station",
+   "url": "https://www.brecorder.com/news/40446930/railways-plans-modernising-drigh-road-station",
+   "source": "Business Recorder",
+   "published": "2026-11-02T00:01:43+00:00",
+   "summary": "KARACHI: Pakistan Railways has drawn up plans to upgrade Drigh Road Railway Station with modern passenger facilities, including improved parking, booking and reservation offices, and waiting areas, as part of efforts to modernise railway infrastructure in Karachi. Divisional Superintendent Pakistan Railways Karachi, Ja…",
+   "image": "https://i.brecorder.com/large/2023/02/63e991122bc6c.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "PSX sheds 3,560 points amid panic selling in jittery October",
    "url": "https://www.dawn.com/news/2041330/psx-sheds-3560-points-amid-panic-selling-in-jittery-october",
@@ -193,19 +232,6 @@
    "domestic": true
   },
   {
-   "title": "Pakistan State Oil profit jumps to Rs25.56bn",
-   "url": "https://www.dawn.com/news/2040851/pakistan-state-oil-profit-jumps-to-rs2556bn",
-   "source": "Dawn",
-   "published": "2026-10-30T04:08:28+00:00",
-   "summary": "KARACHI: Pakistan State Oil (PSO) posted a profit after tax of Rs25.56 billion in 1QFY27, with earnings per share of Rs54.44, up from Rs9.39bn and Rs20.00 a year earlier, driven by higher volumes and an improved product mix, partly offset by higher finance costs. Consolidated profit stood at Rs29.42bn with EPS of Rs62.…",
-   "image": "https://i.dawn.com/large/2026/07/2107173921391f0.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Imported cotton seed to get 12-month approval",
    "url": "https://tribune.com.pk/story/2637656/imported-cotton-seed-to-get-12-month-approval",
    "source": "The Express Tribune",
@@ -217,6 +243,85 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports",
+   "url": "https://www.brecorder.com/news/40447007/us-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-wsj-reports",
+   "source": "Business Recorder",
+   "published": "2026-11-02T03:17:43+00:00",
+   "summary": "The United States ​is backing a ‌rapid resumption of Russian ​natural gas ​exports to Europe via ⁠pipelines ​crossing Ukraine as ​part of talks aimed at securing ​an ​energy ceasefire before winter, ‌the ⁠Wall Street Journal reported on Sunday, ​citing ​US, ⁠European and Ukrainian ​officials. Oil slips more than 1% as …",
+   "image": "https://i.brecorder.com/large/2023/03/6420fc43a443c.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee surprise Friday recovery faces test from weak peers, fragile risk",
+   "url": "https://www.brecorder.com/news/40447003/indian-rupee-surprise-friday-recovery-faces-test-from-weak-peers-fragile-risk",
+   "source": "Business Recorder",
+   "published": "2026-11-02T03:02:48+00:00",
+   "summary": "MUMBAI: The Indian rupee’s surprise flow-driven recovery on Friday may prove harder to sustain, with weakness across Asian currencies and a deteriorating ​risk mood weighing on sentiment, while a dip in oil prices ‌ may offer relief. The Indian rupee is expected to open largely flat at 94.94-94.98 to the US dollar on M…",
+   "image": "https://i.brecorder.com/large/2026/11/0207594088f4d3d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bank of England poised to raise rates but may push back on bets for more",
+   "url": "https://www.brecorder.com/news/40447002/bank-of-england-poised-to-raise-rates-but-may-push-back-on-bets-for-more",
+   "source": "Business Recorder",
+   "published": "2026-11-02T02:58:58+00:00",
+   "summary": "MANCHESTER: The Bank of England is expected to bow to inflation pressure from soaring energy costs and raise interest rates ​on Thursday, though it may push back against investors’ bets that several more increases will follow next year. Economists polled by Reuters expect the ‌BoE to raise Bank Rate to 4.0% from 3.75%,…",
+   "image": "https://i.brecorder.com/large/2026/10/151151296026ec5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
+   "url": "https://www.brecorder.com/news/40447001/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist",
+   "source": "Business Recorder",
+   "published": "2026-11-02T02:52:46+00:00",
+   "summary": "SINGAPORE: The dollar and other major currencies were ​in a holding pattern on Monday as investors turned their attention to this week’s US midterm elections, which could ‌shift the balance of power in Congress and control over the federal purse strings. In cryptocurrencies, bitcoin and ether were nursing losses follow…",
+   "image": "https://i.brecorder.com/large/2026/06/120725552818eb0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US-backed consortium proposes $4.4bn LNG project for Pakistan",
+   "url": "https://www.dawn.com/news/2041560/us-backed-consortium-proposes-44bn-lng-project-for-pakistan",
+   "source": "Dawn",
+   "published": "2026-11-02T02:28:41+00:00",
+   "summary": "https://www.dawn.com/news/2041543",
+   "image": "https://i.dawn.com/large/2026/11/020728090e8e494.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Power subsidy ending",
+   "url": "https://www.brecorder.com/news/40446932/power-subsidy-ending",
+   "source": "Business Recorder",
+   "published": "2026-11-02T00:01:43+00:00",
+   "summary": "EDITORIAL: Finally, the government has planned to end the slab-based electricity subsidy in the power sector. This space has argued for years that these distortions in the power sector need to be removed. Now, the government is finally moving in that direction, perhaps under IMF pressure. The decision is right, but it …",
+   "image": "https://i.brecorder.com/large/2026/06/1305470305c0776.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
@@ -383,32 +488,6 @@
    "published": "2026-10-30T06:51:24+00:00",
    "summary": "SYDNEY: The Australian dollar stumbled on Friday as hefty cash burn by tech giants sparked a rout in equities and dented risk assets, while the New Zealand dollar steadied after being battered by a surprise decision of the central bank to keep rates unchanged. The Aussie held at $0.7025, after falling 0.4% overnight an…",
    "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan hits over 4-year high, set for fourth monthly gain",
-   "url": "https://www.brecorder.com/news/40446672/chinas-yuan-hits-over-4-year-high-set-for-fourth-monthly-gain",
-   "source": "Business Recorder",
-   "published": "2026-10-30T06:47:14+00:00",
-   "summary": "SHANGHAI: China’s yuan firmed against the US dollar to its strongest level in more than four years on Friday and was headed for a fourth straight month of gains, as traders said exporters continued to convert dollar holdings into the local currency. The spot yuan opened at 6.6600 per dollar and was last changing hands …",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Philippines central bank says October inflation likely within 7.1% to 8.1% range CEBU, Philippines",
-   "url": "https://www.brecorder.com/news/40446669/philippines-central-bank-says-october-inflation-likely-within-71-to-81-range-cebu-philippines",
-   "source": "Business Recorder",
-   "published": "2026-10-30T06:27:13+00:00",
-   "summary": "Philippine inflation was likely within the 7.1% to 8.1% range in October, the central bank said on Friday. Philippines raises alert level at Mayon volcano “The BSP will remain vigilant and guided by incoming data, particularly on inflation and growth prospects,” the central bank said in a statement The Philippines’ sta…",
-   "image": "https://i.brecorder.com/large/2024/12/2712122443f47c4.jpg",
    "topics": [
     "Economy"
    ],
