@@ -1,15 +1,41 @@
 {
- "generated": "2026-11-02T12:18:39+00:00",
+ "generated": "2026-11-02T21:55:50+00:00",
  "count": 46,
- "relevant_count": 10,
+ "relevant_count": 8,
  "domestic_count": 15,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (18)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (3)"
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (19)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (2)"
  },
  "stories": [
+  {
+   "title": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
+   "url": "https://www.dawn.com/news/2041649/at-kazakhstan-forum-pakistan-presents-karachi-and-gwadar-ports-as-strategic-gateways-for-central-asian-trade",
+   "source": "Dawn",
+   "published": "2026-11-02T18:35:58+00:00",
+   "summary": "ISLAMABAD: Pakistan can serve as an important trade and transit corridor for the landlocked Central Asian countries, providing them with access to international maritime trade routes and global markets, Minister for Board of Investment (BoI) Qaiser Ahmed Sheikh said on Monday. He made the remarks while addressing the o…",
+   "image": "https://i.dawn.com/large/2026/11/0222065231c272b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40447046/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-02T14:32:47+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Monday. The local unit closed the day at 276.72, a gain of Re0.03 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar for another week, …",
+   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM Shehbaz directs banks to speed up lending to SMEs, farmers, home buyers",
    "url": "https://www.brecorder.com/news/40447054/pm-shehbaz-directs-banks-to-speed-up-lending-to-smes-farmers-home-buyers",
@@ -37,14 +63,14 @@
    "domestic": true
   },
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40447046/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-02T11:29:59+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Monday. The local unit closed the day at 276.72, a gain of Re0.03 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar for another week, …",
-   "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
+   "title": "Oil refineries to bear Rs15b burden to ease fuel price pressure leading to Rs15 cut in petrol price",
+   "url": "https://tribune.com.pk/story/2638280/oil-refineries-to-share-rs15b-burden-with-govt-leading-to-rs15-cut-in-petrol-price",
+   "source": "The Express Tribune",
+   "published": "2026-11-02T08:13:08+00:00",
+   "summary": "Petroleum minister says a Pakistani-bound LNG cargo ship was attacked before it entered the Strait of Hormuz",
+   "image": null,
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -128,32 +154,6 @@
    "domestic": true
   },
   {
-   "title": "CM Maryam launches Rs2 trillion PIVOT initiative to boost industry, exports",
-   "url": "https://www.dawn.com/news/2041052/cm-maryam-launches-rs2-trillion-pivot-initiative-to-boost-industry-exports",
-   "source": "Dawn",
-   "published": "2026-10-31T04:27:23+00:00",
-   "summary": "LAHORE: Chief Minister Maryam Nawaz on Friday officially launched the Punjab Innovation for Value, Opportunity and Transformation (PIVOT) Plan 2026-29 – around Rs2 trillion economic strategy aimed at positioning Punjab as an export-led industrial hub. The roadmap targets $6.8 billion in incremental exports, 162,000 new…",
-   "image": "https://i.dawn.com/large/2026/10/310926245539339.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Oil and Gas Development Company Ltd profit surges to Rs58.5bn",
-   "url": "https://www.dawn.com/news/2041091/oil-and-gas-development-company-ltd-profit-surges-to-rs585bn",
-   "source": "Dawn",
-   "published": "2026-10-31T02:49:55+00:00",
-   "summary": "ISLAMABAD: Oil and Gas Development Company Ltd (OGDCL) on Friday announced that its profit after tax surged 52.7 per cent to Rs58.5 billion in the first quarter of 2026-27, supported by elevated international prices and higher oil and gas output. As a consequence, the board of directors of the country’s largest explora…",
-   "image": "https://i.dawn.com/large/2026/10/31074923d21e180.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "PM Shehbaz forms body to review proposed LPG policy reforms",
    "url": "https://www.dawn.com/news/2041093/pm-shehbaz-forms-body-to-review-proposed-lpg-policy-reforms",
    "source": "Dawn",
@@ -180,19 +180,6 @@
    "domestic": true
   },
   {
-   "title": "PM orders completion of 100MW solar power project in GB",
-   "url": "https://www.dawn.com/news/2041022/pm-orders-completion-of-100mw-solar-power-project-in-gb",
-   "source": "Dawn",
-   "published": "2026-10-30T23:18:59+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday directed relevant authorities for timely completion of development projects in Gilgit-Baltistan (GB) including 100MW Solar Power Project. The premier gave these directives while presiding over a meeting to review progress on development projects in GB. Chief Minister G…",
-   "image": "https://i.dawn.com/large/2026/06/16112429e7aed33.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Imported cotton seed to get 12-month approval",
    "url": "https://tribune.com.pk/story/2637656/imported-cotton-seed-to-get-12-month-approval",
    "source": "The Express Tribune",
@@ -206,12 +193,25 @@
    "domestic": true
   },
   {
-   "title": "Copper rises on weaker dollar and downgrade to Chile production outlook",
-   "url": "https://www.brecorder.com/news/40447047/copper-rises-on-weaker-dollar-and-downgrade-to-chile-production-outlook",
+   "title": "Pakistani Rupee steady near 277.5 against US Dollar as Hormuz talks swing oil",
+   "url": "https://arynews.tv/pakistani-rupee-steady-near-277-5-against-us-dollar-as-hormuz-talks-swing-oil",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistani Rupee steady near 277.5 against US Dollar as Hormuz talks swing oil",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/dollar-pkr.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan govt urged to strengthen national halal certification mark",
+   "url": "https://www.brecorder.com/news/40447072/pakistan-govt-urged-to-strengthen-national-halal-certification-mark",
    "source": "Business Recorder",
-   "published": "2026-11-02T11:22:19+00:00",
-   "summary": "LONDON: Copper prices rose on Monday, supported by a weaker dollar, lower oil prices and a downgrade to Chile’s copper production outlook, though investors remained cautious ahead of Tuesday’s US midterm elections. Benchmark three-month copper on the London Metal Exchange was up 0.7% at $14,251 a metric ton by 1034 GMT…",
-   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
+   "published": "2026-11-02T18:52:23+00:00",
+   "summary": "Exporters, government functionaries, and entrepreneurs called for strengthening one national halal mark while widening certification for food, pharmaceuticals, cosmetics, and revamping laboratory testing to achieve the maximum share for Pakistan from the $3 trillion global halal industry and to remove hurdles. The Firs…",
+   "image": "https://i.brecorder.com/large/2022/03/62295a393a994.jpg",
    "topics": [
     "Economy"
    ],
@@ -219,12 +219,77 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 closes higher as late-session recovery lifts market",
-   "url": "https://www.brecorder.com/news/40447010/psx-kse-100-closes-higher-as-late-session-recovery-lifts-market",
+   "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus",
+   "url": "https://www.brecorder.com/news/40447067/gold-rises-over-2-from-one-year-low-on-softer-oil-prices-us-midterms-in-focus",
    "source": "Business Recorder",
-   "published": "2026-11-02T11:07:00+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session, with the benchmark KSE-100 Index swinging both ways before settling in positive territory on Monday. The benchmark KSE-100 Index initially moved higher before coming under selling pressure during the morning session. It subsequently recovered some g…",
+   "published": "2026-11-02T16:24:07+00:00",
+   "summary": "Gold prices rose more than 2% on Monday, rebounding from a one-year low hit in the previous session, supported by a retreat in oil prices that tempered inflation worries, while investors awaited US midterm elections later this week. Spot gold rose 2.1% to $3,957.19 per ounce at 1049 a.m. ET (1411 GMT), having ended 3.6…",
+   "image": "https://i.brecorder.com/large/2026/09/0814432076b87f7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport",
+   "url": "https://www.brecorder.com/news/40447066/yemens-houthis-say-they-launched-drones-towards-saudi-arabias-dammam-airport",
+   "source": "Business Recorder",
+   "published": "2026-11-02T16:18:04+00:00",
+   "summary": "Yemen’s Houthis said on Monday they had launched drones towards Saudi Arabia’s Dammam airport as well as an early-warning radar in Jizan and a military transport aircraft at Jizan airport. There was no immediate Saudi confirmation. Houthis repeat threats against Saudi oil giant, aviation",
+   "image": "https://i.brecorder.com/large/2024/01/25192520a7f192b.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 Index closes marginally higher as late buying offsets intra-day losses",
+   "url": "https://www.brecorder.com/news/40447010/psx-kse-100-index-closes-marginally-higher-as-late-buying-offsets-intra-day-losses",
+   "source": "Business Recorder",
+   "published": "2026-11-02T14:17:39+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session, with the benchmark KSE-100 Index swinging both ways before closing in the positive territory on Monday. The benchmark KSE-100 Index initially moved higher before coming under selling pressure during the morning session. It subsequently recovered som…",
    "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Major Gulf markets rise as investors weigh Iran-Qatar talks",
+   "url": "https://www.brecorder.com/news/40447058/major-gulf-markets-rise-as-investors-weigh-iran-qatar-talks",
+   "source": "Business Recorder",
+   "published": "2026-11-02T13:46:43+00:00",
+   "summary": "BENGALURU: Major Gulf stock markets gained on Monday as investors assessed talks between Iranian and Qatari officials aimed at securing an agreement to end the US-Israeli conflict with Iran. The talks come amid concerns that the conflict could escalate after the November 3 US midterm elections. President Donald Trump h…",
+   "image": "https://i.brecorder.com/large/2026/03/13122415aaf8783.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan inflation clocks in at 9.6% in October 2026",
+   "url": "https://www.brecorder.com/news/40447015/pakistan-inflation-clocks-in-at-96-in-october-2026",
+   "source": "Business Recorder",
+   "published": "2026-11-02T13:25:20+00:00",
+   "summary": "Pakistan’s headline inflation clocked in at 9.6% on a year-on-year (YoY) basis in October 2026, down from 10.3% recorded in September , as shown by Pakistan Bureau of Statistics (PBS) data on Monday. The consumer price index (CPI) was recorded at 6.2% in October 2025. On a month-on-month basis, it increased by 1.1% in …",
+   "image": "https://i.brecorder.com/large/2026/11/021559153fc0901.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper rises on weaker dollar and downgrade to Chile production outlook",
+   "url": "https://www.brecorder.com/news/40447047/copper-rises-on-weaker-dollar-and-downgrade-to-chile-production-outlook",
+   "source": "Business Recorder",
+   "published": "2026-11-02T11:22:19+00:00",
+   "summary": "LONDON: Copper prices rose on Monday, supported by a weaker dollar, lower oil prices and a downgrade to Chile’s copper production outlook, though investors remained cautious ahead of Tuesday’s US midterm elections. Benchmark three-month copper on the London Metal Exchange was up 0.7% at $14,251 a metric ton by 1034 GMT…",
+   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
    "topics": [
     "Economy"
    ],
@@ -271,19 +336,6 @@
    "domestic": false
   },
   {
-   "title": "Pakistan inflation clocks in at 9.6% in October 2026",
-   "url": "https://www.brecorder.com/news/40447015/pakistan-inflation-clocks-in-at-96-in-october-2026",
-   "source": "Business Recorder",
-   "published": "2026-11-02T10:41:09+00:00",
-   "summary": "Pakistan’s headline inflation clocked in at 9.6% on a year-on-year (YoY) basis in October 2026, down from 10.3% recorded in September , as shown by Pakistan Bureau of Statistics (PBS) data on Monday. The consumer price index (CPI) was recorded at 6.2% in October 2025. On a month-on-month basis, it increased by 1.1% in …",
-   "image": "https://i.brecorder.com/large/2026/11/021559153fc0901.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Gen Z and millennials offer fresh hope for Pakistan Stock Exchange",
    "url": "https://www.dawn.com/news/2041571/gen-z-and-millennials-offer-fresh-hope-for-pakistan-stock-exchange",
    "source": "Dawn",
@@ -294,19 +346,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wafi Energy Pakistan reports Q3 2026 results",
-   "url": "https://www.brecorder.com/news/40447033/wafi-energy-pakistan-reports-q3-2026-results",
-   "source": "Business Recorder",
-   "published": "2026-11-02T07:19:07+00:00",
-   "summary": "The Board of Directors of Wafi Energy Pakistan Limited (WEPL) announced its financial results for the nine months ended September 30, 2026. WEPL reported a profit after tax of PKR 6,558 million for the first nine months of the year, compared with PKR 3,030 million in the same period last year. The results were announce…",
-   "image": "https://i.brecorder.com/large/2026/11/02121823ddcfc4f.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -427,6 +466,19 @@
    "domestic": false
   },
   {
+   "title": "PSX recovers 155 points to close higher after volatile session",
+   "url": "https://tribune.com.pk/story/2638240/psx-sheds-over-630-points-in-intraday-trading-as-selling-pressure-persists",
+   "source": "The Express Tribune",
+   "published": "2026-11-02T03:16:05+00:00",
+   "summary": "KSE-100 Index settles at 166,564 as falling global oil prices, diplomatic hopes offer some relief",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Indian rupee surprise Friday recovery faces test from weak peers, fragile risk",
    "url": "https://www.brecorder.com/news/40447003/indian-rupee-surprise-friday-recovery-faces-test-from-weak-peers-fragile-risk",
    "source": "Business Recorder",
@@ -474,32 +526,6 @@
    "image": "https://i.dawn.com/large/2026/11/020728090e8e494.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "New provinces will cost more than they deliver",
-   "url": "https://tribune.com.pk/story/2638146/new-provinces-will-cost-more-than-they-deliver",
-   "source": "The Express Tribune",
-   "published": "2026-11-01T16:42:23+00:00",
-   "summary": "14 of 30 proposed units will breach 10% fiscal sustainability benchmark",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
-   "url": "https://www.brecorder.com/news/40446913/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027",
-   "source": "Business Recorder",
-   "published": "2026-11-01T13:59:27+00:00",
-   "summary": "LONDON/MOSCOW: OPEC+ oil-producing countries kept December production targets steady on Sunday, confirming expectations that more policy adjustments will not occur until next year, as the group continues to struggle with export disruptions from the Iran war. Seven core OPEC+ members — Saudi Arabia, Russia, Iraq, Kuwait…",
-   "image": "https://i.brecorder.com/large/2026/11/011514370dff587.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -570,38 +596,12 @@
    "domestic": false
   },
   {
-   "title": "Dollar closes at Rs 276.75 against PKR on weekend as SBP releases forex rates",
-   "url": "https://arynews.tv/dollar-closes-at-rs-276-75-against-pkr-on-weekend-as-sbp-releases-forex-rates",
+   "title": "PSX: Stocks close on positive note as KSE-100 index gains 155 Points",
+   "url": "https://arynews.tv/psx-stocks-close-on-positive-note-as-kse-100-index-gains-155-points",
    "source": "ARY News",
    "published": null,
-   "summary": "Dollar closes at Rs 276.75 against PKR on weekend as SBP releases forex rates",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/Dollar.jpg.jpeg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan lifts restriction on importing used cars over five years old",
-   "url": "https://arynews.tv/pakistan-lifts-restriction-on-importing-used-cars-over-five-years-old",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan lifts restriction on importing used cars over five years old",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Imported-cars.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close lower as KSE-100 index dips over 700 points",
-   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-700-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close lower as KSE-100 index dips over 700 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks.jpg",
+   "summary": "PSX: Stocks close on positive note as KSE-100 index gains 155 Points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Stock.jpg",
    "topics": [
     "Economy"
    ],
