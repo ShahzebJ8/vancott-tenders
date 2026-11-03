@@ -1,37 +1,23 @@
 {
- "generated": "2026-11-03T11:15:45+00:00",
- "count": 40,
- "relevant_count": 5,
- "domestic_count": 10,
+ "generated": "2026-11-03T18:38:12+00:00",
+ "count": 39,
+ "relevant_count": 4,
+ "domestic_count": 8,
  "sources": {
-  "Dawn": "ok (12)",
+  "Dawn": "ok (10)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (4)"
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40447210/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-03T10:53:59+00:00",
+   "published": "2026-11-03T13:55:30+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Tuesday. The local unit closed the day at 276.71, a gain of Re0.01 against the greenback. On Monday , the rupee had closed at 276.72 against the dollar. Globally, the US dollar wavered alongside oil prices ​on Tuesday on h…",
    "image": "https://i.brecorder.com/large/2026/11/03081358853291b.jpg",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pioneer Cement commissions 28MW solar power plant in Punjab",
-   "url": "https://www.brecorder.com/news/40447203/pioneer-cement-commissions-28mw-solar-power-plant-in-punjab",
-   "source": "Business Recorder",
-   "published": "2026-11-03T08:02:46+00:00",
-   "summary": "Pioneer Cement Limited has commissioned a 28.265-megawatt (MW) solar power plant at its manufacturing facility in Punjab, with the project’s total capacity subsequently enhanced to 31MW. The listed cement maker disclosed the development in a filing to the Pakistan Stock Exchange (PSX) on Tuesday. “We are pleased to inf…",
-   "image": "https://i.brecorder.com/large/2025/06/10205044cbb12d4.jpg",
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
@@ -116,19 +102,6 @@
    "domestic": true
   },
   {
-   "title": "State Bank eyes open banking ecosystem",
-   "url": "https://www.dawn.com/news/2041333/state-bank-eyes-open-banking-ecosystem",
-   "source": "Dawn",
-   "published": "2026-11-01T01:27:33+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has released the draft Open Banking Regulations for public consultation, aiming to foster innovation, enhance competition, and expand access to efficient, customer-centric digital financial services in Pakistan. “Customer data obtained under these regulations will be stored and…",
-   "image": "https://i.dawn.com/large/2024/04/301728308dcd508.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Pakistani Rupee steady near 277.5 against US Dollar as Hormuz talks swing oil",
    "url": "https://arynews.tv/pakistani-rupee-steady-near-277-5-against-us-dollar-as-hormuz-talks-swing-oil",
    "source": "ARY News",
@@ -142,12 +115,78 @@
    "domestic": true
   },
   {
-   "title": "PSX: KSE-100 up over 1% on buying in key sectors",
-   "url": "https://www.brecorder.com/news/40447178/psx-kse-100-up-over-1-on-buying-in-key-sectors",
+   "title": "Ningbo Green share price loses 34% in four days at PSX",
+   "url": "https://www.brecorder.com/news/40447235/ningbo-green-share-price-loses-34-in-four-days-at-psx",
    "source": "Business Recorder",
-   "published": "2026-11-03T10:56:38+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 1,800 points during the opening hours of trading on Tuesday. At 10:50am, the benchmark index was hovering at 168,355.31, up 1,791.25 points or 1.08%. Analysts were of the view that the buying interest refl…",
+   "published": "2026-11-03T18:16:23+00:00",
+   "summary": "Ningbo Green Light Energy Limited (NGLEL) share price has dropped more than 34% in just four trading sessions since its listing on the Pakistan Stock Exchange (PSX), losing nearly 10% a day to close at Rs13.82 per share on Tuesday. The company’s share price closed at Rs13.82 on Tuesday, down from its pre-listing price …",
+   "image": "https://i.brecorder.com/large/2024/04/6622f3c98f1e8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's NSE posts 23% rise in quarterly profit in first results since listing",
+   "url": "https://www.brecorder.com/news/40447230/indias-nse-posts-23-rise-in-quarterly-profit-in-first-results-since-listing",
+   "source": "Business Recorder",
+   "published": "2026-11-03T14:38:28+00:00",
+   "summary": "The National Stock Exchange of India posted a 23% jump in profit on Tuesday, helped by higher trading volumes, as the exchange operator reported its first quarterly results after its September stock market debut. The country’s largest stock exchange operator has faced pressure on transaction revenue as tighter rules an…",
+   "image": "https://i.brecorder.com/large/2026/09/2118512597ca46c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf bourses mixed as fears over US strikes offset Iran-Saudi talks",
+   "url": "https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks",
+   "source": "Business Recorder",
+   "published": "2026-11-03T13:57:00+00:00",
+   "summary": "Gulf stock exchanges ended mixed on Tuesday as peace hopes over Tehran’s statement that talks with Saudi Arabia were continuing were offset by fears of escalation in the eight-month conflict after the US struck Iran’s Qeshm Island in the Strait of Hormuz. A US official said on Monday that the strikes, earlier reported …",
+   "image": "https://i.brecorder.com/large/2026/11/03185639ae9b7a3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 settles above 168,000 amid optimism over US-Iran talks",
+   "url": "https://www.brecorder.com/news/40447178/psx-kse-100-settles-above-168000-amid-optimism-over-us-iran-talks",
+   "source": "Business Recorder",
+   "published": "2026-11-03T13:33:50+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a bullish session on Tuesday amid expectations of a positive outcome from talks between the US and Iran, with the benchmark KSE-100 Index closing the day above the 168,000. The market opened on a positive note, with buying activity pushing the index higher during the morning …",
    "image": "https://i.brecorder.com/large/2026/11/031059511eba333.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar",
+   "url": "https://www.brecorder.com/news/40447214/indias-top-gas-importer-sets-eyes-on-us-lng-under-long-term-deal-with-qatar",
+   "source": "Business Recorder",
+   "published": "2026-11-03T12:28:40+00:00",
+   "summary": "NEW DELHI: Qatar is willing to consider India’s request to include US-sourced LNG under its renewed supply deal, helping New Delhi diversify its imports following disruptions caused by the Iran war, a senior Petronet LNG executive said on Tuesday. India’s top gas importer Petronet LNG Ltd is in talks with Qatar to sour…",
+   "image": "https://i.brecorder.com/large/2026/11/03172801d45b25b.jpg",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee nudges higher, forward premiums dip with focus on US midterm, oil moves",
+   "url": "https://www.brecorder.com/news/40447212/indian-rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves",
+   "source": "Business Recorder",
+   "published": "2026-11-03T12:19:32+00:00",
+   "summary": "MUMBAI: The Indian rupee strengthened modestly on Tuesday and dollar-rupee forward premiums retreated in range-bound trading as investors awaited the outcome of US midterm elections and developments surrounding the Iran war. The Indian rupee closed at 94.74 per dollar, up from its close at 94.90 in the previous session…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
    "topics": [
     "Economy"
    ],
@@ -161,6 +200,19 @@
    "published": "2026-11-03T10:33:17+00:00",
    "summary": "The Pakistan Stock Exchange (PSX) investor base hit a record 681,965, a jump of 56% year-on-year, reflecting a sharp increase in retail participation and growing confidence in the country’s capital markets. According to data shared by the Finance Ministry on Tuesday, the total number of investors reached 681,965 in Oct…",
    "image": "https://i.brecorder.com/large/2022/12/071937378b18dce.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "LPG soars in Pakistan, forcing rickshaw drivers to cut meals",
+   "url": "https://tribune.com.pk/story/2638463/lpg-soars-in-pakistan-forcing-rickshaw-drivers-to-cut-meals",
+   "source": "The Express Tribune",
+   "published": "2026-11-03T08:57:26+00:00",
+   "summary": "Prices have surged since October 17, when two Iranian border crossings closed, halting ​imports, according to traders",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -285,32 +337,6 @@
    "domestic": false
   },
   {
-   "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
-   "url": "https://www.brecorder.com/news/40447170/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited",
-   "source": "Business Recorder",
-   "published": "2026-11-03T03:18:25+00:00",
-   "summary": "HONG KONG: The dollar wavered alongside oil prices ​on Tuesday on hopes for a diplomatic breakthrough between the US and Iran, while the Aussie ‌was steady ahead of the Reserve Bank of Australia’s rate decision. Brent crude futures plunged more than 7% on Monday in their sharpest single-day drop in months, after Tehran…",
-   "image": "https://i.brecorder.com/large/2026/11/03081358853291b.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to benefit from oil plunge while facing technical resistance, dollar strength",
-   "url": "https://www.brecorder.com/news/40447169/indian-rupee-to-benefit-from-oil-plunge-while-facing-technical-resistance-dollar-strength",
-   "source": "Business Recorder",
-   "published": "2026-11-03T03:12:30+00:00",
-   "summary": "MUMBAI: The Indian rupee is likely to open on firmer footing on Tuesday following a slide in crude oil prices, though dollar strength ​and technical barriers are expected to contain the magnitude of the currency’s advance. The Indian rupee is expected to open in the 94.75-94.78 range, per traders, having settled at 94.…",
-   "image": "https://i.brecorder.com/large/2026/11/03081013b01e22c.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Core inflation falls to 7.5% in Oct",
    "url": "https://tribune.com.pk/story/2638308/core-inflation-falls-to-75-in-oct",
    "source": "The Express Tribune",
@@ -324,64 +350,12 @@
    "domestic": false
   },
   {
-   "title": "Mineral incentive package on cards",
-   "url": "https://tribune.com.pk/story/2638315/mineral-incentive-package-on-cards",
-   "source": "The Express Tribune",
-   "published": "2026-11-02T17:05:08+00:00",
-   "summary": "Govt plans to offer incentives such as tax breaks to foreign investors",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Oil falls 7.5% on peace hopes, gold up",
    "url": "https://tribune.com.pk/story/2638309/oil-falls-75-on-peace-hopes-gold-up",
    "source": "The Express Tribune",
    "published": "2026-11-02T17:05:08+00:00",
    "summary": "US-Iran talks rattle crude; bullion gains Rs2,400/tola; rupee inches up",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold rises over 2% from one-year low on softer oil prices; US midterms in focus",
-   "url": "https://www.brecorder.com/news/40447067/gold-rises-over-2-from-one-year-low-on-softer-oil-prices-us-midterms-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-11-02T16:24:07+00:00",
-   "summary": "Gold prices rose more than 2% on Monday, rebounding from a one-year low hit in the previous session, supported by a retreat in oil prices that tempered inflation worries, while investors awaited US midterm elections later this week. Spot gold rose 2.1% to $3,957.19 per ounce at 1049 a.m. ET (1411 GMT), having ended 3.6…",
-   "image": "https://i.brecorder.com/large/2026/09/0814432076b87f7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Major Gulf markets rise as investors weigh Iran-Qatar talks",
-   "url": "https://www.brecorder.com/news/40447058/major-gulf-markets-rise-as-investors-weigh-iran-qatar-talks",
-   "source": "Business Recorder",
-   "published": "2026-11-02T13:46:43+00:00",
-   "summary": "BENGALURU: Major Gulf stock markets gained on Monday as investors assessed talks between Iranian and Qatari officials aimed at securing an agreement to end the US-Israeli conflict with Iran. The talks come amid concerns that the conflict could escalate after the November 3 US midterm elections. President Donald Trump h…",
-   "image": "https://i.brecorder.com/large/2026/03/13122415aaf8783.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gen Z and millennials offer fresh hope for Pakistan Stock Exchange",
-   "url": "https://www.dawn.com/news/2041571/gen-z-and-millennials-offer-fresh-hope-for-pakistan-stock-exchange",
-   "source": "Dawn",
-   "published": "2026-11-02T10:04:13+00:00",
-   "summary": "https://www.dawn.com/news/2041495",
-   "image": "https://i.dawn.com/large/2026/11/02044030a71196f.webp",
    "topics": [
     "Economy"
    ],
@@ -490,6 +464,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "US Dollar closes at Rs276.71 as PKR holds steady amid Middle East tensions",
+   "url": "https://arynews.tv/us-dollar-closes-at-rs276-71-as-pkr-holds-steady-amid-middle-east-tensions",
+   "source": "ARY News",
+   "published": null,
+   "summary": "US Dollar closes at Rs276.71 as PKR holds steady amid Middle East tensions",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Dollar.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
