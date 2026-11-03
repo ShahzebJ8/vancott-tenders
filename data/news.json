@@ -1,15 +1,132 @@
 {
- "generated": "2026-11-02T21:55:50+00:00",
- "count": 46,
- "relevant_count": 8,
- "domestic_count": 15,
+ "generated": "2026-11-03T03:20:38+00:00",
+ "count": 53,
+ "relevant_count": 12,
+ "domestic_count": 23,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (19)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (8)",
   "ARY News": "ok (2)"
  },
  "stories": [
+  {
+   "title": "Govt arranges Rs15 per litre relief on petrol",
+   "url": "https://www.brecorder.com/news/40447158/govt-arranges-rs15-per-litre-relief-on-petrol",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:26:26+00:00",
+   "summary": "ISLAMABAD: The federal government has arranged Rs15 per litre relief on petrol through a Rs15 billion monthly cross-subsidy arrangement with local refineries, Petroleum Minister Ali Pervaiz Malik announced on Monday at a joint press conference with Information Minister Attaullah Tarar. Addressing the media, the ministe…",
+   "image": "https://i.brecorder.com/large/2024/01/02121054600309c.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Oct CPI rises 9.6pc YoY",
+   "url": "https://www.brecorder.com/news/40447159/oct-cpi-rises-96pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:27+00:00",
+   "summary": "ISLAMABAD: The Consumer Price Index (CPI)-based inflation has registered an increase of 9.6 percent on a year-on-year (YoY) basis in October 2026, as compared to an increase of 10.3 percent in the previous month and 6.2 percent in October 2025. According to CPI data, released here on Monday by the Pakistan Bureau of St…",
+   "image": "https://i.brecorder.com/large/2024/12/20113001b0f482b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "German envoy says Pakistan’s GSP+ status up for renewal",
+   "url": "https://www.brecorder.com/news/40447160/german-envoy-says-pakistans-gsp-status-up-for-renewal",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:27+00:00",
+   "summary": "ISLAMABAD: Pakistan’s status under the Generalized Scheme of Preferences Plus (GSP+), which makes the European Union its largest export market, led by Germany, is up for renewal ahead of the new framework launching in 2028. Following a monitoring visit last winter, the EU published a report in July outlining key compli…",
+   "image": "https://i.brecorder.com/large/2025/10/27183129111bfa8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KE proposes Rs5.729bn payment to PLL ‘under protest’",
+   "url": "https://www.brecorder.com/news/40447162/ke-proposes-rs5729bn-payment-to-pll-under-protest",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:27+00:00",
+   "summary": "ISLAMABAD: K-Electric has proposed payment of Rs5.729 billion to Pakistan LNG Limited (PLL) in nine monthly instalments under protest, seeking withdrawal of demands for encashment of standby letters of credit (SBLCs) and waiver of late payment surcharge (LPS), amid an unresolved dispute over RLNG pricing during force m…",
+   "image": "https://i.brecorder.com/large/2024/08/66cd11b95f3d1.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Dams in Balochistan: Senate panel questions rising costs of projects",
+   "url": "https://www.brecorder.com/news/40447084/dams-in-balochistan-senate-panel-questions-rising-costs-of-projects",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:26+00:00",
+   "summary": "ISLAMABAD: A Senate sub-committee has questioned the viability and escalating costs of major dam projects in Balochistan, raising concerns over their impact on local communities and the use of public funds. The Planning Commission informed the sub-committee that a total of 138 projects were being handled under the Agha…",
+   "image": "https://i.brecorder.com/large/2023/02/63fbe1001d261.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM informed: Jinnah Medical Complex to be operational by March next year",
+   "url": "https://www.brecorder.com/news/40447085/pm-informed-jinnah-medical-complex-to-be-operational-by-march-next-year",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:26+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif was informed on Monday that a 403-bed hospital under construction in the capital was expected to become operational by March 23, 2027, with 59 percent of the work completed. Chairing a review meeting on the Jinnah Medical Complex & Research Centre (JMCRC), the Prime Minister dir…",
+   "image": "https://i.brecorder.com/large/2026/05/150528193a05978.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ECP says ready to hold LG polls in ICT",
+   "url": "https://www.brecorder.com/news/40447086/ecp-says-ready-to-hold-lg-polls-in-ict",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:26+00:00",
+   "summary": "ISLAMABAD: Three days after the respective sessions of both the House of the Parliament prorogued without taking up the legislation required to hold the local government elections in the federal capital under the new laws, the electoral body on Monday, announced to have procured “all the material” required for LG polls…",
+   "image": "https://i.brecorder.com/large/2024/01/212140527cfea2a.jpg",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ABAD to organise three-day exhibition",
+   "url": "https://www.brecorder.com/news/40447098/abad-to-organise-three-day-exhibition",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:26+00:00",
+   "summary": "KARACHI: Association of Builders and Developers of Pakistan (ABAD) has announced a three-day in-house exhibition to promote industries allied with construction, strengthen business links and open new opportunities for local manufacturers. The exhibition will commence on November 13 at ABAD House. Builders, developers a…",
+   "image": "https://i.brecorder.com/large/2026/09/290126113e9bb5e.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "HugoBank commences internal pilot project",
+   "url": "https://www.brecorder.com/news/40447099/hugobank-commences-internal-pilot-project",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:12:26+00:00",
+   "summary": "KARACHI: HugoBank has taken a key step towards launching its commercial operations by beginning the onboarding of approved internal pilot participants onto its digital banking platform. The move follows the State Bank of Pakistan’s (SBP) approval for the bank to commence limited-scale pilot activities as a Digital Reta…",
+   "image": "https://i.brecorder.com/large/2026/08/05134601c103d55.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
    "url": "https://www.dawn.com/news/2041649/at-kazakhstan-forum-pakistan-presents-karachi-and-gwadar-ports-as-strategic-gateways-for-central-asian-trade",
@@ -30,19 +147,6 @@
    "published": "2026-11-02T14:32:47+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Monday. The local unit closed the day at 276.72, a gain of Re0.03 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar for another week, …",
    "image": "https://i.brecorder.com/large/2026/10/22074031f3ee574.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PM Shehbaz directs banks to speed up lending to SMEs, farmers, home buyers",
-   "url": "https://www.brecorder.com/news/40447054/pm-shehbaz-directs-banks-to-speed-up-lending-to-smes-farmers-home-buyers",
-   "source": "Business Recorder",
-   "published": "2026-11-02T12:08:55+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Monday directed the State Bank of Pakistan (SBP) and the Ministry of Finance to take action against banks delaying the disbursement of loans to farmers, small and medium-sized enterprises (SMEs) and applicants under the Prime Minister’s Apna Ghar scheme. Chairing a review meeting on fac…",
-   "image": "https://i.brecorder.com/large/2026/11/02170709bb77cfc.webp",
    "topics": [
     "Economy"
    ],
@@ -206,12 +310,51 @@
    "domestic": true
   },
   {
-   "title": "Pakistan govt urged to strengthen national halal certification mark",
-   "url": "https://www.brecorder.com/news/40447072/pakistan-govt-urged-to-strengthen-national-halal-certification-mark",
+   "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
+   "url": "https://www.brecorder.com/news/40447170/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited",
    "source": "Business Recorder",
-   "published": "2026-11-02T18:52:23+00:00",
-   "summary": "Exporters, government functionaries, and entrepreneurs called for strengthening one national halal mark while widening certification for food, pharmaceuticals, cosmetics, and revamping laboratory testing to achieve the maximum share for Pakistan from the $3 trillion global halal industry and to remove hurdles. The Firs…",
-   "image": "https://i.brecorder.com/large/2022/03/62295a393a994.jpg",
+   "published": "2026-11-03T03:18:25+00:00",
+   "summary": "HONG KONG: The dollar wavered alongside oil prices ​on Tuesday on hopes for a diplomatic breakthrough between the US and Iran, while the Aussie ‌was steady ahead of the Reserve Bank of Australia’s rate decision. Brent crude futures plunged more than 7% on Monday in their sharpest single-day drop in months, after Tehran…",
+   "image": "https://i.brecorder.com/large/2026/11/03081358853291b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to benefit from oil plunge while facing technical resistance, dollar strength",
+   "url": "https://www.brecorder.com/news/40447169/indian-rupee-to-benefit-from-oil-plunge-while-facing-technical-resistance-dollar-strength",
+   "source": "Business Recorder",
+   "published": "2026-11-03T03:12:30+00:00",
+   "summary": "MUMBAI: The Indian rupee is likely to open on firmer footing on Tuesday following a slide in crude oil prices, though dollar strength ​and technical barriers are expected to contain the magnitude of the currency’s advance. The Indian rupee is expected to open in the 94.75-94.78 range, per traders, having settled at 94.…",
+   "image": "https://i.brecorder.com/large/2026/11/03081013b01e22c.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "CPI: the squeeze on households continues",
+   "url": "https://www.brecorder.com/news/40447082/cpi-the-squeeze-on-households-continues",
+   "source": "Business Recorder",
+   "published": "2026-11-03T01:20:00+00:00",
+   "summary": "Food and fuel keep monthly price increases elevated. Softer core inflation offers some comfort, but households may be absorbing the shock through falling purchasing power. Pakistan’s headline inflation fell to 9.6 percent in October from 10.3 percent in September. That is welcome, but the monthly numbers offer little r…",
+   "image": "https://i.brecorder.com/large/2024/12/674e379f5ed73.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Daily petrol price fluctuations",
+   "url": "https://www.brecorder.com/news/40447093/daily-petrol-price-fluctuations",
+   "source": "Business Recorder",
+   "published": "2026-11-03T00:32:22+00:00",
+   "summary": "EDITORIAL: A financial loss of 35 rupees per litre due to the government’s decision to incorporate pre-Middle East conflict premiums and incidentals into Motor Spirit pricing and an additional 14 rupees per litre from their day recoveries to reduce the petroleum levy would place a burden of 49 rupees per litre on domes…",
+   "image": "https://i.brecorder.com/large/2026/04/17212449776e785.webp",
    "topics": [
     "Economy"
    ],
@@ -229,19 +372,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport",
-   "url": "https://www.brecorder.com/news/40447066/yemens-houthis-say-they-launched-drones-towards-saudi-arabias-dammam-airport",
-   "source": "Business Recorder",
-   "published": "2026-11-02T16:18:04+00:00",
-   "summary": "Yemen’s Houthis said on Monday they had launched drones towards Saudi Arabia’s Dammam airport as well as an early-warning radar in Jizan and a military transport aircraft at Jizan airport. There was no immediate Saudi confirmation. Houthis repeat threats against Saudi oil giant, aviation",
-   "image": "https://i.brecorder.com/large/2024/01/25192520a7f192b.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -472,45 +602,6 @@
    "published": "2026-11-02T03:16:05+00:00",
    "summary": "KSE-100 Index settles at 166,564 as falling global oil prices, diplomatic hopes offer some relief",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee surprise Friday recovery faces test from weak peers, fragile risk",
-   "url": "https://www.brecorder.com/news/40447003/indian-rupee-surprise-friday-recovery-faces-test-from-weak-peers-fragile-risk",
-   "source": "Business Recorder",
-   "published": "2026-11-02T03:02:48+00:00",
-   "summary": "MUMBAI: The Indian rupee’s surprise flow-driven recovery on Friday may prove harder to sustain, with weakness across Asian currencies and a deteriorating ​risk mood weighing on sentiment, while a dip in oil prices ‌ may offer relief. The Indian rupee is expected to open largely flat at 94.94-94.98 to the US dollar on M…",
-   "image": "https://i.brecorder.com/large/2026/11/0207594088f4d3d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of England poised to raise rates but may push back on bets for more",
-   "url": "https://www.brecorder.com/news/40447002/bank-of-england-poised-to-raise-rates-but-may-push-back-on-bets-for-more",
-   "source": "Business Recorder",
-   "published": "2026-11-02T02:58:58+00:00",
-   "summary": "MANCHESTER: The Bank of England is expected to bow to inflation pressure from soaring energy costs and raise interest rates ​on Thursday, though it may push back against investors’ bets that several more increases will follow next year. Economists polled by Reuters expect the ‌BoE to raise Bank Rate to 4.0% from 3.75%,…",
-   "image": "https://i.brecorder.com/large/2026/10/151151296026ec5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-   "url": "https://www.brecorder.com/news/40447001/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist",
-   "source": "Business Recorder",
-   "published": "2026-11-02T02:52:46+00:00",
-   "summary": "SINGAPORE: The dollar and other major currencies were ​in a holding pattern on Monday as investors turned their attention to this week’s US midterm elections, which could ‌shift the balance of power in Congress and control over the federal purse strings. In cryptocurrencies, bitcoin and ether were nursing losses follow…",
-   "image": "https://i.brecorder.com/large/2026/06/120725552818eb0.webp",
    "topics": [
     "Economy"
    ],
