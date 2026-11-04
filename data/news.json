@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T12:49:39+00:00",
+ "generated": "2026-11-04T20:19:18+00:00",
  "count": 35,
  "relevant_count": 9,
  "domestic_count": 8,
@@ -14,8 +14,8 @@
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-04T11:34:22+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.70, a gain of Re0.01 against the greenback. On Tuesday , the rupee had closed at 276.71 against the dollar. Globally, the US dollar fell against most major currencies on Wedn…",
+   "published": "2026-11-04T15:03:27+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.70, a gain of Re0.01 against the greenback. On Tuesday , the rupee had closed at 276.71 against the dollar. Globally, a sweeping victory by Democrats in the US midterm electi…",
    "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
    "topics": [
     "Economy"
@@ -118,9 +118,22 @@
    "title": "PSX: KSE-100 accumulates nearly 4,000 points as investors bet on US midterms, Iran talks",
    "url": "https://www.brecorder.com/news/40447354/psx-kse-100-accumulates-nearly-4000-points-as-investors-bet-on-us-midterms-iran-talks",
    "source": "Business Recorder",
-   "published": "2026-11-04T11:01:38+00:00",
+   "published": "2026-11-04T14:01:19+00:00",
    "summary": "The Pakistan Stock Exchange (PSX) witnessed a strong bullish session on Wednesday, with the benchmark KSE-100 Index gaining nearly 4,000 points amid institutional buying and improving sentiment over geopolitical developments following US midterm election results . The benchmark index opened on a positive note and maint…",
    "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's BSE posts higher second-quarter profit",
+   "url": "https://www.brecorder.com/news/40447399/indias-bse-posts-higher-second-quarter-profit",
+   "source": "Business Recorder",
+   "published": "2026-11-04T12:49:03+00:00",
+   "summary": "BENGALURU: India’s BSE Ltd reported a 45% rise in second-quarter profit on Wednesday, amid market share gains in the derivatives segment. The stock exchange operator posted a consolidated net profit of 8.09 billion rupees ($85.42 million) for the quarter ended September 30, a jump from 5.58 billion rupees a year earlie…",
+   "image": "https://i.brecorder.com/large/2026/11/03081912c212f5e.jpg",
    "topics": [
     "Economy"
    ],
@@ -356,19 +369,6 @@
    "published": "2026-11-03T14:38:28+00:00",
    "summary": "The National Stock Exchange of India posted a 23% jump in profit on Tuesday, helped by higher trading volumes, as the exchange operator reported its first quarterly results after its September stock market debut. The country’s largest stock exchange operator has faced pressure on transaction revenue as tighter rules an…",
    "image": "https://i.brecorder.com/large/2026/09/2118512597ca46c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gulf bourses mixed as fears over US strikes offset Iran-Saudi talks",
-   "url": "https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks",
-   "source": "Business Recorder",
-   "published": "2026-11-03T13:57:00+00:00",
-   "summary": "Gulf stock exchanges ended mixed on Tuesday as peace hopes over Tehran’s statement that talks with Saudi Arabia were continuing were offset by fears of escalation in the eight-month conflict after the US struck Iran’s Qeshm Island in the Strait of Hormuz. A US official said on Monday that the strikes, earlier reported …",
-   "image": "https://i.brecorder.com/large/2026/11/03185639ae9b7a3.webp",
    "topics": [
     "Economy"
    ],
