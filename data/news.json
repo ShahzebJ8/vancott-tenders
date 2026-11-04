@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-03T18:38:12+00:00",
+ "generated": "2026-11-03T23:55:38+00:00",
  "count": 39,
  "relevant_count": 4,
- "domestic_count": 8,
+ "domestic_count": 9,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (16)",
@@ -95,6 +95,19 @@
    "published": "2026-11-01T01:27:33+00:00",
    "summary": "KARACHI: The Pakistan Stock Exchange (PSX) ended October in negative territory amid persistent tensions in the Middle East and domestic political uncertainty following the imposition of emergency and governor’s rule in Khyber Pakhtunkhwa, further undermining investor confidence amid economic uncertainty. The benchmark …",
    "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Karachi Port receives second wheat shipment as imports exceed 110,000 tonnes",
+   "url": "https://arynews.tv/karachi-port-receives-second-wheat-shipment-as-imports-exceed-110000-tonnes",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Karachi Port receives second wheat shipment as imports exceed 110,000 tonnes",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Wheat-Ship.jpg",
    "topics": [
     "Economy"
    ],
@@ -499,19 +512,6 @@
    "published": null,
    "summary": "Food inflation can reach around 10% in Oct-Dec quarter in India",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/India-food.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close on positive note as KSE-100 index gains 155 Points",
-   "url": "https://arynews.tv/psx-stocks-close-on-positive-note-as-kse-100-index-gains-155-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close on positive note as KSE-100 index gains 155 Points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Stock.jpg",
    "topics": [
     "Economy"
    ],
