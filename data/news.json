@@ -1,15 +1,80 @@
 {
- "generated": "2026-11-03T23:55:38+00:00",
- "count": 39,
- "relevant_count": 4,
- "domestic_count": 9,
+ "generated": "2026-11-04T04:38:48+00:00",
+ "count": 45,
+ "relevant_count": 5,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (10)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "REAP steps up efforts to foster innovation",
+   "url": "https://www.brecorder.com/news/40447340/reap-steps-up-efforts-to-foster-innovation",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:44:28+00:00",
+   "summary": "KARACHI: The Rice Exporters Association of Pakistan (REAP) is stepping up efforts to foster innovation, streamline export bottlenecks, and enhance stakeholder collaboration, reinforcing its strategic roadmap for sustainable growth across the country’s rice sector. As part of these efforts, a delegation of the rice expo…",
+   "image": "https://i.brecorder.com/large/2026/07/23154640173c4e9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan’s first SPAC transaction: Ningbo Green Light Energy lists on PSX",
+   "url": "https://www.brecorder.com/news/40447334/pakistans-first-spac-transaction-ningbo-green-light-energy-lists-on-psx",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:33:05+00:00",
+   "summary": "KARACHI: Ningbo Green Light Energy Limited (NGLEL) has been listed on the Main Board of Pakistan Stock Exchange (PSX) following the successful completion of Pakistan’s first-ever Special Purpose Acquisition Company (SPAC) transaction. PSX marked the listing with a Gong Ceremony, describing the transaction as a mileston…",
+   "image": "https://i.brecorder.com/large/2024/04/6622f3c98f1e8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "OPF workers: NA body concerned at failure to implement minimum daily wage rates",
+   "url": "https://www.brecorder.com/news/40447333/opf-workers-na-body-concerned-at-failure-to-implement-minimum-daily-wage-rates",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:31:19+00:00",
+   "summary": "ISLAMABAD: The National Assembly Standing Committee on Overseas Pakistanis expressed serious concern over the continued failure to implement the minimum daily wage rates for workers of the Overseas Pakistanis Foundation (OPF), as approved by Parliament in the Federal Budget 2026-27. Committee Chairman Syed Rafiullah ex…",
+   "image": "https://i.brecorder.com/large/2026/08/260559468883c73.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Moot for benefits to communities hosting power projects",
+   "url": "https://www.brecorder.com/news/40447332/moot-for-benefits-to-communities-hosting-power-projects",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:29:14+00:00",
+   "summary": "KARACHI: Experts, lawmakers, researchers and representatives of affected communities at the Sindh Energy and Climate Conference (SECC26) on Tuesday called for sweeping reforms in the province’s energy sector, stressing that the transition to renewable energy must guarantee electricity access, protect local communities,…",
+   "image": "https://i.brecorder.com/large/2024/11/67269faeb792d.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Domestic cement despatches slightly up by 1.17pc during Oct-26",
+   "url": "https://www.brecorder.com/news/40447324/domestic-cement-despatches-slightly-up-by-117pc-during-oct-26",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:08:56+00:00",
+   "summary": "LAHORE: All Pakistan Cement Manufacturers Association has revealed that local cement despatches by the industry during the month of Oct-26 were 4.041 million tons compared to 3.994 million tons in Oct-25, showing an increase of 1.17pc. Export despatches, however, declined by 3.67pc to 768,754 tons compared to 798,019 t…",
+   "image": "https://i.brecorder.com/large/2026/10/1500554688f6c12.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40447210/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -128,14 +193,66 @@
    "domestic": true
   },
   {
-   "title": "Ningbo Green share price loses 34% in four days at PSX",
-   "url": "https://www.brecorder.com/news/40447235/ningbo-green-share-price-loses-34-in-four-days-at-psx",
+   "title": "India rupee's recovery may find fresh legs from equity flows, dollar weakness",
+   "url": "https://www.brecorder.com/news/40447349/india-rupees-recovery-may-find-fresh-legs-from-equity-flows-dollar-weakness",
    "source": "Business Recorder",
-   "published": "2026-11-03T18:16:23+00:00",
-   "summary": "Ningbo Green Light Energy Limited (NGLEL) share price has dropped more than 34% in just four trading sessions since its listing on the Pakistan Stock Exchange (PSX), losing nearly 10% a day to close at Rs13.82 per share on Tuesday. The company’s share price closed at Rs13.82 on Tuesday, down from its pre-listing price …",
-   "image": "https://i.brecorder.com/large/2024/04/6622f3c98f1e8.jpg",
+   "published": "2026-11-04T03:08:28+00:00",
+   "summary": "MUMBAI: The Indian rupee’s ongoing recovery will draw support on Wednesday from a revival in equity inflows and a dip in the dollar ​amid US election results indicating momentum for the Democratic Party. The Indian rupee was likely to open around 94.70, according to traders, after settling at 94.74 on Tuesday. The doll…",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
    "topics": [
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar dips with US midterm results in focus",
+   "url": "https://www.brecorder.com/news/40447348/dollar-dips-with-us-midterm-results-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-11-04T03:03:11+00:00",
+   "summary": "SHANGHAI/SINGAPORE: The dollar fell against most major currencies on Wednesday ahead of results from US midterm elections, with investors bracing for a potentially strong Democratic showing. The first results in the US midterm elections began ​trickling in, with Democratic Senator Jon Ossoff winning reelection in Georg…",
+   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks, dollar slide after some early wins for Democrats in US midterm election",
+   "url": "https://www.brecorder.com/news/40447347/stocks-dollar-slide-after-some-early-wins-for-democrats-in-us-midterm-election",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:59:08+00:00",
+   "summary": "SINGAPORE: US stock futures slumped, Treasuries rallied and the dollar softened on Wednesday as Democrats notched early Senate wins, fuelling bets they could wrest control of the chamber from President Donald Trump’s ​Republicans, though the final outcome remained uncertain. In North Carolina, former Governor Roy Coope…",
+   "image": "https://i.brecorder.com/large/2026/11/020742152fdf773.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold firms on softer oil prices, US midterm results awaited",
+   "url": "https://www.brecorder.com/news/40447346/gold-firms-on-softer-oil-prices-us-midterm-results-awaited",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:56:10+00:00",
+   "summary": "Gold prices edged higher in early Asian trade on Wednesday as softer oil prices eased inflation concerns, while investors awaited US midterm election results and key ​labour market data for policy cues. Fundamentals Spot gold was up 0.2% at $3,934.75 ‌per ounce by 0024 GMT, while US gold futures for December delivery r…",
+   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Glass bangles industry decries gas load shedding",
+   "url": "https://www.brecorder.com/news/40447328/glass-bangles-industry-decries-gas-load-shedding",
+   "source": "Business Recorder",
+   "published": "2026-11-04T02:20:31+00:00",
+   "summary": "HYDERABAD: A delegation of the Hyderabad Glass Bangle Manufacturers Association, led by its President Haji Saleem Khan, visited the Secretariat of the Hyderabad Chamber of Small Traders & Small Industry (HCSTSI). The delegation also included General Secretary Sohail Babar Qureshi and other representatives. During the m…",
+   "image": "https://i.brecorder.com/large/2026/11/040720209d7ef71.jpg",
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -160,19 +277,6 @@
    "published": "2026-11-03T13:57:00+00:00",
    "summary": "Gulf stock exchanges ended mixed on Tuesday as peace hopes over Tehran’s statement that talks with Saudi Arabia were continuing were offset by fears of escalation in the eight-month conflict after the US struck Iran’s Qeshm Island in the Strait of Hormuz. A US official said on Monday that the strikes, earlier reported …",
    "image": "https://i.brecorder.com/large/2026/11/03185639ae9b7a3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: KSE-100 settles above 168,000 amid optimism over US-Iran talks",
-   "url": "https://www.brecorder.com/news/40447178/psx-kse-100-settles-above-168000-amid-optimism-over-us-iran-talks",
-   "source": "Business Recorder",
-   "published": "2026-11-03T13:33:50+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a bullish session on Tuesday amid expectations of a positive outcome from talks between the US and Iran, with the benchmark KSE-100 Index closing the day above the 168,000. The market opened on a positive note, with buying activity pushing the index higher during the morning …",
-   "image": "https://i.brecorder.com/large/2026/11/031059511eba333.jpg",
    "topics": [
     "Economy"
    ],
@@ -317,32 +421,6 @@
    "published": "2026-11-03T06:04:03+00:00",
    "summary": "SINGAPORE: Copper fell on Tuesday as risk-off sentiment swept through industrial metals markets ahead of the US midterm elections, while a weaker yuan added pressure by making dollar-priced commodities more expensive for buyers in top consumer China. Benchmark three-month copper on the London Metal Exchange was down 1.…",
    "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar slips as RBA hikes rates in a split decision",
-   "url": "https://www.brecorder.com/news/40447182/australian-dollar-slips-as-rba-hikes-rates-in-a-split-decision",
-   "source": "Business Recorder",
-   "published": "2026-11-03T05:58:38+00:00",
-   "summary": "SYDNEY: The Australian dollar slipped on Tuesday after the country’s central bank lifted interest rates for a fifth time this year, but in a narrower call than many expected with three of the nine board members against a hike. The Aussie eased 0.2% to $0.6986, having slipped 0.5% overnight. The failure to hold above th…",
-   "image": "https://i.brecorder.com/large/2026/04/24110805ed1edfc.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Aramco posts 34.5% rise in third-quarter profit despite attacks",
-   "url": "https://www.brecorder.com/news/40447181/aramco-posts-345-rise-in-third-quarter-profit-despite-attacks",
-   "source": "Business Recorder",
-   "published": "2026-11-03T05:50:27+00:00",
-   "summary": "DUBAI: Saudi Arabia’s state-owned oil company Aramco reported on Tuesday a 34.5% increase in net profit in the third quarter despite attacks targeting it, mainly due to higher revenue and its exit from a joint venture. The world’s top oil exporter reported a net profit of $36.25 billion in the three months ended Septem…",
-   "image": "https://i.brecorder.com/large/2026/10/26105810d034b8a.webp",
    "topics": [
     "Economy"
    ],
