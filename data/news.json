@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-04T04:38:48+00:00",
- "count": 45,
- "relevant_count": 5,
- "domestic_count": 14,
+ "generated": "2026-11-04T12:49:39+00:00",
+ "count": 35,
+ "relevant_count": 9,
+ "domestic_count": 8,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (5)"
+  "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "REAP steps up efforts to foster innovation",
-   "url": "https://www.brecorder.com/news/40447340/reap-steps-up-efforts-to-foster-innovation",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-04T02:44:28+00:00",
-   "summary": "KARACHI: The Rice Exporters Association of Pakistan (REAP) is stepping up efforts to foster innovation, streamline export bottlenecks, and enhance stakeholder collaboration, reinforcing its strategic roadmap for sustainable growth across the country’s rice sector. As part of these efforts, a delegation of the rice expo…",
-   "image": "https://i.brecorder.com/large/2026/07/23154640173c4e9.webp",
+   "published": "2026-11-04T11:34:22+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.70, a gain of Re0.01 against the greenback. On Tuesday , the rupee had closed at 276.71 against the dollar. Globally, the US dollar fell against most major currencies on Wedn…",
+   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
    "topics": [
     "Economy"
    ],
@@ -24,25 +24,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s first SPAC transaction: Ningbo Green Light Energy lists on PSX",
-   "url": "https://www.brecorder.com/news/40447334/pakistans-first-spac-transaction-ningbo-green-light-energy-lists-on-psx",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:33:05+00:00",
-   "summary": "KARACHI: Ningbo Green Light Energy Limited (NGLEL) has been listed on the Main Board of Pakistan Stock Exchange (PSX) following the successful completion of Pakistan’s first-ever Special Purpose Acquisition Company (SPAC) transaction. PSX marked the listing with a Gong Ceremony, describing the transaction as a mileston…",
-   "image": "https://i.brecorder.com/large/2024/04/6622f3c98f1e8.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "OPF workers: NA body concerned at failure to implement minimum daily wage rates",
-   "url": "https://www.brecorder.com/news/40447333/opf-workers-na-body-concerned-at-failure-to-implement-minimum-daily-wage-rates",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:31:19+00:00",
-   "summary": "ISLAMABAD: The National Assembly Standing Committee on Overseas Pakistanis expressed serious concern over the continued failure to implement the minimum daily wage rates for workers of the Overseas Pakistanis Foundation (OPF), as approved by Parliament in the Federal Budget 2026-27. Committee Chairman Syed Rafiullah ex…",
-   "image": "https://i.brecorder.com/large/2026/08/260559468883c73.webp",
+   "title": "Panel questions traders’ low tax registration",
+   "url": "https://www.dawn.com/news/2041935/panel-questions-traders-low-tax-registration",
+   "source": "Dawn",
+   "published": "2026-11-04T02:00:35+00:00",
+   "summary": "ISLAMABAD: A parliamentary committee on Tuesday questioned the limited success of the traders’ tax registration scheme, reminding State Minister Bilal Azhar Kayani of his repeated pledges to bring unregistered traders into the tax net. The government launched the Tajir Dost Scheme (TDS) with high expectations, projecti…",
+   "image": "https://i.dawn.com/large/2026/05/23083548be9f9fa.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -50,38 +37,12 @@
    "domestic": true
   },
   {
-   "title": "Moot for benefits to communities hosting power projects",
-   "url": "https://www.brecorder.com/news/40447332/moot-for-benefits-to-communities-hosting-power-projects",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:29:14+00:00",
-   "summary": "KARACHI: Experts, lawmakers, researchers and representatives of affected communities at the Sindh Energy and Climate Conference (SECC26) on Tuesday called for sweeping reforms in the province’s energy sector, stressing that the transition to renewable energy must guarantee electricity access, protect local communities,…",
-   "image": "https://i.brecorder.com/large/2024/11/67269faeb792d.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Domestic cement despatches slightly up by 1.17pc during Oct-26",
-   "url": "https://www.brecorder.com/news/40447324/domestic-cement-despatches-slightly-up-by-117pc-during-oct-26",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:08:56+00:00",
-   "summary": "LAHORE: All Pakistan Cement Manufacturers Association has revealed that local cement despatches by the industry during the month of Oct-26 were 4.041 million tons compared to 3.994 million tons in Oct-25, showing an increase of 1.17pc. Export despatches, however, declined by 3.67pc to 768,754 tons compared to 798,019 t…",
-   "image": "https://i.brecorder.com/large/2026/10/1500554688f6c12.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40447210/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-03T13:55:30+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Tuesday. The local unit closed the day at 276.71, a gain of Re0.01 against the greenback. On Monday , the rupee had closed at 276.72 against the dollar. Globally, the US dollar wavered alongside oil prices ​on Tuesday on h…",
-   "image": "https://i.brecorder.com/large/2026/11/03081358853291b.jpg",
+   "title": "Climate finance must protect vulnerable communities: SBP",
+   "url": "https://www.dawn.com/news/2041933/climate-finance-must-protect-vulnerable-communities-sbp",
+   "source": "Dawn",
+   "published": "2026-11-04T02:00:35+00:00",
+   "summary": "KARACHI: Climate change and financial exclusion are deeply interconnected, with the most vulnerable communities often having the least access to financial protection, State Bank of Pakistan (SBP) Governor Jameel Ahmad said on Tuesday. Addressing the inaugural session of a four-day joint learning programme organised by …",
+   "image": "https://i.dawn.com/large/2026/01/24094259d98d30e.webp",
    "topics": [
     "Economy"
    ],
@@ -154,43 +115,148 @@
    "domestic": true
   },
   {
-   "title": "PSX sheds 3,560 points amid panic selling in jittery October",
-   "url": "https://www.dawn.com/news/2041330/psx-sheds-3560-points-amid-panic-selling-in-jittery-october",
-   "source": "Dawn",
-   "published": "2026-11-01T01:27:33+00:00",
-   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) ended October in negative territory amid persistent tensions in the Middle East and domestic political uncertainty following the imposition of emergency and governor’s rule in Khyber Pakhtunkhwa, further undermining investor confidence amid economic uncertainty. The benchmark …",
-   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
+   "title": "PSX: KSE-100 accumulates nearly 4,000 points as investors bet on US midterms, Iran talks",
+   "url": "https://www.brecorder.com/news/40447354/psx-kse-100-accumulates-nearly-4000-points-as-investors-bet-on-us-midterms-iran-talks",
+   "source": "Business Recorder",
+   "published": "2026-11-04T11:01:38+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a strong bullish session on Wednesday, with the benchmark KSE-100 Index gaining nearly 4,000 points amid institutional buying and improving sentiment over geopolitical developments following US midterm election results . The benchmark index opened on a positive note and maint…",
+   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Karachi Port receives second wheat shipment as imports exceed 110,000 tonnes",
-   "url": "https://arynews.tv/karachi-port-receives-second-wheat-shipment-as-imports-exceed-110000-tonnes",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Karachi Port receives second wheat shipment as imports exceed 110,000 tonnes",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Wheat-Ship.jpg",
+   "title": "Indian rupee ends a tad higher as dollar slips after US midterms",
+   "url": "https://www.brecorder.com/news/40447385/indian-rupee-ends-a-tad-higher-as-dollar-slips-after-us-midterms",
+   "source": "Business Recorder",
+   "published": "2026-11-04T10:12:01+00:00",
+   "summary": "MUMBAI: The Indian rupee ended modestly higher on Wednesday, aided by a weaker dollar and lower oil prices as investors assessed the impact of US midterm election results, while a Reuters poll showed expectations for depreciation of South Asian unit remained intact. The Indian rupee closed at 94.64 per dollar, up sligh…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Pakistani Rupee steady near 277.5 against US Dollar as Hormuz talks swing oil",
-   "url": "https://arynews.tv/pakistani-rupee-steady-near-277-5-against-us-dollar-as-hormuz-talks-swing-oil",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistani Rupee steady near 277.5 against US Dollar as Hormuz talks swing oil",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/dollar-pkr.jpg",
+   "title": "Mughal Energy approves installation of 25MW solar power plant",
+   "url": "https://www.brecorder.com/news/40447383/mughal-energy-approves-installation-of-25mw-solar-power-plant",
+   "source": "Business Recorder",
+   "published": "2026-11-04T09:40:00+00:00",
+   "summary": "Mughal Energy Limited, a subsidiary of Mughal Iron & Steel Industries Limited, has approved the installation of a 25-megawatt (MW) solar power plant to offset auxiliary power consumption at its existing power generation facility. The company’s board of directors approved the project at a meeting held on Wednesday, acco…",
+   "image": "https://i.brecorder.com/large/2024/02/2020170235e6f53.jpg",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX to remain closed on November 9",
+   "url": "https://www.brecorder.com/news/40447380/psx-to-remain-closed-on-november-9",
+   "source": "Business Recorder",
+   "published": "2026-11-04T08:31:01+00:00",
+   "summary": "The Pakistan Stock Exchange Limited (PSX) will remain closed on Monday, November 9, 2026, on account of Allama Iqbal Day. “All TRE Certificate Holders, staff and concerned are hereby informed that Pakistan Stock Exchange Limited will remain closed on Monday, November 9, 2026, being a national holiday on account of Alla…",
+   "image": "https://i.brecorder.com/large/2025/05/191533166522b14.jpg",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "BMW reports lower Q3 earnings as restructuring spells more pain towards end of year",
+   "url": "https://www.brecorder.com/news/40447370/bmw-reports-lower-q3-earnings-as-restructuring-spells-more-pain-towards-end-of-year",
+   "source": "Business Recorder",
+   "published": "2026-11-04T06:59:11+00:00",
+   "summary": "BERLIN: BMW’s pre-tax earnings fell in line with expectations in the third quarter ​with hefty restructuring charges looming towards the ‌end of the year, forcing another cut to its outlook as it grapples with the weak China ​market. The German car maker reported quarterly ​pre-tax earnings of €2.1 billion ($2.36 billi…",
+   "image": "https://i.brecorder.com/large/2026/07/30105531e0db8e0.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Vietnam raises $419.7 million in government bond auction",
+   "url": "https://www.brecorder.com/news/40447368/vietnam-raises-4197-million-in-government-bond-auction",
+   "source": "Business Recorder",
+   "published": "2026-11-04T06:43:52+00:00",
+   "summary": "HANOI: Vietnam’s State Treasury raised 10.8 trillion dong ($419.7 million) in its weekly government bond auction on Wednesday, down from the revised $874 million raised last week. The uptake was slightly lower, with 86% of the bonds on offer sold, compared with 87% last week, according to a Hanoi Stock Exchange filing.",
+   "image": "https://i.brecorder.com/large/2026/09/23112037274869f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Kiwi in brief skid after weak jobs data, Aussie pressured by dovish RBA turn",
+   "url": "https://www.brecorder.com/news/40447365/kiwi-in-brief-skid-after-weak-jobs-data-aussie-pressured-by-dovish-rba-turn",
+   "source": "Business Recorder",
+   "published": "2026-11-04T06:26:13+00:00",
+   "summary": "SYDNEY: The New Zealand dollar hit a three-week low on Wednesday as weak jobs data dented market wagers on a rate rise next month, while the Aussie nursed losses after a dovish turn by its central bank boosted bets that interest rates had peaked. All eyes are on the outcome of the US midterm elections. Most polls and n…",
+   "image": "https://i.brecorder.com/large/2026/07/231115114796996.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Japan's Nikkei drops 3% as Democratic gains in US midterms hit AI stocks",
+   "url": "https://www.brecorder.com/news/40447363/japans-nikkei-drops-3-as-democratic-gains-in-us-midterms-hit-ai-stocks",
+   "source": "Business Recorder",
+   "published": "2026-11-04T06:22:03+00:00",
+   "summary": "TOKYO: Japan’s Nikkei average slumped on Wednesday as AI-related stocks slid on concerns that Democratic gains in the US midterm elections could lead to stricter rules for dead-centre projects and slower AI infrastructure spending. The Nikkei was down 3.1% at 61,127.9, as of 0150 GMT, while the broader Topix fell 1.85%…",
+   "image": "https://i.brecorder.com/large/2026/08/28115418d251c34.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike",
+   "url": "https://www.brecorder.com/news/40447362/chinas-yuan-hits-2-week-low-as-investors-weigh-pboc-foreign-exchange-reserve-hike",
+   "source": "Business Recorder",
+   "published": "2026-11-04T06:20:45+00:00",
+   "summary": "SHANGHAI: China’s yuan slid to a more than two-week low against the dollar on Wednesday , pressured by weaker official guidance, while investors continued digesting the central bank’s decision a day earlier to raise foreign currency reserve requirements. The onshore yuan eased to a low of 6.6832 per dollar in morning d…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US bonds rally as Democrat sweep seen stalling spending",
+   "url": "https://www.brecorder.com/news/40447360/us-bonds-rally-as-democrat-sweep-seen-stalling-spending",
+   "source": "Business Recorder",
+   "published": "2026-11-04T06:01:56+00:00",
+   "summary": "SINGAPORE: Treasuries rallied on Wednesday as projections the Democrats would take control of Congress had investors expecting gridlock in Washington to cut government spending, while AI regulation could slow growth and reduce the need for rate hikes. Relief that President Donald Trump’s promise to hand out $5,000 to U…",
+   "image": "https://i.brecorder.com/large/2026/09/1420093819a763c.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian shares close at lowest in over a week; miners, banks weigh",
+   "url": "https://www.brecorder.com/news/40447355/australian-shares-close-at-lowest-in-over-a-week-miners-banks-weigh",
+   "source": "Business Recorder",
+   "published": "2026-11-04T05:48:46+00:00",
+   "summary": "Australian shares closed lower on Wednesday , with miners and banks weighing the most as investors assessed the impact of high interest rates on the economy after signals that the central bank’s tightening cycle may have run its course. The S&P/ASX 200 index finished down 0.6% at 8,834.50, its lowest close since Octobe…",
+   "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "India rupee's recovery may find fresh legs from equity flows, dollar weakness",
@@ -245,14 +311,40 @@
    "domestic": false
   },
   {
-   "title": "Glass bangles industry decries gas load shedding",
-   "url": "https://www.brecorder.com/news/40447328/glass-bangles-industry-decries-gas-load-shedding",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:20:31+00:00",
-   "summary": "HYDERABAD: A delegation of the Hyderabad Glass Bangle Manufacturers Association, led by its President Haji Saleem Khan, visited the Secretariat of the Hyderabad Chamber of Small Traders & Small Industry (HCSTSI). The delegation also included General Secretary Sohail Babar Qureshi and other representatives. During the m…",
-   "image": "https://i.brecorder.com/large/2026/11/040720209d7ef71.jpg",
+   "title": "Committee warns GSP+ access at risk",
+   "url": "https://tribune.com.pk/story/2638497/committee-warns-gsp-access-at-risk",
+   "source": "The Express Tribune",
+   "published": "2026-11-03T16:08:51+00:00",
+   "summary": "Fixed tax scheme fails as only 222 of a hoped-for 1 million traders joined",
+   "image": null,
    "topics": [
-    "Energy & power"
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gold holds steady at Rs412,136 per tola",
+   "url": "https://tribune.com.pk/story/2638492/gold-holds-steady-at-rs412136-per-tola",
+   "source": "The Express Tribune",
+   "published": "2026-11-03T16:08:51+00:00",
+   "summary": "Global bullion weakens amid dollar, yield pressures; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "'Climate finance must go beyond green investment'",
+   "url": "https://tribune.com.pk/story/2638498/climate-finance-must-go-beyond-green-investment",
+   "source": "The Express Tribune",
+   "published": "2026-11-03T16:08:51+00:00",
+   "summary": "SBP chief says funding must help communities anticipate risks, build resilience",
+   "image": null,
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -284,155 +376,11 @@
    "domestic": false
   },
   {
-   "title": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar",
-   "url": "https://www.brecorder.com/news/40447214/indias-top-gas-importer-sets-eyes-on-us-lng-under-long-term-deal-with-qatar",
-   "source": "Business Recorder",
-   "published": "2026-11-03T12:28:40+00:00",
-   "summary": "NEW DELHI: Qatar is willing to consider India’s request to include US-sourced LNG under its renewed supply deal, helping New Delhi diversify its imports following disruptions caused by the Iran war, a senior Petronet LNG executive said on Tuesday. India’s top gas importer Petronet LNG Ltd is in talks with Qatar to sour…",
-   "image": "https://i.brecorder.com/large/2026/11/03172801d45b25b.jpg",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee nudges higher, forward premiums dip with focus on US midterm, oil moves",
-   "url": "https://www.brecorder.com/news/40447212/indian-rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves",
-   "source": "Business Recorder",
-   "published": "2026-11-03T12:19:32+00:00",
-   "summary": "MUMBAI: The Indian rupee strengthened modestly on Tuesday and dollar-rupee forward premiums retreated in range-bound trading as investors awaited the outcome of US midterm elections and developments surrounding the Iran war. The Indian rupee closed at 94.74 per dollar, up from its close at 94.90 in the previous session…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan Stock Exchange investor base jumps 56%, nears 700,000 in October",
-   "url": "https://www.brecorder.com/news/40447209/pakistan-stock-exchange-investor-base-jumps-56-nears-700000-in-october",
-   "source": "Business Recorder",
-   "published": "2026-11-03T10:33:17+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) investor base hit a record 681,965, a jump of 56% year-on-year, reflecting a sharp increase in retail participation and growing confidence in the country’s capital markets. According to data shared by the Finance Ministry on Tuesday, the total number of investors reached 681,965 in Oct…",
-   "image": "https://i.brecorder.com/large/2022/12/071937378b18dce.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "LPG soars in Pakistan, forcing rickshaw drivers to cut meals",
    "url": "https://tribune.com.pk/story/2638463/lpg-soars-in-pakistan-forcing-rickshaw-drivers-to-cut-meals",
    "source": "The Express Tribune",
    "published": "2026-11-03T08:57:26+00:00",
    "summary": "Prices have surged since October 17, when two Iranian border crossings closed, halting ​imports, according to traders",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand steady as investors weigh AGOA decision, await key election results",
-   "url": "https://www.brecorder.com/news/40447196/south-african-rand-steady-as-investors-weigh-agoa-decision-await-key-election-results",
-   "source": "Business Recorder",
-   "published": "2026-11-03T07:08:29+00:00",
-   "summary": "JOHANNESBURG: The South African rand was little changed in early trade on Tuesday as investors weighed ​Washington’s plan to suspend the country from a ‌key trade programme and braced for US midterm and local elections. At 0630 GMT the rand traded at 16.62 against the ​dollar , little changed from its previous close. U…",
-   "image": "https://i.brecorder.com/large/2026/10/261200232edd6aa.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Chicago wheat falls on Russia-Ukraine peace talk hopes",
-   "url": "https://www.brecorder.com/news/40447194/chicago-wheat-falls-on-russia-ukraine-peace-talk-hopes",
-   "source": "Business Recorder",
-   "published": "2026-11-03T07:02:24+00:00",
-   "summary": "JAKARTA: Chicago wheat fell on Tuesday amid expectations of peace talks between Russia and Ukraine, which could ease exports flow for Black Sea grains. The most-traded wheat contract on the Chicago Board of Trade (CBOT) was down 0.21% at $6.05-1/4 a bushel at 0234 GMT. “With pent-up supplies of Russian and Ukrainian gr…",
-   "image": "https://i.brecorder.com/large/2023/12/658b4b004fa38.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan set for biggest daily drop in 6 months after PBOC raises FX RRR",
-   "url": "https://www.brecorder.com/news/40447192/yuan-set-for-biggest-daily-drop-in-6-months-after-pboc-raises-fx-rrr",
-   "source": "Business Recorder",
-   "published": "2026-11-03T06:53:50+00:00",
-   "summary": "SHANGHAI: China’s yuan weakened and looked set for the biggest one-day drop against the dollar in six months on Tuesday, after the central bank said it would raise the amount of foreign currency that financial institutions must set aside as reserves. In a statement on Tuesday, the People’s Bank of China (PBOC) said it …",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australia shares change gears to inch higher after RBA hikes rates as expected",
-   "url": "https://www.brecorder.com/news/40447191/australia-shares-change-gears-to-inch-higher-after-rba-hikes-rates-as-expected",
-   "source": "Business Recorder",
-   "published": "2026-11-03T06:51:49+00:00",
-   "summary": "Australian shares reversed course to tick higher on Tuesday after the central bank raised interest rates as expected and flagged that rate hikes since the start of the year have tightened financial conditions. The S&P/ASX 200 index was up 0.2% at 8,872.30 by 0345 GMT. The benchmark had fallen 0.1% before the rate decis…",
-   "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar steady on Tuesday",
-   "url": "https://www.brecorder.com/news/40447186/thai-bahtus-dollar-steady-on-tuesday",
-   "source": "Business Recorder",
-   "published": "2026-11-03T06:11:41+00:00",
-   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Tuesday . At 0225 GMT, the baht was 0.01% higher at 33.70 versus the dollar, after trading in a range of 33.705 to 33.790. It ended the previous session at 33.7025 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold eases ahead of US midterm elections",
-   "url": "https://www.brecorder.com/news/40447185/gold-eases-ahead-of-us-midterm-elections",
-   "source": "Business Recorder",
-   "published": "2026-11-03T06:08:14+00:00",
-   "summary": "Gold prices ticked lower on Tuesday , after surging more than 2% in the previous session on a drop in oil prices that eased inflation concerns, while investors awaited the outcome of US midterm elections later in the day. Spot gold fell 0.5% to $3,926.52 per ounce by 0353 GMT. Prices climbed over 2% to $3,954.41 per ou…",
-   "image": "https://i.brecorder.com/large/2026/10/140823333073fb7.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper stumbles as risk-off sentiment ahead of US elections weighs",
-   "url": "https://www.brecorder.com/news/40447184/copper-stumbles-as-risk-off-sentiment-ahead-of-us-elections-weighs",
-   "source": "Business Recorder",
-   "published": "2026-11-03T06:04:03+00:00",
-   "summary": "SINGAPORE: Copper fell on Tuesday as risk-off sentiment swept through industrial metals markets ahead of the US midterm elections, while a weaker yuan added pressure by making dollar-priced commodities more expensive for buyers in top consumer China. Benchmark three-month copper on the London Metal Exchange was down 1.…",
-   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Core inflation falls to 7.5% in Oct",
-   "url": "https://tribune.com.pk/story/2638308/core-inflation-falls-to-75-in-oct",
-   "source": "The Express Tribune",
-   "published": "2026-11-02T17:05:08+00:00",
-   "summary": "Slows despite SBP's rate hike rationale; widening gap benefits banks",
    "image": null,
    "topics": [
     "Economy"
@@ -493,45 +441,6 @@
    "domestic": false
   },
   {
-   "title": "Consumer goods companies in Pakistan report improved sales amid rising inflation",
-   "url": "https://www.dawn.com/news/2041360/consumer-goods-companies-in-pakistan-report-improved-sales-amid-rising-inflation",
-   "source": "Dawn",
-   "published": "2026-11-01T05:32:28+00:00",
-   "summary": "https://www.dawn.com/news/2041336/consumer-firms-defy-economic-headwinds",
-   "image": "https://i.dawn.com/large/2026/11/01085350aaeb56e.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX sheds 3,560 points in October",
-   "url": "https://tribune.com.pk/story/2637987/psx-sheds-3560-points-in-october",
-   "source": "The Express Tribune",
-   "published": "2026-10-31T16:10:25+00:00",
-   "summary": "Geopolitical uncertainty, foreign portfolio outflows drag KSE-100 down",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka trade gap at $450m to $90m",
-   "url": "https://tribune.com.pk/story/2637473/sri-lanka-trade-gap-at-450m-to-90m",
-   "source": "The Express Tribune",
-   "published": "2026-10-28T16:52:33+00:00",
-   "summary": "Pakistan exports cement and heavy materials",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -555,45 +464,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "US Dollar closes at Rs276.71 as PKR holds steady amid Middle East tensions",
-   "url": "https://arynews.tv/us-dollar-closes-at-rs276-71-as-pkr-holds-steady-amid-middle-east-tensions",
-   "source": "ARY News",
-   "published": null,
-   "summary": "US Dollar closes at Rs276.71 as PKR holds steady amid Middle East tensions",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Dollar.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s footwear exports increase 14.59% to $52.226m",
-   "url": "https://arynews.tv/pakistans-footwear-exports-increase-14-59-to-52-226m",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan’s footwear exports increase 14.59% to $52.226m",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Export-containers.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Food inflation can reach around 10% in Oct-Dec quarter in India",
-   "url": "https://arynews.tv/food-inflation-can-reach-around-10-in-oct-dec-quarter-in-india",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Food inflation can reach around 10% in Oct-Dec quarter in India",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/India-food.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]
