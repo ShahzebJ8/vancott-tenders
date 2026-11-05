@@ -1,27 +1,39 @@
 {
- "generated": "2026-11-05T07:51:25+00:00",
- "count": 29,
- "relevant_count": 8,
- "domestic_count": 8,
+ "generated": "2026-11-05T16:05:46+00:00",
+ "count": 35,
+ "relevant_count": 9,
+ "domestic_count": 9,
  "sources": {
-  "Dawn": "ok (9)",
-  "Business Recorder": "ok (11)",
-  "The Express Tribune": "ok (8)",
+  "Dawn": "ok (10)",
+  "Business Recorder": "ok (10)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Pakistani cement maker to enter mass-market EV segment through Chinese imports",
-   "url": "https://www.brecorder.com/news/40447530/pakistani-cement-maker-to-enter-mass-market-ev-segment-through-chinese-imports",
+   "title": "SBP-held foreign exchange reserves rise $39mn to $21.56bn",
+   "url": "https://www.brecorder.com/news/40447598/sbp-held-foreign-exchange-reserves-rise-39mn-to-2156bn",
    "source": "Business Recorder",
-   "published": "2026-11-05T04:46:47+00:00",
-   "summary": "Thatta Cement, a Pakistani cement maker, plans to enter the country’s electric vehicle (EV) market through a wholly owned subsidiary, initially importing completely built-up (CBU) electric vehicles from China. Thatta Cement, involved in the manufacturing and marketing of cement and also owns Thatta Power (Private) Limi…",
-   "image": "https://i.brecorder.com/large/2026/11/05094303172e356.webp",
+   "published": "2026-11-05T15:56:10+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $39 million to $21.56 billion during the week ended October 30, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.86 billion as of October 30, 2026. According to the SBP’s latest data, net for…",
+   "image": "https://i.brecorder.com/large/2026/11/05205432b2a83aa.jpg",
    "topics": [
-    "Budget & spending",
     "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40447576/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-05T14:46:59+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Thursday. The local unit closed the day at 276.67, a gain of Re0.03 against the greenback. On Wednesday , the rupee had closed at 276.70 against the dollar. Internationally, the US dollar edged lower on…",
+   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -116,6 +128,136 @@
    "domestic": true
   },
   {
+   "title": "PM Shehbaz orders removal of 80% export condition for SMEs seeking long-term financing",
+   "url": "https://www.brecorder.com/news/40447596/pm-shehbaz-orders-removal-of-80-export-condition-for-smes-seeking-long-term-financing",
+   "source": "Business Recorder",
+   "published": "2026-11-05T15:21:23+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Thursday directed authorities to remove the requirement for small and medium enterprises (SMEs) to generate 80% of their revenue from exports to qualify for long-term financing, aiming to improve access to credit and support export growth. Chairing a high-level meeting on facilitating e…",
+   "image": "https://i.brecorder.com/large/2026/11/0520195693bf076.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bank of England lifts rate for first time since 2023 to fight inflation",
+   "url": "https://www.dawn.com/news/2042350/bank-of-england-lifts-rate-for-first-time-since-2023-to-fight-inflation",
+   "source": "Dawn",
+   "published": "2026-11-05T13:06:10+00:00",
+   "summary": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation. The central bank tightened borrowing costs by a quarter point, catching up with the US Federal Reserve and the European Central Bank i…",
+   "image": "https://i.dawn.com/large/2023/03/24101839908b225.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Armani heirs favour IPO over sale to industry player, sources say",
+   "url": "https://www.brecorder.com/news/40447590/armani-heirs-favour-ipo-over-sale-to-industry-player-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-11-05T12:39:13+00:00",
+   "summary": "MILAN: The heirs of late designer Giorgio Armani, who now control the eponymous fashion empire, favour an eventual stock market listing over a sale to a large industry player as they pursue an initial minority stake deal, two people familiar with the matter told Reuters . Armani, who died at 91 last year, stipulated in…",
+   "image": "https://i.brecorder.com/large/2026/11/05173834b30275d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asia rice: Vietnam, Thai rice prices hit near two-year highs as India slips",
+   "url": "https://www.brecorder.com/news/40447585/asia-rice-vietnam-thai-rice-prices-hit-near-two-year-highs-as-india-slips",
+   "source": "Business Recorder",
+   "published": "2026-11-05T12:17:16+00:00",
+   "summary": "Rice export prices in Vietnam and Thailand climbed to their highest levels in nearly two years this week on concerns over supply disruptions and strong demand, while Indian prices eased as new-season arrivals improved supply. Vietnam’s 5% broken rice was offered at $480 to $490 per metric ton, up from $470 to $480 a we…",
+   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM directs cancellation of petrol pump licences over failure to facilitate fuel subsidy beneficiaries",
+   "url": "https://www.dawn.com/news/2042330/pm-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
+   "source": "Dawn",
+   "published": "2026-11-05T11:27:19+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Thursday directed the authorities concerned to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the Prime Minister’s Fuel Relief Programme . Chairing a meeting to review progress on the programme, the prime minister expressed satisfaction over i…",
+   "image": "https://i.dawn.com/large/2026/11/05150508673282a.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PM orders cancellation of licences of petrol pumps denying fuel subsidy",
+   "url": "https://www.brecorder.com/news/40447582/pm-orders-cancellation-of-licences-of-petrol-pumps-denying-fuel-subsidy",
+   "source": "Business Recorder",
+   "published": "2026-11-05T11:26:30+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Thursday directed authorities to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the Prime Minister’s Fuel Relief Programme. Chairing a meeting to review progress on the programme, the prime minister expressed satisfaction over its implementati…",
+   "image": "https://i.brecorder.com/large/2026/11/0516235172bed1c.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee finds its footing as oil worries cool, traders watch flow momentum",
+   "url": "https://www.brecorder.com/news/40447580/indian-rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum",
+   "source": "Business Recorder",
+   "published": "2026-11-05T11:11:38+00:00",
+   "summary": "MUMBAI: The Indian rupee ended at its strongest level in two weeks on Thursday as oil prices eased below $100 per barrel on hopes that the risk of escalation in the Iran war has diminished after Republicans lost control of the US Congress. Easing oil prices lifted Indian stocks to their best day in 7 months while bond …",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Saudi Arabia issues warning of potential danger in Yanbu oil hub",
+   "url": "https://www.brecorder.com/news/40447572/saudi-arabia-issues-warning-of-potential-danger-in-yanbu-oil-hub",
+   "source": "Business Recorder",
+   "published": "2026-11-05T09:45:36+00:00",
+   "summary": "Saudi Arabia’s civil defence issued an alert on Thursday warning of potential danger in Yanbu Governorate. Yanbu, on Saudi Arabia’s Red Sea coast, is a major oil export hub and a key outlet for crude shipments transported through the kingdom’s East-West pipeline.",
+   "image": "https://i.brecorder.com/large/2026/10/06023025f4d50fd.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bank of England raises rates for first time since 2023, says more may come",
+   "url": "https://tribune.com.pk/story/2638826/bank-of-england-raises-rates-for-first-time-since-2023-says-more-may-come",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T08:39:31+00:00",
+   "summary": "BoE says British inflation likely to reach around 5% in the middle of next year",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Emirates Group says first-half profit drops 66%",
+   "url": "https://www.brecorder.com/news/40447561/emirates-group-says-first-half-profit-drops-66",
+   "source": "Business Recorder",
+   "published": "2026-11-05T08:09:51+00:00",
+   "summary": "DUBAI: The UAE’s Emirates Group on Thursday said its profits in the first half of the financial year fell 66 percent year-on-year, as the regional war and high fuel costs hit aviation. Half-year profit after tax stood at 3.6 billion AED ($1 billion), the group said in a statement. The Dubai-based group, which owns the …",
+   "image": "https://i.brecorder.com/large/2026/04/01112413a5631e3.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress",
    "url": "https://www.brecorder.com/news/40447547/chinas-yuan-rebounds-as-pboc-lifts-midpoint-dollar-falls-after-democrats-take-congress",
    "source": "Business Recorder",
@@ -135,19 +277,6 @@
    "published": "2026-11-05T07:18:14+00:00",
    "summary": "JAKARTA: Indonesia’s economy expanded 5.47% in the third quarter from a year earlier, official data showed on Thursday, faster than the 5.18% forecast in a Reuters poll. Indonesia’s economic growth in the second quarter stood at 5.29%. Southeast Asia’s largest economy has contended with weaker investor sentiment this y…",
    "image": "https://i.brecorder.com/large/2025/02/05113602112c53a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying continues, KSE-100 up nearly 2%",
-   "url": "https://www.brecorder.com/news/40447531/psx-buying-continues-kse-100-up-nearly-2",
-   "source": "Business Recorder",
-   "published": "2026-11-05T07:13:50+00:00",
-   "summary": "Buying rally continued at the Pakistan Stock Exchange (PSX) amid expectations that losses US President Donald Trump’s Republican Party suffered in this week’s Congressional elections may reduce the risk ​of further escalation of the US-Israeli war on Iran. At 12:10pm, the benchmark index was hovering at 175,125.66, up …",
-   "image": "https://i.brecorder.com/large/2026/11/031059511eba333.jpg",
    "topics": [
     "Economy"
    ],
@@ -207,6 +336,19 @@
    "domestic": false
   },
   {
+   "title": "PM Shehbaz orders cancellation of petrol pump licences over denial of fuel subsidies",
+   "url": "https://tribune.com.pk/story/2638808/pm-shehbaz-orders-cancellation-of-petrol-pump-licences-over-denial-of-fuel-subsidies",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T05:46:29+00:00",
+   "summary": "Directs to ensure registered beneficiaries face no hurdles in accessing subsidised fuel as 59.4m tokens are redeemed",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan's exports to Europe fall in first quarter of FY27 despite GSP+",
    "url": "https://www.dawn.com/news/2042284/pakistans-exports-to-europe-fall-in-first-quarter-of-fy27-despite-gsp",
    "source": "Dawn",
@@ -220,38 +362,12 @@
    "domestic": false
   },
   {
-   "title": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show",
-   "url": "https://www.brecorder.com/news/40447527/boj-debated-need-for-more-rate-hikes-scope-for-faster-moves-september-minutes-show",
-   "source": "Business Recorder",
-   "published": "2026-11-05T03:17:25+00:00",
-   "summary": "TOKYO: Bank ​of Japan policymakers saw the need to keep raising interest rates with some signalling the chance of faster-paced increases, minutes of their September meeting showed, ‌bolstering the case for another hike as soon as December. The board also debated Japan’s neutral interest rate and market pricing of the B…",
-   "image": "https://i.brecorder.com/large/2026/11/050814589545700.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar edges lower as US election outcome cheers global markets",
-   "url": "https://www.brecorder.com/news/40447521/dollar-edges-lower-as-us-election-outcome-cheers-global-markets",
-   "source": "Business Recorder",
-   "published": "2026-11-05T02:43:16+00:00",
-   "summary": "TOKYO: The dollar edged lower on Thursday in the aftermath of an overwhelming victory by Democrats in US midterm elections that cleared a major source of uncertainty and fuelled a rally in global equities. The ​yen firmed after minutes of the Bank of Japan’s September meeting reinforced expectations for further interes…",
-   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes",
-   "url": "https://www.brecorder.com/news/40447520/indian-rupee-to-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes",
-   "source": "Business Recorder",
-   "published": "2026-11-05T02:37:41+00:00",
-   "summary": "MUMBAI: The Indian rupee is poised to climb at the open on Thursday after oil prices tumbled on bets that the Republican Party’s losses ​in the US midterm elections could push President Donald Trump towards ‌an exit from the Iran war. The Indian rupee is expected to open in the 94.35-94.40 range, per traders, having se…",
-   "image": "https://i.brecorder.com/large/2026/11/050734354b9334f.webp",
+   "title": "PSX extends rally for second session, reclaims 175,000 mark",
+   "url": "https://tribune.com.pk/story/2638786/psx-extends-rally-for-second-session-gains-over-3400-points",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T03:26:02+00:00",
+   "summary": "KSE-100 surges 3,366 points as buying interest continues amid easing geopolitical concerns after US midterm elections",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -269,20 +385,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Super tax to be abolished: FBR chief",
-   "url": "https://tribune.com.pk/story/2638701/super-tax-to-be-abolished-fbr-chief",
-   "source": "The Express Tribune",
-   "published": "2026-11-04T16:40:33+00:00",
-   "summary": "FBR will consult stakeholders to remove shortcomings in the import of raw materials",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -305,19 +407,6 @@
    "published": "2026-11-04T16:40:33+00:00",
    "summary": "Aurangzeb meets PTEA delegation, Mastercard on digital payments and financial inclusion",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India's BSE posts higher second-quarter profit",
-   "url": "https://www.brecorder.com/news/40447399/indias-bse-posts-higher-second-quarter-profit",
-   "source": "Business Recorder",
-   "published": "2026-11-04T12:49:03+00:00",
-   "summary": "BENGALURU: India’s BSE Ltd reported a 45% rise in second-quarter profit on Wednesday, amid market share gains in the derivatives segment. The stock exchange operator posted a consolidated net profit of 8.09 billion rupees ($85.42 million) for the quarter ended September 30, a jump from 5.58 billion rupees a year earlie…",
-   "image": "https://i.brecorder.com/large/2026/11/03081912c212f5e.jpg",
    "topics": [
     "Economy"
    ],
@@ -348,19 +437,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Auto parts industry in panic over New Energy Vehicle policy",
-   "url": "https://www.dawn.com/news/2041493/auto-parts-industry-in-panic-over-new-energy-vehicle-policy",
-   "source": "Dawn",
-   "published": "2026-11-02T04:31:06+00:00",
-   "summary": "The Auto and Auto Parts Policy 2026-31 has turned into a mystery. Multiple drafts are circulating, yet no one outside close government circles knows the exact contents of the document, which was approved “in principle” by Prime Minister Shehbaz Sharif in early September and forwarded for “IMF review” late last month. T…",
-   "image": "https://i.dawn.com/large/2026/01/22084604d7a025f.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
