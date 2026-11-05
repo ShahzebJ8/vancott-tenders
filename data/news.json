@@ -1,15 +1,28 @@
 {
- "generated": "2026-11-05T16:05:46+00:00",
- "count": 35,
- "relevant_count": 9,
+ "generated": "2026-11-05T22:14:59+00:00",
+ "count": 36,
+ "relevant_count": 11,
  "domestic_count": 9,
  "sources": {
-  "Dawn": "ok (10)",
+  "Dawn": "ok (9)",
   "Business Recorder": "ok (10)",
   "The Express Tribune": "ok (11)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "UNSC adopts Pakistan-initiated statement on diplomacy during active hostilities",
+   "url": "https://www.brecorder.com/news/40447601/unsc-adopts-pakistan-initiated-statement-on-diplomacy-during-active-hostilities",
+   "source": "Business Recorder",
+   "published": "2026-11-05T17:18:58+00:00",
+   "summary": "The United Nations Security Council on Thursday adopted by consensus a Presidential Statement (PRST) initiated by Pakistan on “The Role of Diplomacy during Active Hostilities,” the Foreign Office said. In a statement issued in Islamabad, the Ministry of Foreign Affairs described the adoption as an important contributio…",
+   "image": "https://i.brecorder.com/large/2026/11/0522161417bb509.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "SBP-held foreign exchange reserves rise $39mn to $21.56bn",
    "url": "https://www.brecorder.com/news/40447598/sbp-held-foreign-exchange-reserves-rise-39mn-to-2156bn",
@@ -115,17 +128,30 @@
    "domestic": true
   },
   {
-   "title": "Consumer inflation falls to 9.6pc in Oct from 10.3pc in Sept",
-   "url": "https://www.dawn.com/news/2041620/consumer-inflation-falls-to-96pc-in-oct-from-103pc-in-sept",
-   "source": "Dawn",
-   "published": "2026-11-02T12:08:35+00:00",
-   "summary": "ISLAMABAD: Consumer inflation eased to 9.6 per cent in October from 10.3pc a month earlier , mainly due to a slight slowdown in perishable food products, the Pakistan Bureau of Statistics said on Monday. The slowdown in the inflation rate for the second consecutive month, measured by the Consumer Price Index, reversed …",
-   "image": "https://i.dawn.com/large/2026/09/02024453b708add.webp",
+   "title": "ABHI IPO price holds steady at Rs15/share on first day of book-building",
+   "url": "https://www.brecorder.com/news/40447605/abhi-ipo-price-holds-steady-at-rs15share-on-first-day-of-book-building",
+   "source": "Business Recorder",
+   "published": "2026-11-05T18:03:08+00:00",
+   "summary": "ABHI Microfinance Bank Limited’s share price stuck to its opening price of Rs15 on the first of the two-day book-building at the Pakistan Stock Exchange (PSX) on Thursday, as it aims to mobilise a minimum of Rs1.98 billion through initial public offering (IPO) to strengthen and expand its business. The share price is a…",
+   "image": "https://i.brecorder.com/large/2026/09/220132587409396.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Greek parliament approves 10% tax on cryptocurrency gains",
+   "url": "https://www.brecorder.com/news/40447604/greek-parliament-approves-10-tax-on-cryptocurrency-gains",
+   "source": "Business Recorder",
+   "published": "2026-11-05T17:58:19+00:00",
+   "summary": "ATHENS: Greece’s parliament approved on Thursday a bill that imposes a 10% capital gains tax on cryptocurrencies, the first comprehensive legal framework for taxing crypto assets in Greece. Cryptocurrency capital gains of up to €500 ($563) per year will be exempt from the new tax, the bill says. “Further implementation…",
+   "image": "https://i.brecorder.com/large/2026/11/05225647f59323e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "PM Shehbaz orders removal of 80% export condition for SMEs seeking long-term financing",
@@ -180,6 +206,19 @@
    "domestic": false
   },
   {
+   "title": "IMF country head urges Pakistan to broaden tax base, pursue growth-oriented reforms",
+   "url": "https://tribune.com.pk/story/2638848/imf-country-head-urges-pakistan-to-broaden-tax-base-pursue-growth-oriented-reforms",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T12:02:52+00:00",
+   "summary": "Mahir Binici says Pakistan needs a simpler, fairer tax system to finance development and investment",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "PM directs cancellation of petrol pump licences over failure to facilitate fuel subsidy beneficiaries",
    "url": "https://www.dawn.com/news/2042330/pm-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
    "source": "Dawn",
@@ -212,19 +251,6 @@
    "published": "2026-11-05T11:11:38+00:00",
    "summary": "MUMBAI: The Indian rupee ended at its strongest level in two weeks on Thursday as oil prices eased below $100 per barrel on hopes that the risk of escalation in the Iran war has diminished after Republicans lost control of the US Congress. Easing oil prices lifted Indian stocks to their best day in 7 months while bond …",
    "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia issues warning of potential danger in Yanbu oil hub",
-   "url": "https://www.brecorder.com/news/40447572/saudi-arabia-issues-warning-of-potential-danger-in-yanbu-oil-hub",
-   "source": "Business Recorder",
-   "published": "2026-11-05T09:45:36+00:00",
-   "summary": "Saudi Arabia’s civil defence issued an alert on Thursday warning of potential danger in Yanbu Governorate. Yanbu, on Saudi Arabia’s Red Sea coast, is a major oil export hub and a key outlet for crude shipments transported through the kingdom’s East-West pipeline.",
-   "image": "https://i.brecorder.com/large/2026/10/06023025f4d50fd.webp",
    "topics": [
     "Economy"
    ],
@@ -367,19 +393,6 @@
    "source": "The Express Tribune",
    "published": "2026-11-05T03:26:02+00:00",
    "summary": "KSE-100 surges 3,366 points as buying interest continues amid easing geopolitical concerns after US midterm elections",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "EDF decides to invest in govt securities",
-   "url": "https://tribune.com.pk/story/2638698/edf-decides-to-invest-in-govt-securities",
-   "source": "The Express Tribune",
-   "published": "2026-11-04T16:40:33+00:00",
-   "summary": "By getting returns, fund wants to offset inflationary impact on resources",
    "image": null,
    "topics": [
     "Economy"

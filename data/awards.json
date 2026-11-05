@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T16:05:22+00:00",
+ "generated": "2026-11-05T22:14:32+00:00",
  "count": 941,
  "with_value": 898,
  "with_winner": 324,
@@ -17902,6 +17902,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004897",
+   "tender_no": "TS0000014189E",
+   "reference": "P128125",
+   "title": "Construction of Pre-Engineered Building (PEB) for Industry Hub – Daanish University, Islamabad Civil Works",
+   "organisation": "Ministry of Federal Education and Professional Training Ministry of Federal Education &#38; Professional Training Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "Bannu Mukhtar Contracting Pvt. Limited"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004897",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004896",
    "tender_no": "TS0000015087E",
@@ -56982,24 +57002,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002792",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002791",
-   "tender_no": "TS0000009395E",
-   "reference": "P-39/2026",
-   "title": "Consultancy Services for an Independent End-to-End Assessment of Contact Centre Operations Services",
-   "organisation": "Ministry of Finance Pakistan Revenue Automation (Pvt) Limited (PRAL) Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-08-18",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002791",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
