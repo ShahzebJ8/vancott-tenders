@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-04T20:19:18+00:00",
- "count": 35,
- "relevant_count": 9,
- "domestic_count": 8,
+ "generated": "2026-11-05T01:03:12+00:00",
+ "count": 42,
+ "relevant_count": 11,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (17)",
@@ -10,6 +10,84 @@
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Govt intends to abolish super tax: FBR chairman",
+   "url": "https://www.brecorder.com/news/40447453/govt-intends-to-abolish-super-tax-fbr-chairman",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial has said that the government intends to completely abolish the Super Tax. He said its rate has already been reduced by 2 percentage points, with an aim at gradual elimination. Speaking to industrialists during his visit to the Korangi Association …",
+   "image": "https://i.brecorder.com/large/2025/01/261653470239008.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Costly coal-fired power agreements: Pakistan risks remaining trapped",
+   "url": "https://www.brecorder.com/news/40447455/costly-coal-fired-power-agreements-pakistan-risks-remaining-trapped",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "ISLAMABAD: Pakistan risks remaining trapped in costly coal-fired power agreements even as households and industries rapidly shift towards solar energy, with experts warning that declining electricity demand from the national grid, mounting capacity payments and delayed policy reforms could deepen the power sector’s fin…",
+   "image": "https://i.brecorder.com/large/2024/01/65a9a9bd95331.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Ministry accused of neglecting gold jewellery export industry",
+   "url": "https://www.brecorder.com/news/40447456/ministry-accused-of-neglecting-gold-jewellery-export-industry",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "ISLAMABAD: The country’s gold jewellery sector, being dealt by Sectoral Council for Gems and Jewellery has accused the Ministry of Commerce of neglecting Pakistan’s gold jewellery export industry for more than 13 years, warning that prolonged delays in resolving longstanding policy issues are undermining the sector’s e…",
+   "image": "https://i.brecorder.com/large/2026/02/23135119961132a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aurangzeb meets PTEA team",
+   "url": "https://www.brecorder.com/news/40447457/aurangzeb-meets-ptea-team",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, met with a delegation of Pakistan Textile Exporters Association (PTEA), led by Rehan Naseem Bharara, Chairman PTEA, to discuss matters relating to the sector’s performance, export competitiveness and the overall business environment. The F…",
+   "image": "https://i.brecorder.com/large/2026/04/180557585ce6193.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Islamabad’s One Constitution Avenue project: Ahsan says JIT has found serious irregularities, fraud",
+   "url": "https://www.brecorder.com/news/40447468/islamabads-one-constitution-avenue-project-ahsan-says-jit-has-found-serious-irregularities-fraud",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "ISLAMABAD: Minister for Planning and Development Ahsan Iqbal said on Wednesday that a joint investigation team (JIT) had found serious irregularities and fraud in Islamabad’s One Constitution Avenue project, including manipulation of the bidding process and illegal sale of apartments. The inquiry identified former fina…",
+   "image": "https://i.brecorder.com/large/2026/07/19021903fed68f8.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "EPZ Risalpur consignment: Rs277m misdeclaration case uncovered",
+   "url": "https://www.brecorder.com/news/40447479/epz-risalpur-consignment-rs277m-misdeclaration-case-uncovered",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "KARACHI: Directorate General of Transit Trade, Karachi, has uncovered a misdeclaration case involving a consignment worth about Rs277 million destined for the Export Processing Zone (EPZ), Risalpur. According to the Directorate Media Pakistan Customs, the fraud came to light during physical examination of goods importe…",
+   "image": "https://i.brecorder.com/large/2021/10/615a29c355911.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -115,6 +193,32 @@
    "domestic": true
   },
   {
+   "title": "Growing our own dependence",
+   "url": "https://www.brecorder.com/news/40447426/growing-our-own-dependence",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "EDITORIAL: Pakistan’s cotton crop is facing another projected decline, with potentially serious consequences for an economy whose principal merchandise export industry remains heavily dependent on the fibre. The World Bank expects domestic cotton production to fall by 6 percent in 2026-27, against a 3 percent decline i…",
+   "image": "https://i.brecorder.com/large/2026/01/1416081777c8831.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Aasaan tax scheme: when easy becomes difficult",
+   "url": "https://www.brecorder.com/news/40447427/aasaan-tax-scheme-when-easy-becomes-difficult",
+   "source": "Business Recorder",
+   "published": "2026-11-05T00:31:29+00:00",
+   "summary": "EDITORIAL: Released data indicates that the Aasaan tax scheme has failed to take off, like its precursor Taajir Dost scheme of 2024, with only 222 instead of the hoped for one million traders having registered . The objective of the two schemes was to bring traders within the ambit of the tax net which clearly has not …",
+   "image": "https://i.brecorder.com/large/2026/11/040434276e23b99.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "PSX: KSE-100 accumulates nearly 4,000 points as investors bet on US midterms, Iran talks",
    "url": "https://www.brecorder.com/news/40447354/psx-kse-100-accumulates-nearly-4000-points-as-investors-bet-on-us-midterms-iran-talks",
    "source": "Business Recorder",
@@ -151,20 +255,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Mughal Energy approves installation of 25MW solar power plant",
-   "url": "https://www.brecorder.com/news/40447383/mughal-energy-approves-installation-of-25mw-solar-power-plant",
-   "source": "Business Recorder",
-   "published": "2026-11-04T09:40:00+00:00",
-   "summary": "Mughal Energy Limited, a subsidiary of Mughal Iron & Steel Industries Limited, has approved the installation of a 25-megawatt (MW) solar power plant to offset auxiliary power consumption at its existing power generation facility. The company’s board of directors approved the project at a meeting held on Wednesday, acco…",
-   "image": "https://i.brecorder.com/large/2024/02/2020170235e6f53.jpg",
-   "topics": [
-    "Budget & spending",
-    "Energy & power"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
