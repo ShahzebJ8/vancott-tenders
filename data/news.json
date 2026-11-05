@@ -1,104 +1,40 @@
 {
- "generated": "2026-11-05T01:03:12+00:00",
- "count": 42,
- "relevant_count": 11,
- "domestic_count": 14,
+ "generated": "2026-11-05T07:51:25+00:00",
+ "count": 29,
+ "relevant_count": 8,
+ "domestic_count": 8,
  "sources": {
-  "Dawn": "ok (10)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (7)",
+  "Dawn": "ok (9)",
+  "Business Recorder": "ok (11)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Govt intends to abolish super tax: FBR chairman",
-   "url": "https://www.brecorder.com/news/40447453/govt-intends-to-abolish-super-tax-fbr-chairman",
+   "title": "Pakistani cement maker to enter mass-market EV segment through Chinese imports",
+   "url": "https://www.brecorder.com/news/40447530/pakistani-cement-maker-to-enter-mass-market-ev-segment-through-chinese-imports",
    "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial has said that the government intends to completely abolish the Super Tax. He said its rate has already been reduced by 2 percentage points, with an aim at gradual elimination. Speaking to industrialists during his visit to the Korangi Association …",
-   "image": "https://i.brecorder.com/large/2025/01/261653470239008.jpg",
+   "published": "2026-11-05T04:46:47+00:00",
+   "summary": "Thatta Cement, a Pakistani cement maker, plans to enter the country’s electric vehicle (EV) market through a wholly owned subsidiary, initially importing completely built-up (CBU) electric vehicles from China. Thatta Cement, involved in the manufacturing and marketing of cement and also owns Thatta Power (Private) Limi…",
+   "image": "https://i.brecorder.com/large/2026/11/05094303172e356.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR Chairman Langrial hints at scrapping super tax",
+   "url": "https://www.dawn.com/news/2042199/fbr-chairman-langrial-hints-at-scrapping-super-tax",
+   "source": "Dawn",
+   "published": "2026-11-05T03:58:07+00:00",
+   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial said the government intends to abolish the super tax. “The super tax rate has already been reduced by two percentage points, and work has now begun on its gradual elimination,” he said while addressing the members of the Korangi Association of Tra…",
+   "image": "https://i.dawn.com/large/2025/06/12110733e3fbaea.jpg",
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Costly coal-fired power agreements: Pakistan risks remaining trapped",
-   "url": "https://www.brecorder.com/news/40447455/costly-coal-fired-power-agreements-pakistan-risks-remaining-trapped",
-   "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "ISLAMABAD: Pakistan risks remaining trapped in costly coal-fired power agreements even as households and industries rapidly shift towards solar energy, with experts warning that declining electricity demand from the national grid, mounting capacity payments and delayed policy reforms could deepen the power sector’s fin…",
-   "image": "https://i.brecorder.com/large/2024/01/65a9a9bd95331.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Ministry accused of neglecting gold jewellery export industry",
-   "url": "https://www.brecorder.com/news/40447456/ministry-accused-of-neglecting-gold-jewellery-export-industry",
-   "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "ISLAMABAD: The country’s gold jewellery sector, being dealt by Sectoral Council for Gems and Jewellery has accused the Ministry of Commerce of neglecting Pakistan’s gold jewellery export industry for more than 13 years, warning that prolonged delays in resolving longstanding policy issues are undermining the sector’s e…",
-   "image": "https://i.brecorder.com/large/2026/02/23135119961132a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Aurangzeb meets PTEA team",
-   "url": "https://www.brecorder.com/news/40447457/aurangzeb-meets-ptea-team",
-   "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, met with a delegation of Pakistan Textile Exporters Association (PTEA), led by Rehan Naseem Bharara, Chairman PTEA, to discuss matters relating to the sector’s performance, export competitiveness and the overall business environment. The F…",
-   "image": "https://i.brecorder.com/large/2026/04/180557585ce6193.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Islamabad’s One Constitution Avenue project: Ahsan says JIT has found serious irregularities, fraud",
-   "url": "https://www.brecorder.com/news/40447468/islamabads-one-constitution-avenue-project-ahsan-says-jit-has-found-serious-irregularities-fraud",
-   "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "ISLAMABAD: Minister for Planning and Development Ahsan Iqbal said on Wednesday that a joint investigation team (JIT) had found serious irregularities and fraud in Islamabad’s One Constitution Avenue project, including manipulation of the bidding process and illegal sale of apartments. The inquiry identified former fina…",
-   "image": "https://i.brecorder.com/large/2026/07/19021903fed68f8.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "EPZ Risalpur consignment: Rs277m misdeclaration case uncovered",
-   "url": "https://www.brecorder.com/news/40447479/epz-risalpur-consignment-rs277m-misdeclaration-case-uncovered",
-   "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "KARACHI: Directorate General of Transit Trade, Karachi, has uncovered a misdeclaration case involving a consignment worth about Rs277 million destined for the Export Processing Zone (EPZ), Risalpur. According to the Directorate Media Pakistan Customs, the fraud came to light during physical examination of goods importe…",
-   "image": "https://i.brecorder.com/large/2021/10/615a29c355911.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-04T15:03:27+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.70, a gain of Re0.01 against the greenback. On Tuesday , the rupee had closed at 276.71 against the dollar. Globally, a sweeping victory by Democrats in the US midterm electi…",
-   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -180,25 +116,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan outperforms Vietnam in rice exports",
-   "url": "https://www.dawn.com/news/2041438/pakistan-outperforms-vietnam-in-rice-exports",
-   "source": "Dawn",
-   "published": "2026-11-02T01:06:34+00:00",
-   "summary": "LAHORE: Demonstrating remarkable resilience in the face of escalating geopolitical conflict and global shipping turmoil, Pakistan’s premium Basmati rice exports have absorbed the shock waves of the US-Iran conflict and broader Gulf region disruptions, keeping the country firmly on track in its continuous push to secure…",
-   "image": "https://i.dawn.com/large/2023/07/64c43dd883a2d.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Growing our own dependence",
-   "url": "https://www.brecorder.com/news/40447426/growing-our-own-dependence",
+   "title": "China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress",
+   "url": "https://www.brecorder.com/news/40447547/chinas-yuan-rebounds-as-pboc-lifts-midpoint-dollar-falls-after-democrats-take-congress",
    "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "EDITORIAL: Pakistan’s cotton crop is facing another projected decline, with potentially serious consequences for an economy whose principal merchandise export industry remains heavily dependent on the fibre. The World Bank expects domestic cotton production to fall by 6 percent in 2026-27, against a 3 percent decline i…",
-   "image": "https://i.brecorder.com/large/2026/01/1416081777c8831.webp",
+   "published": "2026-11-05T07:21:54+00:00",
+   "summary": "HONG KONG: China’s yuan bounced from a more than a two-week low against the dollar on Thursday, as the central bank lifted its midpoint rate and the greenback weakened as Democrats captured control of Congress in US midterm elections. The currency had come under pressure earlier this week after China’s move to raise th…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
    "topics": [
     "Economy"
    ],
@@ -206,25 +129,182 @@
    "domestic": false
   },
   {
-   "title": "Aasaan tax scheme: when easy becomes difficult",
-   "url": "https://www.brecorder.com/news/40447427/aasaan-tax-scheme-when-easy-becomes-difficult",
+   "title": "Indonesia Q3 GDP growth at 5.47%, beats expectations",
+   "url": "https://www.brecorder.com/news/40447545/indonesia-q3-gdp-growth-at-547-beats-expectations",
    "source": "Business Recorder",
-   "published": "2026-11-05T00:31:29+00:00",
-   "summary": "EDITORIAL: Released data indicates that the Aasaan tax scheme has failed to take off, like its precursor Taajir Dost scheme of 2024, with only 222 instead of the hoped for one million traders having registered . The objective of the two schemes was to bring traders within the ambit of the tax net which clearly has not …",
-   "image": "https://i.brecorder.com/large/2026/11/040434276e23b99.jpg",
+   "published": "2026-11-05T07:18:14+00:00",
+   "summary": "JAKARTA: Indonesia’s economy expanded 5.47% in the third quarter from a year earlier, official data showed on Thursday, faster than the 5.18% forecast in a Reuters poll. Indonesia’s economic growth in the second quarter stood at 5.29%. Southeast Asia’s largest economy has contended with weaker investor sentiment this y…",
+   "image": "https://i.brecorder.com/large/2025/02/05113602112c53a.jpg",
    "topics": [
-    "Budget & spending"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying continues, KSE-100 up nearly 2%",
+   "url": "https://www.brecorder.com/news/40447531/psx-buying-continues-kse-100-up-nearly-2",
+   "source": "Business Recorder",
+   "published": "2026-11-05T07:13:50+00:00",
+   "summary": "Buying rally continued at the Pakistan Stock Exchange (PSX) amid expectations that losses US President Donald Trump’s Republican Party suffered in this week’s Congressional elections may reduce the risk ​of further escalation of the US-Israeli war on Iran. At 12:10pm, the benchmark index was hovering at 175,125.66, up …",
+   "image": "https://i.brecorder.com/large/2026/11/031059511eba333.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australia, NZ dollars extend gains as US Democratic sweep fuels risk rally",
+   "url": "https://www.brecorder.com/news/40447539/australia-nz-dollars-extend-gains-as-us-democratic-sweep-fuels-risk-rally",
+   "source": "Business Recorder",
+   "published": "2026-11-05T06:40:46+00:00",
+   "summary": "SYDNEY: The Australian and New Zealand dollars extended gains on Thursday as a Democratic Party sweep in the US midterm elections fuelled a rally in equities and a broad retreat in the greenback, offsetting domestic headwinds. The Aussie dollar edged up 0.2% to $0.7019 after rallying 0.6% overnight to as high as $0.702…",
+   "image": "https://i.brecorder.com/large/2026/07/231115114796996.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar stronger on Thursday",
+   "url": "https://www.brecorder.com/news/40447537/thai-bahtus-dollar-stronger-on-thursday",
+   "source": "Business Recorder",
+   "published": "2026-11-05T06:30:33+00:00",
+   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Thursday . At 0218 GMT, the baht was 0.48% higher at 33.44 versus the dollar, after trading in a range of 33.450 to 33.590. It ended the previous session at 33.6 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Weak US dollar lifts wheat, but Black Sea export hopes cap gains",
+   "url": "https://www.brecorder.com/news/40447536/weak-us-dollar-lifts-wheat-but-black-sea-export-hopes-cap-gains",
+   "source": "Business Recorder",
+   "published": "2026-11-05T06:27:48+00:00",
+   "summary": "CANBERRA: Chicago wheat futures rose on Thursday as a weaker US dollar made US crops more competitive on global markets, although expectations of stronger Black Sea exports kept prices near four-month lows. Corn and soybean futures also gained after reaching multi-month lows in the previous session. The most-traded whe…",
+   "image": "https://i.brecorder.com/large/2025/01/29013310fd53c59.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections",
+   "url": "https://www.brecorder.com/news/40447533/gold-hits-a-two-week-high-as-dollar-treasury-yields-ease-after-us-midterm-elections",
+   "source": "Business Recorder",
+   "published": "2026-11-05T06:11:43+00:00",
+   "summary": "Gold prices climbed nearly 2% to a two-week high on Thursday , supported by a weaker US dollar and lower US Treasury yields in the wake of a Democratic midterm election wave. Spot gold rose 1.9% to $4,134.83 per ounce by 0316 GMT, hitting its highest since October 22. Bullion climbed about 3.4% on Wednesday, its bigges…",
+   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan's exports to Europe fall in first quarter of FY27 despite GSP+",
+   "url": "https://www.dawn.com/news/2042284/pakistans-exports-to-europe-fall-in-first-quarter-of-fy27-despite-gsp",
+   "source": "Dawn",
+   "published": "2026-11-05T04:03:30+00:00",
+   "summary": "https://www.dawn.com/news/2042198",
+   "image": "https://i.dawn.com/large/2026/08/0607280213994aa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "BOJ debated need for more rate hikes, scope for faster moves, September minutes show",
+   "url": "https://www.brecorder.com/news/40447527/boj-debated-need-for-more-rate-hikes-scope-for-faster-moves-september-minutes-show",
+   "source": "Business Recorder",
+   "published": "2026-11-05T03:17:25+00:00",
+   "summary": "TOKYO: Bank ​of Japan policymakers saw the need to keep raising interest rates with some signalling the chance of faster-paced increases, minutes of their September meeting showed, ‌bolstering the case for another hike as soon as December. The board also debated Japan’s neutral interest rate and market pricing of the B…",
+   "image": "https://i.brecorder.com/large/2026/11/050814589545700.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar edges lower as US election outcome cheers global markets",
+   "url": "https://www.brecorder.com/news/40447521/dollar-edges-lower-as-us-election-outcome-cheers-global-markets",
+   "source": "Business Recorder",
+   "published": "2026-11-05T02:43:16+00:00",
+   "summary": "TOKYO: The dollar edged lower on Thursday in the aftermath of an overwhelming victory by Democrats in US midterm elections that cleared a major source of uncertainty and fuelled a rally in global equities. The ​yen firmed after minutes of the Bank of Japan’s September meeting reinforced expectations for further interes…",
+   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to rally after US midterm fallout sinks oil on Iran war-exit hopes",
+   "url": "https://www.brecorder.com/news/40447520/indian-rupee-to-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes",
+   "source": "Business Recorder",
+   "published": "2026-11-05T02:37:41+00:00",
+   "summary": "MUMBAI: The Indian rupee is poised to climb at the open on Thursday after oil prices tumbled on bets that the Republican Party’s losses ​in the US midterm elections could push President Donald Trump towards ‌an exit from the Iran war. The Indian rupee is expected to open in the 94.35-94.40 range, per traders, having se…",
+   "image": "https://i.brecorder.com/large/2026/11/050734354b9334f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "EDF decides to invest in govt securities",
+   "url": "https://tribune.com.pk/story/2638698/edf-decides-to-invest-in-govt-securities",
+   "source": "The Express Tribune",
+   "published": "2026-11-04T16:40:33+00:00",
+   "summary": "By getting returns, fund wants to offset inflationary impact on resources",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Super tax to be abolished: FBR chief",
+   "url": "https://tribune.com.pk/story/2638701/super-tax-to-be-abolished-fbr-chief",
+   "source": "The Express Tribune",
+   "published": "2026-11-04T16:40:33+00:00",
+   "summary": "FBR will consult stakeholders to remove shortcomings in the import of raw materials",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 accumulates nearly 4,000 points as investors bet on US midterms, Iran talks",
-   "url": "https://www.brecorder.com/news/40447354/psx-kse-100-accumulates-nearly-4000-points-as-investors-bet-on-us-midterms-iran-talks",
-   "source": "Business Recorder",
-   "published": "2026-11-04T14:01:19+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a strong bullish session on Wednesday, with the benchmark KSE-100 Index gaining nearly 4,000 points amid institutional buying and improving sentiment over geopolitical developments following US midterm election results . The benchmark index opened on a positive note and maint…",
-   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
+   "title": "Gold soars as dollar weakens after US polls",
+   "url": "https://tribune.com.pk/story/2638699/gold-soars-as-dollar-weakens-after-us-polls",
+   "source": "The Express Tribune",
+   "published": "2026-11-04T16:40:33+00:00",
+   "summary": "Surges Rs13,900 to Rs426,036/tola; globally bullion reclaims $4,000",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Credit access pledged to exporters",
+   "url": "https://tribune.com.pk/story/2638703/credit-access-pledged-to-exporters",
+   "source": "The Express Tribune",
+   "published": "2026-11-04T16:40:33+00:00",
+   "summary": "Aurangzeb meets PTEA delegation, Mastercard on digital payments and financial inclusion",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -242,188 +322,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee ends a tad higher as dollar slips after US midterms",
-   "url": "https://www.brecorder.com/news/40447385/indian-rupee-ends-a-tad-higher-as-dollar-slips-after-us-midterms",
-   "source": "Business Recorder",
-   "published": "2026-11-04T10:12:01+00:00",
-   "summary": "MUMBAI: The Indian rupee ended modestly higher on Wednesday, aided by a weaker dollar and lower oil prices as investors assessed the impact of US midterm election results, while a Reuters poll showed expectations for depreciation of South Asian unit remained intact. The Indian rupee closed at 94.64 per dollar, up sligh…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX to remain closed on November 9",
-   "url": "https://www.brecorder.com/news/40447380/psx-to-remain-closed-on-november-9",
-   "source": "Business Recorder",
-   "published": "2026-11-04T08:31:01+00:00",
-   "summary": "The Pakistan Stock Exchange Limited (PSX) will remain closed on Monday, November 9, 2026, on account of Allama Iqbal Day. “All TRE Certificate Holders, staff and concerned are hereby informed that Pakistan Stock Exchange Limited will remain closed on Monday, November 9, 2026, being a national holiday on account of Alla…",
-   "image": "https://i.brecorder.com/large/2025/05/191533166522b14.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "BMW reports lower Q3 earnings as restructuring spells more pain towards end of year",
-   "url": "https://www.brecorder.com/news/40447370/bmw-reports-lower-q3-earnings-as-restructuring-spells-more-pain-towards-end-of-year",
-   "source": "Business Recorder",
-   "published": "2026-11-04T06:59:11+00:00",
-   "summary": "BERLIN: BMW’s pre-tax earnings fell in line with expectations in the third quarter ​with hefty restructuring charges looming towards the ‌end of the year, forcing another cut to its outlook as it grapples with the weak China ​market. The German car maker reported quarterly ​pre-tax earnings of €2.1 billion ($2.36 billi…",
-   "image": "https://i.brecorder.com/large/2026/07/30105531e0db8e0.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Vietnam raises $419.7 million in government bond auction",
-   "url": "https://www.brecorder.com/news/40447368/vietnam-raises-4197-million-in-government-bond-auction",
-   "source": "Business Recorder",
-   "published": "2026-11-04T06:43:52+00:00",
-   "summary": "HANOI: Vietnam’s State Treasury raised 10.8 trillion dong ($419.7 million) in its weekly government bond auction on Wednesday, down from the revised $874 million raised last week. The uptake was slightly lower, with 86% of the bonds on offer sold, compared with 87% last week, according to a Hanoi Stock Exchange filing.",
-   "image": "https://i.brecorder.com/large/2026/09/23112037274869f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Kiwi in brief skid after weak jobs data, Aussie pressured by dovish RBA turn",
-   "url": "https://www.brecorder.com/news/40447365/kiwi-in-brief-skid-after-weak-jobs-data-aussie-pressured-by-dovish-rba-turn",
-   "source": "Business Recorder",
-   "published": "2026-11-04T06:26:13+00:00",
-   "summary": "SYDNEY: The New Zealand dollar hit a three-week low on Wednesday as weak jobs data dented market wagers on a rate rise next month, while the Aussie nursed losses after a dovish turn by its central bank boosted bets that interest rates had peaked. All eyes are on the outcome of the US midterm elections. Most polls and n…",
-   "image": "https://i.brecorder.com/large/2026/07/231115114796996.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Japan's Nikkei drops 3% as Democratic gains in US midterms hit AI stocks",
-   "url": "https://www.brecorder.com/news/40447363/japans-nikkei-drops-3-as-democratic-gains-in-us-midterms-hit-ai-stocks",
-   "source": "Business Recorder",
-   "published": "2026-11-04T06:22:03+00:00",
-   "summary": "TOKYO: Japan’s Nikkei average slumped on Wednesday as AI-related stocks slid on concerns that Democratic gains in the US midterm elections could lead to stricter rules for dead-centre projects and slower AI infrastructure spending. The Nikkei was down 3.1% at 61,127.9, as of 0150 GMT, while the broader Topix fell 1.85%…",
-   "image": "https://i.brecorder.com/large/2026/08/28115418d251c34.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan hits 2-week low as investors weigh PBOC foreign exchange reserve hike",
-   "url": "https://www.brecorder.com/news/40447362/chinas-yuan-hits-2-week-low-as-investors-weigh-pboc-foreign-exchange-reserve-hike",
-   "source": "Business Recorder",
-   "published": "2026-11-04T06:20:45+00:00",
-   "summary": "SHANGHAI: China’s yuan slid to a more than two-week low against the dollar on Wednesday , pressured by weaker official guidance, while investors continued digesting the central bank’s decision a day earlier to raise foreign currency reserve requirements. The onshore yuan eased to a low of 6.6832 per dollar in morning d…",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US bonds rally as Democrat sweep seen stalling spending",
-   "url": "https://www.brecorder.com/news/40447360/us-bonds-rally-as-democrat-sweep-seen-stalling-spending",
-   "source": "Business Recorder",
-   "published": "2026-11-04T06:01:56+00:00",
-   "summary": "SINGAPORE: Treasuries rallied on Wednesday as projections the Democrats would take control of Congress had investors expecting gridlock in Washington to cut government spending, while AI regulation could slow growth and reduce the need for rate hikes. Relief that President Donald Trump’s promise to hand out $5,000 to U…",
-   "image": "https://i.brecorder.com/large/2026/09/1420093819a763c.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian shares close at lowest in over a week; miners, banks weigh",
-   "url": "https://www.brecorder.com/news/40447355/australian-shares-close-at-lowest-in-over-a-week-miners-banks-weigh",
-   "source": "Business Recorder",
-   "published": "2026-11-04T05:48:46+00:00",
-   "summary": "Australian shares closed lower on Wednesday , with miners and banks weighing the most as investors assessed the impact of high interest rates on the economy after signals that the central bank’s tightening cycle may have run its course. The S&P/ASX 200 index finished down 0.6% at 8,834.50, its lowest close since Octobe…",
-   "image": "https://i.brecorder.com/large/2026/04/08103429d64d92f.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "India rupee's recovery may find fresh legs from equity flows, dollar weakness",
-   "url": "https://www.brecorder.com/news/40447349/india-rupees-recovery-may-find-fresh-legs-from-equity-flows-dollar-weakness",
-   "source": "Business Recorder",
-   "published": "2026-11-04T03:08:28+00:00",
-   "summary": "MUMBAI: The Indian rupee’s ongoing recovery will draw support on Wednesday from a revival in equity inflows and a dip in the dollar ​amid US election results indicating momentum for the Democratic Party. The Indian rupee was likely to open around 94.70, according to traders, after settling at 94.74 on Tuesday. The doll…",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar dips with US midterm results in focus",
-   "url": "https://www.brecorder.com/news/40447348/dollar-dips-with-us-midterm-results-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-11-04T03:03:11+00:00",
-   "summary": "SHANGHAI/SINGAPORE: The dollar fell against most major currencies on Wednesday ahead of results from US midterm elections, with investors bracing for a potentially strong Democratic showing. The first results in the US midterm elections began ​trickling in, with Democratic Senator Jon Ossoff winning reelection in Georg…",
-   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Stocks, dollar slide after some early wins for Democrats in US midterm election",
-   "url": "https://www.brecorder.com/news/40447347/stocks-dollar-slide-after-some-early-wins-for-democrats-in-us-midterm-election",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:59:08+00:00",
-   "summary": "SINGAPORE: US stock futures slumped, Treasuries rallied and the dollar softened on Wednesday as Democrats notched early Senate wins, fuelling bets they could wrest control of the chamber from President Donald Trump’s ​Republicans, though the final outcome remained uncertain. In North Carolina, former Governor Roy Coope…",
-   "image": "https://i.brecorder.com/large/2026/11/020742152fdf773.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold firms on softer oil prices, US midterm results awaited",
-   "url": "https://www.brecorder.com/news/40447346/gold-firms-on-softer-oil-prices-us-midterm-results-awaited",
-   "source": "Business Recorder",
-   "published": "2026-11-04T02:56:10+00:00",
-   "summary": "Gold prices edged higher in early Asian trade on Wednesday as softer oil prices eased inflation concerns, while investors awaited US midterm election results and key ​labour market data for policy cues. Fundamentals Spot gold was up 0.2% at $3,934.75 ‌per ounce by 0024 GMT, while US gold futures for December delivery r…",
-   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Committee warns GSP+ access at risk",
-   "url": "https://tribune.com.pk/story/2638497/committee-warns-gsp-access-at-risk",
-   "source": "The Express Tribune",
-   "published": "2026-11-03T16:08:51+00:00",
-   "summary": "Fixed tax scheme fails as only 222 of a hoped-for 1 million traders joined",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -453,58 +351,6 @@
    "domestic": false
   },
   {
-   "title": "India's NSE posts 23% rise in quarterly profit in first results since listing",
-   "url": "https://www.brecorder.com/news/40447230/indias-nse-posts-23-rise-in-quarterly-profit-in-first-results-since-listing",
-   "source": "Business Recorder",
-   "published": "2026-11-03T14:38:28+00:00",
-   "summary": "The National Stock Exchange of India posted a 23% jump in profit on Tuesday, helped by higher trading volumes, as the exchange operator reported its first quarterly results after its September stock market debut. The country’s largest stock exchange operator has faced pressure on transaction revenue as tighter rules an…",
-   "image": "https://i.brecorder.com/large/2026/09/2118512597ca46c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "LPG soars in Pakistan, forcing rickshaw drivers to cut meals",
-   "url": "https://tribune.com.pk/story/2638463/lpg-soars-in-pakistan-forcing-rickshaw-drivers-to-cut-meals",
-   "source": "The Express Tribune",
-   "published": "2026-11-03T08:57:26+00:00",
-   "summary": "Prices have surged since October 17, when two Iranian border crossings closed, halting ​imports, according to traders",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil falls 7.5% on peace hopes, gold up",
-   "url": "https://tribune.com.pk/story/2638309/oil-falls-75-on-peace-hopes-gold-up",
-   "source": "The Express Tribune",
-   "published": "2026-11-02T17:05:08+00:00",
-   "summary": "US-Iran talks rattle crude; bullion gains Rs2,400/tola; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "New power reforms: govt weighs plan to abolish uniform electricity tariffs across Discos",
-   "url": "https://www.dawn.com/news/2041575/new-power-reforms-govt-weighs-plan-to-abolish-uniform-electricity-tariffs-across-discos",
-   "source": "Dawn",
-   "published": "2026-11-02T04:35:00+00:00",
-   "summary": "https://www.dawn.com/news/2041492",
-   "image": "https://i.dawn.com/large/2026/11/02044049e7ad192.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Auto parts industry in panic over New Energy Vehicle policy",
    "url": "https://www.dawn.com/news/2041493/auto-parts-industry-in-panic-over-new-energy-vehicle-policy",
    "source": "Dawn",
@@ -515,19 +361,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "US-backed consortium proposes $4.4bn LNG project for Pakistan",
-   "url": "https://www.dawn.com/news/2041560/us-backed-consortium-proposes-44bn-lng-project-for-pakistan",
-   "source": "Dawn",
-   "published": "2026-11-02T02:28:41+00:00",
-   "summary": "https://www.dawn.com/news/2041543",
-   "image": "https://i.dawn.com/large/2026/11/020728090e8e494.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
