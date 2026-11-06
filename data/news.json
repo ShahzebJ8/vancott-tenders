@@ -1,22 +1,35 @@
 {
- "generated": "2026-11-06T10:22:58+00:00",
- "count": 32,
- "relevant_count": 11,
- "domestic_count": 6,
+ "generated": "2026-11-06T17:42:17+00:00",
+ "count": 38,
+ "relevant_count": 10,
+ "domestic_count": 7,
  "sources": {
-  "Dawn": "ok (8)",
-  "Business Recorder": "ok (9)",
-  "The Express Tribune": "ok (12)",
+  "Dawn": "ok (10)",
+  "Business Recorder": "ok (14)",
+  "The Express Tribune": "ok (11)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "PM Shehbaz approves reforms to modernise TDAP, boost Pakistan’s exports",
-   "url": "https://www.brecorder.com/news/40447752/pm-shehbaz-approves-reforms-to-modernise-tdap-boost-pakistans-exports",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40447764/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-06T08:08:51+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Friday approved a plan to modernise the Trade Development Authority of Pakistan (TDAP) to promote national exports, improve access for Pakistani products to international markets and help local industries, including small and medium-sized enterprises (SMEs), meet export standards. The d…",
-   "image": "https://i.brecorder.com/large/2026/11/061307087df7a5a.webp",
+   "published": "2026-11-06T14:59:24+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.66, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.67 against the dollar. Internationally, the US dollar held steady against major currencies …",
+   "image": "https://i.brecorder.com/large/2026/11/060057397fe5b6a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation surges to 12.31pc due to costly food, LPG",
+   "url": "https://www.dawn.com/news/2042609/short-term-inflation-surges-to-1231pc-due-to-costly-food-lpg",
+   "source": "Dawn",
+   "published": "2026-11-06T12:55:46+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 12.31 per cent year-on-year in the week ending Nov 5, driven largely by liquefied petroleum gas (LPG) and perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items whose prices are collected …",
+   "image": "https://i.dawn.com/large/2026/07/180614057cd0203.webp",
    "topics": [
     "Economy"
    ],
@@ -90,12 +103,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s trade deficit surges 20% YoY to $3.9bn in October 2026",
-   "url": "https://www.brecorder.com/news/40447756/pakistans-trade-deficit-surges-20-yoy-to-39bn-in-october-2026",
+   "title": "ABHI raises Rs2.046bn through IPO at Rs15.50/share",
+   "url": "https://www.brecorder.com/news/40447792/abhi-raises-rs2046bn-through-ipo-at-rs1550share",
    "source": "Business Recorder",
-   "published": "2026-11-06T10:18:31+00:00",
-   "summary": "Pakistan’s trade deficit significantly increased by nearly 20% to $3.88 billion in October 2026, as compared to the same month of the previous year, data released by the Pakistan Bureau of Statistics (PBS) showed on Friday. The country’s trade balance, the gap between exports and imports, was recorded at a deficit of $…",
-   "image": "https://i.brecorder.com/large/2025/11/1205225982ab540.webp",
+   "published": "2026-11-06T17:40:04+00:00",
+   "summary": "ABHI Microfinance Bank Limited’s (ABHI) stocks were priced at Rs15.50 per share, helping the bank to raise a total of Rs2.046 billion through initial public offering (IPO) at the Pakistan Stock Exchange (PSX). The microfinance bank’s share price increased by 3.33% to the final strike price of Rs15.5 at the completion o…",
+   "image": "https://i.brecorder.com/large/2026/09/220132587409396.webp",
    "topics": [
     "Economy"
    ],
@@ -103,25 +116,117 @@
    "domestic": false
   },
   {
-   "title": "OGDC faces hurdles in unlocking Baragzai oil potential: report",
-   "url": "https://www.brecorder.com/news/40447758/ogdc-faces-hurdles-in-unlocking-baragzai-oil-potential-report",
+   "title": "EPADS 2.0: where procurement meets digital governance",
+   "url": "https://www.brecorder.com/news/40447787/epads-20-where-procurement-meets-digital-governance",
    "source": "Business Recorder",
-   "published": "2026-11-06T09:37:27+00:00",
-   "summary": "Oil and Gas Development Company Limited (OGDC), Pakistan’s largest E&P company, is facing infrastructure constraints that could limit its ability to unlock the full production potential of its Baragzai field. OGDC management disclosed the development during an analyst briefing held to discuss the financial performance …",
-   "image": "https://i.brecorder.com/large/2023/05/6462fcabc7768.jpg",
+   "published": "2026-11-06T16:15:27+00:00",
+   "summary": "Pakistan’s public procurement system has quietly crossed an important threshold over the past year, with the e-Pak Acquisition and Disposal System evolving from a platform for electronic tendering into one within which the procurement process itself is now being built. Developing such a system in-house and rolling it o…",
+   "image": "https://i.brecorder.com/large/2026/11/06211442c13d075.webp",
    "topics": [
-    "Construction & projects"
+    "Procurement",
+    "Economy"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "PSX: selling engulfs bourse, KSE-100 sheds nearly 1,500 points",
-   "url": "https://www.brecorder.com/news/40447725/psx-selling-engulfs-bourse-kse-100-sheds-nearly-1500-points",
+   "title": "Brent oil price benchmark set for biggest weekly drop since 2020",
+   "url": "https://www.brecorder.com/news/40447719/brent-oil-price-benchmark-set-for-biggest-weekly-drop-since-2020",
    "source": "Business Recorder",
-   "published": "2026-11-06T07:24:48+00:00",
-   "summary": "After days of buying momentum, selling returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding nearly 1,500 points during the first session of trading on Friday. At 12pm, the benchmark index was hovering at 173,885.77, down 1,494.09 points or 0.85%. “We expect the market to witness some…",
+   "published": "2026-11-06T16:08:08+00:00",
+   "summary": "LONDON: Oil prices were set for a sharp weekly fall after the election losses of US President Donald Trump’s Republican Party raised hopes of a de-escalation in the US-Israeli war on Iran and a stock market sell-off, though attacks on vessels in the Middle East continue to provide a floor to crude. In a whiplash see-sa…",
+   "image": "https://i.brecorder.com/large/2026/10/2607485146b693a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: selling engulfs bourse, KSE-100 settles nearly 1,500 points lower",
+   "url": "https://www.brecorder.com/news/40447725/psx-selling-engulfs-bourse-kse-100-settles-nearly-1500-points-lower",
+   "source": "Business Recorder",
+   "published": "2026-11-06T14:11:07+00:00",
+   "summary": "After days of buying momentum, selling returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding nearly 1,500 points on Friday. The market opened with sharp fluctuations, initially declining towards the intraday low of 172,809.89 before recovering some of its losses. The index subsequentl…",
    "image": "https://i.brecorder.com/large/2026/11/06093605b00526d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Snapchat starts disabling friend-finder feature for UK children, regulator says",
+   "url": "https://www.brecorder.com/news/40447782/snapchat-starts-disabling-friend-finder-feature-for-uk-children-regulator-says",
+   "source": "Business Recorder",
+   "published": "2026-11-06T13:19:20+00:00",
+   "summary": "LONDON: British media regulator Ofcom said on Friday that Snapchat had begun disabling its “Find Friends” feature by default for child users in Britain, in what it called an important step to reduce the risk of online grooming. The friend-discovery feature helps users find and add new contacts. Ofcom said the change wo…",
+   "image": "https://i.brecorder.com/large/2026/09/0501483086aae14.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE shares fall as geopolitical uncertainty keeps traders cautious",
+   "url": "https://www.brecorder.com/news/40447778/uae-shares-fall-as-geopolitical-uncertainty-keeps-traders-cautious",
+   "source": "Business Recorder",
+   "published": "2026-11-06T12:41:42+00:00",
+   "summary": "Stock markets in the United Arab Emirates declined on Friday as geopolitical uncertainty in the region weighed on investor sentiment and kept traders cautious. Abu Dhabi’s benchmark index dropped 1.3% to hit an 18-month low, weighed down by a 1.7% fall in real estate giant Aldar Properties. The UAE’s largest listed con…",
+   "image": "https://i.brecorder.com/large/2021/11/6180f7850bc95.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Global tech stocks suffer bloodbath as US midterms fuel AI fears",
+   "url": "https://www.dawn.com/news/2042565/global-tech-stocks-suffer-bloodbath-as-us-midterms-fuel-ai-fears",
+   "source": "Dawn",
+   "published": "2026-11-06T12:17:21+00:00",
+   "summary": "Technology shares plunged on Friday after an unnerving rout on Wall Street as fears grew that Democrats would accelerate a backlash against AI after their crushing defeat of President Donald Trump’s Republicans in the US midterms . The Tokyo and Seoul stock markets closed out their weeks with losses of six per cent fol…",
+   "image": "https://i.dawn.com/large/2026/11/06171447a1ded78.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Philippines gross foreign reserves at $97.4 billion at end-October",
+   "url": "https://www.brecorder.com/news/40447773/philippines-gross-foreign-reserves-at-974-billion-at-end-october",
+   "source": "Business Recorder",
+   "published": "2026-11-06T11:46:30+00:00",
+   "summary": "MANILA: The Philippines’ gross foreign reserves dropped to $97.4 billion at the end of October, from a revised $99.5 billion a month earlier, the central bank said on Friday, citing preliminary data. The latest forex reserves would provide an external liquidity buffer equivalent to 6.1 months worth of imports of goods …",
+   "image": "https://i.brecorder.com/large/2026/06/0110381587d5b18.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "World food prices dip in October, but remain higher than a year ago",
+   "url": "https://www.brecorder.com/news/40447762/world-food-prices-dip-in-october-but-remain-higher-than-a-year-ago",
+   "source": "Business Recorder",
+   "published": "2026-11-06T10:42:18+00:00",
+   "summary": "PARIS: World food prices edged lower in October as weaker import demand contributed to monthly declines in cereal, dairy and meat prices, but were still nearly 6% higher than a year earlier, the United Nations’ Food and Agriculture Organization said on Friday. The FAO Food Price Index, which tracks monthly changes in i…",
+   "image": "https://i.brecorder.com/large/2026/09/04163911d94fe05.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
+   "url": "https://www.brecorder.com/news/40447761/indian-rupee-strengthens-past-94-as-oil-slides-foreign-inflows-return",
+   "source": "Business Recorder",
+   "published": "2026-11-06T10:37:07+00:00",
+   "summary": "MUMBAI: The Indian rupee strengthened past 94 per dollar on Friday, regaining appeal among emerging-market currencies after spending much of the year in the doldrums, and also posted its best week in three weeks. Helped by the unwinding of the once-dominant AI trade and a sharp fall in oil prices after the Democrats sw…",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
    "topics": [
     "Economy"
    ],
@@ -207,11 +312,11 @@
    "domestic": false
   },
   {
-   "title": "PSX drops around 1,500 points by midday",
+   "title": "Profit-taking pulls PSX down around 1,500 points",
    "url": "https://tribune.com.pk/story/2638968/psx-drops-around-1500-points-by-midday",
    "source": "The Express Tribune",
    "published": "2026-11-06T03:45:00+00:00",
-   "summary": "Profit-taking drags KSE-100 down before Friday prayers",
+   "summary": "KSE-100 gains 4.49% week-on-week to close at 173,887",
    "image": null,
    "topics": [
     "Economy"
@@ -252,20 +357,6 @@
    "source": "The Express Tribune",
    "published": "2026-11-05T16:44:47+00:00",
    "summary": "FBR chairman assigns member Inland Revenue responsibility of maintaining direct contact and coordination with TMA",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF calls for investment in human capital",
-   "url": "https://tribune.com.pk/story/2638875/imf-calls-for-investment-in-human-capital",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T16:44:47+00:00",
-   "summary": "Country representative says Pakistan should increase revenue collection to 15% of GDP",
    "image": null,
    "topics": [
     "Budget & spending",
@@ -320,19 +411,6 @@
    "published": "2026-11-05T13:06:10+00:00",
    "summary": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation. The central bank tightened borrowing costs by a quarter point, catching up with the US Federal Reserve and the European Central Bank i…",
    "image": "https://i.dawn.com/large/2023/03/24101839908b225.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asia rice: Vietnam, Thai rice prices hit near two-year highs as India slips",
-   "url": "https://www.brecorder.com/news/40447585/asia-rice-vietnam-thai-rice-prices-hit-near-two-year-highs-as-india-slips",
-   "source": "Business Recorder",
-   "published": "2026-11-05T12:17:16+00:00",
-   "summary": "Rice export prices in Vietnam and Thailand climbed to their highest levels in nearly two years this week on concerns over supply disruptions and strong demand, while Indian prices eased as new-season arrivals improved supply. Vietnam’s 5% broken rice was offered at $480 to $490 per metric ton, up from $470 to $480 a we…",
-   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
    "topics": [
     "Economy"
    ],
