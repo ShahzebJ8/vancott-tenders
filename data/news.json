@@ -1,22 +1,77 @@
 {
- "generated": "2026-11-05T22:14:59+00:00",
+ "generated": "2026-11-06T02:46:11+00:00",
  "count": 36,
- "relevant_count": 11,
- "domestic_count": 9,
+ "relevant_count": 14,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (9)",
-  "Business Recorder": "ok (10)",
+  "Business Recorder": "ok (9)",
   "The Express Tribune": "ok (11)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "UNSC adopts Pakistan-initiated statement on diplomacy during active hostilities",
-   "url": "https://www.brecorder.com/news/40447601/unsc-adopts-pakistan-initiated-statement-on-diplomacy-during-active-hostilities",
+   "title": "Mayor launches Rs418.6m road rehabilitation project",
+   "url": "https://www.brecorder.com/news/40447698/mayor-launches-rs4186m-road-rehabilitation-project",
    "source": "Business Recorder",
-   "published": "2026-11-05T17:18:58+00:00",
-   "summary": "The United Nations Security Council on Thursday adopted by consensus a Presidential Statement (PRST) initiated by Pakistan on “The Role of Diplomacy during Active Hostilities,” the Foreign Office said. In a statement issued in Islamabad, the Ministry of Foreign Affairs described the adoption as an important contributio…",
-   "image": "https://i.brecorder.com/large/2026/11/0522161417bb509.webp",
+   "published": "2026-11-06T02:25:36+00:00",
+   "summary": "KARACHI: Mayor Karachi Barrister Murtaza Wahab on Thursday launched a Rs 418.6 million road rehabilitation project in Sohrab Goth, covering four major road schemes under the Karachi Metropolitan Corporation’s 140-road development programme, as part of efforts to improve infrastructure and ease commuting difficulties in…",
+   "image": "https://i.brecorder.com/large/2025/12/2208220551c8834.webp",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "JI presents 3-year report on nine Karachi towns",
+   "url": "https://www.brecorder.com/news/40447696/ji-presents-3-year-report-on-nine-karachi-towns",
+   "source": "Business Recorder",
+   "published": "2026-11-06T02:18:36+00:00",
+   "summary": "KARACHI: Jamaat-e-Islami (JI) on Thursday presented a three-year performance report of its nine towns with central chief Hafiz Naeem-ur-Rehman as the chief guest, who questioned the government of its Rs3,360 billion uplift budget amid deteriorating urban infrastructure. The report, titled “Journey of Construction, Deve…",
+   "image": "https://i.brecorder.com/large/2026/09/100156361790016.webp",
+   "topics": [
+    "Budget & spending",
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Denying fuel relief to registered beneficiaries: PM threatens to cancel licences of petrol pumps",
+   "url": "https://www.brecorder.com/news/40447687/denying-fuel-relief-to-registered-beneficiaries-pm-threatens-to-cancel-licences-of-petrol-pumps",
+   "source": "Business Recorder",
+   "published": "2026-11-06T01:14:51+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday directed the authorities to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the government’s Fuel Relief Programme, signalling punitive action against outlets obstructing the delivery of subsidised fuel to deserving citizens…",
+   "image": "https://i.brecorder.com/large/2025/08/22172531478f980.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "IMF urges Pakistan to widen tax base, accelerate reforms",
+   "url": "https://www.brecorder.com/news/40447688/imf-urges-pakistan-to-widen-tax-base-accelerate-reforms",
+   "source": "Business Recorder",
+   "published": "2026-11-06T01:08:54+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has urged Pakistan to accelerate structural reforms, broaden its narrow tax base and ensure equitable burden-sharing, stressing that low tax-to-GDP ratio and largely untapped revenue potential in agriculture, real estate and provincial services taxation are undermining t…",
+   "image": "https://i.brecorder.com/large/2025/12/693b3617e5187.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Long-term financing: PM orders removal of 80pc export requirement for SMEs",
+   "url": "https://www.brecorder.com/news/40447686/long-term-financing-pm-orders-removal-of-80pc-export-requirement-for-smes",
+   "source": "Business Recorder",
+   "published": "2026-11-06T01:04:34+00:00",
+   "summary": "ISLAMABAD: In a move aimed at improving access to credit for small and medium-sized enterprises (SMEs) and boosting exports, Prime Minister Shehbaz Sharif on Thursday ordered the removal of the 80 per cent export requirement for SMEs seeking long-term financing. Chairing a high-level meeting on facilitating export-orie…",
+   "image": "https://i.brecorder.com/large/2026/11/06060414131df39.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +79,25 @@
    "domestic": true
   },
   {
-   "title": "SBP-held foreign exchange reserves rise $39mn to $21.56bn",
-   "url": "https://www.brecorder.com/news/40447598/sbp-held-foreign-exchange-reserves-rise-39mn-to-2156bn",
+   "title": "ICT, Abbottabad rural properties: FBR revises valuation mechanism",
+   "url": "https://www.brecorder.com/news/40447641/ict-abbottabad-rural-properties-fbr-revises-valuation-mechanism",
    "source": "Business Recorder",
-   "published": "2026-11-05T15:56:10+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $39 million to $21.56 billion during the week ended October 30, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.86 billion as of October 30, 2026. According to the SBP’s latest data, net for…",
-   "image": "https://i.brecorder.com/large/2026/11/05205432b2a83aa.jpg",
+   "published": "2026-11-06T00:47:13+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has revised the valuation mechanism for immovable properties in rural areas of Islamabad Capital Territory (ICT) and Abbottabad, linking their valuation to the latest rates issued from time to time by the Additional Deputy Commissioner (Revenue)/ District Collector, Islamab…",
+   "image": "https://i.brecorder.com/large/2024/05/663d2db224fcd.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "CIMRAD conference warns of a collapse in Gulf jobs for migrant workers",
+   "url": "https://www.brecorder.com/news/40447644/cimrad-conference-warns-of-a-collapse-in-gulf-jobs-for-migrant-workers",
+   "source": "Business Recorder",
+   "published": "2026-11-06T00:47:13+00:00",
+   "summary": "LAHORE: Asia’s migration map is being redrawn by tighter borders, war and artificial intelligence, with experts warning that record remittance inflows may be masking a coming collapse in Gulf jobs for migrant workers. The warning came on Wednesday at the close of a two-day international conference organised by the Cent…",
+   "image": "https://i.brecorder.com/large/2022/01/61e888db59b3a.jpg",
    "topics": [
     "Economy"
    ],
@@ -128,40 +196,14 @@
    "domestic": true
   },
   {
-   "title": "ABHI IPO price holds steady at Rs15/share on first day of book-building",
-   "url": "https://www.brecorder.com/news/40447605/abhi-ipo-price-holds-steady-at-rs15share-on-first-day-of-book-building",
+   "title": "HESCO directs resolution of power supply issues in SITE",
+   "url": "https://www.brecorder.com/news/40447640/hesco-directs-resolution-of-power-supply-issues-in-site",
    "source": "Business Recorder",
-   "published": "2026-11-05T18:03:08+00:00",
-   "summary": "ABHI Microfinance Bank Limited’s share price stuck to its opening price of Rs15 on the first of the two-day book-building at the Pakistan Stock Exchange (PSX) on Thursday, as it aims to mobilise a minimum of Rs1.98 billion through initial public offering (IPO) to strengthen and expand its business. The share price is a…",
-   "image": "https://i.brecorder.com/large/2026/09/220132587409396.webp",
+   "published": "2026-11-06T00:47:13+00:00",
+   "summary": "HYDERABAD: President Hyderabad Chamber of Small Traders & Small Industry, Nadeem Ahmed Siddiqui, has said that unscheduled load shedding, prolonged shutdowns and delays in power restoration on various HESCO industrial feeders are causing serious difficulties for traders, industrialists and shopkeepers in Hyderabad. The…",
+   "image": "https://i.brecorder.com/large/2026/02/16032616e6dc77f.webp",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Greek parliament approves 10% tax on cryptocurrency gains",
-   "url": "https://www.brecorder.com/news/40447604/greek-parliament-approves-10-tax-on-cryptocurrency-gains",
-   "source": "Business Recorder",
-   "published": "2026-11-05T17:58:19+00:00",
-   "summary": "ATHENS: Greece’s parliament approved on Thursday a bill that imposes a 10% capital gains tax on cryptocurrencies, the first comprehensive legal framework for taxing crypto assets in Greece. Cryptocurrency capital gains of up to €500 ($563) per year will be exempt from the new tax, the bill says. “Further implementation…",
-   "image": "https://i.brecorder.com/large/2026/11/05225647f59323e.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz orders removal of 80% export condition for SMEs seeking long-term financing",
-   "url": "https://www.brecorder.com/news/40447596/pm-shehbaz-orders-removal-of-80-export-condition-for-smes-seeking-long-term-financing",
-   "source": "Business Recorder",
-   "published": "2026-11-05T15:21:23+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday directed authorities to remove the requirement for small and medium enterprises (SMEs) to generate 80% of their revenue from exports to qualify for long-term financing, aiming to improve access to credit and support export growth. Chairing a high-level meeting on facilitating e…",
-   "image": "https://i.brecorder.com/large/2026/11/0520195693bf076.webp",
-   "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -173,19 +215,6 @@
    "published": "2026-11-05T13:06:10+00:00",
    "summary": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation. The central bank tightened borrowing costs by a quarter point, catching up with the US Federal Reserve and the European Central Bank i…",
    "image": "https://i.dawn.com/large/2023/03/24101839908b225.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Armani heirs favour IPO over sale to industry player, sources say",
-   "url": "https://www.brecorder.com/news/40447590/armani-heirs-favour-ipo-over-sale-to-industry-player-sources-say",
-   "source": "Business Recorder",
-   "published": "2026-11-05T12:39:13+00:00",
-   "summary": "MILAN: The heirs of late designer Giorgio Armani, who now control the eponymous fashion empire, favour an eventual stock market listing over a sale to a large industry player as they pursue an initial minority stake deal, two people familiar with the matter told Reuters . Armani, who died at 91 last year, stipulated in…",
-   "image": "https://i.brecorder.com/large/2026/11/05173834b30275d.webp",
    "topics": [
     "Economy"
    ],
@@ -225,19 +254,6 @@
    "published": "2026-11-05T11:27:19+00:00",
    "summary": "Prime Minister Shehbaz Sharif on Thursday directed the authorities concerned to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the Prime Minister’s Fuel Relief Programme . Chairing a meeting to review progress on the programme, the prime minister expressed satisfaction over i…",
    "image": "https://i.dawn.com/large/2026/11/05150508673282a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM orders cancellation of licences of petrol pumps denying fuel subsidy",
-   "url": "https://www.brecorder.com/news/40447582/pm-orders-cancellation-of-licences-of-petrol-pumps-denying-fuel-subsidy",
-   "source": "Business Recorder",
-   "published": "2026-11-05T11:26:30+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday directed authorities to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the Prime Minister’s Fuel Relief Programme. Chairing a meeting to review progress on the programme, the prime minister expressed satisfaction over its implementati…",
-   "image": "https://i.brecorder.com/large/2026/11/0516235172bed1c.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -342,19 +358,6 @@
    "published": "2026-11-05T06:27:48+00:00",
    "summary": "CANBERRA: Chicago wheat futures rose on Thursday as a weaker US dollar made US crops more competitive on global markets, although expectations of stronger Black Sea exports kept prices near four-month lows. Corn and soybean futures also gained after reaching multi-month lows in the previous session. The most-traded whe…",
    "image": "https://i.brecorder.com/large/2025/01/29013310fd53c59.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold hits a two-week high as dollar, Treasury yields ease after US midterm elections",
-   "url": "https://www.brecorder.com/news/40447533/gold-hits-a-two-week-high-as-dollar-treasury-yields-ease-after-us-midterm-elections",
-   "source": "Business Recorder",
-   "published": "2026-11-05T06:11:43+00:00",
-   "summary": "Gold prices climbed nearly 2% to a two-week high on Thursday , supported by a weaker US dollar and lower US Treasury yields in the wake of a Democratic midterm election wave. Spot gold rose 1.9% to $4,134.83 per ounce by 0316 GMT, hitting its highest since October 22. Bullion climbed about 3.4% on Wednesday, its bigges…",
-   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
    "topics": [
     "Economy"
    ],
