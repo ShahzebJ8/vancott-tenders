@@ -1,50 +1,35 @@
 {
- "generated": "2026-11-06T02:46:11+00:00",
- "count": 36,
- "relevant_count": 14,
- "domestic_count": 14,
+ "generated": "2026-11-06T10:22:58+00:00",
+ "count": 32,
+ "relevant_count": 11,
+ "domestic_count": 6,
  "sources": {
-  "Dawn": "ok (9)",
+  "Dawn": "ok (8)",
   "Business Recorder": "ok (9)",
-  "The Express Tribune": "ok (11)",
+  "The Express Tribune": "ok (12)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Mayor launches Rs418.6m road rehabilitation project",
-   "url": "https://www.brecorder.com/news/40447698/mayor-launches-rs4186m-road-rehabilitation-project",
+   "title": "PM Shehbaz approves reforms to modernise TDAP, boost Pakistan’s exports",
+   "url": "https://www.brecorder.com/news/40447752/pm-shehbaz-approves-reforms-to-modernise-tdap-boost-pakistans-exports",
    "source": "Business Recorder",
-   "published": "2026-11-06T02:25:36+00:00",
-   "summary": "KARACHI: Mayor Karachi Barrister Murtaza Wahab on Thursday launched a Rs 418.6 million road rehabilitation project in Sohrab Goth, covering four major road schemes under the Karachi Metropolitan Corporation’s 140-road development programme, as part of efforts to improve infrastructure and ease commuting difficulties in…",
-   "image": "https://i.brecorder.com/large/2025/12/2208220551c8834.webp",
+   "published": "2026-11-06T08:08:51+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Friday approved a plan to modernise the Trade Development Authority of Pakistan (TDAP) to promote national exports, improve access for Pakistani products to international markets and help local industries, including small and medium-sized enterprises (SMEs), meet export standards. The d…",
+   "image": "https://i.brecorder.com/large/2026/11/061307087df7a5a.webp",
    "topics": [
-    "Budget & spending",
-    "Construction & projects"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": true
   },
   {
-   "title": "JI presents 3-year report on nine Karachi towns",
-   "url": "https://www.brecorder.com/news/40447696/ji-presents-3-year-report-on-nine-karachi-towns",
-   "source": "Business Recorder",
-   "published": "2026-11-06T02:18:36+00:00",
-   "summary": "KARACHI: Jamaat-e-Islami (JI) on Thursday presented a three-year performance report of its nine towns with central chief Hafiz Naeem-ur-Rehman as the chief guest, who questioned the government of its Rs3,360 billion uplift budget amid deteriorating urban infrastructure. The report, titled “Journey of Construction, Deve…",
-   "image": "https://i.brecorder.com/large/2026/09/100156361790016.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Denying fuel relief to registered beneficiaries: PM threatens to cancel licences of petrol pumps",
-   "url": "https://www.brecorder.com/news/40447687/denying-fuel-relief-to-registered-beneficiaries-pm-threatens-to-cancel-licences-of-petrol-pumps",
-   "source": "Business Recorder",
-   "published": "2026-11-06T01:14:51+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday directed the authorities to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the government’s Fuel Relief Programme, signalling punitive action against outlets obstructing the delivery of subsidised fuel to deserving citizens…",
-   "image": "https://i.brecorder.com/large/2025/08/22172531478f980.jpg",
+   "title": "Sales tax invoices mandatory on advance payments",
+   "url": "https://www.dawn.com/news/2042453/sales-tax-invoices-mandatory-on-advance-payments",
+   "source": "Dawn",
+   "published": "2026-11-06T03:51:11+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has made sales tax invoices mandatory for registered taxpayers on advance payments received against future supplies. The new procedures notified through SRO2063 of 2026 also require taxpayers to declare output tax in the return for the tax period in which the payments are r…",
+   "image": "https://i.dawn.com/large/2021/11/6181ff099c17a.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -52,69 +37,17 @@
    "domestic": true
   },
   {
-   "title": "IMF urges Pakistan to widen tax base, accelerate reforms",
-   "url": "https://www.brecorder.com/news/40447688/imf-urges-pakistan-to-widen-tax-base-accelerate-reforms",
-   "source": "Business Recorder",
-   "published": "2026-11-06T01:08:54+00:00",
-   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has urged Pakistan to accelerate structural reforms, broaden its narrow tax base and ensure equitable burden-sharing, stressing that low tax-to-GDP ratio and largely untapped revenue potential in agriculture, real estate and provincial services taxation are undermining t…",
-   "image": "https://i.brecorder.com/large/2025/12/693b3617e5187.jpg",
+   "title": "Govt ‘wastes’ Rs3.5tr yearly on energy imports",
+   "url": "https://www.dawn.com/news/2042457/govt-wastes-rs35tr-yearly-on-energy-imports",
+   "source": "Dawn",
+   "published": "2026-11-06T01:59:00+00:00",
+   "summary": "ISLAMABAD: Pakistan is wasting Rs3.5 trillion annually — more than three times the federal development budget — on unnecessary, rising energy-sector imports due to mismanagement, delays in adopting building codes, and failure to implement an indigenisation plan for energy materials and equipment that used to be produce…",
+   "image": "https://i.dawn.com/large/2026/11/06084436d9bf557.webp",
    "topics": [
     "Budget & spending",
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Long-term financing: PM orders removal of 80pc export requirement for SMEs",
-   "url": "https://www.brecorder.com/news/40447686/long-term-financing-pm-orders-removal-of-80pc-export-requirement-for-smes",
-   "source": "Business Recorder",
-   "published": "2026-11-06T01:04:34+00:00",
-   "summary": "ISLAMABAD: In a move aimed at improving access to credit for small and medium-sized enterprises (SMEs) and boosting exports, Prime Minister Shehbaz Sharif on Thursday ordered the removal of the 80 per cent export requirement for SMEs seeking long-term financing. Chairing a high-level meeting on facilitating export-orie…",
-   "image": "https://i.brecorder.com/large/2026/11/06060414131df39.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "ICT, Abbottabad rural properties: FBR revises valuation mechanism",
-   "url": "https://www.brecorder.com/news/40447641/ict-abbottabad-rural-properties-fbr-revises-valuation-mechanism",
-   "source": "Business Recorder",
-   "published": "2026-11-06T00:47:13+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has revised the valuation mechanism for immovable properties in rural areas of Islamabad Capital Territory (ICT) and Abbottabad, linking their valuation to the latest rates issued from time to time by the Additional Deputy Commissioner (Revenue)/ District Collector, Islamab…",
-   "image": "https://i.brecorder.com/large/2024/05/663d2db224fcd.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "CIMRAD conference warns of a collapse in Gulf jobs for migrant workers",
-   "url": "https://www.brecorder.com/news/40447644/cimrad-conference-warns-of-a-collapse-in-gulf-jobs-for-migrant-workers",
-   "source": "Business Recorder",
-   "published": "2026-11-06T00:47:13+00:00",
-   "summary": "LAHORE: Asia’s migration map is being redrawn by tighter borders, war and artificial intelligence, with experts warning that record remittance inflows may be masking a coming collapse in Gulf jobs for migrant workers. The warning came on Wednesday at the close of a two-day international conference organised by the Cent…",
-   "image": "https://i.brecorder.com/large/2022/01/61e888db59b3a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40447576/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-05T14:46:59+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Thursday. The local unit closed the day at 276.67, a gain of Re0.03 against the greenback. On Wednesday , the rupee had closed at 276.70 against the dollar. Internationally, the US dollar edged lower on…",
-   "image": "https://i.brecorder.com/large/2026/11/040759537532b93.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -157,53 +90,225 @@
    "domestic": true
   },
   {
-   "title": "Imported wheat fails to cut flour prices",
-   "url": "https://www.dawn.com/news/2041703/imported-wheat-fails-to-cut-flour-prices",
-   "source": "Dawn",
-   "published": "2026-11-03T03:59:17+00:00",
-   "summary": "KARACHI: Although the arrival of imported wheat has brought down prices in the open market, consumers continue to pay high prices for different varieties of flour and Roti. On Oct 28, when the first ship carrying 51,000 tonnes of wheat berthed at the port, wheat prices in the open market plunged to Rs130 from Rs140 per…",
-   "image": "https://i.dawn.com/large/2026/10/10034047eaa5392.webp",
+   "title": "Pakistan’s trade deficit surges 20% YoY to $3.9bn in October 2026",
+   "url": "https://www.brecorder.com/news/40447756/pakistans-trade-deficit-surges-20-yoy-to-39bn-in-october-2026",
+   "source": "Business Recorder",
+   "published": "2026-11-06T10:18:31+00:00",
+   "summary": "Pakistan’s trade deficit significantly increased by nearly 20% to $3.88 billion in October 2026, as compared to the same month of the previous year, data released by the Pakistan Bureau of Statistics (PBS) showed on Friday. The country’s trade balance, the gap between exports and imports, was recorded at a deficit of $…",
+   "image": "https://i.brecorder.com/large/2025/11/1205225982ab540.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "FCC reserves ruling on petitions challenging Super Tax judgement",
-   "url": "https://www.dawn.com/news/2041708/fcc-reserves-ruling-on-petitions-challenging-super-tax-judgement",
-   "source": "Dawn",
-   "published": "2026-11-03T02:08:12+00:00",
-   "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) on Monday reserved its ruling on a set of petitions seeking a review of its Jan 27 judgement upholding the vires of the Super Tax, while highlighting that Sections 4B and 4C of the Income Tax Ordinance (ITO), 2001, would apply from the dates on which they were levied. H…",
-   "image": "https://i.dawn.com/large/2026/09/151401299ffbefe.webp",
+   "title": "OGDC faces hurdles in unlocking Baragzai oil potential: report",
+   "url": "https://www.brecorder.com/news/40447758/ogdc-faces-hurdles-in-unlocking-baragzai-oil-potential-report",
+   "source": "Business Recorder",
+   "published": "2026-11-06T09:37:27+00:00",
+   "summary": "Oil and Gas Development Company Limited (OGDC), Pakistan’s largest E&P company, is facing infrastructure constraints that could limit its ability to unlock the full production potential of its Baragzai field. OGDC management disclosed the development during an analyst briefing held to discuss the financial performance …",
+   "image": "https://i.brecorder.com/large/2023/05/6462fcabc7768.jpg",
    "topics": [
-    "Budget & spending"
+    "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "At Kazakhstan forum, Pakistan presents Karachi and Gwadar ports as 'strategic gateways' for Central Asian trade",
-   "url": "https://www.dawn.com/news/2041649/at-kazakhstan-forum-pakistan-presents-karachi-and-gwadar-ports-as-strategic-gateways-for-central-asian-trade",
-   "source": "Dawn",
-   "published": "2026-11-02T18:35:58+00:00",
-   "summary": "ISLAMABAD: Pakistan can serve as an important trade and transit corridor for the landlocked Central Asian countries, providing them with access to international maritime trade routes and global markets, Minister for Board of Investment (BoI) Qaiser Ahmed Sheikh said on Monday. He made the remarks while addressing the o…",
-   "image": "https://i.dawn.com/large/2026/11/0222065231c272b.webp",
+   "title": "PSX: selling engulfs bourse, KSE-100 sheds nearly 1,500 points",
+   "url": "https://www.brecorder.com/news/40447725/psx-selling-engulfs-bourse-kse-100-sheds-nearly-1500-points",
+   "source": "Business Recorder",
+   "published": "2026-11-06T07:24:48+00:00",
+   "summary": "After days of buying momentum, selling returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding nearly 1,500 points during the first session of trading on Friday. At 12pm, the benchmark index was hovering at 173,885.77, down 1,494.09 points or 0.85%. “We expect the market to witness some…",
+   "image": "https://i.brecorder.com/large/2026/11/06093605b00526d.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "HESCO directs resolution of power supply issues in SITE",
-   "url": "https://www.brecorder.com/news/40447640/hesco-directs-resolution-of-power-supply-issues-in-site",
+   "title": "South African rand slips on stronger dollar, local election vote count advances",
+   "url": "https://www.brecorder.com/news/40447749/south-african-rand-slips-on-stronger-dollar-local-election-vote-count-advances",
    "source": "Business Recorder",
-   "published": "2026-11-06T00:47:13+00:00",
-   "summary": "HYDERABAD: President Hyderabad Chamber of Small Traders & Small Industry, Nadeem Ahmed Siddiqui, has said that unscheduled load shedding, prolonged shutdowns and delays in power restoration on various HESCO industrial feeders are causing serious difficulties for traders, industrialists and shopkeepers in Hyderabad. The…",
-   "image": "https://i.brecorder.com/large/2026/02/16032616e6dc77f.webp",
+   "published": "2026-11-06T07:19:35+00:00",
+   "summary": "JOHANNESBURG: The South African rand weakened against a firmer dollar on Friday as ​the vote count in this week’s ‌municipal elections progressed, with results so far pointing to a further slide in support for the African ​National Congress. At 0655 GMT, the rand ​traded at 16.5275 against the U.S. currency , ⁠down 0.3…",
+   "image": "https://i.brecorder.com/large/2026/11/06121728b52535b.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai October headline CPI rises 3.90% on year, above forecast",
+   "url": "https://www.brecorder.com/news/40447745/thai-october-headline-cpi-rises-390-on-year-above-forecast",
+   "source": "Business Recorder",
+   "published": "2026-11-06T06:50:47+00:00",
+   "summary": "BANGKOK: Thailand’s headline consumer price index rose 3.90% in October from a year earlier, following an annual increase of 2.82% in the previous month, the commerce ministry said on Friday. The reading compared with a forecast rise of 3.24% in a Reuters poll, and exceeded the central bank’s inflation target range of …",
+   "image": "https://i.brecorder.com/large/2022/04/04103039fcf20d2.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Soybeans and corn firm on higher oil prices, but set for weekly losses",
+   "url": "https://www.brecorder.com/news/40447738/soybeans-and-corn-firm-on-higher-oil-prices-but-set-for-weekly-losses",
+   "source": "Business Recorder",
+   "published": "2026-11-06T06:34:36+00:00",
+   "summary": "SINGAPORE: Soybeans and corn rose on Friday as gains in oil prices supported agricultural goods, although expectations of ample global supplies limited the upside and left both markets on track for weekly losses. Wheat slid on prospects of a resumption of Black Sea grain exports. “The downside is limited at current lev…",
+   "image": "https://i.brecorder.com/large/2026/08/1900533308f841a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan slips, looks set to snap five-week winning streak",
+   "url": "https://www.brecorder.com/news/40447735/chinas-yuan-slips-looks-set-to-snap-five-week-winning-streak",
+   "source": "Business Recorder",
+   "published": "2026-11-06T06:31:22+00:00",
+   "summary": "SHANGHAI: China’s yuan eased against the dollar on Friday and looked set to snap a five-week winning streak after a softer official midpoint guidance, while a selloff in equities further weighed on market sentiment. Chinese stocks tumbled, mirroring a sharp overnight selloff on Wall Street after the tech-heavy Nasdaq p…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Friday",
+   "url": "https://www.brecorder.com/news/40447733/thai-bahtus-dollar-weaker-on-friday",
+   "source": "Business Recorder",
+   "published": "2026-11-06T06:27:48+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Friday . At 0126 GMT, the baht was 0.18% lower at 33.47 versus the dollar, after trading in a range of 33.460 to 33.480. It ended the previous session at 33.41 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold drops over 1% on higher oil prices; US payrolls data in focus",
+   "url": "https://www.brecorder.com/news/40447728/gold-drops-over-1-on-higher-oil-prices-us-payrolls-data-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-11-06T05:54:22+00:00",
+   "summary": "Gold prices slipped on Friday as oil prices rebounded, fanning inflation worries and higher-for-longer interest rate expectations, while investors awaited key US payrolls data later in the day. Spot gold fell 1.1% to $4,044.09 per ounce by 0501 GMT, but was on track for its best week since late August. US gold futures …",
+   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX drops around 1,500 points by midday",
+   "url": "https://tribune.com.pk/story/2638968/psx-drops-around-1500-points-by-midday",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T03:45:00+00:00",
+   "summary": "Profit-taking drags KSE-100 down before Friday prayers",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US, SBP celebrate deployment of new core banking network and data centre",
+   "url": "https://tribune.com.pk/story/2638967/us-sbp-celebrate-deployment-of-new-core-banking-network-and-data-centre",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T03:25:30+00:00",
+   "summary": "Project aims to strengthen Pakistan's financial infrastructure and ensure secure digital banking services nationwide",
+   "image": null,
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to draw support from return of foreign flows amid tech meltdown",
+   "url": "https://www.brecorder.com/news/40447721/indian-rupee-to-draw-support-from-return-of-foreign-flows-amid-tech-meltdown",
+   "source": "Business Recorder",
+   "published": "2026-11-06T03:13:21+00:00",
+   "summary": "MUMBAI: The Indian rupee on Friday will draw support from a return of foreign capital to Indian markets after months of sustained outflows, with ​a technology rout offering a tailwind for capital flows into Asia’s ‌third-largest economy. The Indian rupee has advanced 0.5% so far this week, hitting a two-week high of 94…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "FBR vows to solve exporters' blacklisting issues",
+   "url": "https://tribune.com.pk/story/2638879/fbr-vows-to-solve-exporters-blacklisting-issues",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T16:44:47+00:00",
+   "summary": "FBR chairman assigns member Inland Revenue responsibility of maintaining direct contact and coordination with TMA",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "IMF calls for investment in human capital",
+   "url": "https://tribune.com.pk/story/2638875/imf-calls-for-investment-in-human-capital",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T16:44:47+00:00",
+   "summary": "Country representative says Pakistan should increase revenue collection to 15% of GDP",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX extends rally, reclaims 175,000 mark",
+   "url": "https://tribune.com.pk/story/2638881/psx-extends-rally-reclaims-175000-mark",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T16:44:47+00:00",
+   "summary": "KSE-100 surges 3,366 points in fourth consecutive positive session",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PVARA, Mastercard eye tokenisation",
+   "url": "https://tribune.com.pk/story/2638882/pvara-mastercard-eye-tokenisation",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T16:44:47+00:00",
+   "summary": "Discuss cross-border payments, remittance efficiency and cybersecurity",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "1m AI professionals targeted by 2030",
+   "url": "https://tribune.com.pk/story/2638878/1m-ai-professionals-targeted-by-2030",
+   "source": "The Express Tribune",
+   "published": "2026-11-05T16:44:47+00:00",
+   "summary": "Iqbal tells Pakistan-Russia forum aim sits within push for trillion-dollar economy by 2035",
+   "image": null,
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -235,19 +340,6 @@
    "domestic": false
   },
   {
-   "title": "IMF country head urges Pakistan to broaden tax base, pursue growth-oriented reforms",
-   "url": "https://tribune.com.pk/story/2638848/imf-country-head-urges-pakistan-to-broaden-tax-base-pursue-growth-oriented-reforms",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T12:02:52+00:00",
-   "summary": "Mahir Binici says Pakistan needs a simpler, fairer tax system to finance development and investment",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PM directs cancellation of petrol pump licences over failure to facilitate fuel subsidy beneficiaries",
    "url": "https://www.dawn.com/news/2042330/pm-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
    "source": "Dawn",
@@ -258,19 +350,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee finds its footing as oil worries cool, traders watch flow momentum",
-   "url": "https://www.brecorder.com/news/40447580/indian-rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum",
-   "source": "Business Recorder",
-   "published": "2026-11-05T11:11:38+00:00",
-   "summary": "MUMBAI: The Indian rupee ended at its strongest level in two weeks on Thursday as oil prices eased below $100 per barrel on hopes that the risk of escalation in the Iran war has diminished after Republicans lost control of the US Congress. Easing oil prices lifted Indian stocks to their best day in 7 months while bond …",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -287,116 +366,12 @@
    "domestic": false
   },
   {
-   "title": "Emirates Group says first-half profit drops 66%",
-   "url": "https://www.brecorder.com/news/40447561/emirates-group-says-first-half-profit-drops-66",
-   "source": "Business Recorder",
-   "published": "2026-11-05T08:09:51+00:00",
-   "summary": "DUBAI: The UAE’s Emirates Group on Thursday said its profits in the first half of the financial year fell 66 percent year-on-year, as the regional war and high fuel costs hit aviation. Half-year profit after tax stood at 3.6 billion AED ($1 billion), the group said in a statement. The Dubai-based group, which owns the …",
-   "image": "https://i.brecorder.com/large/2026/04/01112413a5631e3.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan rebounds as PBOC lifts midpoint, dollar falls after Democrats take Congress",
-   "url": "https://www.brecorder.com/news/40447547/chinas-yuan-rebounds-as-pboc-lifts-midpoint-dollar-falls-after-democrats-take-congress",
-   "source": "Business Recorder",
-   "published": "2026-11-05T07:21:54+00:00",
-   "summary": "HONG KONG: China’s yuan bounced from a more than a two-week low against the dollar on Thursday, as the central bank lifted its midpoint rate and the greenback weakened as Democrats captured control of Congress in US midterm elections. The currency had come under pressure earlier this week after China’s move to raise th…",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia Q3 GDP growth at 5.47%, beats expectations",
-   "url": "https://www.brecorder.com/news/40447545/indonesia-q3-gdp-growth-at-547-beats-expectations",
-   "source": "Business Recorder",
-   "published": "2026-11-05T07:18:14+00:00",
-   "summary": "JAKARTA: Indonesia’s economy expanded 5.47% in the third quarter from a year earlier, official data showed on Thursday, faster than the 5.18% forecast in a Reuters poll. Indonesia’s economic growth in the second quarter stood at 5.29%. Southeast Asia’s largest economy has contended with weaker investor sentiment this y…",
-   "image": "https://i.brecorder.com/large/2025/02/05113602112c53a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australia, NZ dollars extend gains as US Democratic sweep fuels risk rally",
-   "url": "https://www.brecorder.com/news/40447539/australia-nz-dollars-extend-gains-as-us-democratic-sweep-fuels-risk-rally",
-   "source": "Business Recorder",
-   "published": "2026-11-05T06:40:46+00:00",
-   "summary": "SYDNEY: The Australian and New Zealand dollars extended gains on Thursday as a Democratic Party sweep in the US midterm elections fuelled a rally in equities and a broad retreat in the greenback, offsetting domestic headwinds. The Aussie dollar edged up 0.2% to $0.7019 after rallying 0.6% overnight to as high as $0.702…",
-   "image": "https://i.brecorder.com/large/2026/07/231115114796996.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar stronger on Thursday",
-   "url": "https://www.brecorder.com/news/40447537/thai-bahtus-dollar-stronger-on-thursday",
-   "source": "Business Recorder",
-   "published": "2026-11-05T06:30:33+00:00",
-   "summary": "BANGKOK: The Thai baht strengthened against the US dollar on Thursday . At 0218 GMT, the baht was 0.48% higher at 33.44 versus the dollar, after trading in a range of 33.450 to 33.590. It ended the previous session at 33.6 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Weak US dollar lifts wheat, but Black Sea export hopes cap gains",
-   "url": "https://www.brecorder.com/news/40447536/weak-us-dollar-lifts-wheat-but-black-sea-export-hopes-cap-gains",
-   "source": "Business Recorder",
-   "published": "2026-11-05T06:27:48+00:00",
-   "summary": "CANBERRA: Chicago wheat futures rose on Thursday as a weaker US dollar made US crops more competitive on global markets, although expectations of stronger Black Sea exports kept prices near four-month lows. Corn and soybean futures also gained after reaching multi-month lows in the previous session. The most-traded whe…",
-   "image": "https://i.brecorder.com/large/2025/01/29013310fd53c59.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz orders cancellation of petrol pump licences over denial of fuel subsidies",
-   "url": "https://tribune.com.pk/story/2638808/pm-shehbaz-orders-cancellation-of-petrol-pump-licences-over-denial-of-fuel-subsidies",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T05:46:29+00:00",
-   "summary": "Directs to ensure registered beneficiaries face no hurdles in accessing subsidised fuel as 59.4m tokens are redeemed",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Pakistan's exports to Europe fall in first quarter of FY27 despite GSP+",
    "url": "https://www.dawn.com/news/2042284/pakistans-exports-to-europe-fall-in-first-quarter-of-fy27-despite-gsp",
    "source": "Dawn",
    "published": "2026-11-05T04:03:30+00:00",
    "summary": "https://www.dawn.com/news/2042198",
    "image": "https://i.dawn.com/large/2026/08/0607280213994aa.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX extends rally for second session, reclaims 175,000 mark",
-   "url": "https://tribune.com.pk/story/2638786/psx-extends-rally-for-second-session-gains-over-3400-points",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T03:26:02+00:00",
-   "summary": "KSE-100 surges 3,366 points as buying interest continues amid easing geopolitical concerns after US midterm elections",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -422,32 +397,6 @@
    "source": "The Express Tribune",
    "published": "2026-11-04T16:40:33+00:00",
    "summary": "Aurangzeb meets PTEA delegation, Mastercard on digital payments and financial inclusion",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold holds steady at Rs412,136 per tola",
-   "url": "https://tribune.com.pk/story/2638492/gold-holds-steady-at-rs412136-per-tola",
-   "source": "The Express Tribune",
-   "published": "2026-11-03T16:08:51+00:00",
-   "summary": "Global bullion weakens amid dollar, yield pressures; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "'Climate finance must go beyond green investment'",
-   "url": "https://tribune.com.pk/story/2638498/climate-finance-must-go-beyond-green-investment",
-   "source": "The Express Tribune",
-   "published": "2026-11-03T16:08:51+00:00",
-   "summary": "SBP chief says funding must help communities anticipate risks, build resilience",
    "image": null,
    "topics": [
     "Economy"
