@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-06T17:42:17+00:00",
- "count": 38,
- "relevant_count": 10,
- "domestic_count": 7,
+ "generated": "2026-11-06T22:43:39+00:00",
+ "count": 36,
+ "relevant_count": 9,
+ "domestic_count": 6,
  "sources": {
-  "Dawn": "ok (10)",
+  "Dawn": "ok (9)",
   "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (11)",
+  "The Express Tribune": "ok (10)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
@@ -87,19 +87,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Climate finance must protect vulnerable communities: SBP",
-   "url": "https://www.dawn.com/news/2041933/climate-finance-must-protect-vulnerable-communities-sbp",
-   "source": "Dawn",
-   "published": "2026-11-04T02:00:35+00:00",
-   "summary": "KARACHI: Climate change and financial exclusion are deeply interconnected, with the most vulnerable communities often having the least access to financial protection, State Bank of Pakistan (SBP) Governor Jameel Ahmad said on Tuesday. Addressing the inaugural session of a four-day joint learning programme organised by …",
-   "image": "https://i.dawn.com/large/2026/01/24094259d98d30e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -349,20 +336,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR vows to solve exporters' blacklisting issues",
-   "url": "https://tribune.com.pk/story/2638879/fbr-vows-to-solve-exporters-blacklisting-issues",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T16:44:47+00:00",
-   "summary": "FBR chairman assigns member Inland Revenue responsibility of maintaining direct contact and coordination with TMA",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {

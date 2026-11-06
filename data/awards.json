@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T17:41:51+00:00",
+ "generated": "2026-11-06T22:43:13+00:00",
  "count": 942,
  "with_value": 899,
  "with_winner": 324,
@@ -17921,6 +17921,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004946",
+   "tender_no": "TS0000007014E",
+   "reference": "HCP/FGPC(PGMI)-II/ME-06052026-2/P30",
+   "title": "PROCUREMENT OF NEONATAL EQUIPMENT (PACKAGE NO. 30) ON DAP BASIS FOR ESTABLISHMENT OF FEDERAL GOVERNMENT POLYCLINIC (PGMI)-II AT G-11/3, ISLAMABAD Equipments",
+   "organisation": "Government of Punjab Infrastructure Development Authority of the Punjab (IDAP) Head Office Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Medequips SMC (Pvt.) Limited"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-06",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004946",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004944",
    "tender_no": "TS0000010643E",
@@ -56980,24 +57000,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002843",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002842",
-   "tender_no": "TS0000008536E",
-   "reference": "Ref.No.PMDC/Pro/Civil work/TR/KH",
-   "title": "Tender Notice for Supply and Fabrication of Sculpture of Alexander the Great on Horse in Fiber glass Including Civil Structure at PMDC Tourist Resort Khewra Civil Works",
-   "organisation": "Pakistan Mineral Development Corporation (PMDC) Pakistan Mineral Development Corporation (PMDC) Islamabad - Pakistan",
-   "bid_count": 3,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-20",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002842",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
