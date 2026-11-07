@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T16:08:10+00:00",
+ "generated": "2026-11-07T20:28:23+00:00",
  "count": 44,
  "relevant_count": 11,
  "domestic_count": 11,
@@ -221,6 +221,19 @@
    "domestic": false
   },
   {
+   "title": "NEPRA notifies Rs2.36 per unit hike in electricity price",
+   "url": "https://tribune.com.pk/story/2639122/nepra-notifies-rs236-per-unit-hike-in-electricity-price",
+   "source": "The Express Tribune",
+   "published": "2026-11-07T03:22:42+00:00",
+   "summary": "Fuel charge adjustment for September exempts prepaid consumers, EV stations, appears separately in bills",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Trade gap widens 16% to $14.6b",
    "url": "https://tribune.com.pk/story/2639038/trade-gap-widens-16-to-146b",
    "source": "The Express Tribune",
@@ -239,19 +252,6 @@
    "source": "The Express Tribune",
    "published": "2026-11-06T15:56:12+00:00",
    "summary": "Index surges as LPG goes up 115%, tomatoes 79%, diesel 39% and petrol 36%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Tariff cuts spark duty burden debate",
-   "url": "https://tribune.com.pk/story/2639043/tariff-cuts-spark-duty-burden-debate",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Experts differ on calculations as border costs, energy prices weigh on exports",
    "image": null,
    "topics": [
     "Economy"
