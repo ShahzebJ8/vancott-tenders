@@ -1,15 +1,28 @@
 {
- "generated": "2026-11-07T09:37:33+00:00",
- "count": 47,
- "relevant_count": 14,
- "domestic_count": 12,
+ "generated": "2026-11-07T16:08:10+00:00",
+ "count": 44,
+ "relevant_count": 11,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (14)",
+  "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (14)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
+   "url": "https://www.brecorder.com/news/40447902/beyond-extraction-turning-pakistans-mineral-wealth-into-national-prosperity",
+   "source": "Business Recorder",
+   "published": "2026-11-07T13:21:39+00:00",
+   "summary": "As Pakistan prepares to welcome international investors, mining companies and industry experts at the Pakistan Minerals Investment Forum in Islamabad next week, it is important to look beyond the immediate objective of attracting investment. The real challenge is to develop a mineral sector that creates lasting economi…",
+   "image": "https://i.brecorder.com/large/2026/11/07181247f8d8704.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "SE Fruits IPO probe: SECP seeks export records from seven banks",
    "url": "https://www.brecorder.com/news/40447887/se-fruits-ipo-probe-secp-seeks-export-records-from-seven-banks",
@@ -45,32 +58,6 @@
    "image": "https://i.brecorder.com/large/2026/11/07101231142393e.webp",
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR mandates sales tax invoices for advance payments",
-   "url": "https://www.brecorder.com/news/40447871/fbr-mandates-sales-tax-invoices-for-advance-payments",
-   "source": "Business Recorder",
-   "published": "2026-11-07T01:27:03+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has prescribed a procedure for sales tax-registered taxpayers for the issuance of advance receipt invoices to account for advance payments received against supplies. The FBR has issued SRO 2063(I)/2026 to amend the Sales Tax Rules, 2006. According to the new procedure, wher…",
-   "image": "https://i.brecorder.com/large/2026/07/14045750cc42362.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Weekly SPI inflation up 0.29pc",
-   "url": "https://www.brecorder.com/news/40447872/weekly-spi-inflation-up-029pc",
-   "source": "Business Recorder",
-   "published": "2026-11-07T01:22:25+00:00",
-   "summary": "ISLAMABAD: The Sensitive Price Index-based inflation for the week ended on November 5, 2026 recorded an increase of 0.29 percent, owing to an escalation in the prices oftomatoes 54.18 percent, Liquefied Petroleum Gas (LPG) 3.72 percent, potatoes 2.07 percent and eggs 1.17 percent. The SPI data released here on Friday b…",
-   "image": "https://i.brecorder.com/large/2026/10/17034253de00516.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": true
@@ -169,6 +156,19 @@
    "domestic": true
   },
   {
+   "title": "Govt to auction 90% of indigenous LPG production under new mechanism",
+   "url": "https://www.brecorder.com/news/40447888/govt-to-auction-90-of-indigenous-lpg-production-under-new-mechanism",
+   "source": "Business Recorder",
+   "published": "2026-11-07T13:27:28+00:00",
+   "summary": "Pakistan will auction 90% of indigenous liquefied petroleum gas (LPG) production under a new allocation mechanism, the Petroleum Ministry said on Saturday, in a move aimed at promoting competitive bidding and improving transparency in the distribution of locally produced fuel. The first meeting of the LPG committee und…",
+   "image": "https://i.brecorder.com/large/2026/10/17050114eba5554.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "LPG availability, fair pricing among govt priorities, says petroleum minister",
    "url": "https://www.dawn.com/news/2042814/lpg-availability-fair-pricing-among-govt-priorities-says-petroleum-minister",
    "source": "Dawn",
@@ -195,16 +195,16 @@
    "domestic": false
   },
   {
-   "title": "Govt to auction 90% of indigenous LPG production under new mechanism",
-   "url": "https://www.brecorder.com/news/40447888/govt-to-auction-90-of-indigenous-lpg-production-under-new-mechanism",
-   "source": "Business Recorder",
-   "published": "2026-11-07T07:08:28+00:00",
-   "summary": "Pakistan will auction 90% of indigenous liquefied petroleum gas (LPG) production under a new allocation mechanism, the Petroleum Ministry said on Saturday, in a move aimed at promoting competitive bidding and improving transparency in the distribution of locally produced fuel. The first meeting of the LPG committee und…",
-   "image": "https://i.brecorder.com/large/2026/10/17050114eba5554.webp",
+   "title": "Govt unveils new auto policy aimed at promoting EVs, boosting localisation",
+   "url": "https://tribune.com.pk/story/2639141/govt-unveils-new-auto-policy-aimed-at-promoting-evs-boosting-localisation",
+   "source": "The Express Tribune",
+   "published": "2026-11-07T07:58:41+00:00",
+   "summary": "Information minister says policy will help reduce fuel import bill, allow for resources to be spent on public needs",
+   "image": null,
    "topics": [
-    "Procurement"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -218,19 +218,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Digital invoicing requirements: RTO Hyderabad begins enforcement drive",
-   "url": "https://www.brecorder.com/news/40447867/digital-invoicing-requirements-rto-hyderabad-begins-enforcement-drive",
-   "source": "Business Recorder",
-   "published": "2026-11-07T01:37:37+00:00",
-   "summary": "HYDERABAD: In pursuance of STGO No. 1(215) ST-L&P/2026/108756-R dated 28th September 2026, Regional Tax Office Hyderabad, under the directions of the Chief Commissioner Inland Revenue, initiated an enforcement drive within its territorial jurisdiction to ensure compliance with digital invoicing requirements. During the…",
-   "image": "https://i.brecorder.com/large/2026/06/1104264544ba614.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -270,19 +257,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "New core banking network deployed",
-   "url": "https://tribune.com.pk/story/2639046/new-core-banking-network-deployed",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Modernised infrastructure to shield monetary stability, ensure reliable digital banking services",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -492,19 +466,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee to draw support from return of foreign flows amid tech meltdown",
-   "url": "https://www.brecorder.com/news/40447721/indian-rupee-to-draw-support-from-return-of-foreign-flows-amid-tech-meltdown",
-   "source": "Business Recorder",
-   "published": "2026-11-06T03:13:21+00:00",
-   "summary": "MUMBAI: The Indian rupee on Friday will draw support from a return of foreign capital to Indian markets after months of sustained outflows, with ​a technology rout offering a tailwind for capital flows into Asia’s ‌third-largest economy. The Indian rupee has advanced 0.5% so far this week, hitting a two-week high of 94…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
