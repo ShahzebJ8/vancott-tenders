@@ -1,22 +1,48 @@
 {
- "generated": "2026-11-07T02:35:18+00:00",
- "count": 41,
- "relevant_count": 12,
- "domestic_count": 13,
+ "generated": "2026-11-07T09:37:33+00:00",
+ "count": 47,
+ "relevant_count": 14,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (10)",
+  "Dawn": "ok (11)",
   "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (14)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Thar coal being developed beyond power generation: Sharjeel",
-   "url": "https://www.brecorder.com/news/40447815/thar-coal-being-developed-beyond-power-generation-sharjeel",
+   "title": "SE Fruits IPO probe: SECP seeks export records from seven banks",
+   "url": "https://www.brecorder.com/news/40447887/se-fruits-ipo-probe-secp-seeks-export-records-from-seven-banks",
    "source": "Business Recorder",
-   "published": "2026-11-07T01:34:43+00:00",
-   "summary": "KARACHI: Sindh Senior Minister and Provincial Minister for Information, Transport and Mass Transit Sharjeel Inam Memon has said that Thar coal is being developed beyond electricity generation and is being made a source of industrial development. The annual production capacity of Thar Coal Block-II has been increased fr…",
-   "image": "https://i.brecorder.com/large/2025/12/240207489faf8e5.webp",
+   "published": "2026-11-07T06:25:47+00:00",
+   "summary": "The Securities and Exchange Commission of Pakistan (SECP) has sought export records from seven banks as its investigation into the proposed Initial Public Offering (IPO) of SE Fruits and Vegetable Limited, a Punjab-based fruit exporter, progresses. The banks were asked to provide export details for the company, formerl…",
+   "image": "https://i.brecorder.com/large/2026/10/13160410002b41c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "NEPRA raises incremental power tariff to Rs25.30 per unit for industrial, agricultural consumers",
+   "url": "https://www.brecorder.com/news/40447885/nepra-raises-incremental-power-tariff-to-rs2530-per-unit-for-industrial-agricultural-consumers",
+   "source": "Business Recorder",
+   "published": "2026-11-07T05:24:07+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (NEPRA) has provisionally increased the incremental electricity consumption rate for industrial and agricultural consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric from Rs22.98 to Rs25.30 per unit, effective November 2026 billing, while war…",
+   "image": "https://i.brecorder.com/large/2026/06/1601121219a2522.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "NEPRA approves Rs2.3673 per unit FCA for September",
+   "url": "https://www.brecorder.com/news/40447884/nepra-approves-rs23673-per-unit-fca-for-september",
+   "source": "Business Recorder",
+   "published": "2026-11-07T05:23:09+00:00",
+   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (NEPRA) has approved a positive Fuel Charges Adjustment (FCA) of Rs2.3673 per unit for electricity consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric for September 2026, to be reflected in November bills. The adjustment is lower than the Rs…",
+   "image": "https://i.brecorder.com/large/2026/11/07101231142393e.webp",
    "topics": [
     "Energy & power"
    ],
@@ -50,19 +76,6 @@
    "domestic": true
   },
   {
-   "title": "SNGPL posts highest-ever profit before levy, income tax of Rs34,656m",
-   "url": "https://www.brecorder.com/news/40447847/sngpl-posts-highest-ever-profit-before-levy-income-tax-of-rs34656m",
-   "source": "Business Recorder",
-   "published": "2026-11-07T01:06:24+00:00",
-   "summary": "LAHORE: The Board of Directors of Sui Northern Gas Pipelines Limited (SNGPL), at its meeting held in Lahore on Thursday, November 5, 2026, approved the Company’s Annual Financial Statements for the financial year ended June 30, 2026, and recommended a final cash dividend of Rs. 3.00 per share (30pc) for approval by the…",
-   "image": "https://i.brecorder.com/large/2025/12/693223a716339.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Exports post sluggish growth in July-October",
    "url": "https://www.dawn.com/news/2042685/exports-post-sluggish-growth-in-july-october",
    "source": "Dawn",
@@ -83,32 +96,6 @@
    "published": "2026-11-07T00:04:45+00:00",
    "summary": "KARACHI: After two decades, Bank Alfalah has fully exited Afghanistan by selling its assets, the bank told its shareholders on Friday. A notice to the Pakistan Stock Exchange said the transaction was completed on Nov 5, following the signing of definitive transaction documents, approval from the State Bank of Pakistan …",
    "image": "https://i.dawn.com/large/2026/11/07073007f098840.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Devsinc, PRG partner to strengthen digital infrastructure",
-   "url": "https://www.brecorder.com/news/40447817/devsinc-prg-partner-to-strengthen-digital-infrastructure",
-   "source": "Business Recorder",
-   "published": "2026-11-06T23:51:42+00:00",
-   "summary": "KARACHI: In a significant step toward advancing digital transformation in the US healthcare sector, Pakistan-based technology company Devsinc has partnered with Physicians Revenue Group Inc. (PRG) to strengthen its digital infrastructure through Microsoft Dynamics 365. PRG is a healthcare revenue cycle management and p…",
-   "image": "https://i.brecorder.com/large/2025/04/11062024a1fcb51.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Punjab awards prizes to timely Kissan Card payers",
-   "url": "https://www.brecorder.com/news/40447825/punjab-awards-prizes-to-timely-kissan-card-payers",
-   "source": "Business Recorder",
-   "published": "2026-11-06T23:51:42+00:00",
-   "summary": "LAHORE: The Punjab agriculture department distributed prizes worth millions of rupees among farmers for timely repayment of installments under the fourth phase of the Chief Minister Punjab Kissan Card Programme at a ceremony held at the Agriculture House, Lahore, on Friday. Parliamentary Secretary for Agriculture Usama…",
-   "image": "https://i.brecorder.com/large/2024/08/66bc1c106476b.jpg",
    "topics": [
     "Economy"
    ],
@@ -182,6 +169,58 @@
    "domestic": true
   },
   {
+   "title": "LPG availability, fair pricing among govt priorities, says petroleum minister",
+   "url": "https://www.dawn.com/news/2042814/lpg-availability-fair-pricing-among-govt-priorities-says-petroleum-minister",
+   "source": "Dawn",
+   "published": "2026-11-07T09:19:35+00:00",
+   "summary": "Petroleum Minister Ali Pervaiz Malik said on Saturday that addressing public concerns over the availability and unfair pricing of liquefied petroleum gas (LPG) was a government priority. Earlier this week, the government unveiled a new LPG policy , aimed at creating competition and supplies through procurement by four …",
+   "image": "https://i.dawn.com/large/2026/11/071325212ceae19.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Russian strikes hit power facilities around Kyiv, damage major bridge",
+   "url": "https://www.brecorder.com/news/40447890/russian-strikes-hit-power-facilities-around-kyiv-damage-major-bridge",
+   "source": "Business Recorder",
+   "published": "2026-11-07T08:28:07+00:00",
+   "summary": "KYIV: Russian forces launched missile and drone attacks on Ukraine’s capital Kyiv and the surrounding region overnight, damaging energy infrastructure and a major bridge across the Dnipro River, officials said on Saturday. Explosions rocked the city as Russia fired multiple waves of ballistic missiles, several of them …",
+   "image": "https://i.brecorder.com/large/2026/11/071336093ab64d1.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Govt to auction 90% of indigenous LPG production under new mechanism",
+   "url": "https://www.brecorder.com/news/40447888/govt-to-auction-90-of-indigenous-lpg-production-under-new-mechanism",
+   "source": "Business Recorder",
+   "published": "2026-11-07T07:08:28+00:00",
+   "summary": "Pakistan will auction 90% of indigenous liquefied petroleum gas (LPG) production under a new allocation mechanism, the Petroleum Ministry said on Saturday, in a move aimed at promoting competitive bidding and improving transparency in the distribution of locally produced fuel. The first meeting of the LPG committee und…",
+   "image": "https://i.brecorder.com/large/2026/10/17050114eba5554.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "HBL partners with AKD Securities for digital PSX trading account opening",
+   "url": "https://www.brecorder.com/news/40447889/hbl-partners-with-akd-securities-for-digital-psx-trading-account-opening",
+   "source": "Business Recorder",
+   "published": "2026-11-07T07:06:33+00:00",
+   "summary": "HBL has become the first commercial bank in Pakistan to partner with AKD Securities Ltd. to enable real-time Pakistan Stock Exchange - PSX trading account opening through HBL Mobile, with the support of SECP and National Clearing Company of Pakistan Ltd. (NCCPL). By allowing clients to open trading accounts within minu…",
+   "image": "https://i.brecorder.com/large/2026/11/071206295248aff.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Digital invoicing requirements: RTO Hyderabad begins enforcement drive",
    "url": "https://www.brecorder.com/news/40447867/digital-invoicing-requirements-rto-hyderabad-begins-enforcement-drive",
    "source": "Business Recorder",
@@ -195,12 +234,90 @@
    "domestic": false
   },
   {
-   "title": "Brent oil price benchmark set for biggest weekly drop since 2020",
-   "url": "https://www.brecorder.com/news/40447719/brent-oil-price-benchmark-set-for-biggest-weekly-drop-since-2020",
-   "source": "Business Recorder",
-   "published": "2026-11-06T16:08:08+00:00",
-   "summary": "LONDON: Oil prices were set for a sharp weekly fall after the election losses of US President Donald Trump’s Republican Party raised hopes of a de-escalation in the US-Israeli war on Iran and a stock market sell-off, though attacks on vessels in the Middle East continue to provide a floor to crude. In a whiplash see-sa…",
-   "image": "https://i.brecorder.com/large/2026/10/2607485146b693a.webp",
+   "title": "Trade gap widens 16% to $14.6b",
+   "url": "https://tribune.com.pk/story/2639038/trade-gap-widens-16-to-146b",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Imports hit $26b as exports crawl to $11.4b; keep rollovers, fresh borrowing in play",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SPI inflation accelerates past 12%",
+   "url": "https://tribune.com.pk/story/2639040/spi-inflation-accelerates-past-12",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Index surges as LPG goes up 115%, tomatoes 79%, diesel 39% and petrol 36%",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Tariff cuts spark duty burden debate",
+   "url": "https://tribune.com.pk/story/2639043/tariff-cuts-spark-duty-burden-debate",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Experts differ on calculations as border costs, energy prices weigh on exports",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "New core banking network deployed",
+   "url": "https://tribune.com.pk/story/2639046/new-core-banking-network-deployed",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Modernised infrastructure to shield monetary stability, ensure reliable digital banking services",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX sheds nearly 1,500 points",
+   "url": "https://tribune.com.pk/story/2639047/psx-sheds-nearly-1500-points",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Profit-taking trims weekly gains; KSE-100 index falls 0.85%",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold falls Rs6,500 a tola as dollar firms",
+   "url": "https://tribune.com.pk/story/2639044/gold-falls-rs6500-a-tola-as-dollar-firms",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Rate drops to Rs429,136, though spot gold is still up 4.5% this week, rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Trade finance gap hits MSME exporters",
+   "url": "https://tribune.com.pk/story/2639045/trade-finance-gap-hits-msme-exporters",
+   "source": "The Express Tribune",
+   "published": "2026-11-06T15:56:12+00:00",
+   "summary": "Jam Kamal tells COMCEC that collateral rules, fragmented regulation shut small firms out",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -364,19 +481,6 @@
    "domestic": false
   },
   {
-   "title": "Profit-taking pulls PSX down around 1,500 points",
-   "url": "https://tribune.com.pk/story/2638968/psx-drops-around-1500-points-by-midday",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T03:45:00+00:00",
-   "summary": "KSE-100 gains 4.49% week-on-week to close at 173,887",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "US, SBP celebrate deployment of new core banking network and data centre",
    "url": "https://tribune.com.pk/story/2638967/us-sbp-celebrate-deployment-of-new-core-banking-network-and-data-centre",
    "source": "The Express Tribune",
@@ -488,32 +592,6 @@
    "published": "2026-11-05T04:03:30+00:00",
    "summary": "https://www.dawn.com/news/2042198",
    "image": "https://i.dawn.com/large/2026/08/0607280213994aa.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold soars as dollar weakens after US polls",
-   "url": "https://tribune.com.pk/story/2638699/gold-soars-as-dollar-weakens-after-us-polls",
-   "source": "The Express Tribune",
-   "published": "2026-11-04T16:40:33+00:00",
-   "summary": "Surges Rs13,900 to Rs426,036/tola; globally bullion reclaims $4,000",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Credit access pledged to exporters",
-   "url": "https://tribune.com.pk/story/2638703/credit-access-pledged-to-exporters",
-   "source": "The Express Tribune",
-   "published": "2026-11-04T16:40:33+00:00",
-   "summary": "Aurangzeb meets PTEA delegation, Mastercard on digital payments and financial inclusion",
-   "image": null,
    "topics": [
     "Economy"
    ],
