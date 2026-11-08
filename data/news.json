@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-08T11:17:43+00:00",
- "count": 41,
- "relevant_count": 14,
- "domestic_count": 12,
+ "generated": "2026-11-08T17:15:16+00:00",
+ "count": 39,
+ "relevant_count": 12,
+ "domestic_count": 10,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (12)",
@@ -47,32 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "CCP approves Nestlé–Platinum Equity’s joint venture",
-   "url": "https://www.brecorder.com/news/40447950/ccp-approves-nestle-platinum-equitys-joint-venture",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:33:13+00:00",
-   "summary": "ISLAMABAD: Nestlé Pakistan Limited’s bottled water business is proposed to be separated into a newly incorporated subsidiary and subsequently brought within a global joint venture between Nestlé SA and a Platinum Equity-controlled entity, according to a merger order issued by the Competition Commission of Pakistan (CCP…",
-   "image": "https://i.brecorder.com/large/2023/10/19105144e45740d.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Polio teams ensure robust coverage in targeted areas",
-   "url": "https://www.brecorder.com/news/40447959/polio-teams-ensure-robust-coverage-in-targeted-areas",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:33:13+00:00",
-   "summary": "LAHORE: The Lahore administration’s polio teams administered drops to 2,153,020 children across the provincial metropolis during the first five days of the campaign and reached 1,499,695 households, ensuring robust coverage in targeted areas. This was disclosed during a meeting presided over by Deputy Commissioner Laho…",
-   "image": "https://i.brecorder.com/large/2026/02/0215273288951e7.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -169,6 +143,19 @@
    "domestic": true
   },
   {
+   "title": "Step-by-step guide: How to amend or cancel FBR e-invoice after 72 hours",
+   "url": "https://www.brecorder.com/news/40448010/step-by-step-guide-how-to-amend-or-cancel-fbr-e-invoice-after-72-hours",
+   "source": "Business Recorder",
+   "published": "2026-11-08T17:01:14+00:00",
+   "summary": "The Federal Board of Revenue (FBR) has introduced a new facility allowing taxpayers to apply for the amendment or cancellation of electronic sales tax invoices even after the prescribed 72-hour time limit has expired. The facility, available through the FBR’s IRIS portal, requires prior approval from the concerned Comm…",
+   "image": "https://i.brecorder.com/large/2026/11/082148220e2c854.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
    "url": "https://www.brecorder.com/news/40447993/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-says",
    "source": "Business Recorder",
@@ -188,19 +175,6 @@
    "published": "2026-11-08T04:45:15+00:00",
    "summary": "Saudi Arabia’s civil defence on Sunday lifted alerts in ​several areas of the kingdom’s ‌oil-rich Eastern Province, including Dhahran, home to the headquarters of oil major Saudi Aramco, ​shortly after warning of potential ​danger. Houthis claim attack targeting Riyadh airport with ballistic missile The all-clear also …",
    "image": "https://i.brecorder.com/large/2026/10/06023025f4d50fd.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "FCCI president calls for Chinese investment in truck assembly and manufacturing",
-   "url": "https://www.brecorder.com/news/40447958/fcci-president-calls-for-chinese-investment-in-truck-assembly-and-manufacturing",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:33:13+00:00",
-   "summary": "FAISALABAD: President of the Faisalabad Chamber of Commerce and Industry (FCCI), Arif Ehsan Malik, has said that the next phase of the China-Pakistan Economic Corridor (CPEC) has entered the stage of industrial cooperation, under which the partnership between the two countries is shifting towards industrial development…",
-   "image": "https://i.brecorder.com/large/2026/09/140138569fcb5bc.webp",
    "topics": [
     "Construction & projects"
    ],
