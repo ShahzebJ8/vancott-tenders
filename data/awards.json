@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-08T04:04:45+00:00",
- "count": 942,
- "with_value": 899,
- "with_winner": 324,
+ "generated": "2026-11-08T11:17:17+00:00",
+ "count": 943,
+ "with_value": 900,
+ "with_winner": 325,
  "smd_count": 0,
  "price_history": [
   {
@@ -1550,6 +1550,25 @@
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-9210045747",
    "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL0F6b3VyZV9QUFJBX1Byb2Zvcm1hc193aXRoX0FncmVlbWVudC5wZGY=",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "contract_no": "PCN-4901618547",
+   "reference": "19/GSC (2025-26)",
+   "title": "Ministry of Energy (Power Division) Renovation / Repair of Quarter No. C type residence at 132KV Grid Station Bahawal Pur Old under MEPCO Own Resources",
+   "organisation": "Multan Electric Power Company (MEPCO) Multan",
+   "office": "Multan Electric Power Company (MEPCO) Multan",
+   "winner": "A.S Construction Company Multan",
+   "value_text": "Rs. 1,656,039 < Rs. 50 Million",
+   "value_pkr": 1656039,
+   "value_band": "< Rs. 50 Million",
+   "awarded": "2026-09-16",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/contracts/contract-details/PCN-4901618547",
+   "doc_url": "https://epms.ppra.gov.pk/pdf?file=Y29udHJhY3RfZG9jdW1lbnRzL1JlcGFpcl9vZl9RdWFydGVyX05vX0MtVHlwZV9CcHVyLnBkZg==",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -18985,6 +19004,26 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004887",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004886",
+   "tender_no": "TS0000015416E",
+   "reference": "GHPL/IT/03/10-26",
+   "title": "Renewal of SolarWinds Subscription Services",
+   "organisation": "Ministry of Energy (Petroleum Division) Government Holdings (Private) Limited (GHPL) Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [
+    "ArwenTech (Pvt) Ltd."
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-05",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004886",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -56980,24 +57019,6 @@
    "city": "Faisalabad",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002848",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002847",
-   "tender_no": "TS0000010013E",
-   "reference": "REDAMCO/M-1/2026-27",
-   "title": "Medium Term commercial Leasing OF PAKISTAN RAILWAY LAND FOR MIX-USE COMMERCIAL PURPOSE Leasing Pakistan Railways",
-   "organisation": "Pakistan Railways Railway Estate Development &#38; Marketing Company (Pvt) Ltd (REDAMCO) Islamabad - Pakistan",
-   "bid_count": 8,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-08-20",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002847",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

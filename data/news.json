@@ -1,22 +1,35 @@
 {
- "generated": "2026-11-08T04:05:09+00:00",
- "count": 45,
- "relevant_count": 12,
- "domestic_count": 14,
+ "generated": "2026-11-08T11:17:43+00:00",
+ "count": 41,
+ "relevant_count": 14,
+ "domestic_count": 12,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (14)",
+  "Business Recorder": "ok (12)",
+  "The Express Tribune": "ok (12)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Export Finance Scheme: Govt allocates Rs300bn for SMEs",
-   "url": "https://www.brecorder.com/news/40447960/export-finance-scheme-govt-allocates-rs300bn-for-smes",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:34:32+00:00",
-   "summary": "ISLAMABAD: The government has allocated Rs300 billion exclusively for small and medium enterprises (SMEs) exporting under the Export Finance Scheme (EFS). The move aims to improve SMEs’ access to concessional financing, reduce their cost of doing business and strengthen the country’s export competitiveness . Khurram Sc…",
-   "image": "https://i.brecorder.com/large/2026/10/08045537761cebf.webp",
+   "title": "IT earnings drive 22.6pc growth in services exports",
+   "url": "https://www.dawn.com/news/2042900/it-earnings-drive-226pc-growth-in-services-exports",
+   "source": "Dawn",
+   "published": "2026-11-08T02:01:54+00:00",
+   "summary": "• Proceeds reach $2.72 billion in July-September FY27, up from $2.22bn • Imports increase 16.32pc to $3.55bn • Trade deficit remains almost unchanged at $832m ISLAMABAD: Services exports recorded robust year-on-year growth of 22.60 per cent in the first quarter of 2026-27, largely driven by higher earnings from informa…",
+   "image": "https://i.dawn.com/large/2021/10/615a7f7e8aa05.png",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SECP seeks records from banks in IPO probe",
+   "url": "https://www.dawn.com/news/2042898/secp-seeks-records-from-banks-in-ipo-probe",
+   "source": "Dawn",
+   "published": "2026-11-08T02:01:54+00:00",
+   "summary": "ISLAMABAD: The Securities and Exchange Commission of Pakistan (SECP) has sought export records from seven banks as part of its investigation into the proposed initial public offering (IPO) of SE Fruits and Vegetable Limited, formerly known as Shaheen Enterprises. The regulator has also sought information from 30 banks …",
+   "image": "https://i.dawn.com/large/2023/05/6466ed447bc90.jpg",
    "topics": [
     "Economy"
    ],
@@ -60,32 +73,6 @@
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PM approves final draft of auto policy",
-   "url": "https://www.brecorder.com/news/40447961/pm-approves-final-draft-of-auto-policy",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:33:13+00:00",
-   "summary": "ISLAMABAD: The federal government has introduced a new automobile policy aimed at increasing competition, encouraging electric vehicle (EV) manufacturing and reducing Pakistan’s dependence on imported petroleum products, following decades of protectionist measures that failed to deliver affordable and technologically a…",
-   "image": "https://i.brecorder.com/large/2023/03/64123cda7fced.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Power Division denies hike in industrial tariff",
-   "url": "https://www.brecorder.com/news/40447972/power-division-denies-hike-in-industrial-tariff",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:33:13+00:00",
-   "summary": "ISLAMABAD: The Power Division has rejected the impression that the industrial electricity tariff has been increased to Rs25.30 per unit, clarifying that the figure represents the revised marginal rate under the Incremental Consumption Package (ICP) for industrial and agricultural consumers and not the applicable indust…",
-   "image": "https://i.brecorder.com/large/2026/07/04021017091229f.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -182,17 +169,30 @@
    "domestic": true
   },
   {
-   "title": "FBR Chairman Langrial hints at scrapping super tax",
-   "url": "https://www.dawn.com/news/2042199/fbr-chairman-langrial-hints-at-scrapping-super-tax",
-   "source": "Dawn",
-   "published": "2026-11-05T03:58:07+00:00",
-   "summary": "KARACHI: Federal Board of Revenue (FBR) Chairman Rashid Mahmood Langrial said the government intends to abolish the super tax. “The super tax rate has already been reduced by two percentage points, and work has now begun on its gradual elimination,” he said while addressing the members of the Korangi Association of Tra…",
-   "image": "https://i.dawn.com/large/2025/06/12110733e3fbaea.jpg",
+   "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
+   "url": "https://www.brecorder.com/news/40447993/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-says",
+   "source": "Business Recorder",
+   "published": "2026-11-08T08:50:14+00:00",
+   "summary": "MOSCOW: The Russian-controlled Zaporizhzhia nuclear power plant in southeastern ​Ukraine has lost its external ‌power supply, the Russian-installed management of the plant said on Sunday after ​the Ferosplavna power line was ​disconnected by protective systems because ⁠of damage. In a statement posted ​on the Russian s…",
+   "image": "https://i.brecorder.com/large/2026/11/08134847d49cf53.webp",
    "topics": [
-    "Budget & spending"
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
+   "url": "https://www.brecorder.com/news/40447982/saudi-civil-defence-gives-all-clear-after-alerts-in-eastern-province",
+   "source": "Business Recorder",
+   "published": "2026-11-08T04:45:15+00:00",
+   "summary": "Saudi Arabia’s civil defence on Sunday lifted alerts in ​several areas of the kingdom’s ‌oil-rich Eastern Province, including Dhahran, home to the headquarters of oil major Saudi Aramco, ​shortly after warning of potential ​danger. Houthis claim attack targeting Riyadh airport with ballistic missile The all-clear also …",
+   "image": "https://i.brecorder.com/large/2026/10/06023025f4d50fd.webp",
+   "topics": [
+    "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
    "title": "FCCI president calls for Chinese investment in truck assembly and manufacturing",
@@ -205,6 +205,58 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Realty sector gets Rs34b tax relief",
+   "url": "https://tribune.com.pk/story/2639194/realty-sector-gets-rs34b-tax-relief",
+   "source": "The Express Tribune",
+   "published": "2026-11-07T17:32:15+00:00",
+   "summary": "Real estate contribution down 45% to Rs42b; salaried class pays 360% more",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Private investors can fill Rs3tr development gap",
+   "url": "https://tribune.com.pk/story/2639197/private-investors-can-fill-rs3tr-development-gap",
+   "source": "The Express Tribune",
+   "published": "2026-11-07T17:32:15+00:00",
+   "summary": "Budget provides barely a quarter of financing for roads, hospitals, water & power projects",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX stages strongest rally in six months",
+   "url": "https://tribune.com.pk/story/2639202/psx-stages-strongest-rally-in-six-months",
+   "source": "The Express Tribune",
+   "published": "2026-11-07T17:32:15+00:00",
+   "summary": "KSE-100 index up 7,477 points on falling oil prices amid US elections",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SECP seeks bank records in fruit firm's probe",
+   "url": "https://tribune.com.pk/story/2639203/secp-seeks-bank-records-in-fruit-firms-probe",
+   "source": "The Express Tribune",
+   "published": "2026-11-07T17:32:15+00:00",
+   "summary": "Asks for information about foreign remittances, export proceeds",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -234,63 +286,11 @@
    "domestic": false
   },
   {
-   "title": "NEPRA notifies Rs2.36 per unit hike in electricity price",
-   "url": "https://tribune.com.pk/story/2639122/nepra-notifies-rs236-per-unit-hike-in-electricity-price",
-   "source": "The Express Tribune",
-   "published": "2026-11-07T03:22:42+00:00",
-   "summary": "Fuel charge adjustment for September exempts prepaid consumers, EV stations, appears separately in bills",
-   "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Trade gap widens 16% to $14.6b",
-   "url": "https://tribune.com.pk/story/2639038/trade-gap-widens-16-to-146b",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Imports hit $26b as exports crawl to $11.4b; keep rollovers, fresh borrowing in play",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SPI inflation accelerates past 12%",
-   "url": "https://tribune.com.pk/story/2639040/spi-inflation-accelerates-past-12",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Index surges as LPG goes up 115%, tomatoes 79%, diesel 39% and petrol 36%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX sheds nearly 1,500 points",
    "url": "https://tribune.com.pk/story/2639047/psx-sheds-nearly-1500-points",
    "source": "The Express Tribune",
    "published": "2026-11-06T15:56:12+00:00",
    "summary": "Profit-taking trims weekly gains; KSE-100 index falls 0.85%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls Rs6,500 a tola as dollar firms",
-   "url": "https://tribune.com.pk/story/2639044/gold-falls-rs6500-a-tola-as-dollar-firms",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Rate drops to Rs429,136, though spot gold is still up 4.5% this week, rupee inches up",
    "image": null,
    "topics": [
     "Economy"
@@ -305,19 +305,6 @@
    "published": "2026-11-06T15:56:12+00:00",
    "summary": "Jam Kamal tells COMCEC that collateral rules, fragmented regulation shut small firms out",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: selling engulfs bourse, KSE-100 settles nearly 1,500 points lower",
-   "url": "https://www.brecorder.com/news/40447725/psx-selling-engulfs-bourse-kse-100-settles-nearly-1500-points-lower",
-   "source": "Business Recorder",
-   "published": "2026-11-06T14:11:07+00:00",
-   "summary": "After days of buying momentum, selling returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding nearly 1,500 points on Friday. The market opened with sharp fluctuations, initially declining towards the intraday low of 172,809.89 before recovering some of its losses. The index subsequentl…",
-   "image": "https://i.brecorder.com/large/2026/11/06093605b00526d.webp",
    "topics": [
     "Economy"
    ],
@@ -482,32 +469,6 @@
    "domestic": false
   },
   {
-   "title": "PSX extends rally, reclaims 175,000 mark",
-   "url": "https://tribune.com.pk/story/2638881/psx-extends-rally-reclaims-175000-mark",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T16:44:47+00:00",
-   "summary": "KSE-100 surges 3,366 points in fourth consecutive positive session",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PVARA, Mastercard eye tokenisation",
-   "url": "https://tribune.com.pk/story/2638882/pvara-mastercard-eye-tokenisation",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T16:44:47+00:00",
-   "summary": "Discuss cross-border payments, remittance efficiency and cybersecurity",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "1m AI professionals targeted by 2030",
    "url": "https://tribune.com.pk/story/2638878/1m-ai-professionals-targeted-by-2030",
    "source": "The Express Tribune",
@@ -553,19 +514,6 @@
    "published": "2026-11-05T08:39:31+00:00",
    "summary": "BoE says British inflation likely to reach around 5% in the middle of next year",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan's exports to Europe fall in first quarter of FY27 despite GSP+",
-   "url": "https://www.dawn.com/news/2042284/pakistans-exports-to-europe-fall-in-first-quarter-of-fy27-despite-gsp",
-   "source": "Dawn",
-   "published": "2026-11-05T04:03:30+00:00",
-   "summary": "https://www.dawn.com/news/2042198",
-   "image": "https://i.dawn.com/large/2026/08/0607280213994aa.webp",
    "topics": [
     "Economy"
    ],
