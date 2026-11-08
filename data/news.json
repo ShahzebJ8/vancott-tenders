@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-07T20:28:23+00:00",
- "count": 44,
- "relevant_count": 11,
- "domestic_count": 11,
+ "generated": "2026-11-07T23:51:18+00:00",
+ "count": 45,
+ "relevant_count": 12,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (13)",
@@ -11,12 +11,12 @@
  },
  "stories": [
   {
-   "title": "Beyond extraction: turning Pakistan's mineral wealth into national prosperity",
-   "url": "https://www.brecorder.com/news/40447902/beyond-extraction-turning-pakistans-mineral-wealth-into-national-prosperity",
+   "title": "Export Finance Scheme: Govt allocates Rs300bn for SMEs",
+   "url": "https://www.brecorder.com/news/40447960/export-finance-scheme-govt-allocates-rs300bn-for-smes",
    "source": "Business Recorder",
-   "published": "2026-11-07T13:21:39+00:00",
-   "summary": "As Pakistan prepares to welcome international investors, mining companies and industry experts at the Pakistan Minerals Investment Forum in Islamabad next week, it is important to look beyond the immediate objective of attracting investment. The real challenge is to develop a mineral sector that creates lasting economi…",
-   "image": "https://i.brecorder.com/large/2026/11/07181247f8d8704.webp",
+   "published": "2026-11-07T21:34:32+00:00",
+   "summary": "ISLAMABAD: The government has allocated Rs300 billion exclusively for small and medium enterprises (SMEs) exporting under the Export Finance Scheme (EFS). The move aims to improve SMEs’ access to concessional financing, reduce their cost of doing business and strengthen the country’s export competitiveness . Khurram Sc…",
+   "image": "https://i.brecorder.com/large/2026/10/08045537761cebf.webp",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,12 @@
    "domestic": true
   },
   {
-   "title": "SE Fruits IPO probe: SECP seeks export records from seven banks",
-   "url": "https://www.brecorder.com/news/40447887/se-fruits-ipo-probe-secp-seeks-export-records-from-seven-banks",
+   "title": "PHDEC, GPI explore export opportunities for Balochistan’s horticultural produce",
+   "url": "https://www.brecorder.com/news/40447945/phdec-gpi-explore-export-opportunities-for-balochistans-horticultural-produce",
    "source": "Business Recorder",
-   "published": "2026-11-07T06:25:47+00:00",
-   "summary": "The Securities and Exchange Commission of Pakistan (SECP) has sought export records from seven banks as its investigation into the proposed Initial Public Offering (IPO) of SE Fruits and Vegetable Limited, a Punjab-based fruit exporter, progresses. The banks were asked to provide export details for the company, formerl…",
-   "image": "https://i.brecorder.com/large/2026/10/13160410002b41c.webp",
+   "published": "2026-11-07T21:33:13+00:00",
+   "summary": "KARACHI: Muhammad Naseer, CEO of the Pakistan Horticulture Development and Export Company (PHDEC), visited the head office of the Green Pakistan Initiative (GPI) on October 29, 2026. During the visit, Asif Khan, Project Director, GPI, briefed participants on horticultural processing and storage facilities being develop…",
+   "image": "https://i.brecorder.com/large/2025/08/68a4e76db538a.jpg",
    "topics": [
     "Economy"
    ],
@@ -37,12 +37,51 @@
    "domestic": true
   },
   {
-   "title": "NEPRA raises incremental power tariff to Rs25.30 per unit for industrial, agricultural consumers",
-   "url": "https://www.brecorder.com/news/40447885/nepra-raises-incremental-power-tariff-to-rs2530-per-unit-for-industrial-agricultural-consumers",
+   "title": "CCP approves Nestlé–Platinum Equity’s joint venture",
+   "url": "https://www.brecorder.com/news/40447950/ccp-approves-nestle-platinum-equitys-joint-venture",
    "source": "Business Recorder",
-   "published": "2026-11-07T05:24:07+00:00",
-   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (NEPRA) has provisionally increased the incremental electricity consumption rate for industrial and agricultural consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric from Rs22.98 to Rs25.30 per unit, effective November 2026 billing, while war…",
-   "image": "https://i.brecorder.com/large/2026/06/1601121219a2522.webp",
+   "published": "2026-11-07T21:33:13+00:00",
+   "summary": "ISLAMABAD: Nestlé Pakistan Limited’s bottled water business is proposed to be separated into a newly incorporated subsidiary and subsequently brought within a global joint venture between Nestlé SA and a Platinum Equity-controlled entity, according to a merger order issued by the Competition Commission of Pakistan (CCP…",
+   "image": "https://i.brecorder.com/large/2023/10/19105144e45740d.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Polio teams ensure robust coverage in targeted areas",
+   "url": "https://www.brecorder.com/news/40447959/polio-teams-ensure-robust-coverage-in-targeted-areas",
+   "source": "Business Recorder",
+   "published": "2026-11-07T21:33:13+00:00",
+   "summary": "LAHORE: The Lahore administration’s polio teams administered drops to 2,153,020 children across the provincial metropolis during the first five days of the campaign and reached 1,499,695 households, ensuring robust coverage in targeted areas. This was disclosed during a meeting presided over by Deputy Commissioner Laho…",
+   "image": "https://i.brecorder.com/large/2026/02/0215273288951e7.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM approves final draft of auto policy",
+   "url": "https://www.brecorder.com/news/40447961/pm-approves-final-draft-of-auto-policy",
+   "source": "Business Recorder",
+   "published": "2026-11-07T21:33:13+00:00",
+   "summary": "ISLAMABAD: The federal government has introduced a new automobile policy aimed at increasing competition, encouraging electric vehicle (EV) manufacturing and reducing Pakistan’s dependence on imported petroleum products, following decades of protectionist measures that failed to deliver affordable and technologically a…",
+   "image": "https://i.brecorder.com/large/2023/03/64123cda7fced.png",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Power Division denies hike in industrial tariff",
+   "url": "https://www.brecorder.com/news/40447972/power-division-denies-hike-in-industrial-tariff",
+   "source": "Business Recorder",
+   "published": "2026-11-07T21:33:13+00:00",
+   "summary": "ISLAMABAD: The Power Division has rejected the impression that the industrial electricity tariff has been increased to Rs25.30 per unit, clarifying that the figure represents the revised marginal rate under the Incremental Consumption Package (ICP) for industrial and agricultural consumers and not the applicable indust…",
+   "image": "https://i.brecorder.com/large/2026/07/04021017091229f.webp",
    "topics": [
     "Energy & power"
    ],
@@ -156,14 +195,14 @@
    "domestic": true
   },
   {
-   "title": "Govt to auction 90% of indigenous LPG production under new mechanism",
-   "url": "https://www.brecorder.com/news/40447888/govt-to-auction-90-of-indigenous-lpg-production-under-new-mechanism",
+   "title": "FCCI president calls for Chinese investment in truck assembly and manufacturing",
+   "url": "https://www.brecorder.com/news/40447958/fcci-president-calls-for-chinese-investment-in-truck-assembly-and-manufacturing",
    "source": "Business Recorder",
-   "published": "2026-11-07T13:27:28+00:00",
-   "summary": "Pakistan will auction 90% of indigenous liquefied petroleum gas (LPG) production under a new allocation mechanism, the Petroleum Ministry said on Saturday, in a move aimed at promoting competitive bidding and improving transparency in the distribution of locally produced fuel. The first meeting of the LPG committee und…",
-   "image": "https://i.brecorder.com/large/2026/10/17050114eba5554.webp",
+   "published": "2026-11-07T21:33:13+00:00",
+   "summary": "FAISALABAD: President of the Faisalabad Chamber of Commerce and Industry (FCCI), Arif Ehsan Malik, has said that the next phase of the China-Pakistan Economic Corridor (CPEC) has entered the stage of industrial cooperation, under which the partnership between the two countries is shifting towards industrial development…",
+   "image": "https://i.brecorder.com/large/2026/09/140138569fcb5bc.webp",
    "topics": [
-    "Procurement"
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -182,38 +221,12 @@
    "domestic": false
   },
   {
-   "title": "Russian strikes hit power facilities around Kyiv, damage major bridge",
-   "url": "https://www.brecorder.com/news/40447890/russian-strikes-hit-power-facilities-around-kyiv-damage-major-bridge",
-   "source": "Business Recorder",
-   "published": "2026-11-07T08:28:07+00:00",
-   "summary": "KYIV: Russian forces launched missile and drone attacks on Ukraine’s capital Kyiv and the surrounding region overnight, damaging energy infrastructure and a major bridge across the Dnipro River, officials said on Saturday. Explosions rocked the city as Russia fired multiple waves of ballistic missiles, several of them …",
-   "image": "https://i.brecorder.com/large/2026/11/071336093ab64d1.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Govt unveils new auto policy aimed at promoting EVs, boosting localisation",
    "url": "https://tribune.com.pk/story/2639141/govt-unveils-new-auto-policy-aimed-at-promoting-evs-boosting-localisation",
    "source": "The Express Tribune",
    "published": "2026-11-07T07:58:41+00:00",
    "summary": "Information minister says policy will help reduce fuel import bill, allow for resources to be spent on public needs",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "HBL partners with AKD Securities for digital PSX trading account opening",
-   "url": "https://www.brecorder.com/news/40447889/hbl-partners-with-akd-securities-for-digital-psx-trading-account-opening",
-   "source": "Business Recorder",
-   "published": "2026-11-07T07:06:33+00:00",
-   "summary": "HBL has become the first commercial bank in Pakistan to partner with AKD Securities Ltd. to enable real-time Pakistan Stock Exchange - PSX trading account opening through HBL Mobile, with the support of SECP and National Clearing Company of Pakistan Ltd. (NCCPL). By allowing clients to open trading accounts within minu…",
-   "image": "https://i.brecorder.com/large/2026/11/071206295248aff.webp",
    "topics": [
     "Economy"
    ],
