@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-08T17:15:16+00:00",
- "count": 39,
+ "generated": "2026-11-08T21:21:27+00:00",
+ "count": 38,
  "relevant_count": 12,
- "domestic_count": 10,
+ "domestic_count": 9,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (12)",
@@ -30,19 +30,6 @@
    "published": "2026-11-08T02:01:54+00:00",
    "summary": "ISLAMABAD: The Securities and Exchange Commission of Pakistan (SECP) has sought export records from seven banks as part of its investigation into the proposed initial public offering (IPO) of SE Fruits and Vegetable Limited, formerly known as Shaheen Enterprises. The regulator has also sought information from 30 banks …",
    "image": "https://i.dawn.com/large/2023/05/6466ed447bc90.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PHDEC, GPI explore export opportunities for Balochistan’s horticultural produce",
-   "url": "https://www.brecorder.com/news/40447945/phdec-gpi-explore-export-opportunities-for-balochistans-horticultural-produce",
-   "source": "Business Recorder",
-   "published": "2026-11-07T21:33:13+00:00",
-   "summary": "KARACHI: Muhammad Naseer, CEO of the Pakistan Horticulture Development and Export Company (PHDEC), visited the head office of the Green Pakistan Initiative (GPI) on October 29, 2026. During the visit, Asif Khan, Project Director, GPI, briefed participants on horticultural processing and storage facilities being develop…",
-   "image": "https://i.brecorder.com/large/2025/08/68a4e76db538a.jpg",
    "topics": [
     "Economy"
    ],
