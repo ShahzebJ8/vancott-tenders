@@ -1,24 +1,37 @@
 {
- "generated": "2026-11-09T01:09:53+00:00",
+ "generated": "2026-11-09T08:25:46+00:00",
  "count": 41,
- "relevant_count": 14,
- "domestic_count": 13,
+ "relevant_count": 12,
+ "domestic_count": 10,
  "sources": {
-  "Dawn": "ok (11)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (12)",
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (13)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
-   "url": "https://www.brecorder.com/news/40448049/epz-risalpur-unit-customs-uncovers-import-irregularities-shortage-of-goods",
-   "source": "Business Recorder",
-   "published": "2026-11-09T00:29:10+00:00",
-   "summary": "ISLAMABAD: Pakistan Customs has initiated legal proceedings against M/s Shippo Private Limited, an industrial unit operating in the Export Processing Zone (EPZ), Risalpur, following the detection of alleged import irregularities and a substantial shortage of goods during audit and stock-taking proceedings. During an au…",
-   "image": "https://i.brecorder.com/large/2025/11/102347377e7ab3e.webp",
+   "title": "Crumbling infrastructure in Karachi’s industrial areas is bleeding workers and businesses alike",
+   "url": "https://www.dawn.com/news/2043258/crumbling-infrastructure-in-karachis-industrial-areas-is-bleeding-workers-and-businesses-alike",
+   "source": "Dawn",
+   "published": "2026-11-09T07:34:43+00:00",
+   "summary": "https://www.dawn.com/news/2043198",
+   "image": "https://i.dawn.com/large/2026/07/14182426c667006.webp",
    "topics": [
-    "Economy"
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Industrialists demand third-party audit for power sector data verification",
+   "url": "https://www.dawn.com/news/2043139/industrialists-demand-third-party-audit-for-power-sector-data-verification",
+   "source": "Dawn",
+   "published": "2026-11-09T01:36:07+00:00",
+   "summary": "ISLAMABAD: Protesting against the revised incremental consumption package (ICP) for industry and agriculture, industrial consumers have asked the government to order an independent third-party audit for verification of power sector data and suspend till then the two-part electricity tariff. In formal letters to the gov…",
+   "image": "https://i.dawn.com/large/2026/02/270813331fa2ba8.webp",
+   "topics": [
+    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -32,32 +45,6 @@
    "image": "https://i.brecorder.com/large/2026/02/07010942d881c0f.webp",
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Companies sign JV with Turkish powerhouse",
-   "url": "https://www.brecorder.com/news/40448075/companies-sign-jv-with-turkish-powerhouse",
-   "source": "Business Recorder",
-   "published": "2026-11-08T23:46:04+00:00",
-   "summary": "ISLAMABAD: Fatima Group, Lake City, Artistic Milliners (Pvt.) Ltd., DIN Group and Fazal Group signed strategic joint venture with Turkish industrial powerhouse in Istanbul. The partnership brings together business groups with a reported combined workforce exceeding 145,000 across fertilisers, textiles, construction, mi…",
-   "image": "https://i.brecorder.com/large/2025/08/6893de214d85a.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "HCSTSI delegation visits RTO Hyderabad",
-   "url": "https://www.brecorder.com/news/40448076/hcstsi-delegation-visits-rto-hyderabad",
-   "source": "Business Recorder",
-   "published": "2026-11-08T23:46:04+00:00",
-   "summary": "HYDERABAD: President Hyderabad Chamber of Small Traders & Small Industry (HCSTSI), Nadeem Ahmed Siddiqui, along with a delegation, visited the Regional Tax Office (RTO) Hyderabad, where he held a meeting with Mirza Nasir Baig, Chief Operations (Inland Revenue), Federal Board of Revenue (FBR), who arrived from Islamabad…",
-   "image": "https://i.brecorder.com/large/2026/03/3005432135bfa69.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -155,41 +142,119 @@
    "domestic": true
   },
   {
-   "title": "Sales tax invoices mandatory on advance payments",
-   "url": "https://www.dawn.com/news/2042453/sales-tax-invoices-mandatory-on-advance-payments",
-   "source": "Dawn",
-   "published": "2026-11-06T03:51:11+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has made sales tax invoices mandatory for registered taxpayers on advance payments received against future supplies. The new procedures notified through SRO2063 of 2026 also require taxpayers to declare output tax in the return for the tax period in which the payments are r…",
-   "image": "https://i.dawn.com/large/2021/11/6181ff099c17a.jpg",
+   "title": "South African rand firms on softer oil; coalition talks in focus",
+   "url": "https://www.brecorder.com/news/40448107/south-african-rand-firms-on-softer-oil-coalition-talks-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-11-09T07:01:10+00:00",
+   "summary": "JOHANNESBURG: The South African rand strengthened in early trade on Monday as softer oil prices helped ​ease inflation concerns, while investors assessed the outcome ‌of local municipal elections and coalition talks. At 0642 GMT, the rand traded at 16.4875 against the dollar , up about 0.4% ​from its previous close. Oi…",
+   "image": "https://i.brecorder.com/large/2026/11/091159184bf08b0.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
   },
   {
-   "title": "Govt ‘wastes’ Rs3.5tr yearly on energy imports",
-   "url": "https://www.dawn.com/news/2042457/govt-wastes-rs35tr-yearly-on-energy-imports",
+   "title": "Gold rises over 1% as softer oil prices ease inflation worries",
+   "url": "https://www.brecorder.com/news/40448085/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries",
+   "source": "Business Recorder",
+   "published": "2026-11-09T06:55:16+00:00",
+   "summary": "Gold rose more than 1% on Monday as softer ‌oil prices eased inflation concerns, while investors awaited key US inflation data and fresh signals from the Federal Reserve on its policy outlook. Spot gold climbed 1.4% to $4,123.46 per ounce by 0428 GMT, while ​US gold futures for December delivery also rose 1.4% to $4,13…",
+   "image": "https://i.brecorder.com/large/2026/11/09094800461e6b8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "ANZ misses some expectations, warns capital competition to keep rates higher",
+   "url": "https://www.brecorder.com/news/40448095/anz-misses-some-expectations-warns-capital-competition-to-keep-rates-higher",
+   "source": "Business Recorder",
+   "published": "2026-11-09T05:51:53+00:00",
+   "summary": "SYDNEY: ANZ fell short of expectations for net interest margin and net ​interest income on Monday, dragging on its share price, as its ‌CEO warned that global competition for capital from AI and other sectors would keep interest rates higher for longer. Australia’s fourth-largest lender by market capitalisation posted …",
+   "image": "https://i.brecorder.com/large/2026/11/09105038dc0efed.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bangladesh's external debt increases almost threefold in decade",
+   "url": "https://www.dawn.com/news/2043178/bangladeshs-external-debt-increases-almost-threefold-in-decade",
    "source": "Dawn",
-   "published": "2026-11-06T01:59:00+00:00",
-   "summary": "ISLAMABAD: Pakistan is wasting Rs3.5 trillion annually — more than three times the federal development budget — on unnecessary, rising energy-sector imports due to mismanagement, delays in adopting building codes, and failure to implement an indigenisation plan for energy materials and equipment that used to be produce…",
-   "image": "https://i.dawn.com/large/2026/11/06084436d9bf557.webp",
+   "published": "2026-11-09T05:37:50+00:00",
+   "summary": "Bangladesh’s foreign debt has almost tripled in 10 years, a steeper rise than in any other South Asian country except the Maldives, according to the World Bank. Even so, the country has a lower debt burden relative to export earnings than Pakistan, Sri Lanka and Bhutan. However, its burden is higher than that of India …",
+   "image": "https://i.dawn.com/large/2025/09/02090201dedeaa7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
+   "url": "https://www.brecorder.com/news/40448089/asian-stocks-bounce-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets",
+   "source": "Business Recorder",
+   "published": "2026-11-09T05:09:58+00:00",
+   "summary": "HONG KONG: Asian markets and US equity futures had an upbeat start on Monday , edging into positive territory after a wild week when ‌tech-heavy markets in Asia suffered some of their steepest falls in years over AI. MSCI’s broadest index of Asia-Pacific shares outside Japan rose 2% after sliding 4.6% last week. Japan’…",
+   "image": "https://i.brecorder.com/large/2026/11/060740109d29f83.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
+   "url": "https://www.brecorder.com/news/40448088/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election",
+   "source": "Business Recorder",
+   "published": "2026-11-09T05:05:11+00:00",
+   "summary": "TOKYO: The US dollar traded not far from a 1-1/2-year high versus the euro and ​a seven-month high on the Aussie on Monday, after surging by the most in nearly six months on Friday as ‌robust US jobs data pushed up bets for higher interest rates. New Zealand’s currency bounced from a seven-month trough after too-close-…",
+   "image": "https://i.brecorder.com/large/2026/11/0607420325a195a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s road to export-led growth runs through industrial upgrading, not blanket incentives",
+   "url": "https://www.dawn.com/news/2043247/pakistans-road-to-export-led-growth-runs-through-industrial-upgrading-not-blanket-incentives",
+   "source": "Dawn",
+   "published": "2026-11-09T05:01:34+00:00",
+   "summary": "https://www.dawn.com/news/2043216",
+   "image": "https://i.dawn.com/large/2023/06/6498a76d8ade0.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee extends rally, putting RBI's dollar-buying threshold in focus",
+   "url": "https://www.brecorder.com/news/40448087/indian-rupee-extends-rally-putting-rbis-dollar-buying-threshold-in-focus",
+   "source": "Business Recorder",
+   "published": "2026-11-09T05:01:25+00:00",
+   "summary": "MUMBAI: The Indian rupee extended its rally on Monday , hitting a six-month high and putting potential dollar purchases by ​the Reserve Bank of India in focus, with traders weighing the ‌central bank’s need to replenish forex reserves and manage sizeable short-dollar forward positions. The Indian rupee touched an intra…",
+   "image": "https://i.brecorder.com/large/2026/11/09095907e31ab14.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Turning gaming talent into export earnings",
+   "url": "https://www.dawn.com/news/2043199/turning-gaming-talent-into-export-earnings",
+   "source": "Dawn",
+   "published": "2026-11-09T01:34:28+00:00",
+   "summary": "Pakistan’s game development industry earns an estimated $400-480 million a year. But a large part of that money never makes it home. Faced with rules that require half of export proceeds to be converted into rupees, caps on incoming transactions, slow remittance screening and a 27pc tax on top-ups used to buy ads on pl…",
+   "image": "https://i.dawn.com/large/2021/12/61ad8d2b8db90.jpg",
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Russian strikes cut power to hundreds of thousands in Ukraine",
-   "url": "https://www.brecorder.com/news/40448050/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine",
-   "source": "Business Recorder",
-   "published": "2026-11-08T23:46:04+00:00",
-   "summary": "KYIV, (Ukraine): Russian strikes on Ukraine’s energy infrastructure cut power to hundreds of thousands of homes Sunday, authorities said, while a new drone hit a village humanitarian aid centre attacked this week where rescuers are still digging out bodies. Ukraine is bracing for a harsh new winter of war as Russia ram…",
-   "image": "https://i.brecorder.com/large/2023/08/2311492369f8bc0.gif",
-   "topics": [
-    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -208,11 +273,11 @@
    "domestic": false
   },
   {
-   "title": "Realty sector gets Rs34b tax relief",
-   "url": "https://tribune.com.pk/story/2639194/realty-sector-gets-rs34b-tax-relief",
+   "title": "Tax net: time for enforcement",
+   "url": "https://tribune.com.pk/story/2639331/tax-net-time-for-enforcement",
    "source": "The Express Tribune",
-   "published": "2026-11-07T17:32:15+00:00",
-   "summary": "Real estate contribution down 45% to Rs42b; salaried class pays 360% more",
+   "published": "2026-11-08T15:56:53+00:00",
+   "summary": "With relief for documented taxpayers, undeclared incomes must be taxed",
    "image": null,
    "topics": [
     "Budget & spending"
@@ -221,14 +286,40 @@
    "domestic": false
   },
   {
-   "title": "Private investors can fill Rs3tr development gap",
-   "url": "https://tribune.com.pk/story/2639197/private-investors-can-fill-rs3tr-development-gap",
+   "title": "Rising debt distress sparks calls for structural overhaul",
+   "url": "https://tribune.com.pk/story/2639332/rising-debt-distress-sparks-calls-for-structural-overhaul",
    "source": "The Express Tribune",
-   "published": "2026-11-07T17:32:15+00:00",
-   "summary": "Budget provides barely a quarter of financing for roads, hospitals, water & power projects",
+   "published": "2026-11-08T15:56:53+00:00",
+   "summary": "Debt burdens growing faster than capacity to manage, shrinking fiscal space for development",
    "image": null,
    "topics": [
     "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Tax refunds under Section 7E",
+   "url": "https://tribune.com.pk/story/2639333/tax-refunds-under-section-7e",
+   "source": "The Express Tribune",
+   "published": "2026-11-08T15:56:53+00:00",
+   "summary": "Question is how taxpayers can recover amounts paid under provision subsequently declared void",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Building modern financial infrastructure for gold",
+   "url": "https://tribune.com.pk/story/2639336/building-modern-financial-infrastructure-for-gold",
+   "source": "The Express Tribune",
+   "published": "2026-11-08T15:56:53+00:00",
+   "summary": "Digitising safe-haven asset can expand financial inclusion",
+   "image": null,
+   "topics": [
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
@@ -270,19 +361,6 @@
     "Procurement"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Govt unveils new auto policy aimed at promoting EVs, boosting localisation",
-   "url": "https://tribune.com.pk/story/2639141/govt-unveils-new-auto-policy-aimed-at-promoting-evs-boosting-localisation",
-   "source": "The Express Tribune",
-   "published": "2026-11-07T07:58:41+00:00",
-   "summary": "Information minister says policy will help reduce fuel import bill, allow for resources to be spent on public needs",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -403,58 +481,6 @@
    "domestic": false
   },
   {
-   "title": "Soybeans and corn firm on higher oil prices, but set for weekly losses",
-   "url": "https://www.brecorder.com/news/40447738/soybeans-and-corn-firm-on-higher-oil-prices-but-set-for-weekly-losses",
-   "source": "Business Recorder",
-   "published": "2026-11-06T06:34:36+00:00",
-   "summary": "SINGAPORE: Soybeans and corn rose on Friday as gains in oil prices supported agricultural goods, although expectations of ample global supplies limited the upside and left both markets on track for weekly losses. Wheat slid on prospects of a resumption of Black Sea grain exports. “The downside is limited at current lev…",
-   "image": "https://i.brecorder.com/large/2026/08/1900533308f841a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan slips, looks set to snap five-week winning streak",
-   "url": "https://www.brecorder.com/news/40447735/chinas-yuan-slips-looks-set-to-snap-five-week-winning-streak",
-   "source": "Business Recorder",
-   "published": "2026-11-06T06:31:22+00:00",
-   "summary": "SHANGHAI: China’s yuan eased against the dollar on Friday and looked set to snap a five-week winning streak after a softer official midpoint guidance, while a selloff in equities further weighed on market sentiment. Chinese stocks tumbled, mirroring a sharp overnight selloff on Wall Street after the tech-heavy Nasdaq p…",
-   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar weaker on Friday",
-   "url": "https://www.brecorder.com/news/40447733/thai-bahtus-dollar-weaker-on-friday",
-   "source": "Business Recorder",
-   "published": "2026-11-06T06:27:48+00:00",
-   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Friday . At 0126 GMT, the baht was 0.18% lower at 33.47 versus the dollar, after trading in a range of 33.460 to 33.480. It ended the previous session at 33.41 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold drops over 1% on higher oil prices; US payrolls data in focus",
-   "url": "https://www.brecorder.com/news/40447728/gold-drops-over-1-on-higher-oil-prices-us-payrolls-data-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-11-06T05:54:22+00:00",
-   "summary": "Gold prices slipped on Friday as oil prices rebounded, fanning inflation worries and higher-for-longer interest rate expectations, while investors awaited key US payrolls data later in the day. Spot gold fell 1.1% to $4,044.09 per ounce by 0501 GMT, but was on track for its best week since late August. US gold futures …",
-   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "US, SBP celebrate deployment of new core banking network and data centre",
    "url": "https://tribune.com.pk/story/2638967/us-sbp-celebrate-deployment-of-new-core-banking-network-and-data-centre",
    "source": "The Express Tribune",
@@ -479,32 +505,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of England lifts rate for first time since 2023 to fight inflation",
-   "url": "https://www.dawn.com/news/2042350/bank-of-england-lifts-rate-for-first-time-since-2023-to-fight-inflation",
-   "source": "Dawn",
-   "published": "2026-11-05T13:06:10+00:00",
-   "summary": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation. The central bank tightened borrowing costs by a quarter point, catching up with the US Federal Reserve and the European Central Bank i…",
-   "image": "https://i.dawn.com/large/2023/03/24101839908b225.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM directs cancellation of petrol pump licences over failure to facilitate fuel subsidy beneficiaries",
-   "url": "https://www.dawn.com/news/2042330/pm-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
-   "source": "Dawn",
-   "published": "2026-11-05T11:27:19+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday directed the authorities concerned to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries under the Prime Minister’s Fuel Relief Programme . Chairing a meeting to review progress on the programme, the prime minister expressed satisfaction over i…",
-   "image": "https://i.dawn.com/large/2026/11/05150508673282a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
