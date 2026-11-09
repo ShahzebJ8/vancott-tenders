@@ -1,15 +1,67 @@
 {
- "generated": "2026-11-08T21:21:27+00:00",
- "count": 38,
- "relevant_count": 12,
- "domestic_count": 9,
+ "generated": "2026-11-09T01:09:53+00:00",
+ "count": 41,
+ "relevant_count": 14,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (12)",
+  "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (12)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "EPZ Risalpur Unit: Customs uncovers import irregularities, shortage of goods",
+   "url": "https://www.brecorder.com/news/40448049/epz-risalpur-unit-customs-uncovers-import-irregularities-shortage-of-goods",
+   "source": "Business Recorder",
+   "published": "2026-11-09T00:29:10+00:00",
+   "summary": "ISLAMABAD: Pakistan Customs has initiated legal proceedings against M/s Shippo Private Limited, an industrial unit operating in the Export Processing Zone (EPZ), Risalpur, following the detection of alleged import irregularities and a substantial shortage of goods during audit and stock-taking proceedings. During an au…",
+   "image": "https://i.brecorder.com/large/2025/11/102347377e7ab3e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Visit to China: Balochistan delegation discusses CPEC, Gwadar Port",
+   "url": "https://www.brecorder.com/news/40448042/visit-to-china-balochistan-delegation-discusses-cpec-gwadar-port",
+   "source": "Business Recorder",
+   "published": "2026-11-08T23:46:04+00:00",
+   "summary": "BEIJING: A Pakistani delegation comprising foreign affairs expert Muhammad Mehdi and bureaucrats from Balochistan has visited China at the invitation of the Chinese government. The visit was organised by the Chinese Embassy in Islamabad. During their stay in Beijing, the delegation held meetings with senior officials f…",
+   "image": "https://i.brecorder.com/large/2026/02/07010942d881c0f.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Companies sign JV with Turkish powerhouse",
+   "url": "https://www.brecorder.com/news/40448075/companies-sign-jv-with-turkish-powerhouse",
+   "source": "Business Recorder",
+   "published": "2026-11-08T23:46:04+00:00",
+   "summary": "ISLAMABAD: Fatima Group, Lake City, Artistic Milliners (Pvt.) Ltd., DIN Group and Fazal Group signed strategic joint venture with Turkish industrial powerhouse in Istanbul. The partnership brings together business groups with a reported combined workforce exceeding 145,000 across fertilisers, textiles, construction, mi…",
+   "image": "https://i.brecorder.com/large/2025/08/6893de214d85a.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "HCSTSI delegation visits RTO Hyderabad",
+   "url": "https://www.brecorder.com/news/40448076/hcstsi-delegation-visits-rto-hyderabad",
+   "source": "Business Recorder",
+   "published": "2026-11-08T23:46:04+00:00",
+   "summary": "HYDERABAD: President Hyderabad Chamber of Small Traders & Small Industry (HCSTSI), Nadeem Ahmed Siddiqui, along with a delegation, visited the Regional Tax Office (RTO) Hyderabad, where he held a meeting with Mirza Nasir Baig, Chief Operations (Inland Revenue), Federal Board of Revenue (FBR), who arrived from Islamabad…",
+   "image": "https://i.brecorder.com/large/2026/03/3005432135bfa69.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "IT earnings drive 22.6pc growth in services exports",
    "url": "https://www.dawn.com/news/2042900/it-earnings-drive-226pc-growth-in-services-exports",
@@ -130,42 +182,29 @@
    "domestic": true
   },
   {
-   "title": "Step-by-step guide: How to amend or cancel FBR e-invoice after 72 hours",
-   "url": "https://www.brecorder.com/news/40448010/step-by-step-guide-how-to-amend-or-cancel-fbr-e-invoice-after-72-hours",
+   "title": "Russian strikes cut power to hundreds of thousands in Ukraine",
+   "url": "https://www.brecorder.com/news/40448050/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine",
    "source": "Business Recorder",
-   "published": "2026-11-08T17:01:14+00:00",
-   "summary": "The Federal Board of Revenue (FBR) has introduced a new facility allowing taxpayers to apply for the amendment or cancellation of electronic sales tax invoices even after the prescribed 72-hour time limit has expired. The facility, available through the FBR’s IRIS portal, requires prior approval from the concerned Comm…",
-   "image": "https://i.brecorder.com/large/2026/11/082148220e2c854.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
-   "url": "https://www.brecorder.com/news/40447993/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-says",
-   "source": "Business Recorder",
-   "published": "2026-11-08T08:50:14+00:00",
-   "summary": "MOSCOW: The Russian-controlled Zaporizhzhia nuclear power plant in southeastern ​Ukraine has lost its external ‌power supply, the Russian-installed management of the plant said on Sunday after ​the Ferosplavna power line was ​disconnected by protective systems because ⁠of damage. In a statement posted ​on the Russian s…",
-   "image": "https://i.brecorder.com/large/2026/11/08134847d49cf53.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi civil defence gives all-clear after alerts in Eastern Province",
-   "url": "https://www.brecorder.com/news/40447982/saudi-civil-defence-gives-all-clear-after-alerts-in-eastern-province",
-   "source": "Business Recorder",
-   "published": "2026-11-08T04:45:15+00:00",
-   "summary": "Saudi Arabia’s civil defence on Sunday lifted alerts in ​several areas of the kingdom’s ‌oil-rich Eastern Province, including Dhahran, home to the headquarters of oil major Saudi Aramco, ​shortly after warning of potential ​danger. Houthis claim attack targeting Riyadh airport with ballistic missile The all-clear also …",
-   "image": "https://i.brecorder.com/large/2026/10/06023025f4d50fd.webp",
+   "published": "2026-11-08T23:46:04+00:00",
+   "summary": "KYIV, (Ukraine): Russian strikes on Ukraine’s energy infrastructure cut power to hundreds of thousands of homes Sunday, authorities said, while a new drone hit a village humanitarian aid centre attacked this week where rescuers are still digging out bodies. Ukraine is bracing for a harsh new winter of war as Russia ram…",
+   "image": "https://i.brecorder.com/large/2023/08/2311492369f8bc0.gif",
    "topics": [
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "US bonds fall after Thursday’s rally",
+   "url": "https://www.brecorder.com/news/40448061/us-bonds-fall-after-thursdays-rally",
+   "source": "Business Recorder",
+   "published": "2026-11-08T23:46:04+00:00",
+   "summary": "NEW YORK: US Treasuries fell on Friday, pushing yields higher, after the world’s largest economy created far more jobs than expected last month, bolstering expectations the Federal Reserve will raise interest rates at the December policy meeting. Friday’s decline in Treasury prices followed a safe-haven rally on Thursd…",
+   "image": "https://i.brecorder.com/large/2026/09/1420093819a763c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
