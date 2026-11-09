@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T08:25:20+00:00",
+ "generated": "2026-11-09T19:03:45+00:00",
  "count": 943,
  "with_value": 900,
  "with_winner": 325,
@@ -17940,6 +17940,46 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000004951",
+   "tender_no": "TS0000013816E",
+   "reference": "P80017",
+   "title": "Hiring of Firm for Outsourced HR Support Services Services",
+   "organisation": "Ministry of Energy (Power Division) Energy Infrastruture Development and Management Company (EIDMC) Islamabad - Pakistan",
+   "bid_count": 9,
+   "lowest": [
+    "Asad & Co"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-09",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004951",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000004950",
+   "tender_no": "TS0000012324E",
+   "reference": "FCS/NSR/TE/028/26 Gravel/ Earth Clay For Filling",
+   "title": "FCS/NSR/TE/028/26 Gravel/ Earth Clay For Filling Miscellaneous",
+   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Procurement Office, Sui Northern Gas Pipelines Limited (SNGPL) Charsada Charsada - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "PK Traders Peshawar"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-09",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000004950",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000004949",
    "tender_no": "TS0000009740E",
@@ -56979,46 +57019,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002850",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002849",
-   "tender_no": "TS0000010397E",
-   "reference": "04 (1) SIFCD/ General/",
-   "title": "Tender Notice for Prequalification of Firms for SIFCD for FY 26-27 Services",
-   "organisation": "Prime Minister's Office Special Investment Facilitation Council (SIFC) Islamabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "3 Prime Minister's Office"
-   ],
-   "sector": null,
-   "evaluation_type": "PQ Evaluation",
-   "advertised": "2026-08-20",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002849",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000002848",
-   "tender_no": "TS0000004251E",
-   "reference": "FST/TE/021/26",
-   "title": "Rechargeable Dry Batteries Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Faisalabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Ali Trading Corporation, Lahore"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-20",
-   "city": "Faisalabad",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000002848",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

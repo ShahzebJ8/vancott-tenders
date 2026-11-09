@@ -1,15 +1,54 @@
 {
- "generated": "2026-11-09T08:25:46+00:00",
- "count": 41,
- "relevant_count": 12,
- "domestic_count": 10,
+ "generated": "2026-11-09T19:04:10+00:00",
+ "count": 40,
+ "relevant_count": 13,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (12)",
-  "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (13)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (12)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Rock collapse at Tarbela T5 sends water into tunnel, work stopped",
+   "url": "https://www.brecorder.com/news/40448122/rock-collapse-at-tarbela-t5-sends-water-into-tunnel-work-stopped",
+   "source": "Business Recorder",
+   "published": "2026-11-09T18:15:54+00:00",
+   "summary": "Construction work at the Tarbela Fifth Extension (T5) Hydropower Project was suspended on Monday after water entered Tunnel No. 5. All Pakistani and foreign staff were moved to safety. Aaj News reported that a crack in the project’s protective embankment let a large volume of water flow into the tunnel. Haripur Deputy …",
+   "image": "https://i.brecorder.com/large/2026/11/09171047562fa4c.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "South Air launches Peshawar-Lahore flight service",
+   "url": "https://www.brecorder.com/news/40448134/south-air-launches-peshawar-lahore-flight-service",
+   "source": "Business Recorder",
+   "published": "2026-11-09T17:59:26+00:00",
+   "summary": "South Air has launched a new domestic flight service between Peshawar and Lahore, expanding travel options for passengers between the two cities. The inaugural flight departed from Bacha Khan International Airport, Peshawar, at 1:56pm on Monday, carrying Khyber Pakhtunkhwa Governor Faisal Karim Kundi. It landed at Alla…",
+   "image": "https://i.brecorder.com/large/2026/11/0922591212e2b86.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Indian rupee breaks six-day winning streak on state banks' dollar bids",
+   "url": "https://www.brecorder.com/news/40448118/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids",
+   "source": "Business Recorder",
+   "published": "2026-11-09T10:20:53+00:00",
+   "summary": "MUMBAI: The Indian rupee snapped a six-session winning run on Monday, amid thin trading volumes, as dollar bids from state-run lenders outweighed the recent positive momentum. Indian foreign exchange markets will be closed on Tuesday for a local holiday. The Indian rupee hit a six-month high of 93.69 per dollar, extend…",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Crumbling infrastructure in Karachi’s industrial areas is bleeding workers and businesses alike",
    "url": "https://www.dawn.com/news/2043258/crumbling-infrastructure-in-karachis-industrial-areas-is-bleeding-workers-and-businesses-alike",
@@ -34,19 +73,6 @@
     "Energy & power"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Visit to China: Balochistan delegation discusses CPEC, Gwadar Port",
-   "url": "https://www.brecorder.com/news/40448042/visit-to-china-balochistan-delegation-discusses-cpec-gwadar-port",
-   "source": "Business Recorder",
-   "published": "2026-11-08T23:46:04+00:00",
-   "summary": "BEIJING: A Pakistani delegation comprising foreign affairs expert Muhammad Mehdi and bureaucrats from Balochistan has visited China at the invitation of the Chinese government. The visit was organised by the Chinese Embassy in Islamabad. During their stay in Beijing, the delegation held meetings with senior officials f…",
-   "image": "https://i.brecorder.com/large/2026/02/07010942d881c0f.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -116,19 +142,6 @@
    "domestic": true
   },
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40447764/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-06T14:59:24+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.66, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.67 against the dollar. Internationally, the US dollar held steady against major currencies …",
-   "image": "https://i.brecorder.com/large/2026/11/060057397fe5b6a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Short-term inflation surges to 12.31pc due to costly food, LPG",
    "url": "https://www.dawn.com/news/2042609/short-term-inflation-surges-to-1231pc-due-to-costly-food-lpg",
    "source": "Dawn",
@@ -140,6 +153,59 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "IMF launches Ukraine loan review that could unlock $1.67 billion",
+   "url": "https://www.brecorder.com/news/40448125/imf-launches-ukraine-loan-review-that-could-unlock-167-billion",
+   "source": "Business Recorder",
+   "published": "2026-11-09T12:39:14+00:00",
+   "summary": "KYIV: The International Monetary Fund began a review of Ukraine’s lending programme on Monday that could unlock $1.67 billion in fresh financing for Kyiv as it struggles to shore up its war-hit economy and plug a looming funding gap. Cooperation with the IMF, Ukraine’s key international lender, is critical to ensure fu…",
+   "image": "https://i.brecorder.com/large/2025/05/092115100161029.png",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Turning gaming talent into export earnings",
+   "url": "https://www.dawn.com/news/2043199/turning-gaming-talent-into-export-earnings",
+   "source": "Dawn",
+   "published": "2026-11-09T11:18:34+00:00",
+   "summary": "Pakistan’s game development industry earns an estimated $400-480 million a year. But a large part of that money never makes it home. Faced with rules that require half of export proceeds to be converted into rupees, caps on incoming transactions, slow remittance screening and a 27pc tax on top-ups used to buy ads on pl…",
+   "image": "https://i.dawn.com/large/2021/12/61ad8d2b8db90.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Copper rebounds on firmer risk sentiment and tight supply in China",
+   "url": "https://www.brecorder.com/news/40448120/copper-rebounds-on-firmer-risk-sentiment-and-tight-supply-in-china",
+   "source": "Business Recorder",
+   "published": "2026-11-09T11:04:09+00:00",
+   "summary": "LONDON: Copper prices recouped some of last week’s steep losses on Monday as risk sentiment improved while supply in China remained tight and the dollar slipped. Three-month copper on the London Metal Exchange (LME) rose 0.7% to $13,869 a metric ton by 1030 GMT, having lost 2.7% last week in its steepest weekly decline…",
+   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "German exports rise more than expected in September",
+   "url": "https://www.brecorder.com/news/40448113/german-exports-rise-more-than-expected-in-september",
+   "source": "Business Recorder",
+   "published": "2026-11-09T08:59:00+00:00",
+   "summary": "German exports rose ​more than expected in September ‌by 2% compared with the previous month, driven mainly by ​demand from European Union ​countries, data, opens new tab from the federal statistics ⁠office showed on Monday. Analysts polled ​by Reuters had forecast a ​0.5% increase, following two consecutive drops in A…",
+   "image": "https://i.brecorder.com/large/2026/11/0913584063def98.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "South African rand firms on softer oil; coalition talks in focus",
@@ -246,20 +312,6 @@
    "domestic": false
   },
   {
-   "title": "Turning gaming talent into export earnings",
-   "url": "https://www.dawn.com/news/2043199/turning-gaming-talent-into-export-earnings",
-   "source": "Dawn",
-   "published": "2026-11-09T01:34:28+00:00",
-   "summary": "Pakistan’s game development industry earns an estimated $400-480 million a year. But a large part of that money never makes it home. Faced with rules that require half of export proceeds to be converted into rupees, caps on incoming transactions, slow remittance screening and a 27pc tax on top-ups used to buy ads on pl…",
-   "image": "https://i.dawn.com/large/2021/12/61ad8d2b8db90.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "US bonds fall after Thursday’s rally",
    "url": "https://www.brecorder.com/news/40448061/us-bonds-fall-after-thursdays-rally",
    "source": "Business Recorder",
@@ -291,19 +343,6 @@
    "source": "The Express Tribune",
    "published": "2026-11-08T15:56:53+00:00",
    "summary": "Debt burdens growing faster than capacity to manage, shrinking fiscal space for development",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Tax refunds under Section 7E",
-   "url": "https://tribune.com.pk/story/2639333/tax-refunds-under-section-7e",
-   "source": "The Express Tribune",
-   "published": "2026-11-08T15:56:53+00:00",
-   "summary": "Question is how taxpayers can recover amounts paid under provision subsequently declared void",
    "image": null,
    "topics": [
     "Budget & spending"
@@ -422,58 +461,6 @@
    "published": "2026-11-06T11:46:30+00:00",
    "summary": "MANILA: The Philippines’ gross foreign reserves dropped to $97.4 billion at the end of October, from a revised $99.5 billion a month earlier, the central bank said on Friday, citing preliminary data. The latest forex reserves would provide an external liquidity buffer equivalent to 6.1 months worth of imports of goods …",
    "image": "https://i.brecorder.com/large/2026/06/0110381587d5b18.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "World food prices dip in October, but remain higher than a year ago",
-   "url": "https://www.brecorder.com/news/40447762/world-food-prices-dip-in-october-but-remain-higher-than-a-year-ago",
-   "source": "Business Recorder",
-   "published": "2026-11-06T10:42:18+00:00",
-   "summary": "PARIS: World food prices edged lower in October as weaker import demand contributed to monthly declines in cereal, dairy and meat prices, but were still nearly 6% higher than a year earlier, the United Nations’ Food and Agriculture Organization said on Friday. The FAO Food Price Index, which tracks monthly changes in i…",
-   "image": "https://i.brecorder.com/large/2026/09/04163911d94fe05.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
-   "url": "https://www.brecorder.com/news/40447761/indian-rupee-strengthens-past-94-as-oil-slides-foreign-inflows-return",
-   "source": "Business Recorder",
-   "published": "2026-11-06T10:37:07+00:00",
-   "summary": "MUMBAI: The Indian rupee strengthened past 94 per dollar on Friday, regaining appeal among emerging-market currencies after spending much of the year in the doldrums, and also posted its best week in three weeks. Helped by the unwinding of the once-dominant AI trade and a sharp fall in oil prices after the Democrats sw…",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand slips on stronger dollar, local election vote count advances",
-   "url": "https://www.brecorder.com/news/40447749/south-african-rand-slips-on-stronger-dollar-local-election-vote-count-advances",
-   "source": "Business Recorder",
-   "published": "2026-11-06T07:19:35+00:00",
-   "summary": "JOHANNESBURG: The South African rand weakened against a firmer dollar on Friday as ​the vote count in this week’s ‌municipal elections progressed, with results so far pointing to a further slide in support for the African ​National Congress. At 0655 GMT, the rand ​traded at 16.5275 against the U.S. currency , ⁠down 0.3…",
-   "image": "https://i.brecorder.com/large/2026/11/06121728b52535b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai October headline CPI rises 3.90% on year, above forecast",
-   "url": "https://www.brecorder.com/news/40447745/thai-october-headline-cpi-rises-390-on-year-above-forecast",
-   "source": "Business Recorder",
-   "published": "2026-11-06T06:50:47+00:00",
-   "summary": "BANGKOK: Thailand’s headline consumer price index rose 3.90% in October from a year earlier, following an annual increase of 2.82% in the previous month, the commerce ministry said on Friday. The reading compared with a forecast rise of 3.24% in a Reuters poll, and exceeded the central bank’s inflation target range of …",
-   "image": "https://i.brecorder.com/large/2022/04/04103039fcf20d2.jpg",
    "topics": [
     "Economy"
    ],
