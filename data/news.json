@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T17:16:26+00:00",
+ "generated": "2026-11-10T22:32:20+00:00",
  "count": 42,
- "relevant_count": 10,
- "domestic_count": 12,
+ "relevant_count": 9,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (16)",
@@ -154,18 +154,18 @@
    "domestic": true
   },
   {
-   "title": "Exports post sluggish growth in July-October",
-   "url": "https://www.dawn.com/news/2042685/exports-post-sluggish-growth-in-july-october",
+   "title": "PM Shehbaz stresses clean energy’s importance for Pakistan at Chashma-5 nuclear plant event",
+   "url": "https://www.dawn.com/news/2043579/pm-shehbaz-stresses-clean-energys-importance-for-pakistan-at-chashma-5-nuclear-plant-event",
    "source": "Dawn",
-   "published": "2026-11-07T00:04:45+00:00",
-   "summary": "ISLAMABAD: Pakistan’s merchandise exports recorded single-digit growth in the first four months of the current fiscal year (FY27), while the trade deficit widened on the back of rising imports, the Pakistan Bureau of Statistics (PBS) reported on Friday. In absolute terms, export proceeds stood at $11.34 billion in July…",
-   "image": "https://i.dawn.com/large/2023/03/25152934f1aa912.jpg",
+   "published": "2026-11-10T19:12:19+00:00",
+   "summary": "Prime Minister Shehbaz Sharif has emphasised that Chashma-5 (C-5) Nuclear Power Plant represents clean electricity and energy security for the people of Pakistan. The premier made the remarks, aired on Tuesday, at a ceremony marking the dome placement of the C-5 plant near Mianwali. The placement of a nuclear plant’s d…",
+   "image": "https://i.dawn.com/large/2026/11/1100592813eff8d.webp",
    "topics": [
-    "Budget & spending",
+    "Energy & power",
     "Economy"
    ],
-   "relevant": true,
-   "domestic": true
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan Atomic Energy Commission completes dome placement at Chashma-5 nuclear plant",
@@ -173,7 +173,7 @@
    "source": "Business Recorder",
    "published": "2026-11-10T15:48:51+00:00",
    "summary": "The Pakistan Atomic Energy Commission (PAEC) had achieved a major milestone at the Chashma Nuclear Power Plant Generating Station with the successful dome placement of the Chashma-5 (C-5) Nuclear Power Plant, the Prime Minister’s Office (PMO) said on Tuesday. “C-5 Project is a manifestation of clean and emissions-free …",
-   "image": "https://i.brecorder.com/large/2026/11/102029486d60372.webp",
+   "image": "https://i.ytimg.com/vi/8PYIH75dlDI/maxresdefault.jpg",
    "topics": [
     "Energy & power"
    ],
