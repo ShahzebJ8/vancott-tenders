@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-09T19:04:10+00:00",
- "count": 40,
+ "generated": "2026-11-10T02:01:30+00:00",
+ "count": 44,
  "relevant_count": 13,
- "domestic_count": 11,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (13)",
@@ -11,29 +11,68 @@
  },
  "stories": [
   {
-   "title": "Rock collapse at Tarbela T5 sends water into tunnel, work stopped",
-   "url": "https://www.brecorder.com/news/40448122/rock-collapse-at-tarbela-t5-sends-water-into-tunnel-work-stopped",
+   "title": "Auto policy",
+   "url": "https://www.brecorder.com/news/40448139/auto-policy",
    "source": "Business Recorder",
-   "published": "2026-11-09T18:15:54+00:00",
-   "summary": "Construction work at the Tarbela Fifth Extension (T5) Hydropower Project was suspended on Monday after water entered Tunnel No. 5. All Pakistani and foreign staff were moved to safety. Aaj News reported that a crack in the project’s protective embankment let a large volume of water flow into the tunnel. Haripur Deputy …",
-   "image": "https://i.brecorder.com/large/2026/11/09171047562fa4c.webp",
+   "published": "2026-11-10T01:31:31+00:00",
+   "summary": "EDITORIAL: First things first: Federal Minister for Information and Broadcasting Attaullah Tarar said the Prime Minister had approved the final draft of the auto policy. The draft will now be submitted to the Federal Cabinet for consideration and requires clearance from the International Monetary Fund (IMF) before it c…",
+   "image": "https://i.brecorder.com/large/2026/01/13170829dcc1390.webp",
    "topics": [
-    "Construction & projects"
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
   },
   {
-   "title": "South Air launches Peshawar-Lahore flight service",
-   "url": "https://www.brecorder.com/news/40448134/south-air-launches-peshawar-lahore-flight-service",
+   "title": "TCP invites fresh bids for sugar export",
+   "url": "https://www.brecorder.com/news/40448199/tcp-invites-fresh-bids-for-sugar-export",
    "source": "Business Recorder",
-   "published": "2026-11-09T17:59:26+00:00",
-   "summary": "South Air has launched a new domestic flight service between Peshawar and Lahore, expanding travel options for passengers between the two cities. The inaugural flight departed from Bacha Khan International Airport, Peshawar, at 1:56pm on Monday, carrying Khyber Pakhtunkhwa Governor Faisal Karim Kundi. It landed at Alla…",
-   "image": "https://i.brecorder.com/large/2026/11/0922591212e2b86.webp",
+   "published": "2026-11-09T23:44:56+00:00",
+   "summary": "KARACHI: The Trading Corporation of Pakistan (TCP) has invited fresh bids from international buyers and exporters for the export of 108,000 metric tonnes of white refined sugar imported in 2025, without fixing any reserve price, with the entire stock currently lying at its Pipri Godown in Karachi. The move follows the …",
+   "image": "https://i.brecorder.com/large/2024/10/6705d0f12276e.jpg",
    "topics": [
-    "Construction & projects"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Benchmark bar price: FBR raises minimum value of iron, steel scrap supply to 60pc",
+   "url": "https://www.brecorder.com/news/40448201/benchmark-bar-price-fbr-raises-minimum-value-of-iron-steel-scrap-supply-to-60pc",
+   "source": "Business Recorder",
+   "published": "2026-11-09T23:44:56+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has increased the minimum value of supply of specified remeltable iron and steel scrap from 55 percent to 60 percent of the benchmark value of steel bars, revising the valuation mechanism for supplies to registered steel melters. Through SRO. 2086(I)/2026, the FBR amended i…",
+   "image": "https://i.brecorder.com/large/2026/02/090312531225351.webp",
+   "topics": [
+    "Budget & spending"
    ],
    "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Power sector arrears: Upstream supplies at risk as recoveries surge to Rs169.27bn: SNGPL",
+   "url": "https://www.brecorder.com/news/40448202/power-sector-arrears-upstream-supplies-at-risk-as-recoveries-surge-to-rs16927bn-sngpl",
+   "source": "Business Recorder",
+   "published": "2026-11-09T23:44:56+00:00",
+   "summary": "ISLAMABAD: Sui Northern Gas Pipelines Limited (SNGPL) has reported outstanding dues of Rs169.27 billion against the power sector, warning that mounting arrears have triggered a severe financial crisis and impaired its ability to meet commitments towards upstream gas suppliers. In a letter , addressed to the Chief Execu…",
+   "image": "https://i.brecorder.com/large/2026/06/1305470305c0776.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Kundi inaugurates South Airways’ Peshawar-Lahore flights",
+   "url": "https://www.brecorder.com/news/40448146/kundi-inaugurates-south-airways-peshawar-lahore-flights",
+   "source": "Business Recorder",
+   "published": "2026-11-09T23:44:55+00:00",
+   "summary": "PESHAWAR: Governor Khyber Pakhtunkhwa Faisal Karim Kundi on Monday inaugurated South Airways’ new air service between Peshawar and Lahore on the occasion of Iqbal Day. Addressing the inauguration ceremony as chief guest, the governor said the launch of the new route marked another important milestone for the airline an…",
+   "image": "https://i.brecorder.com/large/2025/11/302023066d0c518.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": true
   },
   {
@@ -155,14 +194,27 @@
    "domestic": true
   },
   {
-   "title": "IMF launches Ukraine loan review that could unlock $1.67 billion",
-   "url": "https://www.brecorder.com/news/40448125/imf-launches-ukraine-loan-review-that-could-unlock-167-billion",
+   "title": "Chinese banks boost dollar deposit rates",
+   "url": "https://www.brecorder.com/news/40448207/chinese-banks-boost-dollar-deposit-rates",
    "source": "Business Recorder",
-   "published": "2026-11-09T12:39:14+00:00",
-   "summary": "KYIV: The International Monetary Fund began a review of Ukraine’s lending programme on Monday that could unlock $1.67 billion in fresh financing for Kyiv as it struggles to shore up its war-hit economy and plug a looming funding gap. Cooperation with the IMF, Ukraine’s key international lender, is critical to ensure fu…",
-   "image": "https://i.brecorder.com/large/2025/05/092115100161029.png",
+   "published": "2026-11-09T23:44:56+00:00",
+   "summary": "BEIJING: Several Chinese banks are sharply lifting dollar deposit rates, in some cases above US benchmarks, in unusually swift moves that bankers say are attracting cash and could temper gains for China’s yuan. Higher dollar deposit rates encourage savers and exporters to park cash in dollars rather than low-yielding y…",
+   "image": "https://i.brecorder.com/large/2026/11/100323340e53978.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "All workers rescued after Tarbela Dam embankment breach",
+   "url": "https://www.brecorder.com/news/40448210/all-workers-rescued-after-tarbela-dam-embankment-breach",
+   "source": "Business Recorder",
+   "published": "2026-11-09T23:44:56+00:00",
+   "summary": "TARBELA: All workers were safely evacuated following a water ingress incident during excavation work at the second Bench Connecting Tunnel of the Tarbela 5th Extension Hydropower Project, Wapda said in a press release on Monday. According to Wapda, a weak rock mass collapsed during tunnel excavation, allowing water fro…",
+   "image": "https://i.brecorder.com/large/2026/11/09171047562fa4c.webp",
+   "topics": [
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
