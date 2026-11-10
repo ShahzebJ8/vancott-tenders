@@ -1,35 +1,22 @@
 {
- "generated": "2026-11-10T02:01:30+00:00",
- "count": 44,
- "relevant_count": 13,
- "domestic_count": 14,
+ "generated": "2026-11-10T09:23:26+00:00",
+ "count": 40,
+ "relevant_count": 9,
+ "domestic_count": 12,
  "sources": {
   "Dawn": "ok (12)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (12)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (10)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Auto policy",
-   "url": "https://www.brecorder.com/news/40448139/auto-policy",
+   "title": "Beyond the order: the logistics behind Pakistan’s export ambitions",
+   "url": "https://www.brecorder.com/news/40448251/beyond-the-order-the-logistics-behind-pakistans-export-ambitions",
    "source": "Business Recorder",
-   "published": "2026-11-10T01:31:31+00:00",
-   "summary": "EDITORIAL: First things first: Federal Minister for Information and Broadcasting Attaullah Tarar said the Prime Minister had approved the final draft of the auto policy. The draft will now be submitted to the Federal Cabinet for consideration and requires clearance from the International Monetary Fund (IMF) before it c…",
-   "image": "https://i.brecorder.com/large/2026/01/13170829dcc1390.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "TCP invites fresh bids for sugar export",
-   "url": "https://www.brecorder.com/news/40448199/tcp-invites-fresh-bids-for-sugar-export",
-   "source": "Business Recorder",
-   "published": "2026-11-09T23:44:56+00:00",
-   "summary": "KARACHI: The Trading Corporation of Pakistan (TCP) has invited fresh bids from international buyers and exporters for the export of 108,000 metric tonnes of white refined sugar imported in 2025, without fixing any reserve price, with the entire stock currently lying at its Pipri Godown in Karachi. The move follows the …",
-   "image": "https://i.brecorder.com/large/2024/10/6705d0f12276e.jpg",
+   "published": "2026-11-10T08:38:19+00:00",
+   "summary": "For a Pakistani business looking to sell overseas, securing an international customer is only the beginning. Getting products across borders at a competitive price, navigating customs, managing payments and handling returns can determine whether an export order becomes profitable or an expensive exercise. These challen…",
+   "image": "https://i.brecorder.com/large/2025/12/08160313c0eb8e8.webp",
    "topics": [
     "Economy"
    ],
@@ -37,38 +24,51 @@
    "domestic": true
   },
   {
-   "title": "Benchmark bar price: FBR raises minimum value of iron, steel scrap supply to 60pc",
-   "url": "https://www.brecorder.com/news/40448201/benchmark-bar-price-fbr-raises-minimum-value-of-iron-steel-scrap-supply-to-60pc",
+   "title": "Pakistan records $3.9bn in remittances for October 2026",
+   "url": "https://www.brecorder.com/news/40448227/pakistan-records-39bn-in-remittances-for-october-2026",
    "source": "Business Recorder",
-   "published": "2026-11-09T23:44:56+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has increased the minimum value of supply of specified remeltable iron and steel scrap from 55 percent to 60 percent of the benchmark value of steel bars, revising the valuation mechanism for supplies to registered steel melters. Through SRO. 2086(I)/2026, the FBR amended i…",
-   "image": "https://i.brecorder.com/large/2026/02/090312531225351.webp",
+   "published": "2026-11-10T06:32:42+00:00",
+   "summary": "Overseas workers’ remittances into Pakistan totalled $3.9 billion in October 2026, the State Bank of Pakistan (SBP) said on Tuesday. Remittances rose 13.8% year-on-year to $3.89 billion from $3.42 billion in October 2025. Meanwhile, it recorded an 8.5% increase on a month-on-month basis from $3.6 billion in September 2…",
+   "image": "https://i.brecorder.com/large/2023/06/21113145999a873.jpg",
    "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Power sector arrears: Upstream supplies at risk as recoveries surge to Rs169.27bn: SNGPL",
-   "url": "https://www.brecorder.com/news/40448202/power-sector-arrears-upstream-supplies-at-risk-as-recoveries-surge-to-rs16927bn-sngpl",
-   "source": "Business Recorder",
-   "published": "2026-11-09T23:44:56+00:00",
-   "summary": "ISLAMABAD: Sui Northern Gas Pipelines Limited (SNGPL) has reported outstanding dues of Rs169.27 billion against the power sector, warning that mounting arrears have triggered a severe financial crisis and impaired its ability to meet commitments towards upstream gas suppliers. In a letter , addressed to the Chief Execu…",
-   "image": "https://i.brecorder.com/large/2026/06/1305470305c0776.webp",
-   "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
    "domestic": true
   },
   {
-   "title": "Kundi inaugurates South Airways’ Peshawar-Lahore flights",
-   "url": "https://www.brecorder.com/news/40448146/kundi-inaugurates-south-airways-peshawar-lahore-flights",
-   "source": "Business Recorder",
-   "published": "2026-11-09T23:44:55+00:00",
-   "summary": "PESHAWAR: Governor Khyber Pakhtunkhwa Faisal Karim Kundi on Monday inaugurated South Airways’ new air service between Peshawar and Lahore on the occasion of Iqbal Day. Addressing the inauguration ceremony as chief guest, the governor said the launch of the new route marked another important milestone for the airline an…",
-   "image": "https://i.brecorder.com/large/2025/11/302023066d0c518.webp",
+   "title": "Used car imports under gift scheme persist despite tough restrictions, say vendors",
+   "url": "https://www.dawn.com/news/2043373/used-car-imports-under-gift-scheme-persist-despite-tough-restrictions-say-vendors",
+   "source": "Dawn",
+   "published": "2026-11-10T02:03:58+00:00",
+   "summary": "KARACHI: Imports of used cars under the gift scheme have continued, with more than 2,000 units arriving in the country during October despite tough import restrictions by the government, according to auto vendors. While used car imports continue, vendors are also unhappy with the new auto policy announced by the govern…",
+   "image": "https://i.dawn.com/large/2026/09/240730572a9417d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Modest rise in exports to US, imports surge",
+   "url": "https://www.dawn.com/news/2043370/modest-rise-in-exports-to-us-imports-surge",
+   "source": "Dawn",
+   "published": "2026-11-10T02:03:58+00:00",
+   "summary": "ISLAMABAD: Pakistan’s merchandise exports to North America grew modestly by 4.65 per cent to $1.826 billion in the first quarter of 2026-27, up from $1.745bn a year ago. Imports from the region, however, surged 60.58pc to $841.31 million from $523.91m over the corresponding period last year, indicating a high inflow of…",
+   "image": "https://i.dawn.com/large/2026/04/0308384641a6d55.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Thar coal to replace imports",
+   "url": "https://tribune.com.pk/story/2639491/thar-coal-to-replace-imports",
+   "source": "The Express Tribune",
+   "published": "2026-11-09T16:02:20+00:00",
+   "summary": "Centre, Sindh will build rail track to supply local coal to imported coal-based plants",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -141,19 +141,6 @@
    "domestic": true
   },
   {
-   "title": "NEPRA approves Rs2.3673 per unit FCA for September",
-   "url": "https://www.brecorder.com/news/40447884/nepra-approves-rs23673-per-unit-fca-for-september",
-   "source": "Business Recorder",
-   "published": "2026-11-07T05:23:09+00:00",
-   "summary": "ISLAMABAD: The National Electric Power Regulatory Authority (NEPRA) has approved a positive Fuel Charges Adjustment (FCA) of Rs2.3673 per unit for electricity consumers of ex-WAPDA distribution companies (XWDISCOs) and K-Electric for September 2026, to be reflected in November bills. The adjustment is lower than the Rs…",
-   "image": "https://i.brecorder.com/large/2026/11/07101231142393e.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Exports post sluggish growth in July-October",
    "url": "https://www.dawn.com/news/2042685/exports-post-sluggish-growth-in-july-october",
    "source": "Dawn",
@@ -181,25 +168,12 @@
    "domestic": true
   },
   {
-   "title": "Short-term inflation surges to 12.31pc due to costly food, LPG",
-   "url": "https://www.dawn.com/news/2042609/short-term-inflation-surges-to-1231pc-due-to-costly-food-lpg",
-   "source": "Dawn",
-   "published": "2026-11-06T12:55:46+00:00",
-   "summary": "ISLAMABAD: Short-term inflation rose to 12.31 per cent year-on-year in the week ending Nov 5, driven largely by liquefied petroleum gas (LPG) and perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items whose prices are collected …",
-   "image": "https://i.dawn.com/large/2026/07/180614057cd0203.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Chinese banks boost dollar deposit rates",
-   "url": "https://www.brecorder.com/news/40448207/chinese-banks-boost-dollar-deposit-rates",
+   "title": "PSX: stocks surge, KSE-100 gains over 4,700 points",
+   "url": "https://www.brecorder.com/news/40448226/psx-stocks-surge-kse-100-gains-over-4700-points",
    "source": "Business Recorder",
-   "published": "2026-11-09T23:44:56+00:00",
-   "summary": "BEIJING: Several Chinese banks are sharply lifting dollar deposit rates, in some cases above US benchmarks, in unusually swift moves that bankers say are attracting cash and could temper gains for China’s yuan. Higher dollar deposit rates encourage savers and exporters to park cash in dollars rather than low-yielding y…",
-   "image": "https://i.brecorder.com/large/2026/11/100323340e53978.webp",
+   "published": "2026-11-10T08:10:36+00:00",
+   "summary": "Buying returned to the Pakistan Stock Exchange (PSX) after US President Donald Trump said US military action against Iran ​is not necessary “at this point”, with the benchmark KSE-100 gaining over 2.5% during the opening hours of trading on Tuesday. At 1pm, the benchmark index was hovering at 178,584.43, up 4,697.75 po…",
+   "image": "https://i.brecorder.com/large/2026/11/1009544600f3591.webp",
    "topics": [
     "Economy"
    ],
@@ -207,16 +181,159 @@
    "domestic": false
   },
   {
-   "title": "All workers rescued after Tarbela Dam embankment breach",
-   "url": "https://www.brecorder.com/news/40448210/all-workers-rescued-after-tarbela-dam-embankment-breach",
+   "title": "Thai baht/US dollar little changed on Tuesday",
+   "url": "https://www.brecorder.com/news/40448246/thai-bahtus-dollar-little-changed-on-tuesday",
    "source": "Business Recorder",
-   "published": "2026-11-09T23:44:56+00:00",
-   "summary": "TARBELA: All workers were safely evacuated following a water ingress incident during excavation work at the second Bench Connecting Tunnel of the Tarbela 5th Extension Hydropower Project, Wapda said in a press release on Monday. According to Wapda, a weak rock mass collapsed during tunnel excavation, allowing water fro…",
-   "image": "https://i.brecorder.com/large/2026/11/09171047562fa4c.webp",
+   "published": "2026-11-10T07:26:31+00:00",
+   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Tuesday. At 0133 GMT, the baht was 0.05% lower at 33.42 versus the dollar, after trading in a range of 33.385 to 33.433. It ended the previous session at 33.4025 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "ASEAN countries need up to $7.1 trillion for infrastructure but face funding gap, ADB says",
+   "url": "https://www.brecorder.com/news/40448245/asean-countries-need-up-to-71-trillion-for-infrastructure-but-face-funding-gap-adb-says",
+   "source": "Business Recorder",
+   "published": "2026-11-10T07:15:27+00:00",
+   "summary": "MANILA: Southeast Asia’s economies need $7.1 trillion in infrastructure investments through 2040 ​but the region faces a huge ‌funding gap, the Asian Development Bank said in a new report published on Tuesday. ADB ​has updated its assessment of ​the Association of Southeast Asian Nations’ ⁠infrastructure needs from alm…",
+   "image": "https://i.brecorder.com/large/2026/11/101214030e888f7.webp",
    "topics": [
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Yuan steady after dollar softens, awaits US CPI",
+   "url": "https://www.brecorder.com/news/40448241/yuan-steady-after-dollar-softens-awaits-us-cpi",
+   "source": "Business Recorder",
+   "published": "2026-11-10T06:54:53+00:00",
+   "summary": "SHANGHAI: China’s yuan held steady against the US dollar on Tuesday , supported by overnight losses in the greenback even as higher dollar deposit rates capped its gains, with markets awaiting US inflation data for clues on the policy outlook. A sharp drop in global oil prices and an improvement in risk appetite that l…",
+   "image": "https://i.brecorder.com/large/2026/10/1612035238cb053.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China October soybean imports fall on high inventories, weak crush margins",
+   "url": "https://www.brecorder.com/news/40448240/china-october-soybean-imports-fall-on-high-inventories-weak-crush-margins",
+   "source": "Business Recorder",
+   "published": "2026-11-10T06:52:04+00:00",
+   "summary": "BEIJING: China’s soybean imports fell to their lowest level for October since 2023, as high crusher inventories, negative margins and low pork prices dampened buying appetite, analysts said. China imported 7.35 million metric tons of soybeans in October, down 22.5% from the record 9.48 million tons imported a year earl…",
+   "image": "https://i.brecorder.com/large/2026/08/1900533308f841a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Hormuz LNG traffic hits highest in October since Iran war began",
+   "url": "https://www.brecorder.com/news/40448237/hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began",
+   "source": "Business Recorder",
+   "published": "2026-11-10T06:43:56+00:00",
+   "summary": "SINGAPORE: The monthly tally of laden liquefied natural gas (LNG) tankers exiting the Strait of Hormuz reached its highest in October since the US-Iran conflict disrupted shipping this year, vessel tracking data showed. Last month, 31 LNG tankers went through the key waterway, according to data from S&P Global Energy, …",
+   "image": "https://i.brecorder.com/large/2026/11/10114147618eb24.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold edges lower as focus shifts to US inflation data",
+   "url": "https://www.brecorder.com/news/40448235/gold-edges-lower-as-focus-shifts-to-us-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-11-10T06:32:10+00:00",
+   "summary": "Gold prices eased on Tuesday as investors took profits after bullion’s more than 1% rally in the previous session and awaited US inflation data for clues on the Federal Reserve’s policy path. Spot gold was down 0.6% at $4,114.48 per ounce, as of 0430 GMT. US gold futures for December delivery edged 0.2% higher to $4,12…",
+   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Malaysia's October palm oil stocks hit new peak as output surges",
+   "url": "https://www.brecorder.com/news/40448234/malaysias-october-palm-oil-stocks-hit-new-peak-as-output-surges",
+   "source": "Business Recorder",
+   "published": "2026-11-10T06:28:11+00:00",
+   "summary": "KUALA LUMPUR: Malaysia’s palm oil stocks reached a new peak in October, after another record month of output more than offset the rebound in exports, data from the industry regulator showed on Tuesday. Palm oil inventories reached 3.62 million metric tons, 3.15% higher than the previous record of 3.51 million tons in S…",
+   "image": "https://i.brecorder.com/large/2023/01/63b21aa85b9e0.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Wheat near multi-month lows as traders eye Russia-Ukraine talks",
+   "url": "https://www.brecorder.com/news/40448230/wheat-near-multi-month-lows-as-traders-eye-russia-ukraine-talks",
+   "source": "Business Recorder",
+   "published": "2026-11-10T06:11:29+00:00",
+   "summary": "CANBERRA: Chicago wheat prices edged higher on Tuesday but stayed near multi-month lows as traders awaited the outcome of peace talks between Russia and Ukraine that could boost global supply by reviving grainexports through the Black Sea. Corn and soybean futures rose ahead of a monthly US Department of Agriculture su…",
+   "image": "https://i.brecorder.com/large/2023/12/658b4b004fa38.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar sellers hit pause for US inflation data",
+   "url": "https://www.brecorder.com/news/40448222/dollar-sellers-hit-pause-for-us-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-11-10T02:56:22+00:00",
+   "summary": "SYDNEY: The dollar found support following a bumpy few days and held firm in Tuesday’s Asia session while ​traders waited for US inflation data, which could push it higher if it bolsters rate hike bets. A tumble ‌in oil prices and gains overnight for stocks had knocked the dollar lower as investors rotated back into ri…",
+   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian stocks climb as sliding oil prices buoy sentiment",
+   "url": "https://www.brecorder.com/news/40448221/asian-stocks-climb-as-sliding-oil-prices-buoy-sentiment",
+   "source": "Business Recorder",
+   "published": "2026-11-10T02:52:01+00:00",
+   "summary": "SINGAPORE: Asian stocks rose on Tuesday as a drop in oil prices after US President Donald Trump said he plans to hold off on new military strikes ​against Iran lifted sentiment ahead of US inflation data that could sway the near-term interest rate outlook. Brent crude futures were hovering at their lowest ‌levels since…",
+   "image": "https://i.brecorder.com/large/2026/11/100748174e5b5cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX roars back after long weekend, KSE-100 jumps 4,654 points",
+   "url": "https://tribune.com.pk/story/2639578/psx-roars-back-after-long-weekend-kse-100-jumps-4654-points",
+   "source": "The Express Tribune",
+   "published": "2026-11-10T02:28:53+00:00",
+   "summary": "Easing oil prices and reduced fears of US-Iran escalation lift investor sentiment",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold jumps Rs3,200 on weaker dollar",
+   "url": "https://tribune.com.pk/story/2639488/gold-jumps-rs3200-on-weaker-dollar",
+   "source": "The Express Tribune",
+   "published": "2026-11-09T16:02:20+00:00",
+   "summary": "Safe-haven asset advances ahead of US inflation data",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -273,19 +390,6 @@
    "domestic": false
   },
   {
-   "title": "Gold rises over 1% as softer oil prices ease inflation worries",
-   "url": "https://www.brecorder.com/news/40448085/gold-rises-over-1-as-softer-oil-prices-ease-inflation-worries",
-   "source": "Business Recorder",
-   "published": "2026-11-09T06:55:16+00:00",
-   "summary": "Gold rose more than 1% on Monday as softer ‌oil prices eased inflation concerns, while investors awaited key US inflation data and fresh signals from the Federal Reserve on its policy outlook. Spot gold climbed 1.4% to $4,123.46 per ounce by 0428 GMT, while ​US gold futures for December delivery also rose 1.4% to $4,13…",
-   "image": "https://i.brecorder.com/large/2026/11/09094800461e6b8.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "ANZ misses some expectations, warns capital competition to keep rates higher",
    "url": "https://www.brecorder.com/news/40448095/anz-misses-some-expectations-warns-capital-competition-to-keep-rates-higher",
    "source": "Business Recorder",
@@ -312,32 +416,6 @@
    "domestic": false
   },
   {
-   "title": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets",
-   "url": "https://www.brecorder.com/news/40448089/asian-stocks-bounce-as-ai-mideast-jitters-recede-dollar-firm-on-fed-bets",
-   "source": "Business Recorder",
-   "published": "2026-11-09T05:09:58+00:00",
-   "summary": "HONG KONG: Asian markets and US equity futures had an upbeat start on Monday , edging into positive territory after a wild week when ‌tech-heavy markets in Asia suffered some of their steepest falls in years over AI. MSCI’s broadest index of Asia-Pacific shares outside Japan rose 2% after sliding 4.6% last week. Japan’…",
-   "image": "https://i.brecorder.com/large/2026/11/060740109d29f83.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-   "url": "https://www.brecorder.com/news/40448088/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election",
-   "source": "Business Recorder",
-   "published": "2026-11-09T05:05:11+00:00",
-   "summary": "TOKYO: The US dollar traded not far from a 1-1/2-year high versus the euro and ​a seven-month high on the Aussie on Monday, after surging by the most in nearly six months on Friday as ‌robust US jobs data pushed up bets for higher interest rates. New Zealand’s currency bounced from a seven-month trough after too-close-…",
-   "image": "https://i.brecorder.com/large/2026/11/0607420325a195a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan’s road to export-led growth runs through industrial upgrading, not blanket incentives",
    "url": "https://www.dawn.com/news/2043247/pakistans-road-to-export-led-growth-runs-through-industrial-upgrading-not-blanket-incentives",
    "source": "Dawn",
@@ -348,58 +426,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee extends rally, putting RBI's dollar-buying threshold in focus",
-   "url": "https://www.brecorder.com/news/40448087/indian-rupee-extends-rally-putting-rbis-dollar-buying-threshold-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-11-09T05:01:25+00:00",
-   "summary": "MUMBAI: The Indian rupee extended its rally on Monday , hitting a six-month high and putting potential dollar purchases by ​the Reserve Bank of India in focus, with traders weighing the ‌central bank’s need to replenish forex reserves and manage sizeable short-dollar forward positions. The Indian rupee touched an intra…",
-   "image": "https://i.brecorder.com/large/2026/11/09095907e31ab14.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US bonds fall after Thursday’s rally",
-   "url": "https://www.brecorder.com/news/40448061/us-bonds-fall-after-thursdays-rally",
-   "source": "Business Recorder",
-   "published": "2026-11-08T23:46:04+00:00",
-   "summary": "NEW YORK: US Treasuries fell on Friday, pushing yields higher, after the world’s largest economy created far more jobs than expected last month, bolstering expectations the Federal Reserve will raise interest rates at the December policy meeting. Friday’s decline in Treasury prices followed a safe-haven rally on Thursd…",
-   "image": "https://i.brecorder.com/large/2026/09/1420093819a763c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Tax net: time for enforcement",
-   "url": "https://tribune.com.pk/story/2639331/tax-net-time-for-enforcement",
-   "source": "The Express Tribune",
-   "published": "2026-11-08T15:56:53+00:00",
-   "summary": "With relief for documented taxpayers, undeclared incomes must be taxed",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Rising debt distress sparks calls for structural overhaul",
-   "url": "https://tribune.com.pk/story/2639332/rising-debt-distress-sparks-calls-for-structural-overhaul",
-   "source": "The Express Tribune",
-   "published": "2026-11-08T15:56:53+00:00",
-   "summary": "Debt burdens growing faster than capacity to manage, shrinking fiscal space for development",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -429,19 +455,6 @@
    "domestic": false
   },
   {
-   "title": "SECP seeks bank records in fruit firm's probe",
-   "url": "https://tribune.com.pk/story/2639203/secp-seeks-bank-records-in-fruit-firms-probe",
-   "source": "The Express Tribune",
-   "published": "2026-11-07T17:32:15+00:00",
-   "summary": "Asks for information about foreign remittances, export proceeds",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "LPG availability, fair pricing among govt priorities, says petroleum minister",
    "url": "https://www.dawn.com/news/2042814/lpg-availability-fair-pricing-among-govt-priorities-says-petroleum-minister",
    "source": "Dawn",
@@ -455,64 +468,12 @@
    "domestic": false
   },
   {
-   "title": "PSX sheds nearly 1,500 points",
-   "url": "https://tribune.com.pk/story/2639047/psx-sheds-nearly-1500-points",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Profit-taking trims weekly gains; KSE-100 index falls 0.85%",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Trade finance gap hits MSME exporters",
    "url": "https://tribune.com.pk/story/2639045/trade-finance-gap-hits-msme-exporters",
    "source": "The Express Tribune",
    "published": "2026-11-06T15:56:12+00:00",
    "summary": "Jam Kamal tells COMCEC that collateral rules, fragmented regulation shut small firms out",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UAE shares fall as geopolitical uncertainty keeps traders cautious",
-   "url": "https://www.brecorder.com/news/40447778/uae-shares-fall-as-geopolitical-uncertainty-keeps-traders-cautious",
-   "source": "Business Recorder",
-   "published": "2026-11-06T12:41:42+00:00",
-   "summary": "Stock markets in the United Arab Emirates declined on Friday as geopolitical uncertainty in the region weighed on investor sentiment and kept traders cautious. Abu Dhabi’s benchmark index dropped 1.3% to hit an 18-month low, weighed down by a 1.7% fall in real estate giant Aldar Properties. The UAE’s largest listed con…",
-   "image": "https://i.brecorder.com/large/2021/11/6180f7850bc95.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Global tech stocks suffer bloodbath as US midterms fuel AI fears",
-   "url": "https://www.dawn.com/news/2042565/global-tech-stocks-suffer-bloodbath-as-us-midterms-fuel-ai-fears",
-   "source": "Dawn",
-   "published": "2026-11-06T12:17:21+00:00",
-   "summary": "Technology shares plunged on Friday after an unnerving rout on Wall Street as fears grew that Democrats would accelerate a backlash against AI after their crushing defeat of President Donald Trump’s Republicans in the US midterms . The Tokyo and Seoul stock markets closed out their weeks with losses of six per cent fol…",
-   "image": "https://i.dawn.com/large/2026/11/06171447a1ded78.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Philippines gross foreign reserves at $97.4 billion at end-October",
-   "url": "https://www.brecorder.com/news/40447773/philippines-gross-foreign-reserves-at-974-billion-at-end-october",
-   "source": "Business Recorder",
-   "published": "2026-11-06T11:46:30+00:00",
-   "summary": "MANILA: The Philippines’ gross foreign reserves dropped to $97.4 billion at the end of October, from a revised $99.5 billion a month earlier, the central bank said on Friday, citing preliminary data. The latest forex reserves would provide an external liquidity buffer equivalent to 6.1 months worth of imports of goods …",
-   "image": "https://i.brecorder.com/large/2026/06/0110381587d5b18.webp",
    "topics": [
     "Economy"
    ],
@@ -539,19 +500,6 @@
    "source": "The Express Tribune",
    "published": "2026-11-05T16:44:47+00:00",
    "summary": "Iqbal tells Pakistan-Russia forum aim sits within push for trillion-dollar economy by 2035",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bank of England raises rates for first time since 2023, says more may come",
-   "url": "https://tribune.com.pk/story/2638826/bank-of-england-raises-rates-for-first-time-since-2023-says-more-may-come",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T08:39:31+00:00",
-   "summary": "BoE says British inflation likely to reach around 5% in the middle of next year",
    "image": null,
    "topics": [
     "Economy"
