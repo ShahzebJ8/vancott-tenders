@@ -1,22 +1,48 @@
 {
- "generated": "2026-11-10T09:23:26+00:00",
- "count": 40,
- "relevant_count": 9,
+ "generated": "2026-11-10T17:16:26+00:00",
+ "count": 42,
+ "relevant_count": 10,
  "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (12)",
+  "Dawn": "ok (11)",
   "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (10)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Beyond the order: the logistics behind Pakistan’s export ambitions",
-   "url": "https://www.brecorder.com/news/40448251/beyond-the-order-the-logistics-behind-pakistans-export-ambitions",
+   "title": "Solar boom leaves low-income households behind amid Sindh’s energy, climate challenges: experts",
+   "url": "https://www.brecorder.com/news/40448273/solar-boom-leaves-low-income-households-behind-amid-sindhs-energy-climate-challenges-experts",
    "source": "Business Recorder",
-   "published": "2026-11-10T08:38:19+00:00",
-   "summary": "For a Pakistani business looking to sell overseas, securing an international customer is only the beginning. Getting products across borders at a competitive price, navigating customs, managing payments and handling returns can determine whether an export order becomes profitable or an expensive exercise. These challen…",
-   "image": "https://i.brecorder.com/large/2025/12/08160313c0eb8e8.webp",
+   "published": "2026-11-10T16:49:02+00:00",
+   "summary": "Pakistan’s rapidly expanding solar market was transforming the country’s energy landscape, but millions of low-income households risk being left behind as the high upfront cost of installations and lack of maintenance support limit access to affordable electricity, speakers warned at the Sindh Energy & Climate Conferen…",
+   "image": "https://i.brecorder.com/large/2025/06/0921454045bc159.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40448258/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-10T16:11:32+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Tuesday. The local unit closed the day at 276.65, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee extended its marginal gain against the US dollar, appreciating 0.03% in the inter-ban…",
+   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Remittances now cover Pakistan's entire external deficit, says analyst",
+   "url": "https://www.brecorder.com/news/40448257/remittances-now-cover-pakistans-entire-external-deficit-says-analyst",
+   "source": "Business Recorder",
+   "published": "2026-11-10T11:04:47+00:00",
+   "summary": "Remittances from overseas Pakistanis now cover 100% of the country’s external deficits and account for about 10% of GDP, analyst Emre Akcakmak, who is Head of Frontier Markets and portfolio advisor at East Capital, said on Tuesday, highlighting the diaspora’s central role in stabilising Pakistan’s economy after its nea…",
+   "image": "https://i.brecorder.com/large/2026/09/091148371b1c8d3.webp",
    "topics": [
     "Economy"
    ],
@@ -27,7 +53,7 @@
    "title": "Pakistan records $3.9bn in remittances for October 2026",
    "url": "https://www.brecorder.com/news/40448227/pakistan-records-39bn-in-remittances-for-october-2026",
    "source": "Business Recorder",
-   "published": "2026-11-10T06:32:42+00:00",
+   "published": "2026-11-10T10:37:57+00:00",
    "summary": "Overseas workers’ remittances into Pakistan totalled $3.9 billion in October 2026, the State Bank of Pakistan (SBP) said on Tuesday. Remittances rose 13.8% year-on-year to $3.89 billion from $3.42 billion in October 2025. Meanwhile, it recorded an 8.5% increase on a month-on-month basis from $3.6 billion in September 2…",
    "image": "https://i.brecorder.com/large/2023/06/21113145999a873.jpg",
    "topics": [
@@ -56,19 +82,6 @@
    "published": "2026-11-10T02:03:58+00:00",
    "summary": "ISLAMABAD: Pakistan’s merchandise exports to North America grew modestly by 4.65 per cent to $1.826 billion in the first quarter of 2026-27, up from $1.745bn a year ago. Imports from the region, however, surged 60.58pc to $841.31 million from $523.91m over the corresponding period last year, indicating a high inflow of…",
    "image": "https://i.dawn.com/large/2026/04/0308384641a6d55.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Thar coal to replace imports",
-   "url": "https://tribune.com.pk/story/2639491/thar-coal-to-replace-imports",
-   "source": "The Express Tribune",
-   "published": "2026-11-09T16:02:20+00:00",
-   "summary": "Centre, Sindh will build rail track to supply local coal to imported coal-based plants",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -155,29 +168,94 @@
    "domestic": true
   },
   {
-   "title": "Bank Alfalah quits Kabul after 20 years",
-   "url": "https://www.dawn.com/news/2042687/bank-alfalah-quits-kabul-after-20-years",
-   "source": "Dawn",
-   "published": "2026-11-07T00:04:45+00:00",
-   "summary": "KARACHI: After two decades, Bank Alfalah has fully exited Afghanistan by selling its assets, the bank told its shareholders on Friday. A notice to the Pakistan Stock Exchange said the transaction was completed on Nov 5, following the signing of definitive transaction documents, approval from the State Bank of Pakistan …",
-   "image": "https://i.dawn.com/large/2026/11/07073007f098840.jpg",
+   "title": "Pakistan Atomic Energy Commission completes dome placement at Chashma-5 nuclear plant",
+   "url": "https://www.brecorder.com/news/40448280/pakistan-atomic-energy-commission-completes-dome-placement-at-chashma-5-nuclear-plant",
+   "source": "Business Recorder",
+   "published": "2026-11-10T15:48:51+00:00",
+   "summary": "The Pakistan Atomic Energy Commission (PAEC) had achieved a major milestone at the Chashma Nuclear Power Plant Generating Station with the successful dome placement of the Chashma-5 (C-5) Nuclear Power Plant, the Prime Minister’s Office (PMO) said on Tuesday. “C-5 Project is a manifestation of clean and emissions-free …",
+   "image": "https://i.brecorder.com/large/2026/11/102029486d60372.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Microsoft presses Trump to scuttle expected ban on Chinese data center technology",
+   "url": "https://www.brecorder.com/news/40448278/microsoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology",
+   "source": "Business Recorder",
+   "published": "2026-11-10T14:38:32+00:00",
+   "summary": "WASHINGTON: Microsoft has been pressing the Trump administration to halt plans to bar Chinese imports of a key component used in AI data centers, three people familiar with the situation said. Reuters reported in August that the Trump administration wants to ban US imports of new models of Chinese optical transceivers,…",
+   "image": "https://i.brecorder.com/large/2025/10/29192755dbd3804.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "PSX: stocks surge, KSE-100 gains over 4,700 points",
-   "url": "https://www.brecorder.com/news/40448226/psx-stocks-surge-kse-100-gains-over-4700-points",
+   "title": "Malaysia ex-PM Najib arrives home to start house arrest",
+   "url": "https://www.brecorder.com/news/40448275/malaysia-ex-pm-najib-arrives-home-to-start-house-arrest",
    "source": "Business Recorder",
-   "published": "2026-11-10T08:10:36+00:00",
-   "summary": "Buying returned to the Pakistan Stock Exchange (PSX) after US President Donald Trump said US military action against Iran ​is not necessary “at this point”, with the benchmark KSE-100 gaining over 2.5% during the opening hours of trading on Tuesday. At 1pm, the benchmark index was hovering at 178,584.43, up 4,697.75 po…",
+   "published": "2026-11-10T14:22:26+00:00",
+   "summary": "KUALA LUMPUR: Malaysia’s former premier Najib Razak arrived at his home to start his house arrest on Tuesday, a Reuters journalist said, ending a four-year stint in prison over his role in a multibillion-dollar scandal at state fund 1MDB. Najib reached his Kuala Lumpur residence on Tuesday night in a vehicle escorted b…",
+   "image": "https://i.brecorder.com/large/2026/11/10192128403bbf8.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 settles with over 3% gain as US-Iran tensions ease",
+   "url": "https://www.brecorder.com/news/40448226/psx-kse-100-settles-with-over-3-gain-as-us-iran-tensions-ease",
+   "source": "Business Recorder",
+   "published": "2026-11-10T13:18:26+00:00",
+   "summary": "Massive buying was observed at the Pakistan Stock Exchange (PSX) after US President Donald Trump said US military action against Iran ​is not necessary “at this point”, with the benchmark KSE-100 gaining over 3%, its biggest single-day gain in recent weeks, on Tuesday. The index opened higher and held gains through the…",
    "image": "https://i.brecorder.com/large/2026/11/1009544600f3591.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold drops 1% on hawkish Fed comments ahead of US inflation data",
+   "url": "https://www.brecorder.com/news/40448265/gold-drops-1-on-hawkish-fed-comments-ahead-of-us-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-11-10T12:32:55+00:00",
+   "summary": "Gold prices fell more than 1% on Tuesday after hawkish remarks from a US Federal Reserve official, who said aggressive monetary policy may be needed if inflation continues to rise, weighed on bullion ahead of the release of US consumer price data. Spot gold was down 1.6% to $4,071.07 per ounce by 1153 GMT. US gold futu…",
+   "image": "https://i.brecorder.com/large/2026/03/100823484828bf3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Aluminium falls on higher Chinese exports and hopes for Middle East de-escalation",
+   "url": "https://www.brecorder.com/news/40448262/aluminium-falls-on-higher-chinese-exports-and-hopes-for-middle-east-de-escalation",
+   "source": "Business Recorder",
+   "published": "2026-11-10T11:39:48+00:00",
+   "summary": "LONDON: Aluminium prices fell on Tuesday to their lowest in more than two weeks as rising exports from top producer China and hopes of de-escalation in the Middle East eased supply concerns, offsetting support from tight inventories. Benchmark three-month aluminium on the London Metal Exchange was down 1.1% at $3,031.5…",
+   "image": "https://i.brecorder.com/large/2026/09/0311252366ad835.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "UAE is selling Saudi oil in a rare move, document shows",
+   "url": "https://www.brecorder.com/news/40448260/uae-is-selling-saudi-oil-in-a-rare-move-document-shows",
+   "source": "Business Recorder",
+   "published": "2026-11-10T11:29:18+00:00",
+   "summary": "NEW DELHI/LONDON: The United Arab Emirates energy ministry is selling 1.7 million barrels of Saudi Arab Light oil via a rare tender, a document showed. Sources said the UAE was selling the oil loaded on the Gem No. 2 tanker, which was struck by an unidentified projectile last month. Since the start of the US-Israeli wa…",
+   "image": "https://i.brecorder.com/large/2026/03/0921404976a3329.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -228,19 +306,6 @@
    "image": "https://i.brecorder.com/large/2026/08/1900533308f841a.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Hormuz LNG traffic hits highest in October since Iran war began",
-   "url": "https://www.brecorder.com/news/40448237/hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began",
-   "source": "Business Recorder",
-   "published": "2026-11-10T06:43:56+00:00",
-   "summary": "SINGAPORE: The monthly tally of laden liquefied natural gas (LNG) tankers exiting the Strait of Hormuz reached its highest in October since the US-Iran conflict disrupted shipping this year, vessel tracking data showed. Last month, 31 LNG tankers went through the key waterway, according to data from S&P Global Energy, …",
-   "image": "https://i.brecorder.com/large/2026/11/10114147618eb24.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false
@@ -311,11 +376,11 @@
    "domestic": false
   },
   {
-   "title": "PSX roars back after long weekend, KSE-100 jumps 4,654 points",
+   "title": "PSX roars back after long weekend as KSE-100 jumps 5,449 points",
    "url": "https://tribune.com.pk/story/2639578/psx-roars-back-after-long-weekend-kse-100-jumps-4654-points",
    "source": "The Express Tribune",
    "published": "2026-11-10T02:28:53+00:00",
-   "summary": "Easing oil prices and reduced fears of US-Iran escalation lift investor sentiment",
+   "summary": "Remittance inflows, falling oil prices and easing US-Iran tensions bolster investor sentiment",
    "image": null,
    "topics": [
     "Economy"
@@ -357,45 +422,6 @@
    "published": "2026-11-09T11:04:09+00:00",
    "summary": "LONDON: Copper prices recouped some of last week’s steep losses on Monday as risk sentiment improved while supply in China remained tight and the dollar slipped. Three-month copper on the London Metal Exchange (LME) rose 0.7% to $13,869 a metric ton by 1030 GMT, having lost 2.7% last week in its steepest weekly decline…",
    "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "German exports rise more than expected in September",
-   "url": "https://www.brecorder.com/news/40448113/german-exports-rise-more-than-expected-in-september",
-   "source": "Business Recorder",
-   "published": "2026-11-09T08:59:00+00:00",
-   "summary": "German exports rose ​more than expected in September ‌by 2% compared with the previous month, driven mainly by ​demand from European Union ​countries, data, opens new tab from the federal statistics ⁠office showed on Monday. Analysts polled ​by Reuters had forecast a ​0.5% increase, following two consecutive drops in A…",
-   "image": "https://i.brecorder.com/large/2026/11/0913584063def98.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "South African rand firms on softer oil; coalition talks in focus",
-   "url": "https://www.brecorder.com/news/40448107/south-african-rand-firms-on-softer-oil-coalition-talks-in-focus",
-   "source": "Business Recorder",
-   "published": "2026-11-09T07:01:10+00:00",
-   "summary": "JOHANNESBURG: The South African rand strengthened in early trade on Monday as softer oil prices helped ​ease inflation concerns, while investors assessed the outcome ‌of local municipal elections and coalition talks. At 0642 GMT, the rand traded at 16.4875 against the dollar , up about 0.4% ​from its previous close. Oi…",
-   "image": "https://i.brecorder.com/large/2026/11/091159184bf08b0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "ANZ misses some expectations, warns capital competition to keep rates higher",
-   "url": "https://www.brecorder.com/news/40448095/anz-misses-some-expectations-warns-capital-competition-to-keep-rates-higher",
-   "source": "Business Recorder",
-   "published": "2026-11-09T05:51:53+00:00",
-   "summary": "SYDNEY: ANZ fell short of expectations for net interest margin and net ​interest income on Monday, dragging on its share price, as its ‌CEO warned that global competition for capital from AI and other sectors would keep interest rates higher for longer. Australia’s fourth-largest lender by market capitalisation posted …",
-   "image": "https://i.brecorder.com/large/2026/11/09105038dc0efed.webp",
    "topics": [
     "Economy"
    ],
