@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-10T22:32:20+00:00",
- "count": 42,
- "relevant_count": 9,
- "domestic_count": 11,
+ "generated": "2026-11-11T02:10:33+00:00",
+ "count": 43,
+ "relevant_count": 12,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (16)",
@@ -11,16 +11,94 @@
  },
  "stories": [
   {
-   "title": "Solar boom leaves low-income households behind amid Sindh’s energy, climate challenges: experts",
-   "url": "https://www.brecorder.com/news/40448273/solar-boom-leaves-low-income-households-behind-amid-sindhs-energy-climate-challenges-experts",
+   "title": "1m houses for flood-hit people completed: Sharjeel",
+   "url": "https://www.brecorder.com/news/40448323/1m-houses-for-flood-hit-people-completed-sharjeel",
    "source": "Business Recorder",
-   "published": "2026-11-10T16:49:02+00:00",
-   "summary": "Pakistan’s rapidly expanding solar market was transforming the country’s energy landscape, but millions of low-income households risk being left behind as the high upfront cost of installations and lack of maintenance support limit access to affordable electricity, speakers warned at the Sindh Energy & Climate Conferen…",
-   "image": "https://i.brecorder.com/large/2025/06/0921454045bc159.jpg",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "KARACHI: The Sindh government has completed the construction of more than one million houses for flood-affected families in 24 districts under the Sindh Peoples Housing for Flood Affectees (SPHF) programme. In a statement on Tuesday, Senior Minister Sharjeel Inam Memon said providing permanent and safe housing to famil…",
+   "image": "https://i.brecorder.com/large/2026/07/29014110e040dee.webp",
    "topics": [
-    "Energy & power"
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Karachi Port to Qayyumabad: CM approves construction of Shahrah-e-Bhutto corridor",
+   "url": "https://www.brecorder.com/news/40448324/karachi-port-to-qayyumabad-cm-approves-construction-of-shahrah-e-bhutto-corridor",
+   "source": "Business Recorder",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "KARACHI: The Public Private Partnership (PPP) Policy Board session chaired by Chief Minister Murad Ali Shah granted approval of the construction of corridor of Shahrah-e-Bhutto, extending from Qayyumabad to Karachi Port. The 16.5 kilometers long, four-lane expressway will be built from Karachi Port to Qayyumabad. “Shah…",
+   "image": "https://i.brecorder.com/large/2024/04/660c67fd8f30d.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "New values for spray dispensing components issued",
+   "url": "https://www.brecorder.com/news/40448332/new-values-for-spray-dispensing-components-issued",
+   "source": "Business Recorder",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "ISLAMABAD: The Directorate General of Customs Valuation, Karachi, has set new Customs values for Spray Dispensing Components imported from China. In this regard, the directorate has issued a new Valuation Ruling that supersedes Valuation Ruling No. 2043-1-2026. Earlier, the Customs values of Spray Dispensing Components…",
+   "image": "https://i.brecorder.com/large/2023/11/655bf02ae0763.jpg",
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Values of imported EVA sheets from China revised",
+   "url": "https://www.brecorder.com/news/40448333/values-of-imported-eva-sheets-from-china-revised",
+   "source": "Business Recorder",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "ISLAMABAD: The Directorate General of Customs Valuation, Karachi, has revised the customs values of Ethylene Vinyl Acetate (EVA) sheets imported from China, which are widely used in the footwear, sports, gym flooring, and other industries. The directorate issued a new Valuation Ruling 2127 of 2026 on Tuesday. The custo…",
+   "image": "https://i.brecorder.com/large/2023/01/63c0a6cabfde9.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Kinnow exports: Uzbekistan approves 184 exporters and 39 packhouses",
+   "url": "https://www.brecorder.com/news/40448335/kinnow-exports-uzbekistan-approves-184-exporters-and-39-packhouses",
+   "source": "Business Recorder",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "ISLAMABAD: In a major breakthrough ahead of the upcoming kinnow export season, Uzbekistan’s Food Safety Committee has approved 184 Pakistani kinnow exporters and 39 packhouses, compared to only 8 approved exporters during the previous season. The approval allows Pakistani kinnow exporters registered with Pakistan’s Dep…",
+   "image": "https://i.brecorder.com/large/2026/01/191210436375fa6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FIA directed to provide update on offloading complaints",
+   "url": "https://www.brecorder.com/news/40448336/fia-directed-to-provide-update-on-offloading-complaints",
+   "source": "Business Recorder",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "ISLAMABAD: A parliamentary panel has reviewed complaints of alleged offloading at airports, immigration-related difficulties and human trafficking, seeking details from the Federal Investigation Agency (FIA) about the action taken to address public grievances and provide relief to affected citizens. The National Assemb…",
+   "image": "https://i.brecorder.com/large/2022/05/62786d1f7e60f.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "1m homes for families hit by floods in Sindh: PPP leader terms completion of project a commendable achievement",
+   "url": "https://www.brecorder.com/news/40448337/1m-homes-for-families-hit-by-floods-in-sindh-ppp-leader-terms-completion-of-project-a-commendable-achievement",
+   "source": "Business Recorder",
+   "published": "2026-11-10T23:31:22+00:00",
+   "summary": "ISLAMABAD: Pakistan Peoples Party leader Umar Rehman Malik has termed the completion of one million homes for families affected by the devastating 2022 floods in Sindh a historic and commendable achievement. In a statement, Umar Rehman Malik said the initiative goes beyond the construction of houses, providing millions…",
+   "image": "https://i.brecorder.com/large/2026/04/09080131e3161ce.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -30,19 +108,6 @@
    "published": "2026-11-10T16:11:32+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Tuesday. The local unit closed the day at 276.65, a gain of Re0.01 against the greenback. During the previous week , the Pakistani rupee extended its marginal gain against the US dollar, appreciating 0.03% in the inter-ban…",
    "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Remittances now cover Pakistan's entire external deficit, says analyst",
-   "url": "https://www.brecorder.com/news/40448257/remittances-now-cover-pakistans-entire-external-deficit-says-analyst",
-   "source": "Business Recorder",
-   "published": "2026-11-10T11:04:47+00:00",
-   "summary": "Remittances from overseas Pakistanis now cover 100% of the country’s external deficits and account for about 10% of GDP, analyst Emre Akcakmak, who is Head of Frontier Markets and portfolio advisor at East Capital, said on Tuesday, highlighting the diaspora’s central role in stabilising Pakistan’s economy after its nea…",
-   "image": "https://i.brecorder.com/large/2026/09/091148371b1c8d3.webp",
    "topics": [
     "Economy"
    ],
@@ -168,45 +233,6 @@
    "domestic": false
   },
   {
-   "title": "Pakistan Atomic Energy Commission completes dome placement at Chashma-5 nuclear plant",
-   "url": "https://www.brecorder.com/news/40448280/pakistan-atomic-energy-commission-completes-dome-placement-at-chashma-5-nuclear-plant",
-   "source": "Business Recorder",
-   "published": "2026-11-10T15:48:51+00:00",
-   "summary": "The Pakistan Atomic Energy Commission (PAEC) had achieved a major milestone at the Chashma Nuclear Power Plant Generating Station with the successful dome placement of the Chashma-5 (C-5) Nuclear Power Plant, the Prime Minister’s Office (PMO) said on Tuesday. “C-5 Project is a manifestation of clean and emissions-free …",
-   "image": "https://i.ytimg.com/vi/8PYIH75dlDI/maxresdefault.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Microsoft presses Trump to scuttle expected ban on Chinese data center technology",
-   "url": "https://www.brecorder.com/news/40448278/microsoft-presses-trump-to-scuttle-expected-ban-on-chinese-data-center-technology",
-   "source": "Business Recorder",
-   "published": "2026-11-10T14:38:32+00:00",
-   "summary": "WASHINGTON: Microsoft has been pressing the Trump administration to halt plans to bar Chinese imports of a key component used in AI data centers, three people familiar with the situation said. Reuters reported in August that the Trump administration wants to ban US imports of new models of Chinese optical transceivers,…",
-   "image": "https://i.brecorder.com/large/2025/10/29192755dbd3804.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Malaysia ex-PM Najib arrives home to start house arrest",
-   "url": "https://www.brecorder.com/news/40448275/malaysia-ex-pm-najib-arrives-home-to-start-house-arrest",
-   "source": "Business Recorder",
-   "published": "2026-11-10T14:22:26+00:00",
-   "summary": "KUALA LUMPUR: Malaysia’s former premier Najib Razak arrived at his home to start his house arrest on Tuesday, a Reuters journalist said, ending a four-year stint in prison over his role in a multibillion-dollar scandal at state fund 1MDB. Najib reached his Kuala Lumpur residence on Tuesday night in a vehicle escorted b…",
-   "image": "https://i.brecorder.com/large/2026/11/10192128403bbf8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX: KSE-100 settles with over 3% gain as US-Iran tensions ease",
    "url": "https://www.brecorder.com/news/40448226/psx-kse-100-settles-with-over-3-gain-as-us-iran-tensions-ease",
    "source": "Business Recorder",
@@ -243,19 +269,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UAE is selling Saudi oil in a rare move, document shows",
-   "url": "https://www.brecorder.com/news/40448260/uae-is-selling-saudi-oil-in-a-rare-move-document-shows",
-   "source": "Business Recorder",
-   "published": "2026-11-10T11:29:18+00:00",
-   "summary": "NEW DELHI/LONDON: The United Arab Emirates energy ministry is selling 1.7 million barrels of Saudi Arab Light oil via a rare tender, a document showed. Sources said the UAE was selling the oil loaded on the Gem No. 2 tanker, which was struck by an unidentified projectile last month. Since the start of the US-Israeli wa…",
-   "image": "https://i.brecorder.com/large/2026/03/0921404976a3329.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
