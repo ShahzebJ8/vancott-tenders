@@ -1,35 +1,22 @@
 {
- "generated": "2026-11-12T00:03:28+00:00",
- "count": 46,
- "relevant_count": 15,
- "domestic_count": 17,
+ "generated": "2026-11-12T06:36:41+00:00",
+ "count": 43,
+ "relevant_count": 16,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (12)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (8)",
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (14)",
+  "The Express Tribune": "ok (9)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Sindh tags Rs17bn subsidy for wheat growers",
-   "url": "https://www.brecorder.com/news/40448462/sindh-tags-rs17bn-subsidy-for-wheat-growers",
-   "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "KARACHI: The Sindh government has decided to issue Rs 17 billion subsidy for the Rabi season under the Sindh Wheat Growers Support Program. Chairman of the Pakistan People’s Party (PPP), Bilawal Bhutto Zardari will inaugurate the distribution of the subsidy to farmers on November 20. The Sindh government has finalised …",
-   "image": "https://i.brecorder.com/large/2022/11/636c66b67629d.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PSMA seeks export of 400,000 MT of surplus sugar, deregulation",
-   "url": "https://www.brecorder.com/news/40448463/psma-seeks-export-of-400000-mt-of-surplus-sugar-deregulation",
-   "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) has called for the immediate export of 400,000 metric tonnes of surplus sugar and the announcement of a long-awaited deregulation policy, warning that mills may not be able to commence the 2026-27 crushing season before December due to massive unsold stocks. The deman…",
-   "image": "https://i.brecorder.com/large/2023/12/65724aa039150.jpg",
+   "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
+   "url": "https://www.dawn.com/news/2043895/auto-policy-envisages-indigenisation-export-growth-pms-adviser-haroon",
+   "source": "Dawn",
+   "published": "2026-11-12T04:09:46+00:00",
+   "summary": "ISLAMABAD: The recently announced auto policy envisages that the automotive sector would score a major shift by moving away from import-dependent assembly towards export-oriented manufacturing, greater indigenisation and internationally competitive domestic production, Adviser to the Prime Minister on Industries and Pr…",
+   "image": "https://i.dawn.com/large/2026/10/280856173d37372.jpg",
    "topics": [
     "Economy"
    ],
@@ -37,25 +24,12 @@
    "domestic": true
   },
   {
-   "title": "Karachi to face water shortfall during Dhabeji shutdown on 13th",
-   "url": "https://www.brecorder.com/news/40448466/karachi-to-face-water-shortfall-during-dhabeji-shutdown-on-13th",
-   "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "KARACHI: Karachi will face an estimated shortfall of 130 million gallons of water on November 13 as electricity supply to the Dhabeji pumping station will remain suspended for 14 hours due to annual maintenance by K-Electric, followed by a separate 22-hour maintenance operation by the Karachi Water and Sewerage Corpora…",
-   "image": "https://i.brecorder.com/large/2026/07/080521249865307.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Illicit tobacco trade: Pakistan suffers USD1bn revenue loss",
-   "url": "https://www.brecorder.com/news/40448467/illicit-tobacco-trade-pakistan-suffers-usd1bn-revenue-loss",
-   "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "ISLAMABAD: Pakistan has suffered huge revenue loss of around USD 1 billion as a result of illicit tobacco trade, depriving governments of billions of dollars in potential revenue and weakening legitimate, tax-paying markets. According to the report “Illicit Tobacco Trade in Asia-Pacific: Taxation, Market Incentives, an…",
-   "image": "https://i.brecorder.com/large/2025/02/250735447e44ab9.jpg",
+   "title": "FBR deploys AI to detect discrepancies in tax returns",
+   "url": "https://www.dawn.com/news/2043897/fbr-deploys-ai-to-detect-discrepancies-in-tax-returns",
+   "source": "Dawn",
+   "published": "2026-11-12T01:48:18+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has expanded the use of artificial intelligence to scrutinise individual tax returns, enabling its automated system to detect factual and legal errors and discrepancies before initiating legal or penal action. Under the mechanism, taxpayers will first be informed electronic…",
+   "image": "https://i.dawn.com/large/2023/03/08075543a535616.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -63,12 +37,12 @@
    "domestic": true
   },
   {
-   "title": "Import values of sublimation paper from China, South Korea issued",
-   "url": "https://www.brecorder.com/news/40448472/import-values-of-sublimation-paper-from-china-south-korea-issued",
-   "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "ISLAMABAD: The Directorate General of Customs Valuation, Karachi, has issued new customs values of Sublimation Paper imported from China and South Korea. According to a valuation ruling issued by the directorate on Wednesday, the customs values of Sublimation Paper were not previously determined under Section 25A of th…",
-   "image": "https://i.brecorder.com/large/2023/11/655bf02ae0763.jpg",
+   "title": "Govt raises Rs587bn via T-bill auction",
+   "url": "https://www.dawn.com/news/2043893/govt-raises-rs587bn-via-t-bill-auction",
+   "source": "Dawn",
+   "published": "2026-11-12T01:48:18+00:00",
+   "summary": "KARACHI: The government raised significantly more than both its target and the amount of maturing Treasury Bills at Wednesday’s auction. According to the State Bank of Pakistan (SBP), the government raised Rs232.46 billion through the auction and Rs354.25bn via non-competitive bids, for a total of Rs586.7bn. The auctio…",
+   "image": "https://i.dawn.com/large/2022/04/62467ea2c8fc1.jpg",
    "topics": [
     "Economy"
    ],
@@ -76,12 +50,12 @@
    "domestic": true
   },
   {
-   "title": "JS Bank reports 67pc growth in PAT YoY for 9M’26",
-   "url": "https://www.brecorder.com/news/40448474/js-bank-reports-67pc-growth-in-pat-yoy-for-9m26",
+   "title": "PRA revenue collection rises over Rs33bn in Oct",
+   "url": "https://www.brecorder.com/news/40448537/pra-revenue-collection-rises-over-rs33bn-in-oct",
    "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "KARACHI: JS Bank Limited on Wednesday announced its financial results for the nine months ended September 30, 2026, reporting Profit Before Tax of Rs 8.932 billion, up 58 percent compared to Rs 5.665 billion for the corresponding period last year. Profit After Tax grew by 67 percent to Rs 4.300 billion from Rs 2.569 bi…",
-   "image": "https://i.brecorder.com/large/2023/09/650a1d6eb6acb.jpg",
+   "published": "2026-11-12T01:15:42+00:00",
+   "summary": "LAHORE: The Punjab Revenue Authority (PRA) has posted a strong rise in revenue collection, bringing in more than Rs. 33 billion in October, up from Rs. 26 billion in the same month of the last fiscal year. Overall, revenue collection in the current fiscal year is running 30 percent higher than in the corresponding peri…",
+   "image": "https://i.brecorder.com/large/2026/04/14015549860b3ab.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -89,12 +63,38 @@
    "domestic": true
   },
   {
-   "title": "FCC dismisses pleas seeking super tax order review",
-   "url": "https://www.brecorder.com/news/40448502/fcc-dismisses-pleas-seeking-super-tax-order-review",
+   "title": "Nehal, Dar discuss developmental initiatives across Sindh",
+   "url": "https://www.brecorder.com/news/40448535/nehal-dar-discuss-developmental-initiatives-across-sindh",
    "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) dismissed petitions seeking a review of its judgment upholding the constitutional validity of the super tax imposed under Sections 4B and 4C of the Income Tax Ordinance, 2001. A three-member bench, headed by Chief Justice Amin-Ud-Din Khan and comprising Justice Syed Has…",
-   "image": "https://i.brecorder.com/large/2026/06/23011632816139e.webp",
+   "published": "2026-11-12T01:08:58+00:00",
+   "summary": "ISLAMABAD: Sindh Governor Syed Nehal Hashmi called on the Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar at the Ministry of Foreign Affairs on Wednesday. Discussion centred around accelerating developmental initiatives across Sindh, including industrial growth, infrastructure projects an…",
+   "image": "https://i.brecorder.com/large/2026/11/12060832ab20318.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Mian Zahid urges steps for boosting exports to US",
+   "url": "https://www.brecorder.com/news/40448534/mian-zahid-urges-steps-for-boosting-exports-to-us",
+   "source": "Business Recorder",
+   "published": "2026-11-12T01:06:25+00:00",
+   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board Mian Zahid Hussain has said the Ministry of Commerce, Trade Development Authority of Pakistan, Pakistan’s trade mis…",
+   "image": "https://i.brecorder.com/large/2026/01/1308332291c6f52.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KP e-registry linked to land record system, FBR",
+   "url": "https://www.brecorder.com/news/40448532/kp-e-registry-linked-to-land-record-system-fbr",
+   "source": "Business Recorder",
+   "published": "2026-11-12T01:00:34+00:00",
+   "summary": "PESHAWAR: The digital integration of the e-Registry, the Land Record Management System and the Federal Board of Revenue (FBR) was inaugurated in Khyber Pakhtunkhwa on Wednesday, with the aim of making the province’s land registration and mutation process more transparent and efficient. KP Chief Secretary Dr Muhammad Fa…",
+   "image": "https://i.brecorder.com/large/2024/06/6668fb8eeff34.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -102,12 +102,12 @@
    "domestic": true
   },
   {
-   "title": "Counsel for Sindh govt tells FCC: SIDC was levied to develop road infrastructure",
-   "url": "https://www.brecorder.com/news/40448505/counsel-for-sindh-govt-tells-fcc-sidc-was-levied-to-develop-road-infrastructure",
+   "title": "Revamping Railways: Dar chairs meeting to assess proposals",
+   "url": "https://www.brecorder.com/news/40448530/revamping-railways-dar-chairs-meeting-to-assess-proposals",
    "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "ISLAMABAD: Sindh government counsel told the Federal Constitutional Court (FCC) that the development cess was imposed to develop and maintain infrastructure for smooth and safe movement of goods on the roads within the province. A two-member bench, headed by Chief Justice Amin-ud-Din Khan, on Wednesday, heard the petit…",
-   "image": "https://i.brecorder.com/large/2025/02/0701032615d828f.jpg",
+   "published": "2026-11-12T00:45:17+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM), Senator Mohammad Ishaq Dar, chaired a meeting here on Wednesday to assess proposals to revamp and restructure Pakistan Railways. The meeting evaluated financing frameworks and operational models aimed at modernising railway infrastructure and ensuring fina…",
+   "image": "https://i.brecorder.com/large/2026/10/3007445433857e9.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -219,25 +219,12 @@
    "domestic": true
   },
   {
-   "title": "Industrialists demand third-party audit for power sector data verification",
-   "url": "https://www.dawn.com/news/2043139/industrialists-demand-third-party-audit-for-power-sector-data-verification",
-   "source": "Dawn",
-   "published": "2026-11-09T01:36:07+00:00",
-   "summary": "ISLAMABAD: Protesting against the revised incremental consumption package (ICP) for industry and agriculture, industrial consumers have asked the government to order an independent third-party audit for verification of power sector data and suspend till then the two-part electricity tariff. In formal letters to the gov…",
-   "image": "https://i.dawn.com/large/2026/02/270813331fa2ba8.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "The sweet smell of patronage",
-   "url": "https://www.brecorder.com/news/40448479/the-sweet-smell-of-patronage",
+   "title": "Australian dollar hits 7-month low, kiwi just above a 19-month trough",
+   "url": "https://www.brecorder.com/news/40448558/australian-dollar-hits-7-month-low-kiwi-just-above-a-19-month-trough",
    "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "EDITORIAL: The federal government’s latest decision to permit exports of surplus sugar, accompanied by assurances that domestic consumers will be protected, has an unmistakably familiar ring. Deputy Prime Minister Ishaq Dar has directed the authorities to maintain strategic reserves, ensure market stability and prevent…",
-   "image": null,
+   "published": "2026-11-12T06:27:30+00:00",
+   "summary": "SYDNEY: The Australian dollar hit a seven-month low on Thursday as a resurgent greenback threatened to push the Aussie through a key support level and extend its slide, while the kiwi hovered near a 19-month trough. The Aussie slipped 0.1% to $0.6838, its weakest since March, after losing 0.3% on Wednesday. It is now p…",
+   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
    "topics": [
     "Economy"
    ],
@@ -245,17 +232,81 @@
    "domestic": false
   },
   {
-   "title": "A subsidy-neutral package that isn't quite neutral",
-   "url": "https://www.brecorder.com/news/40448485/a-subsidy-neutral-package-that-isnt-quite-neutral",
+   "title": "China's yuan inches higher as PBOC sets firmer guidance",
+   "url": "https://www.brecorder.com/news/40448555/chinas-yuan-inches-higher-as-pboc-sets-firmer-guidance",
    "source": "Business Recorder",
-   "published": "2026-11-11T23:29:06+00:00",
-   "summary": "Pakistan’s Incremental Consumption Package (ICP) was meant to encourage industrial and agricultural consumers to use more electricity from the national grid, improve utilization of otherwise idle generation capacity and recover the marginal cost of supplying additional units . Instead, its first semi-annual review has …",
-   "image": "https://i.brecorder.com/large/2023/02/63ec023ca08cd.jpg",
+   "published": "2026-11-12T06:18:49+00:00",
+   "summary": "HONG KONG: China’s yuan ticked up against the dollar on Thursday after the country’s central bank set a stronger daily midpoint, though gains were capped by a firmer greenback amid rising bets for a Federal Reserve rate hike. The spot yuan was 0.1% higher at 6.6684 to the dollar as of 0323 GMT, after trading in a range…",
+   "image": "https://i.brecorder.com/large/2026/11/111145396416c30.webp",
    "topics": [
-    "Budget & spending",
-    "Energy & power"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold falls to over one-week low on firm dollar, Fed rate hike bets",
+   "url": "https://www.brecorder.com/news/40448551/gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets",
+   "source": "Business Recorder",
+   "published": "2026-11-12T06:05:55+00:00",
+   "summary": "Gold prices fell on Thursday , touching a more than one-week low, after stronger-than-expected US inflation data and hawkish remarks from Federal Reserve officials boosted the dollar and cemented expectations of an interest-rate hike next month. Spot gold fell 0.2% to $3,977.99 per ounce by 0506 GMT, after touching its…",
+   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
+   "url": "https://www.brecorder.com/news/40448550/russia-ukraine-exchange-attacks-on-capitals-as-us-envoys-land-in-moscow",
+   "source": "Business Recorder",
+   "published": "2026-11-12T06:01:40+00:00",
+   "summary": "Russia and Ukraine exchanged attacks on each other’s capitals early on Thursday, a day after peace talks ended and shortly before US envoys arrived in Moscow to meet President Vladimir Putin . Kirill Dmitriev, Putin’s envoy, greeted US negotiators Jared Kushner and Steve Witkoff at a Moscow airport, ahead of their meet…",
+   "image": "https://i.brecorder.com/large/2026/11/1211012011f456b.webp",
+   "topics": [
+    "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying at bourse, KSE-100 up 900 points",
+   "url": "https://www.brecorder.com/news/40448547/psx-buying-at-bourse-kse-100-up-900-points",
+   "source": "Business Recorder",
+   "published": "2026-11-12T04:56:33+00:00",
+   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 900 points during the opening minutes of trading on Thursday. At 9:40am, the benchmark index was hovering at 179,951.08, up 867.28 points or 0.48%. Buying was observed in key sectors, including automobile …",
+   "image": "https://i.brecorder.com/large/2026/11/1009544600f3591.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
+   "url": "https://www.brecorder.com/news/40448544/dollar-rises-to-19-month-high-as-fed-hike-bets-grow-yen-softens",
+   "source": "Business Recorder",
+   "published": "2026-11-12T03:21:54+00:00",
+   "summary": "TOKYO: The dollar climbed to a 19-month high against major peers on Thursday , supported ‌by growing expectations of a Federal Reserve rate hike, while the yen edged toward the key 160-per-dollar level following a dovish central banker’s speech. Traders ramped up bets on further Fed tightening after stronger-than-expec…",
+   "image": "https://i.brecorder.com/large/2026/11/12082140ab3c619.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Revival in foreign flows to back Indian rupee, dollar strength offers resistance",
+   "url": "https://www.brecorder.com/news/40448542/revival-in-foreign-flows-to-back-indian-rupee-dollar-strength-offers-resistance",
+   "source": "Business Recorder",
+   "published": "2026-11-12T03:13:35+00:00",
+   "summary": "MUMBAI: The Indian rupee is set to open largely flat on Thursday , with the ongoing revival in foreign equity inflows providing ​a counterweight to a resurgent dollar that has advanced ‌to a one-month high. The Indian rupee is expected to open in the 93.68 to 93.74 range, having settled at 93.69 to the dollar on Wednes…",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -285,12 +336,26 @@
    "domestic": false
   },
   {
-   "title": "Govt reviews proposed EFS amendments to facilitate exporters",
-   "url": "https://www.brecorder.com/news/40448441/govt-reviews-proposed-efs-amendments-to-facilitate-exporters",
-   "source": "Business Recorder",
-   "published": "2026-11-11T15:26:14+00:00",
-   "summary": "Pakistan government is reviewing proposed amendments to the Export Facilitation Scheme (EFS) to simplify procedures, reduce compliance costs, and improve access for exporters while strengthening safeguards against misuse. The development came during the fifth meeting of the Prime Minister’s Committee to Review the EFS,…",
-   "image": "https://i.brecorder.com/large/2026/07/15003743af3d295.webp",
+   "title": "PM okays IMF-cleared auto policy",
+   "url": "https://tribune.com.pk/story/2639813/pm-okays-imf-cleared-auto-policy",
+   "source": "The Express Tribune",
+   "published": "2026-11-11T15:40:51+00:00",
+   "summary": "Targets $6b in exports; 2-year shortfall risks licence cancellation",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX crosses 180k; profit-taking erases gains",
+   "url": "https://tribune.com.pk/story/2639816/psx-crosses-180k-profit-taking-erases-gains",
+   "source": "The Express Tribune",
+   "published": "2026-11-11T15:40:51+00:00",
+   "summary": "KSE-100 sheds 251 points amid consolidation after strong rally",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -298,12 +363,25 @@
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 sheds 250 points points as late-session selling erases intra-day gains",
-   "url": "https://www.brecorder.com/news/40448393/psx-kse-100-sheds-250-points-points-as-late-session-selling-erases-intra-day-gains",
+   "title": "Gold drops Rs3,400 amid global sell-off",
+   "url": "https://tribune.com.pk/story/2639810/gold-drops-rs3400-amid-global-sell-off",
+   "source": "The Express Tribune",
+   "published": "2026-11-11T15:40:51+00:00",
+   "summary": "Strong dollar pushes bullion prices lower; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt reviews proposed EFS amendments to facilitate exporters",
+   "url": "https://www.brecorder.com/news/40448441/govt-reviews-proposed-efs-amendments-to-facilitate-exporters",
    "source": "Business Recorder",
-   "published": "2026-11-11T13:26:47+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Wednesday as the benchmark KSE-100 Index saw its early gains erased by late-session selling. The benchmark index opened on a weak note, initially witnessing a sharp decline towards an intra-day’s low of 178,642.36 points. However, buying activity…",
-   "image": "https://i.brecorder.com/large/2025/10/10094502d40ecd0.webp",
+   "published": "2026-11-11T15:26:14+00:00",
+   "summary": "Pakistan government is reviewing proposed amendments to the Export Facilitation Scheme (EFS) to simplify procedures, reduce compliance costs, and improve access for exporters while strengthening safeguards against misuse. The development came during the fifth meeting of the Prime Minister’s Committee to Review the EFS,…",
+   "image": "https://i.brecorder.com/large/2026/07/15003743af3d295.webp",
    "topics": [
     "Economy"
    ],
@@ -370,110 +448,6 @@
    "published": "2026-11-11T07:23:01+00:00",
    "summary": "MUMBAI: Indian government bonds fell on Wednesday as a US Treasury selloff following hotter-than-expected inflation data outweighed relief from lower oil prices. The benchmark 10-year US Treasury yield jumped more than 12 basis points to 4.9830% in Asian trade after October inflation exceeded forecasts and policymakers…",
    "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Kenya central bank to hold next interest rate-setting meeting on December 9",
-   "url": "https://www.brecorder.com/news/40448406/kenya-central-bank-to-hold-next-interest-rate-setting-meeting-on-december-9",
-   "source": "Business Recorder",
-   "published": "2026-11-11T07:00:51+00:00",
-   "summary": "NAIROBI: Kenya’s central bank will hold its next interest rate-setting meeting on December 9, the bank said on its website on Wednesday. At its last monetary policy meeting in October, the bank maintained its benchmark lending rate at 8.75%.",
-   "image": "https://i.brecorder.com/large/2024/08/0712522796a255c.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan holds steady as PBOC eases guidance, dollar firms",
-   "url": "https://www.brecorder.com/news/40448402/yuan-holds-steady-as-pboc-eases-guidance-dollar-firms",
-   "source": "Business Recorder",
-   "published": "2026-11-11T06:46:25+00:00",
-   "summary": "HONG KONG: China’s yuan was little changed against the dollar on Wednesday after the central bank set a weaker daily midpoint, with bolstered expectations of further US rate hikes capping its strength and supporting the greenback. The onshore yuan last traded 0.09% higher at 6.6746 to the dollar. Its offshore counterpa…",
-   "image": "https://i.brecorder.com/large/2026/11/111145396416c30.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Soft sentiment surveys sink Aussie dollar to seven-month low",
-   "url": "https://www.brecorder.com/news/40448400/soft-sentiment-surveys-sink-aussie-dollar-to-seven-month-low",
-   "source": "Business Recorder",
-   "published": "2026-11-11T06:40:21+00:00",
-   "summary": "SYDNEY: The Australian dollar was pinned to a seven-month low on Wednesday and trailing peers as grim economic surveys reinforced bets that local interest rates have peaked, while a hot US inflation reading raised expectations for a sharp move higher in US rates. Overnight, only the oil-linked Norwegian krone fared wor…",
-   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold edges higher after sharp selloff, Fed hike bets weigh",
-   "url": "https://www.brecorder.com/news/40448394/gold-edges-higher-after-sharp-selloff-fed-hike-bets-weigh",
-   "source": "Business Recorder",
-   "published": "2026-11-11T06:11:11+00:00",
-   "summary": "Gold prices edged higher on Wednesday after a nearly 3% slide in the previous session, but gains were limited as stronger-than-expected US inflation data cemented expectations of a Federal Reserve interest rate hike next month, weighing on bullion. Spot gold was up 0.3% at $4,043.62 per ounce by 0303 GMT after falling …",
-   "image": "https://i.brecorder.com/large/2026/03/100823484828bf3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Profit-taking pulls PSX below 180,000 points",
-   "url": "https://tribune.com.pk/story/2639763/psx-extends-gains-as-kse-100-crosses-180000-mark",
-   "source": "The Express Tribune",
-   "published": "2026-11-11T04:46:53+00:00",
-   "summary": "KSE-100 Index loses 252 points while cement stocks advance as market consolidates",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil relief to revive rupee rally, US yields surge could act as brake",
-   "url": "https://www.brecorder.com/news/40448389/oil-relief-to-revive-rupee-rally-us-yields-surge-could-act-as-brake",
-   "source": "Business Recorder",
-   "published": "2026-11-11T03:07:37+00:00",
-   "summary": "MUMBAI: The Indian rupee is set to resume its recent rally on Wednesday , drawing support from softer oil prices , while a jump in ​US Treasury yields after inflation rose faster than expected could be ‌a dampener. The rupee is expected to open in the 93.70 to 93.74 range, per traders, having settled at 93.93275 to the…",
-   "image": "https://i.brecorder.com/large/2026/11/11080524e35e7c5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
-   "url": "https://www.brecorder.com/news/40448388/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation",
-   "source": "Business Recorder",
-   "published": "2026-11-11T02:58:40+00:00",
-   "summary": "SINGAPORE: The dollar held gains near a two-week high in early Asian trade on Wednesday as a hotter-than-expected inflation report and hawkish comments ​from Federal Reserve officials fuelled bets the central bank will raise rates next ‌month. The US dollar index , which measures the greenback’s strength against a bask…",
-   "image": "https://i.brecorder.com/large/2026/11/1107535425a195a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bonds reel as hot inflation fuels jumbo Fed hike fears",
-   "url": "https://www.brecorder.com/news/40448387/bonds-reel-as-hot-inflation-fuels-jumbo-fed-hike-fears",
-   "source": "Business Recorder",
-   "published": "2026-11-11T02:53:07+00:00",
-   "summary": "SYDNEY: Global bonds tumbled and the dollar stayed firm after a hot US inflation print and hawkish central bank rhetoric raised the risk of an outsized ​half-point rate hike from the Federal Reserve next month, though stocks remained resilient. Data showed overnight core US inflation ran at a ‌monthly rate of 0.3% in O…",
-   "image": "https://i.brecorder.com/large/2026/11/11074959642cf27.jpg",
    "topics": [
     "Economy"
    ],
@@ -571,19 +545,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "1m AI professionals targeted by 2030",
-   "url": "https://tribune.com.pk/story/2638878/1m-ai-professionals-targeted-by-2030",
-   "source": "The Express Tribune",
-   "published": "2026-11-05T16:44:47+00:00",
-   "summary": "Iqbal tells Pakistan-Russia forum aim sits within push for trillion-dollar economy by 2035",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
