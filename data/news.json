@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-12T15:48:49+00:00",
- "count": 38,
+ "generated": "2026-11-12T22:05:23+00:00",
+ "count": 35,
  "relevant_count": 10,
- "domestic_count": 13,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (14)",
+  "Dawn": "ok (13)",
   "Business Recorder": "ok (11)",
-  "The Express Tribune": "ok (8)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
@@ -30,19 +30,6 @@
    "published": "2026-11-12T15:10:49+00:00",
    "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $11 million to $21.57 billion during the week ended November 6, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.84 billion as of November 6, 2026. According to the SBP’s latest data, net for…",
    "image": "https://i.brecorder.com/large/2026/11/12201039b2a83aa.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan’s Crescent Fibres approves $4.5mn sale of Nooriabad property to Alkaram Spinning Mills",
-   "url": "https://www.brecorder.com/news/40448576/pakistans-crescent-fibres-approves-45mn-sale-of-nooriabad-property-to-alkaram-spinning-mills",
-   "source": "Business Recorder",
-   "published": "2026-11-12T08:48:20+00:00",
-   "summary": "Crescent Fibres Limited has approved the sale of its approximately 14-acre leasehold property in Nooriabad, Sindh, to Alkaram Spinning Mills (Private) Limited for Rs1.25 billion, approximately $4.51 million. Crescent Fibres disclosed the development in a notice to the Pakistan Stock Exchange on Thursday. “The Board of …",
-   "image": "https://i.brecorder.com/large/2024/08/270641411f874c8.jpg",
    "topics": [
     "Economy"
    ],
@@ -178,6 +165,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Pakistan car sales surge 48% in July-October",
+   "url": "https://www.brecorder.com/news/40448607/pakistan-car-sales-surge-48-in-july-october",
+   "source": "Business Recorder",
+   "published": "2026-11-12T16:36:33+00:00",
+   "summary": "Car sales in Pakistan continued their upward trend, rising 48% during the first four months (July-October) of the current fiscal year (FY27) compared with the corresponding period of the previous fiscal year. The year-on-year (YOY) performance rebounded on the back of improved macroeconomic situation, while the month-o…",
+   "image": "https://i.brecorder.com/large/2024/05/1323030064f8666.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "PSX: selling conintues, KSE-100 down nearly 1%",
@@ -375,33 +375,6 @@
    "domestic": false
   },
   {
-   "title": "Pakistan’s auto policy: what we know so far",
-   "url": "https://www.brecorder.com/news/40448448/pakistans-auto-policy-what-we-know-so-far",
-   "source": "Business Recorder",
-   "published": "2026-11-11T17:49:40+00:00",
-   "summary": "Adviser to the Prime Minister on Industries and Production Haroon Akhtar Khan said the Autos and Auto Parts Manufacturing Policy 2026–2031 represented a major shift in Pakistan’s automotive sector, moving away from import-dependent assembly towards export-oriented manufacturing, greater localisation, and internationall…",
-   "image": "https://i.brecorder.com/large/2025/11/151748164e6ad14.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM okays IMF-cleared auto policy",
-   "url": "https://tribune.com.pk/story/2639813/pm-okays-imf-cleared-auto-policy",
-   "source": "The Express Tribune",
-   "published": "2026-11-11T15:40:51+00:00",
-   "summary": "Targets $6b in exports; 2-year shortfall risks licence cancellation",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX crosses 180k; profit-taking erases gains",
    "url": "https://tribune.com.pk/story/2639816/psx-crosses-180k-profit-taking-erases-gains",
    "source": "The Express Tribune",
@@ -474,19 +447,6 @@
    "published": "2026-11-10T16:45:28+00:00",
    "summary": "Intends to export meat to Turkiye, strengthen cooperation",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Bangladesh's external debt increases almost threefold in decade",
-   "url": "https://www.dawn.com/news/2043178/bangladeshs-external-debt-increases-almost-threefold-in-decade",
-   "source": "Dawn",
-   "published": "2026-11-09T05:37:50+00:00",
-   "summary": "Bangladesh’s foreign debt has almost tripled in 10 years, a steeper rise than in any other South Asian country except the Maldives, according to the World Bank. Even so, the country has a lower debt burden relative to export earnings than Pakistan, Sri Lanka and Bhutan. However, its burden is higher than that of India …",
-   "image": "https://i.dawn.com/large/2025/09/02090201dedeaa7.webp",
    "topics": [
     "Economy"
    ],
