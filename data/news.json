@@ -1,15 +1,119 @@
 {
- "generated": "2026-11-11T17:44:04+00:00",
- "count": 43,
- "relevant_count": 13,
- "domestic_count": 11,
+ "generated": "2026-11-12T00:03:28+00:00",
+ "count": 46,
+ "relevant_count": 15,
+ "domestic_count": 17,
  "sources": {
-  "Dawn": "ok (13)",
-  "Business Recorder": "ok (15)",
+  "Dawn": "ok (12)",
+  "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (8)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Sindh tags Rs17bn subsidy for wheat growers",
+   "url": "https://www.brecorder.com/news/40448462/sindh-tags-rs17bn-subsidy-for-wheat-growers",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "KARACHI: The Sindh government has decided to issue Rs 17 billion subsidy for the Rabi season under the Sindh Wheat Growers Support Program. Chairman of the Pakistan People’s Party (PPP), Bilawal Bhutto Zardari will inaugurate the distribution of the subsidy to farmers on November 20. The Sindh government has finalised …",
+   "image": "https://i.brecorder.com/large/2022/11/636c66b67629d.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PSMA seeks export of 400,000 MT of surplus sugar, deregulation",
+   "url": "https://www.brecorder.com/news/40448463/psma-seeks-export-of-400000-mt-of-surplus-sugar-deregulation",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) has called for the immediate export of 400,000 metric tonnes of surplus sugar and the announcement of a long-awaited deregulation policy, warning that mills may not be able to commence the 2026-27 crushing season before December due to massive unsold stocks. The deman…",
+   "image": "https://i.brecorder.com/large/2023/12/65724aa039150.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Karachi to face water shortfall during Dhabeji shutdown on 13th",
+   "url": "https://www.brecorder.com/news/40448466/karachi-to-face-water-shortfall-during-dhabeji-shutdown-on-13th",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "KARACHI: Karachi will face an estimated shortfall of 130 million gallons of water on November 13 as electricity supply to the Dhabeji pumping station will remain suspended for 14 hours due to annual maintenance by K-Electric, followed by a separate 22-hour maintenance operation by the Karachi Water and Sewerage Corpora…",
+   "image": "https://i.brecorder.com/large/2026/07/080521249865307.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Illicit tobacco trade: Pakistan suffers USD1bn revenue loss",
+   "url": "https://www.brecorder.com/news/40448467/illicit-tobacco-trade-pakistan-suffers-usd1bn-revenue-loss",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "ISLAMABAD: Pakistan has suffered huge revenue loss of around USD 1 billion as a result of illicit tobacco trade, depriving governments of billions of dollars in potential revenue and weakening legitimate, tax-paying markets. According to the report “Illicit Tobacco Trade in Asia-Pacific: Taxation, Market Incentives, an…",
+   "image": "https://i.brecorder.com/large/2025/02/250735447e44ab9.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Import values of sublimation paper from China, South Korea issued",
+   "url": "https://www.brecorder.com/news/40448472/import-values-of-sublimation-paper-from-china-south-korea-issued",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "ISLAMABAD: The Directorate General of Customs Valuation, Karachi, has issued new customs values of Sublimation Paper imported from China and South Korea. According to a valuation ruling issued by the directorate on Wednesday, the customs values of Sublimation Paper were not previously determined under Section 25A of th…",
+   "image": "https://i.brecorder.com/large/2023/11/655bf02ae0763.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "JS Bank reports 67pc growth in PAT YoY for 9M’26",
+   "url": "https://www.brecorder.com/news/40448474/js-bank-reports-67pc-growth-in-pat-yoy-for-9m26",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "KARACHI: JS Bank Limited on Wednesday announced its financial results for the nine months ended September 30, 2026, reporting Profit Before Tax of Rs 8.932 billion, up 58 percent compared to Rs 5.665 billion for the corresponding period last year. Profit After Tax grew by 67 percent to Rs 4.300 billion from Rs 2.569 bi…",
+   "image": "https://i.brecorder.com/large/2023/09/650a1d6eb6acb.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FCC dismisses pleas seeking super tax order review",
+   "url": "https://www.brecorder.com/news/40448502/fcc-dismisses-pleas-seeking-super-tax-order-review",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) dismissed petitions seeking a review of its judgment upholding the constitutional validity of the super tax imposed under Sections 4B and 4C of the Income Tax Ordinance, 2001. A three-member bench, headed by Chief Justice Amin-Ud-Din Khan and comprising Justice Syed Has…",
+   "image": "https://i.brecorder.com/large/2026/06/23011632816139e.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Counsel for Sindh govt tells FCC: SIDC was levied to develop road infrastructure",
+   "url": "https://www.brecorder.com/news/40448505/counsel-for-sindh-govt-tells-fcc-sidc-was-levied-to-develop-road-infrastructure",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "ISLAMABAD: Sindh government counsel told the Federal Constitutional Court (FCC) that the development cess was imposed to develop and maintain infrastructure for smooth and safe movement of goods on the roads within the province. A two-member bench, headed by Chief Justice Amin-ud-Din Khan, on Wednesday, heard the petit…",
+   "image": "https://i.brecorder.com/large/2025/02/0701032615d828f.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40448434/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -115,19 +219,6 @@
    "domestic": true
   },
   {
-   "title": "Crumbling infrastructure in Karachi’s industrial areas is bleeding workers and businesses alike",
-   "url": "https://www.dawn.com/news/2043258/crumbling-infrastructure-in-karachis-industrial-areas-is-bleeding-workers-and-businesses-alike",
-   "source": "Dawn",
-   "published": "2026-11-09T07:34:43+00:00",
-   "summary": "https://www.dawn.com/news/2043198",
-   "image": "https://i.dawn.com/large/2026/07/14182426c667006.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Industrialists demand third-party audit for power sector data verification",
    "url": "https://www.dawn.com/news/2043139/industrialists-demand-third-party-audit-for-power-sector-data-verification",
    "source": "Dawn",
@@ -141,40 +232,54 @@
    "domestic": true
   },
   {
-   "title": "IT earnings drive 22.6pc growth in services exports",
-   "url": "https://www.dawn.com/news/2042900/it-earnings-drive-226pc-growth-in-services-exports",
-   "source": "Dawn",
-   "published": "2026-11-08T02:01:54+00:00",
-   "summary": "• Proceeds reach $2.72 billion in July-September FY27, up from $2.22bn • Imports increase 16.32pc to $3.55bn • Trade deficit remains almost unchanged at $832m ISLAMABAD: Services exports recorded robust year-on-year growth of 22.60 per cent in the first quarter of 2026-27, largely driven by higher earnings from informa…",
-   "image": "https://i.dawn.com/large/2021/10/615a7f7e8aa05.png",
+   "title": "The sweet smell of patronage",
+   "url": "https://www.brecorder.com/news/40448479/the-sweet-smell-of-patronage",
+   "source": "Business Recorder",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "EDITORIAL: The federal government’s latest decision to permit exports of surplus sugar, accompanied by assurances that domestic consumers will be protected, has an unmistakably familiar ring. Deputy Prime Minister Ishaq Dar has directed the authorities to maintain strategic reserves, ensure market stability and prevent…",
+   "image": null,
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "China's foreign minister holds call with US Rubio, China's state media reports",
-   "url": "https://www.brecorder.com/news/40448443/chinas-foreign-minister-holds-call-with-us-rubio-chinas-state-media-reports",
+   "title": "A subsidy-neutral package that isn't quite neutral",
+   "url": "https://www.brecorder.com/news/40448485/a-subsidy-neutral-package-that-isnt-quite-neutral",
    "source": "Business Recorder",
-   "published": "2026-11-11T16:17:28+00:00",
-   "summary": "BEIJING: China’s Foreign Minister Wang Yi on Wednesday held “positive and constructive” call with US Secretary of State Marco Rubio, state news agency Xinhua reported, with Beijing expressing willingness to strengthen communication and cooperation with Washington. The talks come roughly a week ahead of the APEC ​Econom…",
-   "image": "https://i.brecorder.com/large/2026/11/11211659e1ec11d.webp",
+   "published": "2026-11-11T23:29:06+00:00",
+   "summary": "Pakistan’s Incremental Consumption Package (ICP) was meant to encourage industrial and agricultural consumers to use more electricity from the national grid, improve utilization of otherwise idle generation capacity and recover the marginal cost of supplying additional units . Instead, its first semi-annual review has …",
+   "image": "https://i.brecorder.com/large/2023/02/63ec023ca08cd.jpg",
    "topics": [
-    "Construction & projects"
+    "Budget & spending",
+    "Energy & power"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "Pakistan's solar transition gains momentum, says PM Shehbaz at COP31",
-   "url": "https://www.brecorder.com/news/40448438/pakistans-solar-transition-gains-momentum-says-pm-shehbaz-at-cop31",
-   "source": "Business Recorder",
-   "published": "2026-11-11T15:44:16+00:00",
-   "summary": "Prime Minister Shehbaz Sharif has highlighted Pakistan’s rapid solarisation, saying the country added nearly 22,000 megawatts (MW) of rooftop solar capacity in just two years as households and businesses increasingly turned to cheaper and cleaner energy. Addressing a high-level dialogue on clean energy transition at th…",
-   "image": "https://i.ytimg.com/vi/6Jwt3uV2tHE/maxresdefault.jpg",
+   "title": "PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31",
+   "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+   "source": "Dawn",
+   "published": "2026-11-11T19:32:07+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Wednesday highlighted Pakistan’s solar power boom at the COP31 in Turkiye, where world leaders gathered to discuss joint solutions to combat climate change. This year’s summit focuses on transitioning toward a low-carbon future. Delegates from nearly 200 countries are meeting in the Med…",
+   "image": "https://i.dawn.com/large/2026/11/1119215717e0acb.webp",
    "topics": [
     "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s auto policy: what we know so far",
+   "url": "https://www.brecorder.com/news/40448448/pakistans-auto-policy-what-we-know-so-far",
+   "source": "Business Recorder",
+   "published": "2026-11-11T17:49:40+00:00",
+   "summary": "Adviser to the Prime Minister on Industries and Production Haroon Akhtar Khan said the Autos and Auto Parts Manufacturing Policy 2026–2031 represented a major shift in Pakistan’s automotive sector, moving away from import-dependent assembly towards export-oriented manufacturing, greater localisation, and internationall…",
+   "image": "https://i.brecorder.com/large/2025/11/151748164e6ad14.gif",
+   "topics": [
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -232,51 +337,12 @@
    "domestic": false
   },
   {
-   "title": "Russia, Ukraine and US start second day of Abu Dhabi peace talks",
-   "url": "https://www.brecorder.com/news/40448432/russia-ukraine-and-us-start-second-day-of-abu-dhabi-peace-talks",
-   "source": "Business Recorder",
-   "published": "2026-11-11T11:13:36+00:00",
-   "summary": "ABU DHABI: Russian, Ukrainian and US officials began a second day of peace talks in Abu Dhabi on Wednesday, resuming meetings which Kyiv and Washington depicted on Monday as constructive but produced no early signs of a breakthrough. Ukrainian and Russian negotiators gave no details after Monday’s US-brokered talks, th…",
-   "image": "https://i.brecorder.com/large/2026/11/11161023b67a2d4.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Indian rupee touches strongest since April as foreign inflows offset firm dollar",
    "url": "https://www.brecorder.com/news/40448426/indian-rupee-touches-strongest-since-april-as-foreign-inflows-offset-firm-dollar",
    "source": "Business Recorder",
    "published": "2026-11-11T10:36:58+00:00",
    "summary": "MUMBAI: The Indian rupee touched its strongest level since April on Wednesday, shrugging off a broadly stronger dollar as foreign inflows into local stocks and price action in the non-deliverable forward market supported the currency. The Indian rupee ended at 93.69 per dollar, up 0.2% on day and after touching a high …",
    "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "AdalFi partners with Network International to bring cash-flow lending to the Middle East and Africa",
-   "url": "https://www.brecorder.com/news/40448424/adalfi-partners-with-network-international-to-bring-cash-flow-lending-to-the-middle-east-and-africa",
-   "source": "Business Recorder",
-   "published": "2026-11-11T10:12:59+00:00",
-   "summary": "AdalFi , which is set to become the first fintech company listed on the Pakistan Stock Exchange, has partnered with Network International to bring its cash-flow credit scoring to financial institutions across the Middle East and Africa. The partnership combines Network International’s payments reach, spanning 250+ fina…",
-   "image": "https://i.brecorder.com/large/2026/11/111512423ec118c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pearl Continental owner in major shake-up as Thatta Cement, Fauji Foundation ink deal",
-   "url": "https://www.brecorder.com/news/40448423/pearl-continental-owner-in-major-shake-up-as-thatta-cement-fauji-foundation-ink-deal",
-   "source": "Business Recorder",
-   "published": "2026-11-11T09:44:04+00:00",
-   "summary": "Thatta Cement Company Limited has entered into a definitive agreement with Fauji Foundation in connection with the proposed restructuring of Pakistan Services Limited, which owns and manages the chain of Pearl Continental (PC) Hotels. The cement maker disclosed the development in a filing to the Pakistan Stock Exchange…",
-   "image": "https://i.brecorder.com/large/2026/09/10121128285f540.webp",
    "topics": [
     "Economy"
    ],
@@ -295,32 +361,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PPL plans $40mn deep drilling at Sui: report",
-   "url": "https://www.brecorder.com/news/40448420/ppl-plans-40mn-deep-drilling-at-sui-report",
-   "source": "Business Recorder",
-   "published": "2026-11-11T08:41:44+00:00",
-   "summary": "Pakistan Petroleum Limited (PPL), one of the country’s largest E&P companies, plans to drill a 6,000-metre exploratory well at its Sui field in fiscal year 2027-28, targeting an initial 2 trillion cubic feet (TCF) of gas, as the company steps up exploration efforts to offset declining output from mature fields. The dev…",
-   "image": "https://i.brecorder.com/large/2025/01/03081710cf493a3.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan’s premium robo advisor, Tijori Robo Investing, launched for stock market investors",
-   "url": "https://www.brecorder.com/news/40448415/pakistans-premium-robo-advisor-tijori-robo-investing-launched-for-stock-market-investors",
-   "source": "Business Recorder",
-   "published": "2026-11-11T08:09:55+00:00",
-   "summary": "Shaikha Robo Securities (Pvt.) Ltd., an SECP-licensed Securities Advisor, has launched Tijori Robo Investing, a digital robo-advisory platform designed to help retail investors in Pakistan build and manage long-term investment portfolios through a structured, technology-led approach. Tijori Robo Investing combines inve…",
-   "image": "https://i.brecorder.com/large/2026/11/11125328a8e4527.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
