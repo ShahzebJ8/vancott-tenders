@@ -1,15 +1,54 @@
 {
- "generated": "2026-11-12T06:36:41+00:00",
- "count": 43,
- "relevant_count": 16,
- "domestic_count": 16,
+ "generated": "2026-11-12T15:48:49+00:00",
+ "count": 38,
+ "relevant_count": 10,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (9)",
+  "Business Recorder": "ok (11)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Pakistan rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40448588/pakistan-rupee-registers-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-12T15:29:35+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.61, a gain of Re0.01 against the greenback. On Wednesday , the rupee had closed at 276.62 against the dollar. Internationally, the US dollar climbed to a 19-month high against…",
+   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP-held foreign exchange reserves rise $11 million to $21.57 billion",
+   "url": "https://www.brecorder.com/news/40448606/sbp-held-foreign-exchange-reserves-rise-11-million-to-2157-billion",
+   "source": "Business Recorder",
+   "published": "2026-11-12T15:10:49+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $11 million to $21.57 billion during the week ended November 6, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.84 billion as of November 6, 2026. According to the SBP’s latest data, net for…",
+   "image": "https://i.brecorder.com/large/2026/11/12201039b2a83aa.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan’s Crescent Fibres approves $4.5mn sale of Nooriabad property to Alkaram Spinning Mills",
+   "url": "https://www.brecorder.com/news/40448576/pakistans-crescent-fibres-approves-45mn-sale-of-nooriabad-property-to-alkaram-spinning-mills",
+   "source": "Business Recorder",
+   "published": "2026-11-12T08:48:20+00:00",
+   "summary": "Crescent Fibres Limited has approved the sale of its approximately 14-acre leasehold property in Nooriabad, Sindh, to Alkaram Spinning Mills (Private) Limited for Rs1.25 billion, approximately $4.51 million. Crescent Fibres disclosed the development in a notice to the Pakistan Stock Exchange on Thursday. “The Board of …",
+   "image": "https://i.brecorder.com/large/2024/08/270641411f874c8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Auto policy envisages indigenisation, export growth: PM's Adviser Haroon",
    "url": "https://www.dawn.com/news/2043895/auto-policy-envisages-indigenisation-export-growth-pms-adviser-haroon",
@@ -43,84 +82,6 @@
    "published": "2026-11-12T01:48:18+00:00",
    "summary": "KARACHI: The government raised significantly more than both its target and the amount of maturing Treasury Bills at Wednesday’s auction. According to the State Bank of Pakistan (SBP), the government raised Rs232.46 billion through the auction and Rs354.25bn via non-competitive bids, for a total of Rs586.7bn. The auctio…",
    "image": "https://i.dawn.com/large/2022/04/62467ea2c8fc1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PRA revenue collection rises over Rs33bn in Oct",
-   "url": "https://www.brecorder.com/news/40448537/pra-revenue-collection-rises-over-rs33bn-in-oct",
-   "source": "Business Recorder",
-   "published": "2026-11-12T01:15:42+00:00",
-   "summary": "LAHORE: The Punjab Revenue Authority (PRA) has posted a strong rise in revenue collection, bringing in more than Rs. 33 billion in October, up from Rs. 26 billion in the same month of the last fiscal year. Overall, revenue collection in the current fiscal year is running 30 percent higher than in the corresponding peri…",
-   "image": "https://i.brecorder.com/large/2026/04/14015549860b3ab.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Nehal, Dar discuss developmental initiatives across Sindh",
-   "url": "https://www.brecorder.com/news/40448535/nehal-dar-discuss-developmental-initiatives-across-sindh",
-   "source": "Business Recorder",
-   "published": "2026-11-12T01:08:58+00:00",
-   "summary": "ISLAMABAD: Sindh Governor Syed Nehal Hashmi called on the Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar at the Ministry of Foreign Affairs on Wednesday. Discussion centred around accelerating developmental initiatives across Sindh, including industrial growth, infrastructure projects an…",
-   "image": "https://i.brecorder.com/large/2026/11/12060832ab20318.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Mian Zahid urges steps for boosting exports to US",
-   "url": "https://www.brecorder.com/news/40448534/mian-zahid-urges-steps-for-boosting-exports-to-us",
-   "source": "Business Recorder",
-   "published": "2026-11-12T01:06:25+00:00",
-   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board Mian Zahid Hussain has said the Ministry of Commerce, Trade Development Authority of Pakistan, Pakistan’s trade mis…",
-   "image": "https://i.brecorder.com/large/2026/01/1308332291c6f52.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "KP e-registry linked to land record system, FBR",
-   "url": "https://www.brecorder.com/news/40448532/kp-e-registry-linked-to-land-record-system-fbr",
-   "source": "Business Recorder",
-   "published": "2026-11-12T01:00:34+00:00",
-   "summary": "PESHAWAR: The digital integration of the e-Registry, the Land Record Management System and the Federal Board of Revenue (FBR) was inaugurated in Khyber Pakhtunkhwa on Wednesday, with the aim of making the province’s land registration and mutation process more transparent and efficient. KP Chief Secretary Dr Muhammad Fa…",
-   "image": "https://i.brecorder.com/large/2024/06/6668fb8eeff34.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Revamping Railways: Dar chairs meeting to assess proposals",
-   "url": "https://www.brecorder.com/news/40448530/revamping-railways-dar-chairs-meeting-to-assess-proposals",
-   "source": "Business Recorder",
-   "published": "2026-11-12T00:45:17+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM), Senator Mohammad Ishaq Dar, chaired a meeting here on Wednesday to assess proposals to revamp and restructure Pakistan Railways. The meeting evaluated financing frameworks and operational models aimed at modernising railway infrastructure and ensuring fina…",
-   "image": "https://i.brecorder.com/large/2026/10/3007445433857e9.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40448434/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-11T14:55:37+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Wednesday. The local unit closed the day at 276.62, a gain of Re0.03 against the greenback. On Tuesday , the rupee had closed at 276.65 against the dollar. The Asian Development Bank (ADB) approved cont…",
-   "image": "https://i.brecorder.com/large/2026/03/10004027342cccf.webp",
    "topics": [
     "Economy"
    ],
@@ -219,6 +180,97 @@
    "domestic": true
   },
   {
+   "title": "PSX: selling conintues, KSE-100 down nearly 1%",
+   "url": "https://www.brecorder.com/news/40448547/psx-selling-conintues-kse-100-down-nearly-1",
+   "source": "Business Recorder",
+   "published": "2026-11-12T14:12:17+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) saw selling pressure during the trading session on Thursday, with the benchmark KSE-100 Index losing nearly 1%. The market opened on a positive note, with the benchmark index initially gaining momentum and touching an intraday high of 180,310.44 points. However, the early buying moment…",
+   "image": "https://i.brecorder.com/large/2026/11/1009544600f3591.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Trump says Vance should focus on domestic corruption, 'we don't need a deal with Iran'",
+   "url": "https://www.brecorder.com/news/40448601/trump-says-vance-should-focus-on-domestic-corruption-we-dont-need-a-deal-with-iran",
+   "source": "Business Recorder",
+   "published": "2026-11-12T13:42:25+00:00",
+   "summary": "WASHINGTON: President Donald Trump said on Thursday he wanted Vice President JD Vance to focus “his complete and total attention” on any crime and corruption in Democratic-run US cities, saying that effort could save more money than a deal with Iran. “Our Budget could be quickly BALANCED with the correction of this lar…",
+   "image": "https://i.brecorder.com/large/2026/04/29005040910bd7a.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan aims to move beyond raw mineral exports, says Dar",
+   "url": "https://www.brecorder.com/news/40448594/pakistan-aims-to-move-beyond-raw-mineral-exports-says-dar",
+   "source": "Business Recorder",
+   "published": "2026-11-12T12:56:22+00:00",
+   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar said on Thursday that Pakistan’s goal is not just to extract minerals and export them in raw form, but to steadily build the capacity to process, refine and manufacture them at home. He was speaking at the opening session of the third Pakistan Minerals Investment For…",
+   "image": "https://i.brecorder.com/large/2026/11/12175558bedd20b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper hits 3-month lows, focus on demand and US rates",
+   "url": "https://www.brecorder.com/news/40448596/copper-hits-3-month-lows-focus-on-demand-and-us-rates",
+   "source": "Business Recorder",
+   "published": "2026-11-12T12:24:36+00:00",
+   "summary": "LONDON: Copper prices dropped to their lowest in more than three months on Thursday as the market fretted about weak demand and expectations of US interest rate hikes that could bolster the dollar. Benchmark copper on the London Metal Exchange was down 1.2% at $13,645 a metric ton by 1200 GMT, but up from an earlier $1…",
+   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asia rice: Indian rice export rates gain on Africa demand, firm rupee",
+   "url": "https://www.brecorder.com/news/40448591/asia-rice-indian-rice-export-rates-gain-on-africa-demand-firm-rupee",
+   "source": "Business Recorder",
+   "published": "2026-11-12T11:36:46+00:00",
+   "summary": "Indian rice export prices rose this week, buoyed by modest demand from African buyers and a rupee that strengthened to its highest level in nearly seven months, while Thai and Vietnamese export rates also drifted higher. India’s 5% broken parboiled variety was quoted at $385-$390 per ton, up from last week’s $382-$386.…",
+   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lanka targets growth beyond crisis recovery in budget, on course for IMF exit",
+   "url": "https://www.brecorder.com/news/40448583/sri-lanka-targets-growth-beyond-crisis-recovery-in-budget-on-course-for-imf-exit",
+   "source": "Business Recorder",
+   "published": "2026-11-12T10:42:10+00:00",
+   "summary": "COLOMBO: President Anura Kumara Dissanayake unveiled a budget on Thursday aimed at shifting Sri Lanka’s economy from recovery to growth, saying the country had liquidity to meet debt repayments and expected to successfully complete its IMF programme in March. Sri Lanka has experienced a turnaround since an unprecedente…",
+   "image": "https://i.brecorder.com/large/2025/05/012200253a9ff9c.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee slips with traders clinging to equity cues, awaiting inflation data",
+   "url": "https://www.brecorder.com/news/40448582/indian-rupee-slips-with-traders-clinging-to-equity-cues-awaiting-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-11-12T10:36:42+00:00",
+   "summary": "MUMBAI: The Indian rupee retreated on Thursday after oil prices rose and domestic equities reversed, erasing early gains driven by a pickup in foreign portfolio inflows, while traders also awaited India’s inflation data due later in the day. The Indian rupee closed at 94.0425 per dollar, down 0.4% from its previous clo…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Australian dollar hits 7-month low, kiwi just above a 19-month trough",
    "url": "https://www.brecorder.com/news/40448558/australian-dollar-hits-7-month-low-kiwi-just-above-a-19-month-trough",
    "source": "Business Recorder",
@@ -258,25 +310,12 @@
    "domestic": false
   },
   {
-   "title": "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
-   "url": "https://www.brecorder.com/news/40448550/russia-ukraine-exchange-attacks-on-capitals-as-us-envoys-land-in-moscow",
-   "source": "Business Recorder",
-   "published": "2026-11-12T06:01:40+00:00",
-   "summary": "Russia and Ukraine exchanged attacks on each other’s capitals early on Thursday, a day after peace talks ended and shortly before US envoys arrived in Moscow to meet President Vladimir Putin . Kirill Dmitriev, Putin’s envoy, greeted US negotiators Jared Kushner and Steve Witkoff at a Moscow airport, ahead of their meet…",
-   "image": "https://i.brecorder.com/large/2026/11/1211012011f456b.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: buying at bourse, KSE-100 up 900 points",
-   "url": "https://www.brecorder.com/news/40448547/psx-buying-at-bourse-kse-100-up-900-points",
-   "source": "Business Recorder",
-   "published": "2026-11-12T04:56:33+00:00",
-   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 900 points during the opening minutes of trading on Thursday. At 9:40am, the benchmark index was hovering at 179,951.08, up 867.28 points or 0.48%. Buying was observed in key sectors, including automobile …",
-   "image": "https://i.brecorder.com/large/2026/11/1009544600f3591.webp",
+   "title": "KSE-100 sheds over 1,700 points amid uncertainty",
+   "url": "https://tribune.com.pk/story/2639915/psx-sheds-1492-points-as-selling-hits-heavyweights",
+   "source": "The Express Tribune",
+   "published": "2026-11-12T03:23:08+00:00",
+   "summary": "Political, global tensions drag PSX down",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -307,6 +346,19 @@
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "AOOA accuses foreign airlines of moving $2.4b out of Pakistan annually",
+   "url": "https://tribune.com.pk/story/2639899/aooa-accuses-foreign-airlines-of-moving-24b-out-of-pakistan-annually",
+   "source": "The Express Tribune",
+   "published": "2026-11-12T01:34:26+00:00",
+   "summary": "Calls for five-year forensic tax audit of all airlines operating in Pakistan, restrictions on offshore ticket payments",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -369,85 +421,6 @@
    "published": "2026-11-11T15:40:51+00:00",
    "summary": "Strong dollar pushes bullion prices lower; rupee inches up",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt reviews proposed EFS amendments to facilitate exporters",
-   "url": "https://www.brecorder.com/news/40448441/govt-reviews-proposed-efs-amendments-to-facilitate-exporters",
-   "source": "Business Recorder",
-   "published": "2026-11-11T15:26:14+00:00",
-   "summary": "Pakistan government is reviewing proposed amendments to the Export Facilitation Scheme (EFS) to simplify procedures, reduce compliance costs, and improve access for exporters while strengthening safeguards against misuse. The development came during the fifth meeting of the Prime Minister’s Committee to Review the EFS,…",
-   "image": "https://i.brecorder.com/large/2026/07/15003743af3d295.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi Arabia leads further jump in OPEC+ oil output despite war",
-   "url": "https://www.brecorder.com/news/40448439/saudi-arabia-leads-further-jump-in-opec-oil-output-despite-war",
-   "source": "Business Recorder",
-   "published": "2026-11-11T13:18:13+00:00",
-   "summary": "LONDON: Top oil exporter Saudi Arabia boosted oil output in October to the highest since February, the last month before the Iran war disrupted Middle East supplies, according to a copy of OPEC’s monthly report seen by Reuters. Saudi Arabia told OPEC that it pumped 10.563 million barrels per day of crude in October, th…",
-   "image": "https://i.brecorder.com/large/2025/11/690a68c03ded5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "ADB approves $500mn funding to strengthen Pakistan's disaster resilience",
-   "url": "https://www.brecorder.com/news/40448421/adb-approves-500mn-funding-to-strengthen-pakistans-disaster-resilience",
-   "source": "Business Recorder",
-   "published": "2026-11-11T13:04:03+00:00",
-   "summary": "The Asian Development Bank (ADB) has approved contingent disaster financing (CDF) facilities totalling $500 million under its policy-based lending to help Pakistan to withstand and respond to disasters. The CDF will provide prompt budget support following eligible disaster events to help reduce the economic and fiscal …",
-   "image": "https://i.brecorder.com/large/2026/11/11141110f300ae8.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee touches strongest since April as foreign inflows offset firm dollar",
-   "url": "https://www.brecorder.com/news/40448426/indian-rupee-touches-strongest-since-april-as-foreign-inflows-offset-firm-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-11T10:36:58+00:00",
-   "summary": "MUMBAI: The Indian rupee touched its strongest level since April on Wednesday, shrugging off a broadly stronger dollar as foreign inflows into local stocks and price action in the non-deliverable forward market supported the currency. The Indian rupee ended at 93.69 per dollar, up 0.2% on day and after touching a high …",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Chinese university bought Nvidia H200 chips despite US blacklist",
-   "url": "https://www.brecorder.com/news/40448422/chinese-university-bought-nvidia-h200-chips-despite-us-blacklist",
-   "source": "Business Recorder",
-   "published": "2026-11-11T09:18:25+00:00",
-   "summary": "BEIJING: A Chinese university with ​deep ties to the People’s Liberation Army bought Nvidia’s powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, highlighting gaps in Washington’s efforts to curb China’s access to advanced ‌technology. The findings come as Nvidia and its …",
-   "image": "https://i.brecorder.com/large/2026/11/11141625e01297e.webp",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India bonds slips as Treasury rout offsets oil slide",
-   "url": "https://www.brecorder.com/news/40448409/india-bonds-slips-as-treasury-rout-offsets-oil-slide",
-   "source": "Business Recorder",
-   "published": "2026-11-11T07:23:01+00:00",
-   "summary": "MUMBAI: Indian government bonds fell on Wednesday as a US Treasury selloff following hotter-than-expected inflation data outweighed relief from lower oil prices. The benchmark 10-year US Treasury yield jumped more than 12 basis points to 4.9830% in Asian trade after October inflation exceeded forecasts and policymakers…",
-   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
    "topics": [
     "Economy"
    ],
@@ -521,51 +494,11 @@
    "domestic": false
   },
   {
-   "title": "Trade finance gap hits MSME exporters",
-   "url": "https://tribune.com.pk/story/2639045/trade-finance-gap-hits-msme-exporters",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T15:56:12+00:00",
-   "summary": "Jam Kamal tells COMCEC that collateral rules, fragmented regulation shut small firms out",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US, SBP celebrate deployment of new core banking network and data centre",
-   "url": "https://tribune.com.pk/story/2638967/us-sbp-celebrate-deployment-of-new-core-banking-network-and-data-centre",
-   "source": "The Express Tribune",
-   "published": "2026-11-06T03:25:30+00:00",
-   "summary": "Project aims to strengthen Pakistan's financial infrastructure and ensure secure digital banking services nationwide",
-   "image": null,
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
    "published": "2026-09-10T15:18:01+00:00",
    "summary": "CPEC was transforming country's economic landscape through cooperation in infrastructure, energy, industrialisation",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "China donates livestock vaccines for CPEC 2.0",
-   "url": "https://tribune.com.pk/story/2627156/china-donates-livestock-vaccines-for-cpec-20",
-   "source": "The Express Tribune",
-   "published": "2026-09-02T17:10:52+00:00",
-   "summary": "Minister urges scientists to develop focused projects for modernisation",
    "image": null,
    "topics": [
     "Construction & projects"
