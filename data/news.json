@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-12T22:05:23+00:00",
- "count": 35,
+ "generated": "2026-11-13T02:50:18+00:00",
+ "count": 38,
  "relevant_count": 10,
- "domestic_count": 12,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (11)",
@@ -11,12 +11,51 @@
  },
  "stories": [
   {
-   "title": "Pakistan rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40448588/pakistan-rupee-registers-gain-against-us-dollar",
+   "title": "Govt squeezing blood of public through utility bills: PDP",
+   "url": "https://www.brecorder.com/news/40448703/govt-squeezing-blood-of-public-through-utility-bills-pdp",
    "source": "Business Recorder",
-   "published": "2026-11-12T15:29:35+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.61, a gain of Re0.01 against the greenback. On Wednesday , the rupee had closed at 276.62 against the dollar. Internationally, the US dollar climbed to a 19-month high against…",
-   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
+   "published": "2026-11-13T02:42:49+00:00",
+   "summary": "KARACHI: Pasban Democratic Party Karachi President Abdul Hakim Quaid has said that the government is squeezing the blood of the public through utility bills. He said, the public does not have access to electricity, but electricity is constantly becoming more expensive. Now the same is the case with gas. Due to the unav…",
+   "image": "https://i.brecorder.com/large/2023/05/64558004909e4.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR sets tax stamp price for cement manufacturers",
+   "url": "https://www.brecorder.com/news/40448699/fbr-sets-tax-stamp-price-for-cement-manufacturers",
+   "source": "Business Recorder",
+   "published": "2026-11-13T02:34:19+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has fixed the price of tax stamps for cement manufacturers at Rs1,140.64 per 1,000 Unique Identification Marks (UIMs), including an additional charge of Rs165.64 to recover annual maintenance services costs of the track and trace system. According to a notification issued b…",
+   "image": "https://i.brecorder.com/large/2022/09/631651d61b11f.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Packaged tea makers ordered to install monitoring system",
+   "url": "https://www.brecorder.com/news/40448708/packaged-tea-makers-ordered-to-install-monitoring-system",
+   "source": "Business Recorder",
+   "published": "2026-11-13T02:01:50+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed all registered manufacturers, blenders and packers of packaged tea, including toll and contract packers, to install and operationalise an electronic production monitoring system at every packing line by December 10, 2026, to monitor production and strengthen ta…",
+   "image": "https://i.brecorder.com/large/2025/07/686da788bf59f.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PMIF-2026 inaugurated: Investors urged to tap vast mineral sector",
+   "url": "https://www.brecorder.com/news/40448694/pmif-2026-inaugurated-investors-urged-to-tap-vast-mineral-sector",
+   "source": "Business Recorder",
+   "published": "2026-11-13T00:56:43+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar on Thursday called for greater international investment, technology transfer and industrial cooperation to unlock Pakistan’s vast mineral potential, saying the country aims at moving from exporting raw minerals to developing domes…",
+   "image": "https://i.brecorder.com/large/2026/10/310444172b6f758.jpg",
    "topics": [
     "Economy"
    ],
@@ -24,12 +63,52 @@
    "domestic": true
   },
   {
-   "title": "SBP-held foreign exchange reserves rise $11 million to $21.57 billion",
-   "url": "https://www.brecorder.com/news/40448606/sbp-held-foreign-exchange-reserves-rise-11-million-to-2157-billion",
+   "title": "Approval of Raast QR MDR scheme: SBP told to prepare working paper",
+   "url": "https://www.brecorder.com/news/40448691/approval-of-raast-qr-mdr-scheme-sbp-told-to-prepare-working-paper",
    "source": "Business Recorder",
-   "published": "2026-11-12T15:10:49+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $11 million to $21.57 billion during the week ended November 6, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.84 billion as of November 6, 2026. According to the SBP’s latest data, net for…",
-   "image": "https://i.brecorder.com/large/2026/11/12201039b2a83aa.jpg",
+   "published": "2026-11-13T00:50:34+00:00",
+   "summary": "ISLAMABAD: The government has directed the State Bank of Pakistan (SBP) to prepare a working paper for approval of the Raast QR Merchant Discount Rate (MDR) scheme to sustain the expansion of digital payments, as active merchants accepting digital payments have increased fourfold to 2.03 million under the Prime Ministe…",
+   "image": "https://i.brecorder.com/large/2025/07/6886a574a07da.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "AML Act, 2010: SBP raises CTR reporting threshold",
+   "url": "https://www.brecorder.com/news/40448688/aml-act-2010-sbp-raises-ctr-reporting-threshold",
+   "source": "Business Recorder",
+   "published": "2026-11-13T00:41:52+00:00",
+   "summary": "KARACHI: Following the directives of the federal government, the State Bank of Pakistan (SBP) on Thursday increased the minimum threshold for reporting Currency Transaction Reports (CTR) to the Financial Monitoring Unit (FMU) of SBP to Rs3 million with immediate effect under the Anti-Money Laundering Act, 2010. SBP Reg…",
+   "image": "https://i.brecorder.com/large/2026/11/130541118d1a342.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Power sector: gas output and use of RLNG slump",
+   "url": "https://www.brecorder.com/news/40448686/power-sector-gas-output-and-use-of-rlng-slump",
+   "source": "Business Recorder",
+   "published": "2026-11-13T00:34:52+00:00",
+   "summary": "ISLAMABAD: Pakistan’s indigenous natural gas production declined by 8 percent in FY25, while consumption of imported Regasified Liquefied Natural Gas (RLNG) in the power sector plunged by 24 percent as expanding distributed solar generation displaced expensive fuel-based electricity, according to Renewables First’s Pak…",
+   "image": "https://i.brecorder.com/large/2026/11/130534453d9ff47.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan rupee registers gain against US dollar",
+   "url": "https://www.brecorder.com/news/40448588/pakistan-rupee-registers-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-12T15:29:35+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.61, a gain of Re0.01 against the greenback. On Wednesday , the rupee had closed at 276.62 against the dollar. Internationally, the US dollar climbed to a 19-month high against…",
+   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
    "topics": [
     "Economy"
    ],
@@ -193,32 +272,6 @@
    "domestic": false
   },
   {
-   "title": "Trump says Vance should focus on domestic corruption, 'we don't need a deal with Iran'",
-   "url": "https://www.brecorder.com/news/40448601/trump-says-vance-should-focus-on-domestic-corruption-we-dont-need-a-deal-with-iran",
-   "source": "Business Recorder",
-   "published": "2026-11-12T13:42:25+00:00",
-   "summary": "WASHINGTON: President Donald Trump said on Thursday he wanted Vice President JD Vance to focus “his complete and total attention” on any crime and corruption in Democratic-run US cities, saying that effort could save more money than a deal with Iran. “Our Budget could be quickly BALANCED with the correction of this lar…",
-   "image": "https://i.brecorder.com/large/2026/04/29005040910bd7a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan aims to move beyond raw mineral exports, says Dar",
-   "url": "https://www.brecorder.com/news/40448594/pakistan-aims-to-move-beyond-raw-mineral-exports-says-dar",
-   "source": "Business Recorder",
-   "published": "2026-11-12T12:56:22+00:00",
-   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar said on Thursday that Pakistan’s goal is not just to extract minerals and export them in raw form, but to steadily build the capacity to process, refine and manufacture them at home. He was speaking at the opening session of the third Pakistan Minerals Investment For…",
-   "image": "https://i.brecorder.com/large/2026/11/12175558bedd20b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Copper hits 3-month lows, focus on demand and US rates",
    "url": "https://www.brecorder.com/news/40448596/copper-hits-3-month-lows-focus-on-demand-and-us-rates",
    "source": "Business Recorder",
@@ -242,19 +295,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka targets growth beyond crisis recovery in budget, on course for IMF exit",
-   "url": "https://www.brecorder.com/news/40448583/sri-lanka-targets-growth-beyond-crisis-recovery-in-budget-on-course-for-imf-exit",
-   "source": "Business Recorder",
-   "published": "2026-11-12T10:42:10+00:00",
-   "summary": "COLOMBO: President Anura Kumara Dissanayake unveiled a budget on Thursday aimed at shifting Sri Lanka’s economy from recovery to growth, saying the country had liquidity to meet debt repayments and expected to successfully complete its IMF programme in March. Sri Lanka has experienced a turnaround since an unprecedente…",
-   "image": "https://i.brecorder.com/large/2025/05/012200253a9ff9c.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
