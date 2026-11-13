@@ -1,35 +1,62 @@
 {
- "generated": "2026-11-13T10:32:36+00:00",
- "count": 41,
- "relevant_count": 10,
- "domestic_count": 13,
+ "generated": "2026-11-13T18:02:49+00:00",
+ "count": 43,
+ "relevant_count": 9,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (12)",
   "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (7)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Mari Energies discovers significant copper-gold reserves near Reko Diq",
-   "url": "https://www.brecorder.com/news/40448756/mari-energies-discovers-significant-copper-gold-reserves-near-reko-diq",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40448764/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-13T09:16:56+00:00",
-   "summary": "Mari Energies Limited, one of Pakistan’s largest E&P companies, has announced a significant copper-gold discovery at its East Siah Diq (ESD-1) target in Chagai district, Balochistan, through its wholly owned subsidiary Mari Minerals (Private) Limited. The company disclosed the development in a notice to the Pakistan St…",
-   "image": "https://i.brecorder.com/large/2023/11/6553f1b983f27.jpg",
+   "published": "2026-11-13T15:41:36+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.60, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.61 against the dollar. Internationally, the US dollar held ​near a 19-month high on Friday …",
+   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PSW, Alibaba.com partner to boost trust in global e-commerce, support Pakistani exporters",
+   "url": "https://www.brecorder.com/news/40448777/psw-alibabacom-partner-to-boost-trust-in-global-e-commerce-support-pakistani-exporters",
+   "source": "Business Recorder",
+   "published": "2026-11-13T13:50:57+00:00",
+   "summary": "Pakistan Single Window (PSW) and Alibaba.com have signed an agreement to introduce a digital Trade Data Confirmation Service, combining PSW’s digital trade infrastructure with Alibaba.com’s global B2B marketplace to help strengthen trust and facilitate Pakistani businesses’ participation in international e-commerce, a …",
+   "image": "https://i.brecorder.com/large/2025/07/02201817417836a.jpg",
+   "topics": [
+    "Construction & projects",
+    "Economy"
    ],
    "relevant": true,
    "domestic": true
   },
   {
-   "title": "Pakistan’s mineral exploration increasingly focused on strategic resources, minister tells investors",
-   "url": "https://www.dawn.com/news/2044267/pakistans-mineral-exploration-increasingly-focused-on-strategic-resources-minister-tells-investors",
+   "title": "Short-term inflation clocks in at 11.21pc",
+   "url": "https://www.dawn.com/news/2044292/short-term-inflation-clocks-in-at-1121pc",
    "source": "Dawn",
-   "published": "2026-11-13T07:27:54+00:00",
-   "summary": "Petroleum Minister Ali Pervaiz Malik said on Friday that Pakistan’s exploration efforts were increasingly focused on minerals that were of strategic importance to global investors. He was addressing the Pakistan Minerals Investment Forum 2026 (PMIF26) in Islamabad, where delegations, exhibitors and attendees have arriv…",
-   "image": "https://i.dawn.com/large/2026/11/13120227f72bf2e.webp",
+   "published": "2026-11-13T11:40:00+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 11.21 per cent year-on-year in the week ending on Nov 12, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items, whose prices are collected from 50 markets in 17 cities,…",
+   "image": "https://i.dawn.com/large/2026/11/131630490c67373.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Islamabad set to become Pakistan’s first fully cashless city by Dec 31",
+   "url": "https://www.brecorder.com/news/40448761/islamabad-set-to-become-pakistans-first-fully-cashless-city-by-dec-31",
+   "source": "Business Recorder",
+   "published": "2026-11-13T10:59:45+00:00",
+   "summary": "The government has decided to make Islamabad the country’s first fully cashless city, with December 31 set as the deadline. Chairing a meeting in Islamabad, Minister of State for Interior Talal Chaudhry on Friday said consultation and suggestions of all stakeholders are important for the successful implementation of th…",
+   "image": "https://i.brecorder.com/large/2026/11/13155301fab5ae7.webp",
    "topics": [
     "Economy"
    ],
@@ -57,19 +84,6 @@
    "published": "2026-11-13T01:59:54+00:00",
    "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Thursday attempted to close above the key 180,000 mark but failed to sustain its early rally. For the second consecutive session, investors took profits, pus­hing the benchmark KSE-100 index below 178,000 as sentiment turned cautious amid domestic political uncertainty. To…",
    "image": "https://i.dawn.com/large/2021/12/61a85f381d99d.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40448588/pakistan-rupee-registers-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-12T15:29:35+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.61, a gain of Re0.01 against the greenback. On Wednesday , the rupee had closed at 276.62 against the dollar. Internationally, the US dollar climbed to a 19-month high against…",
-   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
    "topics": [
     "Economy"
    ],
@@ -181,11 +195,50 @@
    "domestic": true
   },
   {
-   "title": "PSX: buying at bourse, KSE-100 gains nearly 1,300 points",
-   "url": "https://www.brecorder.com/news/40448726/psx-buying-at-bourse-kse-100-gains-nearly-1300-points",
+   "title": "Fed's Collins says more rate hikes are coming, reports",
+   "url": "https://www.brecorder.com/news/40448787/feds-collins-says-more-rate-hikes-are-coming-reports",
    "source": "Business Recorder",
-   "published": "2026-11-13T09:58:02+00:00",
-   "summary": "Buying was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 1,300 points during the second half of the trading session on Friday. At 2:50pm, the benchmark index stood at 178,657.76, up 1,284.00 points, or 0.72%. Key sectors saw buying, including commercial banks, oil and ga…",
+   "published": "2026-11-13T16:40:59+00:00",
+   "summary": "NEW YORK: Boston Federal Reserve President Susan Collins said on Friday that tighter monetary policy is coming because of high inflation, in comments that suggested the US central bank may have to raise interest rates more than she initially expected. “I think it’s clear the direction that monetary policy needs to go a…",
+   "image": "https://i.brecorder.com/large/2026/11/0621115110a51cc.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt extends deadline for civil servants to digitally declare assets to Nov 30",
+   "url": "https://www.brecorder.com/news/40448778/govt-extends-deadline-for-civil-servants-to-digitally-declare-assets-to-nov-30",
+   "source": "Business Recorder",
+   "published": "2026-11-13T14:22:24+00:00",
+   "summary": "The federal government has extended the deadline for civil servants to digitally submit their declarations of assets for financial year 2025-26 through the Federal Board of Revenue (FBR) portal to November 30, 2026. According to an Office Memorandum issued by the Establishment Division, 2026, the extension has been gra…",
+   "image": "https://i.brecorder.com/large/2026/11/131917324cc8762.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
+   "url": "https://www.brecorder.com/news/40448780/indias-october-trade-deficit-hits-one-year-high-of-3988-billion-as-gold-imports-jump",
+   "source": "Business Recorder",
+   "published": "2026-11-13T14:18:11+00:00",
+   "summary": "NEW DELHI: India’s merchandise trade deficit widened to a one-year high of $39.88 billion in October, exceeding forecasts as festive-season gold purchases and higher energy costs drove up imports. The deficit topped the $32.25 billion forecast in a Reuters poll and widened from $30.21 billion in September. The trade de…",
+   "image": "https://i.brecorder.com/large/2026/02/21005321c9e3ac7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying at bourse, KSE-100 gains 500 points",
+   "url": "https://www.brecorder.com/news/40448726/psx-buying-at-bourse-kse-100-gains-500-points",
+   "source": "Business Recorder",
+   "published": "2026-11-13T14:05:31+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Friday, with the benchmark index swinging both ways before closing with a gain of 500 points. The index remained positive for most of the session, initially gaining momentum from its intra-day low of 176,865.05 points and gradually climbing towar…",
    "image": "https://i.brecorder.com/large/2025/08/2709553419f327d.webp",
    "topics": [
     "Economy"
@@ -194,12 +247,12 @@
    "domestic": false
   },
   {
-   "title": "Oil and the dollar: How energy shocks can reinforce USD dominance",
-   "url": "https://www.brecorder.com/news/40448757/oil-and-the-dollar-how-energy-shocks-can-reinforce-usd-dominance",
+   "title": "UAE stocks decline on weak corporate earnings",
+   "url": "https://www.brecorder.com/news/40448775/uae-stocks-decline-on-weak-corporate-earnings",
    "source": "Business Recorder",
-   "published": "2026-11-13T09:23:17+00:00",
-   "summary": "Oil and the US dollar are closely connected through global trade, inflation, monetary policy, and risk sentiment. But that relationship is not as straightforward as assuming higher oil prices automatically mean a stronger or weaker dollar. For me, the more useful question is what is driving oil’s movement and how the s…",
-   "image": "https://i.brecorder.com/large/2026/11/131422173233e8e.webp",
+   "published": "2026-11-13T12:46:07+00:00",
+   "summary": "Stock markets in the United Arab Emirates closed lower on Friday, with industrial and financial stocks leading the decline as corporate earnings fell short of market expectations. Dubai’s main market index declined 0.6%, retreating from a near five-month high touched in the previous session. Blue-chip developer Emaar P…",
+   "image": "https://i.brecorder.com/large/2023/10/6520abbe6ce6e.jpg",
    "topics": [
     "Economy"
    ],
@@ -207,16 +260,81 @@
    "domestic": false
   },
   {
-   "title": "Govt moves to continue subsidy for Raast QR payments",
-   "url": "https://www.brecorder.com/news/40448745/govt-moves-to-continue-subsidy-for-raast-qr-payments",
+   "title": "Tecno, Infinix maker eyes component manufacturing in Pakistan",
+   "url": "https://www.brecorder.com/news/40448773/tecno-infinix-maker-eyes-component-manufacturing-in-pakistan",
    "source": "Business Recorder",
-   "published": "2026-11-13T07:01:00+00:00",
-   "summary": "Prime Minister Shehbaz Sharif has decided to continue the subsidy on merchant discount rate (MDR) charges for Raast QR payments to encourage wider merchant adoption of digital payment systems, the finance ministry said on Friday. The development came during a meeting between Minister of State for Finance, Bilal Azhar K…",
-   "image": "https://i.brecorder.com/large/2025/08/68af7d33b566b.png",
+   "published": "2026-11-13T11:56:35+00:00",
+   "summary": "Chinese conglomerate Transsion Holdings has discussed expanding its manufacturing operations in Pakistan beyond smartphone assembly towards component manufacturing and deeper localisation. Finance Minister Muhammad Aurangzeb met with George Zhu, Founder and Chairman of Transsion Holdings, a multibillion-dollar conglome…",
+   "image": "https://i.brecorder.com/large/2026/11/13165507b3e3da6.webp",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
+   "url": "https://www.brecorder.com/news/40448772/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says",
+   "source": "Business Recorder",
+   "published": "2026-11-13T11:51:46+00:00",
+   "summary": "LONDON: The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on shipping. The agency also gave more details of remaining volumes to come from a record relea…",
+   "image": "https://i.brecorder.com/large/2024/10/091003359ad82a2.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Silver demand seen down 5% this year due to weaker jewellery purchases",
+   "url": "https://www.brecorder.com/news/40448762/silver-demand-seen-down-5-this-year-due-to-weaker-jewellery-purchases",
+   "source": "Business Recorder",
+   "published": "2026-11-13T11:03:57+00:00",
+   "summary": "LONDON: Silver demand is expected to fall by 5% in 2026 due to weaker jewellery demand and lower consumption in solar cells, where high prices have accelerated substitution, research showed on Friday. Research done by consultancy Metals Focus for the Silver Institute puts demand at 1.08 billion troy ounces this year. S…",
+   "image": "https://i.brecorder.com/large/2025/12/210733464797e15.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
+   "url": "https://www.brecorder.com/news/40448760/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise",
+   "source": "Business Recorder",
+   "published": "2026-11-13T10:53:09+00:00",
+   "summary": "MUMBAI: The Indian rupee weakened this week as rising oil prices and growing expectations of a more hawkish Federal Reserve offset support from improving foreign portfolio inflows, stalling the currency’s recovery. The Indian rupee closed at 94.24, down 0.2% from its previous close and 0.3% week-on-week. A pickup in fo…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian stocks slip as oil, inflation cap weekly rally",
+   "url": "https://www.brecorder.com/news/40448759/indian-stocks-slip-as-oil-inflation-cap-weekly-rally",
+   "source": "Business Recorder",
+   "published": "2026-11-13T10:48:44+00:00",
+   "summary": "Indian share benchmarks declined on Friday, trimming weekly gains, as elevated crude prices and inflationary pressures weighed on sentiment, countering the support from sustained foreign institutional inflows. It was a turbulent week for global markets as AI bellwether Nvidia plunged following revelations of Jensen Hua…",
+   "image": "https://i.brecorder.com/large/2026/09/300805446852f09.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan announces 13 mineral cooperation deals",
+   "url": "https://tribune.com.pk/story/2640146/pakistan-announces-13-mineral-cooperation-deals",
+   "source": "The Express Tribune",
+   "published": "2026-11-13T09:32:04+00:00",
+   "summary": "Deals part of efforts to move away from exporting raw materials, unprocessed minerals",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -363,84 +481,6 @@
    "domestic": false
   },
   {
-   "title": "Dollar near 19-month high on Fed hike bets, yen tests 160",
-   "url": "https://www.brecorder.com/news/40448719/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160",
-   "source": "Business Recorder",
-   "published": "2026-11-13T02:53:27+00:00",
-   "summary": "SHANGHAI/SINGAPORE: The dollar held ​near a 19-month high on Friday after a strong week of gains on rising bets of ‌a larger Federal Reserve rate hike, pushing the Japanese yen back near the key 160 mark that has left traders on alert for intervention. Treasury yields rose after US President Donald Trump said the US do…",
-   "image": "https://i.brecorder.com/large/2026/11/13074911e122db2.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan car sales surge 48% in July-October",
-   "url": "https://www.brecorder.com/news/40448607/pakistan-car-sales-surge-48-in-july-october",
-   "source": "Business Recorder",
-   "published": "2026-11-12T16:36:33+00:00",
-   "summary": "Car sales in Pakistan continued their upward trend, rising 48% during the first four months (July-October) of the current fiscal year (FY27) compared with the corresponding period of the previous fiscal year. The year-on-year (YOY) performance rebounded on the back of improved macroeconomic situation, while the month-o…",
-   "image": "https://i.brecorder.com/large/2024/05/1323030064f8666.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "SBP reserves rise $11m to $21.6b",
-   "url": "https://tribune.com.pk/story/2639994/sbp-reserves-rise-11m-to-216b",
-   "source": "The Express Tribune",
-   "published": "2026-11-12T16:12:45+00:00",
-   "summary": "Total FX at $26.8b; gold sheds Rs15,800 in three sessions",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper hits 3-month lows, focus on demand and US rates",
-   "url": "https://www.brecorder.com/news/40448596/copper-hits-3-month-lows-focus-on-demand-and-us-rates",
-   "source": "Business Recorder",
-   "published": "2026-11-12T12:24:36+00:00",
-   "summary": "LONDON: Copper prices dropped to their lowest in more than three months on Thursday as the market fretted about weak demand and expectations of US interest rate hikes that could bolster the dollar. Benchmark copper on the London Metal Exchange was down 1.2% at $13,645 a metric ton by 1200 GMT, but up from an earlier $1…",
-   "image": "https://i.brecorder.com/large/2026/08/25112203df51729.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asia rice: Indian rice export rates gain on Africa demand, firm rupee",
-   "url": "https://www.brecorder.com/news/40448591/asia-rice-indian-rice-export-rates-gain-on-africa-demand-firm-rupee",
-   "source": "Business Recorder",
-   "published": "2026-11-12T11:36:46+00:00",
-   "summary": "Indian rice export prices rose this week, buoyed by modest demand from African buyers and a rupee that strengthened to its highest level in nearly seven months, while Thai and Vietnamese export rates also drifted higher. India’s 5% broken parboiled variety was quoted at $385-$390 per ton, up from last week’s $382-$386.…",
-   "image": "https://i.brecorder.com/large/2026/07/09183237c2f1172.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee slips with traders clinging to equity cues, awaiting inflation data",
-   "url": "https://www.brecorder.com/news/40448582/indian-rupee-slips-with-traders-clinging-to-equity-cues-awaiting-inflation-data",
-   "source": "Business Recorder",
-   "published": "2026-11-12T10:36:42+00:00",
-   "summary": "MUMBAI: The Indian rupee retreated on Thursday after oil prices rose and domestic equities reversed, erasing early gains driven by a pickup in foreign portfolio inflows, while traders also awaited India’s inflation data due later in the day. The Indian rupee closed at 94.0425 per dollar, down 0.4% from its previous clo…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31",
    "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
    "source": "Dawn",
@@ -490,20 +530,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz stresses clean energy’s importance for Pakistan at Chashma-5 nuclear plant event",
-   "url": "https://www.dawn.com/news/2043579/pm-shehbaz-stresses-clean-energys-importance-for-pakistan-at-chashma-5-nuclear-plant-event",
-   "source": "Dawn",
-   "published": "2026-11-10T19:12:19+00:00",
-   "summary": "Prime Minister Shehbaz Sharif has emphasised that Chashma-5 (C-5) Nuclear Power Plant represents clean electricity and energy security for the people of Pakistan. The premier made the remarks, aired on Tuesday, at a ceremony marking the dome placement of the C-5 plant near Mianwali. The placement of a nuclear plant’s d…",
-   "image": "https://i.dawn.com/large/2026/11/1100592813eff8d.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
