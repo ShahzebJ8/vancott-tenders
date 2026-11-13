@@ -1,35 +1,22 @@
 {
- "generated": "2026-11-13T02:50:18+00:00",
- "count": 38,
+ "generated": "2026-11-13T10:32:36+00:00",
+ "count": 41,
  "relevant_count": 10,
- "domestic_count": 18,
+ "domestic_count": 13,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (11)",
+  "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (7)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "Govt squeezing blood of public through utility bills: PDP",
-   "url": "https://www.brecorder.com/news/40448703/govt-squeezing-blood-of-public-through-utility-bills-pdp",
+   "title": "Mari Energies discovers significant copper-gold reserves near Reko Diq",
+   "url": "https://www.brecorder.com/news/40448756/mari-energies-discovers-significant-copper-gold-reserves-near-reko-diq",
    "source": "Business Recorder",
-   "published": "2026-11-13T02:42:49+00:00",
-   "summary": "KARACHI: Pasban Democratic Party Karachi President Abdul Hakim Quaid has said that the government is squeezing the blood of the public through utility bills. He said, the public does not have access to electricity, but electricity is constantly becoming more expensive. Now the same is the case with gas. Due to the unav…",
-   "image": "https://i.brecorder.com/large/2023/05/64558004909e4.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FBR sets tax stamp price for cement manufacturers",
-   "url": "https://www.brecorder.com/news/40448699/fbr-sets-tax-stamp-price-for-cement-manufacturers",
-   "source": "Business Recorder",
-   "published": "2026-11-13T02:34:19+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has fixed the price of tax stamps for cement manufacturers at Rs1,140.64 per 1,000 Unique Identification Marks (UIMs), including an additional charge of Rs165.64 to recover annual maintenance services costs of the track and trace system. According to a notification issued b…",
-   "image": "https://i.brecorder.com/large/2022/09/631651d61b11f.jpg",
+   "published": "2026-11-13T09:16:56+00:00",
+   "summary": "Mari Energies Limited, one of Pakistan’s largest E&P companies, has announced a significant copper-gold discovery at its East Siah Diq (ESD-1) target in Chagai district, Balochistan, through its wholly owned subsidiary Mari Minerals (Private) Limited. The company disclosed the development in a notice to the Pakistan St…",
+   "image": "https://i.brecorder.com/large/2023/11/6553f1b983f27.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -37,25 +24,12 @@
    "domestic": true
   },
   {
-   "title": "Packaged tea makers ordered to install monitoring system",
-   "url": "https://www.brecorder.com/news/40448708/packaged-tea-makers-ordered-to-install-monitoring-system",
-   "source": "Business Recorder",
-   "published": "2026-11-13T02:01:50+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed all registered manufacturers, blenders and packers of packaged tea, including toll and contract packers, to install and operationalise an electronic production monitoring system at every packing line by December 10, 2026, to monitor production and strengthen ta…",
-   "image": "https://i.brecorder.com/large/2025/07/686da788bf59f.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PMIF-2026 inaugurated: Investors urged to tap vast mineral sector",
-   "url": "https://www.brecorder.com/news/40448694/pmif-2026-inaugurated-investors-urged-to-tap-vast-mineral-sector",
-   "source": "Business Recorder",
-   "published": "2026-11-13T00:56:43+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar on Thursday called for greater international investment, technology transfer and industrial cooperation to unlock Pakistan’s vast mineral potential, saying the country aims at moving from exporting raw minerals to developing domes…",
-   "image": "https://i.brecorder.com/large/2026/10/310444172b6f758.jpg",
+   "title": "Pakistan’s mineral exploration increasingly focused on strategic resources, minister tells investors",
+   "url": "https://www.dawn.com/news/2044267/pakistans-mineral-exploration-increasingly-focused-on-strategic-resources-minister-tells-investors",
+   "source": "Dawn",
+   "published": "2026-11-13T07:27:54+00:00",
+   "summary": "Petroleum Minister Ali Pervaiz Malik said on Friday that Pakistan’s exploration efforts were increasingly focused on minerals that were of strategic importance to global investors. He was addressing the Pakistan Minerals Investment Forum 2026 (PMIF26) in Islamabad, where delegations, exhibitors and attendees have arriv…",
+   "image": "https://i.dawn.com/large/2026/11/13120227f72bf2e.webp",
    "topics": [
     "Economy"
    ],
@@ -63,40 +37,27 @@
    "domestic": true
   },
   {
-   "title": "Approval of Raast QR MDR scheme: SBP told to prepare working paper",
-   "url": "https://www.brecorder.com/news/40448691/approval-of-raast-qr-mdr-scheme-sbp-told-to-prepare-working-paper",
+   "title": "Pakistan seeks two LNG cargoes for Dec, Jan as winter looms",
+   "url": "https://www.brecorder.com/news/40448734/pakistan-seeks-two-lng-cargoes-for-dec-jan-as-winter-looms",
    "source": "Business Recorder",
-   "published": "2026-11-13T00:50:34+00:00",
-   "summary": "ISLAMABAD: The government has directed the State Bank of Pakistan (SBP) to prepare a working paper for approval of the Raast QR Merchant Discount Rate (MDR) scheme to sustain the expansion of digital payments, as active merchants accepting digital payments have increased fourfold to 2.03 million under the Prime Ministe…",
-   "image": "https://i.brecorder.com/large/2025/07/6886a574a07da.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "AML Act, 2010: SBP raises CTR reporting threshold",
-   "url": "https://www.brecorder.com/news/40448688/aml-act-2010-sbp-raises-ctr-reporting-threshold",
-   "source": "Business Recorder",
-   "published": "2026-11-13T00:41:52+00:00",
-   "summary": "KARACHI: Following the directives of the federal government, the State Bank of Pakistan (SBP) on Thursday increased the minimum threshold for reporting Currency Transaction Reports (CTR) to the Financial Monitoring Unit (FMU) of SBP to Rs3 million with immediate effect under the Anti-Money Laundering Act, 2010. SBP Reg…",
-   "image": "https://i.brecorder.com/large/2026/11/130541118d1a342.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Power sector: gas output and use of RLNG slump",
-   "url": "https://www.brecorder.com/news/40448686/power-sector-gas-output-and-use-of-rlng-slump",
-   "source": "Business Recorder",
-   "published": "2026-11-13T00:34:52+00:00",
-   "summary": "ISLAMABAD: Pakistan’s indigenous natural gas production declined by 8 percent in FY25, while consumption of imported Regasified Liquefied Natural Gas (RLNG) in the power sector plunged by 24 percent as expanding distributed solar generation displaced expensive fuel-based electricity, according to Renewables First’s Pak…",
-   "image": "https://i.brecorder.com/large/2026/11/130534453d9ff47.webp",
+   "published": "2026-11-13T06:20:20+00:00",
+   "summary": "State-owned Pakistan LNG Limited (PLL) has invited bids from reputed international suppliers for the supply of two liquefied natural gas (LNG) cargoes on a Delivered Ex-Ship (DES) basis at Port Qasim, Karachi. According to the tender notice issued on Thursday, PLL is seeking the cargoes to meet the country’s gas requir…",
+   "image": "https://i.brecorder.com/large/2026/09/101344307d516b0.webp",
    "topics": [
     "Energy & power",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PSX closes below 178,000 after volatility",
+   "url": "https://www.dawn.com/news/2044159/psx-closes-below-178000-after-volatility",
+   "source": "Dawn",
+   "published": "2026-11-13T01:59:54+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) on Thursday attempted to close above the key 180,000 mark but failed to sustain its early rally. For the second consecutive session, investors took profits, pus­hing the benchmark KSE-100 index below 178,000 as sentiment turned cautious amid domestic political uncertainty. To…",
+   "image": "https://i.dawn.com/large/2021/12/61a85f381d99d.jpg",
+   "topics": [
     "Economy"
    ],
    "relevant": false,
@@ -220,30 +181,199 @@
    "domestic": true
   },
   {
-   "title": "Used car imports under gift scheme persist despite tough restrictions, say vendors",
-   "url": "https://www.dawn.com/news/2043373/used-car-imports-under-gift-scheme-persist-despite-tough-restrictions-say-vendors",
-   "source": "Dawn",
-   "published": "2026-11-10T02:03:58+00:00",
-   "summary": "KARACHI: Imports of used cars under the gift scheme have continued, with more than 2,000 units arriving in the country during October despite tough import restrictions by the government, according to auto vendors. While used car imports continue, vendors are also unhappy with the new auto policy announced by the govern…",
-   "image": "https://i.dawn.com/large/2026/09/240730572a9417d.webp",
+   "title": "PSX: buying at bourse, KSE-100 gains nearly 1,300 points",
+   "url": "https://www.brecorder.com/news/40448726/psx-buying-at-bourse-kse-100-gains-nearly-1300-points",
+   "source": "Business Recorder",
+   "published": "2026-11-13T09:58:02+00:00",
+   "summary": "Buying was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 1,300 points during the second half of the trading session on Friday. At 2:50pm, the benchmark index stood at 178,657.76, up 1,284.00 points, or 0.72%. Key sectors saw buying, including commercial banks, oil and ga…",
+   "image": "https://i.brecorder.com/large/2025/08/2709553419f327d.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Modest rise in exports to US, imports surge",
-   "url": "https://www.dawn.com/news/2043370/modest-rise-in-exports-to-us-imports-surge",
-   "source": "Dawn",
-   "published": "2026-11-10T02:03:58+00:00",
-   "summary": "ISLAMABAD: Pakistan’s merchandise exports to North America grew modestly by 4.65 per cent to $1.826 billion in the first quarter of 2026-27, up from $1.745bn a year ago. Imports from the region, however, surged 60.58pc to $841.31 million from $523.91m over the corresponding period last year, indicating a high inflow of…",
-   "image": "https://i.dawn.com/large/2026/04/0308384641a6d55.webp",
+   "title": "Oil and the dollar: How energy shocks can reinforce USD dominance",
+   "url": "https://www.brecorder.com/news/40448757/oil-and-the-dollar-how-energy-shocks-can-reinforce-usd-dominance",
+   "source": "Business Recorder",
+   "published": "2026-11-13T09:23:17+00:00",
+   "summary": "Oil and the US dollar are closely connected through global trade, inflation, monetary policy, and risk sentiment. But that relationship is not as straightforward as assuming higher oil prices automatically mean a stronger or weaker dollar. For me, the more useful question is what is driving oil’s movement and how the s…",
+   "image": "https://i.brecorder.com/large/2026/11/131422173233e8e.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Govt moves to continue subsidy for Raast QR payments",
+   "url": "https://www.brecorder.com/news/40448745/govt-moves-to-continue-subsidy-for-raast-qr-payments",
+   "source": "Business Recorder",
+   "published": "2026-11-13T07:01:00+00:00",
+   "summary": "Prime Minister Shehbaz Sharif has decided to continue the subsidy on merchant discount rate (MDR) charges for Raast QR payments to encourage wider merchant adoption of digital payment systems, the finance ministry said on Friday. The development came during a meeting between Minister of State for Finance, Bilal Azhar K…",
+   "image": "https://i.brecorder.com/large/2025/08/68af7d33b566b.png",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar steady on Friday",
+   "url": "https://www.brecorder.com/news/40448744/thai-bahtus-dollar-steady-on-friday",
+   "source": "Business Recorder",
+   "published": "2026-11-13T06:55:31+00:00",
+   "summary": "BANGKOK: The Thai baht was little changed against the US dollar on Friday . At 0148 GMT, the baht was 0.09% higher at 33.86 versus the dollar, after trading in a range of 33.880 to 33.905. It ended the previous session at 33.89 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar plumbs 10-month lows as US yields keep climbing",
+   "url": "https://www.brecorder.com/news/40448741/australian-dollar-plumbs-10-month-lows-as-us-yields-keep-climbing",
+   "source": "Business Recorder",
+   "published": "2026-11-13T06:48:17+00:00",
+   "summary": "SYDNEY: The Australian dollar was pinned near a 10-month low on Friday as US yields kept climbing on growing bets of a half-point Federal Reserve hike, while falling commodity prices and fading yield support added to the drag. The Aussie slipped 0.1% to $0.68, after falling as much as 0.6% overnight to $0.6798, the low…",
+   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Wheat rebounds from 4-1/2-month low on Black Sea supply concerns",
+   "url": "https://www.brecorder.com/news/40448733/wheat-rebounds-from-4-12-month-low-on-black-sea-supply-concerns",
+   "source": "Business Recorder",
+   "published": "2026-11-13T06:18:38+00:00",
+   "summary": "CANBERRA: Chicago wheat futures rose on Friday after slipping to a 4-1/2-month low in early trade, as continued disruption to Black Sea exports outweighed pressure from a stronger US dollar and expectations of large harvests in Australia and Argentina. Corn and soybean futures rose and were on track for weekly gains af…",
+   "image": "https://i.brecorder.com/large/2023/12/658b4b004fa38.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan inches higher as companies convert cash holdings",
+   "url": "https://www.brecorder.com/news/40448730/chinas-yuan-inches-higher-as-companies-convert-cash-holdings",
+   "source": "Business Recorder",
+   "published": "2026-11-13T06:08:16+00:00",
+   "summary": "SHANGHAI: China’s yuan inched higher against the dollar on Friday as seasonal foreign exchange settlements by companies outweighed broad dollar strength, which was fueled by growing investor bets that the Federal Reserve will raise interest rates in December. The dollar held near a 19-month high and Treasury yields als…",
+   "image": "https://i.brecorder.com/large/2026/11/131107355fea98d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India bonds under pressure before debt supply; hot inflation prints pinch further",
+   "url": "https://www.brecorder.com/news/40448729/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further",
+   "source": "Business Recorder",
+   "published": "2026-11-13T06:06:04+00:00",
+   "summary": "MUMBAI: Indian government bonds came under heavy selling pressure in early trades on Friday ahead of fresh supply of the benchmark paper, while inflation in India crossing the central bank’s target and elevated US inflation clouded the interest-rate outlook. The benchmark 6.94% 2036 bond yield was 7.3113% as of 10:00 a…",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises on bargain hunting but heads for weekly decline",
+   "url": "https://www.brecorder.com/news/40448728/gold-rises-on-bargain-hunting-but-heads-for-weekly-decline",
+   "source": "Business Recorder",
+   "published": "2026-11-13T06:00:44+00:00",
+   "summary": "Gold rose on Friday as bargain hunting emerged after prices hit a more than one-year low in the previous session, while market focus shifted to upcoming US inflation data. Spot gold climbed 1.1% to $3,918.59 per ounce by 0518 GMT, but has lost 3.6% so far this week. US gold futures for December delivery gained 1% to $3…",
+   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX climbs over 1,000 points by Friday midday break",
+   "url": "https://tribune.com.pk/story/2640105/psx-climbs-over-1000-points-by-friday-midday-break",
+   "source": "The Express Tribune",
+   "published": "2026-11-13T03:44:14+00:00",
+   "summary": "KSE-100 rebounds as banks, energy stocks lift index 0.6% ahead of prayers",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee faltering rally faces returning oil pressure, surging US yields",
+   "url": "https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields",
+   "source": "Business Recorder",
+   "published": "2026-11-13T03:24:48+00:00",
+   "summary": "MUMBAI: The Indian rupee’s faltering rally faces further challenges on Friday , as rising oil prices revive a key source ​of pressure and surging US yields bolster the dollar. The Indian rupee is expected to open weaker than the 94-per-dollar mark and remain under pressure, after falling below it on Thursday in its big…",
+   "image": "https://i.brecorder.com/large/2026/11/130823424b9334f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
+   "url": "https://www.brecorder.com/news/40448724/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo",
+   "source": "Business Recorder",
+   "published": "2026-11-13T03:22:07+00:00",
+   "summary": "WASHINGTON/SAN FRANCISCO: Colette Kress spent years as the one Nvidia executive willing to check CEO Jensen Huang’s enormous, often risky ​ambitions. As he drove the chipmaker deeper into multibillion-dollar AI investments, she pushed back, according to two people familiar with the matter on Thursday. Now the 59-year-o…",
+   "image": "https://i.brecorder.com/large/2026/11/12223603f982e29.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian shares likely to open flat as oil surge counters strong foreign inflows",
+   "url": "https://www.brecorder.com/news/40448722/indian-shares-likely-to-open-flat-as-oil-surge-counters-strong-foreign-inflows",
+   "source": "Business Recorder",
+   "published": "2026-11-13T03:04:25+00:00",
+   "summary": "Indian equity benchmarks are expected to remain in consolidation mode on Friday following recent gains, as sustained foreign institutional inflows offer support while rising Brent crude prices and ​elevated domestic inflation weigh on sentiment. GIFT Nifty futures were at 25,267.5, as of ‌7:13 a.m. IST, indicating a mu…",
+   "image": "https://i.brecorder.com/large/2026/10/23073943b1eaca5.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stocks recover from Nvidia whiplash, dollar climbs with US yields",
+   "url": "https://www.brecorder.com/news/40448720/stocks-recover-from-nvidia-whiplash-dollar-climbs-with-us-yields",
+   "source": "Business Recorder",
+   "published": "2026-11-13T02:57:54+00:00",
+   "summary": "SINGAPORE: Stocks in Asia were on steadier footing on Friday after a turbulent week dominated by ​revelations of extramarital affairs involving Nvidia CEO Jensen Huang that culminated in his resignation, in a blow to the global AI boom he helped advance. US Treasury ‌yields climbed, with the 2-year yield hitting a one-…",
+   "image": "https://i.brecorder.com/large/2026/11/100748174e5b5cc.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar near 19-month high on Fed hike bets, yen tests 160",
+   "url": "https://www.brecorder.com/news/40448719/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160",
+   "source": "Business Recorder",
+   "published": "2026-11-13T02:53:27+00:00",
+   "summary": "SHANGHAI/SINGAPORE: The dollar held ​near a 19-month high on Friday after a strong week of gains on rising bets of ‌a larger Federal Reserve rate hike, pushing the Japanese yen back near the key 160 mark that has left traders on alert for intervention. Treasury yields rose after US President Donald Trump said the US do…",
+   "image": "https://i.brecorder.com/large/2026/11/13074911e122db2.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan car sales surge 48% in July-October",
@@ -259,12 +389,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: selling conintues, KSE-100 down nearly 1%",
-   "url": "https://www.brecorder.com/news/40448547/psx-selling-conintues-kse-100-down-nearly-1",
-   "source": "Business Recorder",
-   "published": "2026-11-12T14:12:17+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) saw selling pressure during the trading session on Thursday, with the benchmark KSE-100 Index losing nearly 1%. The market opened on a positive note, with the benchmark index initially gaining momentum and touching an intraday high of 180,310.44 points. However, the early buying moment…",
-   "image": "https://i.brecorder.com/large/2026/11/1009544600f3591.webp",
+   "title": "SBP reserves rise $11m to $21.6b",
+   "url": "https://tribune.com.pk/story/2639994/sbp-reserves-rise-11m-to-216b",
+   "source": "The Express Tribune",
+   "published": "2026-11-12T16:12:45+00:00",
+   "summary": "Total FX at $26.8b; gold sheds Rs15,800 in three sessions",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -308,97 +438,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar hits 7-month low, kiwi just above a 19-month trough",
-   "url": "https://www.brecorder.com/news/40448558/australian-dollar-hits-7-month-low-kiwi-just-above-a-19-month-trough",
-   "source": "Business Recorder",
-   "published": "2026-11-12T06:27:30+00:00",
-   "summary": "SYDNEY: The Australian dollar hit a seven-month low on Thursday as a resurgent greenback threatened to push the Aussie through a key support level and extend its slide, while the kiwi hovered near a 19-month trough. The Aussie slipped 0.1% to $0.6838, its weakest since March, after losing 0.3% on Wednesday. It is now p…",
-   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan inches higher as PBOC sets firmer guidance",
-   "url": "https://www.brecorder.com/news/40448555/chinas-yuan-inches-higher-as-pboc-sets-firmer-guidance",
-   "source": "Business Recorder",
-   "published": "2026-11-12T06:18:49+00:00",
-   "summary": "HONG KONG: China’s yuan ticked up against the dollar on Thursday after the country’s central bank set a stronger daily midpoint, though gains were capped by a firmer greenback amid rising bets for a Federal Reserve rate hike. The spot yuan was 0.1% higher at 6.6684 to the dollar as of 0323 GMT, after trading in a range…",
-   "image": "https://i.brecorder.com/large/2026/11/111145396416c30.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls to over one-week low on firm dollar, Fed rate hike bets",
-   "url": "https://www.brecorder.com/news/40448551/gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets",
-   "source": "Business Recorder",
-   "published": "2026-11-12T06:05:55+00:00",
-   "summary": "Gold prices fell on Thursday , touching a more than one-week low, after stronger-than-expected US inflation data and hawkish remarks from Federal Reserve officials boosted the dollar and cemented expectations of an interest-rate hike next month. Spot gold fell 0.2% to $3,977.99 per ounce by 0506 GMT, after touching its…",
-   "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "KSE-100 sheds over 1,700 points amid uncertainty",
-   "url": "https://tribune.com.pk/story/2639915/psx-sheds-1492-points-as-selling-hits-heavyweights",
-   "source": "The Express Tribune",
-   "published": "2026-11-12T03:23:08+00:00",
-   "summary": "Political, global tensions drag PSX down",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar rises to 19-month high as Fed hike bets grow, yen softens",
-   "url": "https://www.brecorder.com/news/40448544/dollar-rises-to-19-month-high-as-fed-hike-bets-grow-yen-softens",
-   "source": "Business Recorder",
-   "published": "2026-11-12T03:21:54+00:00",
-   "summary": "TOKYO: The dollar climbed to a 19-month high against major peers on Thursday , supported ‌by growing expectations of a Federal Reserve rate hike, while the yen edged toward the key 160-per-dollar level following a dovish central banker’s speech. Traders ramped up bets on further Fed tightening after stronger-than-expec…",
-   "image": "https://i.brecorder.com/large/2026/11/12082140ab3c619.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Revival in foreign flows to back Indian rupee, dollar strength offers resistance",
-   "url": "https://www.brecorder.com/news/40448542/revival-in-foreign-flows-to-back-indian-rupee-dollar-strength-offers-resistance",
-   "source": "Business Recorder",
-   "published": "2026-11-12T03:13:35+00:00",
-   "summary": "MUMBAI: The Indian rupee is set to open largely flat on Thursday , with the ongoing revival in foreign equity inflows providing ​a counterweight to a resurgent dollar that has advanced ‌to a one-month high. The Indian rupee is expected to open in the 93.68 to 93.74 range, having settled at 93.69 to the dollar on Wednes…",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "AOOA accuses foreign airlines of moving $2.4b out of Pakistan annually",
-   "url": "https://tribune.com.pk/story/2639899/aooa-accuses-foreign-airlines-of-moving-24b-out-of-pakistan-annually",
-   "source": "The Express Tribune",
-   "published": "2026-11-12T01:34:26+00:00",
-   "summary": "Calls for five-year forensic tax audit of all airlines operating in Pakistan, restrictions on offshore ticket payments",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
