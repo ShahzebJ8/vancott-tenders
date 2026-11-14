@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T10:50:56+00:00",
+ "generated": "2026-11-14T16:53:45+00:00",
  "count": 969,
  "with_value": 926,
  "with_winner": 342,
@@ -18440,6 +18440,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005135",
+   "tender_no": "TS0000009077E",
+   "reference": "IFB No. 03/2026-27",
+   "title": "Provision of Security Services for AIOU Main Campus Islamabad and Regional Centres Services",
+   "organisation": "Higher Education Commission (HEC) Directorate of Purchase &#38; Stores, Allama Iqbal Open University, Islamabad - Pakistan",
+   "bid_count": 8,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-14",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005135",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005134",
    "tender_no": "TS0000012013E",
@@ -57507,26 +57525,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003039",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003038",
-   "tender_no": "TS0000009510E",
-   "reference": "NCB-STG-04 and NCB-STG-05",
-   "title": "220 kV (EA & EG) Towers and Leg Extensions Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) GEPCO Gujranwala - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "As per details attached"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-29",
-   "city": "Gujranwala",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003038",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
