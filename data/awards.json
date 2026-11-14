@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T03:30:45+00:00",
+ "generated": "2026-11-14T10:50:56+00:00",
  "count": 969,
  "with_value": 926,
  "with_winner": 342,
@@ -18440,6 +18440,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005134",
+   "tender_no": "TS0000012013E",
+   "reference": "(86/27)",
+   "title": "(86/27) HIRING OF CONSULTANT FOR THE STUDY ON THE TECHNICAL/FINANCIAL IMPACT OF DISTRIBUTED SOLAR PHOTOVOLTAIC (PV) INTEGRATION ON DISTRIBUTION UTILITY OPERATIONS AND INFRASTRUCTURES Electrical Items Ministry of Energy (Power Division)",
+   "organisation": "Ministry of Energy (Power Division) MEPCO Multan - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-14",
+   "city": "Multan",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005134",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005133",
    "tender_no": "TS0000017139E",
@@ -57509,26 +57527,6 @@
    "city": "Gujranwala",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003038",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003037",
-   "tender_no": "TS0000009433E",
-   "reference": "NCB-STG-1 to NCB-STG-3",
-   "title": "Power Cable(s), Control Cable(s), Grounding 95mm Conductor and All 600mm Conductor Electrical Items",
-   "organisation": "Ministry of Energy (Power Division) GEPCO Gujranwala - Pakistan",
-   "bid_count": 9,
-   "lowest": [
-    "As per details attached"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-29",
-   "city": "Gujranwala",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003037",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

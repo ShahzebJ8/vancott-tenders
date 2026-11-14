@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-14T03:31:11+00:00",
- "count": 50,
- "relevant_count": 16,
- "domestic_count": 23,
+ "generated": "2026-11-14T10:51:22+00:00",
+ "count": 41,
+ "relevant_count": 14,
+ "domestic_count": 16,
  "sources": {
   "Dawn": "ok (11)",
-  "Business Recorder": "ok (18)",
+  "Business Recorder": "ok (17)",
   "The Express Tribune": "ok (7)",
   "ARY News": "error: RuntimeError"
  },
@@ -89,59 +89,6 @@
    "domestic": true
   },
   {
-   "title": "PRA promoting digital payments",
-   "url": "https://www.brecorder.com/news/40448811/pra-promoting-digital-payments",
-   "source": "Business Recorder",
-   "published": "2026-11-14T01:45:21+00:00",
-   "summary": "LAHORE: The Punjab Revenue Authority (PRA) is set to launch a reward scheme for customers of hotels and restaurants who pay digitally, as part of a push to promote electronic payments and a culture of tax compliance. The decision was made at a meeting on digital monitoring and database management, chaired by PRA Chairm…",
-   "image": "https://i.brecorder.com/large/2026/01/04001332b38742f.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "PDWP approves 19 schemes worth Rs126.668bn",
-   "url": "https://www.brecorder.com/news/40448810/pdwp-approves-19-schemes-worth-rs126668bn",
-   "source": "Business Recorder",
-   "published": "2026-11-14T01:44:22+00:00",
-   "summary": "LAHORE: The Provincial Development Working Party (PDWP) has approved 19 development schemes worth Rs 126.668 billion in various sectors, including healthcare, education, infrastructure, traffic management and industrial development. The 13th meeting of the PDWP was held under the chairmanship of Dr Naeem Rauf, Chairman…",
-   "image": "https://i.brecorder.com/large/2024/09/66e4ee6eec9e7.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "1QFY27: Fiscal surplus plunges 40pc YoY",
-   "url": "https://www.brecorder.com/news/40448853/1qfy27-fiscal-surplus-plunges-40pc-yoy",
-   "source": "Business Recorder",
-   "published": "2026-11-14T01:19:15+00:00",
-   "summary": "ISLAMABAD: Pakistan’s fiscal surplus plunged 40 percent year-on-year to Rs1.273.7 trillion, or 0.9 percent of GDP, in the first quarter of fiscal year 2026-27, against the comparable period the year before. The International Monetary Fund has projected negative 3.5 percent (excluding grants) under the ongoing USD 7 bil…",
-   "image": "https://i.brecorder.com/large/2023/09/081201240141aa6.png",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Chinese company outlines plans for business expansion",
-   "url": "https://www.brecorder.com/news/40448869/chinese-company-outlines-plans-for-business-expansion",
-   "source": "Business Recorder",
-   "published": "2026-11-14T00:53:23+00:00",
-   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, met with George Zhu, founder and Chairman of Transsion Holdings, a multibillion dollar conglomerate in China, along with his delegation, to discuss the company’s ongoing operations in Pakistan, future investment plans and opportunities to …",
-   "image": "https://i.brecorder.com/large/2025/02/1701531849f500b.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Fiscal surplus shrinks 40pc as revenues decline",
    "url": "https://www.dawn.com/news/2044374/fiscal-surplus-shrinks-40pc-as-revenues-decline",
    "source": "Dawn",
@@ -156,54 +103,14 @@
    "domestic": true
   },
   {
-   "title": "FBR splits tax depts in major organisational changes",
-   "url": "https://www.brecorder.com/news/40448861/fbr-splits-tax-depts-in-major-organisational-changes",
-   "source": "Business Recorder",
-   "published": "2026-11-14T00:08:51+00:00",
-   "summary": "ISLAMABAD: In an extraordinary development late Friday night, the Federal Board of Revenue (FBR) has separated sales tax/federal excise duty and income tax departments against the spirit of reforms, integration and harmonisation of taxes. In this regard, the FBR on Friday transferred and posted 54 Inland Revenue offici…",
-   "image": "https://i.brecorder.com/large/2025/02/24042149f2fc4e7.jpg",
+   "title": "FBR test exposes capability gaps in Karachi officers",
+   "url": "https://tribune.com.pk/story/2640186/fbr-test-exposes-capability-gaps-in-karachi-officers",
+   "source": "The Express Tribune",
+   "published": "2026-11-13T16:37:23+00:00",
+   "summary": "No sales tax officer hits 60% benchmark; only 4 clear both taxes",
+   "image": null,
    "topics": [
     "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Chinese steel products: NTC extends anti-dumping duty",
-   "url": "https://www.brecorder.com/news/40448862/chinese-steel-products-ntc-extends-anti-dumping-duty",
-   "source": "Business Recorder",
-   "published": "2026-11-14T00:08:51+00:00",
-   "summary": "ISLAMABAD: The National Tariff Commission (NTC) has extended the existing anti-dumping duty of 40.47 percent on imports of Galvalume Steel Coils/Sheets originating in or exported from China, bringing the aluminium-zinc coated steel products under the same trade protection applicable to Chinese galvanized steel imports.…",
-   "image": "https://i.brecorder.com/large/2025/11/690948d834d26.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Used car scheme for expats: MoC seeks strict enforcement of non-transfer condition",
-   "url": "https://www.brecorder.com/news/40448863/used-car-scheme-for-expats-moc-seeks-strict-enforcement-of-non-transfer-condition",
-   "source": "Business Recorder",
-   "published": "2026-11-14T00:08:51+00:00",
-   "summary": "ISLAMABAD: The Ministry of Commerce has sought strict enforcement of a one-year non-transfer condition on vehicles imported under used-car schemes for overseas Pakistanis, warning that misuse of these facilities for commercial vehicle trading could undermine the government’s policy safeguards. In letters to Provincial …",
-   "image": "https://i.brecorder.com/large/2025/09/1711273732ca745.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Q1 govt debt falls by Rs937bn on cut in domestic borrowing",
-   "url": "https://www.brecorder.com/news/40448867/q1-govt-debt-falls-by-rs937bn-on-cut-in-domestic-borrowing",
-   "source": "Business Recorder",
-   "published": "2026-11-14T00:08:51+00:00",
-   "summary": "KARACHI: Pakistan’s central government debt declined sharply by Rs936.6 billion during the first quarter (July-September) of this fiscal year (FY27), mainly due to a reduction in domestic borrowing, despite an increase in external debt. According to State Bank of Pakistan (SBP), with a decline of 1.12 percent, the cent…",
-   "image": "https://i.brecorder.com/large/2021/11/619f26f23475f.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
    ],
    "relevant": true,
    "domestic": true
@@ -314,11 +221,24 @@
    "domestic": true
   },
   {
-   "title": "US lifts nationwide flight shutdown caused by communications failure",
-   "url": "https://www.brecorder.com/news/40448889/us-lifts-nationwide-flight-shutdown-caused-by-communications-failure",
+   "title": "BOE likely to raise rates further in 2027, Pill tells FT",
+   "url": "https://www.brecorder.com/news/40448899/boe-likely-to-raise-rates-further-in-2027-pill-tells-ft",
    "source": "Business Recorder",
-   "published": "2026-11-14T02:40:21+00:00",
-   "summary": "WASHINGTON: The US Federal Aviation Administration lifted a nationwide ground stop on Friday after a communications failure at air traffic control centers caused chaos at airports and triggered the longest nationwide shutdown since the September 11, 2001, attacks. More than 4,700 flights were canceled and 10,000 delaye…",
+   "published": "2026-11-14T07:15:51+00:00",
+   "summary": "The Bank of England will probably need to raise interest rates further in 2027, over and above an increase at the next meeting ​in December, to combat inflation, Bank of England Chief Economist Huw Pill ‌told the Financial Times in an interview published on Saturday. Britain’s central bank raised interest rates to 4% f…",
+   "image": "https://i.brecorder.com/large/2023/02/02174858edbcbec.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US to resume flights after air traffic network failure sparks chaos",
+   "url": "https://www.brecorder.com/news/40448889/us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos",
+   "source": "Business Recorder",
+   "published": "2026-11-14T05:27:33+00:00",
+   "summary": "WASHINGTON: The FAA lifted a nationwide ground stop on Friday after a communications failure at air traffic control centers caused chaos at US airports and triggered the longest shutdown since the September 11, 2001, attacks. Transportation Secretary Sean Duffy said US airspace reopened at 8:15 p.m. Eastern Time (0115 …",
    "image": "https://i.brecorder.com/large/2026/11/14073754c50a396.webp",
    "topics": [
     "Construction & projects"
@@ -333,6 +253,46 @@
    "published": "2026-11-14T00:26:33+00:00",
    "summary": "PARIS: Global oil supplies are expected to exceed demand in the fourth quarter, after increased Gulf exports led to a market surplus in October for the first time since the Iran war, the International Energy Agency said on Friday. Even though attacks on tankers trying to transit the Strait of Hormuz have continued, Gul…",
    "image": "https://i.dawn.com/large/2026/03/161857086a9d62c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt to levy up to 10% ADL on ICE vehicles",
+   "url": "https://tribune.com.pk/story/2640182/govt-to-levy-up-to-10-adl-on-ice-vehicles",
+   "source": "The Express Tribune",
+   "published": "2026-11-13T16:37:23+00:00",
+   "summary": "NEVs retain lower sales tax, while SBP may raise vehicle financing limit to Rs10m",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Govt meets IMF fiscal conditions",
+   "url": "https://tribune.com.pk/story/2640179/govt-meets-imf-fiscal-conditions",
+   "source": "The Express Tribune",
+   "published": "2026-11-13T16:37:23+00:00",
+   "summary": "Centre receives only Rs57.5b, or 6% of annual provincial grant",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SPI inflation stays in double digits at 11.21%",
+   "url": "https://tribune.com.pk/story/2640181/spi-inflation-stays-in-double-digits-at-1121",
+   "source": "The Express Tribune",
+   "published": "2026-11-13T16:37:23+00:00",
+   "summary": "LPG prices surge 111.35%, tomatoes 78.94% YoY",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -418,19 +378,6 @@
    "domestic": false
   },
   {
-   "title": "Pakistan announces 13 mineral cooperation deals",
-   "url": "https://tribune.com.pk/story/2640146/pakistan-announces-13-mineral-cooperation-deals",
-   "source": "The Express Tribune",
-   "published": "2026-11-13T09:32:04+00:00",
-   "summary": "Deals part of efforts to move away from exporting raw materials, unprocessed minerals",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Thai baht/US dollar steady on Friday",
    "url": "https://www.brecorder.com/news/40448744/thai-bahtus-dollar-steady-on-friday",
    "source": "Business Recorder",
@@ -509,19 +456,6 @@
    "domestic": false
   },
   {
-   "title": "PSX climbs over 1,000 points by Friday midday break",
-   "url": "https://tribune.com.pk/story/2640105/psx-climbs-over-1000-points-by-friday-midday-break",
-   "source": "The Express Tribune",
-   "published": "2026-11-13T03:44:14+00:00",
-   "summary": "KSE-100 rebounds as banks, energy stocks lift index 0.6% ahead of prayers",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Indian rupee faltering rally faces returning oil pressure, surging US yields",
    "url": "https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields",
    "source": "Business Recorder",
@@ -541,32 +475,6 @@
    "published": "2026-11-13T03:22:07+00:00",
    "summary": "WASHINGTON/SAN FRANCISCO: Colette Kress spent years as the one Nvidia executive willing to check CEO Jensen Huang’s enormous, often risky ​ambitions. As he drove the chipmaker deeper into multibillion-dollar AI investments, she pushed back, according to two people familiar with the matter on Thursday. Now the 59-year-o…",
    "image": "https://i.brecorder.com/large/2026/11/12223603f982e29.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian shares likely to open flat as oil surge counters strong foreign inflows",
-   "url": "https://www.brecorder.com/news/40448722/indian-shares-likely-to-open-flat-as-oil-surge-counters-strong-foreign-inflows",
-   "source": "Business Recorder",
-   "published": "2026-11-13T03:04:25+00:00",
-   "summary": "Indian equity benchmarks are expected to remain in consolidation mode on Friday following recent gains, as sustained foreign institutional inflows offer support while rising Brent crude prices and ​elevated domestic inflation weigh on sentiment. GIFT Nifty futures were at 25,267.5, as of ‌7:13 a.m. IST, indicating a mu…",
-   "image": "https://i.brecorder.com/large/2026/10/23073943b1eaca5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Stocks recover from Nvidia whiplash, dollar climbs with US yields",
-   "url": "https://www.brecorder.com/news/40448720/stocks-recover-from-nvidia-whiplash-dollar-climbs-with-us-yields",
-   "source": "Business Recorder",
-   "published": "2026-11-13T02:57:54+00:00",
-   "summary": "SINGAPORE: Stocks in Asia were on steadier footing on Friday after a turbulent week dominated by ​revelations of extramarital affairs involving Nvidia CEO Jensen Huang that culminated in his resignation, in a blow to the global AI boom he helped advance. US Treasury ‌yields climbed, with the 2-year yield hitting a one-…",
-   "image": "https://i.brecorder.com/large/2026/11/100748174e5b5cc.webp",
    "topics": [
     "Economy"
    ],
@@ -623,32 +531,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX jumps 5,449 points in spectacular rally",
-   "url": "https://tribune.com.pk/story/2639658/psx-jumps-5449-points-in-spectacular-rally",
-   "source": "The Express Tribune",
-   "published": "2026-11-10T16:45:28+00:00",
-   "summary": "Remittances, oil price fall, easing ME tensions bolster investor interest",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan to produce FMD vaccines in a year",
-   "url": "https://tribune.com.pk/story/2639659/pakistan-to-produce-fmd-vaccines-in-a-year",
-   "source": "The Express Tribune",
-   "published": "2026-11-10T16:45:28+00:00",
-   "summary": "Intends to export meat to Turkiye, strengthen cooperation",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
