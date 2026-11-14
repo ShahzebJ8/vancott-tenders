@@ -1,15 +1,213 @@
 {
- "generated": "2026-11-13T23:26:09+00:00",
- "count": 43,
- "relevant_count": 9,
- "domestic_count": 14,
+ "generated": "2026-11-14T03:31:11+00:00",
+ "count": 50,
+ "relevant_count": 16,
+ "domestic_count": 23,
  "sources": {
-  "Dawn": "ok (12)",
+  "Dawn": "ok (11)",
   "Business Recorder": "ok (18)",
   "The Express Tribune": "ok (7)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Sindh plans one-window for builders at ABAD House",
+   "url": "https://www.dawn.com/news/2044370/sindh-plans-one-window-for-builders-at-abad-house",
+   "source": "Dawn",
+   "published": "2026-11-14T03:21:03+00:00",
+   "summary": "KARACHI: Sindh Minister for Local Government Syed Nasir Hussain Shah has said the government is committed to providing a conducive business environment and creating investment opportunities, particularly in the construction industry. Inaugurating the three-day ABAD In-House Exhibition of construction products on Friday…",
+   "image": "https://i.dawn.com/large/2026/11/1408201344a8106.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PIDE holds moot: Speakers for export-oriented approach to trade accords",
+   "url": "https://www.brecorder.com/news/40448885/pide-holds-moot-speakers-for-export-oriented-approach-to-trade-accords",
+   "source": "Business Recorder",
+   "published": "2026-11-14T02:16:21+00:00",
+   "summary": "ISLAMABAD: Speakers at a roundtable conference on Friday called for an export-oriented approach to the country’s trade agreements, noting that imports from regional trade agreement (RTA) partners had grown much faster than exports since 2000. They stressed that the government must renegotiate existing agreements to sec…",
+   "image": "https://i.brecorder.com/large/2025/06/6853522291c8b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PHMA welcomes Rs300bn export finance reserve for SMEs",
+   "url": "https://www.brecorder.com/news/40448883/phma-welcomes-rs300bn-export-finance-reserve-for-smes",
+   "source": "Business Recorder",
+   "published": "2026-11-14T02:12:25+00:00",
+   "summary": "KARACHI: The Pakistan Hosiery Manufacturers & Exporters Association (PHMA) has welcomed the government’s decision to reserve Rs300 billion exclusively for small and medium enterprises (SMEs) under the Pak EXIM-administered Export Finance Scheme (E-EFS) for FY2026–27. PHMA Chairman Syed Zia Alamdar Hussain said the deci…",
+   "image": "https://i.brecorder.com/large/2021/07/60e8beace7ef9.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR to assess IRS officials’ capabilities on 17th",
+   "url": "https://www.brecorder.com/news/40448881/fbr-to-assess-irs-officials-capabilities-on-17th",
+   "source": "Business Recorder",
+   "published": "2026-11-14T02:02:08+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue’s (FBR) ‘training needs assessment’ will be conducted in Lahore next Tuesday (November 17), following the completion of assessments in Islamabad and Karachi to evaluate the sales tax and income tax capabilities of Inland Revenue officials working in Grade-17 and above. A senior F…",
+   "image": "https://i.brecorder.com/large/2025/01/679416864af29.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Data shows gender workforce disparity in FBR",
+   "url": "https://www.brecorder.com/news/40448879/data-shows-gender-workforce-disparity-in-fbr",
+   "source": "Business Recorder",
+   "published": "2026-11-14T01:54:35+00:00",
+   "summary": "ISLAMABAD: Women account for only 9.55 percent of the total filled positions in the Federal Board of Revenue (FBR), while men occupy more than 90 percent of the workforce, highlighting a significant gender imbalance in the country’s tax administration. According to gender-wise data on actual filled posts in the FBR, th…",
+   "image": "https://i.brecorder.com/large/2022/09/631651d61b11f.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PSW & Alibaba.com to roll out ‘trade data confirmation service’",
+   "url": "https://www.brecorder.com/news/40448877/psw-amp-alibabacom-to-roll-out-trade-data-confirmation-service",
+   "source": "Business Recorder",
+   "published": "2026-11-14T01:50:52+00:00",
+   "summary": "ISLAMABAD: Pakistan Single Window (PSW) and Alibaba.com have signed an agreement to introduce a digital Trade Data Confirmation Service, combining PSW’s digital trade infrastructure with Alibaba.com’s global B2B marketplace to strengthen trust and facilitate Pakistani businesses’ participation in international e-commer…",
+   "image": "https://i.brecorder.com/large/2024/07/668f2640e3797.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PRA promoting digital payments",
+   "url": "https://www.brecorder.com/news/40448811/pra-promoting-digital-payments",
+   "source": "Business Recorder",
+   "published": "2026-11-14T01:45:21+00:00",
+   "summary": "LAHORE: The Punjab Revenue Authority (PRA) is set to launch a reward scheme for customers of hotels and restaurants who pay digitally, as part of a push to promote electronic payments and a culture of tax compliance. The decision was made at a meeting on digital monitoring and database management, chaired by PRA Chairm…",
+   "image": "https://i.brecorder.com/large/2026/01/04001332b38742f.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PDWP approves 19 schemes worth Rs126.668bn",
+   "url": "https://www.brecorder.com/news/40448810/pdwp-approves-19-schemes-worth-rs126668bn",
+   "source": "Business Recorder",
+   "published": "2026-11-14T01:44:22+00:00",
+   "summary": "LAHORE: The Provincial Development Working Party (PDWP) has approved 19 development schemes worth Rs 126.668 billion in various sectors, including healthcare, education, infrastructure, traffic management and industrial development. The 13th meeting of the PDWP was held under the chairmanship of Dr Naeem Rauf, Chairman…",
+   "image": "https://i.brecorder.com/large/2024/09/66e4ee6eec9e7.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "1QFY27: Fiscal surplus plunges 40pc YoY",
+   "url": "https://www.brecorder.com/news/40448853/1qfy27-fiscal-surplus-plunges-40pc-yoy",
+   "source": "Business Recorder",
+   "published": "2026-11-14T01:19:15+00:00",
+   "summary": "ISLAMABAD: Pakistan’s fiscal surplus plunged 40 percent year-on-year to Rs1.273.7 trillion, or 0.9 percent of GDP, in the first quarter of fiscal year 2026-27, against the comparable period the year before. The International Monetary Fund has projected negative 3.5 percent (excluding grants) under the ongoing USD 7 bil…",
+   "image": "https://i.brecorder.com/large/2023/09/081201240141aa6.png",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Chinese company outlines plans for business expansion",
+   "url": "https://www.brecorder.com/news/40448869/chinese-company-outlines-plans-for-business-expansion",
+   "source": "Business Recorder",
+   "published": "2026-11-14T00:53:23+00:00",
+   "summary": "ISLAMABAD: Federal Minister for Finance and Revenue, Senator Muhammad Aurangzeb, met with George Zhu, founder and Chairman of Transsion Holdings, a multibillion dollar conglomerate in China, along with his delegation, to discuss the company’s ongoing operations in Pakistan, future investment plans and opportunities to …",
+   "image": "https://i.brecorder.com/large/2025/02/1701531849f500b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Fiscal surplus shrinks 40pc as revenues decline",
+   "url": "https://www.dawn.com/news/2044374/fiscal-surplus-shrinks-40pc-as-revenues-decline",
+   "source": "Dawn",
+   "published": "2026-11-14T00:26:33+00:00",
+   "summary": "• Primary surplus drops to 2.1pc of GDP from 2.8pc last year • Revenue falls despite higher tax collections; interest payments jump 23pc • Provincial cash surpluses shrink 23pc; Balochistan posts deficit ISLAMABAD: Pakistan’s fiscal buffers weakened in the first quarter of the current fiscal year despite expenditure co…",
+   "image": "https://i.dawn.com/large/2026/11/14081328a414a93.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR splits tax depts in major organisational changes",
+   "url": "https://www.brecorder.com/news/40448861/fbr-splits-tax-depts-in-major-organisational-changes",
+   "source": "Business Recorder",
+   "published": "2026-11-14T00:08:51+00:00",
+   "summary": "ISLAMABAD: In an extraordinary development late Friday night, the Federal Board of Revenue (FBR) has separated sales tax/federal excise duty and income tax departments against the spirit of reforms, integration and harmonisation of taxes. In this regard, the FBR on Friday transferred and posted 54 Inland Revenue offici…",
+   "image": "https://i.brecorder.com/large/2025/02/24042149f2fc4e7.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Chinese steel products: NTC extends anti-dumping duty",
+   "url": "https://www.brecorder.com/news/40448862/chinese-steel-products-ntc-extends-anti-dumping-duty",
+   "source": "Business Recorder",
+   "published": "2026-11-14T00:08:51+00:00",
+   "summary": "ISLAMABAD: The National Tariff Commission (NTC) has extended the existing anti-dumping duty of 40.47 percent on imports of Galvalume Steel Coils/Sheets originating in or exported from China, bringing the aluminium-zinc coated steel products under the same trade protection applicable to Chinese galvanized steel imports.…",
+   "image": "https://i.brecorder.com/large/2025/11/690948d834d26.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Used car scheme for expats: MoC seeks strict enforcement of non-transfer condition",
+   "url": "https://www.brecorder.com/news/40448863/used-car-scheme-for-expats-moc-seeks-strict-enforcement-of-non-transfer-condition",
+   "source": "Business Recorder",
+   "published": "2026-11-14T00:08:51+00:00",
+   "summary": "ISLAMABAD: The Ministry of Commerce has sought strict enforcement of a one-year non-transfer condition on vehicles imported under used-car schemes for overseas Pakistanis, warning that misuse of these facilities for commercial vehicle trading could undermine the government’s policy safeguards. In letters to Provincial …",
+   "image": "https://i.brecorder.com/large/2025/09/1711273732ca745.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Q1 govt debt falls by Rs937bn on cut in domestic borrowing",
+   "url": "https://www.brecorder.com/news/40448867/q1-govt-debt-falls-by-rs937bn-on-cut-in-domestic-borrowing",
+   "source": "Business Recorder",
+   "published": "2026-11-14T00:08:51+00:00",
+   "summary": "KARACHI: Pakistan’s central government debt declined sharply by Rs936.6 billion during the first quarter (July-September) of this fiscal year (FY27), mainly due to a reduction in domestic borrowing, despite an increase in external debt. According to State Bank of Pakistan (SBP), with a decline of 1.12 percent, the cent…",
+   "image": "https://i.brecorder.com/large/2021/11/619f26f23475f.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40448764/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -24,39 +222,12 @@
    "domestic": true
   },
   {
-   "title": "PSW, Alibaba.com partner to boost trust in global e-commerce, support Pakistani exporters",
-   "url": "https://www.brecorder.com/news/40448777/psw-alibabacom-partner-to-boost-trust-in-global-e-commerce-support-pakistani-exporters",
-   "source": "Business Recorder",
-   "published": "2026-11-13T13:50:57+00:00",
-   "summary": "Pakistan Single Window (PSW) and Alibaba.com have signed an agreement to introduce a digital Trade Data Confirmation Service, combining PSW’s digital trade infrastructure with Alibaba.com’s global B2B marketplace to help strengthen trust and facilitate Pakistani businesses’ participation in international e-commerce, a …",
-   "image": "https://i.brecorder.com/large/2025/07/02201817417836a.jpg",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Short-term inflation clocks in at 11.21pc",
    "url": "https://www.dawn.com/news/2044292/short-term-inflation-clocks-in-at-1121pc",
    "source": "Dawn",
    "published": "2026-11-13T11:40:00+00:00",
    "summary": "ISLAMABAD: Short-term inflation rose to 11.21 per cent year-on-year in the week ending on Nov 12, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items, whose prices are collected from 50 markets in 17 cities,…",
    "image": "https://i.dawn.com/large/2026/11/131630490c67373.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Islamabad set to become Pakistan’s first fully cashless city by Dec 31",
-   "url": "https://www.brecorder.com/news/40448761/islamabad-set-to-become-pakistans-first-fully-cashless-city-by-dec-31",
-   "source": "Business Recorder",
-   "published": "2026-11-13T10:59:45+00:00",
-   "summary": "The government has decided to make Islamabad the country’s first fully cashless city, with December 31 set as the deadline. Chairing a meeting in Islamabad, Minister of State for Interior Talal Chaudhry on Friday said consultation and suggestions of all stakeholders are important for the successful implementation of th…",
-   "image": "https://i.brecorder.com/large/2026/11/13155301fab5ae7.webp",
    "topics": [
     "Economy"
    ],
@@ -143,90 +314,25 @@
    "domestic": true
   },
   {
-   "title": "Remittances increase 14pc to $14.8bn in four months",
-   "url": "https://www.dawn.com/news/2043625/remittances-increase-14pc-to-148bn-in-four-months",
-   "source": "Dawn",
-   "published": "2026-11-11T03:59:42+00:00",
-   "summary": "KARACHI: Workers’ remittances increased by 13.8 per cent year-on-year in October, taking cumulative growth to 14pc in the first four months of FY27 and putting inflows on track to meet the State Bank’s annual target of $45 billion. According to the State Bank of Pakistan (SBP) data released on Tuesday, the country rece…",
-   "image": "https://i.dawn.com/large/2026/05/12075044db6fae0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Millers demand market-driven wheat policy, targeted subsidy",
-   "url": "https://www.dawn.com/news/2043611/millers-demand-market-driven-wheat-policy-targeted-subsidy",
-   "source": "Dawn",
-   "published": "2026-11-11T01:28:30+00:00",
-   "summary": "LAHORE: The Progressive group of the Pakistan Flour Mills Association (PFMA) has urged the government to adopt a market-driven wheat policy and replace untargeted flour subsidies with direct financial assistance to low-income households to eliminate severe market distortions. Frequent shifts in government policy – rang…",
-   "image": "https://i.dawn.com/large/2026/04/07104627e5ecb95.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR ordered to explain huge Fata tax waivers",
-   "url": "https://www.dawn.com/news/2043630/fbr-ordered-to-explain-huge-fata-tax-waivers",
-   "source": "Dawn",
-   "published": "2026-11-11T01:28:03+00:00",
-   "summary": "ISLAMABAD: A Senate subcommittee on Tuesday directed the Federal Board of Revenue (FBR) to present complete records of consumption certificates, payments and verification documents at an in-camera meeting on Nov 16. The committee is investigating the alleged misuse of the Fata/Pata tax exemption scheme, involving impor…",
-   "image": "https://i.dawn.com/large/2025/10/23075746ef8541a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "184 kinnow exporters get access to Uzbek market",
-   "url": "https://www.dawn.com/news/2043624/184-kinnow-exporters-get-access-to-uzbek-market",
-   "source": "Dawn",
-   "published": "2026-11-11T01:28:03+00:00",
-   "summary": "ISLAMABAD: In a maj­or development, Uzbekis­t­an’s Food Safety Commit­tee has approved 184 Pakistani kinnow exporters and 39 packhouses to access the Uzbek market. The approval comes ahe­ad of the upcoming kinnow export season, according to an official announcement issued on Tuesday. The de­­velopment is particularly s…",
-   "image": "https://i.dawn.com/large/2026/11/11042047ef4a9d9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Fed's Collins says more rate hikes are coming, reports",
-   "url": "https://www.brecorder.com/news/40448787/feds-collins-says-more-rate-hikes-are-coming-reports",
+   "title": "US lifts nationwide flight shutdown caused by communications failure",
+   "url": "https://www.brecorder.com/news/40448889/us-lifts-nationwide-flight-shutdown-caused-by-communications-failure",
    "source": "Business Recorder",
-   "published": "2026-11-13T16:40:59+00:00",
-   "summary": "NEW YORK: Boston Federal Reserve President Susan Collins said on Friday that tighter monetary policy is coming because of high inflation, in comments that suggested the US central bank may have to raise interest rates more than she initially expected. “I think it’s clear the direction that monetary policy needs to go a…",
-   "image": "https://i.brecorder.com/large/2026/11/0621115110a51cc.jpg",
+   "published": "2026-11-14T02:40:21+00:00",
+   "summary": "WASHINGTON: The US Federal Aviation Administration lifted a nationwide ground stop on Friday after a communications failure at air traffic control centers caused chaos at airports and triggered the longest nationwide shutdown since the September 11, 2001, attacks. More than 4,700 flights were canceled and 10,000 delaye…",
+   "image": "https://i.brecorder.com/large/2026/11/14073754c50a396.webp",
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt extends deadline for civil servants to digitally declare assets to Nov 30",
-   "url": "https://www.brecorder.com/news/40448778/govt-extends-deadline-for-civil-servants-to-digitally-declare-assets-to-nov-30",
-   "source": "Business Recorder",
-   "published": "2026-11-13T14:22:24+00:00",
-   "summary": "The federal government has extended the deadline for civil servants to digitally submit their declarations of assets for financial year 2025-26 through the Federal Board of Revenue (FBR) portal to November 30, 2026. According to an Office Memorandum issued by the Establishment Division, 2026, the extension has been gra…",
-   "image": "https://i.brecorder.com/large/2026/11/131917324cc8762.webp",
-   "topics": [
-    "Budget & spending"
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "India's October trade deficit hits one-year high of $39.88 billion as gold imports jump",
-   "url": "https://www.brecorder.com/news/40448780/indias-october-trade-deficit-hits-one-year-high-of-3988-billion-as-gold-imports-jump",
-   "source": "Business Recorder",
-   "published": "2026-11-13T14:18:11+00:00",
-   "summary": "NEW DELHI: India’s merchandise trade deficit widened to a one-year high of $39.88 billion in October, exceeding forecasts as festive-season gold purchases and higher energy costs drove up imports. The deficit topped the $32.25 billion forecast in a Reuters poll and widened from $30.21 billion in September. The trade de…",
-   "image": "https://i.brecorder.com/large/2026/02/21005321c9e3ac7.webp",
+   "title": "Oil supply to surpass demand: IEA",
+   "url": "https://www.dawn.com/news/2044369/oil-supply-to-surpass-demand-iea",
+   "source": "Dawn",
+   "published": "2026-11-14T00:26:33+00:00",
+   "summary": "PARIS: Global oil supplies are expected to exceed demand in the fourth quarter, after increased Gulf exports led to a market surplus in October for the first time since the Iran war, the International Energy Agency said on Friday. Even though attacks on tankers trying to transit the Strait of Hormuz have continued, Gul…",
+   "image": "https://i.dawn.com/large/2026/03/161857086a9d62c.webp",
    "topics": [
     "Economy"
    ],
@@ -253,19 +359,6 @@
    "published": "2026-11-13T12:46:07+00:00",
    "summary": "Stock markets in the United Arab Emirates closed lower on Friday, with industrial and financial stocks leading the decline as corporate earnings fell short of market expectations. Dubai’s main market index declined 0.6%, retreating from a near five-month high touched in the previous session. Blue-chip developer Emaar P…",
    "image": "https://i.brecorder.com/large/2023/10/6520abbe6ce6e.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Tecno, Infinix maker eyes component manufacturing in Pakistan",
-   "url": "https://www.brecorder.com/news/40448773/tecno-infinix-maker-eyes-component-manufacturing-in-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-11-13T11:56:35+00:00",
-   "summary": "Chinese conglomerate Transsion Holdings has discussed expanding its manufacturing operations in Pakistan beyond smartphone assembly towards component manufacturing and deeper localisation. Finance Minister Muhammad Aurangzeb met with George Zhu, Founder and Chairman of Transsion Holdings, a multibillion-dollar conglome…",
-   "image": "https://i.brecorder.com/large/2026/11/13165507b3e3da6.webp",
    "topics": [
     "Economy"
    ],
