@@ -1,15 +1,41 @@
 {
- "generated": "2026-11-15T01:14:50+00:00",
- "count": 43,
- "relevant_count": 17,
- "domestic_count": 15,
+ "generated": "2026-11-15T08:11:13+00:00",
+ "count": 34,
+ "relevant_count": 9,
+ "domestic_count": 12,
  "sources": {
-  "Dawn": "ok (11)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (7)",
+  "Dawn": "ok (10)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (4)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "Sales tax gets new enforcement structure to cut collection gap",
+   "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap",
+   "source": "Dawn",
+   "published": "2026-11-15T02:37:31+00:00",
+   "summary": "ISLAMABAD: After 17 years of integration, the government has decided to reverse the functional integration of sales tax and income tax collection, acknowledging that the sales tax revenue gap has widened to Rs3.4 trillion amid weak enforcement and poor revenue collection. The decision marks a major reform in tax admini…",
+   "image": "https://i.dawn.com/large/2025/12/20074154bbf6fcc.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Another bullish week as stocks flirt with 180,000-milestone",
+   "url": "https://www.dawn.com/news/2044610/another-bullish-week-as-stocks-flirt-with-180000-milestone",
+   "source": "Dawn",
+   "published": "2026-11-15T02:37:31+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) extended its recovery rally during the outgoing week as falling international oil prices eased inflation concerns and encouraged value-hunting across the board. The index crossed the 180,000-point barrier during the second-last trading session but failed to sustain gains as in…",
+   "image": "https://i.dawn.com/large/2024/11/24092253422b00e.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Punjab approves Rs23.85bn for rural development programme",
    "url": "https://www.brecorder.com/news/40448997/punjab-approves-rs2385bn-for-rural-development-programme",
@@ -20,46 +46,6 @@
    "topics": [
     "Budget & spending",
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "WB team visits 'Apni Chhat Apna Ghar' beneficiaries",
-   "url": "https://www.brecorder.com/news/40449000/wb-team-visits-apni-chhat-apna-ghar-beneficiaries",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:33+00:00",
-   "summary": "LAHORE: A delegation of the World Bank and the Affordable Housing Team, under the Punjab Affordable Housing Programme, visited houses constructed under the Apni Chhat Apna Ghar Programme in Thokar Niaz Baig and Kahna. The delegation met the beneficiaries and inquired about their experiences regarding the programme. The…",
-   "image": "https://i.brecorder.com/large/2025/08/0911371666e6346.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "‘Economic stability requires growth in industrial production, exports and employment’",
-   "url": "https://www.brecorder.com/news/40448931/economic-stability-requires-growth-in-industrial-production-exports-and-employment",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:32+00:00",
-   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum and the All Karachi Industrial Alliance, who is also the Chairman of the National Business Group Pakistan as well as that of the FPCCI Policy Advisory Board, Mian Zahid Hussain, has said lower unnecessary expenditure, improved tax collection and gre…",
-   "image": "https://i.brecorder.com/large/2024/10/670c3dfad2f79.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "APNS exhibition revives memories of print media’s creative legacy",
-   "url": "https://www.brecorder.com/news/40448932/apns-exhibition-revives-memories-of-print-medias-creative-legacy",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:32+00:00",
-   "summary": "KARACHI: The All Pakistan Newspapers Society (APNS) organised an exhibition of print media advertisements at Frere Hall on Saturday, showcasing the evolution of newspaper advertising and reviving memories of an era when creativity played a defining role in the media industry. The exhibition, which attracted visitors fr…",
-   "image": "https://i.brecorder.com/large/2026/04/220738337e35b31.webp",
-   "topics": [
-    "Advertising & media"
    ],
    "relevant": true,
    "domestic": true
@@ -87,19 +73,6 @@
    "topics": [
     "Budget & spending",
     "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR test exposes capability gaps in Karachi officers",
-   "url": "https://tribune.com.pk/story/2640186/fbr-test-exposes-capability-gaps-in-karachi-officers",
-   "source": "The Express Tribune",
-   "published": "2026-11-13T16:37:23+00:00",
-   "summary": "No sales tax officer hits 60% benchmark; only 4 clear both taxes",
-   "image": null,
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -197,19 +170,6 @@
    "domestic": true
   },
   {
-   "title": "Asian Development Bank approves $500m loan to help Pakistan strengthen disaster preparedness",
-   "url": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
-   "source": "Dawn",
-   "published": "2026-11-11T10:13:47+00:00",
-   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved contingent disaster financing (CDF) facilities up to $500 million for Pakistan to withstand disasters and facilitate disaster response. In a statement, the Manila-based lending agency said the funds will provide prompt budget support following eligible d…",
-   "image": "https://i.dawn.com/large/2025/11/220738569bdca66.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
    "url": "https://www.brecorder.com/news/40448985/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting",
    "source": "Business Recorder",
@@ -249,17 +209,29 @@
    "domestic": false
   },
   {
-   "title": "The ease of doing raids",
-   "url": "https://www.brecorder.com/news/40448927/the-ease-of-doing-raids",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:32+00:00",
-   "summary": "EDITORIAL: For a government targeting USD 10 billion in IT exports by FY29, the prospects of cybercrime investigators walking into functioning software houses and carrying away the equipment used to serve foreign clients are a peculiar advertisement for Pakistan’s investment climate. Yet that is the disruption describe…",
-   "image": "https://i.brecorder.com/large/2024/07/669aea6b10d78.jpg",
+   "title": "WB okays $300m for human capital",
+   "url": "https://tribune.com.pk/story/2640349/wb-okays-300m-for-human-capital",
+   "source": "The Express Tribune",
+   "published": "2026-11-14T16:32:18+00:00",
+   "summary": "Will finance solar-powered water supply, improved sanitation systems",
+   "image": null,
    "topics": [
-    "Advertising & media",
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Remittances, cheaper oil lift PSX",
+   "url": "https://tribune.com.pk/story/2640351/remittances-cheaper-oil-lift-psx",
+   "source": "The Express Tribune",
+   "published": "2026-11-14T16:32:18+00:00",
+   "summary": "Benchmark KSE-100 index rallies 3,987 points during volatile week",
+   "image": null,
+   "topics": [
     "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -286,33 +258,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt to levy up to 10% ADL on ICE vehicles",
-   "url": "https://tribune.com.pk/story/2640182/govt-to-levy-up-to-10-adl-on-ice-vehicles",
-   "source": "The Express Tribune",
-   "published": "2026-11-13T16:37:23+00:00",
-   "summary": "NEVs retain lower sales tax, while SBP may raise vehicle financing limit to Rs10m",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Govt meets IMF fiscal conditions",
-   "url": "https://tribune.com.pk/story/2640179/govt-meets-imf-fiscal-conditions",
-   "source": "The Express Tribune",
-   "published": "2026-11-13T16:37:23+00:00",
-   "summary": "Centre receives only Rs57.5b, or 6% of annual provincial grant",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -495,71 +440,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Colette Kress, the CFO who challenged Huang's bets, is Nvidia's interim CEO",
-   "url": "https://www.brecorder.com/news/40448724/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo",
-   "source": "Business Recorder",
-   "published": "2026-11-13T03:22:07+00:00",
-   "summary": "WASHINGTON/SAN FRANCISCO: Colette Kress spent years as the one Nvidia executive willing to check CEO Jensen Huang’s enormous, often risky ​ambitions. As he drove the chipmaker deeper into multibillion-dollar AI investments, she pushed back, according to two people familiar with the matter on Thursday. Now the 59-year-o…",
-   "image": "https://i.brecorder.com/large/2026/11/12223603f982e29.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31",
-   "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
-   "source": "Dawn",
-   "published": "2026-11-11T19:32:07+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Wednesday highlighted Pakistan’s solar power boom at the COP31 in Turkiye, where world leaders gathered to discuss joint solutions to combat climate change. This year’s summit focuses on transitioning toward a low-carbon future. Delegates from nearly 200 countries are meeting in the Med…",
-   "image": "https://i.dawn.com/large/2026/11/1119215717e0acb.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX crosses 180k; profit-taking erases gains",
-   "url": "https://tribune.com.pk/story/2639816/psx-crosses-180k-profit-taking-erases-gains",
-   "source": "The Express Tribune",
-   "published": "2026-11-11T15:40:51+00:00",
-   "summary": "KSE-100 sheds 251 points amid consolidation after strong rally",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold drops Rs3,400 amid global sell-off",
-   "url": "https://tribune.com.pk/story/2639810/gold-drops-rs3400-amid-global-sell-off",
-   "source": "The Express Tribune",
-   "published": "2026-11-11T15:40:51+00:00",
-   "summary": "Strong dollar pushes bullion prices lower; rupee inches up",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Development spending just 10.4pc of annual allocation in first four months of FY27, despite budget surplus",
-   "url": "https://www.dawn.com/news/2043725/development-spending-just-104pc-of-annual-allocation-in-first-four-months-of-fy27-despite-budget-surplus",
-   "source": "Dawn",
-   "published": "2026-11-11T02:37:46+00:00",
-   "summary": "https://www.dawn.com/news/2043633",
-   "image": "https://i.dawn.com/large/2026/06/220724559c55276.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
