@@ -1,12 +1,12 @@
 {
- "generated": "2026-11-15T15:50:40+00:00",
- "count": 29,
+ "generated": "2026-11-15T20:49:21+00:00",
+ "count": 30,
  "relevant_count": 6,
  "domestic_count": 11,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (4)",
+  "The Express Tribune": "ok (5)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
@@ -154,6 +154,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "Goods exports rise 8.8pc to record $11.4b in first four months of FY27",
+   "url": "https://tribune.com.pk/story/2640469/goods-exports-rise-88pc-to-record-114b-in-first-four-months-of-fy27",
+   "source": "The Express Tribune",
+   "published": "2026-11-15T12:36:07+00:00",
+   "summary": "Goods exports reach an all-time high despite a continued decline in shipments to Gulf markets",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "WB okays $300m for human capital",
