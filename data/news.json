@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T08:11:13+00:00",
- "count": 34,
- "relevant_count": 9,
- "domestic_count": 12,
+ "generated": "2026-11-15T15:50:40+00:00",
+ "count": 29,
+ "relevant_count": 6,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (10)",
-  "Business Recorder": "ok (16)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (4)",
   "ARY News": "error: RuntimeError"
  },
@@ -34,20 +34,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Punjab approves Rs23.85bn for rural development programme",
-   "url": "https://www.brecorder.com/news/40448997/punjab-approves-rs2385bn-for-rural-development-programme",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:33+00:00",
-   "summary": "LAHORE: Punjab government has approved Rs23.85 billion for the Khushhal Dehat Programme, aimed at improving infrastructure in villages, with Rs50 million earmarked for development work in each village. Chief Minister Punjab Maryam Nawaz Sharif said the first phase of the programme would cover 475 villages, where paved …",
-   "image": "https://i.brecorder.com/large/2026/04/09014728ab7e598.webp",
-   "topics": [
-    "Budget & spending",
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -168,45 +154,6 @@
    ],
    "relevant": false,
    "domestic": true
-  },
-  {
-   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-   "url": "https://www.brecorder.com/news/40448985/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:33+00:00",
-   "summary": "BEIJING: China and the United States discussed tariff cuts, agricultural trade and other issues at their first trade council meeting on Friday, China’s Commerce Ministry said on Saturday, days ahead of an expected leaders’ meeting in Shenzhen next week. “The two sides held candid, in-depth and constructive exchanges on…",
-   "image": "https://i.brecorder.com/large/2024/04/06105601d33d717.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "BOE likely to raise rates further in 2027",
-   "url": "https://www.brecorder.com/news/40448986/boe-likely-to-raise-rates-further-in-2027",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:33+00:00",
-   "summary": "LONDON: The Bank of England will probably need to raise interest rates further in 2027, over and above an increase at the next meeting in December, to combat inflation, Bank of England Chief Economist Huw Pill told the Financial Times in an interview published on Saturday. Britain’s central bank raised interest rates t…",
-   "image": "https://i.brecorder.com/large/2023/08/03113842014f888.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "US flights resume after rare nationwide grounding but delays persist",
-   "url": "https://www.brecorder.com/news/40448994/us-flights-resume-after-rare-nationwide-grounding-but-delays-persist",
-   "source": "Business Recorder",
-   "published": "2026-11-14T21:35:33+00:00",
-   "summary": "NEW YORK: Weary travelers braced for more delays and cancellations Saturday as flights resumed from US airports after being grounded for four hours due to a major outage on outdated communications systems. Friday’s nationwide stop sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some…",
-   "image": "https://i.brecorder.com/large/2026/03/31010028f4784de.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
   },
   {
    "title": "WB okays $300m for human capital",
@@ -423,19 +370,6 @@
    "published": "2026-11-13T06:00:44+00:00",
    "summary": "Gold rose on Friday as bargain hunting emerged after prices hit a more than one-year low in the previous session, while market focus shifted to upcoming US inflation data. Spot gold climbed 1.1% to $3,918.59 per ounce by 0518 GMT, but has lost 3.6% so far this week. US gold futures for December delivery gained 1% to $3…",
    "image": "https://i.brecorder.com/large/2026/11/040753331c129b5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee faltering rally faces returning oil pressure, surging US yields",
-   "url": "https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields",
-   "source": "Business Recorder",
-   "published": "2026-11-13T03:24:48+00:00",
-   "summary": "MUMBAI: The Indian rupee’s faltering rally faces further challenges on Friday , as rising oil prices revive a key source ​of pressure and surging US yields bolster the dollar. The Indian rupee is expected to open weaker than the 94-per-dollar mark and remain under pressure, after falling below it on Thursday in its big…",
-   "image": "https://i.brecorder.com/large/2026/11/130823424b9334f.webp",
    "topics": [
     "Economy"
    ],

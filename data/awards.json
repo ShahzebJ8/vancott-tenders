@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T08:10:47+00:00",
+ "generated": "2026-11-15T15:50:15+00:00",
  "count": 969,
  "with_value": 926,
  "with_winner": 342,
@@ -18440,6 +18440,42 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005143",
+   "tender_no": "TS0000000859E",
+   "reference": "HOC/1/2026",
+   "title": "Waiting Chairs for the Chancery Hall Furniture/Fixture Ministry of Foreign Affairs",
+   "organisation": "Ministry of Foreign Affairs Head of Chancery, Embassy of Pakistan Riyad, KSA Riyadh - Pakistan",
+   "bid_count": 3,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-15",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005143",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005142",
+   "tender_no": "TS0000007051E",
+   "reference": "3/2026/PWC",
+   "title": "Mechanical, Electric and Plumbing Work (MEP) including Waterproofing, Firefighting, water supply, External Drainage and bathrooms renovation work at the Embassy of Pakistan,Riyadh. Miscellaneous Ministry of Foreign Affairs",
+   "organisation": "Ministry of Foreign Affairs Head of Chancery, Embassy of Pakistan Riyad, KSA Riyadh - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-15",
+   "city": null,
+   "province": null,
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005142",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005135",
    "tender_no": "TS0000009077E",
@@ -57485,46 +57521,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003041",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003040",
-   "tender_no": "TS0000009675E",
-   "reference": "PTA/Admin/865/2026",
-   "title": "Purchase of 85\" LED for PTA Appliances",
-   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
-   "bid_count": 6,
-   "lowest": [
-    "740000 Cabinet Division"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-29",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003040",
-   "is_smd": false,
-   "smd_score": 3,
-   "matched_terms": [
-    "led"
-   ]
-  },
-  {
-   "evaluation_no": "EVL00000003039",
-   "tender_no": "TS0000008621E",
-   "reference": "T-367-2026",
-   "title": "Application of RTV Coating Material and Testing of Disc Insulators for Transmission Line Division Lahore Services Ministry of Energy (Power Division)",
-   "organisation": "Ministry of Energy (Power Division) Chief Engineer (Asset Management) North, NGC Lahore Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-08-29",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003039",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
