@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T00:44:13+00:00",
+ "generated": "2026-11-16T07:38:52+00:00",
  "count": 969,
  "with_value": 926,
  "with_winner": 342,
@@ -18440,6 +18440,65 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005152",
+   "tender_no": "TS0000016647E",
+   "reference": "OPF-1394",
+   "title": "Procurement of Winter Uniform 2026-27 for OPF Officials Deputed at International Airports Across Pakistan Clothing/Uniform",
+   "organisation": "Ministry of Overseas Pakistanis & Human Resource Development Overseas Pakistanis Foundation (OPF) Islamabad - Pakistan",
+   "bid_count": 4,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-16",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005152",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005148",
+   "tender_no": "TS0000011712E",
+   "reference": "Lahore",
+   "title": "RIFB for Humak Bridge Contract No (BC-PN-2025-26-05-01) in Lahore Civil Works",
+   "organisation": "Ministry of Communications National Highway Authority (NHA) Islamabad - Pakistan",
+   "bid_count": 9,
+   "lowest": [
+    "SHAWOOL Associates"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-16",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005148",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005146",
+   "tender_no": "TS0000014299E",
+   "reference": "F.9(5)/87-GS (PEC) Vol-VII",
+   "title": "Procurement of Stationery and Other Misc. Items Stationery",
+   "organisation": "Election Commission of Pakistan O/o Provincial Election Commissioner, Khyber Pakhtunkhwa Peshawar - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Ms. Aanish Ghaffar (M/s A Razzaq Traders)",
+    "Trending Technologies Election Commission of Pakistan"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-16",
+   "city": "Peshawar",
+   "province": "Khyber Pakhtunkhwa",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005146",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005143",
    "tender_no": "TS0000000859E",
@@ -57463,64 +57522,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003044",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003043",
-   "tender_no": "TS0000004111E",
-   "reference": "FCS/SOA/TE/026/26",
-   "title": "Testing Material Consumable Items",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Karak - Pakistan",
-   "bid_count": 7,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-30",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003043",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003042",
-   "tender_no": "TS0000003673E",
-   "reference": "FCS/LKI/TE/005/26",
-   "title": "Dewatering Material Consumable Items",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Karak - Pakistan",
-   "bid_count": 5,
-   "lowest": [
-    "asdasdasdasd"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-30",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003042",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003041",
-   "tender_no": "TS0000010255E",
-   "reference": "PTA/Admin/P58283/2026",
-   "title": "Hiring of Firm - Janitorial Services for PTA Buildings in Islamabad Services",
-   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
-   "bid_count": 14,
-   "lowest": [
-    "M IRFAN & COMPANY (PRIVATE) LIMITED Cabinet Division"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-29",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003041",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
