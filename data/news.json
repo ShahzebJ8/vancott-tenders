@@ -1,27 +1,278 @@
 {
- "generated": "2026-11-16T07:39:34+00:00",
- "count": 23,
- "relevant_count": 6,
- "domestic_count": 1,
+ "generated": "2026-11-16T17:54:33+00:00",
+ "count": 37,
+ "relevant_count": 8,
+ "domestic_count": 10,
  "sources": {
-  "Dawn": "error: RuntimeError",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (5)",
+  "Dawn": "ok (10)",
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (6)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
    "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40448764/intra-day-update-rupee-records-gain-against-us-dollar",
+   "url": "https://www.brecorder.com/news/40449185/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-13T15:41:36+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.60, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.61 against the dollar. Internationally, the US dollar held ​near a 19-month high on Friday …",
+   "published": "2026-11-16T15:46:38+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Monday. The local unit closed the day at 276.57, a gain of Re0.03 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar for another week, …",
    "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "SBP says inflation to ease to 5-7pc target range during FY2027",
+   "url": "https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027",
+   "source": "Dawn",
+   "published": "2026-11-16T12:25:02+00:00",
+   "summary": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027. Real GDP growth would remain in the range of 3.5-4.5pc, the bank said in a yearly report, which added the country’s curr…",
+   "image": "https://i.dawn.com/large/2022/04/62467ea2c8fc1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "State of Pakistan’s Economy: SBP projects GDP growth at 3.5-4.5% in FY27",
+   "url": "https://www.brecorder.com/news/40449187/state-of-pakistans-economy-sbp-projects-gdp-growth-at-35-45-in-fy27",
+   "source": "Business Recorder",
+   "published": "2026-11-16T11:47:03+00:00",
+   "summary": "Pakistan’s economy is projected to grow by 3.5-4.5% in the ongoing fiscal year 2026-27 (FY27), driven by a gradual recovery in domestic demand and improved performance in commodity-producing sectors, including agriculture and industry, the State Bank of Pakistan (SBP) said on Monday. SBP released the annual report on t…",
+   "image": "https://i.brecorder.com/large/2026/11/1616464075a2722.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM Shehbaz approves facilitation centres for SMEs at district level",
+   "url": "https://www.dawn.com/news/2044933/pm-shehbaz-approves-facilitation-centres-for-smes-at-district-level",
+   "source": "Dawn",
+   "published": "2026-11-16T11:40:06+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Monday approved the establishment of facilitation centres for small and medium enterprises (SMEs) at the district level, with pilot projects in Lahore, Peshawar, Karachi and Quetta. The development came as a delegation of exporters called on the premier, according to the Prime Minister’…",
+   "image": "https://i.dawn.com/large/2026/11/16164105ef26574.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan invites Turkmenistan to join CASA-1000",
+   "url": "https://www.brecorder.com/news/40449173/pakistan-invites-turkmenistan-to-join-casa-1000",
+   "source": "Business Recorder",
+   "published": "2026-11-16T10:16:48+00:00",
+   "summary": "Turkmenistan’s Minister of Energy, Annageldi Saparov, called on the Federal Minister for Energy (Power Division), Sardar Awais Ahmad Khan Leghari, in Islamabad. Both sides held detailed discussions on bilateral cooperation in the energy sector and regional grid connectivity. The Turkmenistan-Afghanistan-Pakistan (TAP) …",
+   "image": "https://i.brecorder.com/large/2026/11/16151559918a9f7.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sales tax gets new enforcement structure to cut collection gap",
+   "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap",
+   "source": "Dawn",
+   "published": "2026-11-15T02:37:31+00:00",
+   "summary": "ISLAMABAD: After 17 years of integration, the government has decided to reverse the functional integration of sales tax and income tax collection, acknowledging that the sales tax revenue gap has widened to Rs3.4 trillion amid weak enforcement and poor revenue collection. The decision marks a major reform in tax admini…",
+   "image": "https://i.dawn.com/large/2025/12/20074154bbf6fcc.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Another bullish week as stocks flirt with 180,000-milestone",
+   "url": "https://www.dawn.com/news/2044610/another-bullish-week-as-stocks-flirt-with-180000-milestone",
+   "source": "Dawn",
+   "published": "2026-11-15T02:37:31+00:00",
+   "summary": "KARACHI: The Pakistan Stock Exchange (PSX) extended its recovery rally during the outgoing week as falling international oil prices eased inflation concerns and encouraged value-hunting across the board. The index crossed the 180,000-point barrier during the second-last trading session but failed to sustain gains as in…",
+   "image": "https://i.dawn.com/large/2024/11/24092253422b00e.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh plans one-window for builders at ABAD House",
+   "url": "https://www.dawn.com/news/2044370/sindh-plans-one-window-for-builders-at-abad-house",
+   "source": "Dawn",
+   "published": "2026-11-14T03:21:03+00:00",
+   "summary": "KARACHI: Sindh Minister for Local Government Syed Nasir Hussain Shah has said the government is committed to providing a conducive business environment and creating investment opportunities, particularly in the construction industry. Inaugurating the three-day ABAD In-House Exhibition of construction products on Friday…",
+   "image": "https://i.dawn.com/large/2026/11/1408201344a8106.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Fiscal surplus shrinks 40pc as revenues decline",
+   "url": "https://www.dawn.com/news/2044374/fiscal-surplus-shrinks-40pc-as-revenues-decline",
+   "source": "Dawn",
+   "published": "2026-11-14T00:26:33+00:00",
+   "summary": "• Primary surplus drops to 2.1pc of GDP from 2.8pc last year • Revenue falls despite higher tax collections; interest payments jump 23pc • Provincial cash surpluses shrink 23pc; Balochistan posts deficit ISLAMABAD: Pakistan’s fiscal buffers weakened in the first quarter of the current fiscal year despite expenditure co…",
+   "image": "https://i.dawn.com/large/2026/11/14081328a414a93.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation clocks in at 11.21pc",
+   "url": "https://www.dawn.com/news/2044292/short-term-inflation-clocks-in-at-1121pc",
+   "source": "Dawn",
+   "published": "2026-11-13T11:40:00+00:00",
+   "summary": "ISLAMABAD: Short-term inflation rose to 11.21 per cent year-on-year in the week ending on Nov 12, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items, whose prices are collected from 50 markets in 17 cities,…",
+   "image": "https://i.dawn.com/large/2026/11/131630490c67373.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Late Dr Waheed leaves behind a rich legacy of developing pharmaceutical industry in Pakistan",
+   "url": "https://www.brecorder.com/news/40449199/late-dr-waheed-leaves-behind-a-rich-legacy-of-developing-pharmaceutical-industry-in-pakistan",
+   "source": "Business Recorder",
+   "published": "2026-11-16T17:02:44+00:00",
+   "summary": "Dr Shaikh Kaiser Waheed, a three-time chairman of the Pakistan Pharmaceutical Manufacturers Association (PPMA), devoted more than three decades of his life to strengthening Pakistan’s pharmaceutical industry, promoting exports, and addressing the challenges faced by manufacturers. A strong advocate of industry-wide col…",
+   "image": "https://i.brecorder.com/large/2026/11/16220119da4f452.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Trump says he would not mind Huang being reinstated as Nvidia CEO",
+   "url": "https://www.brecorder.com/news/40449194/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo",
+   "source": "Business Recorder",
+   "published": "2026-11-16T15:09:21+00:00",
+   "summary": "WASHINGTON: US President Donald Trump said on Monday he would not mind seeing Jensen Huang reinstated as the chief executive officer of Nvidia and many people would like to see him return. “I think he learned a big lesson. I guess maybe one lesson is more important than another, but I would certainly not mind seeing th…",
+   "image": "https://i.brecorder.com/large/2026/10/1220463448b7e80.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 settles marginally higher amid late profit-taking",
+   "url": "https://www.brecorder.com/news/40449135/psx-kse-100-settles-marginally-higher-amid-late-profit-taking",
+   "source": "Business Recorder",
+   "published": "2026-11-16T14:12:07+00:00",
+   "summary": "The KSE-100 Index ended marginally higher on Monday, with late-session profit-taking trimming most of its intra-day gains. The market opened on a positive note with the benchmark index initially gaining momentum and climbing to an intra-day high of 179,692.98. However, the upward momentum weakened during the final hour…",
+   "image": "https://i.brecorder.com/large/2026/11/16095206186d384.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gulf bourses recover losses amid regional security fears",
+   "url": "https://www.brecorder.com/news/40449190/gulf-bourses-recover-losses-amid-regional-security-fears",
+   "source": "Business Recorder",
+   "published": "2026-11-16T13:42:04+00:00",
+   "summary": "Most Gulf stock markets recovered from early losses to finish higher on Monday, even as investors remained tense following Iranian aerial attacks on Bahrain and reports of a mine strike in the Strait of Hormuz. Bahrain said on Sunday it intercepted and destroyed several Iranian aerial attacks, while Tehran said it had …",
+   "image": "https://i.brecorder.com/large/2026/03/13122415aaf8783.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil falls as recovering Middle East exports bolster surplus outlook",
+   "url": "https://www.brecorder.com/news/40449125/oil-falls-as-recovering-middle-east-exports-bolster-surplus-outlook",
+   "source": "Business Recorder",
+   "published": "2026-11-16T13:32:54+00:00",
+   "summary": "LONDON: Oil prices fell about 1% on Monday as signs of recovering oil flows through the Strait of Hormuz reinforced expectations of surplus supply, though fresh tanker incidents underscored risks to Middle East exports. Brent crude futures were down $1.06, or 1.1%, at $94.78 a barrel by 1311 GMT. US West Texas Intermed…",
+   "image": "https://i.brecorder.com/large/2026/05/08052318c855fa3.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Stronger dollar, AI investment worries push copper to four-month low",
+   "url": "https://www.brecorder.com/news/40449186/stronger-dollar-ai-investment-worries-push-copper-to-four-month-low",
+   "source": "Business Recorder",
+   "published": "2026-11-16T11:18:51+00:00",
+   "summary": "LONDON: Copper prices fell on Monday to their lowest in more than four months as renewed concerns over AI investment, a stronger dollar and weaker-than-expected economic data from top consumer China hurt risk appetite. Benchmark three-month copper on the London Metal Exchange was down 0.9% at $13,280 a metric ton by 11…",
+   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "IGI Investments eyes up to 60% stake in Nimir Resins",
+   "url": "https://www.brecorder.com/news/40449179/igi-investments-eyes-up-to-60-stake-in-nimir-resins",
+   "source": "Business Recorder",
+   "published": "2026-11-16T10:47:29+00:00",
+   "summary": "IGI Investments (Private) Limited, a wholly owned subsidiary of IGI Holdings Limited, has received in-principle approval to evaluate the purchase of up to 60% shareholding in Nimir Resins Limited. The company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “We have been informed by…",
+   "image": "https://i.brecorder.com/large/2026/09/09025141afcf9da.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's Hindustan Zinc to nearly double metal production capacity in $8.5 billion push",
+   "url": "https://www.brecorder.com/news/40449176/indias-hindustan-zinc-to-nearly-double-metal-production-capacity-in-85-billion-push",
+   "source": "Business Recorder",
+   "published": "2026-11-16T10:31:10+00:00",
+   "summary": "India’s Hindustan Zinc said on Monday it plans to invest about 800 billion rupees ($8.50 billion) over the next three to five years to nearly double its metal production capacity, as it looks to capitalise on growing demand from the steel and infrastructure sectors. The company aims to increase its production capacity …",
+   "image": "https://i.brecorder.com/large/2026/11/16152950b0cd0a5.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee rises, volatility ebbs as equity inflows blunt global headwinds",
+   "url": "https://www.brecorder.com/news/40449175/indian-rupee-rises-volatility-ebbs-as-equity-inflows-blunt-global-headwinds",
+   "source": "Business Recorder",
+   "published": "2026-11-16T10:24:34+00:00",
+   "summary": "MUMBAI: The Indian rupee closed stronger on Monday, with near-tenor volatility ebbing to its lowest in a month, as a rebound in foreign equity inflows alongside policy measures steadied the currency, while external headwinds lingered. The currency’s 1-month realized volatility declined to about 4% from 6% two weeks ear…",
+   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP projects 3.5-4.5% GDP growth for FY27",
+   "url": "https://tribune.com.pk/story/2640631/sbp-projects-35-45-gdp-growth-for-fy27",
+   "source": "The Express Tribune",
+   "published": "2026-11-16T08:44:39+00:00",
+   "summary": "Expects inflation at 5-7%; weak industrial growth hampers job creation",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Australia, NZ dollars hit new multi-month lows as yield support vanishes",
@@ -76,19 +327,6 @@
    "domestic": false
   },
   {
-   "title": "Textile giant Gul Ahmed approves LOI for two wind turbines",
-   "url": "https://www.brecorder.com/news/40449149/textile-giant-gul-ahmed-approves-loi-for-two-wind-turbines",
-   "source": "Business Recorder",
-   "published": "2026-11-16T07:12:38+00:00",
-   "summary": "The Board of Directors of Gul Ahmed Textile Mills Limited, one of Pakistan’s largest textile companies, has approved the issuance of a Letter of Intent (LOI) for the procurement of two wind turbines with a total capacity of 15.75 MW. The listed textile manufacturer informed the bourse in a stock filing on Monday. The a…",
-   "image": "https://i.brecorder.com/large/2025/10/010531386569374.webp",
-   "topics": [
-    "Procurement"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Indian bonds consolidate after last week's selloff",
    "url": "https://www.brecorder.com/news/40449146/indian-bonds-consolidate-after-last-weeks-selloff",
    "source": "Business Recorder",
@@ -116,43 +354,16 @@
    "domestic": false
   },
   {
-   "title": "Brussels to propose €45 billion EU-backed loan for Ukraine, FT says",
-   "url": "https://www.brecorder.com/news/40449143/brussels-to-propose-eur45-billion-eu-backed-loan-for-ukraine-ft-says",
-   "source": "Business Recorder",
-   "published": "2026-11-16T06:30:06+00:00",
-   "summary": "The European Commission will propose raising a loan of €45 billion ($50 billion) against the bloc’s shared budget to support Ukraine, the Financial Times said on Monday, citing four people briefed on the plan. EU stages antitrust raids in vaccines co The plan, due to be shared with member states on Wednesday, would use…",
-   "image": "https://i.brecorder.com/large/2025/10/68dc91d6c8445.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: stocks surge, KSE-100 up over 1,400 points",
-   "url": "https://www.brecorder.com/news/40449135/psx-stocks-surge-kse-100-up-over-1400-points",
-   "source": "Business Recorder",
-   "published": "2026-11-16T06:15:24+00:00",
-   "summary": "Stocks opened the week on a positive note at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,000 points during the opening hours of trading on Monday. At 11:10am, the benchmark index was hovering at 179,275.24, up 1,401.37 points or 0.79%. Buying was observed in key sectors, including…",
-   "image": "https://i.brecorder.com/large/2026/11/16095206186d384.webp",
+   "title": "PM approves establishment of SME facilitation centres at district level to boost exports",
+   "url": "https://tribune.com.pk/story/2640614/pm-approves-establishment-of-sme-facilitation-centers-at-district-level-to-boost-exports",
+   "source": "The Express Tribune",
+   "published": "2026-11-16T06:30:23+00:00",
+   "summary": "Approve modernisation and restructuring of TDAP and SMEDA to promote exports, align industries with int standards",
+   "image": null,
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "HUBCO subsidiary to study 300,000 tpa aluminium smelter project",
-   "url": "https://www.brecorder.com/news/40449140/hubco-subsidiary-to-study-300000-tpa-aluminium-smelter-project",
-   "source": "Business Recorder",
-   "published": "2026-11-16T06:11:18+00:00",
-   "summary": "Hub Power Holdings Limited (HPHL), a wholly owned subsidiary of The Hub Power Company Limited (HUBCO), has agreed to a bankable feasibility study (BFS) for a proposed aluminium smelter project with a capacity of 300,000 tonnes per annum. The company disclosed the development to the Pakistan Stock Exchange on Monday. Th…",
-   "image": "https://i.brecorder.com/large/2024/12/67525382abdab.png",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -169,12 +380,12 @@
    "domestic": false
   },
   {
-   "title": "Fauji Foods appoints Waseem Haider as acting CEO",
-   "url": "https://www.brecorder.com/news/40449136/fauji-foods-appoints-waseem-haider-as-acting-ceo",
-   "source": "Business Recorder",
-   "published": "2026-11-16T05:08:16+00:00",
-   "summary": "Fauji Foods Limited (FFL) has appointed Waseem Haider as its acting Chief Executive Officer (CEO), effective from November 15, 2026. The listed company disclosed the development in a notice to the Pakistan Stock Exchange on Monday. Haider replaces Usman Zaheer Ahmad, according to the disclosure filed with the PSX. Acco…",
-   "image": "https://i.brecorder.com/large/2026/09/22112618f54087c.webp",
+   "title": "Sugar exports, price spikes, imports: a cycle successive govts have failed to break",
+   "url": "https://www.dawn.com/news/2044895/sugar-exports-price-spikes-imports-a-cycle-successive-govts-have-failed-to-break",
+   "source": "Dawn",
+   "published": "2026-11-16T04:08:30+00:00",
+   "summary": "https://www.dawn.com/news/2044627",
+   "image": "https://i.dawn.com/large/2024/11/672d86dbc44c5.jpg",
    "topics": [
     "Economy"
    ],
@@ -208,16 +419,16 @@
    "domestic": false
   },
   {
-   "title": "Pakistan's fiscal dilemma: plug revenue drain first",
-   "url": "https://tribune.com.pk/story/2640495/pakistans-fiscal-dilemma-plug-revenue-drain-first",
-   "source": "The Express Tribune",
-   "published": "2026-11-15T16:17:40+00:00",
-   "summary": "Existing framework extracts more from economy without creating proportionate productive capacity",
-   "image": null,
+   "title": "Pay gap widening inequality",
+   "url": "https://www.dawn.com/news/2044624/pay-gap-widening-inequality",
+   "source": "Dawn",
+   "published": "2026-11-16T02:11:41+00:00",
+   "summary": "Top executives in major public, private and multinational companies enjoy lavish compensation packages, often running in tens of millions of rupees a month, alongside perks like exclusive club memberships and paid overseas family holidays. Yet, officials, corporate leaders and regulators remained unconvinced that widen…",
+   "image": "https://i.dawn.com/large/2022/04/62467ea2c8fc1.jpg",
    "topics": [
-    "Budget & spending"
+    "Economy"
    ],
-   "relevant": true,
+   "relevant": false,
    "domestic": false
   },
   {
@@ -247,12 +458,12 @@
    "domestic": false
   },
   {
-   "title": "BOE likely to raise rates further in 2027, Pill tells FT",
-   "url": "https://www.brecorder.com/news/40448899/boe-likely-to-raise-rates-further-in-2027-pill-tells-ft",
-   "source": "Business Recorder",
-   "published": "2026-11-14T07:15:51+00:00",
-   "summary": "The Bank of England will probably need to raise interest rates further in 2027, over and above an increase at the next meeting ​in December, to combat inflation, Bank of England Chief Economist Huw Pill ‌told the Financial Times in an interview published on Saturday. Britain’s central bank raised interest rates to 4% f…",
-   "image": "https://i.brecorder.com/large/2023/02/02174858edbcbec.jpg",
+   "title": "Oil supply to surpass demand: IEA",
+   "url": "https://www.dawn.com/news/2044369/oil-supply-to-surpass-demand-iea",
+   "source": "Dawn",
+   "published": "2026-11-14T00:26:33+00:00",
+   "summary": "PARIS: Global oil supplies are expected to exceed demand in the fourth quarter, after increased Gulf exports led to a market surplus in October for the first time since the Iran war, the International Energy Agency said on Friday. Even though attacks on tankers trying to transit the Strait of Hormuz have continued, Gul…",
+   "image": "https://i.dawn.com/large/2026/03/161857086a9d62c.webp",
    "topics": [
     "Economy"
    ],
@@ -266,32 +477,6 @@
    "published": "2026-11-13T16:37:23+00:00",
    "summary": "LPG prices surge 111.35%, tomatoes 78.94% YoY",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "UAE stocks decline on weak corporate earnings",
-   "url": "https://www.brecorder.com/news/40448775/uae-stocks-decline-on-weak-corporate-earnings",
-   "source": "Business Recorder",
-   "published": "2026-11-13T12:46:07+00:00",
-   "summary": "Stock markets in the United Arab Emirates closed lower on Friday, with industrial and financial stocks leading the decline as corporate earnings fell short of market expectations. Dubai’s main market index declined 0.6%, retreating from a near five-month high touched in the previous session. Blue-chip developer Emaar P…",
-   "image": "https://i.brecorder.com/large/2023/10/6520abbe6ce6e.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "World oil market is returning to surplus as Gulf exports recover, IEA says",
-   "url": "https://www.brecorder.com/news/40448772/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says",
-   "source": "Business Recorder",
-   "published": "2026-11-13T11:51:46+00:00",
-   "summary": "LONDON: The world oil market will return to a surplus in the fourth quarter of this year, the International Energy Agency said on Friday, as Middle East exports recover faster than global oil demand despite continued attacks on shipping. The agency also gave more details of remaining volumes to come from a record relea…",
-   "image": "https://i.brecorder.com/large/2024/10/091003359ad82a2.jpg",
    "topics": [
     "Economy"
    ],
