@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-15T20:49:21+00:00",
- "count": 30,
- "relevant_count": 6,
- "domestic_count": 11,
+ "generated": "2026-11-16T00:44:39+00:00",
+ "count": 34,
+ "relevant_count": 9,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (10)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,59 @@
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "PDP calls for full utilisation of Sindh’s wind corridor",
+   "url": "https://www.brecorder.com/news/40449049/pdp-calls-for-full-utilisation-of-sindhs-wind-corridor",
+   "source": "Business Recorder",
+   "published": "2026-11-15T23:18:15+00:00",
+   "summary": "KARACHI: As Pakistan continues to grapple with energy insecurity, high import bills, and persistent loadshedding, Pasban Democratic Party (PDP) Chairman AltafShakoor here on Sunday called for urgent and full utilisation of Sindh’s Gharo–Jhimpir–Keti Bandar wind corridor, a natural asset with the proven potential to gen…",
+   "image": "https://i.brecorder.com/large/2026/01/1901251105fa79d.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "JI inaugurates multiple development projects in city",
+   "url": "https://www.brecorder.com/news/40449052/ji-inaugurates-multiple-development-projects-in-city",
+   "source": "Business Recorder",
+   "published": "2026-11-15T23:18:15+00:00",
+   "summary": "KARACHI: Jamaat-e-Islami (JI) Karachi chief Monem Zafar Khan has inaugurated several civic and infrastructure projects in Model Colony and Gulshan-e-Iqbal towns. He said his party alone has the capacity to carry out meaningful development in goths (rural settlements) from Karachi to Kashmore. Five projects were inaugur…",
+   "image": "https://i.brecorder.com/large/2025/07/68673bbd06184.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "President upholds decision on FBR’s Faceless Refund Regime",
+   "url": "https://www.brecorder.com/news/40449083/president-upholds-decision-on-fbrs-faceless-refund-regime",
+   "source": "Business Recorder",
+   "published": "2026-11-15T23:18:15+00:00",
+   "summary": "ISLAMABAD: President Asif Ali Zardari has upheld a decision recommending that the Federal Board of Revenue (FBR) operationalise a Faceless Refund Regime under section 170A of the Income Tax Ordinance, 2001, to ensure automated processing and electronic transfer of income tax refunds directly into taxpayers’ notified ba…",
+   "image": "https://i.brecorder.com/large/2023/03/64072f98c44b1.png",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Sale Tax, Income Tax departments: Experts divided over separation amid compliance concerns",
+   "url": "https://www.brecorder.com/news/40449085/sale-tax-income-tax-departments-experts-divided-over-separation-amid-compliance-concerns",
+   "source": "Business Recorder",
+   "published": "2026-11-15T23:18:15+00:00",
+   "summary": "ISLAMABAD: Tax experts have given mixed response to the separation of sales tax and income tax departments, warning the move may result in repeated tax demands for the same records, overlapping inquiries, inconsistent treatment of transactions and more tax offices to approach taxpayers. Advocate Supreme Court of Pakist…",
+   "image": "https://i.brecorder.com/large/2022/09/6327a0b523de0.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Sales tax gets new enforcement structure to cut collection gap",
    "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap",
