@@ -1,15 +1,146 @@
 {
- "generated": "2026-11-16T17:54:33+00:00",
- "count": 37,
- "relevant_count": 8,
- "domestic_count": 10,
+ "generated": "2026-11-17T01:33:17+00:00",
+ "count": 43,
+ "relevant_count": 12,
+ "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (10)",
+  "Dawn": "ok (9)",
   "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (6)",
+  "The Express Tribune": "ok (5)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "SBP projects GDP growth at 3.5pc-4.5pc",
+   "url": "https://www.brecorder.com/news/40449300/sbp-projects-gdp-growth-at-35pc-45pc",
+   "source": "Business Recorder",
+   "published": "2026-11-17T01:25:22+00:00",
+   "summary": "KARACHI: Pakistan’s economy is expected to maintain its growth momentum in FY27, with real GDP growth projected at 3.5-4.5 percent, supported by improved macroeconomic stability, a recovery in domestic demand, lagged impact of monetary easing, stronger fiscal and external buffers, and recent fiscal measures aimed at bo…",
+   "image": "https://i.brecorder.com/large/2026/10/030437282ee4297.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Oil and gas: FBR asks 13 E&P cos to issue digital ST invoices",
+   "url": "https://www.brecorder.com/news/40449297/oil-and-gas-fbr-asks-13-eampp-cos-to-issue-digital-st-invoices",
+   "source": "Business Recorder",
+   "published": "2026-11-17T01:12:34+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed 13 oil and gas exploration and production (E&P) companies to issue digital sales tax invoices and integrate them with its computerised system from December 2026 onwards. In this regard, the FBR has issued Sales Tax General Order (STGO) No. 36 of 2026, on Monday…",
+   "image": "https://i.brecorder.com/large/2025/12/310118429a01896.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SMEs: PM approves facilitation centres in four cities",
+   "url": "https://www.brecorder.com/news/40449293/smes-pm-approves-facilitation-centres-in-four-cities",
+   "source": "Business Recorder",
+   "published": "2026-11-17T00:44:49+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday approved plans to establish Small and Medium-sized Enterprises (SMEs) facilitation centres in four major cities as part of a government initiative to boost exports, support emerging businesses and expand access to commercial opportunities. The centres will be establish…",
+   "image": "https://i.brecorder.com/large/2024/11/291950285f8d046.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Inflation to remain above medium-term target range: SBP",
+   "url": "https://www.brecorder.com/news/40449291/inflation-to-remain-above-medium-term-target-range-sbp",
+   "source": "Business Recorder",
+   "published": "2026-11-17T00:35:09+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has projected that inflation to remain above its medium-term target range in FY27, as global energy price shocks and rising input costs continue to exert upward pressure on domestic prices. According to the SBP’s Annual Report on the State of Pakistan’s Economy for FY26, averag…",
+   "image": "https://i.brecorder.com/large/2023/11/655d2f59a48c6.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "RLNG shortage to risk winter power supply, ISMO warns",
+   "url": "https://www.brecorder.com/news/40449287/rlng-shortage-to-risk-winter-power-supply-ismo-warns",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:55+00:00",
+   "summary": "ISLAMABAD: The Independent System Market Operator (ISMO) has warned that inadequate supplies of Re-gasified Liquefied Natural Gas (RLNG) to gas-fired power plants could expose the electricity system to stability risks during the upcoming winter, potentially resulting in increased load management. In a letter addressed …",
+   "image": "https://i.brecorder.com/large/2026/05/05031002c7b8a5a.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Turkmenistan invited to join CASA-1000",
+   "url": "https://www.brecorder.com/news/40449288/turkmenistan-invited-to-join-casa-1000",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:55+00:00",
+   "summary": "ISLAMABAD: Pakistan has invited Turkmenistan to become part of the Central Asia-South Asia Electricity Transmission and Trade Project (CASA-1000) and proposed enhancing electricity transmission capacity to Gwadar through the Iranian grid, as Islamabad seeks to strengthen regional energy connectivity and integrate elect…",
+   "image": "https://i.brecorder.com/large/2026/11/16151559918a9f7.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PSMA seeks export of surplus sugar, sector deregulation",
+   "url": "https://www.brecorder.com/news/40449213/psma-seeks-export-of-surplus-sugar-sector-deregulation",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) has urged the government to allow immediate export of surplus sugar, fully deregulate the sugar sector and withdraw the notification directing mills to commence crushing for 15 days to enable the industry to make necessary arrangements. The millers said that the notif…",
+   "image": "https://i.brecorder.com/large/2023/12/65724aa039150.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PSA seeks correction in solar panel regulations",
+   "url": "https://www.brecorder.com/news/40449235/psa-seeks-correction-in-solar-panel-regulations",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "ISLAMABAD: Pakistan Solar Association (PSA) has sought intervention of the Power Division to resolve regulatory ambiguity surrounding installation of solar photovoltaic (PV) panels beyond the Distributed Generation (DG) capacity approved by the National Electric Power Regulatory Authority (Nepra), arguing that addition…",
+   "image": "https://i.brecorder.com/large/2024/06/1408070293d6ecd.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pandorian Model Graveyard: CDA completes 70pc of construction work",
+   "url": "https://www.brecorder.com/news/40449240/pandorian-model-graveyard-cda-completes-70pc-of-construction-work",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "ISLAMABAD: The Capital Development Authority (CDA) has completed 70 percent of construction work on the Pandorian Model Graveyard, spanning over 860 kanals of land in Islamabad, and aims to complete the remaining work by the end of 2026 to address the longstanding shortage of burial space in the federal capital. Accord…",
+   "image": "https://i.brecorder.com/large/2025/07/68673d9329d7e.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KDA intensifies anti-encroachment drive",
+   "url": "https://www.brecorder.com/news/40449241/kda-intensifies-anti-encroachment-drive",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "KARACHI: Acting on the special directives of Sindh Local Government Minister Syed Nasir Hussain Shah and pursuing the strict policy of Karachi Development Authority, Director General Zain-ul-Abideen Ansari, operations against illegal encroachments on state land have been intensified across the metropolis . As part of t…",
+   "image": "https://i.brecorder.com/large/2025/11/69220c0774ba3.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40449185/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -59,19 +190,6 @@
    "image": "https://i.dawn.com/large/2026/11/16164105ef26574.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pakistan invites Turkmenistan to join CASA-1000",
-   "url": "https://www.brecorder.com/news/40449173/pakistan-invites-turkmenistan-to-join-casa-1000",
-   "source": "Business Recorder",
-   "published": "2026-11-16T10:16:48+00:00",
-   "summary": "Turkmenistan’s Minister of Energy, Annageldi Saparov, called on the Federal Minister for Energy (Power Division), Sardar Awais Ahmad Khan Leghari, in Islamabad. Both sides held detailed discussions on bilateral cooperation in the energy sector and regional grid connectivity. The Turkmenistan-Afghanistan-Pakistan (TAP) …",
-   "image": "https://i.brecorder.com/large/2026/11/16151559918a9f7.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -130,25 +248,25 @@
    "domestic": true
   },
   {
-   "title": "Short-term inflation clocks in at 11.21pc",
-   "url": "https://www.dawn.com/news/2044292/short-term-inflation-clocks-in-at-1121pc",
-   "source": "Dawn",
-   "published": "2026-11-13T11:40:00+00:00",
-   "summary": "ISLAMABAD: Short-term inflation rose to 11.21 per cent year-on-year in the week ending on Nov 12, driven largely by perishable food products, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items, whose prices are collected from 50 markets in 17 cities,…",
-   "image": "https://i.dawn.com/large/2026/11/131630490c67373.webp",
+   "title": "Fiscal consolidation: The squeeze continues",
+   "url": "https://www.brecorder.com/news/40449211/fiscal-consolidation-the-squeeze-continues",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "Fiscal consolidation continues, albeit at a slower pace, in 1QFY27. All the IMF’s binary fiscal targets were met in the quarter. For the first time in this programme, FBR revenues were also higher than the tentative target. However, the federal tax authority missed its target in October, and it is likely that the gover…",
+   "image": "https://i.brecorder.com/large/2026/02/090312531225351.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
-   "domestic": true
+   "relevant": true,
+   "domestic": false
   },
   {
-   "title": "Late Dr Waheed leaves behind a rich legacy of developing pharmaceutical industry in Pakistan",
-   "url": "https://www.brecorder.com/news/40449199/late-dr-waheed-leaves-behind-a-rich-legacy-of-developing-pharmaceutical-industry-in-pakistan",
+   "title": "Kohat Cement Company Limited",
+   "url": "https://www.brecorder.com/news/40449212/kohat-cement-company-limited",
    "source": "Business Recorder",
-   "published": "2026-11-16T17:02:44+00:00",
-   "summary": "Dr Shaikh Kaiser Waheed, a three-time chairman of the Pakistan Pharmaceutical Manufacturers Association (PPMA), devoted more than three decades of his life to strengthening Pakistan’s pharmaceutical industry, promoting exports, and addressing the challenges faced by manufacturers. A strong advocate of industry-wide col…",
-   "image": "https://i.brecorder.com/large/2026/11/16220119da4f452.jpg",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "Kohat Cement Company Limited (PSX: KOHC) was established by State Cement Corporation of Pakistan in 1984. In 1992, the government privatized the company. The company was listed on the stock exchanges of Pakistan in 1984. The principal activity of the company is the manufacturing and sale of cement [grey and white clink…",
+   "image": "https://i.brecorder.com/large/2025/10/68ed7f868703d.jpg",
    "topics": [
     "Economy"
    ],
@@ -156,16 +274,30 @@
    "domestic": false
   },
   {
-   "title": "Trump says he would not mind Huang being reinstated as Nvidia CEO",
-   "url": "https://www.brecorder.com/news/40449194/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo",
+   "title": "The power of not knowing",
+   "url": "https://www.brecorder.com/news/40449214/the-power-of-not-knowing",
    "source": "Business Recorder",
-   "published": "2026-11-16T15:09:21+00:00",
-   "summary": "WASHINGTON: US President Donald Trump said on Monday he would not mind seeing Jensen Huang reinstated as the chief executive officer of Nvidia and many people would like to see him return. “I think he learned a big lesson. I guess maybe one lesson is more important than another, but I would certainly not mind seeing th…",
-   "image": "https://i.brecorder.com/large/2026/10/1220463448b7e80.webp",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "EDITORIAL: Apparently, Pakistan can decide what electricity should cost before establishing what it actually costs. NEPRA’s provisional increase in the Incremental Consumption Package rate from Rs22.98 to Rs25.30 per unit for industrial and agricultural users is remarkable mainly because of the fact that the regulator …",
+   "image": "https://i.brecorder.com/large/2025/02/14075732054e747.jpg",
    "topics": [
-    "Economy"
+    "Energy & power"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Rise in export of goods",
+   "url": "https://www.brecorder.com/news/40449215/rise-in-export-of-goods",
+   "source": "Business Recorder",
+   "published": "2026-11-16T23:46:54+00:00",
+   "summary": "EDITORIAL: Pakistan Bureau of Statistics (PBS) has estimated exports at 11.4 billion dollars during the first four months (July-October) of the current fiscal year against 10.4 billion dollars in the comparable period of the year before – a rise of 8.8 percent. This, improvement, the press release maintains, reflects t…",
+   "image": "https://i.brecorder.com/large/2026/06/2900581202193c7.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
@@ -214,47 +346,6 @@
    "published": "2026-11-16T11:18:51+00:00",
    "summary": "LONDON: Copper prices fell on Monday to their lowest in more than four months as renewed concerns over AI investment, a stronger dollar and weaker-than-expected economic data from top consumer China hurt risk appetite. Benchmark three-month copper on the London Metal Exchange was down 0.9% at $13,280 a metric ton by 11…",
    "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "IGI Investments eyes up to 60% stake in Nimir Resins",
-   "url": "https://www.brecorder.com/news/40449179/igi-investments-eyes-up-to-60-stake-in-nimir-resins",
-   "source": "Business Recorder",
-   "published": "2026-11-16T10:47:29+00:00",
-   "summary": "IGI Investments (Private) Limited, a wholly owned subsidiary of IGI Holdings Limited, has received in-principle approval to evaluate the purchase of up to 60% shareholding in Nimir Resins Limited. The company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “We have been informed by…",
-   "image": "https://i.brecorder.com/large/2026/09/09025141afcf9da.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "India's Hindustan Zinc to nearly double metal production capacity in $8.5 billion push",
-   "url": "https://www.brecorder.com/news/40449176/indias-hindustan-zinc-to-nearly-double-metal-production-capacity-in-85-billion-push",
-   "source": "Business Recorder",
-   "published": "2026-11-16T10:31:10+00:00",
-   "summary": "India’s Hindustan Zinc said on Monday it plans to invest about 800 billion rupees ($8.50 billion) over the next three to five years to nearly double its metal production capacity, as it looks to capitalise on growing demand from the steel and infrastructure sectors. The company aims to increase its production capacity …",
-   "image": "https://i.brecorder.com/large/2026/11/16152950b0cd0a5.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee rises, volatility ebbs as equity inflows blunt global headwinds",
-   "url": "https://www.brecorder.com/news/40449175/indian-rupee-rises-volatility-ebbs-as-equity-inflows-blunt-global-headwinds",
-   "source": "Business Recorder",
-   "published": "2026-11-16T10:24:34+00:00",
-   "summary": "MUMBAI: The Indian rupee closed stronger on Monday, with near-tenor volatility ebbing to its lowest in a month, as a rebound in foreign equity inflows alongside policy measures steadied the currency, while external headwinds lingered. The currency’s 1-month realized volatility declined to about 4% from 6% two weeks ear…",
-   "image": "https://i.brecorder.com/large/2026/10/091537440e4e660.webp",
    "topics": [
     "Economy"
    ],
@@ -425,19 +516,6 @@
    "published": "2026-11-16T02:11:41+00:00",
    "summary": "Top executives in major public, private and multinational companies enjoy lavish compensation packages, often running in tens of millions of rupees a month, alongside perks like exclusive club memberships and paid overseas family holidays. Yet, officials, corporate leaders and regulators remained unconvinced that widen…",
    "image": "https://i.dawn.com/large/2022/04/62467ea2c8fc1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Goods exports rise 8.8pc to record $11.4b in first four months of FY27",
-   "url": "https://tribune.com.pk/story/2640469/goods-exports-rise-88pc-to-record-114b-in-first-four-months-of-fy27",
-   "source": "The Express Tribune",
-   "published": "2026-11-15T12:36:07+00:00",
-   "summary": "Goods exports reach an all-time high despite a continued decline in shipments to Gulf markets",
-   "image": null,
    "topics": [
     "Economy"
    ],

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T17:54:09+00:00",
+ "generated": "2026-11-17T01:32:51+00:00",
  "count": 973,
  "with_value": 929,
  "with_winner": 343,
@@ -18516,6 +18516,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005185",
+   "tender_no": "TS0000015511E",
+   "reference": "P137838",
+   "title": "PROVISION OF INTERNET SERVICES FOR FEDERAL GOVERNMENT POLYCLINIC (PGMI)-II AT G-11/3, ISLAMABAD Info and Comm Tech Government of Punjab",
+   "organisation": "Government of Punjab Infrastructure Development Authority of the Punjab (IDAP) Head Office Lahore - Pakistan",
+   "bid_count": 2,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-16",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005185",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005184",
    "tender_no": "TS0000014159E",
@@ -57594,26 +57612,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003083",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003082",
-   "tender_no": "TS0000007688E",
-   "reference": "FCS/BWP/TE/021/26",
-   "title": "MS BAR Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Project South Spread - Sui Northern Gas Pipelines Limited (SNGPL) Sadiqabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "AM Enterprises Multan"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-08-31",
-   "city": null,
-   "province": null,
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003082",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
