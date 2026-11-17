@@ -1,49 +1,22 @@
 {
- "generated": "2026-11-17T01:33:17+00:00",
- "count": 43,
- "relevant_count": 12,
- "domestic_count": 18,
+ "generated": "2026-11-17T09:43:04+00:00",
+ "count": 41,
+ "relevant_count": 8,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (9)",
-  "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (5)",
+  "Dawn": "ok (13)",
+  "Business Recorder": "ok (19)",
+  "The Express Tribune": "ok (8)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
-   "title": "SBP projects GDP growth at 3.5pc-4.5pc",
-   "url": "https://www.brecorder.com/news/40449300/sbp-projects-gdp-growth-at-35pc-45pc",
+   "title": "Pakistan, Turkmenistan discuss regional trade corridors, expansion of bilateral commerce",
+   "url": "https://www.brecorder.com/news/40449319/pakistan-turkmenistan-discuss-regional-trade-corridors-expansion-of-bilateral-commerce",
    "source": "Business Recorder",
-   "published": "2026-11-17T01:25:22+00:00",
-   "summary": "KARACHI: Pakistan’s economy is expected to maintain its growth momentum in FY27, with real GDP growth projected at 3.5-4.5 percent, supported by improved macroeconomic stability, a recovery in domestic demand, lagged impact of monetary easing, stronger fiscal and external buffers, and recent fiscal measures aimed at bo…",
-   "image": "https://i.brecorder.com/large/2026/10/030437282ee4297.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Oil and gas: FBR asks 13 E&P cos to issue digital ST invoices",
-   "url": "https://www.brecorder.com/news/40449297/oil-and-gas-fbr-asks-13-eampp-cos-to-issue-digital-st-invoices",
-   "source": "Business Recorder",
-   "published": "2026-11-17T01:12:34+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed 13 oil and gas exploration and production (E&P) companies to issue digital sales tax invoices and integrate them with its computerised system from December 2026 onwards. In this regard, the FBR has issued Sales Tax General Order (STGO) No. 36 of 2026, on Monday…",
-   "image": "https://i.brecorder.com/large/2025/12/310118429a01896.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SMEs: PM approves facilitation centres in four cities",
-   "url": "https://www.brecorder.com/news/40449293/smes-pm-approves-facilitation-centres-in-four-cities",
-   "source": "Business Recorder",
-   "published": "2026-11-17T00:44:49+00:00",
-   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Monday approved plans to establish Small and Medium-sized Enterprises (SMEs) facilitation centres in four major cities as part of a government initiative to boost exports, support emerging businesses and expand access to commercial opportunities. The centres will be establish…",
-   "image": "https://i.brecorder.com/large/2024/11/291950285f8d046.jpg",
+   "published": "2026-11-17T05:25:27+00:00",
+   "summary": "Amid rising freight costs and disruption to traditional trade routes, Pakistan is seeking to build new trade corridors through Turkmenistan to Central Asia, proposing direct Islamabad-Ashgabat flights, cargo services for perishables, NLC trucking corridors, and alternative routes for marble and other exports. The devel…",
+   "image": "https://i.brecorder.com/large/2026/11/17102333c3a53cc.webp",
    "topics": [
     "Economy"
    ],
@@ -51,12 +24,12 @@
    "domestic": true
   },
   {
-   "title": "Inflation to remain above medium-term target range: SBP",
-   "url": "https://www.brecorder.com/news/40449291/inflation-to-remain-above-medium-term-target-range-sbp",
-   "source": "Business Recorder",
-   "published": "2026-11-17T00:35:09+00:00",
-   "summary": "KARACHI: The State Bank of Pakistan (SBP) has projected that inflation to remain above its medium-term target range in FY27, as global energy price shocks and rising input costs continue to exert upward pressure on domestic prices. According to the SBP’s Annual Report on the State of Pakistan’s Economy for FY26, averag…",
-   "image": "https://i.brecorder.com/large/2023/11/655d2f59a48c6.jpg",
+   "title": "Millers seek immediate sugar exports",
+   "url": "https://www.dawn.com/news/2045049/millers-seek-immediate-sugar-exports",
+   "source": "Dawn",
+   "published": "2026-11-17T01:42:05+00:00",
+   "summary": "LAHORE: The Pakis­tan Sugar Mills Asso­cia­tion has urged the government to allow the immediate export of sugar, fully deregulate the sector, and withdraw the notification requiring mills to start crushing promptly. Speaking at a press conference on Monday, PSMA Chairman Asim Ghani Usman asked the government to pay imm…",
+   "image": "https://i.dawn.com/large/2021/11/618f44afb8d6a.png",
    "topics": [
     "Economy"
    ],
@@ -64,38 +37,12 @@
    "domestic": true
   },
   {
-   "title": "RLNG shortage to risk winter power supply, ISMO warns",
-   "url": "https://www.brecorder.com/news/40449287/rlng-shortage-to-risk-winter-power-supply-ismo-warns",
-   "source": "Business Recorder",
-   "published": "2026-11-16T23:46:55+00:00",
-   "summary": "ISLAMABAD: The Independent System Market Operator (ISMO) has warned that inadequate supplies of Re-gasified Liquefied Natural Gas (RLNG) to gas-fired power plants could expose the electricity system to stability risks during the upcoming winter, potentially resulting in increased load management. In a letter addressed …",
-   "image": "https://i.brecorder.com/large/2026/05/05031002c7b8a5a.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Turkmenistan invited to join CASA-1000",
-   "url": "https://www.brecorder.com/news/40449288/turkmenistan-invited-to-join-casa-1000",
-   "source": "Business Recorder",
-   "published": "2026-11-16T23:46:55+00:00",
-   "summary": "ISLAMABAD: Pakistan has invited Turkmenistan to become part of the Central Asia-South Asia Electricity Transmission and Trade Project (CASA-1000) and proposed enhancing electricity transmission capacity to Gwadar through the Iranian grid, as Islamabad seeks to strengthen regional energy connectivity and integrate elect…",
-   "image": "https://i.brecorder.com/large/2026/11/16151559918a9f7.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "PSMA seeks export of surplus sugar, sector deregulation",
-   "url": "https://www.brecorder.com/news/40449213/psma-seeks-export-of-surplus-sugar-sector-deregulation",
-   "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) has urged the government to allow immediate export of surplus sugar, fully deregulate the sugar sector and withdraw the notification directing mills to commence crushing for 15 days to enable the industry to make necessary arrangements. The millers said that the notif…",
-   "image": "https://i.brecorder.com/large/2023/12/65724aa039150.jpg",
+   "title": "Financing for export sector raised to Rs1.5tr",
+   "url": "https://www.dawn.com/news/2045050/financing-for-export-sector-raised-to-rs15tr",
+   "source": "Dawn",
+   "published": "2026-11-17T01:42:05+00:00",
+   "summary": "ISLAMABAD: The government has raised financing under the Export Finance Scheme (EFS) to Rs1.5 trillion from Rs1 trillion, with Rs300 billion earmarked for small and medium enterprises and new exporters, as it seeks to drive export-led growth. The revised schemes, which take effect on Nov 1, were reviewed at a meeting h…",
+   "image": "https://i.dawn.com/large/2026/11/170919362be930b.webp",
    "topics": [
     "Economy"
    ],
@@ -103,42 +50,16 @@
    "domestic": true
   },
   {
-   "title": "PSA seeks correction in solar panel regulations",
-   "url": "https://www.brecorder.com/news/40449235/psa-seeks-correction-in-solar-panel-regulations",
-   "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "ISLAMABAD: Pakistan Solar Association (PSA) has sought intervention of the Power Division to resolve regulatory ambiguity surrounding installation of solar photovoltaic (PV) panels beyond the Distributed Generation (DG) capacity approved by the National Electric Power Regulatory Authority (Nepra), arguing that addition…",
-   "image": "https://i.brecorder.com/large/2024/06/1408070293d6ecd.jpg",
+   "title": "Equities post modest gains despite profit-taking",
+   "url": "https://www.dawn.com/news/2045046/equities-post-modest-gains-despite-profit-taking",
+   "source": "Dawn",
+   "published": "2026-11-17T01:42:05+00:00",
+   "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) opened the week cautiously, with market sentiment mixed on Monday. The benchmark KSE-100 index nevertheless posted modest gains, as profit-taking in the closing hours pared its earlier advances. Topline Securities Ltd said the benchmark remained volatile throughout the sessio…",
+   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Pandorian Model Graveyard: CDA completes 70pc of construction work",
-   "url": "https://www.brecorder.com/news/40449240/pandorian-model-graveyard-cda-completes-70pc-of-construction-work",
-   "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "ISLAMABAD: The Capital Development Authority (CDA) has completed 70 percent of construction work on the Pandorian Model Graveyard, spanning over 860 kanals of land in Islamabad, and aims to complete the remaining work by the end of 2026 to address the longstanding shortage of burial space in the federal capital. Accord…",
-   "image": "https://i.brecorder.com/large/2025/07/68673d9329d7e.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KDA intensifies anti-encroachment drive",
-   "url": "https://www.brecorder.com/news/40449241/kda-intensifies-anti-encroachment-drive",
-   "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "KARACHI: Acting on the special directives of Sindh Local Government Minister Syed Nasir Hussain Shah and pursuing the strict policy of Karachi Development Authority, Director General Zain-ul-Abideen Ansari, operations against illegal encroachments on state land have been intensified across the metropolis . As part of t…",
-   "image": "https://i.brecorder.com/large/2025/11/69220c0774ba3.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -221,19 +142,6 @@
    "domestic": true
   },
   {
-   "title": "Sindh plans one-window for builders at ABAD House",
-   "url": "https://www.dawn.com/news/2044370/sindh-plans-one-window-for-builders-at-abad-house",
-   "source": "Dawn",
-   "published": "2026-11-14T03:21:03+00:00",
-   "summary": "KARACHI: Sindh Minister for Local Government Syed Nasir Hussain Shah has said the government is committed to providing a conducive business environment and creating investment opportunities, particularly in the construction industry. Inaugurating the three-day ABAD In-House Exhibition of construction products on Friday…",
-   "image": "https://i.dawn.com/large/2026/11/1408201344a8106.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Fiscal surplus shrinks 40pc as revenues decline",
    "url": "https://www.dawn.com/news/2044374/fiscal-surplus-shrinks-40pc-as-revenues-decline",
    "source": "Dawn",
@@ -248,12 +156,25 @@
    "domestic": true
   },
   {
-   "title": "Fiscal consolidation: The squeeze continues",
-   "url": "https://www.brecorder.com/news/40449211/fiscal-consolidation-the-squeeze-continues",
+   "title": "ECO explained: Its history, 10 members and Pakistan's role",
+   "url": "https://www.brecorder.com/news/40449349/eco-explained-its-history-10-members-and-pakistans-role",
    "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "Fiscal consolidation continues, albeit at a slower pace, in 1QFY27. All the IMF’s binary fiscal targets were met in the quarter. For the first time in this programme, FBR revenues were also higher than the tentative target. However, the federal tax authority missed its target in October, and it is likely that the gover…",
-   "image": "https://i.brecorder.com/large/2026/02/090312531225351.webp",
+   "published": "2026-11-17T09:41:57+00:00",
+   "summary": "The Economic Cooperation Organization (ECO) is a 10-member regional bloc aimed at promoting trade, investment and economic cooperation across South Asia, Central Asia and West Asia. For Pakistan, the organisation offers an important platform to strengthen regional trade, improve connectivity with landlocked Central Asi…",
+   "image": "https://i.brecorder.com/large/2026/11/17143954a711780.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian Development Bank approves $500m loan to support Pakistan’s federal pension reforms",
+   "url": "https://www.dawn.com/news/2045164/asian-development-bank-approves-500m-loan-to-support-pakistans-federal-pension-reforms",
+   "source": "Dawn",
+   "published": "2026-11-17T09:24:29+00:00",
+   "summary": "The Asian Development Bank (ADB) on Tuesday approved a $500 million results-based loan to help Pakistan reform its federal civil pension system, the Manila-based lending agency said in a statement . The reforms will help contain rising pension-related fiscal pressures, strengthen pension system sustainability, and expa…",
+   "image": "https://i.dawn.com/large/2026/11/17141138adabf62.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -261,12 +182,12 @@
    "domestic": false
   },
   {
-   "title": "Kohat Cement Company Limited",
-   "url": "https://www.brecorder.com/news/40449212/kohat-cement-company-limited",
+   "title": "US dollar hits 19-month peak on Fed hike bets",
+   "url": "https://www.brecorder.com/news/40449310/us-dollar-hits-19-month-peak-on-fed-hike-bets",
    "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "Kohat Cement Company Limited (PSX: KOHC) was established by State Cement Corporation of Pakistan in 1984. In 1992, the government privatized the company. The company was listed on the stock exchanges of Pakistan in 1984. The principal activity of the company is the manufacturing and sale of cement [grey and white clink…",
-   "image": "https://i.brecorder.com/large/2025/10/68ed7f868703d.jpg",
+   "published": "2026-11-17T07:43:31+00:00",
+   "summary": "TOKYO: The dollar on Tuesday ​scaled a fresh 19-month peak against a basket of peers amid bets for more ‌aggressive policy tightening by the US Federal Reserve following hot inflation data and hawkish central bank rhetoric. The US currency extended a 10-month high versus its Australian counterpart as a global selloff i…",
+   "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg",
    "topics": [
     "Economy"
    ],
@@ -274,39 +195,246 @@
    "domestic": false
   },
   {
-   "title": "The power of not knowing",
-   "url": "https://www.brecorder.com/news/40449214/the-power-of-not-knowing",
+   "title": "Australia shares hit over one-week low as miners, banks drag",
+   "url": "https://www.brecorder.com/news/40449337/australia-shares-hit-over-one-week-low-as-miners-banks-drag",
    "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "EDITORIAL: Apparently, Pakistan can decide what electricity should cost before establishing what it actually costs. NEPRA’s provisional increase in the Incremental Consumption Package rate from Rs22.98 to Rs25.30 per unit for industrial and agricultural users is remarkable mainly because of the fact that the regulator …",
-   "image": "https://i.brecorder.com/large/2025/02/14075732054e747.jpg",
+   "published": "2026-11-17T07:05:29+00:00",
+   "summary": "Australian shares slipped in early trade on Tuesday , weighed down by heavyweight miners and financial stocks, while the central bank governor warned that inflation risks remain skewed to the upside. The S&P/ASX 200 index fell 1% to 8,956 points as of 2315 GMT. It extended losses to a fourth straight session and hit a …",
+   "image": "https://i.brecorder.com/large/2025/12/171034561feb5c9.webp",
    "topics": [
-    "Energy & power"
+    "Economy"
    ],
    "relevant": false,
    "domestic": false
   },
   {
-   "title": "Rise in export of goods",
-   "url": "https://www.brecorder.com/news/40449215/rise-in-export-of-goods",
+   "title": "Thai baht/US dollar steady on Tuesday",
+   "url": "https://www.brecorder.com/news/40449334/thai-bahtus-dollar-steady-on-tuesday",
    "source": "Business Recorder",
-   "published": "2026-11-16T23:46:54+00:00",
-   "summary": "EDITORIAL: Pakistan Bureau of Statistics (PBS) has estimated exports at 11.4 billion dollars during the first four months (July-October) of the current fiscal year against 10.4 billion dollars in the comparable period of the year before – a rise of 8.8 percent. This, improvement, the press release maintains, reflects t…",
-   "image": "https://i.brecorder.com/large/2026/06/2900581202193c7.webp",
+   "published": "2026-11-17T06:54:39+00:00",
+   "summary": "BANGKOK: The Thai baht was little changed against the US dollar on Tuesday . At 0220 GMT, the baht was 0.07% higher at 33.84 versus the dollar, after trading in a range of 33.845 to 33.898. It ended the previous session at 33.865 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
    "topics": [
-    "Budget & spending",
     "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Copper extends losses on AI worries, dollar strength",
+   "url": "https://www.brecorder.com/news/40449333/copper-extends-losses-on-ai-worries-dollar-strength",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:52:33+00:00",
+   "summary": "Copper prices extended losses on Tuesday as AI investment worries, a firmer US dollar and weak economic data from top consumer China continued to weigh on the market. Benchmark three-month copper on the London Metal Exchange was down 0.2% to $13,225 a metric ton by 0205 GMT, after touching its lowest level since July 1…",
+   "image": "https://i.brecorder.com/large/2026/01/2711244598f9849.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "APEC focuses on safe, responsible AI use, China's UN envoy says",
+   "url": "https://www.brecorder.com/news/40449332/apec-focuses-on-safe-responsible-ai-use-chinas-un-envoy-says",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:50:12+00:00",
+   "summary": "SHENZHEN: Countries making up the Asia-Pacific Economic Cooperation are focused on the safe deployment and responsible application of artificial intelligence, Chen Xu, the chair of the APEC Senior Officials’ Meeting this year, said on Tuesday. APEC members have had an in-depth discussion and reached an important consen…",
+   "image": "https://i.brecorder.com/large/2026/11/1711490385408c2.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
+   "url": "https://www.brecorder.com/news/40449309/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:42:49+00:00",
+   "summary": "Gold prices were nearly steady on Tuesday , hovering near a more-than-one-year low touched in the previous session, as a firmer US dollar and growing expectations of a Federal Reserve rate hike next month weighed on bullion. Spot gold was little changed at $3,869.13 per ounce by 0301 GMT, after hitting its lowest level…",
+   "image": "https://i.brecorder.com/large/2026/11/1608040097d63aa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dubai's DXB passenger traffic down 28% in first nine months as conflict disrupts regional travel",
+   "url": "https://www.brecorder.com/news/40449330/dubais-dxb-passenger-traffic-down-28-in-first-nine-months-as-conflict-disrupts-regional-travel",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:39:36+00:00",
+   "summary": "DUBAI: Dubai International Airport (DXB) welcomed 50.4 million passengers in the first nine months of 2026, down 28.1% compared to the same period a year earlier, its operator Dubai Airports said on Tuesday, as disruptions from the Middle East conflict affected regional travel. The war has severely disrupted travel acr…",
+   "image": "https://i.brecorder.com/large/2026/09/10191638754aa8e.webp",
+   "topics": [
+    "Construction & projects"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "PSX: KSE-100 settles marginally higher amid late profit-taking",
-   "url": "https://www.brecorder.com/news/40449135/psx-kse-100-settles-marginally-higher-amid-late-profit-taking",
+   "title": "Yuan steady despite firm dollar as PBOC strengthens fixing ahead of APEC",
+   "url": "https://www.brecorder.com/news/40449329/yuan-steady-despite-firm-dollar-as-pboc-strengthens-fixing-ahead-of-apec",
    "source": "Business Recorder",
-   "published": "2026-11-16T14:12:07+00:00",
-   "summary": "The KSE-100 Index ended marginally higher on Monday, with late-session profit-taking trimming most of its intra-day gains. The market opened on a positive note with the benchmark index initially gaining momentum and climbing to an intra-day high of 179,692.98. However, the upward momentum weakened during the final hour…",
-   "image": "https://i.brecorder.com/large/2026/11/16095206186d384.webp",
+   "published": "2026-11-17T06:32:29+00:00",
+   "summary": "HONG KONG: China’s yuan held near a two-week high against the US dollar on Tuesday after the central bank set a stronger midpoint that helped offset renewed greenback strength ahead of an APEC summit this week. The yuan was 0.02% lower at 6.6652 to the dollar, hovering near its strongest level since November 3. The off…",
+   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australian dollar hits 10-month low; kiwi hovers near 2009 crisis-era levels",
+   "url": "https://www.brecorder.com/news/40449328/australian-dollar-hits-10-month-low-kiwi-hovers-near-2009-crisis-era-levels",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:30:32+00:00",
+   "summary": "SYDNEY: The Australian dollar weakened to a 10-month low on Tuesday as a selloff in global stocks battered risk appetite, while the kiwi hovered just above levels last seen during the global financial crisis in 2009. The Aussie hit a low of $0.6728 before bouncing 0.1% to $0.6743. The currency skidded 0.6% overnight fo…",
+   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian bonds gain as oil slide eases rate hike concerns",
+   "url": "https://www.brecorder.com/news/40449327/indian-bonds-gain-as-oil-slide-eases-rate-hike-concerns",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:26:57+00:00",
+   "summary": "MUMBAI: Indian government bonds rose in early trade on Tuesday as plunging oil prices eased rate hike concerns sparked by elevated inflation readings. The benchmark 6.94% 2036 bond yield was at 7.2813% as of 10 a.m. IST, down from 7.3169% on Monday. “Falling crude offers India’s bond market a timely cushion as it could…",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil slips as recovering Mideast exports blunt Gulf tensions",
+   "url": "https://www.brecorder.com/news/40449308/oil-slips-as-recovering-mideast-exports-blunt-gulf-tensions",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:12:43+00:00",
+   "summary": "SINGAPORE: Oil prices fell on Tuesday as expectations of a supply surplus, driven by recovering Middle East exports, overshadowed concerns about continued attacks on tankers in the region and broader geopolitical tensions. Brent crude futures dropped 78 cents, or 0.8%, to $91.66 a barrel by 0430 GMT, while US West Texa…",
+   "image": "https://i.brecorder.com/large/2026/10/2707484120ec1ba.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Canada and China extend trade deals as Xi meets Carney ahead of APEC summit",
+   "url": "https://www.brecorder.com/news/40449326/canada-and-china-extend-trade-deals-as-xi-meets-carney-ahead-of-apec-summit",
+   "source": "Business Recorder",
+   "published": "2026-11-17T06:07:18+00:00",
+   "summary": "SHENZHEN: China will cut tariffs on Canadian exports including pork and seafood, Prime Minister Mark Carney’s office said on Tuesday, as he hailed “greater predictability and stability” in China-Canada relations. Meeting with Chinese President Xi Jinping in the southern Chinese tech and manufacturing hub of Shenzhen ah…",
+   "image": "https://i.brecorder.com/large/2026/11/17105537e17604c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Philippines raises $470 million from T-bond offer",
+   "url": "https://www.brecorder.com/news/40449320/philippines-raises-470-million-from-t-bond-offer",
+   "source": "Business Recorder",
+   "published": "2026-11-17T05:35:17+00:00",
+   "summary": "MANILA: Following are the results of the Philippine Bureau of the Treasury’s (BTr) auction of reissued 2031 T-bonds on Tuesday: BTr fully awards 30 billion pesos ($470.15 million) offer at an average rate of 7.623%. Tenders total 71.66 billion pesos.",
+   "image": "https://i.brecorder.com/large/2026/06/22103310917a0a3.webp",
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: buying continues, KSE-100 up over 1,100 points",
+   "url": "https://www.brecorder.com/news/40449318/psx-buying-continues-kse-100-up-over-1100-points",
+   "source": "Business Recorder",
+   "published": "2026-11-17T04:49:17+00:00",
+   "summary": "Buying interest was observed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining over 1,100 points during the opening minutes of trading on Tuesday. At 9:35am, the benchmark index was hovering at 179,337.26, up 1,154.31 points or 0.65%. Buying was observed in key sectors, including automobile…",
+   "image": "https://i.brecorder.com/large/2024/10/66fc79c6a93a7.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX rally fizzles as KSE-100 sheds over 450 points",
+   "url": "https://tribune.com.pk/story/2640787/psx-rally-fizzles-as-kse-100-sheds-over-450-points",
+   "source": "The Express Tribune",
+   "published": "2026-11-17T03:19:32+00:00",
+   "summary": "Initial buying fades as cautious sentiment weighs on market momentum",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee to strengthen as oil slides, AI trade unwind picks up pace",
+   "url": "https://www.brecorder.com/news/40449313/indian-rupee-to-strengthen-as-oil-slides-ai-trade-unwind-picks-up-pace",
+   "source": "Business Recorder",
+   "published": "2026-11-17T03:07:04+00:00",
+   "summary": "MUMBAI: The rupee is expected to inch higher at Tuesday’s open , boosted by lower oil prices and an accelerating shift away ​from AI-linked trades that has revived foreign equity inflows into India, ‌supporting the currency. The Indian rupee is expected to open in the 93.84 to 93.88 range, per traders, having settled a…",
+   "image": "https://i.brecorder.com/large/2026/11/170805120962054.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Flour gets costlier as wheat imports stay insufficient amid shortfall",
+   "url": "https://www.dawn.com/news/2045087/flour-gets-costlier-as-wheat-imports-stay-insufficient-amid-shortfall",
+   "source": "Dawn",
+   "published": "2026-11-17T02:26:38+00:00",
+   "summary": "https://www.dawn.com/news/2045051",
+   "image": "https://i.dawn.com/large/2026/10/0807482694fecc1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "46% blame taxes for rising petrol prices",
+   "url": "https://tribune.com.pk/story/2640679/46-blame-taxes-for-rising-petrol-prices",
+   "source": "The Express Tribune",
+   "published": "2026-11-16T15:47:55+00:00",
+   "summary": "Survey finds 21% cite global conditions; tax concerns more pronounced among urban respondents",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gold falls as upcoming Fed rate hike weighs",
+   "url": "https://tribune.com.pk/story/2640682/gold-falls-as-upcoming-fed-rate-hike-weighs",
+   "source": "The Express Tribune",
+   "published": "2026-11-16T15:47:55+00:00",
+   "summary": "Loses Rs2,000/tola on global price slide; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SBP warns of premature deindustrialisation",
+   "url": "https://tribune.com.pk/story/2640677/sbp-warns-of-premature-deindustrialisation",
+   "source": "The Express Tribune",
+   "published": "2026-11-16T15:47:54+00:00",
+   "summary": "Manufacturing value added stagnant since 1960s; investment falls to 12.6% of GDP",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -327,19 +455,6 @@
    "domestic": false
   },
   {
-   "title": "Oil falls as recovering Middle East exports bolster surplus outlook",
-   "url": "https://www.brecorder.com/news/40449125/oil-falls-as-recovering-middle-east-exports-bolster-surplus-outlook",
-   "source": "Business Recorder",
-   "published": "2026-11-16T13:32:54+00:00",
-   "summary": "LONDON: Oil prices fell about 1% on Monday as signs of recovering oil flows through the Strait of Hormuz reinforced expectations of surplus supply, though fresh tanker incidents underscored risks to Middle East exports. Brent crude futures were down $1.06, or 1.1%, at $94.78 a barrel by 1311 GMT. US West Texas Intermed…",
-   "image": "https://i.brecorder.com/large/2026/05/08052318c855fa3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Stronger dollar, AI investment worries push copper to four-month low",
    "url": "https://www.brecorder.com/news/40449186/stronger-dollar-ai-investment-worries-push-copper-to-four-month-low",
    "source": "Business Recorder",
@@ -353,156 +468,12 @@
    "domestic": false
   },
   {
-   "title": "SBP projects 3.5-4.5% GDP growth for FY27",
-   "url": "https://tribune.com.pk/story/2640631/sbp-projects-35-45-gdp-growth-for-fy27",
-   "source": "The Express Tribune",
-   "published": "2026-11-16T08:44:39+00:00",
-   "summary": "Expects inflation at 5-7%; weak industrial growth hampers job creation",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australia, NZ dollars hit new multi-month lows as yield support vanishes",
-   "url": "https://www.brecorder.com/news/40449155/australia-nz-dollars-hit-new-multi-month-lows-as-yield-support-vanishes",
-   "source": "Business Recorder",
-   "published": "2026-11-16T07:36:16+00:00",
-   "summary": "SYDNEY: The Aussie skidded for a fifth session on Monday to a fresh 10-month low , while the kiwi sank to a 19-month trough as a sharp rise in US yields lifted the dollar broadly and erased the yield premium that had supported both currencies. The Aussie slipped 0.2% to $0.6759, the lowest level since late January. Tha…",
-   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yuan steady as disappointing economic data offset by robust corporate year-end demand",
-   "url": "https://www.brecorder.com/news/40449153/yuan-steady-as-disappointing-economic-data-offset-by-robust-corporate-year-end-demand",
-   "source": "Business Recorder",
-   "published": "2026-11-16T07:33:19+00:00",
-   "summary": "SHANGHAI: China’s yuan held steady against a strong greenback on Friday , as year-end corporate demand for the currency offset the drag from weak economic data and widening US-China yield gaps. Spot yuan opened at 6.6711 per dollar and was last trading at 6.6696 as of 0253 GMT, 30 pips firmer than the previous late ses…",
-   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Wheat falls towards multi-month lows on firmer dollar, harvest pressure",
-   "url": "https://www.brecorder.com/news/40449151/wheat-falls-towards-multi-month-lows-on-firmer-dollar-harvest-pressure",
-   "source": "Business Recorder",
-   "published": "2026-11-16T07:26:18+00:00",
-   "summary": "CANBERRA: Chicago wheat futures retreated on Monday towards multi-month lows, pressured by a stronger dollar and the onset of what are expected to be large harvests in Australia and Argentina. Corn and soybean futures edged lower, but remained underpinned by resilient US export demand despite the stronger dollar and a …",
-   "image": "https://i.brecorder.com/large/2023/12/658b4b004fa38.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "BOJ's Takata calls for swift hike in rates to 'good' position",
-   "url": "https://www.brecorder.com/news/40449150/bojs-takata-calls-for-swift-hike-in-rates-to-good-position",
-   "source": "Business Recorder",
-   "published": "2026-11-16T07:20:55+00:00",
-   "summary": "TOKYO: The Bank of Japan must raise its policy rate to a “good” position at an early stage and focus on forestalling upside price risks including from the Middle East conflict, its board member Hajime Takata said on Monday. “I believe the bank needs to conduct rate hikes nimbly after gauging the degree of accommodation…",
-   "image": "https://i.brecorder.com/large/2026/09/19033157d6a16fe.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian bonds consolidate after last week's selloff",
-   "url": "https://www.brecorder.com/news/40449146/indian-bonds-consolidate-after-last-weeks-selloff",
-   "source": "Business Recorder",
-   "published": "2026-11-16T07:00:22+00:00",
-   "summary": "MUMBAI: Indian government bonds consolidated on Monday after yields posted a sharp spike last week tracking Treasuries, while traders and investors try to gauge where interest rates in the country and in the United States are headed next. The benchmark 6.94% 2036 bond yield was at 7.3117% as of 10:00 a.m. IST on Monday…",
-   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Coal India unit Mahanadi seeks $9.6 billion valuation in IPO",
-   "url": "https://www.brecorder.com/news/40449144/coal-india-unit-mahanadi-seeks-96-billion-valuation-in-ipo",
-   "source": "Business Recorder",
-   "published": "2026-11-16T06:53:12+00:00",
-   "summary": "India’s state-owned Coal India unit Mahanadi Coalfields has set a price band of 129 rupees to 136 rupees per share for its initial public offering, seeking a valuation of up to 900 billion rupees ($9.55 billion), a filing showed on Monday. The company, the third subsidiary of state-run Coal India to go public this year…",
-   "image": "https://i.brecorder.com/large/2026/11/161152166bcb2c1.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PM approves establishment of SME facilitation centres at district level to boost exports",
-   "url": "https://tribune.com.pk/story/2640614/pm-approves-establishment-of-sme-facilitation-centers-at-district-level-to-boost-exports",
-   "source": "The Express Tribune",
-   "published": "2026-11-16T06:30:23+00:00",
-   "summary": "Approve modernisation and restructuring of TDAP and SMEDA to promote exports, align industries with int standards",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "JGB yields rise, tracking US yields as Fed hike bets build",
-   "url": "https://www.brecorder.com/news/40449139/jgb-yields-rise-tracking-us-yields-as-fed-hike-bets-build",
-   "source": "Business Recorder",
-   "published": "2026-11-16T06:09:50+00:00",
-   "summary": "TOKYO: Japanese government bond (JGB) yields rose to multi-week highs on Monday, tracking an increase in US yields as investors ramped up bets on further Federal Reserve tightening. Additional upward pressure came from Bank of Japan board member Hajime Takata, who said the central bank needed to raise interest rates “n…",
-   "image": "https://i.brecorder.com/large/2026/10/141139348da9e36.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Sugar exports, price spikes, imports: a cycle successive govts have failed to break",
    "url": "https://www.dawn.com/news/2044895/sugar-exports-price-spikes-imports-a-cycle-successive-govts-have-failed-to-break",
    "source": "Dawn",
    "published": "2026-11-16T04:08:30+00:00",
    "summary": "https://www.dawn.com/news/2044627",
    "image": "https://i.dawn.com/large/2024/11/672d86dbc44c5.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Yen steady against euro and dollar after soft Japanese GDP data",
-   "url": "https://www.brecorder.com/news/40449131/yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data",
-   "source": "Business Recorder",
-   "published": "2026-11-16T03:12:07+00:00",
-   "summary": "SINGAPORE: The yen was pinned near two-month lows against the dollar and little moved against the euro in early trade on Monday as markets assessed how an unexpected contraction ​in the Japanese economy in the third quarter affects the policy outlook. The yen ‌fluctuated between gains and losses without moving too far,…",
-   "image": "https://i.brecorder.com/large/2026/11/16080940314e9cd.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee caught between external pressures and foreign inflows",
-   "url": "https://www.brecorder.com/news/40449127/indian-rupee-caught-between-external-pressures-and-foreign-inflows",
-   "source": "Business Recorder",
-   "published": "2026-11-16T02:51:29+00:00",
-   "summary": "MUMBAI: The Indian rupee is expected to open largely flat on Monday , caught between higher US bond yields, dollar ​strength and volatile oil prices , while a revival in foreign ‌portfolio inflows cushions the pressure. The Indian rupee is expected to open in the 94.22 to 94.28 range, per traders, having settled at 94.…",
-   "image": "https://i.brecorder.com/large/2026/11/1607494519b5eac.jpg",
    "topics": [
     "Economy"
    ],
