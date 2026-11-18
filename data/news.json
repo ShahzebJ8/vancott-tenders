@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-17T18:59:49+00:00",
- "count": 39,
- "relevant_count": 9,
- "domestic_count": 11,
+ "generated": "2026-11-18T01:33:08+00:00",
+ "count": 43,
+ "relevant_count": 11,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (11)",
   "Business Recorder": "ok (18)",
@@ -10,6 +10,99 @@
   "ARY News": "error: RuntimeError"
  },
  "stories": [
+  {
+   "title": "SBP mandates GD numbers in bank debit advice",
+   "url": "https://www.brecorder.com/news/40449474/sbp-mandates-gd-numbers-in-bank-debit-advice",
+   "source": "Business Recorder",
+   "published": "2026-11-18T01:15:46+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has directed banks to mention the relevant Goods Declaration (GD) number(s) in Bank Debit Advice (BDAs) for all import transactions to improve the quality and accuracy of trade-related information. As per Para 6B (ix), Chapter 13 of the Foreign Exchange Manual Authorised Dealer…",
+   "image": "https://i.brecorder.com/large/2023/11/655d2f59a48c6.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Governor’s Annual Report FY26: SBP remains vigilant in monitoring risks to the economy",
+   "url": "https://www.brecorder.com/news/40449473/governors-annual-report-fy26-sbp-remains-vigilant-in-monitoring-risks-to-the-economy",
+   "source": "Business Recorder",
+   "published": "2026-11-18T01:13:28+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has cautioned that evolving external and domestic risks, particularly a prolonged conflict in the Middle East and extreme weather events associated with El Niño, could pose challenges to the country’s macroeconomic outlook and affect projected economic outcomes. However, the SB…",
+   "image": "https://i.brecorder.com/large/2025/10/68f2dc3f0568d.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "HESCO seeks PD clarification on Rs109.9bn withheld subsidy claims",
+   "url": "https://www.brecorder.com/news/40449472/hesco-seeks-pd-clarification-on-rs1099bn-withheld-subsidy-claims",
+   "source": "Business Recorder",
+   "published": "2026-11-18T01:09:40+00:00",
+   "summary": "ISLAMABAD: Hyderabad Electric Supply Company (HESCO) has sought clear directions from the Power Division regarding verification and payment of outstanding and withheld subsidy claims amounting to Rs109.9 billion up to June 30, 2025, arguing that the existing government policy does not provide for withholding subsidies …",
+   "image": "https://i.brecorder.com/large/2025/02/2103123160a55ce.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KE denies carrying out excessive loadshedding",
+   "url": "https://www.brecorder.com/news/40449423/ke-denies-carrying-out-excessive-loadshedding",
+   "source": "Business Recorder",
+   "published": "2026-11-18T00:27:32+00:00",
+   "summary": "KARACHI: K-Electric (KE) clarifies that it is not conducting any excessive load shedding in Karachi’s commercial and wholesale markets located in Jodia Bazar, Pakistan Motorcycle Spare Parts Importers and Dealers Association, Auto Parts Market, Eidgah, Urdu Bazar and Old Haji Camp. These markets are served by a total o…",
+   "image": "https://i.brecorder.com/large/2026/01/220450392546a4d.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR notifies customs export values of sesame seeds",
+   "url": "https://www.brecorder.com/news/40449428/fbr-notifies-customs-export-values-of-sesame-seeds",
+   "source": "Business Recorder",
+   "published": "2026-11-18T00:27:32+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has determined minimum customs export values of different varieties of sesame seeds, ranging from USD 1,103 to USD 1,524 per metric ton. The Directorate of Customs Valuation, Lahore has issued Valuation Ruling No. 03 of 2026 on Tuesday. The ruling has specified minimum free…",
+   "image": "https://i.brecorder.com/large/2026/02/090312531225351.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Assets and liabilities: FBR directs officials to digitally file declarations",
+   "url": "https://www.brecorder.com/news/40449429/assets-and-liabilities-fbr-directs-officials-to-digitally-file-declarations",
+   "source": "Business Recorder",
+   "published": "2026-11-18T00:27:32+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has directed all its officials, including officers of the Inland Revenue Service (IRS), Pakistan Customs Service (PCS) and ex-cadre officers in BS-17 and above, to digitally file their declarations of assets and liabilities for the financial year 2025-26 by November 30, 202…",
+   "image": "https://i.brecorder.com/large/2025/12/310118429a01896.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Finland keen to strengthen economic ties with Pakistan: envoy",
+   "url": "https://www.brecorder.com/news/40449437/finland-keen-to-strengthen-economic-ties-with-pakistan-envoy",
+   "source": "Business Recorder",
+   "published": "2026-11-18T00:27:32+00:00",
+   "summary": "KARACHI: Finland wants to strengthen its economic relations with Pakistan by developing partnerships focused on mutual prosperity, with mining, energy, healthcare, construction and technology emerging as promising areas of cooperation, said Jarno Syrjälä, Deputy Minister for International Trade at Finland’s Ministry fo…",
+   "image": "https://i.brecorder.com/large/2025/08/68926a1539176.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40449355/rupee-registers-gain-against-us-dollar",
@@ -21,19 +114,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Saudi's Delta Energy to explore $30 billion energy investment in Pakistan",
-   "url": "https://www.brecorder.com/news/40449353/saudis-delta-energy-to-explore-30-billion-energy-investment-in-pakistan",
-   "source": "Business Recorder",
-   "published": "2026-11-17T10:40:48+00:00",
-   "summary": "ISLAMABAD: Saudi Arabian energy company Delta Energy Saudi signed an agreement with Pakistan’s Inter State Gas Systems to explore development of energy infrastructure in the South Asian country, with a proposed investment of about $30 billion, the companies said in a statement on Tuesday. The programme would assess a n…",
-   "image": "https://i.brecorder.com/large/2026/11/172131423f2f8a6.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -155,16 +235,16 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s IT exports reach all-time monthly high of $453mn in Oct 2026",
-   "url": "https://www.brecorder.com/news/40449368/pakistans-it-exports-reach-all-time-monthly-high-of-453mn-in-oct-2026",
+   "title": "Trump calls tax leak ‘illegal’: Deutsche Bank chair backs CEO after reports expose past lapses",
+   "url": "https://www.brecorder.com/news/40449475/trump-calls-tax-leak-illegal-deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses",
    "source": "Business Recorder",
-   "published": "2026-11-17T13:49:53+00:00",
-   "summary": "Pakistan’s IT sector recorded its highest-ever monthly exports of $453 million in October 2026, reflecting the sector’s growing penetration into international markets despite global economic uncertainties and emerging technological challenges. On a yearly basis, the IT exports grew by 17.4% from $386 million in October…",
-   "image": "https://i.brecorder.com/large/2026/06/122250286251c98.webp",
+   "published": "2026-11-18T01:19:34+00:00",
+   "summary": "FRANKFURT: Deutsche Bank’s chairman backed his CEO Christian Sewing on Tuesday after a huge cache of leaked internal records renewed scrutiny of the German lender’s past dealings with clients including Russian oligarchs, US President Donald Trump and sex offender Jeffrey Epstein. The reports, compiled by a consortium o…",
+   "image": "https://i.brecorder.com/large/2026/11/180619016f88965.webp",
    "topics": [
-    "Economy"
+    "Budget & spending"
    ],
-   "relevant": false,
+   "relevant": true,
    "domestic": false
   },
   {
@@ -191,34 +271,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Amazon to invest $7 billion in renewable energy in India",
-   "url": "https://www.brecorder.com/news/40449363/amazon-to-invest-7-billion-in-renewable-energy-in-india",
-   "source": "Business Recorder",
-   "published": "2026-11-17T12:19:50+00:00",
-   "summary": "Amazon said on Tuesday it would invest $7 billion in renewable energy projects in India by 2030 as the US e-commerce giant looks to expand its clean energy footprint in one of its key growth markets. The investment comes as India races to expand renewable power and grid infrastructure ‌to meet its target of 500 gigawat…",
-   "image": "https://i.brecorder.com/large/2026/08/02181557c9d3208.webp",
-   "topics": [
-    "Construction & projects",
-    "Energy & power"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Indian companies to buy US LPG in 2027 from Aramco, Chevron, Vitol and Totsa",
-   "url": "https://www.brecorder.com/news/40449362/indian-companies-to-buy-us-lpg-in-2027-from-aramco-chevron-vitol-and-totsa",
-   "source": "Business Recorder",
-   "published": "2026-11-17T12:15:00+00:00",
-   "summary": "NEW DELHI: India’s state-run oil companies have awarded a joint tender to Saudi Aramco, Chevron, TotalEnergies Trading SA (Totsa) and Vitol to import about 2.75 million metric tons of US liquefied petroleum gas (LPG) in 2027, market participants said. Indian Oil Corp, Bharat Petroleum Corp and Hindustan Petroleum Corp …",
-   "image": "https://i.brecorder.com/large/2026/04/041708504424cac.webp",
-   "topics": [
-    "Procurement",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
