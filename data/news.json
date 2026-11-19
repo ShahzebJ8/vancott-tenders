@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-18T17:53:12+00:00",
- "count": 36,
+ "generated": "2026-11-18T23:54:17+00:00",
+ "count": 37,
  "relevant_count": 6,
  "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (16)",
   "The Express Tribune": "ok (4)",
   "ARY News": "error: RuntimeError"
@@ -154,12 +154,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan’s mango exports decline 36% to 78,000 tonnes amid Middle East tensions",
-   "url": "https://www.brecorder.com/news/40449570/pakistans-mango-exports-decline-36-to-78000-tonnes-amid-middle-east-tensions",
-   "source": "Business Recorder",
-   "published": "2026-11-18T16:08:04+00:00",
-   "summary": "Pakistan’s mango exports declined by 36% to 78,000 tonnes during the current season amid ongoing tensions in the Middle East, falling short of the official export target of 80,000 tonnes and resulting in a significant loss of foreign exchange earnings. According to Waheed Ahmed, Patron-in-Chief of the All Pakistan Frui…",
-   "image": "https://i.brecorder.com/large/2026/11/18210548ee89856.webp",
+   "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
+   "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
+   "source": "Dawn",
+   "published": "2026-11-18T19:54:28+00:00",
+   "summary": "Pakistan’s mango exports fell 36 per cent this year as the US-Iran war disrupted shipping routes and drove up freight costs, industry figures showed on Wednesday. According to All Pakistan Fruit and Vegetables Exporters Association, the country exported 78,000 tonnes of mangoes this year, compared with 123,000 tons las…",
+   "image": "https://i.dawn.com/large/2021/05/60adac988055a.jpg",
    "topics": [
     "Economy"
    ],
@@ -170,9 +170,35 @@
    "title": "Pakistan eases export rules for potatoes, kinnow to Russia",
    "url": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia",
    "source": "Business Recorder",
-   "published": "2026-11-18T15:31:06+00:00",
-   "summary": "Pakistan government has granted a one-time exemption from the financial instrument requirement for exports of kinnow and potatoes to Russia through sea and land routes until May 15, 2027. According to an official memorandum seen by Business Recorder, the decision allows exporters to ship three categories of products to…",
+   "published": "2026-11-18T18:29:34+00:00",
+   "summary": "Pakistan government has granted a one-time exemption from the financial instrument requirement for exports of kinnow and potatoes to Russia through sea and land routes until May 15, 2027. According to an official memorandum, a copy of which is available with Business Recorder, the decision allows exporters to ship thre…",
    "image": "https://i.brecorder.com/large/2026/11/182029531054eec.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
+   "url": "https://www.brecorder.com/news/40449575/xi-putin-blast-western-protectionism-and-sanctions-as-trump-lands-in-china",
+   "source": "Business Recorder",
+   "published": "2026-11-18T18:09:05+00:00",
+   "summary": "SHENZHEN: China’s President Xi Jinping pledged on Wednesday to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived ahead of a high-stakes trilateral meeting that will include the Russian leader Vladimir Putin. Xi greeted Trump at the airport, the first time he h…",
+   "image": "https://i.brecorder.com/large/2026/11/182306167e05846.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s mango exports decline 36% to 78,000 tonnes amid Middle East tensions",
+   "url": "https://www.brecorder.com/news/40449570/pakistans-mango-exports-decline-36-to-78000-tonnes-amid-middle-east-tensions",
+   "source": "Business Recorder",
+   "published": "2026-11-18T16:08:04+00:00",
+   "summary": "Pakistan’s mango exports declined by 36% to 78,000 tonnes during the current season amid ongoing tensions in the Middle East, falling short of the official export target of 80,000 tonnes and resulting in a significant loss of foreign exchange earnings. According to Waheed Ahmed, Patron-in-Chief of the All Pakistan Frui…",
+   "image": "https://i.brecorder.com/large/2026/11/18210548ee89856.webp",
    "topics": [
     "Economy"
    ],
@@ -216,19 +242,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's Xi greets Trump on arrival at Shenzhen airport",
-   "url": "https://www.brecorder.com/news/40449541/chinas-xi-greets-trump-on-arrival-at-shenzhen-airport",
-   "source": "Business Recorder",
-   "published": "2026-11-18T09:52:38+00:00",
-   "summary": "SHENZHEN: Chinese President Xi Jinping personally greeted Donald Trump at the airport as the US leader arrived Wednesday ahead of a trilateral meeting in Shenzhen that will also include Russia’s Vladimir Putin, AFP footage showed. Five takeaways from Trump’s Asia tour: cabinet feuds, Rubio love and a Kim Jong Un curveb…",
-   "image": "https://i.ytimg.com/vi/Xy1fnkZff5c/maxresdefault.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
