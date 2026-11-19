@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T15:11:48+00:00",
+ "generated": "2026-11-19T22:48:15+00:00",
  "count": 985,
  "with_value": 939,
  "with_winner": 348,
@@ -18745,6 +18745,46 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000005313",
+   "tender_no": "TS0000014538E",
+   "reference": "P121132",
+   "title": "PROVISION, INSTALLATION, TESTING & COMMISSIONING OF IT EQUIPMENT (CAMPUS LAN, VOICE COMMUNICATION, SERVER STORAGE) FOR ESTABLISHMENT OF FEDERAL GOVERNMENT POLYCLINIC (PGMI)-II AT G/11/3, ISLAMABAD Info and Comm Tech",
+   "organisation": "Government of Punjab Infrastructure Development Authority of the Punjab (IDAP) Head Office Lahore - Pakistan",
+   "bid_count": 7,
+   "lowest": [
+    "Nayatel, Umaima Traders, Megaplus"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-19",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005313",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005312",
+   "tender_no": "TS0000014441E",
+   "reference": "P124267",
+   "title": "PROVISION OF CLIENT END EQUIPMENT FOR ESTABLISHMENT OF FEDERAL GOVERNMENT POLYCLINIC (PGMI)-II AT G/11/3, ISLAMABAD Info and Comm Tech",
+   "organisation": "Government of Punjab Infrastructure Development Authority of the Punjab (IDAP) Head Office Lahore - Pakistan",
+   "bid_count": 4,
+   "lowest": [
+    "Megaplus, Megaplus"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-19",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005312",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000005309",
    "tender_no": "TS0000017288E",
    "reference": "P-83/2026",
@@ -19406,6 +19446,29 @@
    "city": "Karachi",
    "province": "Sindh",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005235",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005228",
+   "tender_no": "TS0000016697E",
+   "reference": "P150117",
+   "title": "Arrangement of 2nd International Qirat Competition, 2026 Services",
+   "organisation": "Ministry of Religious Affairs & Interfaith Harmony Ministry of Religious Affairs &#38; Interfaith Harmony Islamabad - Pakistan",
+   "bid_count": 11,
+   "lowest": [
+    "Al-Hafiz Corporation",
+    "United Transport Services",
+    "Islamabad Hotel",
+    "Tnadoori Caterers, and Balance Publicity Pvt Ltd."
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-19",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005228",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -57726,64 +57789,6 @@
    "city": "Multan",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003217",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003216",
-   "tender_no": "TS0000011328E",
-   "reference": "p85504",
-   "title": "Renovation / Civil Works & Fabrication of Iron Racks in FBSE premises, Islamabad Civil Works",
-   "organisation": "Ministry of Federal Education and Professional Training Federal Board of Intermediate and Secondary Education (FBISE) Islamabad - Pakistan",
-   "bid_count": 8,
-   "lowest": [
-    "Siyfma International Private Limited"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-04",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003216",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003215",
-   "tender_no": "TS0000011133E",
-   "reference": "PIFD/TENDER/2026-27/004",
-   "title": "HIRING OF CHARTERED ACCOUNTANCY FIRM FOR THE EXTERNAL AUDIT OF PIFD FOR THE FY-2025-26 Services Ministry of Federal Education and Professional Training",
-   "organisation": "Ministry of Federal Education and Professional Training Pakistan Institute of Fashion and Design Lanhore Lahore - Pakistan",
-   "bid_count": 3,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-09-04",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003215",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003214",
-   "tender_no": "TS0000011418E",
-   "reference": "P86971",
-   "title": "Printing of Answer Scripts Printing",
-   "organisation": "Ministry of Federal Education and Professional Training Federal Board of Intermediate and Secondary Education (FBISE) Islamabad - Pakistan",
-   "bid_count": 8,
-   "lowest": [
-    "ZA CORPORATION"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-04",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003214",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

@@ -1,20 +1,46 @@
 {
- "generated": "2026-11-19T15:11:54+00:00",
- "count": 44,
+ "generated": "2026-11-19T22:48:20+00:00",
+ "count": 41,
  "relevant_count": 17,
- "domestic_count": 12,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (7)"
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (12)",
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Cengiz Enerji, Pakistani business consortium sign MoU for power distribution privatisation",
+   "url": "https://www.brecorder.com/news/40449756/cengiz-enerji-pakistani-business-consortium-sign-mou-for-power-distribution-privatisation",
+   "source": "Business Recorder",
+   "published": "2026-11-19T16:34:22+00:00",
+   "summary": "Cengiz Enerji, a subsidiary of Turkish conglomerate Cengiz Holding, has signed a memorandum of understanding (MoU) with a consortium of five leading Pakistani business groups to explore investment opportunities in the country’s power distribution sector, a statement said on Thursday. The Pakistani consortium comprises …",
+   "image": "https://i.brecorder.com/large/2026/11/19212049f119b88.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP-held foreign exchange reserves rise $15 million to $21.59 billion",
+   "url": "https://www.brecorder.com/news/40449754/sbp-held-foreign-exchange-reserves-rise-15-million-to-2159-billion",
+   "source": "Business Recorder",
+   "published": "2026-11-19T16:13:13+00:00",
+   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $15 million to $21.59 billion during the week ended November 13, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.77 billion as of November 13, 2026. According to the SBP’s latest data, net f…",
+   "image": "https://i.brecorder.com/large/2026/11/19211206b2a83aa.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40449732/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-19T14:44:20+00:00",
+   "published": "2026-11-19T15:51:40+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar, appreciating 0.01% in the inter-bank market on Thursday. The local unit closed the day at 276.52, a gain of Re0.03 against the greenback. On Wednesday , the rupee had closed at 276.55 against the dollar. Globally, the US dollar hovered near a 19-mon…",
    "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg",
    "topics": [
@@ -30,6 +56,19 @@
    "published": "2026-11-19T13:15:44+00:00",
    "summary": "The Privatisation Commission and a consortium led by Ernst & Young (EY) Middle East on Thursday signed a financial advisory services agreement (Fasa) for the outsourcing of Karachi and Lahore airports. In August, the commission had approved the appointment of a financial adviser for the outsourcing of both airports, me…",
    "image": "https://i.dawn.com/large/2026/11/191734391afe577.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "EY-led consortium to advise on outsourcing of Karachi, Lahore airports",
+   "url": "https://tribune.com.pk/story/2641236/ey-led-consortium-to-advise-on-outsourcing-of-karachi-lahore-airports",
+   "source": "The Express Tribune",
+   "published": "2026-11-19T13:02:12+00:00",
+   "summary": "Privatisation commission signs financial advisory services agreement with consortium",
+   "image": null,
    "topics": [
     "Construction & projects"
    ],
@@ -134,19 +173,6 @@
    "published": "2026-11-17T01:42:05+00:00",
    "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) opened the week cautiously, with market sentiment mixed on Monday. The benchmark KSE-100 index nevertheless posted modest gains, as profit-taking in the closing hours pared its earlier advances. Topline Securities Ltd said the benchmark remained volatile throughout the sessio…",
    "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP says inflation to ease to 5-7pc target range during FY2027",
-   "url": "https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027",
-   "source": "Dawn",
-   "published": "2026-11-16T12:25:02+00:00",
-   "summary": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027. Real GDP growth would remain in the range of 3.5-4.5pc, the bank said in a yearly report, which added the country’s curr…",
-   "image": "https://i.dawn.com/large/2022/04/62467ea2c8fc1.jpg",
    "topics": [
     "Economy"
    ],
@@ -298,11 +324,11 @@
    "domestic": false
   },
   {
-   "title": "PSX rises around 700 points in mid-day trade",
+   "title": "PSX extends recovery amid volatility, gaining around 480 points",
    "url": "https://tribune.com.pk/story/2641174/psx-rises-around-700-points-in-mid-day-trade",
    "source": "The Express Tribune",
    "published": "2026-11-19T04:55:58+00:00",
-   "summary": "Buying returns at KSE-100 Index gains 0.39 per cent by mid-day",
+   "summary": "KSE-100 Index sees a positive trading session to close at 176,772",
    "image": null,
    "topics": [
     "Economy"
@@ -351,19 +377,6 @@
    "domestic": false
   },
   {
-   "title": "US dollar hovers near 19-month high, Aussie falls after soft jobs data",
-   "url": "https://www.brecorder.com/news/40449680/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data",
-   "source": "Business Recorder",
-   "published": "2026-11-19T02:31:27+00:00",
-   "summary": "SHANGHAI/SINGAPORE: The US dollar hovered near a 19-month high on Thursday after Federal Reserve ​meeting minutes and hawkish comments from a Fed official pointed to further interest rate hikes. The Australian dollar ‌slipped to a 10-month low after soft jobs data, reaching $0.6692, the lowest level since January. The …",
-   "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
    "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
    "source": "Dawn",
@@ -374,32 +387,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Tax split to widen informal economy",
-   "url": "https://tribune.com.pk/story/2641064/tax-split-to-widen-informal-economy",
-   "source": "The Express Tribune",
-   "published": "2026-11-18T16:25:03+00:00",
-   "summary": "Separate sales, income tax officers will weaken checks on evasion: think tank",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Investors prefer Pakistan under IMF",
-   "url": "https://tribune.com.pk/story/2641059/investors-prefer-pakistan-under-imf",
-   "source": "The Express Tribune",
-   "published": "2026-11-18T16:25:03+00:00",
-   "summary": "Favour continued programme for policy continuity; flag risks to energy markets",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -555,32 +542,6 @@
    "published": null,
    "summary": "PSX: Stock ends lower as KSE-100 index falls over 1,000",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Electricity prices likely to rise across Pakistan",
-   "url": "https://arynews.tv/electricity-prices-likely-to-rise-across-pakistan",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Electricity prices likely to rise across Pakistan",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/NEPRA-1.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stocks close lower as KSE-100 index dips over 665 points",
-   "url": "https://arynews.tv/psx-stocks-close-lower-as-kse-100-index-dips-over-665-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stocks close lower as KSE-100 index dips over 665 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/PSX.jpg",
    "topics": [
     "Economy"
    ],
