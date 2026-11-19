@@ -1,22 +1,178 @@
 {
- "generated": "2026-11-18T23:54:17+00:00",
- "count": 37,
- "relevant_count": 6,
- "domestic_count": 11,
+ "generated": "2026-11-19T05:44:18+00:00",
+ "count": 51,
+ "relevant_count": 15,
+ "domestic_count": 21,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (16)",
-  "The Express Tribune": "ok (4)",
+  "Dawn": "ok (17)",
+  "Business Recorder": "ok (17)",
+  "The Express Tribune": "ok (7)",
   "ARY News": "error: RuntimeError"
  },
  "stories": [
   {
+   "title": "Two M-6 sections to be built under public-private partnership model",
+   "url": "https://www.dawn.com/news/2045508/two-m-6-sections-to-be-built-under-public-private-partnership-model",
+   "source": "Dawn",
+   "published": "2026-11-19T04:14:43+00:00",
+   "summary": "ISLAMABAD: The construction of two sections of the Hyderabad-Sukkur Motorway (M-6) will be carried out under the public-private partnership (PPP) model, as approved by the Public Private Partnership Authority (P3A) board on Wednesday. Contracts for the development of sections I and II of the 121 km-long M-6 motorway wi…",
+   "image": "https://i.dawn.com/large/2025/05/1609461582c308d.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Punjab to provide Rs7.77bn machinery to 22 new WASAs",
+   "url": "https://www.brecorder.com/news/40449677/punjab-to-provide-rs777bn-machinery-to-22-new-wasas?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:13:10+00:00",
+   "summary": "LAHORE: The Punjab government is investing Rs7.77 billion in modern machinery and equipment for 22 newly established Water and Sanitation Agencies (WASAs) to strengthen drainage and sewerage infrastructure and improve emergency response across the province. Provincial Minister for Housing Bilal Yasin announced this dur…",
+   "image": "https://i.brecorder.com/large/2026/09/0503464093cf456.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Public opinion vital for new provinces: Governor",
+   "url": "https://www.brecorder.com/news/40449676/public-opinion-vital-for-new-provinces-governor?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:10:13+00:00",
+   "summary": "LAHORE: Terming the public opinion regarding the creation of new provinces as of paramount importance, the Punjab Governor Sardar Saleem Haider Khan, stated that the people of Sindh do not desire the division of their province. “No decision can be imposed upon them against their will and opinion. The Sindh Assembly has…",
+   "image": "https://i.brecorder.com/large/2024/11/672d7843de820.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Export of surplus sugar: PSMA for introducing transparent policy",
+   "url": "https://www.brecorder.com/news/40449675/export-of-surplus-sugar-psma-for-introducing-transparent-policy?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:09:12+00:00",
+   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA) has urged the government to introduce a consistent, transparent and automated policy for the export of surplus sugar to prevent recurrence of this year situation besides allowing immediate export of at least 1 million tonnes of present surplus sugar to alleviate the s…",
+   "image": "https://i.brecorder.com/large/2026/07/16035123f130dfa.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pharma sector earnings rise 5pc despite weak sales growth in 3QCY26",
+   "url": "https://www.brecorder.com/news/40449674/pharma-sector-earnings-rise-5pc-despite-weak-sales-growth-in-3qcy26?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:08:23+00:00",
+   "summary": "KARACHI: Pakistan’s listed pharmaceutical companies recorded a 5 percent year-on-year increase in cumulative earnings during the third quarter of calendar year 2026, despite a 1 percent decline in revenue, as improved gross margins and cost optimisation supported profitability amid export disruptions and higher trade d…",
+   "image": "https://i.brecorder.com/large/2026/04/11005920f1db03d.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "PCDMA concerned over decision to ‘fragment’ taxation system",
+   "url": "https://www.brecorder.com/news/40449672/pcdma-concerned-over-decision-to-fragment-taxation-system?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:05:05+00:00",
+   "summary": "KARACHI: Pakistan Chemicals & Dyes Merchants Association (PCDMA) Chairman Saleem Mukati has expressed concern over the Federal Board of Revenue’s (FBR) decision to separate sales tax and federal excise duties from income tax administration, warning that the major restructuring could create additional complications for …",
+   "image": "https://i.brecorder.com/large/2025/05/683382bd5605e.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Mango export falls 36pc due to ME tensions",
+   "url": "https://www.brecorder.com/news/40449670/mango-export-falls-36pc-due-to-me-tensions?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:03:03+00:00",
+   "summary": "KARACHI: Pakistan’s mango exports declined by 36 percent to 78,000 tonnes during the current season amid ongoing tensions in the Middle East, falling short of the official export target of 80,000 tonnes and resulting in a significant loss of foreign exchange earnings. According to Waheed Ahmed, Patron-in-Chief of the A…",
+   "image": "https://i.brecorder.com/large/2023/05/6466b7b7b8ebe.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KP to introduce subsidized green rickshaw scheme",
+   "url": "https://www.brecorder.com/news/40449669/kp-to-introduce-subsidized-green-rickshaw-scheme?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:02:23+00:00",
+   "summary": "PESHAWAR: Advisor to Governor of Khyber Pakhtunkhwa for Transport, Local Government, Communications & Works, Housing, Agriculture and Livestock, Asif Rafiq, has said that the provincial government is introducing a Green Rickshaw Scheme to provide modern and environmentally friendly transportation facilities to the publ…",
+   "image": "https://i.brecorder.com/large/2025/11/691a8aae6a7c2.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR unveils proposed rules for faceless tax appeals",
+   "url": "https://www.dawn.com/news/2045500/fbr-unveils-proposed-rules-for-faceless-tax-appeals",
+   "source": "Dawn",
+   "published": "2026-11-19T01:55:08+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) unveiled draft rules on Wednesday for its faceless income tax appeals system, eliminating the need for physical interaction between taxpayers and appellate authorities. The new system will also conceal the identity of officers responsible for deciding tax disputes. The rule…",
+   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt should take measures to promote industry: UBG President",
+   "url": "https://www.brecorder.com/news/40449667/govt-should-take-measures-to-promote-industry-ubg-president?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T01:48:56+00:00",
+   "summary": "KARACHI: United Business Group (UBG) President, Zubair Tufail, has said the government should take practical measures to promote industry and trade so that the country’s economy can be placed on sustainable foundations. He emphasized that a strong business representation in the Federation would help provide constructiv…",
+   "image": "https://i.brecorder.com/large/2026/10/14012840c823057.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP takes major step to strengthen housing finance ecosystem",
+   "url": "https://www.brecorder.com/news/40449656/sbp-takes-major-step-to-strengthen-housing-finance-ecosystem?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-18T23:55:04+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has revised the guidelines for builders and developers financing aimed to increase the supply of mortgageable housing units and strengthening the overall housing finance ecosystem in Pakistan. These guidelines aim to facilitate Banks and Development Finance Institutions (DFIs) …",
+   "image": "https://i.brecorder.com/large/2026/03/180110381ae6e39.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "P3A board approves Sections I & II of M-6 Motorway",
+   "url": "https://www.brecorder.com/news/40449657/p3a-board-approves-sections-i-amp-ii-of-m-6-motorway?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-18T23:55:04+00:00",
+   "summary": "ISLAMABAD: The board of the Public Private Partnership Authority (P3A) Wednesday approved Sections I and II of the M-6 motorway, about 121 kilometres long, at its 46th meeting. The meeting was chaired by Advisor to the Prime Minister on Privatisation, Chairman Privatisation Commission Muhammad Ali, who also chairs the …",
+   "image": "https://i.brecorder.com/large/2026/10/12011338d6b4945.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
    "title": "Pakistan freelancers earn record $210mn in Oct 2026",
-   "url": "https://www.brecorder.com/news/40449574/pakistan-freelancers-earn-record-210mn-in-oct-2026",
+   "url": "https://www.brecorder.com/news/40449574/pakistan-freelancers-earn-record-210mn-in-oct-2026?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T17:50:59+00:00",
    "summary": "Pakistan’s freelancers earned record $210 million in foreign exchange in October 2026, crossing the $200 million mark for the first time in a single month. According to data released by the State Bank of Pakistan (SBP) on Wednesday, freelance workers brought in $210 million during October, compared with $196.9 million …",
-   "image": "https://i.brecorder.com/large/2025/10/0919314644f5a35.webp",
+   "image": "https://i.brecorder.com/large/2025/10/0919314644f5a35.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -25,24 +181,11 @@
   },
   {
    "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40449550/intra-day-update-rupee-records-gain-against-us-dollar",
+   "url": "https://www.brecorder.com/news/40449550/intra-day-update-rupee-records-gain-against-us-dollar?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T16:36:44+00:00",
    "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.55, a gain of Re0.01 against the greenback. On Tuesday , the rupee had closed at 276.56 against the dollar. Globally, the US dollar held steady near a 19-month high on Wednes…",
-   "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "SBP governor calls for export-led growth to break Pakistan’s boom-and-bust cycles",
-   "url": "https://www.brecorder.com/news/40449566/sbp-governor-calls-for-export-led-growth-to-break-pakistans-boom-and-bust-cycles",
-   "source": "Business Recorder",
-   "published": "2026-11-18T14:37:25+00:00",
-   "summary": "State Bank of Pakistan (SBP) Governor Jameel Ahmad on Wednesday stressed the need to strengthen economic resilience, undertake structural reforms and boost exports to achieve sustainable economic growth and break the country’s recurring boom-and-bust cycles. Speaking at Standard Chartered Bank’s Annual Global Research …",
-   "image": "https://i.brecorder.com/large/2026/11/18193655c432762.webp",
+   "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -141,17 +284,83 @@
    "domestic": true
   },
   {
-   "title": "Sales tax gets new enforcement structure to cut collection gap",
-   "url": "https://www.dawn.com/news/2044613/sales-tax-gets-new-enforcement-structure-to-cut-collection-gap",
-   "source": "Dawn",
-   "published": "2026-11-15T02:37:31+00:00",
-   "summary": "ISLAMABAD: After 17 years of integration, the government has decided to reverse the functional integration of sales tax and income tax collection, acknowledging that the sales tax revenue gap has widened to Rs3.4 trillion amid weak enforcement and poor revenue collection. The decision marks a major reform in tax admini…",
-   "image": "https://i.dawn.com/large/2025/12/20074154bbf6fcc.webp",
+   "title": "PSX: buying returns, KSE-100 surges nearly 1,200 points",
+   "url": "https://www.brecorder.com/news/40449688/psx-buying-returns-kse-100-surges-nearly-1200-points?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T05:31:59+00:00",
+   "summary": "Buying interest returned at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index gaining nearly 1,200 points during the opening minutes of trading on Thursday. At 10:30am, the benchmark index was hovering at 177,485.52, up 1,191.19 points or 0.68%. Buying was observed in key sectors, including automobile…",
+   "image": "https://i.brecorder.com/large/2026/11/19095310582597a.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
-    "Budget & spending"
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Economic resilience needs more than fiscal, external buffers: SBP governor",
+   "url": "https://www.dawn.com/news/2045621/economic-resilience-needs-more-than-fiscal-external-buffers-sbp-governor",
+   "source": "Dawn",
+   "published": "2026-11-19T04:24:42+00:00",
+   "summary": "https://www.dawn.com/news/2045509",
+   "image": "https://i.dawn.com/large/2026/11/19092236bd235eb.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Why the industry is silent, and why the rupee is not expected to be devalued in the near future",
+   "url": "https://www.dawn.com/news/2045614/why-the-industry-is-silent-and-why-the-rupee-is-not-expected-to-be-devalued-in-the-near-future",
+   "source": "Dawn",
+   "published": "2026-11-19T03:56:51+00:00",
+   "summary": "https://www.dawn.com/news/2045585",
+   "image": "https://i.dawn.com/large/2025/10/68e721ad5d940.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee's inflow-driven upward momentum faces hawkish Fed headwinds",
+   "url": "https://www.brecorder.com/news/40449686/indian-rupees-inflow-driven-upward-momentum-faces-hawkish-fed-headwinds?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T03:09:51+00:00",
+   "summary": "MUMBAI: The Indian rupee is expected to open largely flat on Thursday , with sustained foreign equity inflows cushioning it against dollar strength amid hawkish ​Federal Reserve signals. The Indian rupee is expected to open little changed after ‌settling at 93.44 to the dollar on Wednesday. It climbed to 93.2450 during…",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices steady as supply surplus softens sentiment though Gulf war supports",
+   "url": "https://www.brecorder.com/news/40449685/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T03:05:52+00:00",
+   "summary": "BEIJING: Oil prices were steady on Thursday after falling previously as increasing expectations for a supply surplus and higher interest rates softened sentiment, outweighing support from attacks on ​shipping in the Strait of Hormuz amid the lingering Iran war. Brent crude futures ‌were trading up 17 cents, or 0.18%, a…",
+   "image": "https://i.brecorder.com/large/2026/05/08052318c855fa3.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US dollar hovers near 19-month high, Aussie falls after soft jobs data",
+   "url": "https://www.brecorder.com/news/40449680/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "source": "Business Recorder",
+   "published": "2026-11-19T02:31:27+00:00",
+   "summary": "SHANGHAI/SINGAPORE: The US dollar hovered near a 19-month high on Thursday after Federal Reserve ​meeting minutes and hawkish comments from a Fed official pointed to further interest rate hikes. The Australian dollar ‌slipped to a 10-month low after soft jobs data, reaching $0.6692, the lowest level since January. The …",
+   "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
@@ -168,11 +377,11 @@
   },
   {
    "title": "Pakistan eases export rules for potatoes, kinnow to Russia",
-   "url": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia",
+   "url": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T18:29:34+00:00",
    "summary": "Pakistan government has granted a one-time exemption from the financial instrument requirement for exports of kinnow and potatoes to Russia through sea and land routes until May 15, 2027. According to an official memorandum, a copy of which is available with Business Recorder, the decision allows exporters to ship thre…",
-   "image": "https://i.brecorder.com/large/2026/11/182029531054eec.webp",
+   "image": "https://i.brecorder.com/large/2026/11/182029531054eec.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -180,25 +389,38 @@
    "domestic": false
   },
   {
-   "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-   "url": "https://www.brecorder.com/news/40449575/xi-putin-blast-western-protectionism-and-sanctions-as-trump-lands-in-china",
-   "source": "Business Recorder",
-   "published": "2026-11-18T18:09:05+00:00",
-   "summary": "SHENZHEN: China’s President Xi Jinping pledged on Wednesday to stand up against trade protectionism, but also gave a warm welcome to US President Donald Trump as he arrived ahead of a high-stakes trilateral meeting that will include the Russian leader Vladimir Putin. Xi greeted Trump at the airport, the first time he h…",
-   "image": "https://i.brecorder.com/large/2026/11/182306167e05846.webp",
+   "title": "Tax split to widen informal economy",
+   "url": "https://tribune.com.pk/story/2641064/tax-split-to-widen-informal-economy",
+   "source": "The Express Tribune",
+   "published": "2026-11-18T16:25:03+00:00",
+   "summary": "Separate sales, income tax officers will weaken checks on evasion: think tank",
+   "image": null,
    "topics": [
-    "Construction & projects"
+    "Budget & spending"
    ],
    "relevant": true,
    "domestic": false
   },
   {
-   "title": "Pakistan’s mango exports decline 36% to 78,000 tonnes amid Middle East tensions",
-   "url": "https://www.brecorder.com/news/40449570/pakistans-mango-exports-decline-36-to-78000-tonnes-amid-middle-east-tensions",
-   "source": "Business Recorder",
-   "published": "2026-11-18T16:08:04+00:00",
-   "summary": "Pakistan’s mango exports declined by 36% to 78,000 tonnes during the current season amid ongoing tensions in the Middle East, falling short of the official export target of 80,000 tonnes and resulting in a significant loss of foreign exchange earnings. According to Waheed Ahmed, Patron-in-Chief of the All Pakistan Frui…",
-   "image": "https://i.brecorder.com/large/2026/11/18210548ee89856.webp",
+   "title": "Investors prefer Pakistan under IMF",
+   "url": "https://tribune.com.pk/story/2641059/investors-prefer-pakistan-under-imf",
+   "source": "The Express Tribune",
+   "published": "2026-11-18T16:25:03+00:00",
+   "summary": "Favour continued programme for policy continuity; flag risks to energy markets",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SBP chief for building on macroeconomic gains",
+   "url": "https://tribune.com.pk/story/2641061/sbp-chief-for-building-on-macroeconomic-gains",
+   "source": "The Express Tribune",
+   "published": "2026-11-18T16:25:03+00:00",
+   "summary": "Says country needs to undertake structural reforms, promote export-led growth",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -206,25 +428,39 @@
    "domestic": false
   },
   {
-   "title": "PSX: selling continues, KSE-100 sheds over 1,200 points",
-   "url": "https://www.brecorder.com/news/40449507/psx-selling-continues-kse-100-sheds-over-1200-points",
-   "source": "Business Recorder",
-   "published": "2026-11-18T13:05:10+00:00",
-   "summary": "Selling pressure continued at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index closing with a loss of over 1,200 points on Wednesday. The benchmark index remained under pressure throughout the session, with selling emerging shortly after the opening bell. It initially dropped sharply, followed by a b…",
-   "image": "https://i.brecorder.com/large/2026/11/181003416641247.webp",
+   "title": "PSX slides 1,223 points over political noise",
+   "url": "https://tribune.com.pk/story/2641068/psx-slides-1223-points-over-political-noise",
+   "source": "The Express Tribune",
+   "published": "2026-11-18T16:25:03+00:00",
+   "summary": "Heavyweight stocks drag KSE-100 down; ME tensions also weigh",
+   "image": null,
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thar coal mining to shift to national grid",
+   "url": "https://tribune.com.pk/story/2641069/thar-coal-mining-to-shift-to-national-grid",
+   "source": "The Express Tribune",
+   "published": "2026-11-18T16:25:03+00:00",
+   "summary": "Contract awarded; electrification to save $30m a year",
+   "image": null,
+   "topics": [
+    "Energy & power",
+    "Procurement"
+   ],
+   "relevant": true,
    "domestic": false
   },
   {
    "title": "Copper tumbles to seven-month low on speculative selling and inflation fears",
-   "url": "https://www.brecorder.com/news/40449557/copper-tumbles-to-seven-month-low-on-speculative-selling-and-inflation-fears",
+   "url": "https://www.brecorder.com/news/40449557/copper-tumbles-to-seven-month-low-on-speculative-selling-and-inflation-fears?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T11:39:02+00:00",
    "summary": "LONDON: Copper prices slumped to their weakest in seven months on Wednesday as speculators rushed to sell, spurred by worries over rising inflation and a buoyant dollar. A slide through key support levels triggered more selling from computer-driven funds that use algorithms and technical signals for trading. Benchmark …",
-   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg",
+   "image": "https://i.brecorder.com/large/2026/10/291627080ec667d.jpg?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -233,11 +469,11 @@
   },
   {
    "title": "Indian rupee ends flat after hitting seven-month high as firmer dollar offsets inflows",
-   "url": "https://www.brecorder.com/news/40449547/indian-rupee-ends-flat-after-hitting-seven-month-high-as-firmer-dollar-offsets-inflows",
+   "url": "https://www.brecorder.com/news/40449547/indian-rupee-ends-flat-after-hitting-seven-month-high-as-firmer-dollar-offsets-inflows?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T10:47:45+00:00",
    "summary": "MUMBAI: The Indian rupee closed nearly flat on Wednesday, reversing course from a seven-month peak hit in early trading, as a firmer dollar offset the tailwind from robust foreign buying of local stocks. The Indian rupee closed at 93.44 per dollar compared with its close at 93.47 in the previous session. While the curr…",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -246,11 +482,11 @@
   },
   {
    "title": "Pakistan seeks greater Singapore market access for food exports",
-   "url": "https://www.brecorder.com/news/40449534/pakistan-seeks-greater-singapore-market-access-for-food-exports",
+   "url": "https://www.brecorder.com/news/40449534/pakistan-seeks-greater-singapore-market-access-for-food-exports?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T08:22:16+00:00",
    "summary": "Pakistan is seeking greater market access in Singapore for its food and agricultural products and closer cooperation in fintech, artificial intelligence and finance. The development came during a meeting between Finance Minister Muhammad Aurangzeb and Singapore’s Deputy Prime Minister and Minister for Energy, Trade and…",
-   "image": "https://i.brecorder.com/large/2026/11/1813191848d702d.webp",
+   "image": "https://i.brecorder.com/large/2026/11/1813191848d702d.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -259,11 +495,11 @@
   },
   {
    "title": "Malaysia's economy grows 5.5% in Q3, propelled by tech boom",
-   "url": "https://www.brecorder.com/news/40449526/malaysias-economy-grows-55-in-q3-propelled-by-tech-boom",
+   "url": "https://www.brecorder.com/news/40449526/malaysias-economy-grows-55-in-q3-propelled-by-tech-boom?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T07:08:00+00:00",
    "summary": "KUALA LUMPUR: Malaysia’s economy grew 5.5% in the third quarter, surpassing expectations as a result of sustained household spending and robust tech exports driven by the AI boom, government and central bank data showed on Wednesday. Economists polled by Reuters and advance estimates released by the government had fore…",
-   "image": "https://i.brecorder.com/large/2026/07/17115355b2f3d75.webp",
+   "image": "https://i.brecorder.com/large/2026/07/17115355b2f3d75.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -272,11 +508,11 @@
   },
   {
    "title": "London copper falls for fifth straight session as firm dollar, AI concerns weigh",
-   "url": "https://www.brecorder.com/news/40449524/london-copper-falls-for-fifth-straight-session-as-firm-dollar-ai-concerns-weigh",
+   "url": "https://www.brecorder.com/news/40449524/london-copper-falls-for-fifth-straight-session-as-firm-dollar-ai-concerns-weigh?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T06:59:26+00:00",
    "summary": "London copper prices fell for a fifth consecutive session on Wednesday and touched their lowest level in nearly five months, pressured by a stronger dollar and concerns over AI investment. Benchmark three-month copper on the London Metal Exchange was down 1.1% at $13,078.50 a metric ton by 0306 GMT after hitting its lo…",
-   "image": "https://i.brecorder.com/large/2026/01/2711244598f9849.webp",
+   "image": "https://i.brecorder.com/large/2026/01/2711244598f9849.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -285,11 +521,11 @@
   },
   {
    "title": "Yuan dips, holds bullish outlook on bigger role in regional trade",
-   "url": "https://www.brecorder.com/news/40449523/yuan-dips-holds-bullish-outlook-on-bigger-role-in-regional-trade",
+   "url": "https://www.brecorder.com/news/40449523/yuan-dips-holds-bullish-outlook-on-bigger-role-in-regional-trade?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T06:56:55+00:00",
    "summary": "SHANGHAI: The yuan weakened slightly against a firm dollar on Wednesday , but traders expect its appreciation trend to remain intact, underpinned by robust exports and sustained capital inflows. Analysts also see the yuan playing a bigger role in regional trade after Chinese President Xi Jinping called for an open Asia…",
-   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
+   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -298,11 +534,11 @@
   },
   {
    "title": "China AI stocks, hyperscalers hit by signs of tougher US tech curbs",
-   "url": "https://www.brecorder.com/news/40449519/china-ai-stocks-hyperscalers-hit-by-signs-of-tougher-us-tech-curbs",
+   "url": "https://www.brecorder.com/news/40449519/china-ai-stocks-hyperscalers-hit-by-signs-of-tougher-us-tech-curbs?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T06:42:50+00:00",
    "summary": "SHANGHAI: Equities in China and Hong Kong fell as investors continued to offload Chinese AI hardware exporters and AI hyperscalers, amid signs of hardening US tech curbs against China ahead of a meeting between leaders Xi Jinping and Donald Trump. China’s stock benchmark was near 16-month lows as former Nvidia CEO Jens…",
-   "image": "https://i.brecorder.com/large/2025/12/241119330654312.webp",
+   "image": "https://i.brecorder.com/large/2025/12/241119330654312.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -311,11 +547,11 @@
   },
   {
    "title": "Thai baht/US dollar weaker on Wednesday",
-   "url": "https://www.brecorder.com/news/40449518/thai-bahtus-dollar-weaker-on-wednesday",
+   "url": "https://www.brecorder.com/news/40449518/thai-bahtus-dollar-weaker-on-wednesday?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T06:39:49+00:00",
    "summary": "BANGKOK: The Thai baht weakened against the US dollar on Wednesday . At 0218 GMT, the baht was 0.21% lower at 33.87 versus the dollar, after trading in a range of 33.840 to 33.880. It ended the previous session at 33.7925 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -324,11 +560,11 @@
   },
   {
    "title": "Aussie finds little support from strong wages, all eyes on jobs update",
-   "url": "https://www.brecorder.com/news/40449516/aussie-finds-little-support-from-strong-wages-all-eyes-on-jobs-update",
+   "url": "https://www.brecorder.com/news/40449516/aussie-finds-little-support-from-strong-wages-all-eyes-on-jobs-update?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T06:35:27+00:00",
    "summary": "SYDNEY: The Australian dollar was pinned near 10-month lows on Wednesday , pressured by a renewed equity sell-off, while a surprise wage jump raised the stakes for the jobs figures that could determine whether another rate rise is needed. The Aussie slipped 0.1% to $0.6726, after falling for a sixth session overnight t…",
-   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
+   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -337,11 +573,11 @@
   },
   {
    "title": "Vietnam raises $82 million in government bond auction",
-   "url": "https://www.brecorder.com/news/40449510/vietnam-raises-82-million-in-government-bond-auction",
+   "url": "https://www.brecorder.com/news/40449510/vietnam-raises-82-million-in-government-bond-auction?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "source": "Business Recorder",
    "published": "2026-11-18T05:43:55+00:00",
    "summary": "HANOI: Vietnam’s State Treasury raised 2.1 trillion dong ($82 million) in its weekly government bond auction on Wednesday, down from the $234 million raised last week. The uptake was also lower, with 28% of the bonds on offer sold, compared with 80% last week, according to a Hanoi Stock Exchange filing.",
-   "image": "https://i.brecorder.com/large/2026/09/23112037274869f.webp",
+   "image": "https://i.brecorder.com/large/2026/09/23112037274869f.webp?v=DTM1gVTdMOC4qzyyUEq3CAjQ",
    "topics": [
     "Economy"
    ],
@@ -373,45 +609,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "KSE-100 slides over 1,223 points as selling grips PSX",
-   "url": "https://tribune.com.pk/story/2640984/selling-pressure-persists-at-psx-as-kse-100-sheds-770-points",
-   "source": "The Express Tribune",
-   "published": "2026-11-18T03:48:56+00:00",
-   "summary": "Fresh political clamour adds to investor anxiety; heavyweight stocks drag market lower",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold slides to over one-year low on firm dollar, US rate outlook",
-   "url": "https://www.brecorder.com/news/40449503/gold-slides-to-over-one-year-low-on-firm-dollar-us-rate-outlook",
-   "source": "Business Recorder",
-   "published": "2026-11-18T03:20:21+00:00",
-   "summary": "Gold prices fell more than 1% on ‌Wednesday to their lowest level in over a year, as a firmer dollar and expectations of higher US interest rates weighed, while investors awaited minutes from the Federal Reserve’s meeting for clues ​on the policy outlook. Spot gold was down 1.4% at $3,796.37 per ounce, as ​of 0242 GMT,…",
-   "image": "https://i.brecorder.com/large/2026/11/18081659191fb79.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar holds near 19-month high as data supports case for US rate hikes",
-   "url": "https://www.brecorder.com/news/40449502/dollar-holds-near-19-month-high-as-data-supports-case-for-us-rate-hikes",
-   "source": "Business Recorder",
-   "published": "2026-11-18T03:15:21+00:00",
-   "summary": "TOKYO: T he dollar held steady near a 19-month high on Wednesday as US ​economic data and comments from Federal Reserve officials lent support to the case for interest rate hikes. The yen edged lower ‌even after Japanese trade figures showed exports set a record monthly value in October on strong demand in the semicond…",
-   "image": "https://i.brecorder.com/large/2026/11/170744217463230.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -447,19 +644,6 @@
    "published": "2026-11-17T02:26:38+00:00",
    "summary": "https://www.dawn.com/news/2045051",
    "image": "https://i.dawn.com/large/2026/10/0807482694fecc1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Gold falls as upcoming Fed rate hike weighs",
-   "url": "https://tribune.com.pk/story/2640682/gold-falls-as-upcoming-fed-rate-hike-weighs",
-   "source": "The Express Tribune",
-   "published": "2026-11-16T15:47:55+00:00",
-   "summary": "Loses Rs2,000/tola on global price slide; rupee inches up",
-   "image": null,
    "topics": [
     "Economy"
    ],
