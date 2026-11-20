@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T12:31:07+00:00",
+ "generated": "2026-11-20T20:42:45+00:00",
  "count": 986,
  "with_value": 940,
  "with_winner": 348,
@@ -18764,6 +18764,67 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000005360",
+   "tender_no": "TS0000016094E",
+   "reference": "03/2026-27",
+   "title": "HIRING OF EVENT MANAGEMENT SERVICES FOR SHRINE FESTIVALS ACROSS PAKISTAN FOR THE 557th BIRTHDAY OF BABA GURU NANAK DEV JEE (NOVEMBER 2026) & FINANCIAL YEAR 2026-27. Services",
+   "organisation": "Ministry of Religious Affairs & Interfaith Harmony Evacuee Trust Property Board (ETPB) Lahore - Pakistan",
+   "bid_count": 22,
+   "lowest": [
+    "Al-Jannat Caterers & Events Management",
+    "Mughal Tent Service",
+    "Chaudhry Tent Service"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-21",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005360",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005356",
+   "tender_no": "TS0000015261E",
+   "reference": "P144867",
+   "title": "REQUEST FOR EXPRESSION OF INTEREST FOR PROVISION OF HEADHUNTING SERVICES Services",
+   "organisation": "Ministry of Energy (Power Division) Power Division Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005356",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005355",
+   "tender_no": "TS0000018121E",
+   "reference": "P196800",
+   "title": "Purchase of Misc. Items for Awareness & Prevention Activities (CFY 2026-27) Miscellaneous",
+   "organisation": "National Accountability Bureau (NAB) National Accountability Bureau (Karachi) Karachi - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "KB Enterprises",
+    "AK Traders National Accountability Bureau (NAB)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005355",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000005354",
    "tender_no": "TS0000014905E",
    "reference": "LEP-013/26",
@@ -18797,6 +18858,26 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005352",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005351",
+   "tender_no": "TS0000016175E",
+   "reference": "D11166",
+   "title": "HIRING, RENOVATION, REFURBISHMENT, MODERNIZATION, OPERATION, MANAGEMENT & MAINTENANCE OF WORKING WOMEN HOSTEL Leasing",
+   "organisation": "Ministry of Housing & Works Estate Office Management Islamabad - Pakistan",
+   "bid_count": 11,
+   "lowest": [
+    "The Memon Associates"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005351",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -19139,6 +19220,46 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005332",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005330",
+   "tender_no": "TS0000016207E",
+   "reference": "D11175",
+   "title": "BIDDING / RFP DOCUMENT LEASING OF JAHANGIR ROAD WEST OPEN LAND (1,000 SQ. YARDS), KARACHI Leasing",
+   "organisation": "Ministry of Housing & Works Estate Office Management Islamabad - Pakistan",
+   "bid_count": 14,
+   "lowest": [
+    "MS Shahbaz petrolium Services"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005330",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005329",
+   "tender_no": "TS0000016212E",
+   "reference": "D11178",
+   "title": "LEASE FOR DEVELOPMENT, CONSTRUCTION, OPERATION & MAINTENANCE OF GOVERNMENT COMMERCIAL PLOT FOR ESTABLISHMENT OF A MARQUEE, MARRIAGE HALL & EVENT COMPLEX Leasing",
+   "organisation": "Ministry of Housing & Works Estate Office Management Islamabad - Pakistan",
+   "bid_count": 8,
+   "lowest": [
+    "Modern Engineering Construction (PVT.) LTD."
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005329",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -20371,6 +20492,24 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005268",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005265",
+   "tender_no": "TS0000014771E",
+   "reference": "P12362",
+   "title": "Procurement of SMS Gateway Services for the State Bank of Pakistan Services State Bank of Pakistan (SBP)",
+   "organisation": "State Bank of Pakistan (SBP) SBP Banking Services Corporation (SBP-BSC) Head Office, Karachi Karachi - Pakistan",
+   "bid_count": 3,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-18",
+   "city": "Karachi",
+   "province": "Sindh",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005265",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -57651,146 +57790,6 @@
    "city": "Lahore",
    "province": "Punjab",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003267",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003266",
-   "tender_no": "TS0000010935E",
-   "reference": "TENDER NO 4409 (Insulated Osprey Conductor)",
-   "title": "TENDER NO 4409 (Insulated Osprey Conductor) Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Newage Cables (Pvt) Ltd"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003266",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003265",
-   "tender_no": "TS0000011297E",
-   "reference": "TENDER NO 4411 (Insulated Rabbit Conductor)",
-   "title": "TENDER NO 4411 (Insulated Rabbit Conductor) Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Universal Metals (Pvt) Ltd"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003265",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003264",
-   "tender_no": "TS0000011504E",
-   "reference": "TENDER NO 4413 11-KV XLPE 1000-MCM Single Core Cable (Unarmoured)",
-   "title": "TENDER NO 4413 11-KV XLPE 1000-MCM Single Core Cable (Unarmoured) Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Pakistan Cables Limited"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003264",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003263",
-   "tender_no": "TS0000011505E",
-   "reference": "TENDER NO 4414 15-KV XLPE 3/C 35 mm sq Cable",
-   "title": "TENDER NO 4414 15-KV XLPE 3/C 35 mm sq Cable Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Pakistan Cables Limited"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003263",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003262",
-   "tender_no": "TS0000009790E",
-   "reference": "P40763",
-   "title": "Procurement of Computer Stationery Items for MIS HAZECO Consumable Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Matiullah & Sons (SMC-PVT) LTD"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-05",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003262",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003261",
-   "tender_no": "TS0000009792E",
-   "reference": "P64148",
-   "title": "Procurement of Computer Media Items for MIS HAZECO Consumable Items",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "Riz Technology"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-05",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003261",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003260",
-   "tender_no": "TS0000011390E",
-   "reference": "P86869",
-   "title": "Procurement of Tablets Info and Comm Tech",
-   "organisation": "Ministry of Energy (Power Division) Hazara Electric Supply Company (HAZECO) Abbottabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Matiullah & Sons (SMC-PVT) LTD"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-05",
-   "city": "Abbottabad",
-   "province": "Khyber Pakhtunkhwa",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003260",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

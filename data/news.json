@@ -1,22 +1,35 @@
 {
- "generated": "2026-11-20T12:31:12+00:00",
- "count": 48,
- "relevant_count": 14,
- "domestic_count": 10,
+ "generated": "2026-11-20T20:42:51+00:00",
+ "count": 49,
+ "relevant_count": 13,
+ "domestic_count": 11,
  "sources": {
   "Dawn": "ok (13)",
-  "Business Recorder": "ok (14)",
-  "The Express Tribune": "ok (12)",
-  "ARY News": "ok (8)"
+  "Business Recorder": "ok (15)",
+  "The Express Tribune": "ok (10)",
+  "ARY News": "ok (9)"
  },
  "stories": [
   {
    "title": "Rupee secures gain against US dollar",
    "url": "https://www.brecorder.com/news/40449988/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-20T11:11:49+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.51, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.52 against the dollar. Globally, the US dollar held near a 19-month high on Friday, havin…",
+   "published": "2026-11-20T14:42:46+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.51, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.52 against the dollar. Globally, the US dollar held near a 19-month high on Friday, having …",
    "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation reaches 10.41pc on costly flour",
+   "url": "https://www.dawn.com/news/2045919/short-term-inflation-reaches-1041pc-on-costly-flour",
+   "source": "Dawn",
+   "published": "2026-11-20T13:04:53+00:00",
+   "summary": "ISLAMABAD: Short-term inflation was recorded at 10.41 per cent year-on-year in the week ending on Nov 19, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items, whose prices are collected from 50 markets in 17 citie…",
+   "image": "https://i.dawn.com/large/2026/11/20175045683436a.webp",
    "topics": [
     "Economy"
    ],
@@ -141,6 +154,71 @@
    "domestic": true
   },
   {
+   "title": "Pakistan produces 23mn mobile phones in Jan-Oct",
+   "url": "https://www.brecorder.com/news/40450012/pakistan-produces-23mn-mobile-phones-in-jan-oct",
+   "source": "Business Recorder",
+   "published": "2026-11-20T17:15:48+00:00",
+   "summary": "Pakistan’s local mobile phone manufacturing and assembly plants produced 23.03 million handsets during January-October 2026, almost six times the 3.85 million units imported commercially during the same period, reflecting the growing contribution of domestic production to meeting the country’s mobile phone demand. The …",
+   "image": "https://i.brecorder.com/large/2025/11/26130823ec79db5.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "ECC approves amendments to Long Term Export Growth Financing Facility",
+   "url": "https://www.brecorder.com/news/40450007/ecc-approves-amendments-to-long-term-export-growth-financing-facility",
+   "source": "Business Recorder",
+   "published": "2026-11-20T16:21:28+00:00",
+   "summary": "The Economic Coordination Committee (ECC) approved amendments to the Long Term Export Growth Financing Facility, administered through EXIM Bank of Pakistan, to facilitate SME financing and support emerging exporters. The development came as the ECC of the Cabinet met on Friday at the Finance Division under the chairman…",
+   "image": "https://i.brecorder.com/large/2025/09/68d305d290ba2.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lanka urges Pakistan to boost exports under Free Trade Agreement",
+   "url": "https://www.brecorder.com/news/40450006/sri-lanka-urges-pakistan-to-boost-exports-under-free-trade-agreement",
+   "source": "Business Recorder",
+   "published": "2026-11-20T15:30:37+00:00",
+   "summary": "Sri Lanka is seeking to increase imports from Pakistan by inviting local exporters to tap into its nearly $19 billion import market, particularly in textiles, rice, cement, and other sectors, under the existing Free Trade Agreement (FTA). The development came as Sri Lanka’s Consul General H.E. Sanjeewa Pattiwilla held …",
+   "image": "https://i.brecorder.com/large/2025/11/692904f918ed0.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: equities end week on positive note, KSE-100 gains over 600 points",
+   "url": "https://www.brecorder.com/news/40449957/psx-equities-end-week-on-positive-note-kse-100-gains-over-600-points",
+   "source": "Business Recorder",
+   "published": "2026-11-20T14:58:28+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Friday, with the benchmark KSE-100 Index swinging both ways before closing the week’s last session in positive territory. The market opened under heavy selling pressure and quickly fell to its intra-day low of 176,212.76. However, buyers graduall…",
+   "image": "https://i.brecorder.com/large/2026/11/20095025f211cea.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Oil prices set for third straight weekly decline on Middle East export flows",
+   "url": "https://www.brecorder.com/news/40449950/oil-prices-set-for-third-straight-weekly-decline-on-middle-east-export-flows",
+   "source": "Business Recorder",
+   "published": "2026-11-20T13:22:47+00:00",
+   "summary": "LONDON: Oil prices fell on Friday and were set for a weekly decline on strong exports from the Middle East despite Houthi attacks on Saudi Arabia’s capital Riyadh and reports of tanker disruptions in the Strait of Hormuz. Brent crude futures were down 84 cents, or 0.9%, at $91.14 a barrel at 1310 GMT. US West Texas Int…",
+   "image": "https://i.brecorder.com/large/2026/09/23074917357c51e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Abu Dhabi index dips as oil slides on ample supply",
    "url": "https://www.brecorder.com/news/40449996/abu-dhabi-index-dips-as-oil-slides-on-ample-supply",
    "source": "Business Recorder",
@@ -167,19 +245,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: equities end week on positive note, KSE-100 gains over 600 points",
-   "url": "https://www.brecorder.com/news/40449957/psx-equities-end-week-on-positive-note-kse-100-gains-over-600-points",
-   "source": "Business Recorder",
-   "published": "2026-11-20T12:08:06+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Friday, with the benchmark KSE-100 Index swinging both ways before settling in positive territory. The market opened under heavy selling pressure and quickly fell to its intraday low of 176,212.76. However, buyers gradually stepped in to absorb t…",
-   "image": "https://i.brecorder.com/large/2026/11/20095025f211cea.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Service Industries subsidiary explores acquisition of Pakistan clothing retail chain",
    "url": "https://www.brecorder.com/news/40449991/service-industries-subsidiary-explores-acquisition-of-pakistan-clothing-retail-chain",
    "source": "Business Recorder",
@@ -191,19 +256,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Oil prices set for third straight weekly decline on Middle East export flows",
-   "url": "https://www.brecorder.com/news/40449950/oil-prices-set-for-third-straight-weekly-decline-on-middle-east-export-flows",
-   "source": "Business Recorder",
-   "published": "2026-11-20T10:45:31+00:00",
-   "summary": "LONDON: Oil prices fell on Friday and were set for a weekly decline on strong exports from the Middle East despite Houthi attacks on Saudi Arabia’s capital Riyadh and reports of tanker disruptions in the Strait of Hormuz. Brent crude futures were down $1.65, or 1.79%, to $90.33 a barrel at 1032 GMT. US West Texas Inter…",
-   "image": "https://i.brecorder.com/large/2026/09/23074917357c51e.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
@@ -272,11 +324,11 @@
    "domestic": false
   },
   {
-   "title": "PSX rises over 500 points in first half",
+   "title": "PSX gains 610 points, extends recovery for second straight day",
    "url": "https://tribune.com.pk/story/2641356/psx-rises-over-500-points-in-first-half",
    "source": "The Express Tribune",
    "published": "2026-11-20T04:25:08+00:00",
-   "summary": "KSE-100 Index touches an intraday high of 177,317.48 and a low of 176,212.76",
+   "summary": "KSE-100 Index closes at 177,382.57 amid cautious investor sentiment over domestic political uncertainty",
    "image": null,
    "topics": [
     "Economy"
@@ -350,32 +402,6 @@
    "domestic": false
   },
   {
-   "title": "Govt eyes $6b auto exports with DLTL scheme",
-   "url": "https://tribune.com.pk/story/2641253/govt-eyes-6b-auto-exports-with-dltl-scheme",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Scheme offers 5% baseline support, 10% on incremental exports",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Remittances mask export weakness",
-   "url": "https://tribune.com.pk/story/2641255/remittances-mask-export-weakness",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Textile exports rise 1% as trade deficit widens to $12.29b",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX rebounds 478 points after sharp fall",
    "url": "https://tribune.com.pk/story/2641259/psx-rebounds-478-points-after-sharp-fall",
    "source": "The Express Tribune",
@@ -423,19 +449,6 @@
    "image": null,
    "topics": [
     "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Swiss gold exports down 34% in October as UK deliveries fall",
-   "url": "https://www.brecorder.com/news/40449744/swiss-gold-exports-down-34-in-october-as-uk-deliveries-fall",
-   "source": "Business Recorder",
-   "published": "2026-11-19T12:37:12+00:00",
-   "summary": "LONDON: Swiss gold exports fell to 109.7 metric tons in October, down 34% from the prior month as deliveries to Britain were lower, Swiss customs data showed on Thursday. Exports from Switzerland, the world’s biggest bullion refining and transit hub, to Britain slid to 38.4 tons in October from 126.2 tons in September.…",
-   "image": "https://i.brecorder.com/large/2026/10/2716051709074a6.webp",
-   "topics": [
-    "Economy"
    ],
    "relevant": false,
    "domestic": false
@@ -534,19 +547,6 @@
    "domestic": false
   },
   {
-   "title": "Asian Development Bank approves $500m loan to support Pakistan’s federal pension reforms",
-   "url": "https://www.dawn.com/news/2045164/asian-development-bank-approves-500m-loan-to-support-pakistans-federal-pension-reforms",
-   "source": "Dawn",
-   "published": "2026-11-17T09:24:29+00:00",
-   "summary": "The Asian Development Bank (ADB) on Tuesday approved a $500 million results-based loan to help Pakistan reform its federal civil pension system, the Manila-based lending agency said in a statement . The reforms will help contain rising pension-related fiscal pressures, strengthen pension system sustainability, and expa…",
-   "image": "https://i.dawn.com/large/2026/11/17141138adabf62.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -557,6 +557,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "SBP injects over Rs 13.5 trillion to maintain liquidity in the market",
+   "url": "https://arynews.tv/cash-on-the-move-why-the-sbp-deposited-more-than-rs-13-5-trillion-in-market",
+   "source": "ARY News",
+   "published": null,
+   "summary": "SBP injects over Rs 13.5 trillion to maintain liquidity in the market",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/State-Bank-of-Pakistan.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
