@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:48:15+00:00",
+ "generated": "2026-11-20T03:55:27+00:00",
  "count": 985,
  "with_value": 939,
  "with_winner": 348,
@@ -18744,6 +18744,24 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005314",
+   "tender_no": "TS0000015481E",
+   "reference": "T 2422-C/26/MK &#34;HIRING OF SERVICES FOR INCINERATION OF INKS (SEPA APPROVED)&#34;",
+   "title": "T 2422-C/26/MK \"HIRING OF SERVICES FOR INCINERATION OF INKS (SEPA APPROVED)\" Miscellaneous",
+   "organisation": "Pakistan Security Printing Corporaion (PSPC) Pakistan Security Printing Corporation (PSPC) Islamabad - Pakistan",
+   "bid_count": 1,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005314",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005313",
    "tender_no": "TS0000014538E",
@@ -57769,26 +57787,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003218",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003217",
-   "tender_no": "TS0000003476E",
-   "reference": "TE/COMP/012/25-26",
-   "title": "SUPPLY, INSTALLATION & COMMISSIONING OF PLC BASED CONTROL PANELS WITH VFD AND EMC FILTERS Services",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) Compression Department, Sui Northern Gas Pipelines Limited (SNGPL) Multan - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Angular Power Automation"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-04",
-   "city": "Multan",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003217",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []

@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-19T22:48:20+00:00",
- "count": 41,
+ "generated": "2026-11-20T03:55:32+00:00",
+ "count": 45,
  "relevant_count": 17,
- "domestic_count": 14,
+ "domestic_count": 17,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (12)",
@@ -11,12 +11,64 @@
  },
  "stories": [
   {
-   "title": "Cengiz Enerji, Pakistani business consortium sign MoU for power distribution privatisation",
-   "url": "https://www.brecorder.com/news/40449756/cengiz-enerji-pakistani-business-consortium-sign-mou-for-power-distribution-privatisation",
+   "title": "SBP Launches Digital Platform to Streamline SME Financing",
+   "url": "https://www.brecorder.com/news/40449863/sbp-launches-digital-platform-to-streamline-sme-financing",
    "source": "Business Recorder",
-   "published": "2026-11-19T16:34:22+00:00",
-   "summary": "Cengiz Enerji, a subsidiary of Turkish conglomerate Cengiz Holding, has signed a memorandum of understanding (MoU) with a consortium of five leading Pakistani business groups to explore investment opportunities in the country’s power distribution sector, a statement said on Thursday. The Pakistani consortium comprises …",
-   "image": "https://i.brecorder.com/large/2026/11/19212049f119b88.webp",
+   "published": "2026-11-20T02:52:41+00:00",
+   "summary": "KARACHI, November 19, 2026: The State Bank of Pakistan (SBP) has launched a centralised digital platform, SMEConnect, to simplify access to financing for small and medium enterprises (SMEs), improve transparency and streamline loan applications across the country. The platform, accessible at https://smeconnect.sbp.org.…",
+   "image": "https://i.brecorder.com/large/2025/10/68f2dc3f0568d.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KE’s clarification on excessive load-shedding in Landhi",
+   "url": "https://www.brecorder.com/news/40449858/kes-clarification-on-excessive-load-shedding-in-landhi",
+   "source": "Business Recorder",
+   "published": "2026-11-20T02:51:21+00:00",
+   "summary": "KARACHI: K-Electric (KE) clarifies that it is not conducting any excessive load shedding in Karachi’s Babar Market B-2, Landhi. The market is served by one feeder that falls in the medium-loss category due to its high aggregated technical and commercial loss of nearly 30 percent. It is pertinent to mention that free el…",
+   "image": "https://i.brecorder.com/large/2026/07/1406250441ac30b.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KMC undertaking uplift projects through better resource management",
+   "url": "https://www.brecorder.com/news/40449859/kmc-undertaking-uplift-projects-through-better-resource-management",
+   "source": "Business Recorder",
+   "published": "2026-11-20T02:45:30+00:00",
+   "summary": "KARACHI: Karachi Mayor Barrister Murtaza Wahab has said the Karachi Metropolitan Corporation, which inherited severe financial constraints and virtually no resources, has significantly improved its performance and is now undertaking development projects across the city through more effective resource management. He mad…",
+   "image": "https://i.brecorder.com/large/2026/01/010142566f3b998.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "GREE introduces new air purifier range",
+   "url": "https://www.brecorder.com/news/40449856/gree-introduces-new-air-purifier-range",
+   "source": "Business Recorder",
+   "published": "2026-11-20T02:41:52+00:00",
+   "summary": "LAHORE: As air pollution and smog continue to affect communities across Pakistan, GREE, represented in Pakistan by DWP Group, has introduced its latest range of air purifiers under the “Breathe Better, Live Better” campaign. The launch reflects the growing importance of indoor air quality and offers households solution…",
+   "image": "https://i.brecorder.com/large/2026/11/20074140a0c06ff.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Delegation of 34 senior BD civil servants arrives in Karachi",
+   "url": "https://www.brecorder.com/news/40449855/delegation-of-34-senior-bd-civil-servants-arrives-in-karachi",
+   "source": "Business Recorder",
+   "published": "2026-11-20T02:39:09+00:00",
+   "summary": "KARACHI: A distinguished delegation of 34 senior civil servants from Bangladesh arrived in Karachi on Thursday for the third phase of their official visit to Pakistan. Comprising Additional Secretaries and Joint Secretaries, the esteemed officials are participating in an Executive Development Programme (EDP) conducted …",
+   "image": "https://i.brecorder.com/large/2026/11/20073902d32cd6e.webp",
    "topics": [
     "Budget & spending"
    ],
@@ -24,12 +76,12 @@
    "domestic": true
   },
   {
-   "title": "SBP-held foreign exchange reserves rise $15 million to $21.59 billion",
-   "url": "https://www.brecorder.com/news/40449754/sbp-held-foreign-exchange-reserves-rise-15-million-to-2159-billion",
+   "title": "APTMA, German VFI agree to strengthen trade",
+   "url": "https://www.brecorder.com/news/40449822/aptma-german-vfi-agree-to-strengthen-trade",
    "source": "Business Recorder",
-   "published": "2026-11-19T16:13:13+00:00",
-   "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $15 million to $21.59 billion during the week ended November 13, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.77 billion as of November 13, 2026. According to the SBP’s latest data, net f…",
-   "image": "https://i.brecorder.com/large/2026/11/19211206b2a83aa.jpg",
+   "published": "2026-11-20T01:57:59+00:00",
+   "summary": "LAHORE: The All Pakistan Textile Mills Association (APTMA) and the German Importers Association (VFI) have agreed to adopt measures to strengthen bilateral trade between Pakistan and Germany, with a focus on better sustainability reporting. The understanding was reached during a visit to APTMA by Dr. Michael Arretz, Ma…",
+   "image": "https://i.brecorder.com/large/2026/06/070436048cdef62.webp",
    "topics": [
     "Economy"
    ],
@@ -69,19 +121,6 @@
    "published": "2026-11-19T13:02:12+00:00",
    "summary": "Privatisation commission signs financial advisory services agreement with consortium",
    "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Indian aircraft barred from Pakistani airspace until Dec 24",
-   "url": "https://www.brecorder.com/news/40449738/indian-aircraft-barred-from-pakistani-airspace-until-dec-24",
-   "source": "Business Recorder",
-   "published": "2026-11-19T11:46:33+00:00",
-   "summary": "Pakistan has extended its ban on the use of its airspace by Indian aircraft until December 24, at 4:59am, according to a Notice to Airmen (NOTAM) issued by the Pakistan Airports Authority (PAA) on Thursday. Under the NOTAM, Pakistani airspace will remain off-limits to aircraft registered in India, as well as aircraft o…",
-   "image": "https://i.brecorder.com/large/2026/11/19164545ab3caf4.webp",
    "topics": [
     "Construction & projects"
    ],
@@ -193,12 +232,51 @@
    "domestic": true
   },
   {
-   "title": "PSX: buying returns, KSE-100 closes marginally higher",
-   "url": "https://www.brecorder.com/news/40449688/psx-buying-returns-kse-100-closes-marginally-higher",
+   "title": "Global risk jitters bolster rupee as investors turn to Indian assets",
+   "url": "https://www.brecorder.com/news/40449954/global-risk-jitters-bolster-rupee-as-investors-turn-to-indian-assets",
    "source": "Business Recorder",
-   "published": "2026-11-19T14:26:47+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) benchmark KSE-100 Index ended marginally higher on Thursday, as investors returned to buying after two consecutive sessions of selling. The bulls managed to eke out good gains in the first half of the session, pushing the KSE-100 to an intra-day high of 177,929.61. It was followed by s…",
-   "image": "https://i.brecorder.com/large/2026/11/19095310582597a.webp",
+   "published": "2026-11-20T03:03:37+00:00",
+   "summary": "MUMBAI: The Indian rupee on Friday is expected to largely shrug off mounting global risk aversion as a surge in foreign inflows ​into Indian assets offsets the traditional pressure that a deterioration in ‌sentiment exerts on emerging-market currencies. The Indian rupee is expected to open in the 93.28-93.34 range, per…",
+   "image": "https://i.brecorder.com/large/2026/11/2008021483f5624.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Asian shares head for worst week since 2020 as AI trade gloom fails to abate",
+   "url": "https://www.brecorder.com/news/40449953/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate",
+   "source": "Business Recorder",
+   "published": "2026-11-20T03:00:18+00:00",
+   "summary": "HONG KONG: Asian shares slid on Friday to be on ​track for their worst week since 2020, as Anthropic’s debut failed to restore investor faith in ‌AI trades, while the dollar extended a rally on safe-haven flows. MSCI’s broadest index of Asia-Pacific shares lost 2.5%, poised for a six-day losing streak. The gauge has no…",
+   "image": "https://i.brecorder.com/large/2026/11/18075213b063701.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar near 19-month peak as AI jitters sap risk appetite",
+   "url": "https://www.brecorder.com/news/40449951/dollar-near-19-month-peak-as-ai-jitters-sap-risk-appetite",
+   "source": "Business Recorder",
+   "published": "2026-11-20T02:53:57+00:00",
+   "summary": "SHANGHAI/SINGAPORE: The dollar held near a 19-month high on Friday , having risen over the past eight sessions as jitters over the AI trade sent investors fleeing ​to safe-haven assets, while the yen steadied after Japanese inflation data. The dollar index was ‌perched near the 103.9 level, its strongest since early Ap…",
+   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "USD17.9bn in textile exports at risk over green compliance, BZU Summit warns",
+   "url": "https://www.brecorder.com/news/40449821/usd179bn-in-textile-exports-at-risk-over-green-compliance-bzu-summit-warns",
+   "source": "Business Recorder",
+   "published": "2026-11-20T01:59:33+00:00",
+   "summary": "MULTAN: Pakistan’s textile and apparel exporters must accelerate their shift to cleaner production, energy efficiency and internationally recognised sustainability standards to remain competitive in global markets, industry leaders and environmental experts said at the second two-day BZU Climate Action Summit 2026. Org…",
+   "image": "https://i.brecorder.com/large/2026/07/16042724ff69868.webp",
    "topics": [
     "Economy"
    ],
@@ -311,19 +389,6 @@
    "domestic": false
   },
   {
-   "title": "Gold holds near 14-month low as Fed hike bets weigh",
-   "url": "https://www.brecorder.com/news/40449691/gold-holds-near-14-month-low-as-fed-hike-bets-weigh",
-   "source": "Business Recorder",
-   "published": "2026-11-19T05:53:28+00:00",
-   "summary": "Gold held steady on Thursday , hovering near a 14-month low as a stronger dollar and expectations of a US Federal Reserve interest rate hike weighed on bullion, with investors awaiting comments from central bank officials for fresh policy cues. Spot gold was little changed at $3,722.84 per ounce by 0452 GMT, after hitt…",
-   "image": "https://i.brecorder.com/large/2026/11/18081659191fb79.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX extends recovery amid volatility, gaining around 480 points",
    "url": "https://tribune.com.pk/story/2641174/psx-rises-around-700-points-in-mid-day-trade",
    "source": "The Express Tribune",
@@ -357,19 +422,6 @@
    "published": "2026-11-19T03:56:51+00:00",
    "summary": "https://www.dawn.com/news/2045585",
    "image": "https://i.dawn.com/large/2025/10/68e721ad5d940.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee's inflow-driven upward momentum faces hawkish Fed headwinds",
-   "url": "https://www.brecorder.com/news/40449686/indian-rupees-inflow-driven-upward-momentum-faces-hawkish-fed-headwinds",
-   "source": "Business Recorder",
-   "published": "2026-11-19T03:09:51+00:00",
-   "summary": "MUMBAI: The Indian rupee is expected to open largely flat on Thursday , with sustained foreign equity inflows cushioning it against dollar strength amid hawkish ​Federal Reserve signals. The Indian rupee is expected to open little changed after ‌settling at 93.44 to the dollar on Wednesday. It climbed to 93.2450 during…",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
    "topics": [
     "Economy"
    ],
