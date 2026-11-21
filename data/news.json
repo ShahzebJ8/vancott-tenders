@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-20T20:42:51+00:00",
- "count": 49,
- "relevant_count": 13,
- "domestic_count": 11,
+ "generated": "2026-11-21T02:01:14+00:00",
+ "count": 57,
+ "relevant_count": 15,
+ "domestic_count": 19,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,112 @@
   "ARY News": "ok (9)"
  },
  "stories": [
+  {
+   "title": "Only 3pc of PSX-listed cos explicitly commit to children’s rights: Report",
+   "url": "https://www.brecorder.com/news/40450092/only-3pc-of-psx-listed-cos-explicitly-commit-to-childrens-rights-report",
+   "source": "Business Recorder",
+   "published": "2026-11-21T02:00:20+00:00",
+   "summary": "KARACHI: Only 3 percent of 98 companies listed on the Pakistan Stock Exchange (PSX) explicitly disclose a commitment to respecting children’s rights, while 78 percent report community investments benefiting children, according to a new assessment of corporate sustainability reporting in Pakistan. The findings were rele…",
+   "image": "https://i.brecorder.com/large/2024/08/66b681dae189b.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Approximately 89pc of increase in imports came from non-petroleum categories: Zahid",
+   "url": "https://www.brecorder.com/news/40450084/approximately-89pc-of-increase-in-imports-came-from-non-petroleum-categories-zahid",
+   "source": "Business Recorder",
+   "published": "2026-11-21T01:34:28+00:00",
+   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board, Mian Zahid Hussain has emphasised that the reasons behind import growth must also be examined by product category.…",
+   "image": "https://i.brecorder.com/large/2026/02/270128388ef0647.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aurangzeb emphasises affordable electricity",
+   "url": "https://www.brecorder.com/news/40450075/aurangzeb-emphasises-affordable-electricity",
+   "source": "Business Recorder",
+   "published": "2026-11-21T01:22:35+00:00",
+   "summary": "ISLAMABAD: The government is moving to finalise a revamped power market structure to promote competition, encourage private investment and clearly define the regulatory roles of National Electric Power Regulatory Authority (Nepra) and the Competition Commission of Pakistan (CCP), and ensure affordable electricity for c…",
+   "image": "https://i.brecorder.com/large/2025/01/11155022af73e29.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "ECC approves amendments to EFS: Credits to SMEs made easier",
+   "url": "https://www.brecorder.com/news/40450080/ecc-approves-amendments-to-efs-credits-to-smes-made-easier",
+   "source": "Business Recorder",
+   "published": "2026-11-21T01:18:57+00:00",
+   "summary": "ISLAMABAD: The Economic Coordination Committee (ECC) of the Cabinet on Friday approved amendments to the Export Finance Scheme to facilitate small and medium enterprises (SMEs) in accessing long-term financing. The committee also approved Technical Supplementary Grants (TSGs) worth billions of rupees for various minist…",
+   "image": "https://i.brecorder.com/large/2026/03/04033035bfaed74.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FCC releases detailed verdict on provincial infrastructure cess",
+   "url": "https://www.brecorder.com/news/40450078/fcc-releases-detailed-verdict-on-provincial-infrastructure-cess",
+   "source": "Business Recorder",
+   "published": "2026-11-21T01:11:17+00:00",
+   "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) on Friday issued its detailed verdict on petitions challenging the infrastructure cess in Sindh and Khyber Pakhtunkhwa, ruling that a provincial levy does not become invalid merely because it affects imported goods; equally, a charge that is, in substance, a customs imp…",
+   "image": "https://i.brecorder.com/large/2026/02/12072540e4704f4.webp",
+   "topics": [
+    "Construction & projects",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "LHC bars FBR from ST collection prior to registration",
+   "url": "https://www.brecorder.com/news/40450016/lhc-bars-fbr-from-st-collection-prior-to-registration",
+   "source": "Business Recorder",
+   "published": "2026-11-20T23:53:21+00:00",
+   "summary": "LAHORE: The Lahore High Court (LHC) on Friday made it mandatory for the Federal Bureau of Revenue (FBR) to register businessmen before collection of sales tax. Justice Muhammad Ajmal Zahid announced that provision 3 of the Sales Tax Act could only be invoked against any businessmen after his/her registration. The court…",
+   "image": "https://i.brecorder.com/large/2024/06/665e6112ce536.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Paper, leather sectors: FBR to e-monitor production",
+   "url": "https://www.brecorder.com/news/40450021/paper-leather-sectors-fbr-to-e-monitor-production",
+   "source": "Business Recorder",
+   "published": "2026-11-20T23:53:21+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) will electronically monitor the production of paper, paperboard, and synthetic leather across Pakistan to check tax evasion in the sector. According to a notification issued by the FBR on Friday, every synthetic leather manufacturer shall purchase or procure, install, integ…",
+   "image": "https://i.brecorder.com/large/2024/09/66f74cb4c5705.jpg",
+   "topics": [
+    "Budget & spending",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Customs values of automotive & bike bulbs revised",
+   "url": "https://www.brecorder.com/news/40450022/customs-values-of-automotive-amp-bike-bulbs-revised",
+   "source": "Business Recorder",
+   "published": "2026-11-20T23:53:21+00:00",
+   "summary": "ISLAMABAD: The Directorate General of Customs Valuation has revised the customs values of imported automotive and motorcycle bulbs and their components after nearly a decade, following findings that prevailing local market prices were significantly higher than the values reflected in import data. According to Valuation…",
+   "image": "https://i.brecorder.com/large/2023/01/63c0a6cabfde9.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee secures gain against US dollar",
    "url": "https://www.brecorder.com/news/40449988/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -154,12 +260,12 @@
    "domestic": true
   },
   {
-   "title": "Pakistan produces 23mn mobile phones in Jan-Oct",
-   "url": "https://www.brecorder.com/news/40450012/pakistan-produces-23mn-mobile-phones-in-jan-oct",
+   "title": "Musadik calls SCO dialogue a chance to bridge cultural differences",
+   "url": "https://www.brecorder.com/news/40450077/musadik-calls-sco-dialogue-a-chance-to-bridge-cultural-differences",
    "source": "Business Recorder",
-   "published": "2026-11-20T17:15:48+00:00",
-   "summary": "Pakistan’s local mobile phone manufacturing and assembly plants produced 23.03 million handsets during January-October 2026, almost six times the 3.85 million units imported commercially during the same period, reflecting the growing contribution of domestic production to meeting the country’s mobile phone demand. The …",
-   "image": "https://i.brecorder.com/large/2025/11/26130823ec79db5.gif",
+   "published": "2026-11-21T00:57:49+00:00",
+   "summary": "NEW DELHI: Federal Minister Musadik Masood Malik has welcomed the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum in New Delhi, describing it as an important opportunity for countries across the region to engage in meaningful dialogue about their cultures, histories and civilisations. Speaking to …",
+   "image": "https://i.brecorder.com/large/2025/05/05184343ffa5f7f.jpg",
    "topics": [
     "Economy"
    ],
@@ -167,12 +273,25 @@
    "domestic": false
   },
   {
-   "title": "ECC approves amendments to Long Term Export Growth Financing Facility",
-   "url": "https://www.brecorder.com/news/40450007/ecc-approves-amendments-to-long-term-export-growth-financing-facility",
+   "title": "Gold-plated guesswork",
+   "url": "https://www.brecorder.com/news/40450032/gold-plated-guesswork",
    "source": "Business Recorder",
-   "published": "2026-11-20T16:21:28+00:00",
-   "summary": "The Economic Coordination Committee (ECC) approved amendments to the Long Term Export Growth Financing Facility, administered through EXIM Bank of Pakistan, to facilitate SME financing and support emerging exporters. The development came as the ECC of the Cabinet met on Friday at the Finance Division under the chairman…",
-   "image": "https://i.brecorder.com/large/2025/09/68d305d290ba2.jpg",
+   "published": "2026-11-20T23:53:21+00:00",
+   "summary": "EDITORIAL: The Ministry of Commerce’s proposal to replace percentage-based value-addition requirements for jewellery exports with fixed dollar rates per gram might sound like a straightforward simplification, yet it has raised more questions than it answers . Setting minimum value addition at USD 1.50 per gram for bang…",
+   "image": "https://i.brecorder.com/large/2025/05/6823da91e2125.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan produces 23mn mobile phones in Jan-Oct",
+   "url": "https://www.brecorder.com/news/40450012/pakistan-produces-23mn-mobile-phones-in-jan-oct",
+   "source": "Business Recorder",
+   "published": "2026-11-20T17:15:48+00:00",
+   "summary": "Pakistan’s local mobile phone manufacturing and assembly plants produced 23.03 million handsets during January-October 2026, almost six times the 3.85 million units imported commercially during the same period, reflecting the growing contribution of domestic production to meeting the country’s mobile phone demand. The …",
+   "image": "https://i.brecorder.com/large/2025/11/26130823ec79db5.gif",
    "topics": [
     "Economy"
    ],
@@ -242,20 +361,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Service Industries subsidiary explores acquisition of Pakistan clothing retail chain",
-   "url": "https://www.brecorder.com/news/40449991/service-industries-subsidiary-explores-acquisition-of-pakistan-clothing-retail-chain",
-   "source": "Business Recorder",
-   "published": "2026-11-20T11:28:36+00:00",
-   "summary": "Service Industries Limited said its wholly-owned subsidiary Service Retail (Private) Limited is exploring the possible acquisition of a retail-chain clothing business to expand its footprint in Pakistan. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Friday. “Service Re…",
-   "image": "https://i.brecorder.com/large/2025/07/686d84b3b39ba.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
