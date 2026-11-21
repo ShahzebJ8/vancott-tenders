@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21T16:58:21+00:00",
- "count": 50,
- "relevant_count": 14,
- "domestic_count": 14,
+ "generated": "2026-11-21T22:04:10+00:00",
+ "count": 55,
+ "relevant_count": 16,
+ "domestic_count": 18,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
@@ -10,6 +10,58 @@
   "ARY News": "ok (11)"
  },
  "stories": [
+  {
+   "title": "Import of more wheat recommended",
+   "url": "https://www.brecorder.com/news/40450174/import-of-more-wheat-recommended",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:25:09+00:00",
+   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar chaired two high-level meetings on Saturday to review the proposed export of surplus sugar and the availability and price stability of essential food commodities, including wheat. The committee recommended importing up to 800,000 …",
+   "image": "https://i.brecorder.com/large/2025/10/68e573a6e9e66.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "LG minister orders stepped up work on Phase II of PDP",
+   "url": "https://www.brecorder.com/news/40450140/lg-minister-orders-stepped-up-work-on-phase-ii-of-pdp",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:23:59+00:00",
+   "summary": "LAHORE: Punjab Local Government Minister Zeeshan Rafiq has said that work on Phase II of the Punjab Development Programme (PDP) should be accelerated following the completion of Phase I. He expressed these views during a meeting held here on Saturday to review the PDP. Punjab Local Government Secretary Zaid bin Maqsood…",
+   "image": "https://i.brecorder.com/large/2026/01/16035331dd72b63.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SMEs: easy access to finance urged",
+   "url": "https://www.brecorder.com/news/40450168/smes-easy-access-to-finance-urged",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:23:59+00:00",
+   "summary": "KARACHI: Consequently, in order to make credits to SMEs easier for long-term financing facilities, there has to be “easy access to finance, lower interest rate and no collateral as such”, said Ateeq Ur Rehman, an economic and financial analyst. The concern by the government for SMEs financing is brilliant and quite eff…",
+   "image": "https://i.brecorder.com/large/2026/02/21010153e6ba1d5.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sindh organises walk to mark World Children’s Day",
+   "url": "https://www.brecorder.com/news/40450173/sindh-organises-walk-to-mark-world-childrens-day",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:23:59+00:00",
+   "summary": "KARACHI: The Sindh government organised an awareness walk on World Children’s Day to highlight the importance of children’s rights, protection, education and a brighter future. Sindh Minister for Labour, Human Resources and Social Protection Saeed Ghani joined the walk, which began at McDonald’s Clifton and concluded a…",
+   "image": "https://i.brecorder.com/large/2023/11/655fb51438ef8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Pakistan rises 17 places in UN e-governance ranking",
    "url": "https://www.dawn.com/news/2046012/pakistan-rises-17-places-in-un-e-governance-ranking",
@@ -193,6 +245,45 @@
    "domestic": true
   },
   {
+   "title": "Canadian home sales edge higher",
+   "url": "https://www.brecorder.com/news/40450149/canadian-home-sales-edge-higher",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:23:59+00:00",
+   "summary": "TORONTO: Canadian home sales and prices edged higher in October but the moves were limited as the Bank of Canada began an interest rate hiking campaign, data from the Canadian Real Estate Association showed on Tuesday. National home sales rose 0.3 percent month-over-month in October. Sales were down 10.6 percent on an …",
+   "image": "https://i.brecorder.com/large/2022/04/201816384ff939a.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lanka central bank surprises with key rate hike on inflation fears",
+   "url": "https://www.brecorder.com/news/40450150/sri-lanka-central-bank-surprises-with-key-rate-hike-on-inflation-fears",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:23:59+00:00",
+   "summary": "COLOMBO: Sri Lanka’s central bank raised its key policy rate by 25 basis points in a surprise move on Friday, citing higher-than-expected inflation pressures caused by volatile global energy prices. Markets had expected the Central Bank of Sri Lanka (CBSL) to stay put for a third consecutive meeting after a surprise hi…",
+   "image": "https://i.brecorder.com/large/2024/05/28110126f45e99e.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "EU proposes tax on Big Tech, EUR200bn cuts in new budget draft",
+   "url": "https://www.brecorder.com/news/40450181/eu-proposes-tax-on-big-tech-eur200bn-cuts-in-new-budget-draft",
+   "source": "Business Recorder",
+   "published": "2026-11-21T21:23:59+00:00",
+   "summary": "BRUSSELS, (Belgium): The EU put forward plans Saturday to tax the world’s biggest digital companies to fund its next budget, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros …",
+   "image": "https://i.brecorder.com/large/2025/12/18021321ce477a5.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "EU proposes tax on Big Tech to boost budget",
    "url": "https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget",
    "source": "Dawn",
@@ -203,32 +294,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan calls for sustainable fisheries growth to boost seafood exports",
-   "url": "https://www.brecorder.com/news/40450109/pakistan-calls-for-sustainable-fisheries-growth-to-boost-seafood-exports",
-   "source": "Business Recorder",
-   "published": "2026-11-21T08:25:20+00:00",
-   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry has called for turning the fisheries sector into a higher-value export industry while ensuring decent jobs, better livelihoods for fishing communities and sustainable use of marine resources. In his message on World Fisheries Day 2026, the minister sa…",
-   "image": "https://i.brecorder.com/large/2026/11/21132439f4c3c1e.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Fauji Foods appoints Haseebullah Zahur as CEO",
-   "url": "https://www.brecorder.com/news/40450106/fauji-foods-appoints-haseebullah-zahur-as-ceo",
-   "source": "Business Recorder",
-   "published": "2026-11-21T06:52:12+00:00",
-   "summary": "Fauji Foods Ltd has appointed Haseebullah Zahur as its chief executive officer, effective January 1, 2027. Zahur will succeed Waseem Haider, who will remain acting chief executive officer until then, Fauji Foods said in a filing with the Pakistan Stock Exchange (PSX). “This is to inform you that the Board of Directors …",
-   "image": "https://i.brecorder.com/large/2026/11/21121244631d001.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
