@@ -1,15 +1,41 @@
 {
- "generated": "2026-11-21T02:01:14+00:00",
- "count": 57,
+ "generated": "2026-11-21T09:18:15+00:00",
+ "count": 55,
  "relevant_count": 15,
  "domestic_count": 19,
  "sources": {
-  "Dawn": "ok (13)",
+  "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
-  "The Express Tribune": "ok (10)",
-  "ARY News": "ok (9)"
+  "The Express Tribune": "ok (7)",
+  "ARY News": "ok (10)"
  },
  "stories": [
+  {
+   "title": "Pakistan rises 17 places in UN e-governance ranking",
+   "url": "https://www.dawn.com/news/2046012/pakistan-rises-17-places-in-un-e-governance-ranking",
+   "source": "Dawn",
+   "published": "2026-11-21T03:02:37+00:00",
+   "summary": "• Moves from Middle to High category in E-Government Develop­m­ent Index • Telecommunication infrastructure score jumps 39pc to 0.6590 ISLAMABAD: Pakistan has cli­mbed 17 places to rank 119th am­­ong 194 countries in the United Nations E-Government Develop­m­ent Index (EGDI) 2026, a global benchmark that assesses how e…",
+   "image": "https://i.dawn.com/large/2024/12/06074354d3dca25.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "The Economic Coordination Committee lowers export threshold for SMEs",
+   "url": "https://www.dawn.com/news/2045994/the-economic-coordination-committee-lowers-export-threshold-for-smes",
+   "source": "Dawn",
+   "published": "2026-11-21T02:44:12+00:00",
+   "summary": "ISLAMABAD: The Economic Coordination Committee (ECC) of the cabinet on Friday approved measures to facilitate and promote SME exports, along with technical supplementary grants (TSGs) for various ministries and divisions. A meeting of the ECC, chaired by Minister for Finance Muhammad Aurangzeb at the Finance Division, …",
+   "image": "https://i.dawn.com/large/2019/07/5d2a845e658d8.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Only 3pc of PSX-listed cos explicitly commit to children’s rights: Report",
    "url": "https://www.brecorder.com/news/40450092/only-3pc-of-psx-listed-cos-explicitly-commit-to-childrens-rights-report",
@@ -77,12 +103,12 @@
    "domestic": true
   },
   {
-   "title": "LHC bars FBR from ST collection prior to registration",
-   "url": "https://www.brecorder.com/news/40450016/lhc-bars-fbr-from-st-collection-prior-to-registration",
-   "source": "Business Recorder",
-   "published": "2026-11-20T23:53:21+00:00",
-   "summary": "LAHORE: The Lahore High Court (LHC) on Friday made it mandatory for the Federal Bureau of Revenue (FBR) to register businessmen before collection of sales tax. Justice Muhammad Ajmal Zahid announced that provision 3 of the Sales Tax Act could only be invoked against any businessmen after his/her registration. The court…",
-   "image": "https://i.brecorder.com/large/2024/06/665e6112ce536.jpg",
+   "title": "Digital monitoring of paper, rexine makers ordered",
+   "url": "https://www.dawn.com/news/2045990/digital-monitoring-of-paper-rexine-makers-ordered",
+   "source": "Dawn",
+   "published": "2026-11-20T23:33:01+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has made electronic production monitoring mandatory for paper, paperboard and synthetic leather manufacturers, ordering industrial units to install the prescribed equipment within one month. The FBR issued two separate orders directing synthetic leather manufacturers to ins…",
+   "image": "https://i.dawn.com/large/2026/11/210739344beb23d.jpg",
    "topics": [
     "Budget & spending"
    ],
@@ -90,30 +116,16 @@
    "domestic": true
   },
   {
-   "title": "Paper, leather sectors: FBR to e-monitor production",
-   "url": "https://www.brecorder.com/news/40450021/paper-leather-sectors-fbr-to-e-monitor-production",
-   "source": "Business Recorder",
-   "published": "2026-11-20T23:53:21+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) will electronically monitor the production of paper, paperboard, and synthetic leather across Pakistan to check tax evasion in the sector. According to a notification issued by the FBR on Friday, every synthetic leather manufacturer shall purchase or procure, install, integ…",
-   "image": "https://i.brecorder.com/large/2024/09/66f74cb4c5705.jpg",
+   "title": "CM Murad announces Rs5.3bn relief package for drought-hit villages",
+   "url": "https://www.dawn.com/news/2046025/cm-murad-announces-rs53bn-relief-package-for-drought-hit-villages",
+   "source": "Dawn",
+   "published": "2026-11-20T23:31:28+00:00",
+   "summary": "KARACHI: Sindh Chief Minister Syed Murad Ali Shah has announced a Rs5.3 billion relief package for drought-affected communities in 25 dehs of Tharparkar and Umerkot. He also reaffirmed his government’s commitment to supporting wheat growers through direct financial assistance, fertiliser subsidies and improved agricult…",
+   "image": "https://i.dawn.com/large/2025/12/18094431e99ea5f.webp",
    "topics": [
-    "Budget & spending",
-    "Procurement"
+    "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Customs values of automotive & bike bulbs revised",
-   "url": "https://www.brecorder.com/news/40450022/customs-values-of-automotive-amp-bike-bulbs-revised",
-   "source": "Business Recorder",
-   "published": "2026-11-20T23:53:21+00:00",
-   "summary": "ISLAMABAD: The Directorate General of Customs Valuation has revised the customs values of imported automotive and motorcycle bulbs and their components after nearly a decade, following findings that prevailing local market prices were significantly higher than the values reflected in import data. According to Valuation…",
-   "image": "https://i.brecorder.com/large/2023/01/63c0a6cabfde9.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -221,19 +233,6 @@
    "domestic": true
   },
   {
-   "title": "Mideast conflict changes external outlook: SBP",
-   "url": "https://www.dawn.com/news/2045287/mideast-conflict-changes-external-outlook-sbp",
-   "source": "Dawn",
-   "published": "2026-11-18T00:38:45+00:00",
-   "summary": "KARACHI: The Middle East conflict worsened inflation and the external outlook, prompting the State Bank to raise its policy rate by 100 basis points in April to curb second-round effects and support macroeconomic stability, according to the central bank governor’s 2025-26 annual report issued on Tuesday. The report sai…",
-   "image": "https://i.dawn.com/large/2024/04/301728308dcd508.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Iranian Rial edges higher against Dollar, Saudi Riyal and Pakistani Rupee",
    "url": "https://arynews.tv/iranian-rial-edges-higher-against-dollar-saudi-riyal-pakistani-rupee",
    "source": "ARY News",
@@ -260,6 +259,45 @@
    "domestic": true
   },
   {
+   "title": "Pakistan calls for sustainable fisheries growth to boost seafood exports",
+   "url": "https://www.brecorder.com/news/40450109/pakistan-calls-for-sustainable-fisheries-growth-to-boost-seafood-exports",
+   "source": "Business Recorder",
+   "published": "2026-11-21T08:25:20+00:00",
+   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry has called for turning the fisheries sector into a higher-value export industry while ensuring decent jobs, better livelihoods for fishing communities and sustainable use of marine resources. In his message on World Fisheries Day 2026, the minister sa…",
+   "image": "https://i.brecorder.com/large/2026/11/21132439f4c3c1e.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Fauji Foods appoints Haseebullah Zahur as CEO",
+   "url": "https://www.brecorder.com/news/40450106/fauji-foods-appoints-haseebullah-zahur-as-ceo",
+   "source": "Business Recorder",
+   "published": "2026-11-21T06:52:12+00:00",
+   "summary": "Fauji Foods Ltd has appointed Haseebullah Zahur as its chief executive officer, effective January 1, 2027. Zahur will succeed Waseem Haider, who will remain acting chief executive officer until then, Fauji Foods said in a filing with the Pakistan Stock Exchange (PSX). “This is to inform you that the Board of Directors …",
+   "image": "https://i.brecorder.com/large/2026/11/21121244631d001.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "url": "https://www.dawn.com/news/2046101/wall-street-ends-sharply-lower-on-ai-selloff-sampp-500-dow-in-correction",
+   "source": "Dawn",
+   "published": "2026-11-21T06:35:56+00:00",
+   "summary": "US stocks extended their rout on Friday, and the S&P ​500 and the Dow both confirmed corrections after Anthropic’s momentous debut fell flat , exacerbating worries about the AI trade that has driven this year’s stock market rally. All three major US equity ‌indexes ended sharply lower. The Dow and the S&P 500 are now m…",
+   "image": "https://i.dawn.com/large/2026/11/21113342a3b81ed.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Musadik calls SCO dialogue a chance to bridge cultural differences",
    "url": "https://www.brecorder.com/news/40450077/musadik-calls-sco-dialogue-a-chance-to-bridge-cultural-differences",
    "source": "Business Recorder",
@@ -273,12 +311,26 @@
    "domestic": false
   },
   {
-   "title": "Gold-plated guesswork",
-   "url": "https://www.brecorder.com/news/40450032/gold-plated-guesswork",
-   "source": "Business Recorder",
-   "published": "2026-11-20T23:53:21+00:00",
-   "summary": "EDITORIAL: The Ministry of Commerce’s proposal to replace percentage-based value-addition requirements for jewellery exports with fixed dollar rates per gram might sound like a straightforward simplification, yet it has raised more questions than it answers . Setting minimum value addition at USD 1.50 per gram for bang…",
-   "image": "https://i.brecorder.com/large/2025/05/6823da91e2125.jpg",
+   "title": "ECC allows 416,000T sugar export",
+   "url": "https://tribune.com.pk/story/2641490/ecc-allows-416000t-sugar-export",
+   "source": "The Express Tribune",
+   "published": "2026-11-20T17:54:18+00:00",
+   "summary": "Summary not circulated among ministries; IMF deregulation condition unmet",
+   "image": null,
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX extends recovery, gains 610 points",
+   "url": "https://tribune.com.pk/story/2641497/psx-extends-recovery-gains-610-points",
+   "source": "The Express Tribune",
+   "published": "2026-11-20T17:54:18+00:00",
+   "summary": "Stock market rallies for second consecutive session",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -429,19 +481,6 @@
    "domestic": false
   },
   {
-   "title": "PSX gains 610 points, extends recovery for second straight day",
-   "url": "https://tribune.com.pk/story/2641356/psx-rises-over-500-points-in-first-half",
-   "source": "The Express Tribune",
-   "published": "2026-11-20T04:25:08+00:00",
-   "summary": "KSE-100 Index closes at 177,382.57 amid cautious investor sentiment over domestic political uncertainty",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel’s intervention saves Rs120bn in unnecessary govt spending under remittance initiative: panel chairman",
    "url": "https://www.dawn.com/news/2045865/senate-panels-intervention-saves-rs120bn-in-unnecessary-govt-spending-under-remittance-initiative-panel-chairman",
    "source": "Dawn",
@@ -494,19 +533,6 @@
    "domestic": false
   },
   {
-   "title": "IMF warns of fiscal strain",
-   "url": "https://tribune.com.pk/story/2641249/imf-warns-of-fiscal-strain",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Economists dub IMF 'anti-growth' as Binici dodges difficult questions",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "PSX rebounds 478 points after sharp fall",
    "url": "https://tribune.com.pk/story/2641259/psx-rebounds-478-points-after-sharp-fall",
    "source": "The Express Tribune",
@@ -546,19 +572,6 @@
    "domestic": false
   },
   {
-   "title": "National Grid to raise Rs100b via sukuk",
-   "url": "https://tribune.com.pk/story/2641251/national-grid-to-raise-rs100b-via-sukuk",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Repayment may take up to 10 years, subject to approvals",
-   "image": null,
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Economic resilience needs more than fiscal, external buffers: SBP governor",
    "url": "https://www.dawn.com/news/2045621/economic-resilience-needs-more-than-fiscal-external-buffers-sbp-governor",
    "source": "Dawn",
@@ -573,19 +586,6 @@
    "domestic": false
   },
   {
-   "title": "Why the industry is silent, and why the rupee is not expected to be devalued in the near future",
-   "url": "https://www.dawn.com/news/2045614/why-the-industry-is-silent-and-why-the-rupee-is-not-expected-to-be-devalued-in-the-near-future",
-   "source": "Dawn",
-   "published": "2026-11-19T03:56:51+00:00",
-   "summary": "https://www.dawn.com/news/2045585",
-   "image": "https://i.dawn.com/large/2025/10/68e721ad5d940.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
    "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
    "source": "Dawn",
@@ -596,32 +596,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX slides 1,223 points over political noise",
-   "url": "https://tribune.com.pk/story/2641068/psx-slides-1223-points-over-political-noise",
-   "source": "The Express Tribune",
-   "published": "2026-11-18T16:25:03+00:00",
-   "summary": "Heavyweight stocks drag KSE-100 down; ME tensions also weigh",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Saudi firm signs agreement to explore energy infrastructure in Pakistan, with proposed investment of $30bn",
-   "url": "https://www.dawn.com/news/2045379/saudi-firm-signs-agreement-to-explore-energy-infrastructure-in-pakistan-with-proposed-investment-of-30bn",
-   "source": "Dawn",
-   "published": "2026-11-18T04:59:45+00:00",
-   "summary": "https://www.dawn.com/news/2045288",
-   "image": "https://i.dawn.com/large/2021/04/607b987cde111.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -639,19 +613,6 @@
    "domestic": false
   },
   {
-   "title": "Despite shocks, economic resilience strengthens",
-   "url": "https://tribune.com.pk/story/2640887/despite-shocks-economic-resilience-strengthens",
-   "source": "The Express Tribune",
-   "published": "2026-11-17T16:42:29+00:00",
-   "summary": "SBP governor cites average inflation within medium-term range, FX reserves above target",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -662,6 +623,32 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Finance Minister calls for power sector reforms to promote competition, ensure affordable electricity",
+   "url": "https://arynews.tv/finance-minister-calls-for-power-sector-reforms-to-promote-competition-ensure-affordable-electricity",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Finance Minister calls for power sector reforms to promote competition, ensure affordable electricity",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/NEPRA-tariff-change-drives-sharp-rise-in-electricity-bills.jpg.jpeg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Govt decides to export 4,16,000 metric tonnes of sugar",
+   "url": "https://arynews.tv/govt-decides-export-416000-metric-tonnes-sugar",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Govt decides to export 4,16,000 metric tonnes of sugar",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/Pakistan-govt-cancels-sugar-import-tender.jpg.jpeg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -741,19 +728,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stock ends lower as KSE-100 index falls over 1,000",
-   "url": "https://arynews.tv/psx-stock-ends-lower-as-kse-100-index-falls-over-1000",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stock ends lower as KSE-100 index falls over 1,000",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stocks-1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T02:01:08+00:00",
+ "generated": "2026-11-21T09:18:10+00:00",
  "count": 986,
  "with_value": 940,
  "with_winner": 348,
@@ -18764,6 +18764,44 @@
  ],
  "evaluations": [
   {
+   "evaluation_no": "EVL00000005362",
+   "tender_no": "TS0000010735E",
+   "reference": "P70229",
+   "title": "Renewal / Revalidation of OEM Warranty / License Period of (Storage & Firewall) Services",
+   "organisation": "Pakistan Electronic Media Regulatory Authority (PEMRA) PEMRA Islamabad - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "Orbin Pakistan Electronic Media Regulatory Authority (PEMRA)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-21",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005362",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005361",
+   "tender_no": "TS0000016770E",
+   "reference": "P168870",
+   "title": "HIRING OF RESOURCE AUGMENTATION FIRM FOR EPADS Services Public Procurement Regulatory Authority (PPRA)",
+   "organisation": "Public Procurement Regulatory Authority (PPRA) Public Procurement Regulatory Authority Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Technical Evaluation",
+   "advertised": "2026-11-21",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005361",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000005360",
    "tender_no": "TS0000016094E",
    "reference": "03/2026-27",
@@ -19220,6 +19258,26 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005332",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005331",
+   "tender_no": "TS0000015198E",
+   "reference": "P125362",
+   "title": "PROVISION OF SECURITY SERVICES FOR PEMRA HEADQUARTERS AND REGIONAL OFFICES Services",
+   "organisation": "Pakistan Electronic Media Regulatory Authority (PEMRA) PEMRA Islamabad - Pakistan",
+   "bid_count": 5,
+   "lowest": [
+    "Fauji Security Services Pakistan Electronic Media Regulatory Authority (PEMRA)"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-20",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005331",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -21744,6 +21802,24 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005193",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005192",
+   "tender_no": "TS0000015196E",
+   "reference": "FFW9664",
+   "title": "SUPPLY OF STATIONERY / MISC ITEMS / PHOTOCOPIER TONERS / PRINTING ITEMS AND COMPUTER ACCESSORIES Stationery",
+   "organisation": "Pakistan Electronic Media Regulatory Authority (PEMRA) PEMRA Islamabad - Pakistan",
+   "bid_count": 7,
+   "lowest": [],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-17",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005192",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -57712,84 +57788,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003272",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003271",
-   "tender_no": "TS0000005477E",
-   "reference": "1/35/2026-27/BPB/Log",
-   "title": "Procurement of Bleach Paper Boxes Consumable Items",
-   "organisation": "Directorate General of Immigration & Passports Directorate General of Immigration &#38; Passports Islamabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Abbaseen Associates"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003271",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003270",
-   "tender_no": "TS0000011096E",
-   "reference": "P66014",
-   "title": "Procurement for Supply of Printed Material (Printed Stationery) Stationery",
-   "organisation": "National Bank of Pakistan (NBP) NBP Karachi - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Paradise Press (Pvt) Ltd; M/s Maryah Printers"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003270",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003268",
-   "tender_no": "TS0000011298E",
-   "reference": "TENDER NO 4412 (Insulated Dog Conductor)",
-   "title": "TENDER NO 4412 (Insulated Dog Conductor) Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 1,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003268",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003267",
-   "tender_no": "TS0000010788E",
-   "reference": "TENDER NO 4407 (ACSR Osprey Conductor)",
-   "title": "TENDER NO 4407 (ACSR Osprey Conductor) Miscellaneous",
-   "organisation": "Ministry of Energy (Power Division) Material Management Directorate, Lahore Electric Supply Company Ltd (LESCO) Lahore - Pakistan",
-   "bid_count": 3,
-   "lowest": [
-    "Newage Cables (Pvt) Ltd , Pakistan Cables Limited"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-07",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003267",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
