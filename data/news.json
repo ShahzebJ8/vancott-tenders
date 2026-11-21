@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-21T09:18:15+00:00",
- "count": 55,
- "relevant_count": 15,
- "domestic_count": 19,
+ "generated": "2026-11-21T16:58:21+00:00",
+ "count": 50,
+ "relevant_count": 14,
+ "domestic_count": 14,
  "sources": {
   "Dawn": "ok (15)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (10)"
+  "ARY News": "ok (11)"
  },
  "stories": [
   {
@@ -34,72 +34,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Only 3pc of PSX-listed cos explicitly commit to children’s rights: Report",
-   "url": "https://www.brecorder.com/news/40450092/only-3pc-of-psx-listed-cos-explicitly-commit-to-childrens-rights-report",
-   "source": "Business Recorder",
-   "published": "2026-11-21T02:00:20+00:00",
-   "summary": "KARACHI: Only 3 percent of 98 companies listed on the Pakistan Stock Exchange (PSX) explicitly disclose a commitment to respecting children’s rights, while 78 percent report community investments benefiting children, according to a new assessment of corporate sustainability reporting in Pakistan. The findings were rele…",
-   "image": "https://i.brecorder.com/large/2024/08/66b681dae189b.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Approximately 89pc of increase in imports came from non-petroleum categories: Zahid",
-   "url": "https://www.brecorder.com/news/40450084/approximately-89pc-of-increase-in-imports-came-from-non-petroleum-categories-zahid",
-   "source": "Business Recorder",
-   "published": "2026-11-21T01:34:28+00:00",
-   "summary": "KARACHI: President of the Pakistan Businessmen and Intellectuals Forum and All Karachi Industrial Alliance, Chairman of the National Business Group Pakistan and Chairman of the FPCCI Policy Advisory Board, Mian Zahid Hussain has emphasised that the reasons behind import growth must also be examined by product category.…",
-   "image": "https://i.brecorder.com/large/2026/02/270128388ef0647.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Aurangzeb emphasises affordable electricity",
-   "url": "https://www.brecorder.com/news/40450075/aurangzeb-emphasises-affordable-electricity",
-   "source": "Business Recorder",
-   "published": "2026-11-21T01:22:35+00:00",
-   "summary": "ISLAMABAD: The government is moving to finalise a revamped power market structure to promote competition, encourage private investment and clearly define the regulatory roles of National Electric Power Regulatory Authority (Nepra) and the Competition Commission of Pakistan (CCP), and ensure affordable electricity for c…",
-   "image": "https://i.brecorder.com/large/2025/01/11155022af73e29.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "ECC approves amendments to EFS: Credits to SMEs made easier",
-   "url": "https://www.brecorder.com/news/40450080/ecc-approves-amendments-to-efs-credits-to-smes-made-easier",
-   "source": "Business Recorder",
-   "published": "2026-11-21T01:18:57+00:00",
-   "summary": "ISLAMABAD: The Economic Coordination Committee (ECC) of the Cabinet on Friday approved amendments to the Export Finance Scheme to facilitate small and medium enterprises (SMEs) in accessing long-term financing. The committee also approved Technical Supplementary Grants (TSGs) worth billions of rupees for various minist…",
-   "image": "https://i.brecorder.com/large/2026/03/04033035bfaed74.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FCC releases detailed verdict on provincial infrastructure cess",
-   "url": "https://www.brecorder.com/news/40450078/fcc-releases-detailed-verdict-on-provincial-infrastructure-cess",
-   "source": "Business Recorder",
-   "published": "2026-11-21T01:11:17+00:00",
-   "summary": "ISLAMABAD: The Federal Constitutional Court (FCC) on Friday issued its detailed verdict on petitions challenging the infrastructure cess in Sindh and Khyber Pakhtunkhwa, ruling that a provincial levy does not become invalid merely because it affects imported goods; equally, a charge that is, in substance, a customs imp…",
-   "image": "https://i.brecorder.com/large/2026/02/12072540e4704f4.webp",
-   "topics": [
-    "Construction & projects",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -259,6 +193,19 @@
    "domestic": true
   },
   {
+   "title": "EU proposes tax on Big Tech to boost budget",
+   "url": "https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget",
+   "source": "Dawn",
+   "published": "2026-11-21T15:03:00+00:00",
+   "summary": "The European Union (EU) put forward plans on Saturday to tax the world’s biggest digital companies to fund its next budget, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes by €204 billion ($224b…",
+   "image": "https://i.dawn.com/large/2020/12/5fd98cb238b29.png",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
    "title": "Pakistan calls for sustainable fisheries growth to boost seafood exports",
    "url": "https://www.brecorder.com/news/40450109/pakistan-calls-for-sustainable-fisheries-growth-to-boost-seafood-exports",
    "source": "Business Recorder",
@@ -291,19 +238,6 @@
    "published": "2026-11-21T06:35:56+00:00",
    "summary": "US stocks extended their rout on Friday, and the S&P ​500 and the Dow both confirmed corrections after Anthropic’s momentous debut fell flat , exacerbating worries about the AI trade that has driven this year’s stock market rally. All three major US equity ‌indexes ended sharply lower. The Dow and the S&P 500 are now m…",
    "image": "https://i.dawn.com/large/2026/11/21113342a3b81ed.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Musadik calls SCO dialogue a chance to bridge cultural differences",
-   "url": "https://www.brecorder.com/news/40450077/musadik-calls-sco-dialogue-a-chance-to-bridge-cultural-differences",
-   "source": "Business Recorder",
-   "published": "2026-11-21T00:57:49+00:00",
-   "summary": "NEW DELHI: Federal Minister Musadik Masood Malik has welcomed the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum in New Delhi, describing it as an important opportunity for countries across the region to engage in meaningful dialogue about their cultures, histories and civilisations. Speaking to …",
-   "image": "https://i.brecorder.com/large/2025/05/05184343ffa5f7f.jpg",
    "topics": [
     "Economy"
    ],
@@ -599,20 +533,6 @@
    "domestic": false
   },
   {
-   "title": "New online system for exporters’ pending tax refund claims to become operational by December",
-   "url": "https://www.dawn.com/news/2045377/new-online-system-for-exporters-pending-tax-refund-claims-to-become-operational-by-december",
-   "source": "Dawn",
-   "published": "2026-11-18T04:41:43+00:00",
-   "summary": "https://www.dawn.com/news/2045289",
-   "image": "https://i.dawn.com/large/2020/07/5f068d45a27f2.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -623,6 +543,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan aims to boost seafood exports",
+   "url": "https://arynews.tv/pakistan-aims-to-boost-seafood-exports",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan aims to boost seafood exports",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Fish-export.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
