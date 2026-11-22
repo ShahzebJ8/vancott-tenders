@@ -1,22 +1,48 @@
 {
- "generated": "2026-11-22T02:05:14+00:00",
- "count": 55,
- "relevant_count": 16,
- "domestic_count": 18,
+ "generated": "2026-11-22T10:07:09+00:00",
+ "count": 51,
+ "relevant_count": 14,
+ "domestic_count": 15,
  "sources": {
   "Dawn": "ok (15)",
-  "Business Recorder": "ok (15)",
+  "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (11)"
  },
  "stories": [
   {
-   "title": "Import of more wheat recommended",
-   "url": "https://www.brecorder.com/news/40450174/import-of-more-wheat-recommended",
-   "source": "Business Recorder",
-   "published": "2026-11-21T21:25:09+00:00",
-   "summary": "ISLAMABAD: Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar chaired two high-level meetings on Saturday to review the proposed export of surplus sugar and the availability and price stability of essential food commodities, including wheat. The committee recommended importing up to 800,000 …",
-   "image": "https://i.brecorder.com/large/2025/10/68e573a6e9e66.jpg",
+   "title": "Textile exports rise 6.35pc in July-October",
+   "url": "https://www.dawn.com/news/2046182/textile-exports-rise-635pc-in-july-october",
+   "source": "Dawn",
+   "published": "2026-11-22T02:16:06+00:00",
+   "summary": "ISLAMABAD: Pakistan’s textile and clothing exports grew by 6.35 per cent to $6.797 billion in July-October 2026–27, from $6.391bn in the corresponding period last year. The modest rise in export proceeds was attributed to elevated input costs, which eroded exporters’ competitiveness, and external shocks that disrupted …",
+   "image": "https://i.dawn.com/large/2021/12/61ac3f593f99f.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Minister seeks fisheries sector upgrade",
+   "url": "https://www.dawn.com/news/2046184/minister-seeks-fisheries-sector-upgrade",
+   "source": "Dawn",
+   "published": "2026-11-22T00:11:41+00:00",
+   "summary": "ISLAMABAD: Maritime Affairs Min­is­ter Muhammad Junaid Anwar Chaudhry has called for upgrading the fisheries sector to make it a higher-value export industry. In his message on World Fisheries Day on Saturday, the minister said Pakistan’s fisheries sector had considerable untapped potential. The minister noted that Pak…",
+   "image": "https://i.dawn.com/large/2026/11/2203193227f59eb.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Stocks end lower as political uncertainty halts recovery",
+   "url": "https://www.dawn.com/news/2046180/stocks-end-lower-as-political-uncertainty-halts-recovery",
+   "source": "Dawn",
+   "published": "2026-11-22T00:11:41+00:00",
+   "summary": "KARACHI: After sustaining a recovery during the first two weeks of the month, the Pakistan Stock Exchange (PSX) turned subdued in the outgoing week as investors booked profits at higher levels amid uncertainty over the proposed referendum on creating new provinces. According to Arif Habib Ltd (AHL), the benchmark KSE-1…",
+   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
    "topics": [
     "Economy"
    ],
@@ -34,32 +60,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SMEs: easy access to finance urged",
-   "url": "https://www.brecorder.com/news/40450168/smes-easy-access-to-finance-urged",
-   "source": "Business Recorder",
-   "published": "2026-11-21T21:23:59+00:00",
-   "summary": "KARACHI: Consequently, in order to make credits to SMEs easier for long-term financing facilities, there has to be “easy access to finance, lower interest rate and no collateral as such”, said Ateeq Ur Rehman, an economic and financial analyst. The concern by the government for SMEs financing is brilliant and quite eff…",
-   "image": "https://i.brecorder.com/large/2026/02/21010153e6ba1d5.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Sindh organises walk to mark World Children’s Day",
-   "url": "https://www.brecorder.com/news/40450173/sindh-organises-walk-to-mark-world-childrens-day",
-   "source": "Business Recorder",
-   "published": "2026-11-21T21:23:59+00:00",
-   "summary": "KARACHI: The Sindh government organised an awareness walk on World Children’s Day to highlight the importance of children’s rights, protection, education and a brighter future. Sindh Minister for Labour, Human Resources and Social Protection Saeed Ghani joined the walk, which began at McDonald’s Clifton and concluded a…",
-   "image": "https://i.brecorder.com/large/2023/11/655fb51438ef8.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -154,38 +154,12 @@
    "domestic": true
   },
   {
-   "title": "EY to advise on airport outsourcing",
-   "url": "https://tribune.com.pk/story/2641254/ey-to-advise-on-airport-outsourcing",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Karachi and Lahore airports are expected to attract $500 million each",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "EY-led consortium signs financial advisory pact for outsourcing of Karachi, Lahore airports",
    "url": "https://www.dawn.com/news/2045686/ey-led-consortium-signs-financial-advisory-pact-for-outsourcing-of-karachi-lahore-airports",
    "source": "Dawn",
    "published": "2026-11-19T13:15:44+00:00",
    "summary": "The Privatisation Commission and a consortium led by Ernst & Young (EY) Middle East on Thursday signed a financial advisory services agreement (Fasa) for the outsourcing of Karachi and Lahore airports. In August, the commission had approved the appointment of a financial adviser for the outsourcing of both airports, me…",
    "image": "https://i.dawn.com/large/2026/11/191734391afe577.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Two M-6 sections to be built under public-private partnership model",
-   "url": "https://www.dawn.com/news/2045508/two-m-6-sections-to-be-built-under-public-private-partnership-model",
-   "source": "Dawn",
-   "published": "2026-11-19T04:14:43+00:00",
-   "summary": "ISLAMABAD: The construction of two sections of the Hyderabad-Sukkur Motorway (M-6) will be carried out under the public-private partnership (PPP) model, as approved by the Public Private Partnership Authority (P3A) board on Wednesday. Contracts for the development of sections I and II of the 121 km-long M-6 motorway wi…",
-   "image": "https://i.dawn.com/large/2025/05/1609461582c308d.jpg",
    "topics": [
     "Construction & projects"
    ],
@@ -203,19 +177,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "15,000-tonne LPG cargo arrives from Abu Dhabi under new policy to ease shortages",
-   "url": "https://www.dawn.com/news/2045423/15000-tonne-lpg-cargo-arrives-from-abu-dhabi-under-new-policy-to-ease-shortages",
-   "source": "Dawn",
-   "published": "2026-11-18T13:33:03+00:00",
-   "summary": "ISLAMABAD: The government on Wednesday said it received the first cargo of 15,000 tonnes of liquefied petroleum gas (LPG) from Abu Dhabi after it introduced policy changes earlier this month to arrange imports through state-owned enterprises (SOEs) to ease supply constraints and contain rising prices in winter. In a st…",
-   "image": "https://i.dawn.com/large/2026/11/181837428855383.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -245,12 +206,12 @@
    "domestic": true
   },
   {
-   "title": "Canadian home sales edge higher",
-   "url": "https://www.brecorder.com/news/40450149/canadian-home-sales-edge-higher",
+   "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+   "url": "https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper",
    "source": "Business Recorder",
-   "published": "2026-11-21T21:23:59+00:00",
-   "summary": "TORONTO: Canadian home sales and prices edged higher in October but the moves were limited as the Bank of Canada began an interest rate hiking campaign, data from the Canadian Real Estate Association showed on Tuesday. National home sales rose 0.3 percent month-over-month in October. Sales were down 10.6 percent on an …",
-   "image": "https://i.brecorder.com/large/2022/04/201816384ff939a.jpg",
+   "published": "2026-11-22T08:50:36+00:00",
+   "summary": "ZURICH: The Swiss National Bank is paying close attention to potential second-round effects from accelerating inflation ahead of its next monetary policy ​decision, SNB Vice Chairman Antoine Martin said in comments published ‌on Sunday. In an interview with Swiss newspaper Le Matin Dimanche, Martin said inflation had c…",
+   "image": "https://i.brecorder.com/large/2026/03/02120136e86a3d8.webp",
    "topics": [
     "Economy"
    ],
@@ -258,12 +219,12 @@
    "domestic": false
   },
   {
-   "title": "Sri Lanka central bank surprises with key rate hike on inflation fears",
-   "url": "https://www.brecorder.com/news/40450150/sri-lanka-central-bank-surprises-with-key-rate-hike-on-inflation-fears",
+   "title": "SBP policy rate may rise to 13% by June 2027: Standard Chartered",
+   "url": "https://www.brecorder.com/news/40450211/sbp-policy-rate-may-rise-to-13-by-june-2027-standard-chartered",
    "source": "Business Recorder",
-   "published": "2026-11-21T21:23:59+00:00",
-   "summary": "COLOMBO: Sri Lanka’s central bank raised its key policy rate by 25 basis points in a surprise move on Friday, citing higher-than-expected inflation pressures caused by volatile global energy prices. Markets had expected the Central Bank of Sri Lanka (CBSL) to stay put for a third consecutive meeting after a surprise hi…",
-   "image": "https://i.brecorder.com/large/2024/05/28110126f45e99e.jpg",
+   "published": "2026-11-22T07:39:39+00:00",
+   "summary": "Pakistan could face sustained double-digit inflation as international oil prices were projected to hover between $90 and $100 per barrel through December 2027, potentially forcing the central bank to raise its policy rate to 13% by June 2027, Standard Chartered said. According to officials at the global financial insti…",
+   "image": "https://i.brecorder.com/large/2026/01/280617451f35048.gif",
    "topics": [
     "Economy"
    ],
@@ -271,16 +232,81 @@
    "domestic": false
   },
   {
-   "title": "EU proposes tax on Big Tech, EUR200bn cuts in new budget draft",
-   "url": "https://www.brecorder.com/news/40450181/eu-proposes-tax-on-big-tech-eur200bn-cuts-in-new-budget-draft",
+   "title": "The challenge of turning SME financing targets into reality",
+   "url": "https://www.brecorder.com/news/40450010/the-challenge-of-turning-sme-financing-targets-into-reality",
    "source": "Business Recorder",
-   "published": "2026-11-21T21:23:59+00:00",
-   "summary": "BRUSSELS, (Belgium): The EU put forward plans Saturday to tax the world’s biggest digital companies to fund its next budget, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros …",
-   "image": "https://i.brecorder.com/large/2025/12/18021321ce477a5.webp",
+   "published": "2026-11-22T06:35:23+00:00",
+   "summary": "Pakistan’s renewed emphasis on financing small and medium enterprises (SMEs) has acquired substantial policy support. The government has now reserved Rs300 billion under the Pak EXIM-administered Export Finance Scheme exclusively for eligible SME exporters, following measures to expand concessional lending, relax eligi…",
+   "image": "https://i.brecorder.com/large/2026/07/08192907fbb2a19.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport",
+   "url": "https://www.brecorder.com/news/40450206/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport",
+   "source": "Business Recorder",
+   "published": "2026-11-22T05:52:17+00:00",
+   "summary": "The governor of Washington state denounced federal immigration authorities on Saturday for arresting two people on a ​jetway at a Seattle-area airport. The incident involving Immigration and Customs Enforcement officers occurred ‌around 8 a.m. PST (1600 GMT) at the Seattle-Tacoma International Airport as people boarded…",
+   "image": "https://i.brecorder.com/large/2026/11/221049127ff46db.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Export financing risks failure",
+   "url": "https://tribune.com.pk/story/2641576/export-financing-risks-failure",
+   "source": "The Express Tribune",
+   "published": "2026-11-21T16:04:40+00:00",
+   "summary": "PIDE warns Rs350b facility lacks accountability safeguards",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Easing oil prices fail to lift PSX",
+   "url": "https://tribune.com.pk/story/2641579/easing-oil-prices-fail-to-lift-psx",
+   "source": "The Express Tribune",
+   "published": "2026-11-21T16:04:40+00:00",
+   "summary": "KSE-100 ends lower amid profit-taking, political uncertainty",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "EU proposes 40b Euros cut to long-term budget",
+   "url": "https://tribune.com.pk/story/2641580/eu-proposes-40b-euros-cut-to-long-term-budget",
+   "source": "The Express Tribune",
+   "published": "2026-11-21T16:04:40+00:00",
+   "summary": "Costa suggests 3% digital tax on major tech firms to raise revenue",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Value addition urged in fisheries sector",
+   "url": "https://tribune.com.pk/story/2641574/value-addition-urged-in-fisheries-sector",
+   "source": "The Express Tribune",
+   "published": "2026-11-21T16:04:40+00:00",
+   "summary": "Minister calls for empowering youth, women in seafood value chain as exports reach $568m",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -307,20 +333,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "ECC allows 416,000T sugar export",
-   "url": "https://tribune.com.pk/story/2641490/ecc-allows-416000t-sugar-export",
-   "source": "The Express Tribune",
-   "published": "2026-11-20T17:54:18+00:00",
-   "summary": "Summary not circulated among ministries; IMF deregulation condition unmet",
-   "image": null,
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -369,19 +381,6 @@
    "published": "2026-11-20T14:58:28+00:00",
    "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Friday, with the benchmark KSE-100 Index swinging both ways before closing the week’s last session in positive territory. The market opened under heavy selling pressure and quickly fell to its intra-day low of 176,212.76. However, buyers graduall…",
    "image": "https://i.brecorder.com/large/2026/11/20095025f211cea.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil prices set for third straight weekly decline on Middle East export flows",
-   "url": "https://www.brecorder.com/news/40449950/oil-prices-set-for-third-straight-weekly-decline-on-middle-east-export-flows",
-   "source": "Business Recorder",
-   "published": "2026-11-20T13:22:47+00:00",
-   "summary": "LONDON: Oil prices fell on Friday and were set for a weekly decline on strong exports from the Middle East despite Houthi attacks on Saudi Arabia’s capital Riyadh and reports of tanker disruptions in the Strait of Hormuz. Brent crude futures were down 84 cents, or 0.9%, at $91.14 a barrel at 1310 GMT. US West Texas Int…",
-   "image": "https://i.brecorder.com/large/2026/09/23074917357c51e.webp",
    "topics": [
     "Economy"
    ],
@@ -519,50 +518,11 @@
    "domestic": false
   },
   {
-   "title": "Dollar near 19-month peak as AI jitters sap risk appetite",
-   "url": "https://www.brecorder.com/news/40449951/dollar-near-19-month-peak-as-ai-jitters-sap-risk-appetite",
-   "source": "Business Recorder",
-   "published": "2026-11-20T02:53:57+00:00",
-   "summary": "SHANGHAI/SINGAPORE: The dollar held near a 19-month high on Friday , having risen over the past eight sessions as jitters over the AI trade sent investors fleeing ​to safe-haven assets, while the yen steadied after Japanese inflation data. The dollar index was ‌perched near the 103.9 level, its strongest since early Ap…",
-   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX rebounds 478 points after sharp fall",
    "url": "https://tribune.com.pk/story/2641259/psx-rebounds-478-points-after-sharp-fall",
    "source": "The Express Tribune",
    "published": "2026-11-19T16:02:50+00:00",
    "summary": "Fertiliser stocks lead recovery as KSE-100 settles at 176,772",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP reserves rise $15m to $21.587b",
-   "url": "https://tribune.com.pk/story/2641252/sbp-reserves-rise-15m-to-21587b",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Gold falls Rs3,700 per tola in second straight decline",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "German importers look to Pakistan amid China shift",
-   "url": "https://tribune.com.pk/story/2641257/german-importers-look-to-pakistan-amid-china-shift",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Arretz says Germany wanted to consolidate economic and trade relations with medium-sized countries like Pakistan",
    "image": null,
    "topics": [
     "Economy"
@@ -582,19 +542,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
-   "url": "https://www.dawn.com/news/2045456/pakistans-mango-exports-fall-36pc-amid-us-iran-war-exporters-association",
-   "source": "Dawn",
-   "published": "2026-11-18T19:54:28+00:00",
-   "summary": "Pakistan’s mango exports fell 36 per cent this year as the US-Iran war disrupted shipping routes and drove up freight costs, industry figures showed on Wednesday. According to All Pakistan Fruit and Vegetables Exporters Association, the country exported 78,000 tonnes of mangoes this year, compared with 123,000 tons las…",
-   "image": "https://i.dawn.com/large/2021/05/60adac988055a.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": false
   },
   {
