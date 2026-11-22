@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-22T18:02:05+00:00",
- "count": 47,
+ "generated": "2026-11-22T23:23:31+00:00",
+ "count": 46,
  "relevant_count": 10,
  "domestic_count": 13,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (9)"
+  "ARY News": "ok (8)"
  },
  "stories": [
   {
@@ -603,19 +603,6 @@
    "published": null,
    "summary": "Dollar near 19-month high, set for 4th weekly gain",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/dollar-us.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stock closes higher as KSE-100 index gains over 400 points",
-   "url": "https://arynews.tv/psx-stock-closes-higher-as-kse-100-index-gains-over-400-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stock closes higher as KSE-100 index gains over 400 points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Stock-market.jpg",
    "topics": [
     "Economy"
    ],
