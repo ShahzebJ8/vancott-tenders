@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-22T10:07:09+00:00",
- "count": 51,
- "relevant_count": 14,
- "domestic_count": 15,
+ "generated": "2026-11-22T18:02:05+00:00",
+ "count": 47,
+ "relevant_count": 10,
+ "domestic_count": 13,
  "sources": {
-  "Dawn": "ok (15)",
+  "Dawn": "ok (14)",
   "Business Recorder": "ok (14)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (11)"
+  "ARY News": "ok (9)"
  },
  "stories": [
   {
@@ -47,19 +47,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "LG minister orders stepped up work on Phase II of PDP",
-   "url": "https://www.brecorder.com/news/40450140/lg-minister-orders-stepped-up-work-on-phase-ii-of-pdp",
-   "source": "Business Recorder",
-   "published": "2026-11-21T21:23:59+00:00",
-   "summary": "LAHORE: Punjab Local Government Minister Zeeshan Rafiq has said that work on Phase II of the Punjab Development Programme (PDP) should be accelerated following the completion of Phase I. He expressed these views during a meeting held here on Saturday to review the PDP. Punjab Local Government Secretary Zaid bin Maqsood…",
-   "image": "https://i.brecorder.com/large/2026/01/16035331dd72b63.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -162,19 +149,6 @@
    "image": "https://i.dawn.com/large/2026/11/191734391afe577.webp",
    "topics": [
     "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR unveils proposed rules for faceless tax appeals",
-   "url": "https://www.dawn.com/news/2045500/fbr-unveils-proposed-rules-for-faceless-tax-appeals",
-   "source": "Dawn",
-   "published": "2026-11-19T01:55:08+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) unveiled draft rules on Wednesday for its faceless income tax appeals system, eliminating the need for physical interaction between taxpayers and appellate authorities. The new system will also conceal the identity of officers responsible for deciding tax disputes. The rule…",
-   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
-   "topics": [
-    "Budget & spending"
    ],
    "relevant": true,
    "domestic": true
@@ -646,33 +620,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "FBR introduces new faceless appeals system",
-   "url": "https://arynews.tv/fbr-introduces-new-faceless-appeals-system",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR introduces new faceless appeals system",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FBR.jpg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "IMF urges Pakistan to boost investment, exports, accelerate structural reforms",
-   "url": "https://arynews.tv/imf-urges-pakistan-to-boost-investment-exports-accelerate-structural-reforms",
-   "source": "ARY News",
-   "published": null,
-   "summary": "IMF urges Pakistan to boost investment, exports, accelerate structural reforms",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/IMF-1.jpg",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   }
  ]
