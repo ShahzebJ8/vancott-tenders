@@ -1,15 +1,80 @@
 {
- "generated": "2026-11-22T23:23:31+00:00",
- "count": 46,
+ "generated": "2026-11-23T03:57:12+00:00",
+ "count": 48,
  "relevant_count": 10,
- "domestic_count": 13,
+ "domestic_count": 18,
  "sources": {
-  "Dawn": "ok (14)",
-  "Business Recorder": "ok (14)",
+  "Dawn": "ok (16)",
+  "Business Recorder": "ok (13)",
   "The Express Tribune": "ok (7)",
   "ARY News": "ok (8)"
  },
  "stories": [
+  {
+   "title": "Govt moves to overhaul ‘weak’ audit system",
+   "url": "https://www.dawn.com/news/2046399/govt-moves-to-overhaul-weak-audit-system",
+   "source": "Dawn",
+   "published": "2026-11-23T02:32:55+00:00",
+   "summary": "• FBR task force flags weaknesses in existing review framework • Cabinet approves SECP Amendment Bill 2026 after consultation • Proposed legislation aims to strengthen independent audit oversight ISLAMABAD: The government has decided to overhaul the country’s ent­ire audit system after the Prime Min­ister’s Federal Boa…",
+   "image": "https://i.dawn.com/large/2018/12/5c19a8d2bd193.jpg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KP offers vast opportunities for solar energy investment: Kundi",
+   "url": "https://www.brecorder.com/news/40450303/kp-offers-vast-opportunities-for-solar-energy-investment-kundi",
+   "source": "Business Recorder",
+   "published": "2026-11-22T23:48:35+00:00",
+   "summary": "PESHAWAR: Governor Khyber Pakhtunkhwa Faisal Karim Kundi on Sunday invited local and foreign companies to invest in the province’s renewable energy sector, saying Khyber Pakhtunkhwa offered vast opportunities for investment in solar energy and public-private partnership (PPP) projects. The Governor was addressing the m…",
+   "image": "https://i.brecorder.com/large/2026/11/082024504d4a761.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FoodAg 2026 to kick off today, aiming to boost agri-food exports",
+   "url": "https://www.brecorder.com/news/40450236/foodag-2026-to-kick-off-today-aiming-to-boost-agri-food-exports",
+   "source": "Business Recorder",
+   "published": "2026-11-22T23:48:34+00:00",
+   "summary": "KARACHI: The fourth International Food and Agro Exhibition (FoodAg 2026), organised by the Trade Development Authority of Pakistan (TDAP), will commence today at the Karachi Expo Centre, aiming to promote agricultural and food exports and strengthen Pakistan’s presence in international markets. The four-day exhibition,…",
+   "image": "https://i.brecorder.com/large/2024/11/673a43341493c.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Mayor inaugurates Rs1.67bn uplift projects in Karachi’s District West",
+   "url": "https://www.brecorder.com/news/40450238/mayor-inaugurates-rs167bn-uplift-projects-in-karachis-district-west",
+   "source": "Business Recorder",
+   "published": "2026-11-22T23:48:34+00:00",
+   "summary": "KARACHI: Karachi Mayor Barrister Murtaza Wahab on Sunday inaugurated two development projects worth a combined Rs1.669 billion in District West, covering sewerage rehabilitation, water supply improvements and road reconstruction in Orangi Town and adjoining areas. The projects include sewerage system rehabilitation and…",
+   "image": "https://i.brecorder.com/large/2022/09/6332299c48a57.jpg",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Offshore exploration can help unlock economic potential: BMP",
+   "url": "https://www.brecorder.com/news/40450241/offshore-exploration-can-help-unlock-economic-potential-bmp",
+   "source": "Business Recorder",
+   "published": "2026-11-22T23:48:34+00:00",
+   "summary": "LAHORE: The Federation of Pakistan Chambers of Commerce & Industry’s Businessmen Panel (BMP) has stressed the need to accelerate exploration and development of Pakistan’s indigenous energy resources, saying the country’s vast untapped offshore potential could help reduce reliance on imported fuels, improve energy secur…",
+   "image": "https://i.brecorder.com/large/2026/06/01045110f03b2b0.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Textile exports rise 6.35pc in July-October",
    "url": "https://www.dawn.com/news/2046182/textile-exports-rise-635pc-in-july-october",
@@ -180,6 +245,84 @@
    "domestic": true
   },
   {
+   "title": "Pakistan's only coal conveyor system at Port Qasim non-functional since Nov 18, disrupting coal imports",
+   "url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-nov-18-disrupting-coal-imports",
+   "source": "Dawn",
+   "published": "2026-11-23T03:37:59+00:00",
+   "summary": "https://www.dawn.com/news/2046386/conveyor-belt-failure-at-bulk-terminal-disrupts-coal-imports",
+   "image": "https://i.dawn.com/large/2026/11/230410562eb3a3a.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India's Tata Steel to buy 26.4% of APL Apollo for $1.67 billion",
+   "url": "https://www.brecorder.com/news/40450314/indias-tata-steel-to-buy-264-of-apl-apollo-for-167-billion",
+   "source": "Business Recorder",
+   "published": "2026-11-23T03:15:18+00:00",
+   "summary": "India’s Tata Steel said on Monday it will acquire a ​26.38% stake in APL Apollo Tubes for ‌about 155.11 billion rupees ($1.67 billion) and launch an open offer to acquire a further 26% holding. The deal gives ​Tata Steel control of India’s largest structural ​steel tubes maker and boosts its exposure ⁠to higher-margin …",
+   "image": "https://i.brecorder.com/large/2026/11/23081318c52bb72.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "AI rout deepens, keeping Indian rupee rally alive on foreign equity buying",
+   "url": "https://www.brecorder.com/news/40450313/ai-rout-deepens-keeping-indian-rupee-rally-alive-on-foreign-equity-buying",
+   "source": "Business Recorder",
+   "published": "2026-11-23T03:12:29+00:00",
+   "summary": "MUMBAI: The Indian rupee is poised to extend its advance on Monday as a deepening technology rout has strengthened expectations ​of sustained foreign buying in local equities. The currency is expected to ‌open in the 92.60-92.64 range, per traders, having settled at 92.67 to the dollar on Friday. The rupee advanced in …",
+   "image": "https://i.brecorder.com/large/2026/11/23081144b7f2a6c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US futures bounce as AI rout rattles Asian stocks",
+   "url": "https://www.brecorder.com/news/40450310/us-futures-bounce-as-ai-rout-rattles-asian-stocks",
+   "source": "Business Recorder",
+   "published": "2026-11-23T03:00:20+00:00",
+   "summary": "SINGAPORE: US stock futures rose on Monday while authorities scrambled to shore up sliding stock markets in Asia , after a wipeout last week for the tech ​and chip stocks at the centre of the AI boom. Investors are questioning whether vast ‌sums of mostly borrowed money spent building data centres to power AI tools wil…",
+   "image": "https://i.brecorder.com/large/2026/11/230759005a0ca7c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Dollar edges off 19-month high after market rout; yen softens",
+   "url": "https://www.brecorder.com/news/40450308/dollar-edges-off-19-month-high-after-market-rout-yen-softens",
+   "source": "Business Recorder",
+   "published": "2026-11-23T02:49:01+00:00",
+   "summary": "SINGAPORE: The dollar eased off its highest level in more than a year and a half at the start ​of Asian trade on Monday, as investor confidence recovered after ‌a selloff last week and traders pared bets that the Federal Reserve could hike interest rates aggressively at its meeting next month. The euro was up 0.1% at $…",
+   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27",
+   "url": "https://www.dawn.com/news/2046486/pakistans-rice-exports-rise-to-135m-tonnes-in-first-four-months-of-fy27",
+   "source": "Dawn",
+   "published": "2026-11-23T02:39:11+00:00",
+   "summary": "https://www.dawn.com/news/2046421",
+   "image": "https://i.dawn.com/large/2026/01/2908592415a2087.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
    "url": "https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper",
    "source": "Business Recorder",
@@ -190,45 +333,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP policy rate may rise to 13% by June 2027: Standard Chartered",
-   "url": "https://www.brecorder.com/news/40450211/sbp-policy-rate-may-rise-to-13-by-june-2027-standard-chartered",
-   "source": "Business Recorder",
-   "published": "2026-11-22T07:39:39+00:00",
-   "summary": "Pakistan could face sustained double-digit inflation as international oil prices were projected to hover between $90 and $100 per barrel through December 2027, potentially forcing the central bank to raise its policy rate to 13% by June 2027, Standard Chartered said. According to officials at the global financial insti…",
-   "image": "https://i.brecorder.com/large/2026/01/280617451f35048.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "The challenge of turning SME financing targets into reality",
-   "url": "https://www.brecorder.com/news/40450010/the-challenge-of-turning-sme-financing-targets-into-reality",
-   "source": "Business Recorder",
-   "published": "2026-11-22T06:35:23+00:00",
-   "summary": "Pakistan’s renewed emphasis on financing small and medium enterprises (SMEs) has acquired substantial policy support. The government has now reserved Rs300 billion under the Pak EXIM-administered Export Finance Scheme exclusively for eligible SME exporters, following measures to expand concessional lending, relax eligi…",
-   "image": "https://i.brecorder.com/large/2026/07/08192907fbb2a19.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport",
-   "url": "https://www.brecorder.com/news/40450206/washington-governor-union-denounce-ice-arrests-of-travelers-at-seattle-airport",
-   "source": "Business Recorder",
-   "published": "2026-11-22T05:52:17+00:00",
-   "summary": "The governor of Washington state denounced federal immigration authorities on Saturday for arresting two people on a ​jetway at a Seattle-area airport. The incident involving Immigration and Customs Enforcement officers occurred ‌around 8 a.m. PST (1600 GMT) at the Seattle-Tacoma International Airport as people boarded…",
-   "image": "https://i.brecorder.com/large/2026/11/221049127ff46db.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -349,19 +453,6 @@
    "domestic": false
   },
   {
-   "title": "PSX: equities end week on positive note, KSE-100 gains over 600 points",
-   "url": "https://www.brecorder.com/news/40449957/psx-equities-end-week-on-positive-note-kse-100-gains-over-600-points",
-   "source": "Business Recorder",
-   "published": "2026-11-20T14:58:28+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) witnessed a volatile trading session on Friday, with the benchmark KSE-100 Index swinging both ways before closing the week’s last session in positive territory. The market opened under heavy selling pressure and quickly fell to its intra-day low of 176,212.76. However, buyers graduall…",
-   "image": "https://i.brecorder.com/large/2026/11/20095025f211cea.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Abu Dhabi index dips as oil slides on ample supply",
    "url": "https://www.brecorder.com/news/40449996/abu-dhabi-index-dips-as-oil-slides-on-ample-supply",
    "source": "Business Recorder",
@@ -427,64 +518,12 @@
    "domestic": false
   },
   {
-   "title": "Gold set for worst week in eight months as firm dollar, Fed hike bets weigh",
-   "url": "https://www.brecorder.com/news/40449963/gold-set-for-worst-week-in-eight-months-as-firm-dollar-fed-hike-bets-weigh",
-   "source": "Business Recorder",
-   "published": "2026-11-20T06:08:12+00:00",
-   "summary": "Gold prices slipped on Friday and were headed for their worst week in eight months, as a resilient US dollar and expectations of a Federal Reserve interest-rate hike in December weighed on bullion. Spot gold fell 2.7% to $3,525.25 per ounce by 0504 GMT, after hitting its lowest level since September 2025 earlier in the…",
-   "image": "https://i.brecorder.com/large/2026/11/18081659191fb79.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indonesia planning tighter soybean import controls, minister says",
-   "url": "https://www.brecorder.com/news/40449961/indonesia-planning-tighter-soybean-import-controls-minister-says",
-   "source": "Business Recorder",
-   "published": "2026-11-20T05:55:10+00:00",
-   "summary": "JAKARTA: Indonesia plans to tighten controls on soybean imports by introducing new import permit and inspection requirements, classifying the commodity as essential goods and a strategic staple, a senior official told Reuters on Friday. About 85% of Indonesia’s soybean imports in 2025 were from the United States, with …",
-   "image": "https://i.brecorder.com/large/2026/08/1900533308f841a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel’s intervention saves Rs120bn in unnecessary govt spending under remittance initiative: panel chairman",
    "url": "https://www.dawn.com/news/2045865/senate-panels-intervention-saves-rs120bn-in-unnecessary-govt-spending-under-remittance-initiative-panel-chairman",
    "source": "Dawn",
    "published": "2026-11-20T04:22:53+00:00",
    "summary": "https://www.dawn.com/news/2045786/senate-panels-intervention-saves-rs120bn",
    "image": "https://i.dawn.com/large/2022/06/62adeeb0cb102.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Global risk jitters bolster rupee as investors turn to Indian assets",
-   "url": "https://www.brecorder.com/news/40449954/global-risk-jitters-bolster-rupee-as-investors-turn-to-indian-assets",
-   "source": "Business Recorder",
-   "published": "2026-11-20T03:03:37+00:00",
-   "summary": "MUMBAI: The Indian rupee on Friday is expected to largely shrug off mounting global risk aversion as a surge in foreign inflows ​into Indian assets offsets the traditional pressure that a deterioration in ‌sentiment exerts on emerging-market currencies. The Indian rupee is expected to open in the 93.28-93.34 range, per…",
-   "image": "https://i.brecorder.com/large/2026/11/2008021483f5624.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Asian shares head for worst week since 2020 as AI trade gloom fails to abate",
-   "url": "https://www.brecorder.com/news/40449953/asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate",
-   "source": "Business Recorder",
-   "published": "2026-11-20T03:00:18+00:00",
-   "summary": "HONG KONG: Asian shares slid on Friday to be on ​track for their worst week since 2020, as Anthropic’s debut failed to restore investor faith in ‌AI trades, while the dollar extended a rally on safe-haven flows. MSCI’s broadest index of Asia-Pacific shares lost 2.5%, poised for a six-day losing streak. The gauge has no…",
-   "image": "https://i.brecorder.com/large/2026/11/18075213b063701.webp",
    "topics": [
     "Economy"
    ],
@@ -502,20 +541,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Economic resilience needs more than fiscal, external buffers: SBP governor",
-   "url": "https://www.dawn.com/news/2045621/economic-resilience-needs-more-than-fiscal-external-buffers-sbp-governor",
-   "source": "Dawn",
-   "published": "2026-11-19T04:24:42+00:00",
-   "summary": "https://www.dawn.com/news/2045509",
-   "image": "https://i.dawn.com/large/2026/11/19092236bd235eb.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
