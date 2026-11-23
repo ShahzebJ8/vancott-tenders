@@ -1,15 +1,69 @@
 {
- "generated": "2026-11-23T03:57:12+00:00",
- "count": 48,
+ "generated": "2026-11-23T14:02:25+00:00",
+ "count": 53,
  "relevant_count": 10,
- "domestic_count": 18,
+ "domestic_count": 14,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (13)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (8)"
+  "Dawn": "ok (17)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (8)",
+  "ARY News": "ok (9)"
  },
  "stories": [
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40450359/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-23T14:01:49+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Monday. The local unit closed the day at 276.50, a gain of Re0.01 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar, appreciating 0.03% in the inter-bank …",
+   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Punjab’s anti-smog plan shows encouraging results as AQI drops within hours of on-ground action",
+   "url": "https://www.brecorder.com/news/40450342/punjabs-anti-smog-plan-shows-encouraging-results-as-aqi-drops-within-hours-of-on-ground-action",
+   "source": "Business Recorder",
+   "published": "2026-11-23T08:26:23+00:00",
+   "summary": "Air quality in Lahore continues to fluctuate, with AQI levels often rising during the early morning and evening hours before falling within a few hours. While winter weather and atmospheric conditions contribute to these daily changes, the government’s increasingly active response on the ground is adding an important d…",
+   "image": "https://i.brecorder.com/large/2026/11/23132604b07f4aa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan's mobile phone import bill falls 7.2% in first four months of FY27",
+   "url": "https://www.brecorder.com/news/40450341/pakistans-mobile-phone-import-bill-falls-72-in-first-four-months-of-fy27",
+   "source": "Business Recorder",
+   "published": "2026-11-23T08:13:45+00:00",
+   "summary": "ISLAMABAD: Pakistan’s mobile phone import bill declined by 7.20 percent in dollar terms during the first four months (July-October) of current fiscal year 2026-27, falling to $598.147 million from $644.574 million in the same period last year. Official data revealed that during July-October fiscal year 2027, the cumula…",
+   "image": "https://i.brecorder.com/large/2026/11/23131006b6d2729.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Baluchistan Wheels to install 1MW solar at Hub plant",
+   "url": "https://www.brecorder.com/news/40450337/baluchistan-wheels-to-install-1mw-solar-at-hub-plant",
+   "source": "Business Recorder",
+   "published": "2026-11-23T07:33:55+00:00",
+   "summary": "Baluchistan Wheels Ltd has signed an agreement with Reon Energy Ltd for the supply and installation of a 1 megawatt-peak (MWp) solar photovoltaic system at its plant in Hub, Balochistan. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “This is to inform that Balu…",
+   "image": "https://i.brecorder.com/large/2026/11/2312324644c8fe5.webp",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Govt moves to overhaul ‘weak’ audit system",
    "url": "https://www.dawn.com/news/2046399/govt-moves-to-overhaul-weak-audit-system",
@@ -21,58 +75,6 @@
     "Budget & spending"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "KP offers vast opportunities for solar energy investment: Kundi",
-   "url": "https://www.brecorder.com/news/40450303/kp-offers-vast-opportunities-for-solar-energy-investment-kundi",
-   "source": "Business Recorder",
-   "published": "2026-11-22T23:48:35+00:00",
-   "summary": "PESHAWAR: Governor Khyber Pakhtunkhwa Faisal Karim Kundi on Sunday invited local and foreign companies to invest in the province’s renewable energy sector, saying Khyber Pakhtunkhwa offered vast opportunities for investment in solar energy and public-private partnership (PPP) projects. The Governor was addressing the m…",
-   "image": "https://i.brecorder.com/large/2026/11/082024504d4a761.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "FoodAg 2026 to kick off today, aiming to boost agri-food exports",
-   "url": "https://www.brecorder.com/news/40450236/foodag-2026-to-kick-off-today-aiming-to-boost-agri-food-exports",
-   "source": "Business Recorder",
-   "published": "2026-11-22T23:48:34+00:00",
-   "summary": "KARACHI: The fourth International Food and Agro Exhibition (FoodAg 2026), organised by the Trade Development Authority of Pakistan (TDAP), will commence today at the Karachi Expo Centre, aiming to promote agricultural and food exports and strengthen Pakistan’s presence in international markets. The four-day exhibition,…",
-   "image": "https://i.brecorder.com/large/2024/11/673a43341493c.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Mayor inaugurates Rs1.67bn uplift projects in Karachi’s District West",
-   "url": "https://www.brecorder.com/news/40450238/mayor-inaugurates-rs167bn-uplift-projects-in-karachis-district-west",
-   "source": "Business Recorder",
-   "published": "2026-11-22T23:48:34+00:00",
-   "summary": "KARACHI: Karachi Mayor Barrister Murtaza Wahab on Sunday inaugurated two development projects worth a combined Rs1.669 billion in District West, covering sewerage rehabilitation, water supply improvements and road reconstruction in Orangi Town and adjoining areas. The projects include sewerage system rehabilitation and…",
-   "image": "https://i.brecorder.com/large/2022/09/6332299c48a57.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Offshore exploration can help unlock economic potential: BMP",
-   "url": "https://www.brecorder.com/news/40450241/offshore-exploration-can-help-unlock-economic-potential-bmp",
-   "source": "Business Recorder",
-   "published": "2026-11-22T23:48:34+00:00",
-   "summary": "LAHORE: The Federation of Pakistan Chambers of Commerce & Industry’s Businessmen Panel (BMP) has stressed the need to accelerate exploration and development of Pakistan’s indigenous energy resources, saying the country’s vast untapped offshore potential could help reduce reliance on imported fuels, improve energy secur…",
-   "image": "https://i.brecorder.com/large/2026/06/01045110f03b2b0.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -167,19 +169,6 @@
    "domestic": true
   },
   {
-   "title": "Rupee secures gain against US dollar",
-   "url": "https://www.brecorder.com/news/40449988/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-20T14:42:46+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Friday. The local unit closed the day at 276.51, a gain of Re0.01 against the greenback. On Thursday , the rupee had closed at 276.52 against the dollar. Globally, the US dollar held near a 19-month high on Friday, having …",
-   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Short-term inflation reaches 10.41pc on costly flour",
    "url": "https://www.dawn.com/news/2045919/short-term-inflation-reaches-1041pc-on-costly-flour",
    "source": "Dawn",
@@ -190,32 +179,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Equities stage mild recovery on value buying",
-   "url": "https://www.dawn.com/news/2045781/equities-stage-mild-recovery-on-value-buying",
-   "source": "Dawn",
-   "published": "2026-11-20T01:50:12+00:00",
-   "summary": "KARACHI: Despite regional and domestic political concerns, the Pakistan Stock Exchange (PSX) on Thursday ended its two-session losing streak as attractive valuations drew selective buying interest, helping the benchmark KSE-100 index settle in the green. Topline Securities Ltd said the PSX staged a mild recovery rally,…",
-   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "EY-led consortium signs financial advisory pact for outsourcing of Karachi, Lahore airports",
-   "url": "https://www.dawn.com/news/2045686/ey-led-consortium-signs-financial-advisory-pact-for-outsourcing-of-karachi-lahore-airports",
-   "source": "Dawn",
-   "published": "2026-11-19T13:15:44+00:00",
-   "summary": "The Privatisation Commission and a consortium led by Ernst & Young (EY) Middle East on Thursday signed a financial advisory services agreement (Fasa) for the outsourcing of Karachi and Lahore airports. In August, the commission had approved the appointment of a financial adviser for the outsourcing of both airports, me…",
-   "image": "https://i.dawn.com/large/2026/11/191734391afe577.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": true
   },
   {
@@ -232,23 +195,166 @@
    "domestic": true
   },
   {
-   "title": "Pakistan signs advisory agreement for outsourcing Karachi, Lahore airports",
-   "url": "https://arynews.tv/pakistan-signs-advisory-agreement-for-outsourcing-karachi-lahore-airports",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan signs advisory agreement for outsourcing Karachi, Lahore airports",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Privatization-1.jpg",
+   "title": "PSX: KSE-100 settles on a flat note amid profit-taking",
+   "url": "https://www.brecorder.com/news/40450317/psx-kse-100-settles-on-a-flat-note-amid-profit-taking",
+   "source": "Business Recorder",
+   "published": "2026-11-23T13:37:47+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session, with the benchmark KSE-100 Index closing on a flat note after profit-taking erased most of the intra-day gains on Monday. Trading began on a positive note as the benchmark index built momentum through the morning and touched an intra-day high of 178…",
+   "image": "https://i.brecorder.com/large/2026/11/23094110ef038d4.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Sri Lankan shares fall for second session",
+   "url": "https://www.brecorder.com/news/40450360/sri-lankan-shares-fall-for-second-session",
+   "source": "Business Recorder",
+   "published": "2026-11-23T12:02:04+00:00",
+   "summary": "Sri Lankan shares closed lower on Monday, dragged down by healthcare and real estate stocks, extending losses after last week’s surprise interest-rate hike. Data released after the close showed consumer inflation accelerated in October. The CSE All Share index settled down 0.6% at 21,242.52, falling for a second straig…",
+   "image": "https://i.brecorder.com/large/2026/04/021805391cb8594.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Iran says it will use all its tools to confront US naval blockade",
+   "url": "https://www.brecorder.com/news/40450349/iran-says-it-will-use-all-its-tools-to-confront-us-naval-blockade",
+   "source": "Business Recorder",
+   "published": "2026-11-23T10:51:36+00:00",
+   "summary": "DUBAI: Iran will use all its tools to confront the US naval blockade, Iran’s Foreign Ministry spokesperson Esmaeil Baghaei said in a weekly news conference on Monday. The US blockade on Iran-related oil exports was imposed on April 13, lifted in June after Washington reached a draft understanding with Tehran, then rest…",
+   "image": "https://i.brecorder.com/large/2026/11/03031035d5dcde6.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Indian rupee retreats with stocks as rally takes a breather, positive bias lingers",
+   "url": "https://www.brecorder.com/news/40450346/indian-rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers",
+   "source": "Business Recorder",
+   "published": "2026-11-23T10:27:56+00:00",
+   "summary": "MUMBAI: The Indian rupee on Monday snapped a five-session winning streak that had lifted it to a more than seven-month high, as dollar demand from large corporates picked up and support from a rally in domestic stocks faded on profit-taking. The Indian rupee closed at 92.91 per dollar, down 0.26% from its close at 92.6…",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South African rand gains as commodity prices rise and dollar weakens",
+   "url": "https://www.brecorder.com/news/40450333/south-african-rand-gains-as-commodity-prices-rise-and-dollar-weakens",
+   "source": "Business Recorder",
+   "published": "2026-11-23T07:04:20+00:00",
+   "summary": "JOHANNESBURG: The South African rand strengthened on Monday, supported by firmer commodity prices and ​a weaker US dollar, which came under ‌pressure after a Federal Reserve Governor said that the central bank’s current policy rate was not high enough ​to curb inflation. The rand traded at ​17.4325 against the dollar a…",
+   "image": "https://i.brecorder.com/large/2026/10/261200232edd6aa.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australia, NZ dollars track Wall Street futures higher, but risks linger",
+   "url": "https://www.brecorder.com/news/40450328/australia-nz-dollars-track-wall-street-futures-higher-but-risks-linger",
+   "source": "Business Recorder",
+   "published": "2026-11-23T06:42:24+00:00",
+   "summary": "SYDNEY: The Australian dollar bounced on Monday after nine consecutive sessions of losses, drawing support from gains in Wall Street futures, while the kiwi steadied above a 17-year low, though both currencies remained vulnerable to renewed selling pressure. The Aussie rose 0.4% to $0.6645 after tumbling 2.3% last week…",
+   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Thai baht/US dollar weaker on Monday",
+   "url": "https://www.brecorder.com/news/40450327/thai-bahtus-dollar-weaker-on-monday",
+   "source": "Business Recorder",
+   "published": "2026-11-23T06:39:34+00:00",
+   "summary": "BANGKOK: The Thai baht weakened against the US dollar on Monday . At 0218 GMT, the baht was 0.15% lower at 33.97 versus the dollar, after trading in a range of 33.995 to 33.975. It ended the previous session at 33.9175 per dollar, as per LSEG data.",
+   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "South Korea vows to stabilise stock market after KOSPI drops 5%",
+   "url": "https://www.brecorder.com/news/40450324/south-korea-vows-to-stabilise-stock-market-after-kospi-drops-5",
+   "source": "Business Recorder",
+   "published": "2026-11-23T06:23:07+00:00",
+   "summary": "SEJONG: South Korea reiterated plans on Monday to stabilise its stock market if needed, as the KOSPI plummeted 5% and Finance Minister Lee Hyoung-il projected solid economic growth next year. The benchmark index extended declines as concerns over the AI trade and a broader technology selloff overwhelmed the government’…",
+   "image": "https://i.brecorder.com/large/2026/11/2311223258bed84.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Gold rises from 14-month low as markets await US inflation data",
+   "url": "https://www.brecorder.com/news/40450321/gold-rises-from-14-month-low-as-markets-await-us-inflation-data",
+   "source": "Business Recorder",
+   "published": "2026-11-23T06:13:21+00:00",
+   "summary": "Gold regained some ground on Monday after falling to a 14-month low last week, as investors weighed Federal Reserve commentary and looked to upcoming US inflation data for fresh clues on the trajectory of interest rates. Spot gold climbed 2% to $3,603.77 per ounce by 0332 GMT. Bullion declined about 9% last week, its s…",
+   "image": "https://i.brecorder.com/large/2026/11/18081659191fb79.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "India bonds give up marginal opening gains as profit booking takes over",
+   "url": "https://www.brecorder.com/news/40450318/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over",
+   "source": "Business Recorder",
+   "published": "2026-11-23T05:54:47+00:00",
+   "summary": "MUMBAI: Indian government bonds turned lower on Monday, unable to hold on to opening gains triggered by a US Treasury rally, as traders booked profits after last week’s run, and as the rupee plunged sharply. The benchmark 6.94% 2036 bond yield was at 7.2185% as of 10:30 a.m. IST, after closing at 7.1868% on Friday. Ear…",
+   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan invites international bids to import up to 800,000 tonnes of wheat",
+   "url": "https://tribune.com.pk/story/2641863/pakistan-invites-international-bids-to-import-up-to-800000-tonnes-of-wheat",
+   "source": "The Express Tribune",
+   "published": "2026-11-23T05:29:57+00:00",
+   "summary": "TCP stresses that bids for less than 50,000 metric tonnes, with a 10% quantity adjustment, will not be accepted",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Mian Muhammad Mansha wants structural reforms, cheaper energy",
+   "url": "https://www.dawn.com/news/2046409/mian-muhammad-mansha-wants-structural-reforms-cheaper-energy",
+   "source": "Dawn",
+   "published": "2026-11-23T04:42:28+00:00",
+   "summary": "Mian Muhammad Mansha, chairman of Nishat Group and MCB Bank, has called for reducing the size of government, cutting energy costs, removing bureaucratic hurdles and improving infrastructure to revive private investment and employment in Pakistan. In a conversation with B&F, he said excessive overheads, regulatory delay…",
+   "image": "https://i.dawn.com/large/2022/06/629d7974ae39f.png",
    "topics": [
     "Construction & projects"
    ],
    "relevant": true,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Pakistan's only coal conveyor system at Port Qasim non-functional since Nov 18, disrupting coal imports",
-   "url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-nov-18-disrupting-coal-imports",
+   "title": "Pakistan's only coal conveyor system at Port Qasim non-functional since last week, disrupting imports",
+   "url": "https://www.dawn.com/news/2046496/pakistans-only-coal-conveyor-system-at-port-qasim-non-functional-since-last-week-disrupting-imports",
    "source": "Dawn",
-   "published": "2026-11-23T03:37:59+00:00",
+   "published": "2026-11-23T04:02:17+00:00",
    "summary": "https://www.dawn.com/news/2046386/conveyor-belt-failure-at-bulk-terminal-disrupts-coal-imports",
    "image": "https://i.dawn.com/large/2026/11/230410562eb3a3a.webp",
    "topics": [
@@ -264,6 +370,19 @@
    "published": "2026-11-23T03:15:18+00:00",
    "summary": "India’s Tata Steel said on Monday it will acquire a ​26.38% stake in APL Apollo Tubes for ‌about 155.11 billion rupees ($1.67 billion) and launch an open offer to acquire a further 26% holding. The deal gives ​Tata Steel control of India’s largest structural ​steel tubes maker and boosts its exposure ⁠to higher-margin …",
    "image": "https://i.brecorder.com/large/2026/11/23081318c52bb72.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX rally ebbs as late selling wipes out early gains",
+   "url": "https://tribune.com.pk/story/2641843/psx-extends-gains-as-broad-based-buying-lifts-kse-100-towards-178300",
+   "source": "The Express Tribune",
+   "published": "2026-11-23T03:14:06+00:00",
+   "summary": "KSE-100 manages marginal 91-point advance as heavyweight sectors drag market lower in latter half",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -323,12 +442,12 @@
    "domestic": false
   },
   {
-   "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-   "url": "https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper",
-   "source": "Business Recorder",
-   "published": "2026-11-22T08:50:36+00:00",
-   "summary": "ZURICH: The Swiss National Bank is paying close attention to potential second-round effects from accelerating inflation ahead of its next monetary policy ​decision, SNB Vice Chairman Antoine Martin said in comments published ‌on Sunday. In an interview with Swiss newspaper Le Matin Dimanche, Martin said inflation had c…",
-   "image": "https://i.brecorder.com/large/2026/03/02120136e86a3d8.webp",
+   "title": "Why foreign investment continues to elude Pakistan",
+   "url": "https://www.dawn.com/news/2046411/why-foreign-investment-continues-to-elude-pakistan",
+   "source": "Dawn",
+   "published": "2026-11-23T02:12:50+00:00",
+   "summary": "Pakistan has secured a hard-won stability, yet foreign investors continue to look the other way. Net foreign direct investment (FDI) fell 34 per cent in FY26 to $1.64 billion, against more than $5bn in FY07 and FY08. At about 0.5pc of GDP, the FDI is barely visible in an economy of 250 million people. This is not for w…",
+   "image": "https://i.dawn.com/large/2026/02/19082217e928ad4.webp",
    "topics": [
     "Economy"
    ],
@@ -336,12 +455,38 @@
    "domestic": false
   },
   {
-   "title": "Export financing risks failure",
-   "url": "https://tribune.com.pk/story/2641576/export-financing-risks-failure",
+   "title": "Big dams, ‘bigger liabilities’",
+   "url": "https://www.dawn.com/news/2046472/big-dams-bigger-liabilities",
+   "source": "Dawn",
+   "published": "2026-11-23T00:54:21+00:00",
+   "summary": "Pakistan has a remarkable ‘love affair’ with hydropower, one that has survived cost overruns, construction failures, prolonged shutdowns and the risks of building concrete behemoths in some of the world’s most hazardous terrain. The latest disaster at the Tarbela-5 construction site raises a fundamental question: why d…",
+   "image": "https://i.dawn.com/large/2025/07/687d75482107d.gif",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "From kitchen inflation to exports",
+   "url": "https://tribune.com.pk/story/2641736/from-kitchen-inflation-to-exports",
    "source": "The Express Tribune",
-   "published": "2026-11-21T16:04:40+00:00",
-   "summary": "PIDE warns Rs350b facility lacks accountability safeguards",
+   "published": "2026-11-22T16:21:39+00:00",
+   "summary": "Climate-proofing farms can rescue economy running $4b food trade deficit",
    "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
+   "url": "https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper",
+   "source": "Business Recorder",
+   "published": "2026-11-22T08:50:36+00:00",
+   "summary": "ZURICH: The Swiss National Bank is paying close attention to potential second-round effects from accelerating inflation ahead of its next monetary policy ​decision, SNB Vice Chairman Antoine Martin said in comments published ‌on Sunday. In an interview with Swiss newspaper Le Matin Dimanche, Martin said inflation had c…",
+   "image": "https://i.brecorder.com/large/2026/03/02120136e86a3d8.webp",
    "topics": [
     "Economy"
    ],
@@ -427,116 +572,12 @@
    "domestic": false
   },
   {
-   "title": "Pakistan produces 23mn mobile phones in Jan-Oct",
-   "url": "https://www.brecorder.com/news/40450012/pakistan-produces-23mn-mobile-phones-in-jan-oct",
-   "source": "Business Recorder",
-   "published": "2026-11-20T17:15:48+00:00",
-   "summary": "Pakistan’s local mobile phone manufacturing and assembly plants produced 23.03 million handsets during January-October 2026, almost six times the 3.85 million units imported commercially during the same period, reflecting the growing contribution of domestic production to meeting the country’s mobile phone demand. The …",
-   "image": "https://i.brecorder.com/large/2025/11/26130823ec79db5.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lanka urges Pakistan to boost exports under Free Trade Agreement",
-   "url": "https://www.brecorder.com/news/40450006/sri-lanka-urges-pakistan-to-boost-exports-under-free-trade-agreement",
-   "source": "Business Recorder",
-   "published": "2026-11-20T15:30:37+00:00",
-   "summary": "Sri Lanka is seeking to increase imports from Pakistan by inviting local exporters to tap into its nearly $19 billion import market, particularly in textiles, rice, cement, and other sectors, under the existing Free Trade Agreement (FTA). The development came as Sri Lanka’s Consul General H.E. Sanjeewa Pattiwilla held …",
-   "image": "https://i.brecorder.com/large/2025/11/692904f918ed0.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Abu Dhabi index dips as oil slides on ample supply",
-   "url": "https://www.brecorder.com/news/40449996/abu-dhabi-index-dips-as-oil-slides-on-ample-supply",
-   "source": "Business Recorder",
-   "published": "2026-11-20T12:26:52+00:00",
-   "summary": "Abu Dhabi index closed lower on Friday, as oil prices slid on ample supply after Gulf producers raised output and shipped more crude through the Strait of Hormuz, despite continued attacks on tankers and Houthi strikes on Riyadh. Saudi Arabian crude oil exports in September rose nearly 21% from August to 5.379 million …",
-   "image": "https://i.brecorder.com/large/2026/10/0917343522e0eb1.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Sri Lankan shares log worst week in six months after surprise central bank rate hike",
-   "url": "https://www.brecorder.com/news/40449995/sri-lankan-shares-log-worst-week-in-six-months-after-surprise-central-bank-rate-hike",
-   "source": "Business Recorder",
-   "published": "2026-11-20T12:21:36+00:00",
-   "summary": "Sri Lankan shares closed lower on Friday, dragged down by broad-based losses across sectors after the central bank raised its key policy rate, marking their worst week since mid-May. The CSE All Share index settled 0.8% lower at 21,369.72, shedding 2.97% overa week, that snapped its three-week winning streak. Sri Lanka…",
-   "image": "https://i.brecorder.com/large/2026/10/0218483542d04e9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Indian rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
-   "url": "https://www.brecorder.com/news/40449985/indian-rupee-climbs-past-93usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind",
-   "source": "Business Recorder",
-   "published": "2026-11-20T10:36:10+00:00",
-   "summary": "MUMBAI: The Indian rupee strengthened past the psychologically important 93-per-dollar mark on Friday for the first time since April, as Indian equities attracted investors fleeing AI-driven markets and oil prices dropped, accelerating a sharp reversal in the currency’s fortunes. The Indian rupee has struggled for most…",
-   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thai baht/US dollar steady on Friday",
-   "url": "https://www.brecorder.com/news/40449971/thai-bahtus-dollar-steady-on-friday",
-   "source": "Business Recorder",
-   "published": "2026-11-20T06:39:07+00:00",
-   "summary": "BANGKOK: The Thai baht was steady against the US dollar on Friday . At 0215 GMT, the baht was 0.02% higher at 33.96 versus the dollar, after trading in a range of 33.970 to 33.940. It ended the previous session at 33.9625 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China yuan recovers from one-month low on exporter demand, strong dollar caps gain",
-   "url": "https://www.brecorder.com/news/40449969/china-yuan-recovers-from-one-month-low-on-exporter-demand-strong-dollar-caps-gain",
-   "source": "Business Recorder",
-   "published": "2026-11-20T06:35:20+00:00",
-   "summary": "SHANGHAI: bounced from a more than one-month low against the US dollar that it hit a day earlier, as corporate repatriation offset the impact of a continuing dollar rally. The Chinese currency had declined in both onshore and offshore markets to its weakest since mid-October before a pick-up in seasonal corporate deman…",
-   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Senate panel’s intervention saves Rs120bn in unnecessary govt spending under remittance initiative: panel chairman",
    "url": "https://www.dawn.com/news/2045865/senate-panels-intervention-saves-rs120bn-in-unnecessary-govt-spending-under-remittance-initiative-panel-chairman",
    "source": "Dawn",
    "published": "2026-11-20T04:22:53+00:00",
    "summary": "https://www.dawn.com/news/2045786/senate-panels-intervention-saves-rs120bn",
    "image": "https://i.dawn.com/large/2022/06/62adeeb0cb102.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX rebounds 478 points after sharp fall",
-   "url": "https://tribune.com.pk/story/2641259/psx-rebounds-478-points-after-sharp-fall",
-   "source": "The Express Tribune",
-   "published": "2026-11-19T16:02:50+00:00",
-   "summary": "Fertiliser stocks lead recovery as KSE-100 settles at 176,772",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -554,6 +595,32 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stock close higher as KSE-100 index gains 91 Points",
+   "url": "https://arynews.tv/psx-stock-close-higher-as-kse-100-index-gains-91-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stock close higher as KSE-100 index gains 91 Points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Stock-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan moves to import additional wheat to stabilise flour prices",
+   "url": "https://arynews.tv/pakistan-moves-to-import-additional-wheat-to-stabilise-flour-prices",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan moves to import additional wheat to stabilise flour prices",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/wheat.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
