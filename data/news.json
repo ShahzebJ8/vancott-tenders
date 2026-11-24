@@ -1,26 +1,66 @@
 {
- "generated": "2026-11-24T12:00:39+00:00",
- "count": 45,
+ "generated": "2026-11-24T21:59:25+00:00",
+ "count": 44,
  "relevant_count": 13,
- "domestic_count": 10,
+ "domestic_count": 11,
  "sources": {
-  "Dawn": "ok (16)",
-  "Business Recorder": "ok (12)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (6)"
+  "Dawn": "ok (15)",
+  "Business Recorder": "ok (13)",
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Cabinet approves deregulation of sugar sector to meet vital IMF benchmark",
+   "url": "https://www.dawn.com/news/2046808/cabinet-approves-deregulation-of-sugar-sector-to-meet-imf-benchmark",
+   "source": "Dawn",
+   "published": "2026-11-24T19:57:54+00:00",
+   "summary": "ISLAMABAD: To meet a long-postponed structural benchmark of the International Monetary Fund (IMF), the federal cabinet on Tuesday approved the deregulation of the sugar sector, an end to its export subsidies and free movement among the provinces. The cabinet approved the ‘National Policy for Deregulation of Sugar Secto…",
+   "image": "https://i.dawn.com/large/2025/10/10075229dc2553f.webp",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
   {
    "title": "Rupee registers gain against US dollar",
    "url": "https://www.brecorder.com/news/40450517/intra-day-update-rupee-records-gain-against-us-dollar",
    "source": "Business Recorder",
-   "published": "2026-11-24T11:26:59+00:00",
+   "published": "2026-11-24T14:02:58+00:00",
    "summary": "The Pakistani rupee strengthened against the US dollar, appreciating 0.01% in the inter-bank market on Tuesday. The local unit closed the day at 276.47, a gain of Re0.03 against the greenback. On Monday , the local unit closed at 276.50. Internationally, the US dollar hovered near a 20-month high on Tuesday, after Jens…",
    "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Sales tax zones being established in Karachi, Lahore, Islamabad and Multan, PM told",
+   "url": "https://www.dawn.com/news/2046777/sales-tax-zones-being-established-in-karachi-lahore-islamabad-and-multan-pm-told",
+   "source": "Dawn",
+   "published": "2026-11-24T12:40:44+00:00",
+   "summary": "Prime Minister Shehbaz Sharif was informed on Tuesday that separate sales tax zones were being established in the country’s four major taxpayer units — Karachi, Lahore, Islamabad and Multan — to improve collection. According to a statement from the Prime Minister’s Office (PMO), the development was shared during a week…",
+   "image": "https://i.dawn.com/large/2026/11/24172437bf8392a.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR to set up sales tax zones in Karachi, Lahore, Islamabad, Multan",
+   "url": "https://tribune.com.pk/story/2642109/fbr-to-set-up-sales-tax-zones-in-karachi-lahore-islamabad-multan",
+   "source": "The Express Tribune",
+   "published": "2026-11-24T10:00:55+00:00",
+   "summary": "Tax authority has uncovered Rs24.4b in irregularities during an audit of oil marketing companies’ bonded warehouses",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
    "domestic": true
   },
   {
@@ -116,38 +156,51 @@
    "domestic": true
   },
   {
-   "title": "Stocks end lower as political uncertainty halts recovery",
-   "url": "https://www.dawn.com/news/2046180/stocks-end-lower-as-political-uncertainty-halts-recovery",
-   "source": "Dawn",
-   "published": "2026-11-22T00:11:41+00:00",
-   "summary": "KARACHI: After sustaining a recovery during the first two weeks of the month, the Pakistan Stock Exchange (PSX) turned subdued in the outgoing week as investors booked profits at higher levels amid uncertainty over the proposed referendum on creating new provinces. According to Arif Habib Ltd (AHL), the benchmark KSE-1…",
-   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
+   "title": "ABHI goes public at PSX with 75% of its total lending made against gold-jewellery",
+   "url": "https://www.brecorder.com/news/40450538/abhi-goes-public-at-psx-with-75-of-its-total-lending-made-against-gold-jewellery",
+   "source": "Business Recorder",
+   "published": "2026-11-24T17:34:42+00:00",
+   "summary": "ABHI Microfinance Bank Limited (ABHI) has made its shares available to trade publicly at the Pakistan Stock Exchange (PSX) on Tuesday, with management expressing confidence that its heavily gold-backed lending portfolio will remain resilient despite a recent sharp decline in gold prices. The microfinance bank’s share p…",
+   "image": "https://i.brecorder.com/large/2026/09/220132587409396.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
   },
   {
-   "title": "Pakistan rises 17 places in UN e-governance ranking",
-   "url": "https://www.dawn.com/news/2046012/pakistan-rises-17-places-in-un-e-governance-ranking",
-   "source": "Dawn",
-   "published": "2026-11-21T03:02:37+00:00",
-   "summary": "• Moves from Middle to High category in E-Government Develop­m­ent Index • Telecommunication infrastructure score jumps 39pc to 0.6590 ISLAMABAD: Pakistan has cli­mbed 17 places to rank 119th am­­ong 194 countries in the United Nations E-Government Develop­m­ent Index (EGDI) 2026, a global benchmark that assesses how e…",
-   "image": "https://i.dawn.com/large/2024/12/06074354d3dca25.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "AI boom looms over Warsh's Fed as inflation worries grow",
-   "url": "https://www.brecorder.com/news/40450520/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow",
+   "title": "PTA proposes solar power for telecom towers facing frequent outages",
+   "url": "https://www.brecorder.com/news/40450540/pta-proposes-solar-power-for-telecom-towers-facing-frequent-outages",
    "source": "Business Recorder",
-   "published": "2026-11-24T11:34:19+00:00",
-   "summary": "WASHINGTON: Federal Reserve Chairman Kevin Warsh has called artificial intelligence a “hinge” of history critical to US leadership, but the technology has also become key to Fed policy as officials debate whether the AI boom is a transformational moment, a source of inflation, or the harbinger of an economic meltdown. …",
-   "image": "https://i.brecorder.com/large/2026/01/301752265795706.webp",
+   "published": "2026-11-24T17:29:37+00:00",
+   "summary": "The Pakistan Telecommunication Authority (PTA) has proposed a phased transition of telecom towers to alternative energy solutions, including solar power, battery storage and hybrid systems, to reduce diesel dependence, address power outages, and improve network reliability. The authority has invited telecom operators a…",
+   "image": "https://i.brecorder.com/large/2024/12/06210509dc14d46.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nasdaq, S&P 500 ease as Nvidia-driven AI rally fizzles",
+   "url": "https://www.brecorder.com/news/40450534/nasdaq-sampp-500-ease-as-nvidia-driven-ai-rally-fizzles",
+   "source": "Business Recorder",
+   "published": "2026-11-24T16:16:56+00:00",
+   "summary": "The Nasdaq and the S&P 500 fell on Tuesday as investors retreated from AI-linked shares after an Nvidia-fueled rally, with attention turning to this week’s inflation data for a definitive clue on the Federal Reserve’s policy path ahead of its December meeting. Sentiment was further dented by a Wall Street Journal repor…",
+   "image": "https://i.brecorder.com/large/2021/11/6183e85501f42.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China, India set for record Russian oil imports in 2026, but demand seen peaking",
+   "url": "https://www.brecorder.com/news/40450531/china-india-set-for-record-russian-oil-imports-in-2026-but-demand-seen-peaking",
+   "source": "Business Recorder",
+   "published": "2026-11-24T14:26:05+00:00",
+   "summary": "China and India are on track for record Russian oil imports this year, plugging a supply gap caused by the Iran war, as US sanctions waivers eased purchases and Ukrainian drone attacks knocked out Russian refining, according to tanker data and industry sources. But traders and analysts expect shipments to Russia’s two …",
+   "image": "https://i.brecorder.com/large/2026/11/24192421576c8c5.webp",
    "topics": [
     "Economy"
    ],
@@ -158,9 +211,22 @@
    "title": "PSX: buying at bourse, KSE-100 gains over 1,000 points",
    "url": "https://www.brecorder.com/news/40450484/psx-buying-at-bourse-kse-100-gains-over-1000-points",
    "source": "Business Recorder",
-   "published": "2026-11-24T11:01:31+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) maintained positive momentum, with the benchmark KSE-100 Index gaining over 1,000 points during the trading session on Tuesday. The index opened on a positive note and initially climbed towards the 179,000 level, hitting an intraday high of 179,077.52. However, selling pressure emerged…",
+   "published": "2026-11-24T13:27:23+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) maintained positive momentum, with the benchmark KSE-100 Index gaining over 1,000 points during the trading session on Tuesday. The index opened on a positive note and initially climbed towards 179,000, hitting an intra-day high of 179,077.52. However, selling pressure emerged during t…",
    "image": "https://i.brecorder.com/large/2026/11/2409593059e7413.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "AI boom looms over Warsh's Fed as inflation worries grow",
+   "url": "https://www.brecorder.com/news/40450520/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow",
+   "source": "Business Recorder",
+   "published": "2026-11-24T11:34:19+00:00",
+   "summary": "WASHINGTON: Federal Reserve Chairman Kevin Warsh has called artificial intelligence a “hinge” of history critical to US leadership, but the technology has also become key to Fed policy as officials debate whether the AI boom is a transformational moment, a source of inflation, or the harbinger of an economic meltdown. …",
+   "image": "https://i.brecorder.com/large/2026/01/301752265795706.webp",
    "topics": [
     "Economy"
    ],
@@ -233,19 +299,6 @@
    "domestic": false
   },
   {
-   "title": "Bangladesh's Osiris Group to acquire EDOTCO's Pakistan tower business",
-   "url": "https://www.brecorder.com/news/40450494/bangladeshs-osiris-group-to-acquire-edotcos-pakistan-tower-business",
-   "source": "Business Recorder",
-   "published": "2026-11-24T06:36:25+00:00",
-   "summary": "Bangladesh-focused private equity firm The Osiris Group has agreed to acquire the entire Pakistan business of Malaysian telecommunications infrastructure company EDOTCO, as part of a broader restructuring of its parent Axiata Group’s international tower operations. The proposed acquisition covers EDOTCO Towers Pakistan…",
-   "image": "https://i.brecorder.com/large/2026/11/24113257684cd90.webp",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "China's yuan hits three-week high as firm fixing offsets dollar strength",
    "url": "https://www.brecorder.com/news/40450491/chinas-yuan-hits-three-week-high-as-firm-fixing-offsets-dollar-strength",
    "source": "Business Recorder",
@@ -285,19 +338,6 @@
    "domestic": false
   },
   {
-   "title": "KSE-100 climbs 1,116 points on Wall Street rally",
-   "url": "https://tribune.com.pk/story/2642054/kse-100-climbs-1116-points-on-wall-street-rally",
-   "source": "The Express Tribune",
-   "published": "2026-11-24T03:47:17+00:00",
-   "summary": "Brent crude falls to $89.10 per barrel",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
    "url": "https://www.brecorder.com/news/40450476/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets",
    "source": "Business Recorder",
@@ -330,19 +370,6 @@
    "published": "2026-11-24T02:48:34+00:00",
    "summary": "Gold prices rose slightly on Tuesday , extending a rebound from a 14-month low as bargain hunters returned after last week’s sharp ​selloff, with investors awaiting US inflation data for fresh ‌signals on the Federal Reserve’s interest-rate outlook. Spot gold rose 0.4% to $3,645.29 per ounce by 0023 GMT, while US gold …",
    "image": "https://i.brecorder.com/large/2026/11/24074544cb98b40.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "SBP triples gemstone export retention",
-   "url": "https://tribune.com.pk/story/2641943/sbp-triples-gemstone-export-retention",
-   "source": "The Express Tribune",
-   "published": "2026-11-23T16:55:42+00:00",
-   "summary": "Govt targets $1b export in five years, against current formal exports of just $5.8m",
-   "image": null,
    "topics": [
     "Economy"
    ],
@@ -494,19 +521,6 @@
    "domestic": false
   },
   {
-   "title": "EU proposes tax on Big Tech to boost budget",
-   "url": "https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget",
-   "source": "Dawn",
-   "published": "2026-11-21T15:03:00+00:00",
-   "summary": "The European Union (EU) put forward plans on Saturday to tax the world’s biggest digital companies to fund its next budget, as it seeks to bridge divisions among member states over the bloc’s long-term funding. European Council President Antonio Costa unveiled a new spending proposal that slashes by €204 billion ($224b…",
-   "image": "https://i.dawn.com/large/2020/12/5fd98cb238b29.png",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -517,6 +531,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan, Brazil set sights on unlocking billion-dollar agricultural trade and investment opportunities",
+   "url": "https://arynews.tv/pakistan-brazil-set-sights-on-unlocking-billion-dollar-agricultural-trade",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan, Brazil set sights on unlocking billion-dollar agricultural trade and investment opportunities",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Pakistan-Brazil.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -552,45 +579,6 @@
    "published": null,
    "summary": "Pakistan moves to import additional wheat to stabilise flour prices",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/wheat.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan aims to boost seafood exports",
-   "url": "https://arynews.tv/pakistan-aims-to-boost-seafood-exports",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan aims to boost seafood exports",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Fish-export.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Finance Minister calls for power sector reforms to promote competition, ensure affordable electricity",
-   "url": "https://arynews.tv/finance-minister-calls-for-power-sector-reforms-to-promote-competition-ensure-affordable-electricity",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Finance Minister calls for power sector reforms to promote competition, ensure affordable electricity",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/NEPRA-tariff-change-drives-sharp-rise-in-electricity-bills.jpg.jpeg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt decides to export 4,16,000 metric tonnes of sugar",
-   "url": "https://arynews.tv/govt-decides-export-416000-metric-tonnes-sugar",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Govt decides to export 4,16,000 metric tonnes of sugar",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/08/Pakistan-govt-cancels-sugar-import-tender.jpg.jpeg",
    "topics": [
     "Economy"
    ],
