@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-23T14:02:25+00:00",
- "count": 53,
- "relevant_count": 10,
- "domestic_count": 14,
+ "generated": "2026-11-24T01:34:57+00:00",
+ "count": 58,
+ "relevant_count": 17,
+ "domestic_count": 22,
  "sources": {
-  "Dawn": "ok (17)",
-  "Business Recorder": "ok (16)",
+  "Dawn": "ok (16)",
+  "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (8)",
-  "ARY News": "ok (9)"
+  "ARY News": "ok (8)"
  },
  "stories": [
   {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40450359/intra-day-update-rupee-records-gain-against-us-dollar",
+   "title": "Digital platform: PSX, JazzCash, Next Capital partner to offer govt Sukuk",
+   "url": "https://www.brecorder.com/news/40450472/digital-platform-psx-jazzcash-next-capital-partner-to-offer-govt-sukuk",
    "source": "Business Recorder",
-   "published": "2026-11-23T14:01:49+00:00",
-   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Monday. The local unit closed the day at 276.50, a gain of Re0.01 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar, appreciating 0.03% in the inter-bank …",
-   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
+   "published": "2026-11-24T00:41:01+00:00",
+   "summary": "KARACHI: Pakistan Stock Exchange (PSX), JazzCash and Next Capital Limited have signed a memorandum of understanding (MoU) to facilitate retail investment in Government of Pakistan Sukuk through JazzCash’s digital platform, aiming to expand access to government securities among individual investors. The agreement brings…",
+   "image": "https://i.brecorder.com/large/2025/02/27034446be2f736.jpg",
    "topics": [
     "Economy"
    ],
@@ -24,12 +24,145 @@
    "domestic": true
   },
   {
-   "title": "Punjab’s anti-smog plan shows encouraging results as AQI drops within hours of on-ground action",
-   "url": "https://www.brecorder.com/news/40450342/punjabs-anti-smog-plan-shows-encouraging-results-as-aqi-drops-within-hours-of-on-ground-action",
+   "title": "Govt urged to announce sugar sector deregulation",
+   "url": "https://www.brecorder.com/news/40450469/govt-urged-to-announce-sugar-sector-deregulation",
    "source": "Business Recorder",
-   "published": "2026-11-23T08:26:23+00:00",
-   "summary": "Air quality in Lahore continues to fluctuate, with AQI levels often rising during the early morning and evening hours before falling within a few hours. While winter weather and atmospheric conditions contribute to these daily changes, the government’s increasingly active response on the ground is adding an important d…",
-   "image": "https://i.brecorder.com/large/2026/11/23132604b07f4aa.webp",
+   "published": "2026-11-24T00:31:40+00:00",
+   "summary": "LAHORE: The Pakistan Sugar Mills Association (PSMA), North Zone, has urged the government to announce a complete deregulation of the sugar sector at the earliest and facilitate the immediate export of the remaining 0.4 million tonnes of surplus sugar. The demand was raised at a general body meeting of PSMA-North Zone h…",
+   "image": "https://i.brecorder.com/large/2023/03/021517562bdeb08.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "KP tobacco growers’ complaints: Senate panel demands explanations from govt departments",
+   "url": "https://www.brecorder.com/news/40450426/kp-tobacco-growers-complaints-senate-panel-demands-explanations-from-govt-departments",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: A Senate panel on Monday took up complaints of tobacco growers from Khyber Pakhtunkhwa regarding heavy taxation, alleged exploitation by cigarette manufacturers, manipulation of procurement quotas and failure of the Pakistan Tobacco Board (PTB) to enforce mandatory marketing regulations, directing relevant g…",
+   "image": "https://i.brecorder.com/large/2025/12/30004314daabf29.webp",
+   "topics": [
+    "Budget & spending",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP raises export payment limits for gemstone sector",
+   "url": "https://www.brecorder.com/news/40450450/sbp-raises-export-payment-limits-for-gemstone-sector",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) on Monday increased the limit for payment of export commission, brokerage, discount and retention of export proceeds in Exporters’ Special Foreign Currency Accounts (ESFCAs), for the gemstone sector from 10 percent to 30 percent to support the industry’s export growth. In a cir…",
+   "image": "https://i.brecorder.com/large/2024/07/66a7ffc3f17fb.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "IMF sees small economic shock of refugee hosting on Pakistan",
+   "url": "https://www.brecorder.com/news/40450458/imf-sees-small-economic-shock-of-refugee-hosting-on-pakistan",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: The International Monetary Fund (IMF) has assessed that refugee inflows have had a limited economic impact on Pakistan, citing relatively small shocks to labour supply and government spending, despite the country hosting one of the largest refugee populations in the Middle East, North Africa, Afghanistan and…",
+   "image": "https://i.brecorder.com/large/2026/02/1402155005c1f9d.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Six N-plants provide over 3,500MW of electricity: PAEC chief",
+   "url": "https://www.brecorder.com/news/40450459/six-n-plants-provide-over-3500mw-of-electricity-paec-chief",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: High-lighting the peaceful applications of nuclear science, Chairman of the Pakistan Atomic Energy Commission (PAEC), Dr. Raja Ali Raza Anwar, said that Pakistan’s six nuclear power plants provide more than 3,500 megawatts of electricity, while PAEC’s 21 cancer hospitals serve around 80 percent of the countr…",
+   "image": "https://i.brecorder.com/large/2026/09/090315257aa48a7.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Grid stability enhancement: USD376m World Bank-funded project yet to take effect",
+   "url": "https://www.brecorder.com/news/40450460/grid-stability-enhancement-usd376m-world-bank-funded-project-yet-to-take-effect",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: Pakistan’s USD376 million World Bank-funded Grid Stability Enhancement Project has yet to become effective despite the signing of its financing agreement, with key procurement activities still awaiting commencement, according to the Bank’s latest implementation assessment. The project, designed to strengthen…",
+   "image": "https://i.brecorder.com/large/2026/07/110428318d9678e.webp",
+   "topics": [
+    "Energy & power",
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Request by MES: QESCO moves PPMC for policy guidelines",
+   "url": "https://www.brecorder.com/news/40450461/request-by-mes-qesco-moves-ppmc-for-policy-guidelines",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: Quetta Electric Supply Company (QESCO) has approached the Managing Director PPMC for policy guidance on a request by Military Engineering Services (MES), 12 Corps, Quetta, seeking waiver of late payment surcharges (LPS) amounting to over Rs821 million on electricity bills, arguing that the surcharge was accu…",
+   "image": "https://i.brecorder.com/large/2026/03/07040748fc895f4.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "FBR modifies ST reporting rules for steel sector",
+   "url": "https://www.brecorder.com/news/40450462/fbr-modifies-st-reporting-rules-for-steel-sector",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has made it mandatory for the steel sector to separately report additional sales tax on electricity supplied to steel melters and re-rollers, as part of expanded disclosure requirements for domestic purchases and sales transactions. A senior sales tax expert informed that t…",
+   "image": "https://i.brecorder.com/large/2026/06/30023929d76e8be.webp",
+   "topics": [
+    "Budget & spending",
+    "Energy & power"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "FBR updates sales tax return formats",
+   "url": "https://www.brecorder.com/news/40450463/fbr-updates-sales-tax-return-formats",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has replaced the existing sales tax return form STR-7 with revised formats for domestic purchase and sales invoices, and this change aims to enhance tax reporting and improve documentation. According to SRO 2271(I)/2026 issued on Monday, the FBR has substituted the existing…",
+   "image": "https://i.brecorder.com/large/2026/06/1104264544ba614.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Govt hiring professionals for debt management job",
+   "url": "https://www.brecorder.com/news/40450464/govt-hiring-professionals-for-debt-management-job",
+   "source": "Business Recorder",
+   "published": "2026-11-23T23:50:48+00:00",
+   "summary": "ISLAMABAD: The government is seeking to strengthen its public debt management framework by hiring experienced professionals, with the Finance Division advertising two key positions in the Debt Management Office (DMO): Director Operations and Assistant Director Strategy and Operations. The move comes amid growing demand…",
+   "image": "https://i.brecorder.com/large/2026/11/24042520754b679.jpg",
+   "topics": [
+    "Advertising & media"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40450359/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-23T14:01:49+00:00",
+   "summary": "The Pakistani rupee continued its marginal gain against the US dollar in the inter-bank market on Monday. The local unit closed the day at 276.50, a gain of Re0.01 against the greenback. During the previous week, the Pakistani rupee extended its marginal gain against the US dollar, appreciating 0.03% in the inter-bank …",
+   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
    "topics": [
     "Economy"
    ],
@@ -48,20 +181,6 @@
     "Economy"
    ],
    "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Baluchistan Wheels to install 1MW solar at Hub plant",
-   "url": "https://www.brecorder.com/news/40450337/baluchistan-wheels-to-install-1mw-solar-at-hub-plant",
-   "source": "Business Recorder",
-   "published": "2026-11-23T07:33:55+00:00",
-   "summary": "Baluchistan Wheels Ltd has signed an agreement with Reon Energy Ltd for the supply and installation of a 1 megawatt-peak (MWp) solar photovoltaic system at its plant in Hub, Balochistan. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Monday. “This is to inform that Balu…",
-   "image": "https://i.brecorder.com/large/2026/11/2312324644c8fe5.webp",
-   "topics": [
-    "Energy & power",
-    "Economy"
-   ],
-   "relevant": false,
    "domestic": true
   },
   {
@@ -169,19 +288,6 @@
    "domestic": true
   },
   {
-   "title": "Short-term inflation reaches 10.41pc on costly flour",
-   "url": "https://www.dawn.com/news/2045919/short-term-inflation-reaches-1041pc-on-costly-flour",
-   "source": "Dawn",
-   "published": "2026-11-20T13:04:53+00:00",
-   "summary": "ISLAMABAD: Short-term inflation was recorded at 10.41 per cent year-on-year in the week ending on Nov 19, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index, comprising 51 items, whose prices are collected from 50 markets in 17 citie…",
-   "image": "https://i.dawn.com/large/2026/11/20175045683436a.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Iranian Rial edges higher against Dollar, Saudi Riyal and Pakistani Rupee",
    "url": "https://arynews.tv/iranian-rial-edges-higher-against-dollar-saudi-riyal-pakistani-rupee",
    "source": "ARY News",
@@ -193,6 +299,19 @@
    ],
    "relevant": false,
    "domestic": true
+  },
+  {
+   "title": "PM Shehbaz vows no cap on homes for poor, sets Rs1,000bn disbursement target under Apna Ghar scheme",
+   "url": "https://www.dawn.com/news/2046567/pm-shehbaz-vows-no-cap-on-homes-for-poor-sets-rs1000bn-disbursement-target-under-apna-ghar-scheme",
+   "source": "Dawn",
+   "published": "2026-11-23T16:15:34+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Monday set a target of Rs1,000 billion in disbursements under the Prime Minister Apna Ghar Programme over the next six months. He declared that there was no limit on the number of homes the government would build for the poor, vowing to construct millions if needed. Addressing a ceremon…",
+   "image": "https://i.dawn.com/large/2026/11/23204359547fdef.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "PSX: KSE-100 settles on a flat note amid profit-taking",
@@ -214,19 +333,6 @@
    "published": "2026-11-23T12:02:04+00:00",
    "summary": "Sri Lankan shares closed lower on Monday, dragged down by healthcare and real estate stocks, extending losses after last week’s surprise interest-rate hike. Data released after the close showed consumer inflation accelerated in October. The CSE All Share index settled down 0.6% at 21,242.52, falling for a second straig…",
    "image": "https://i.brecorder.com/large/2026/04/021805391cb8594.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Iran says it will use all its tools to confront US naval blockade",
-   "url": "https://www.brecorder.com/news/40450349/iran-says-it-will-use-all-its-tools-to-confront-us-naval-blockade",
-   "source": "Business Recorder",
-   "published": "2026-11-23T10:51:36+00:00",
-   "summary": "DUBAI: Iran will use all its tools to confront the US naval blockade, Iran’s Foreign Ministry spokesperson Esmaeil Baghaei said in a weekly news conference on Monday. The US blockade on Iran-related oil exports was imposed on April 13, lifted in June after Washington reached a draft understanding with Tehran, then rest…",
-   "image": "https://i.brecorder.com/large/2026/11/03031035d5dcde6.webp",
    "topics": [
     "Economy"
    ],
@@ -481,19 +587,6 @@
    "domestic": false
   },
   {
-   "title": "SNB closely watching for second-round inflation effects, vice chairman tells paper",
-   "url": "https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper",
-   "source": "Business Recorder",
-   "published": "2026-11-22T08:50:36+00:00",
-   "summary": "ZURICH: The Swiss National Bank is paying close attention to potential second-round effects from accelerating inflation ahead of its next monetary policy ​decision, SNB Vice Chairman Antoine Martin said in comments published ‌on Sunday. In an interview with Swiss newspaper Le Matin Dimanche, Martin said inflation had c…",
-   "image": "https://i.brecorder.com/large/2026/03/02120136e86a3d8.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Easing oil prices fail to lift PSX",
    "url": "https://tribune.com.pk/story/2641579/easing-oil-prices-fail-to-lift-psx",
    "source": "The Express Tribune",
@@ -572,19 +665,6 @@
    "domestic": false
   },
   {
-   "title": "Senate panel’s intervention saves Rs120bn in unnecessary govt spending under remittance initiative: panel chairman",
-   "url": "https://www.dawn.com/news/2045865/senate-panels-intervention-saves-rs120bn-in-unnecessary-govt-spending-under-remittance-initiative-panel-chairman",
-   "source": "Dawn",
-   "published": "2026-11-20T04:22:53+00:00",
-   "summary": "https://www.dawn.com/news/2045786/senate-panels-intervention-saves-rs120bn",
-   "image": "https://i.dawn.com/large/2022/06/62adeeb0cb102.png",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Minister reaffirms BRI commitment at Hong Kong summit",
    "url": "https://tribune.com.pk/story/2628622/minister-reaffirms-bri-commitment-at-hong-kong-summit-1",
    "source": "The Express Tribune",
@@ -595,6 +675,19 @@
     "Construction & projects"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "EU says efficiency measures saved €120 billion in gas, oil import costs since Ukraine invasion",
+   "url": "https://arynews.tv/eu-says-efficiency-measures-saved-e120-billion-in-gas-oil-import-costs-since-ukraine-invasion",
+   "source": "ARY News",
+   "published": null,
+   "summary": "EU says efficiency measures saved €120 billion in gas, oil import costs since Ukraine invasion",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/US-port-of-Ingleside.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -669,32 +762,6 @@
    "published": null,
    "summary": "SBP injects over Rs 13.5 trillion to maintain liquidity in the market",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/State-Bank-of-Pakistan.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Thar coal electricity benefiting entire Pakistan, says Sharjeel Memon",
-   "url": "https://arynews.tv/thar-coal-electricity-benefiting-entire-pakistan-sharjeel-memon",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Thar coal electricity benefiting entire Pakistan, says Sharjeel Memon",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Sharjeel-Memon-Sindh-Thar-Coal.jpg",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Dollar near 19-month high, set for 4th weekly gain",
-   "url": "https://arynews.tv/dollar-near-19-month-high-set-for-4th-weekly-gain",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Dollar near 19-month high, set for 4th weekly gain",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/dollar-us.jpg",
    "topics": [
     "Economy"
    ],
