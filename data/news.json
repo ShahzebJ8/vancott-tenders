@@ -1,22 +1,22 @@
 {
- "generated": "2026-11-25T04:49:42+00:00",
- "count": 39,
- "relevant_count": 14,
- "domestic_count": 12,
+ "generated": "2026-11-25T15:19:33+00:00",
+ "count": 42,
+ "relevant_count": 13,
+ "domestic_count": 9,
  "sources": {
-  "Dawn": "ok (15)",
-  "Business Recorder": "ok (12)",
-  "The Express Tribune": "ok (6)",
-  "ARY News": "ok (4)"
+  "Dawn": "ok (14)",
+  "Business Recorder": "ok (11)",
+  "The Express Tribune": "ok (7)",
+  "ARY News": "ok (5)"
  },
  "stories": [
   {
-   "title": "Abhi Bank begins trading on PSX",
-   "url": "https://www.dawn.com/news/2046861/abhi-bank-begins-trading-on-psx",
-   "source": "Dawn",
-   "published": "2026-11-25T01:45:40+00:00",
-   "summary": "KARACHI: Abhi Micro­­finance Bank (AMB) commenced trading on the Pakistan Stock Exchange (PSX) on Tuesday. The listing followed the bank’s initial public offering (IPO) of 132 million ordinary shares, with 75pc allocated to institutional investors through book building and 25pc to the general public. The book-building …",
-   "image": "https://i.dawn.com/large/2026/11/250924573eb8731.webp",
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40450690/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-25T14:09:19+00:00",
+   "summary": "The Pakistani rupee strengthened against the US dollar in the inter-bank market on Wednesday. The local unit closed the day at 276.46, a gain of Re0.01 against the greenback. On Tuesday , the local unit closed at 276.47. Internationally, the US dollar took a breather on Wednesday ahead of inflation and growth data, the…",
+   "image": "https://i.brecorder.com/large/2026/11/250802509f51c20.jpg",
    "topics": [
     "Economy"
    ],
@@ -24,25 +24,12 @@
    "domestic": true
   },
   {
-   "title": "FBR introduces faceless appeals mechanism for income tax disputes",
-   "url": "https://www.brecorder.com/news/40450586/fbr-introduces-faceless-appeals-mechanism-for-income-tax-disputes",
-   "source": "Business Recorder",
-   "published": "2026-11-24T23:45:58+00:00",
-   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has formally introduced a comprehensive faceless appeals mechanism for income tax disputes, under which appeals will be electronically allocated to Commissioners (Appeals) whose identities will remain concealed from taxpayers, their representatives and tax officials. Throug…",
-   "image": "https://i.brecorder.com/large/2025/12/310118429a01896.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Romanian wheat shipment for Punjab arrives at KPT",
-   "url": "https://www.brecorder.com/news/40450588/romanian-wheat-shipment-for-punjab-arrives-at-kpt",
-   "source": "Business Recorder",
-   "published": "2026-11-24T23:45:58+00:00",
-   "summary": "ISLAMABAD: The bulk carrier MV Alex has arrived at Port Qasim, carrying 54,983 metric tonnes of Romanian wheat for Punjab. The delivery brings Pakistan’s imports of Romanian wheat to 273,603 metric tonnes across five shipments, helping the Trading Corporation of Pakistan (TCP) supply a staple food to Punjab, Khyber Pak…",
-   "image": "https://i.brecorder.com/large/2024/07/668d92fda9346.jpg",
+   "title": "Abhi Bank begins trading on PSX",
+   "url": "https://www.dawn.com/news/2046861/abhi-bank-begins-trading-on-psx",
+   "source": "Dawn",
+   "published": "2026-11-25T01:45:40+00:00",
+   "summary": "KARACHI: Abhi Micro­­finance Bank (AMB) commenced trading on the Pakistan Stock Exchange (PSX) on Tuesday. The listing followed the bank’s initial public offering (IPO) of 132 million ordinary shares, with 75pc allocated to institutional investors through book building and 25pc to the general public. The book-building …",
+   "image": "https://i.dawn.com/large/2026/11/250924573eb8731.webp",
    "topics": [
     "Economy"
    ],
@@ -64,38 +51,12 @@
    "domestic": true
   },
   {
-   "title": "Rupee registers gain against US dollar",
-   "url": "https://www.brecorder.com/news/40450517/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-24T14:02:58+00:00",
-   "summary": "The Pakistani rupee strengthened against the US dollar, appreciating 0.01% in the inter-bank market on Tuesday. The local unit closed the day at 276.47, a gain of Re0.03 against the greenback. On Monday , the local unit closed at 276.50. Internationally, the US dollar hovered near a 20-month high on Tuesday, after Jens…",
-   "image": "https://i.brecorder.com/large/2026/11/200751079869f8d.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
    "title": "Sales tax zones being established in Karachi, Lahore, Islamabad and Multan, PM told",
    "url": "https://www.dawn.com/news/2046777/sales-tax-zones-being-established-in-karachi-lahore-islamabad-and-multan-pm-told",
    "source": "Dawn",
    "published": "2026-11-24T12:40:44+00:00",
    "summary": "Prime Minister Shehbaz Sharif was informed on Tuesday that separate sales tax zones were being established in the country’s four major taxpayer units — Karachi, Lahore, Islamabad and Multan — to improve collection. According to a statement from the Prime Minister’s Office (PMO), the development was shared during a week…",
    "image": "https://i.dawn.com/large/2026/11/24172437bf8392a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "FBR to set up sales tax zones in Karachi, Lahore, Islamabad, Multan",
-   "url": "https://tribune.com.pk/story/2642109/fbr-to-set-up-sales-tax-zones-in-karachi-lahore-islamabad-multan",
-   "source": "The Express Tribune",
-   "published": "2026-11-24T10:00:55+00:00",
-   "summary": "Tax authority has uncovered Rs24.4b in irregularities during an audit of oil marketing companies’ bonded warehouses",
-   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -156,17 +117,148 @@
    "domestic": true
   },
   {
-   "title": "Textile exports rise 6.35pc in July-October",
-   "url": "https://www.dawn.com/news/2046182/textile-exports-rise-635pc-in-july-october",
-   "source": "Dawn",
-   "published": "2026-11-22T02:16:06+00:00",
-   "summary": "ISLAMABAD: Pakistan’s textile and clothing exports grew by 6.35 per cent to $6.797 billion in July-October 2026–27, from $6.391bn in the corresponding period last year. The modest rise in export proceeds was attributed to elevated input costs, which eroded exporters’ competitiveness, and external shocks that disrupted …",
-   "image": "https://i.dawn.com/large/2021/12/61ac3f593f99f.jpg",
+   "title": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
+   "url": "https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities",
+   "source": "ARY News",
+   "published": null,
+   "summary": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/11/FBR-clarifies-criteria.jpg.jpeg",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+   "url": "https://www.brecorder.com/news/40450710/us-to-cap-india-tariff-at-17-if-trade-deal-is-reached-ustr-says",
+   "source": "Business Recorder",
+   "published": "2026-11-25T14:37:34+00:00",
+   "summary": "The US will cap the tariff imposed on Indian imports at 17% if a trade deal is struck between New Delhi and Washington, US Trade Representative Jamieson Greer said on Wednesday. If no deal is reached, the tariff on Indian goods would rise to 25%, he said. The comments came as US President Donald Trump’s administration …",
+   "image": "https://i.brecorder.com/large/2025/08/27193753adb8189.webp",
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": true
+   "domestic": false
+  },
+  {
+   "title": "Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery",
+   "url": "https://www.brecorder.com/news/40450708/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery",
+   "source": "Business Recorder",
+   "published": "2026-11-25T14:18:30+00:00",
+   "summary": "Yemen’s Houthis said on Wednesday they had attacked Saudi Arabia’s Ras Tanura oil refinery, the kingdom’s largest, which is near a major export terminal for Saudi crude. Houthi military spokesman Yahya Saree said the refinery attack caused fires. The Houthi militia, which controls much of western Yemen including the ca…",
+   "image": "https://i.brecorder.com/large/2026/11/25191816fec5c86.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Qatar LNG exports hit post-war high despite rising insurance costs",
+   "url": "https://www.brecorder.com/news/40450707/qatar-lng-exports-hit-post-war-high-despite-rising-insurance-costs",
+   "source": "Business Recorder",
+   "published": "2026-11-25T14:06:41+00:00",
+   "summary": "LONDON: Qatar’s liquefied natural gas exports are on track for their busiest month since the outbreak of the US-Iran conflict despite a sharp rise in insurance costs, with a record number of tankers loading at the Ras Laffan export terminal switching off their tracking signals. Data from analytics firm Kpler showed 36 …",
+   "image": "https://i.brecorder.com/large/2022/02/620f8fa7200e7.jpg",
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: volatility at bourse, KSE-100 sheds over 400 points",
+   "url": "https://www.brecorder.com/news/40450666/psx-volatility-at-bourse-kse-100-sheds-over-400-points",
+   "source": "Business Recorder",
+   "published": "2026-11-25T14:02:09+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) remained under pressure throughout Wednesday’s trading session, with the benchmark KSE-100 Index closing with a loss of over 400 points. The benchmark index opened on a relatively strong note, briefly climbing to an intra-day high of 178,917.91. However, selling pressure emerged soon a…",
+   "image": "https://i.brecorder.com/large/2024/10/6700772e8d50f.png",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US inflation rises further in October",
+   "url": "https://www.brecorder.com/news/40450706/us-inflation-rises-further-in-october",
+   "source": "Business Recorder",
+   "published": "2026-11-25T13:58:25+00:00",
+   "summary": "WASHINGTON: US inflation increased further in October, reinforcing expectations that the Federal Reserve could continue raising interest rates into early 2027. The Personal Consumption Expenditures Price Index rose 0.3% last month after an unrevised 0.5% gain in September, the Commerce Department’s Bureau of Economic A…",
+   "image": "https://i.brecorder.com/large/2025/10/1902204590c61e1.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
+   "url": "https://www.brecorder.com/news/40450699/iran-says-it-is-prepared-to-withstand-us-blockade-seeks-to-curb-price-rises",
+   "source": "Business Recorder",
+   "published": "2026-11-25T12:27:22+00:00",
+   "summary": "DUBAI: Iran’s first vice president said on Wednesday Tehran was not concerned about a US naval blockade as there had been a significant increase in cargo through other borders, and that the government was seeking to rein in price rises. Tehran is facing one of its worst inflation surges in decades, driven by the nearly…",
+   "image": "https://i.brecorder.com/large/2026/11/251726105465e89.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Bangladesh garment workers win wage rise after weeks of protests",
+   "url": "https://www.brecorder.com/news/40450697/bangladesh-garment-workers-win-wage-rise-after-weeks-of-protests",
+   "source": "Business Recorder",
+   "published": "2026-11-25T11:45:45+00:00",
+   "summary": "DHAKA: Bangladesh’s garment workers won a 36-percent minimum wage increase on Wednesday, officials said, after weeks of sometimes violent protests that caused hundreds of millions of dollars in business losses. The South Asian nation, the world’s second-biggest garment exporter behind China, has seen widespread demonst…",
+   "image": "https://i.brecorder.com/large/2026/11/251644546dcee51.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "China's yuan touches 3-week high but trade tension worries cap gains",
+   "url": "https://www.brecorder.com/news/40450677/chinas-yuan-touches-3-week-high-but-trade-tension-worries-cap-gains",
+   "source": "Business Recorder",
+   "published": "2026-11-25T06:37:04+00:00",
+   "summary": "SHANGHAI: The yuan briefly touched its highest level against the dollar in more than three weeks on Wednesday, helped by greenback weakness and steady seasonal demand by companies to switch the dollar into the Chinese currency. But signs of renewed trade tension between the world’s two largest economies capped further …",
+   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Australia shares resume selloff after hot CPI tempers rate cut bets",
+   "url": "https://www.brecorder.com/news/40450670/australia-shares-resume-selloff-after-hot-cpi-tempers-rate-cut-bets",
+   "source": "Business Recorder",
+   "published": "2026-11-25T05:58:53+00:00",
+   "summary": "Australian share benchmark closed lower on Wednesday after data showed inflation quickened more than expected, dimming hopes of a cut in interest rates that are at an 18-year high. The S&P/ASX 200 index fell further after the data release, closing down 0.4% at 8,692.40 points. The benchmark rose 1.8% on Tuesday after J…",
+   "image": "https://i.brecorder.com/large/2026/09/2511164607afb57.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Vietnam raises $198 million in government bond auction",
+   "url": "https://www.brecorder.com/news/40450669/vietnam-raises-198-million-in-government-bond-auction",
+   "source": "Business Recorder",
+   "published": "2026-11-25T05:55:17+00:00",
+   "summary": "HANOI: Vietnam’s State Treasury raised 5.1 trillion dong ($198 million) in its weekly government bond auction on Wednesday, up from the $82 million raised last week. The uptake was also higher, with 73% of the bonds on offer sold, compared with 28% last week, according to a Hanoi Stock Exchange filing.",
+   "image": "https://i.brecorder.com/large/2026/09/23112037274869f.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
   },
   {
    "title": "Goldman says US data center boom through 2028 will lift power and gas demand",
@@ -247,12 +339,12 @@
    "domestic": false
   },
   {
-   "title": "PSX: buying at bourse, KSE-100 gains over 1,000 points",
-   "url": "https://www.brecorder.com/news/40450484/psx-buying-at-bourse-kse-100-gains-over-1000-points",
-   "source": "Business Recorder",
-   "published": "2026-11-24T13:27:23+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) maintained positive momentum, with the benchmark KSE-100 Index gaining over 1,000 points during the trading session on Tuesday. The index opened on a positive note and initially climbed towards 179,000, hitting an intra-day high of 179,077.52. However, selling pressure emerged during t…",
-   "image": "https://i.brecorder.com/large/2026/11/2409593059e7413.jpg",
+   "title": "FoodAg 2026 generates $658m in expected business",
+   "url": "https://tribune.com.pk/story/2642153/foodag-2026-generates-658m-in-expected-business",
+   "source": "The Express Tribune",
+   "published": "2026-11-24T16:10:14+00:00",
+   "summary": "SMEDA facilitates $70m MoUs with Chinese buyers, 16 other MoUs and an export contract",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -260,68 +352,29 @@
    "domestic": false
   },
   {
-   "title": "Thai baht/US dollar steady on Tuesday",
-   "url": "https://www.brecorder.com/news/40450501/thai-bahtus-dollar-steady-on-tuesday",
-   "source": "Business Recorder",
-   "published": "2026-11-24T06:59:45+00:00",
-   "summary": "BANGKOK: The Thai baht was little changed against the US dollar on Tuesday . At 0238 GMT, the baht was 0.03% lower at 33.98 versus the dollar, after trading in a range of 33.940 to 33.998. It ended the previous session at 33.9675 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "title": "DISCOs top corruption risk list",
+   "url": "https://tribune.com.pk/story/2642146/discos-top-corruption-risk-list",
+   "source": "The Express Tribune",
+   "published": "2026-11-24T16:10:13+00:00",
+   "summary": "Assessment flags substantial risk at FBR, CDA, Passco; highlights ghost pensioners",
+   "image": null,
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Australian dollar steadies on stock rally, kiwi hits 17-year lows",
-   "url": "https://www.brecorder.com/news/40450500/australian-dollar-steadies-on-stock-rally-kiwi-hits-17-year-lows",
-   "source": "Business Recorder",
-   "published": "2026-11-24T06:57:01+00:00",
-   "summary": "SYDNEY: The Australian dollar edged higher on Tuesday after Jensen Huang’s return as Nvidia CEO ignited a sharp rally in battered technology stocks, but a stronger greenback on the back of higher US yields pushed the kiwi to lows not seen since 2009. The Aussie edged 0.1% higher to $0.6637 after rising 0.2% overnight t…",
-   "image": "https://i.brecorder.com/large/2026/04/151031358695b2c.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Copper retreats after Nvidia-fuelled rally",
-   "url": "https://www.brecorder.com/news/40450497/copper-retreats-after-nvidia-fuelled-rally",
-   "source": "Business Recorder",
-   "published": "2026-11-24T06:43:31+00:00",
-   "summary": "Copper prices eased on Tuesday , giving up some of the previous session’s gains sparked by Jensen Huang’s return as Nvidia CEO, as a firmer dollar weighed on industrial metals. The benchmark three-month copper on the London Metal Exchange fell 2.28% to $12,205 a metric ton by 0330 GMT, after rising as much as 5.3% on M…",
-   "image": "https://i.brecorder.com/large/2024/07/05165421e123bea.gif",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "China's yuan hits three-week high as firm fixing offsets dollar strength",
-   "url": "https://www.brecorder.com/news/40450491/chinas-yuan-hits-three-week-high-as-firm-fixing-offsets-dollar-strength",
-   "source": "Business Recorder",
-   "published": "2026-11-24T06:27:59+00:00",
-   "summary": "SHANGHAI: The yuan firmed against the dollar to a three-week high on Tuesday, underpinned by a strong central bank fixing and corporate demand for the Chinese currency, even as the dollar hovered near a 20-month high. Spot yuan opened at 6.6640 per dollar and was last trading at 6.6611 as of 0337 GMT, 56 pips firmer th…",
-   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Philippines raises $314 million from T-bond offer",
-   "url": "https://www.brecorder.com/news/40450487/philippines-raises-314-million-from-t-bond-offer",
-   "source": "Business Recorder",
-   "published": "2026-11-24T06:00:29+00:00",
-   "summary": "MANILA: Following are results of the Philippine Bureau of the Treasury’s auction of 2029 and 2044 T-bonds on Tuesday: Awards 10 billion pesos offer of reissued 2029 T-bonds at an average rate of 7.294%. Awards 10 billion pesos offer of reissued 2044 T-bonds at an average rate of 7.910%. Tenders total 62.769 billion pes…",
-   "image": "https://i.brecorder.com/large/2026/06/22103310917a0a3.webp",
-   "topics": [
-    "Procurement"
+    "Budget & spending"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Gold inches up as global prices face pressure",
+   "url": "https://tribune.com.pk/story/2642148/gold-inches-up-as-global-prices-face-pressure",
+   "source": "The Express Tribune",
+   "published": "2026-11-24T16:10:13+00:00",
+   "summary": "Gains Rs1,300 despite 2% international drop; rupee inches up",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -430,19 +483,6 @@
    "domestic": false
   },
   {
-   "title": "Easing oil prices fail to lift PSX",
-   "url": "https://tribune.com.pk/story/2641579/easing-oil-prices-fail-to-lift-psx",
-   "source": "The Express Tribune",
-   "published": "2026-11-21T16:04:40+00:00",
-   "summary": "KSE-100 ends lower amid profit-taking, political uncertainty",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "Value addition urged in fisheries sector",
    "url": "https://tribune.com.pk/story/2641574/value-addition-urged-in-fisheries-sector",
    "source": "The Express Tribune",
@@ -469,6 +509,32 @@
    "domestic": false
   },
   {
+   "title": "Pakistan, Qatar eye partnership to unlock livestock, dairy and export potential",
+   "url": "https://arynews.tv/pakistan-qatar-eye-partnership-to-unlock-livestock-dairy-and-export-potential",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan, Qatar eye partnership to unlock livestock, dairy and export potential",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/livestock-pakistan-reuters.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stock closes lower as KSE-100 index sheds 421 points",
+   "url": "https://arynews.tv/psx-stock-closes-lower-as-kse-100-index-sheds-421-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stock closes lower as KSE-100 index sheds 421 points",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Stock-1.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
    "title": "Pakistan, Brazil set sights on unlocking billion-dollar agricultural trade and investment opportunities",
    "url": "https://arynews.tv/pakistan-brazil-set-sights-on-unlocking-billion-dollar-agricultural-trade",
    "source": "ARY News",
@@ -488,32 +554,6 @@
    "published": null,
    "summary": "EU says efficiency measures saved €120 billion in gas, oil import costs since Ukraine invasion",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/US-port-of-Ingleside.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PSX: Stock close higher as KSE-100 index gains 91 Points",
-   "url": "https://arynews.tv/psx-stock-close-higher-as-kse-100-index-gains-91-points",
-   "source": "ARY News",
-   "published": null,
-   "summary": "PSX: Stock close higher as KSE-100 index gains 91 Points",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Stock-1.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan moves to import additional wheat to stabilise flour prices",
-   "url": "https://arynews.tv/pakistan-moves-to-import-additional-wheat-to-stabilise-flour-prices",
-   "source": "ARY News",
-   "published": null,
-   "summary": "Pakistan moves to import additional wheat to stabilise flour prices",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/wheat.jpg",
    "topics": [
     "Economy"
    ],
