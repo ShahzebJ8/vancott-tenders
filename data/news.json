@@ -1,15 +1,28 @@
 {
- "generated": "2026-11-25T15:19:33+00:00",
- "count": 42,
+ "generated": "2026-11-25T23:47:40+00:00",
+ "count": 43,
  "relevant_count": 13,
- "domestic_count": 9,
+ "domestic_count": 10,
  "sources": {
   "Dawn": "ok (14)",
   "Business Recorder": "ok (11)",
-  "The Express Tribune": "ok (7)",
-  "ARY News": "ok (5)"
+  "The Express Tribune": "ok (6)",
+  "ARY News": "ok (4)"
  },
  "stories": [
+  {
+   "title": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
+   "url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
+   "source": "Dawn",
+   "published": "2026-11-25T20:51:29+00:00",
+   "summary": "Bangladesh Parliament Speaker Hafizuddin Ahmad on Wednesday met with President Asif Ali Zardari and Prime Minister Shehbaz Sharif in Islamabad, where the Pakistani leaders reaffirmed that Islamabad attached “great importance” to its ties with Dhaka. The parliament speaker, accompanied by a parliamentary delegation, arr…",
+   "image": "https://i.dawn.com/large/2026/11/260134026ba6840.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Rupee records gain against US dollar",
    "url": "https://www.brecorder.com/news/40450690/intra-day-update-rupee-records-gain-against-us-dollar",
@@ -128,6 +141,58 @@
    ],
    "relevant": true,
    "domestic": true
+  },
+  {
+   "title": "India-UK investment treaty talks stall, pact unlikely soon, officials say",
+   "url": "https://www.brecorder.com/news/40450717/india-uk-investment-treaty-talks-stall-pact-unlikely-soon-officials-say",
+   "source": "Business Recorder",
+   "published": "2026-11-25T16:29:22+00:00",
+   "summary": "NEW DELHI: India does not plan to aggressively pursue a bilateral investment treaty with Britain in the near term, as differences over taxation and access to international arbitration continue to stall negotiations, two senior government officials said. India’s reluctance comes as it seeks to negotiate investment treat…",
+   "image": "https://i.brecorder.com/large/2026/02/200110579c3f205.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "India's RBI sees broad food inflation pressures; was net dollar buyer in Sept, bulletin shows",
+   "url": "https://www.brecorder.com/news/40450716/indias-rbi-sees-broad-food-inflation-pressures-was-net-dollar-buyer-in-sept-bulletin-shows",
+   "source": "Business Recorder",
+   "published": "2026-11-25T16:23:11+00:00",
+   "summary": "MUMBAI: Food inflation pressures in India remain broad-based, the Reserve Bank of India said in its monthly bulletin, days before a review of monetary policy where it is widely expected to raise rates for a second consecutive time. Inflation rose above the central bank’s 6% target in October, driven by higher food pric…",
+   "image": "https://i.brecorder.com/large/2026/07/2321221670080a7.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "US must respect 15% tariff ceiling for EU, European Commission says",
+   "url": "https://www.brecorder.com/news/40450714/us-must-respect-15-tariff-ceiling-for-eu-european-commission-says",
+   "source": "Business Recorder",
+   "published": "2026-11-25T15:44:43+00:00",
+   "summary": "BRUSSELS: The European Commission expects any measures imposed by the United States to respect the 15% tariff ceiling for EU goods imports, a Commission spokesperson said on Wednesday after the Trump administration’s proposed new Section 301 tariffs. “Under the Joint Statement, the 15% all-inclusive ceiling applies to …",
+   "image": "https://i.brecorder.com/large/2025/05/261209066b121fe.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "AI stocks slide on fears over infrastructure buildout costs",
+   "url": "https://www.brecorder.com/news/40450712/ai-stocks-slide-on-fears-over-infrastructure-buildout-costs",
+   "source": "Business Recorder",
+   "published": "2026-11-25T15:32:47+00:00",
+   "summary": "AI-linked stocks extended their slide in premarket trading on Wednesday, with chipmakers, server makers and data center operators all falling as investors weighed the soaring cost of the AI infrastructure buildout against its returns. Investors have set a high bar for AI-linked companies, punishing shortfalls and offer…",
+   "image": "https://i.brecorder.com/large/2026/11/252032361966425.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
   },
   {
    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
@@ -326,19 +391,6 @@
    "domestic": false
   },
   {
-   "title": "Nasdaq, S&P 500 ease as Nvidia-driven AI rally fizzles",
-   "url": "https://www.brecorder.com/news/40450534/nasdaq-sampp-500-ease-as-nvidia-driven-ai-rally-fizzles",
-   "source": "Business Recorder",
-   "published": "2026-11-24T16:16:56+00:00",
-   "summary": "The Nasdaq and the S&P 500 fell on Tuesday as investors retreated from AI-linked shares after an Nvidia-fueled rally, with attention turning to this week’s inflation data for a definitive clue on the Federal Reserve’s policy path ahead of its December meeting. Sentiment was further dented by a Wall Street Journal repor…",
-   "image": "https://i.brecorder.com/large/2021/11/6183e85501f42.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "FoodAg 2026 generates $658m in expected business",
    "url": "https://tribune.com.pk/story/2642153/foodag-2026-generates-658m-in-expected-business",
    "source": "The Express Tribune",
@@ -349,19 +401,6 @@
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "DISCOs top corruption risk list",
-   "url": "https://tribune.com.pk/story/2642146/discos-top-corruption-risk-list",
-   "source": "The Express Tribune",
-   "published": "2026-11-24T16:10:13+00:00",
-   "summary": "Assessment flags substantial risk at FBR, CDA, Passco; highlights ghost pensioners",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -470,19 +509,6 @@
    "domestic": false
   },
   {
-   "title": "Big dams, ‘bigger liabilities’",
-   "url": "https://www.dawn.com/news/2046472/big-dams-bigger-liabilities",
-   "source": "Dawn",
-   "published": "2026-11-23T00:54:21+00:00",
-   "summary": "Pakistan has a remarkable ‘love affair’ with hydropower, one that has survived cost overruns, construction failures, prolonged shutdowns and the risks of building concrete behemoths in some of the world’s most hazardous terrain. The latest disaster at the Tarbela-5 construction site raises a fundamental question: why d…",
-   "image": "https://i.dawn.com/large/2025/07/687d75482107d.gif",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
    "title": "Value addition urged in fisheries sector",
    "url": "https://tribune.com.pk/story/2641574/value-addition-urged-in-fisheries-sector",
    "source": "The Express Tribune",
@@ -541,19 +567,6 @@
    "published": null,
    "summary": "Pakistan, Brazil set sights on unlocking billion-dollar agricultural trade and investment opportunities",
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Pakistan-Brazil.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "EU says efficiency measures saved €120 billion in gas, oil import costs since Ukraine invasion",
-   "url": "https://arynews.tv/eu-says-efficiency-measures-saved-e120-billion-in-gas-oil-import-costs-since-ukraine-invasion",
-   "source": "ARY News",
-   "published": null,
-   "summary": "EU says efficiency measures saved €120 billion in gas, oil import costs since Ukraine invasion",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/US-port-of-Ingleside.jpg",
    "topics": [
     "Economy"
    ],

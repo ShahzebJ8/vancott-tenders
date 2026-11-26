@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T15:19:27+00:00",
+ "generated": "2026-11-25T23:47:35+00:00",
  "count": 1001,
  "with_value": 952,
  "with_winner": 356,
@@ -19048,6 +19048,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005491",
+   "tender_no": "TS0000016768E",
+   "reference": "Ref# : P170901",
+   "title": "Expression of Interest for Fast-Track Adoption – 100,000 Electric Bikes (EV 2-Wheelers) under NEV Policy 2025–30 – PAVE Programme Vehicles",
+   "organisation": "Engineering Development Board (EDB) Engineering Development Board (EDB) Islamabad - Pakistan",
+   "bid_count": 14,
+   "lowest": [
+    "10 Engineering Development Board (EDB)"
+   ],
+   "sector": null,
+   "evaluation_type": "PQ Evaluation",
+   "advertised": "2026-11-25",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005491",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005489",
    "tender_no": "TS0000014810E",
@@ -58026,26 +58046,6 @@
    "city": null,
    "province": null,
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003396",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003395",
-   "tender_no": "TS0000009835E",
-   "reference": "PRD(L)/WAPDA/020(2026-27)",
-   "title": "WAPDA HOSPITAL LAHORE PRD NO.020 Health/Medicines",
-   "organisation": "Water and Power Development Authority (WAPDA) WAPDA Lahore - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "NA Water and Power Development Authority (WAPDA)"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-10",
-   "city": "Lahore",
-   "province": "Punjab",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003395",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
