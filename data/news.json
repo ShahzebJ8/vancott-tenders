@@ -1,15 +1,133 @@
 {
- "generated": "2026-11-26T17:34:13+00:00",
- "count": 45,
- "relevant_count": 10,
- "domestic_count": 13,
+ "generated": "2026-11-27T01:12:19+00:00",
+ "count": 48,
+ "relevant_count": 11,
+ "domestic_count": 21,
  "sources": {
   "Dawn": "ok (12)",
   "Business Recorder": "ok (15)",
   "The Express Tribune": "ok (7)",
-  "ARY News": "ok (6)"
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "PD proposes ‘FFCA’ mechanism to cap power tariff hike to Re0.83/unit",
+   "url": "https://www.brecorder.com/news/40450967/pd-proposes-ffca-mechanism-to-cap-power-tariff-hike-to-re083unit",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "ISLAMABAD: The Power Division has proposed a forward-looking Fuel Cost Adjustment (FFCA) mechanism to limit the increase in electricity tariffs to approximately Re0.83 per unit, inclusive of taxes, for October-December 2026, aiming to provide consumers and businesses with greater tariff predictability and protection ag…",
+   "image": "https://i.brecorder.com/large/2025/02/2103123160a55ce.jpg",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Industrial consumers back FCA cap, raise implementation concerns",
+   "url": "https://www.brecorder.com/news/40450968/industrial-consumers-back-fca-cap-raise-implementation-concerns",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "ISLAMABAD: The country’s industrial consumers have welcomed the government’s proposed three-month Fuel Cost Adjustment (FCA) mechanism to cap the electricity tariff increase at Rs0.83 per unit, but expressed reservations over its implementation, urging the government to ensure that consumers are informed of the actual …",
+   "image": "https://i.brecorder.com/large/2026/07/04021017091229f.webp",
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Govt mulls additional 0.5MT of wheat import",
+   "url": "https://www.brecorder.com/news/40450969/govt-mulls-additional-05mt-of-wheat-import",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "ISLAMABAD: The government is considering importing an additional 500,000 tonnes of wheat, taking the total planned imports to 1.3 million tonnes to meet domestic requirements. Deputy Prime Minister and Foreign Minister (DPM/FM) Senator Mohammad Ishaq Dar chaired a meeting of the Steering Committee on Wheat Import here …",
+   "image": "https://i.brecorder.com/large/2025/11/2705573862a793e.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Loan size under PMYB & ALS raised up to Rs25m: New financing category ‘Tier 4’ introduced",
+   "url": "https://www.brecorder.com/news/40450971/loan-size-under-pmyb-amp-als-raised-up-to-rs25m-new-financing-category-tier-4-introduced",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "KARACHI: The State Bank of Pakistan (SBP) has enhanced the financing limit under the Prime Minister’s Youth Business and Agriculture Loan Scheme (PMYB & ALS) up to Rs25 million by introducing a new financing category, Tier 4, to facilitate larger financing requirements of entrepreneurs and businesses. In order to suppo…",
+   "image": "https://i.brecorder.com/large/2026/11/270353510a18057.webp",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Aurangzeb, UNDP officials discuss climate finance opportunities",
+   "url": "https://www.brecorder.com/news/40450972/aurangzeb-undp-officials-discuss-climate-finance-opportunities",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "ISLAMABAD: Pakistan and the United Nations Development Programme (UNDP) have agreed to fast-track a shortlist of investment-ready climate projects to mobilise concessional financing, climate funds and private-sector investment under the Bridge Initiative of Türkiye’s COP31 Presidency. Federal Minister for Finance and R…",
+   "image": "https://i.brecorder.com/large/2026/11/27034240adc0099.webp",
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM orders setting up of world-accredited gemstone testing labs",
+   "url": "https://www.brecorder.com/news/40450973/pm-orders-setting-up-of-world-accredited-gemstone-testing-labs",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday ordered the establishment of internationally accredited gemstone testing laboratories and overseas training for Pakistani specialists as part of a broader effort to modernise the country’s gemstone industry and boost exports. Chairing a meeting on strengthening the s…",
+   "image": "https://i.brecorder.com/large/2024/08/2018535225a3984.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Industrial inputs: FBR exempts FED on imported petroleum products, minerals",
+   "url": "https://www.brecorder.com/news/40450974/industrial-inputs-fbr-exempts-fed-on-imported-petroleum-products-minerals",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) will not charge Federal Excise Duty (FED) on the import and supply of petroleum top naphtha, white spirit and mineral turpentine oil exclusively used as industrial inputs by manufacturers as per the quota allocated to these manufacturers. The FBR has amended Federal Excise …",
+   "image": "https://i.brecorder.com/large/2025/02/24042149f2fc4e7.jpg",
+   "topics": [
+    "Budget & spending",
+    "Economy"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Privatisation of 17 entities in process: adviser",
+   "url": "https://www.brecorder.com/news/40450976/privatisation-of-17-entities-in-process-adviser",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:55+00:00",
+   "summary": "KARACHI: Adviser to the Prime Minister on Privatisation and Chairman of the Privatisation Commission Muhammad Ali said the Privatisation Commission was working on 17 transactions, including nine power distribution companies, three major airports, financial institutions and insurers such as State Life. He cited the PIA …",
+   "image": "https://i.brecorder.com/large/2026/05/15031455141bf60.webp",
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Deindustrialising too soon?",
+   "url": "https://www.brecorder.com/news/40450895/deindustrialising-too-soon",
+   "source": "Business Recorder",
+   "published": "2026-11-26T23:56:54+00:00",
+   "summary": "Pakistan may be deindustrialising before it has properly industrialised. The State Bank of Pakistan (SBP), in its annual report for FY26, raises an important concern about the direction in which the country’s economy is heading. The space has highlighted many times that manufacturinghas largely stagnated. At the same t…",
+   "image": "https://i.brecorder.com/large/2022/08/201916524769361.jpg",
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "SBP-held foreign exchange reserves rise $8mn to $21.60bn",
    "url": "https://www.brecorder.com/news/40450882/sbp-held-foreign-exchange-reserves-rise-8mn-to-2160bn",
@@ -169,19 +287,6 @@
    "domestic": true
   },
   {
-   "title": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
-   "url": "https://arynews.tv/fbr-seals-karachi-superstore-over-rs-3-27-billion-tax-irregularities",
-   "source": "ARY News",
-   "published": null,
-   "summary": "FBR seals Karachi superstore over Rs 3.27 billion tax irregularities",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2025/11/FBR-clarifies-criteria.jpg.jpeg",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
    "title": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
    "url": "https://www.brecorder.com/news/40450879/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge",
    "source": "Business Recorder",
@@ -208,19 +313,6 @@
    "domestic": false
   },
   {
-   "title": "India swaps, treasury bills signal possibility of outsized RBI rate hike next week",
-   "url": "https://www.brecorder.com/news/40450877/india-swaps-treasury-bills-signal-possibility-of-outsized-rbi-rate-hike-next-week",
-   "source": "Business Recorder",
-   "published": "2026-11-26T14:56:34+00:00",
-   "summary": "MUMBAI: India’s overnight index swap market and yields on very short-term government debt are signalling an outside chance that the Reserve Bank of India (RBI) could raise interest rates by more than the consensus 25 basis points next Friday. The central bank’s rate-setting panel is widely expected to raise rates for a…",
-   "image": "https://i.brecorder.com/large/2026/09/02171100bb6f971.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX: KSE-100 closes marginally lower after volatile trading",
    "url": "https://www.brecorder.com/news/40450830/psx-kse-100-closes-marginally-lower-after-volatile-trading",
    "source": "Business Recorder",
@@ -229,59 +321,6 @@
    "image": "https://i.brecorder.com/large/2026/03/13033704ac8b2df.webp",
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "PM Shehbaz seeks international-standard labs, training to boost Pakistan's gemstone exports",
-   "url": "https://www.brecorder.com/news/40450872/pm-shehbaz-seeks-international-standard-labs-training-to-boost-pakistans-gemstone-exports",
-   "source": "Business Recorder",
-   "published": "2026-11-26T12:47:06+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday called for comprehensive reforms in Pakistan’s gemstone sector, including the establishment of international-standard laboratories, modernisation of mining practices and professional training, to increase value addition and exports. Chairing a review meeting on the development …",
-   "image": "https://i.brecorder.com/large/2026/11/261745504a53dbb.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt moves to cap power tariff hike at Re0.83 for Oct-Dec",
-   "url": "https://www.brecorder.com/news/40450866/govt-moves-to-cap-power-tariff-hike-at-re083-for-oct-dec",
-   "source": "Business Recorder",
-   "published": "2026-11-26T11:39:11+00:00",
-   "summary": "The government has proposed capping the rise in monthly fuel cost adjustments at around Re0.83 per unit for October-December to shield consumers from surging fuel prices after the Iran-US war, the Power Division (PD) said on Thursday. In its statement, the PD said that the ongoing Iran-US war triggered a sharp increase…",
-   "image": "https://i.brecorder.com/large/2026/11/261636088322f9c.webp",
-   "topics": [
-    "Energy & power"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan's Zuma gets Ofcom nod to launch UK telecom, eSIM services",
-   "url": "https://www.brecorder.com/news/40450859/pakistans-zuma-gets-ofcom-nod-to-launch-uk-telecom-esim-services",
-   "source": "Business Recorder",
-   "published": "2026-11-26T09:30:55+00:00",
-   "summary": "Zuma Resources Ltd said on Thursday its wholly owned UK subsidiary, Zuma Global Ltd, has received regulatory clarification from British telecoms regulator Ofcom on its proposed telecommunications and international eSIM operations. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (…",
-   "image": "https://i.brecorder.com/large/2026/09/211320211637e87.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Five things to expect in 2027",
-   "url": "https://www.brecorder.com/news/40450852/five-things-to-expect-in-2027",
-   "source": "Business Recorder",
-   "published": "2026-11-26T07:56:42+00:00",
-   "summary": "PARIS: Things are set to heat up in 2027. From rising temperatures to Democratic control of the US Congress to another total solar eclipse, here are five events to look out for in the coming year. El Nino in a hotter world With an El Nino cycle among the strongest ever observed, 2027 could break new global temperature …",
-   "image": "https://i.brecorder.com/large/2026/11/261253429712788.webp",
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": false

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T17:34:08+00:00",
+ "generated": "2026-11-27T01:12:13+00:00",
  "count": 1013,
  "with_value": 962,
  "with_winner": 363,
@@ -19276,6 +19276,26 @@
   }
  ],
  "evaluations": [
+  {
+   "evaluation_no": "EVL00000005538",
+   "tender_no": "TS0000018135E",
+   "reference": "16/2026-27",
+   "title": "Renovation of Office Building, 5th Floor of NTS Building, Sector H – 8/1 Islamabad Civil Works",
+   "organisation": "Ministry of Energy (Power Division) Independent System and Market Operator (ISMO) Islamabad - Pakistan",
+   "bid_count": 9,
+   "lowest": [
+    "Builden Engineering and Construction Pvt Ltd"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-26",
+   "city": "Islamabad",
+   "province": "Islamabad",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005538",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
   {
    "evaluation_no": "EVL00000005537",
    "tender_no": "TS0000012847E",
@@ -58243,24 +58263,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003434",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003433",
-   "tender_no": "TS0000011768E",
-   "reference": "Lahore",
-   "title": "IFB for Provision of Janitorial Services For NHA Regional Office Building at Lahore Services Ministry of Communications",
-   "organisation": "Ministry of Communications National Highway Authority (NHA) Islamabad - Pakistan",
-   "bid_count": 7,
-   "lowest": [],
-   "sector": null,
-   "evaluation_type": "Technical Evaluation",
-   "advertised": "2026-09-11",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003433",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
