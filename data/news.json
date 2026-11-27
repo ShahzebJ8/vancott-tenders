@@ -1,22 +1,127 @@
 {
- "generated": "2026-11-27T09:59:32+00:00",
- "count": 38,
+ "generated": "2026-11-27T19:23:23+00:00",
+ "count": 47,
  "relevant_count": 8,
- "domestic_count": 12,
+ "domestic_count": 16,
  "sources": {
-  "Dawn": "ok (12)",
-  "Business Recorder": "ok (17)",
-  "The Express Tribune": "ok (6)",
-  "ARY News": "error: RuntimeError"
+  "Dawn": "ok (13)",
+  "Business Recorder": "ok (16)",
+  "The Express Tribune": "ok (5)",
+  "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "Govt increases wheat import ceiling to curb price increases",
+   "url": "https://www.dawn.com/news/2047509/govt-increases-wheat-import-ceiling-to-curb-price-increases",
+   "source": "Dawn",
+   "published": "2026-11-27T18:51:24+00:00",
+   "summary": "ISLAMABAD: The government on Friday decided to increase the wheat import ceiling by 150 per cent to 2.5 million tonnes to check continuously rising prices of wheat and wheat flour in the market. The decision was taken at a hurriedly called and virtually conducted meeting of the Economic Coordination Committee (ECC) of …",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Man rescued alive 2 days after building collapse in Karachi’s Baloch Colony",
+   "url": "https://www.brecorder.com/news/40451021/man-rescued-alive-2-days-after-building-collapse-in-karachis-baloch-colony",
+   "source": "Business Recorder",
+   "published": "2026-11-27T16:12:08+00:00",
+   "summary": "A man trapped for two days beneath the rubble of a collapsed six-storey under-construction building near Karachi’s Baloch Colony was rescued alive on Friday. During an ongoing search operation in Sector C of the collapse site, rescue personnel located and safely extricated the trapped victim. The survivor was identifie…",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "SBP issues Rs200 commemorative coin honouring Mata Sahib Hasi Devi",
+   "url": "https://www.brecorder.com/news/40451041/sbp-issues-rs200-commemorative-coin-honouring-mata-sahib-hasi-devi",
+   "source": "Business Recorder",
+   "published": "2026-11-27T15:42:47+00:00",
+   "summary": "The State Bank of Pakistan (SBP) issued on Friday a Rs200 commemorative coin to honour the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, recognising her religious and cultural significance. “To commemorate the religious and cultural significance of 200th Birth Anniversary of Pujya Mata Sahib Hasi Devi with due…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "The cost of keeping the ovens on",
+   "url": "https://www.brecorder.com/news/40450883/the-cost-of-keeping-the-ovens-on",
+   "source": "Business Recorder",
+   "published": "2026-11-27T15:13:31+00:00",
+   "summary": "My grandmother, Bakhtawer, founded Cillie’s Bakery in Karachi in 1970. Instead of deciding which cake to make next, she spends much of her day working out how to keep the ovens running. She has to ration petrol and kerosene for the generators, plan baking around electricity and gas shortages and sometimes arrange cylin…",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Rupee records gain against US dollar",
+   "url": "https://www.brecorder.com/news/40451026/intra-day-update-rupee-records-gain-against-us-dollar",
+   "source": "Business Recorder",
+   "published": "2026-11-27T14:49:29+00:00",
+   "summary": "The Pakistani rupee gained against the US dollar, appreciating 0.01% in the inter-bank market on Friday. The local unit closed the day at 276.42, a gain of Re0.03 against the greenback. On Thursday , the local unit closed at 276.45. Globally, the US dollar hovered below a 22-month peak in holiday-thinned trading on Fri…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "SBP issues Rs200 commemorative coin to mark Mata Sahib Hasi Devi’s 200th birth anniversary",
+   "url": "https://www.dawn.com/news/2047495/sbp-issues-rs200-commemorative-coin-to-mark-mata-sahib-hasi-devis-200th-birth-anniversary",
+   "source": "Dawn",
+   "published": "2026-11-27T14:25:58+00:00",
+   "summary": "The State Bank of Pakistan (SBP) has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, the bank said in a statement on Friday. Mata Sahib Hasi Devi was the fifth head of the historic Shadani Darbar located in the Hayat Pitafi area of Sukkur division’s Ghotki district. …",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Short-term inflation clocks in at 9.49pc driven by wheat flour prices",
+   "url": "https://www.dawn.com/news/2047490/short-term-inflation-clocks-in-at-949pc-driven-by-wheat-flour-prices",
+   "source": "Dawn",
+   "published": "2026-11-27T13:31:10+00:00",
+   "summary": "ISLAMABAD: Short-term inflation was recorded at 9.49 per cent year-on-year in the week ending on Nov 26, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index comprises 51 items, with prices collected from 50 markets in 17 cities, and i…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Ismail Industries expands solar capacity to 18 MW with Hub project",
+   "url": "https://www.brecorder.com/news/40451028/ismail-industries-expands-solar-capacity-to-18-mw-with-hub-project",
+   "source": "Business Recorder",
+   "published": "2026-11-27T11:44:17+00:00",
+   "summary": "Ismail Industries Ltd, a Pakistani confectioner, is developing a 5.6-megawatt solar park at its Hub facility, integrated with a 10-megawatt-hour battery energy storage system. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Friday. “The project incorporates Sungrow’s adv…",
+   "image": null,
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "PM Shehbaz orders gemstone labs upgrade",
    "url": "https://www.dawn.com/news/2047350/pm-shehbaz-orders-gemstone-labs-upgrade",
    "source": "Dawn",
    "published": "2026-11-27T00:48:34+00:00",
    "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Thursday directed authorities to accelerate reforms in Pakistan’s gemstone sector, emphasising the need to establish international-standard laboratories, introduce modern mining techniques and develop a complete value chain to boost exports. Presiding over a review meeting, t…",
-   "image": "https://i.dawn.com/large/2024/08/271849374f5e346.png",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -29,7 +134,7 @@
    "source": "Dawn",
    "published": "2026-11-27T00:48:34+00:00",
    "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) on Thursday introduced a quota allocation mechanism for eligible manufacturers to import and locally procure white spirit and solvent oil without paying federal excise duty (FED). The new mechanism also provides for monitoring the consumption of these products, adjusting du…",
-   "image": "https://i.dawn.com/large/2026/08/01073835a15dc31.webp",
+   "image": null,
    "topics": [
     "Budget & spending",
     "Procurement",
@@ -44,7 +149,7 @@
    "source": "Dawn",
    "published": "2026-11-27T00:48:34+00:00",
    "summary": "KARACHI: The Pakis­tan Stock Exchange (PSX) remained sluggish on Thursday, extending overnight bearish sentiment despite opening positively. Investors exercised caution amid mounting political tensions and a lack of positive triggers, fuelling uncertainty over the economic outlook. Topline Securities Ltd. said the mark…",
-   "image": "https://i.dawn.com/large/2024/11/24092253422b00e.jpg",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -57,20 +162,7 @@
    "source": "Business Recorder",
    "published": "2026-11-26T16:34:34+00:00",
    "summary": "Foreign exchange reserves held by the State Bank of Pakistan (SBP) increased by $8 million to $21.60 billion during the week ended November 20, 2026, the central bank said on Thursday. The country’s total liquid foreign reserves stood at $26.75 billion as of November 20, 2026. According to the SBP’s latest data, net fo…",
-   "image": "https://i.brecorder.com/large/2026/11/19211206b2a83aa.jpg",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Rupee records gain against US dollar",
-   "url": "https://www.brecorder.com/news/40450863/intra-day-update-rupee-records-gain-against-us-dollar",
-   "source": "Business Recorder",
-   "published": "2026-11-26T14:04:17+00:00",
-   "summary": "The Pakistani rupee strengthened against the US dollar in the inter-bank market on Thursday. The local unit closed the day at 276.45, a gain of Re0.01 against the greenback. On Wednesday , the local unit closed at 276.46. Internationally, the dollar was steady in Asian trading on Thursday after dropping to a one-week l…",
-   "image": "https://i.brecorder.com/large/2026/11/26075643f76b452.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -83,7 +175,7 @@
    "source": "Dawn",
    "published": "2026-11-26T03:42:20+00:00",
    "summary": "KARACHI: Nervousn­ess gripped the Pakistan Stock Exchange (PSX) on Wednesday. Despite a positive opening, the benchmark KSE-100 index failed to sustain its recovery as investors took profits amid mounting regi­onal concerns and domestic political tensions, overlooking the likely appr­oval of a $1.12 billion disbu­rseme…",
-   "image": "https://i.dawn.com/large/2026/04/0118242012466bd.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -96,7 +188,7 @@
    "source": "Dawn",
    "published": "2026-11-26T01:55:28+00:00",
    "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday reiterated the government’s commitment to harnessing Pakistan’s IT export potential as a key driver of economic growth and youth employment. He stressed that attracting domestic and foreign investment into the IT and IT-enabled services sectors remained a priority, …",
-   "image": "https://i.dawn.com/large/2026/11/260743086a85b1a.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -109,7 +201,7 @@
    "source": "Dawn",
    "published": "2026-11-26T01:55:28+00:00",
    "summary": "ISLAMABAD: Pakistan’s trade deficit with seven Middle Eastern countries narrowed by 28.96 per cent to $3.747bn in the first four months of FY27 from $5.274bn in the corresponding period last year, driven by a substantial decline in imports and an increase in exports. Import contraction remained the primary driver of th…",
-   "image": "https://i.dawn.com/large/2025/12/280919536f9086b.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -122,7 +214,7 @@
    "source": "Dawn",
    "published": "2026-11-25T20:51:29+00:00",
    "summary": "Bangladesh Parliament Speaker Hafizuddin Ahmad on Wednesday met with President Asif Ali Zardari and Prime Minister Shehbaz Sharif in Islamabad, where the Pakistani leaders reaffirmed that Islamabad attached “great importance” to its ties with Dhaka. The parliament speaker, accompanied by a parliamentary delegation, arr…",
-   "image": "https://i.dawn.com/large/2026/11/260134026ba6840.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -130,52 +222,25 @@
    "domestic": true
   },
   {
-   "title": "Abhi Bank begins trading on PSX",
-   "url": "https://www.dawn.com/news/2046861/abhi-bank-begins-trading-on-psx",
-   "source": "Dawn",
-   "published": "2026-11-25T01:45:40+00:00",
-   "summary": "KARACHI: Abhi Micro­­finance Bank (AMB) commenced trading on the Pakistan Stock Exchange (PSX) on Tuesday. The listing followed the bank’s initial public offering (IPO) of 132 million ordinary shares, with 75pc allocated to institutional investors through book building and 25pc to the general public. The book-building …",
-   "image": "https://i.dawn.com/large/2026/11/250924573eb8731.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Cabinet approves deregulation of sugar sector to meet vital IMF benchmark",
-   "url": "https://www.dawn.com/news/2046808/cabinet-approves-deregulation-of-sugar-sector-to-meet-imf-benchmark",
-   "source": "Dawn",
-   "published": "2026-11-24T19:57:54+00:00",
-   "summary": "ISLAMABAD: To meet a long-postponed structural benchmark of the International Monetary Fund (IMF), the federal cabinet on Tuesday approved the deregulation of the sugar sector, an end to its export subsidies and free movement among the provinces. The cabinet approved the ‘National Policy for Deregulation of Sugar Secto…",
-   "image": "https://i.dawn.com/large/2025/10/10075229dc2553f.webp",
-   "topics": [
-    "Budget & spending",
-    "Economy"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Sales tax zones being established in Karachi, Lahore, Islamabad and Multan, PM told",
-   "url": "https://www.dawn.com/news/2046777/sales-tax-zones-being-established-in-karachi-lahore-islamabad-and-multan-pm-told",
-   "source": "Dawn",
-   "published": "2026-11-24T12:40:44+00:00",
-   "summary": "Prime Minister Shehbaz Sharif was informed on Tuesday that separate sales tax zones were being established in the country’s four major taxpayer units — Karachi, Lahore, Islamabad and Multan — to improve collection. According to a statement from the Prime Minister’s Office (PMO), the development was shared during a week…",
-   "image": "https://i.dawn.com/large/2026/11/24172437bf8392a.webp",
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "Nishat Mills downplays US tariff benefit: report",
-   "url": "https://www.brecorder.com/news/40451022/nishat-mills-downplays-us-tariff-benefit-report",
+   "title": "Makkah pact countries condemn Houthi attacks on Saudi Arabia, reaffirm collective defence",
+   "url": "https://www.brecorder.com/news/40451040/makkah-pact-countries-condemn-houthi-attacks-on-saudi-arabia-reaffirm-collective-defence",
    "source": "Business Recorder",
-   "published": "2026-11-27T09:09:42+00:00",
-   "summary": "The management of Nishat Mills Ltd (NML), one of Pakistan’s largest textile exporters, said benefits from lower US tariffs on Pakistan will be limited because most of its exports go to Europe. The company’s management said this during a corporate briefing session on Friday, according to a research note from Topline Sec…",
-   "image": "https://i.brecorder.com/large/2026/11/27140740b9389c4.jpg",
+   "published": "2026-11-27T17:30:25+00:00",
+   "summary": "Pakistan, Saudi Arabia, and Turkiye issued a strong joint condemnation of “persistent and heinous attacks” by Yemen’s Houthis targeting civilians and civilian infrastructure in the Kingdom, pledging to intensify collective defence measures to safeguard Saudi sovereignty and territorial integrity. The development came a…",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "PSX: KSE-100 falls nearly 400 points on volatile trading",
+   "url": "https://www.brecorder.com/news/40451001/psx-kse-100-falls-nearly-400-points-on-volatile-trading",
+   "source": "Business Recorder",
+   "published": "2026-11-27T16:02:30+00:00",
+   "summary": "The Pakistan Stock Exchange (PSX) observed a volatile trading session on Friday, with the benchmark KSE-100 Index closing lower after remaining under pressure for most of the day, despite a recovery towards the trading end. The market opened around the previous closing level but faced selling pressure during the mornin…",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -183,12 +248,77 @@
    "domestic": false
   },
   {
-   "title": "PSX: stocks slip lower, KSE-100 down over 300 points",
-   "url": "https://www.brecorder.com/news/40451001/psx-stocks-slip-lower-kse-100-down-over-300-points",
+   "title": "Oil on track to snap three-week losing streak over supply fears",
+   "url": "https://www.brecorder.com/news/40450986/oil-on-track-to-snap-three-week-losing-streak-over-supply-fears",
    "source": "Business Recorder",
-   "published": "2026-11-27T07:31:50+00:00",
-   "summary": "Negative sentiment prevailed at the Pakistan Stock Exchange (PSX), with the benchmark KSE-100 Index shedding over 300 points in the first half of trading on Friday. At 12pm, the benchmark index hovered at 177,743.81, down 316.87 points or 0.18%. Selling was in key sectors, including automobile assemblers, cement, comme…",
-   "image": "https://i.brecorder.com/large/2026/10/261007060efd62b.jpg",
+   "published": "2026-11-27T15:50:45+00:00",
+   "summary": "LONDON: Oil prices were set to snap a three-week losing streak on Friday, riding four sessions of gains, as attacks on tankers in the Strait of Hormuz and Saudi energy infrastructure fanned concerns over Middle East supplies. Brent crude futures edged up 3 cents to $96.60 a barrel by 1239 GMT. Brent hit its highest sin…",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+   "url": "https://www.dawn.com/news/2047462/airline-norse-atlantics-norwegian-operating-unit-declares-bankruptcy",
+   "source": "Dawn",
+   "published": "2026-11-27T13:26:27+00:00",
+   "summary": "Airline Norse Atlantic’s Norwegian operating unit has declared bankruptcy, the long-haul budget carrier said on Friday, succumbing to soaring fuel costs wrought by the war on Iran. Norse Atlantic ASA, which is listed on the Oslo Euronext Expand bourse, and other group companies are not part of the filing and are still …",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "OPEC+ set to keep oil production targets steady, sources say",
+   "url": "https://www.brecorder.com/news/40451030/opec-set-to-keep-oil-production-targets-steady-sources-say",
+   "source": "Business Recorder",
+   "published": "2026-11-27T11:57:34+00:00",
+   "summary": "MOSCOW/LONDON: OPEC+ oil producers are set to keep first-quarter 2027 output targets unchanged at Sunday’s meeting, three sources told Reuters , with uncertainty over the Iran war and disagreements over capacity estimates clouding discussions. OPEC+ includes the Organization of the Petroleum Exporting Countries and all…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PM urges easing of SME lending; use export data, cash flow as collateral",
+   "url": "https://www.brecorder.com/news/40451025/pm-urges-easing-of-sme-lending-use-export-data-cash-flow-as-collateral",
+   "source": "Business Recorder",
+   "published": "2026-11-27T10:38:13+00:00",
+   "summary": "Prime Minister Shehbaz Sharif on Friday directed banks and regulators to make it easier for small and medium enterprises (SMEs) to access credit. Chairing a meeting regarding SME financing, the prime minister directed authorities that the procedure for obtaining loans for SMEs be further simplified and that effective g…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Nishat Mills downplays US tariff benefit: report",
+   "url": "https://www.brecorder.com/news/40451022/nishat-mills-downplays-us-tariff-benefit-report",
+   "source": "Business Recorder",
+   "published": "2026-11-27T09:09:42+00:00",
+   "summary": "The management of Nishat Mills Ltd (NML), one of Pakistan’s largest textile exporters, said benefits from lower US tariffs on Pakistan will be limited because most of its exports go to Europe. The company’s management said this during a corporate briefing session on Friday, according to a research note from Topline Sec…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX sheds 397 points amid profit-taking",
+   "url": "https://tribune.com.pk/story/2642672/psx-sheds-397-points-amid-profit-taking",
+   "source": "The Express Tribune",
+   "published": "2026-11-27T07:59:23+00:00",
+   "summary": "KSE-100 Index closes at 177,664, gains only 281 points in flat week",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -201,7 +331,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T06:49:38+00:00",
    "summary": "Pakistan has asked China for preferential, zero-tariff access for its goods to lift annual exports to China from about $3 billion to $20-25 billion, Planning Minister Ahsan Iqbal said after meeting a senior Chinese Communist Party official. According to a statement, Iqbal raised the request with Liu Haixing, Minister o…",
-   "image": "https://i.brecorder.com/large/2026/11/271149090ff024d.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -214,7 +344,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T06:25:41+00:00",
    "summary": "BANGKOK: The Thai baht was steady against the US dollar on Friday . At 0230 GMT, the baht was 0.01% higher at 34.03 versus the dollar, after trading in a range of 34.040 to 34.060. It ended the previous session at 34.035 per dollar, as per LSEG data.",
-   "image": "https://i.brecorder.com/large/2026/10/06110522285e208.gif",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -227,7 +357,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T06:13:27+00:00",
    "summary": "BANGKOK: Thailand’s customs-cleared exports rose 27.5% in October from a year earlier, the highest rate in five years, the commerce ministry said on Friday. The October reading was above the forecast increase of 26.2% in a Reuters poll. Imports rose 53.2% in October from a year earlier, compared with the poll’s forecas…",
-   "image": "https://i.brecorder.com/large/2026/11/271113033c3e25f.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -240,7 +370,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T06:08:09+00:00",
    "summary": "HONG KONG: China’s yuan edged lower against the US dollar on Friday even as the central bank lifted its daily midpoint guidance to a fresh more than four-year high, curbed by a firm greenback on growing expectations of near-term rate hikes. Sentiment was also weighed by US President Donald Trump’s new tariff threat. Th…",
-   "image": "https://i.brecorder.com/large/2026/01/151045427d1257b.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -253,24 +383,11 @@
    "source": "Business Recorder",
    "published": "2026-11-27T05:54:34+00:00",
    "summary": "MUMBAI: Indian government bonds tumbled in early deals on Friday, pinched by higher oil prices one week before the central bank’s monetary policy decision, while investors also remained cautious in the face of large fresh debt supply through the weekly auction. The benchmark 6.94% 2036 bond yield traded at 7.2696% as o…",
-   "image": "https://i.brecorder.com/large/2026/10/161136359842b40.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
    "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Oil on track to snap 3-week losing streak over supply fears",
-   "url": "https://www.brecorder.com/news/40450986/oil-on-track-to-snap-3-week-losing-streak-over-supply-fears",
-   "source": "Business Recorder",
-   "published": "2026-11-27T05:44:02+00:00",
-   "summary": "SINGAPORE: Oil prices rose slightly on Friday and are on track to snap a three-week losing streak as ongoing attacks on tankers in the Strait of Hormuz and Saudi energy infrastructure heightened concerns over oil supply from the conflict-hit Middle East. Brent crude futures rose 4 cents to $96.61 a barrel by 0450 GMT, …",
-   "image": "https://i.brecorder.com/large/2025/04/070743017419633.jpg",
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
    "domestic": false
   },
   {
@@ -279,7 +396,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T05:39:13+00:00",
    "summary": "MUMBAI: India and the United States are close to wrapping up a long-anticipated trade deal, Trade Minister Piyush Goyal said on Friday, signalling progress in talks as both sides seek to avert higher US tariffs on Indian imports. The comments came after US Trade Representative Jamieson Greer said on Wednesday Washingto…",
-   "image": "https://i.brecorder.com/large/2026/03/0622022992eb85a.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -287,12 +404,12 @@
    "domestic": false
   },
   {
-   "title": "Pakistan stocks among world's top performers in November: Bloomberg",
-   "url": "https://www.brecorder.com/news/40451002/pakistan-stocks-among-worlds-top-performers-in-november-bloomberg",
-   "source": "Business Recorder",
-   "published": "2026-11-27T05:28:50+00:00",
-   "summary": "The Pakistan Stock Exchange (PSX) emerged as the fourth-best performer among selected global equity markets in November, gaining 7.3% month-to-date in local currency terms, according to data compiled by Bloomberg through November 25. Pakistan trailed only India’s equity market, which advanced 12.6%, Dubai’s 10.2% and Q…",
-   "image": "https://i.brecorder.com/large/2026/11/27142640bff388a.webp",
+   "title": "Pakistan seeks zero-tariff access to China, eyes $25b export target",
+   "url": "https://tribune.com.pk/story/2642641/pakistan-seeks-zero-tariff-access-to-china-eyes-25b-export-target",
+   "source": "The Express Tribune",
+   "published": "2026-11-27T04:39:30+00:00",
+   "summary": "Planning Minister Ahsan Iqbal cites tariff concessions given to African countries as a possible model",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -305,7 +422,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T04:03:12+00:00",
    "summary": "US President Donald Trump on Thursday demanded an immediate probe into what he alleged was a deliberate decision to release “fake” growth ​numbers before this month’s midterm elections. The US Commerce Department’s Bureau of Economic Analysis ‌on Wednesday revised third-quarter annualized growth up to 4.3% from the adv…",
-   "image": "https://i.brecorder.com/large/2026/11/27090056e9a2eda.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -318,7 +435,7 @@
    "source": "Dawn",
    "published": "2026-11-27T03:47:06+00:00",
    "summary": null,
-   "image": "https://i.dawn.com/large/2026/01/080824234db8c99.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -331,7 +448,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T03:06:38+00:00",
    "summary": "BEIJING: Mercedes-Benz plans to set ​up a new joint ‌venture in Beijing to procure passenger vehicle ​components for ​supply to its manufacturing venture ⁠with BAIC ​Motor, according to a ​filing with China’s market regulator on Friday. Under the ​arrangement, Mercedes-Benz China ​will hold a 70% stake ‌in ⁠the new com…",
-   "image": "https://i.brecorder.com/large/2026/11/270805163055316.webp",
+   "image": null,
    "topics": [
     "Procurement"
    ],
@@ -344,7 +461,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T03:01:34+00:00",
    "summary": "MUMBAI: The Indian rupee’s recent rally faces a fresh test from rising oil prices , though sustained foreign inflows and positive sentiment towards local assets ​are expected to help cushion the currency. The Indian rupee is expected to ‌open largely flat, having settled at 92.4450 to the dollar on Thursday. The South …",
-   "image": "https://i.brecorder.com/large/2026/11/270758541ca9304.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -357,7 +474,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T02:58:13+00:00",
    "summary": "SYDNEY: Asian shares were set to end a bruising month on a steadier note as a holiday lull offered some respite from AI jitters, while the ​dollar reigned supreme, riding a wave of safe-haven demand and rate hike bets towards a third month of gains. Oil prices were headed ‌for the first weekly rise in four on renewed c…",
-   "image": "https://i.brecorder.com/large/2026/11/260744392e806bf.jpg",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -370,7 +487,7 @@
    "source": "Business Recorder",
    "published": "2026-11-27T02:53:00+00:00",
    "summary": "TOKYO: The US dollar hovered below a 22-month peak in holiday-thinned trading on Friday , with traders looking to equity markets for clues on ​direction as doubts about the AI trade triggers heightened volatility. The dollar ‌index , which measures the currency against a basket of six peers, was steady at 103.81, at th…",
-   "image": "https://i.brecorder.com/large/2026/11/270750479edcfe5.webp",
+   "image": null,
    "topics": [
     "Economy"
    ],
@@ -383,19 +500,6 @@
    "source": "Business Recorder",
    "published": "2026-11-27T01:14:43+00:00",
    "summary": "FRANKFURT: Euro zone bond yields climbed on Thursday after four straight sessions of declines, as a recovery in global stock markets and a rise in oil prices prompted investors to dial back demand for safe-haven assets. Markets showed little obvious reaction to the news that Spain’s Pablo Hernandez de Cos was set to be…",
-   "image": "https://i.brecorder.com/large/2026/11/2706160790d74a3.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "New tier introduced in PM youth loan scheme",
-   "url": "https://tribune.com.pk/story/2642554/new-tier-introduced-in-pm-youth-loan-scheme",
-   "source": "The Express Tribune",
-   "published": "2026-11-26T16:21:16+00:00",
-   "summary": "SBP issues circular; financing limit raised up to Rs25m at 8% end-user rate",
    "image": null,
    "topics": [
     "Economy"
@@ -410,58 +514,6 @@
    "published": "2026-11-26T16:21:16+00:00",
    "summary": "KSE-100 settles at 178,061 after marginal 61-point decline",
    "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Govt revives Rs25b oil windfall tax",
-   "url": "https://tribune.com.pk/story/2642546/govt-revives-rs25b-oil-windfall-tax",
-   "source": "The Express Tribune",
-   "published": "2026-11-26T16:21:15+00:00",
-   "summary": "Panel seeks 20% levy on refineries' additional quarterly gains, excluding OMCs",
-   "image": null,
-   "topics": [
-    "Budget & spending"
-   ],
-   "relevant": true,
-   "domestic": false
-  },
-  {
-   "title": "Under GSP+, Pakistan looks to expand agri-exports",
-   "url": "https://tribune.com.pk/story/2642549/under-gsp-pakistan-looks-to-expand-agri-exports",
-   "source": "The Express Tribune",
-   "published": "2026-11-26T16:21:15+00:00",
-   "summary": "Focus on better farming practices, value addition to enhance EU market share",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Spike in oil prices partly reverses rupee rally, forward premiums surge",
-   "url": "https://www.brecorder.com/news/40450879/spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge",
-   "source": "Business Recorder",
-   "published": "2026-11-26T15:04:16+00:00",
-   "summary": "MUMBAI: The Indian rupee fell on Thursday for the second time in three sessions this week, as rising oil prices and weakness in regional currencies eroded its recent support. The rupee swung between 92.65 and 92.33 before closing 0.2% lower at 92.4450 against the US dollar amid broad demand for the greenback. Brent cru…",
-   "image": "https://i.brecorder.com/large/2026/11/260753201ca9304.webp",
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Why are Indian rice prices rising despite record stocks?",
-   "url": "https://www.brecorder.com/news/40450878/why-are-indian-rice-prices-rising-despite-record-stocks",
-   "source": "Business Recorder",
-   "published": "2026-11-26T15:01:27+00:00",
-   "summary": "MUMBAI: Prices of some rice varieties popular in southern India have nearly doubled over the past year, pushing the national average up 12.5% in October from a year earlier even as government stocks sit at record levels. The increase lifted food inflation to its highest level in nearly two years, complicating New Delhi…",
-   "image": "https://i.brecorder.com/large/2021/11/6183066fde97d.jpg",
    "topics": [
     "Economy"
    ],
@@ -487,7 +539,7 @@
    "source": "Dawn",
    "published": "2026-11-25T02:39:48+00:00",
    "summary": null,
-   "image": "https://i.dawn.com/large/2021/08/612458685b135.jpg",
+   "image": null,
    "topics": [
     "Budget & spending"
    ],
@@ -506,6 +558,72 @@
     "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "Qatar LNG exports reach highest level since war began despite Strait of Hormuz risks",
+   "url": "https://arynews.tv/qatar-lng-exports-reach-highest-level-since-war-began-despite-strait-of-hormuz-risks",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Qatar LNG exports reach highest level since war began despite Strait of Hormuz risks",
+   "image": null,
+   "topics": [
+    "Energy & power",
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln",
+   "url": "https://arynews.tv/pakistan-seeks-zero-tariff-access-to-chinese-market-to-boost-exports-to-us-25bln",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan seeks zero-tariff access to Chinese market to boost exports to US$ 25bln",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "PSX: Stock closes as KSE-100 index sheds 60 points",
+   "url": "https://arynews.tv/psx-stock-closes-as-kse-100-index-sheds-60-points",
+   "source": "ARY News",
+   "published": null,
+   "summary": "PSX: Stock closes as KSE-100 index sheds 60 points",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Pakistan’s mobile phone imports surge 25.21% in October 2026",
+   "url": "https://arynews.tv/pakistans-mobile-phone-imports-surge-25-21-in-october-2026",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Pakistan’s mobile phone imports surge 25.21% in October 2026",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": false
+  },
+  {
+   "title": "Another imported wheat shipment arrives at KPT",
+   "url": "https://arynews.tv/another-imported-wheat-shipment-arrives-at-kpt",
+   "source": "ARY News",
+   "published": null,
+   "summary": "Another imported wheat shipment arrives at KPT",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   }
  ]
