@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T19:23:23+00:00",
- "count": 47,
- "relevant_count": 8,
- "domestic_count": 16,
+ "generated": "2026-11-28T02:10:32+00:00",
+ "count": 52,
+ "relevant_count": 13,
+ "domestic_count": 23,
  "sources": {
   "Dawn": "ok (13)",
   "Business Recorder": "ok (16)",
@@ -10,6 +10,149 @@
   "ARY News": "ok (5)"
  },
  "stories": [
+  {
+   "title": "SNGPL shareholders approve 30pc cash dividend for FY25-26",
+   "url": "https://www.brecorder.com/news/40451082/sngpl-shareholders-approve-30pc-cash-dividend-for-fy25-26",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "LAHORE: The shareholders, at 62nd Annual General Meeting of Sui Northern Gas Pipelines Limited approved the annual audited financial statements for the financial year ended June 30, 2026. The company posted a profit before levy and income tax of Rs 34,656 million, an increase of approximately 42 percent over Rs 24,446 …",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "KMC City Council approves 34 resolutions",
+   "url": "https://www.brecorder.com/news/40451085/kmc-city-council-approves-34-resolutions",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "KARACHI: The Karachi Metropolitan Corporation (KMC) City Council on Friday approved 34 resolutions covering infrastructure development, healthcare, public land protection and municipal services, including Rs249.823 million for the rehabilitation of Burns Road Food Street and an annual grant of Rs100 million to Karachi …",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "Small and Medium-sized Enterprises: Banks ordered to ease lending requirements",
+   "url": "https://www.brecorder.com/news/40451094/small-and-medium-sized-enterprises-banks-ordered-to-ease-lending-requirements",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday directed banks to ease lending requirements for small and medium-sized enterprises (SMEs), including allowing business cash flows and digital export records to serve as alternatives to conventional collateral. Chairing a meeting on improving access to finance for SMEs,…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Pakistan, KSA and Turkiye condemn attacks by Houthis",
+   "url": "https://www.brecorder.com/news/40451095/pakistan-ksa-and-turkiye-condemn-attacks-by-houthis",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: Pakistan, Saudi Arabia and Türkiye on Friday reaffirmed their commitment to collective defence, mutual solidarity and enhanced military cooperation, strongly condemning persistent attacks by the Houthi militia targeting civilians and civilian infrastructure in the Kingdom of Saudi Arabia. The three countries…",
+   "image": null,
+   "topics": [
+    "Construction & projects"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "NAB launches probe into ‘irregularities’ in two power projects",
+   "url": "https://www.brecorder.com/news/40451096/nab-launches-probe-into-irregularities-in-two-power-projects",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: The National Accountability Bureau (NAB) has initiated an inquiry into alleged irregularities in two major transmission-sector projects involving the Ministry of Energy (Power Division), National Grid Company (NGC) and other officials, seeking explanations and relevant inquiry reports from the Power Division…",
+   "image": null,
+   "topics": [
+    "Energy & power"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Karachi, Lahore, Islamabad: FBR revises jurisdiction of IR officers",
+   "url": "https://www.brecorder.com/news/40451098/karachi-lahore-islamabad-fbr-revises-jurisdiction-of-ir-officers",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: The Federal Board of Revenue (FBR) has revised the jurisdiction of its Intelligence and Investigation (Inland Revenue) officers in Karachi, Lahore and Islamabad by changing the allocation of Federal Excise cases among various field formations, following the restructuring of tax offices in these cities. The F…",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ECC approves enhancement of wheat import ceiling to 2.5MT",
+   "url": "https://www.brecorder.com/news/40451101/ecc-approves-enhancement-of-wheat-import-ceiling-to-25mt",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: The Economic Coordination Committee (ECC) of the cabinet approved enhancement of wheat import ceiling to 2.5 million metric tonnes to ensure supplies and stabilize prices. A virtual meeting of ECC with Federal Minister for Finance and Revenue Muhammad Aurangzeb in the chair, on Friday approved in principle t…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "Weekly SPI-based inflation dips 0.11pc",
+   "url": "https://www.brecorder.com/news/40451104/weekly-spi-based-inflation-dips-011pc",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: The Sensitive Price Index (SPI)-based inflation decreased by 0.11 percent during the week ended November 26, mainly due to a declining trend in the prices of tomatoes, which fell by 23.92 percent, onions by 21.27 percent and Liquefied Petroleum Gas (LPG) was down by 7.78 percent. The SPI data released on Fri…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
+  {
+   "title": "CPGCL board recommends independent probe against CEO",
+   "url": "https://www.brecorder.com/news/40451106/cpgcl-board-recommends-independent-probe-against-ceo",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: The Board of Directors of Central Power Generation Company Limited (CPGCL), also known as GENCO-II, has approached the Power Division to constitute independent inquiry committees into alleged financial losses, procurement irregularities, misuse of authority and other pending complaints against its Chief Oper…",
+   "image": null,
+   "topics": [
+    "Procurement"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "ATL expanded by 25pc to over 8m active taxpayers",
+   "url": "https://www.brecorder.com/news/40451108/atl-expanded-by-25pc-to-over-8m-active-taxpayers",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: The number of income taxpayers on the Active Taxpayer List (ATL) has considerably increased to 8.012 million as of November 27, 2026, compared to 6.410 million during the corresponding period last year, reflecting an increase of 1.602 million, or 25 percent. The Federal Board of Revenue (FBR) has issued upda…",
+   "image": null,
+   "topics": [
+    "Budget & spending"
+   ],
+   "relevant": true,
+   "domestic": true
+  },
+  {
+   "title": "PM directs PCSIR labs to obtain int’l accreditation",
+   "url": "https://www.brecorder.com/news/40451113/pm-directs-pcsir-labs-to-obtain-intl-accreditation",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "ISLAMABAD: Prime Minister Shehbaz Sharif on Friday directed all laboratories of the Pakistan Council of Scientific and Industrial Research (PCSIR) to obtain international accreditation to help Pakistani products meet global standards and boost exports. Chairing a meeting to review the organisation’s performance, the pr…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
+   "domestic": true
+  },
   {
    "title": "Govt increases wheat import ceiling to curb price increases",
    "url": "https://www.dawn.com/news/2047509/govt-increases-wheat-import-ceiling-to-curb-price-increases",
@@ -19,45 +162,6 @@
    "image": null,
    "topics": [
     "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Man rescued alive 2 days after building collapse in Karachi’s Baloch Colony",
-   "url": "https://www.brecorder.com/news/40451021/man-rescued-alive-2-days-after-building-collapse-in-karachis-baloch-colony",
-   "source": "Business Recorder",
-   "published": "2026-11-27T16:12:08+00:00",
-   "summary": "A man trapped for two days beneath the rubble of a collapsed six-storey under-construction building near Karachi’s Baloch Colony was rescued alive on Friday. During an ongoing search operation in Sector C of the collapse site, rescue personnel located and safely extricated the trapped victim. The survivor was identifie…",
-   "image": null,
-   "topics": [
-    "Construction & projects"
-   ],
-   "relevant": true,
-   "domestic": true
-  },
-  {
-   "title": "SBP issues Rs200 commemorative coin honouring Mata Sahib Hasi Devi",
-   "url": "https://www.brecorder.com/news/40451041/sbp-issues-rs200-commemorative-coin-honouring-mata-sahib-hasi-devi",
-   "source": "Business Recorder",
-   "published": "2026-11-27T15:42:47+00:00",
-   "summary": "The State Bank of Pakistan (SBP) issued on Friday a Rs200 commemorative coin to honour the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, recognising her religious and cultural significance. “To commemorate the religious and cultural significance of 200th Birth Anniversary of Pujya Mata Sahib Hasi Devi with due…",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "The cost of keeping the ovens on",
-   "url": "https://www.brecorder.com/news/40450883/the-cost-of-keeping-the-ovens-on",
-   "source": "Business Recorder",
-   "published": "2026-11-27T15:13:31+00:00",
-   "summary": "My grandmother, Bakhtawer, founded Cillie’s Bakery in Karachi in 1970. Instead of deciding which cake to make next, she spends much of her day working out how to keep the ovens running. She has to ration petrol and kerosene for the generators, plan baking around electricity and gas shortages and sometimes arrange cylin…",
-   "image": null,
-   "topics": [
-    "Energy & power"
    ],
    "relevant": false,
    "domestic": true
@@ -96,20 +200,6 @@
    "summary": "ISLAMABAD: Short-term inflation was recorded at 9.49 per cent year-on-year in the week ending on Nov 26, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday. The index comprises 51 items, with prices collected from 50 markets in 17 cities, and i…",
    "image": null,
    "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": true
-  },
-  {
-   "title": "Ismail Industries expands solar capacity to 18 MW with Hub project",
-   "url": "https://www.brecorder.com/news/40451028/ismail-industries-expands-solar-capacity-to-18-mw-with-hub-project",
-   "source": "Business Recorder",
-   "published": "2026-11-27T11:44:17+00:00",
-   "summary": "Ismail Industries Ltd, a Pakistani confectioner, is developing a 5.6-megawatt solar park at its Hub facility, integrated with a 10-megawatt-hour battery energy storage system. The listed company disclosed the development in a notice to the Pakistan Stock Exchange (PSX) on Friday. “The project incorporates Sungrow’s adv…",
-   "image": null,
-   "topics": [
-    "Energy & power",
     "Economy"
    ],
    "relevant": false,
@@ -222,16 +312,30 @@
    "domestic": true
   },
   {
-   "title": "Makkah pact countries condemn Houthi attacks on Saudi Arabia, reaffirm collective defence",
-   "url": "https://www.brecorder.com/news/40451040/makkah-pact-countries-condemn-houthi-attacks-on-saudi-arabia-reaffirm-collective-defence",
+   "title": "‘Apna Ghar’ lending target",
+   "url": "https://www.brecorder.com/news/40451076/apna-ghar-lending-target",
    "source": "Business Recorder",
-   "published": "2026-11-27T17:30:25+00:00",
-   "summary": "Pakistan, Saudi Arabia, and Turkiye issued a strong joint condemnation of “persistent and heinous attacks” by Yemen’s Houthis targeting civilians and civilian infrastructure in the Kingdom, pledging to intensify collective defence measures to safeguard Saudi sovereignty and territorial integrity. The development came a…",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "EDITORIAL: While addressing a ceremony marking the disbursement of 112 billion rupees in loans under the housing scheme, Prime Minister Shehbaz Sharif declared that there would be no limit on the number of homes the government would finance for the deserving poor. A detailed national housing policy was launched in Marc…",
    "image": null,
    "topics": [
-    "Construction & projects"
+    "Construction & projects",
+    "Economy"
    ],
    "relevant": true,
+   "domestic": false
+  },
+  {
+   "title": "OPEC+ set to keep oil production targets steady",
+   "url": "https://www.brecorder.com/news/40451105/opec-set-to-keep-oil-production-targets-steady",
+   "source": "Business Recorder",
+   "published": "2026-11-27T21:09:37+00:00",
+   "summary": "MOSCOW/LONDON: OPEC+ oil producers are set to keep first-quarter 2027 output targets unchanged at Sunday’s meeting, three sources told Reuters, with uncertainty over the Iran war and disagreements over capacity estimates clouding discussions. OPEC+ includes the Organization of the Petroleum Exporting Countries and alli…",
+   "image": null,
+   "topics": [
+    "Economy"
+   ],
+   "relevant": false,
    "domestic": false
   },
   {
@@ -287,50 +391,11 @@
    "domestic": false
   },
   {
-   "title": "PM urges easing of SME lending; use export data, cash flow as collateral",
-   "url": "https://www.brecorder.com/news/40451025/pm-urges-easing-of-sme-lending-use-export-data-cash-flow-as-collateral",
-   "source": "Business Recorder",
-   "published": "2026-11-27T10:38:13+00:00",
-   "summary": "Prime Minister Shehbaz Sharif on Friday directed banks and regulators to make it easier for small and medium enterprises (SMEs) to access credit. Chairing a meeting regarding SME financing, the prime minister directed authorities that the procedure for obtaining loans for SMEs be further simplified and that effective g…",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Nishat Mills downplays US tariff benefit: report",
-   "url": "https://www.brecorder.com/news/40451022/nishat-mills-downplays-us-tariff-benefit-report",
-   "source": "Business Recorder",
-   "published": "2026-11-27T09:09:42+00:00",
-   "summary": "The management of Nishat Mills Ltd (NML), one of Pakistan’s largest textile exporters, said benefits from lower US tariffs on Pakistan will be limited because most of its exports go to Europe. The company’s management said this during a corporate briefing session on Friday, according to a research note from Topline Sec…",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
    "title": "PSX sheds 397 points amid profit-taking",
    "url": "https://tribune.com.pk/story/2642672/psx-sheds-397-points-amid-profit-taking",
    "source": "The Express Tribune",
    "published": "2026-11-27T07:59:23+00:00",
    "summary": "KSE-100 Index closes at 177,664, gains only 281 points in flat week",
-   "image": null,
-   "topics": [
-    "Economy"
-   ],
-   "relevant": false,
-   "domestic": false
-  },
-  {
-   "title": "Pakistan seeks zero-tariff access for goods in talks with China",
-   "url": "https://www.brecorder.com/news/40451018/pakistan-seeks-zero-tariff-access-for-goods-in-talks-with-china",
-   "source": "Business Recorder",
-   "published": "2026-11-27T06:49:38+00:00",
-   "summary": "Pakistan has asked China for preferential, zero-tariff access for its goods to lift annual exports to China from about $3 billion to $20-25 billion, Planning Minister Ahsan Iqbal said after meeting a senior Chinese Communist Party official. According to a statement, Iqbal raised the request with Liu Haixing, Minister o…",
    "image": null,
    "topics": [
     "Economy"
