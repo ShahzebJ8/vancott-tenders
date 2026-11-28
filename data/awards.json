@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T02:10:26+00:00",
+ "generated": "2026-11-28T10:47:29+00:00",
  "count": 1015,
  "with_value": 964,
  "with_winner": 364,
@@ -19805,6 +19805,26 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000005563",
+   "tender_no": null,
+   "reference": "FFW10809",
+   "title": "Procurement of Stationery and miscellaneous items Stationery",
+   "organisation": "Wafaqi Mohtasib (Ombudsman) Secretariat Wafaqi Mohtasib Secretariat Regional Office Peshawar - Pakistan",
+   "bid_count": 2,
+   "lowest": [
+    "2 Wafaqi Mohtasib (Ombudsman) Secretariat"
+   ],
+   "sector": null,
+   "evaluation_type": "PQ Evaluation",
+   "advertised": "2026-11-27",
+   "city": "Peshawar",
+   "province": "Khyber Pakhtunkhwa",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005563",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000005559",
    "tender_no": "TS0000017688E",
    "reference": "D11442",
@@ -20959,6 +20979,46 @@
    "matched_terms": []
   },
   {
+   "evaluation_no": "EVL00000005495",
+   "tender_no": "TS0000014176E",
+   "reference": "CSF/1/P/2026-27 CSF/2/P/2026-27 CSF/3/P/2026-27 CSF/4/P/2026-27",
+   "title": "Supply of Sulphate Resisting Cement and HTS Wire Civil Goods",
+   "organisation": "Pakistan Railways Pakistan Railways Lahore - Pakistan",
+   "bid_count": 6,
+   "lowest": [
+    "Risen Pro Industry (Pvt) Limited"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-26",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005495",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005494",
+   "tender_no": "TS0000014003E",
+   "reference": "W-3/CSF/SAND/KWL/2025-26",
+   "title": "Supply of Dry Sand at CSF/Khanewal Civil Goods",
+   "organisation": "Pakistan Railways Pakistan Railways Lahore - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Zulfiqar and company"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-26",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005494",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
    "evaluation_no": "EVL00000005493",
    "tender_no": "TS0000015743E",
    "reference": "T-2090 Toners",
@@ -21014,6 +21074,26 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005491",
+   "is_smd": false,
+   "smd_score": 0,
+   "matched_terms": []
+  },
+  {
+   "evaluation_no": "EVL00000005490",
+   "tender_no": "TS0000014009E",
+   "reference": "CSF/5/P/2026-27 W-1/CSF/Agg:/KWL/2026-27 W-2/CSF/Sand/SUK/2026-27",
+   "title": "Supply of Dry Sand for CSF/Sukkur, Supply of Crushed Stone Aggregate for CSF/Khanewal and Supply of M.S Anchorage Plate for CSF/Sukkur Civil Goods",
+   "organisation": "Pakistan Railways Pakistan Railways Lahore - Pakistan",
+   "bid_count": 3,
+   "lowest": [
+    "Ms GHULAM DASTAGIR CONSTRUCTION company, Zulfiqar & Company"
+   ],
+   "sector": null,
+   "evaluation_type": "Final Evaluation",
+   "advertised": "2026-11-25",
+   "city": "Lahore",
+   "province": "Punjab",
+   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000005490",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
@@ -58214,86 +58294,6 @@
    "city": "Islamabad",
    "province": "Islamabad",
    "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003499",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003498",
-   "tender_no": "TS0000011434E",
-   "reference": "P76597",
-   "title": "Office Stationery and Computer Stationery Stationery",
-   "organisation": "Ministry of Defence Controller Naval Accounts Karachi - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Al-Abbas Trader"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-15",
-   "city": "Karachi",
-   "province": "Sindh",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003498",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003497",
-   "tender_no": "TS0000011334E",
-   "reference": "KRK/TE/004/2026",
-   "title": "KRK/TE/004/2026 Miscellaneous",
-   "organisation": "Sui Northern Gas Pipelines Limited (SNGPL) SNGPL Islamabad - Pakistan",
-   "bid_count": 4,
-   "lowest": [
-    "Ms/ Nuha construction company and M/s:pak multienterprises, M/s: Makka traders,"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-15",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003497",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003496",
-   "tender_no": "TS0000009669E",
-   "reference": "PTA/EA/Annual Report/179/2026/1",
-   "title": "Editing Proofreading of PTA Annual Report 2026 Services",
-   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
-   "bid_count": 2,
-   "lowest": [
-    "WeFixIt Together Cabinet Division"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-15",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003496",
-   "is_smd": false,
-   "smd_score": 0,
-   "matched_terms": []
-  },
-  {
-   "evaluation_no": "EVL00000003495",
-   "tender_no": "TS0000009670E",
-   "reference": "Designing of PTA Annual Report 2026",
-   "title": "PTA/EA/Annual Report/2026/2 Services",
-   "organisation": "Cabinet Division PTA Islamabad - Pakistan",
-   "bid_count": 1,
-   "lowest": [
-    "Redon Films (Private) Limited Cabinet Division"
-   ],
-   "sector": null,
-   "evaluation_type": "Final Evaluation",
-   "advertised": "2026-09-15",
-   "city": "Islamabad",
-   "province": "Islamabad",
-   "url": "https://epms.ppra.gov.pk/public/evaluations/evaluation-details/EVL00000003495",
    "is_smd": false,
    "smd_score": 0,
    "matched_terms": []
